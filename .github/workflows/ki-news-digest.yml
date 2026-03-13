@@ -12,23 +12,23 @@ jobs:
       contents: write
 
     steps:
-      - name: Repository auschecken
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Node.js einrichten
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Abhaengigkeiten installieren
+      - name: Install dependencies
         run: npm install --prefix scripts
 
-      - name: Digest generieren
+      - name: Generate digest
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/generate-digest.js
 
-      - name: Digest committen
+      - name: Commit digest
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
