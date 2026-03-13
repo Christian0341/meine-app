@@ -1,0 +1,43 @@
+name: 🤖 KI-News Digest
+
+on:
+  schedule:
+    # Täglich um 06:00 UTC (= 07:00 MEZ / 08:00 MESZ)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    # Manueller Start jederzeit möglich (für Tests)
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Damit der Workflow JSON-Datei ins Repo schreiben darf
+
+    steps:
+      - name: 📥 Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: 🟢 Node.js einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 Abhängigkeiten installieren
+        run: |
+          cd scripts
+          npm install
+
+      - name: 🤖 Digest generieren
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          cd scripts
+          node generate-digest.js
+
+      - name: 💾 Digest ins Repository committen
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/digest.json
+          git diff --staged --quiet || git commit -m "🤖 KI-News Digest $(date +'%Y-%m-%d')"
+          git push
