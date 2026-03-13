@@ -23,16 +23,10 @@ jobs:
           node-version: '20'
 
       - name: 📦 Abhängigkeiten installieren
-        run: |
-          cd scripts
-          npm install
+        run: npm install --prefix scripts
 
       - name: 🤖 Digest generieren
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          cd scripts
-          node generate-digest.js
+        run: node scripts/generate-digest.js
 
       - name: 💾 Digest ins Repository committen
         run: |
