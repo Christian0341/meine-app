@@ -2,7 +2,6 @@
 // Ruft die Gemini API auf, generiert einen strukturierten KI-News Digest
 // und speichert ihn als data/digest.json im Repository.
 
-import fetch from 'node-fetch';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
