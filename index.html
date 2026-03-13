@@ -1,44 +1,459 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Meine App</title>
-  <link rel="manifest" href="/meine-app/manifest.json">
-  <meta name="theme-color" content="#111111">
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="icon.png" />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
   <style>
+    :root {
+      --bg:        #111111;
+      --card:      #1e1e1e;
+      --card2:     #252525;
+      --border:    #2a2a2a;
+      --accent:    #4f8ef7;
+      --accent2:   #7eb3ff;
+      --text:      #e8e8e8;
+      --muted:     #888888;
+      --muted2:    #555555;
+      --star:      #f5c542;
+      --radius:    12px;
+    }
+
     * { box-sizing: border-box; margin: 0; padding: 0; }
+
     body {
-      font-family: Arial, sans-serif;
-      background: #111111;
-      color: white;
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Sans', sans-serif;
+      min-height: 100vh;
+      padding-bottom: 80px;
+    }
+
+    /* ── Header ── */
+    header {
+      padding: 20px 20px 0;
       display: flex;
-      justify-content: center;
       align-items: center;
-      height: 100vh;
+      justify-content: space-between;
     }
-    .card {
-      background: #1e1e1e;
+
+    .logo {
+      font-family: 'Space Mono', monospace;
+      font-size: 13px;
+      color: var(--accent);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    .date-badge {
+      font-size: 11px;
+      color: var(--muted);
+      font-family: 'Space Mono', monospace;
+      background: var(--card);
+      padding: 4px 10px;
       border-radius: 20px;
-      padding: 40px 48px;
-      text-align: center;
-      border: 1px solid #2a2a2a;
+      border: 1px solid var(--border);
     }
-    h1 { font-size: 22px; font-weight: 600; color: #ffffff; margin-bottom: 10px; }
-    p  { font-size: 14px; color: #666666; margin-top: 8px; }
+
+    /* ── Hero ── */
+    .hero {
+      padding: 28px 20px 20px;
+    }
+
+    .hero-label {
+      font-size: 10px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--accent);
+      font-family: 'Space Mono', monospace;
+      margin-bottom: 10px;
+    }
+
+    .hero-title {
+      font-size: 22px;
+      font-weight: 600;
+      line-height: 1.35;
+      color: var(--text);
+      max-width: 340px;
+    }
+
+    .hero-title.loading {
+      background: var(--card);
+      border-radius: 6px;
+      color: transparent;
+      animation: pulse 1.5s ease infinite;
+      height: 60px;
+    }
+
+    /* ── Nav Tabs ── */
+    .nav-tabs {
+      display: flex;
+      gap: 8px;
+      padding: 0 20px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      margin-bottom: 24px;
+    }
+    .nav-tabs::-webkit-scrollbar { display: none; }
+
+    .tab {
+      flex-shrink: 0;
+      padding: 7px 14px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 500;
+      border: 1px solid var(--border);
+      background: var(--card);
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+    .tab.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+    .tab.disabled {
+      opacity: 0.35;
+      cursor: default;
+    }
+
+    /* ── Section ── */
+    .section {
+      padding: 0 20px;
+      display: none;
+    }
+    .section.active { display: block; }
+
+    /* ── Kategorie Block ── */
+    .kategorie {
+      margin-bottom: 28px;
+      animation: fadeUp 0.4s ease both;
+    }
+
+    .kategorie-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .kategorie-emoji { font-size: 16px; }
+
+    .kategorie-titel {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+    }
+
+    .kategorie-count {
+      font-size: 10px;
+      color: var(--muted2);
+      font-family: 'Space Mono', monospace;
+      margin-left: auto;
+    }
+
+    /* ── Artikel Card ── */
+    .artikel {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 16px;
+      margin-bottom: 10px;
+      transition: border-color 0.2s;
+    }
+    .artikel:active { border-color: var(--accent); }
+
+    .artikel-top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+
+    .artikel-titel {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.4;
+      flex: 1;
+    }
+
+    .sterne {
+      font-size: 10px;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+
+    .artikel-summary {
+      font-size: 13px;
+      color: #aaaaaa;
+      line-height: 1.55;
+      margin-bottom: 8px;
+    }
+
+    .artikel-insight {
+      font-size: 12px;
+      color: var(--accent2);
+      line-height: 1.5;
+      font-style: italic;
+      margin-bottom: 10px;
+      padding-left: 10px;
+      border-left: 2px solid var(--accent);
+    }
+
+    .artikel-footer {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .artikel-quelle {
+      font-size: 10px;
+      color: var(--muted2);
+      font-family: 'Space Mono', monospace;
+    }
+
+    .artikel-link {
+      font-size: 10px;
+      color: var(--accent);
+      text-decoration: none;
+      margin-left: auto;
+      font-family: 'Space Mono', monospace;
+    }
+
+    /* ── Bald verfügbar Cards ── */
+    .coming-soon {
+      background: var(--card);
+      border: 1px dashed var(--border);
+      border-radius: var(--radius);
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .coming-soon .cs-emoji { font-size: 32px; margin-bottom: 12px; }
+    .coming-soon .cs-title { font-size: 15px; font-weight: 600; margin-bottom: 6px; }
+    .coming-soon .cs-text { font-size: 12px; color: var(--muted); }
+
+    /* ── Leer-State ── */
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+    }
+    .empty-state .es-emoji { font-size: 40px; margin-bottom: 16px; }
+    .empty-state .es-title { font-size: 16px; font-weight: 600; margin-bottom: 8px; }
+    .empty-state .es-text { font-size: 13px; color: var(--muted); line-height: 1.6; }
+
+    /* ── Update Info ── */
+    .update-info {
+      text-align: center;
+      padding: 16px 20px 0;
+      font-size: 11px;
+      color: var(--muted2);
+      font-family: 'Space Mono', monospace;
+    }
+
+    /* ── Skeleton Loading ── */
+    .skeleton {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 16px;
+      margin-bottom: 10px;
+    }
+    .skel-line {
+      height: 12px;
+      background: var(--card2);
+      border-radius: 4px;
+      margin-bottom: 8px;
+      animation: pulse 1.5s ease infinite;
+    }
+    .skel-line.short { width: 60%; }
+    .skel-line.medium { width: 80%; }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(12px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
   </style>
 </head>
 <body>
-  <div class="card">
-    <h1>Meine persönliche App</h1>
-    <p>Phase 0 abgeschlossen — App ist live</p>
-    <p style="margin-top: 16px; font-size: 12px; color: #444;">christian0341.github.io/meine-app</p>
+
+  <header>
+    <span class="logo">⚡ Meine App</span>
+    <span class="date-badge" id="datumBadge">...</span>
+  </header>
+
+  <div class="hero">
+    <div class="hero-label">Tagesthema</div>
+    <div class="hero-title loading" id="heroTitle">Laden...</div>
   </div>
 
+  <nav class="nav-tabs">
+    <div class="tab active" onclick="showTab('news', this)">🤖 KI-News</div>
+    <div class="tab disabled" onclick="">📋 To-Dos</div>
+    <div class="tab disabled" onclick="">🍞 Rezepte</div>
+    <div class="tab disabled" onclick="">📈 Aktien</div>
+    <div class="tab disabled" onclick="">🧠 Skills</div>
+  </nav>
+
+  <!-- KI-News Section -->
+  <section class="section active" id="tab-news">
+    <div id="digestContent">
+      <!-- Skeleton -->
+      <div class="skeleton"><div class="skel-line medium"></div><div class="skel-line short"></div><div class="skel-line"></div></div>
+      <div class="skeleton"><div class="skel-line medium"></div><div class="skel-line short"></div><div class="skel-line"></div></div>
+      <div class="skeleton"><div class="skel-line medium"></div><div class="skel-line short"></div></div>
+    </div>
+    <div class="update-info" id="updateInfo"></div>
+  </section>
+
+  <!-- To-Dos -->
+  <section class="section" id="tab-todos">
+    <div class="coming-soon">
+      <div class="cs-emoji">📋</div>
+      <div class="cs-title">To-Dos</div>
+      <div class="cs-text">Kommt in Phase 3</div>
+    </div>
+  </section>
+
+  <!-- Rezepte -->
+  <section class="section" id="tab-rezepte">
+    <div class="coming-soon">
+      <div class="cs-emoji">🍞</div>
+      <div class="cs-title">Backrezepte</div>
+      <div class="cs-text">Kommt in Phase 4</div>
+    </div>
+  </section>
+
+  <!-- Aktien -->
+  <section class="section" id="tab-aktien">
+    <div class="coming-soon">
+      <div class="cs-emoji">📈</div>
+      <div class="cs-title">Aktienanalyse</div>
+      <div class="cs-text">Kommt in Phase 5</div>
+    </div>
+  </section>
+
+  <!-- Skills -->
+  <section class="section" id="tab-skills">
+    <div class="coming-soon">
+      <div class="cs-emoji">🧠</div>
+      <div class="cs-title">Skills & Prompts</div>
+      <div class="cs-text">Kommt in Phase 6</div>
+    </div>
+  </section>
+
   <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/meine-app/sw.js');
+    // ── Tab Navigation ────────────────────────────────────
+    function showTab(id, el) {
+      if (el.classList.contains('disabled')) return;
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+      el.classList.add('active');
+      document.getElementById('tab-' + id).classList.add('active');
     }
+
+    // ── Digest laden ──────────────────────────────────────
+    async function ladeDigest() {
+      try {
+        const res = await fetch('data/digest.json?v=' + Date.now());
+        const d = await res.json();
+
+        // Datum Badge
+        document.getElementById('datumBadge').textContent = d.datumISO || '–';
+
+        // Hero Titel
+        const hero = document.getElementById('heroTitle');
+        hero.classList.remove('loading');
+        hero.textContent = d.tagesthema || 'Kein Tagesthema verfügbar';
+
+        // Update Info
+        if (d.generiert_um) {
+          const dt = new Date(d.generiert_um);
+          document.getElementById('updateInfo').textContent =
+            'Aktualisiert ' + dt.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' }) + ' Uhr';
+        }
+
+        // Kategorien
+        const container = document.getElementById('digestContent');
+
+        if (!d.kategorien || d.kategorien.length === 0) {
+          container.innerHTML = `
+            <div class="empty-state">
+              <div class="es-emoji">🕐</div>
+              <div class="es-title">Noch kein Digest verfügbar</div>
+              <div class="es-text">Der erste Digest wird heute Nacht<br>automatisch generiert.</div>
+            </div>`;
+          return;
+        }
+
+        container.innerHTML = '';
+        d.kategorien.forEach((kat, ki) => {
+          const div = document.createElement('div');
+          div.className = 'kategorie';
+          div.style.animationDelay = (ki * 80) + 'ms';
+
+          const artikel = (kat.artikel || []).map(a => `
+            <div class="artikel">
+              <div class="artikel-top">
+                <div class="artikel-titel">${escHTML(a.titel)}</div>
+                <div class="sterne">${escHTML(a.sterne || '')}</div>
+              </div>
+              <div class="artikel-summary">${escHTML(a.zusammenfassung)}</div>
+              ${a.einordnung ? `<div class="artikel-insight">${escHTML(a.einordnung)}</div>` : ''}
+              <div class="artikel-footer">
+                <span class="artikel-quelle">${escHTML(a.quelle || '')}</span>
+                ${a.url ? `<a class="artikel-link" href="${escHTML(a.url)}" target="_blank" rel="noopener">↗ Lesen</a>` : ''}
+              </div>
+            </div>`).join('');
+
+          div.innerHTML = `
+            <div class="kategorie-header">
+              <span class="kategorie-emoji">${kat.emoji || ''}</span>
+              <span class="kategorie-titel">${escHTML(kat.titel)}</span>
+              <span class="kategorie-count">${(kat.artikel || []).length} Artikel</span>
+            </div>
+            ${artikel}`;
+
+          container.appendChild(div);
+        });
+
+      } catch (e) {
+        document.getElementById('digestContent').innerHTML = `
+          <div class="empty-state">
+            <div class="es-emoji">⚠️</div>
+            <div class="es-title">Fehler beim Laden</div>
+            <div class="es-text">Digest konnte nicht geladen werden.<br>Bitte später nochmal versuchen.</div>
+          </div>`;
+        document.getElementById('heroTitle').textContent = 'Digest nicht verfügbar';
+        document.getElementById('heroTitle').classList.remove('loading');
+      }
+    }
+
+    function escHTML(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    ladeDigest();
   </script>
 </body>
 </html>
