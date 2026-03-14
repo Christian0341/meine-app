@@ -85,7 +85,7 @@ async function generiereDigest() {
       contents: [{ parts: [{ text: PROMPT }] }],
     generationConfig: {
         temperature: 0.4,
-        maxOutputTokens: 4096
+       maxOutputTokens: 8192
       }
     })
   });
