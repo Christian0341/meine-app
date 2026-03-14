@@ -10,7 +10,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // ── Konfiguration ────────────────────────────────────────────────────────────
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL   = 'gemini-1.5-flash';
+const GEMINI_MODEL   = 'gemini-1.5-flash-latest';
 const OUTPUT_PATH    = path.join(__dirname, '..', 'data', 'digest.json');
 
 if (!GEMINI_API_KEY) {
@@ -76,7 +76,7 @@ Regeln:
 async function generiereDigest() {
   console.log(`🔍 Generiere KI-News Digest für ${datumLang}...`);
 
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
+  const url = `https://generativelanguage.googleapis.com/v1/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
 
   const response = await fetch(url, {
     method: 'POST',
