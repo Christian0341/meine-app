@@ -83,10 +83,9 @@ async function generiereDigest() {
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       contents: [{ parts: [{ text: PROMPT }] }],
-      generationConfig: {
+    generationConfig: {
         temperature: 0.4,
-        maxOutputTokens: 4096,
-        responseMimeType: 'application/json'  // Gemini gibt direkt JSON zurück
+        maxOutputTokens: 4096
       }
     })
   });
