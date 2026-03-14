@@ -10,7 +10,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // ── Konfiguration ────────────────────────────────────────────────────────────
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL   = 'gemini-2.5-flash-preview-04-17';
+const GEMINI_MODEL   = 'gemini-2.5-flash';
 const OUTPUT_PATH    = path.join(__dirname, '..', 'data', 'digest.json');
 
 if (!GEMINI_API_KEY) {
