@@ -31,124 +31,38 @@
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
-
-    body {
-      background: var(--bg);
-      color: var(--text);
-      font-family: 'Geist', sans-serif;
-      min-height: 100vh;
-      overflow-x: hidden;
-    }
+    body { background: var(--bg); color: var(--text); font-family: 'Geist', sans-serif; min-height: 100vh; overflow-x: hidden; }
 
     /* ── Topbar ── */
     .topbar {
       position: sticky; top: 0; z-index: 100;
       background: rgba(10,10,10,0.92);
-      backdrop-filter: blur(28px);
-      -webkit-backdrop-filter: blur(28px);
+      backdrop-filter: blur(28px); -webkit-backdrop-filter: blur(28px);
       border-bottom: 1px solid var(--border);
       height: 50px; padding: 0 16px;
       display: flex; align-items: center; justify-content: space-between;
     }
-
     .brand { display: flex; align-items: center; gap: 8px; }
-
-    .brand-mark {
-      width: 22px; height: 22px;
-      border: 1.5px solid var(--accent);
-      border-radius: 6px;
-      display: flex; align-items: center; justify-content: center;
-      font-family: 'Geist Mono', monospace;
-      font-size: 9px; font-weight: 700;
-      color: var(--accent);
-      letter-spacing: -0.05em;
-    }
-
-    .brand-logo {
-      font-family: 'Geist Mono', monospace;
-      font-size: 12px; font-weight: 700;
-      color: var(--accent-hi);
-      letter-spacing: -0.02em;
-    }
+    .brand-mark { width: 22px; height: 22px; border: 1.5px solid var(--accent); border-radius: 6px; display: flex; align-items: center; justify-content: center; font-family: 'Geist Mono', monospace; font-size: 9px; font-weight: 700; color: var(--accent); letter-spacing: -0.05em; }
+    .brand-logo { font-family: 'Geist Mono', monospace; font-size: 12px; font-weight: 700; color: var(--accent-hi); letter-spacing: -0.02em; }
     .brand-logo span { color: var(--text3); font-weight: 400; }
-
-    .topbar-right { display: flex; align-items: center; gap: 8px; }
-
-    .date-pill {
-      font-family: 'Geist Mono', monospace;
-      font-size: 9px; color: var(--text3);
-      background: var(--s2);
-      border: 1px solid var(--border);
-      padding: 3px 8px; border-radius: 5px;
-      letter-spacing: 0.04em;
-    }
+    .date-pill { font-family: 'Geist Mono', monospace; font-size: 9px; color: var(--text3); background: var(--s2); border: 1px solid var(--border); padding: 3px 8px; border-radius: 5px; letter-spacing: 0.04em; }
 
     /* ── Hero ── */
-    .hero {
-      padding: 20px 16px 16px;
-      border-bottom: 1px solid var(--border);
-      position: relative; overflow: hidden;
-    }
-
-    .hero::after {
-      content: '';
-      position: absolute;
-      right: -40px; top: -40px;
-      width: 180px; height: 180px;
-      background: radial-gradient(circle, rgba(255,255,255,0.025) 0%, transparent 65%);
-      pointer-events: none;
-    }
-
-    .hero-eyebrow {
-      display: flex; align-items: center; gap: 6px;
-      margin-bottom: 8px;
-    }
-
-    .hero-dot {
-      width: 5px; height: 5px;
-      border-radius: 50%;
-      background: var(--accent);
-      animation: pdot 2.5s ease infinite;
-    }
-
+    .hero { padding: 20px 16px 16px; border-bottom: 1px solid var(--border); position: relative; overflow: hidden; }
+    .hero::after { content: ''; position: absolute; right: -40px; top: -40px; width: 180px; height: 180px; background: radial-gradient(circle, rgba(255,255,255,0.025) 0%, transparent 65%); pointer-events: none; }
+    .hero-eyebrow { display: flex; align-items: center; gap: 6px; margin-bottom: 8px; }
+    .hero-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--accent); animation: pdot 2.5s ease infinite; }
     @keyframes pdot { 0%,100%{opacity:1} 50%{opacity:.25} }
-
-    .hero-label {
-      font-family: 'Geist Mono', monospace;
-      font-size: 9px; letter-spacing: 0.12em;
-      text-transform: uppercase; color: var(--text2);
-    }
-
-    .hero-title {
-      font-size: 17px; font-weight: 600;
-      line-height: 1.4; letter-spacing: -0.02em;
-      color: var(--text); max-width: 360px;
-    }
-
-    .hero-title.skeleton {
-      background: var(--s2); border-radius: 6px;
-      color: transparent; height: 58px;
-      animation: shimmer 1.8s ease infinite;
-    }
+    .hero-label { font-family: 'Geist Mono', monospace; font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text2); }
+    .hero-title { font-size: 17px; font-weight: 600; line-height: 1.4; letter-spacing: -0.02em; color: var(--text); max-width: 360px; }
+    .hero-title.skeleton { background: var(--s2); border-radius: 6px; color: transparent; height: 58px; animation: shimmer 1.8s ease infinite; }
 
     /* ── Nav ── */
-    .nav-wrap {
-      padding: 12px 16px;
-      border-bottom: 1px solid var(--border);
-      margin-bottom: 18px;
-    }
-
+    .nav-wrap { padding: 12px 16px; border-bottom: 1px solid var(--border); margin-bottom: 18px; }
     .nav-tabs { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; }
     .nav-tabs::-webkit-scrollbar { display: none; }
-
-    .tab {
-      flex-shrink: 0; padding: 5px 13px;
-      border-radius: 7px; font-size: 11px; font-weight: 500;
-      font-family: 'Geist', sans-serif;
-      border: 1px solid var(--border);
-      background: transparent; color: var(--text3);
-      cursor: pointer; transition: all 0.15s; white-space: nowrap;
-    }
+    .tab { flex-shrink: 0; padding: 5px 13px; border-radius: 7px; font-size: 11px; font-weight: 500; font-family: 'Geist', sans-serif; border: 1px solid var(--border); background: transparent; color: var(--text3); cursor: pointer; transition: all 0.15s; white-space: nowrap; }
     .tab:hover { background: var(--s2); color: var(--text2); border-color: var(--border2); }
     .tab.active { background: var(--accent-md); border-color: var(--border2); color: var(--accent-hi); }
 
@@ -156,156 +70,84 @@
     .section { display: none; padding: 0 16px 90px; }
     .section.active { display: block; }
 
-    /* ── Update info ── */
-    .update-info {
-      text-align: center; padding: 0 16px 12px;
-      font-family: 'Geist Mono', monospace;
-      font-size: 9px; color: var(--text3);
-      letter-spacing: 0.08em; text-transform: uppercase;
-    }
+    .update-info { text-align: center; padding: 0 16px 12px; font-family: 'Geist Mono', monospace; font-size: 9px; color: var(--text3); letter-spacing: 0.08em; text-transform: uppercase; }
 
-    /* ── KI-News Kategorien ── */
+    /* ── KI-News ── */
     .kategorie { margin-bottom: 26px; animation: fadeUp 0.3s ease both; }
-
     .kat-label { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
     .kat-line { flex: 1; height: 1px; background: var(--border); }
-    .kat-text {
-      font-family: 'Geist Mono', monospace; font-size: 9px;
-      font-weight: 500; letter-spacing: 0.1em;
-      text-transform: uppercase; color: var(--text3); white-space: nowrap;
-    }
+    .kat-text { font-family: 'Geist Mono', monospace; font-size: 9px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text3); white-space: nowrap; }
     .kat-count { font-family: 'Geist Mono', monospace; font-size: 9px; color: var(--text3); }
-
-    .artikel {
-      background: var(--s1); border: 1px solid var(--border);
-      border-radius: var(--r); padding: 13px 15px; margin-bottom: 7px;
-      transition: background 0.15s, border-color 0.15s;
-    }
+    .artikel { background: var(--s1); border: 1px solid var(--border); border-radius: var(--r); padding: 13px 15px; margin-bottom: 7px; transition: background 0.15s, border-color 0.15s; }
     .artikel:hover { background: var(--s2); border-color: var(--border2); }
-
     .artikel-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; margin-bottom: 6px; }
     .artikel-titel { font-size: 13px; font-weight: 600; color: var(--text); line-height: 1.4; letter-spacing: -0.01em; }
     .sterne { font-size: 8px; flex-shrink: 0; margin-top: 2px; opacity: 0.6; }
     .artikel-body { font-size: 12px; font-weight: 300; color: var(--text2); line-height: 1.65; margin-bottom: 8px; }
-    .artikel-insight {
-      font-size: 11px; color: var(--accent); line-height: 1.5;
-      margin-bottom: 10px; padding: 6px 10px;
-      background: var(--accent-lo); border-radius: 6px;
-      border-left: 1px solid rgba(232,232,232,0.3);
-    }
+    .artikel-insight { font-size: 11px; color: var(--accent); line-height: 1.5; margin-bottom: 10px; padding: 6px 10px; background: var(--accent-lo); border-radius: 6px; border-left: 1px solid rgba(232,232,232,0.3); }
     .artikel-foot { display: flex; align-items: center; justify-content: space-between; }
     .artikel-quelle { font-family: 'Geist Mono', monospace; font-size: 9px; color: var(--text3); letter-spacing: 0.05em; text-transform: uppercase; }
     .artikel-link { font-family: 'Geist Mono', monospace; font-size: 10px; color: var(--text2); text-decoration: none; transition: color 0.15s; }
     .artikel-link:hover { color: var(--accent-hi); }
 
-    /* ── YouTube Sektion ── */
-    .yt-section { margin-top: 32px; margin-bottom: 26px; }
+    /* ── Divider ── */
+    .section-divider { display: flex; align-items: center; gap: 8px; margin: 28px 0 14px; }
+    .section-divider-line { flex: 1; height: 1px; background: var(--border); }
+    .section-divider-label { font-family: 'Geist Mono', monospace; font-size: 9px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text3); white-space: nowrap; }
 
-    .yt-header {
-      display: flex; align-items: center; gap: 8px; margin-bottom: 14px;
-    }
-    .yt-line { flex: 1; height: 1px; background: var(--border); }
-    .yt-label {
-      font-family: 'Geist Mono', monospace; font-size: 9px;
-      font-weight: 500; letter-spacing: 0.1em;
-      text-transform: uppercase; color: var(--text3); white-space: nowrap;
-    }
-
-    .yt-grid {
-      display: flex; flex-direction: column; gap: 7px;
-    }
-
-    .yt-card {
+    /* ── YouTube Videos ── */
+    .yt-video {
       background: var(--s1); border: 1px solid var(--border);
-      border-radius: var(--r); padding: 12px 14px;
-      display: flex; align-items: center; gap: 12px;
+      border-radius: var(--r); margin-bottom: 8px;
       text-decoration: none; color: inherit;
+      display: flex; gap: 12px; padding: 10px;
       transition: background 0.15s, border-color 0.15s;
+      animation: fadeUp 0.3s ease both;
     }
-    .yt-card:hover { background: var(--s2); border-color: var(--border2); }
+    .yt-video:hover { background: var(--s2); border-color: var(--border2); }
 
     .yt-thumb {
-      width: 38px; height: 38px; border-radius: 8px;
-      background: var(--s3); flex-shrink: 0;
-      display: flex; align-items: center; justify-content: center;
-      font-size: 16px; overflow: hidden;
+      width: 96px; height: 54px; flex-shrink: 0;
+      border-radius: 6px; overflow: hidden;
+      background: var(--s3);
     }
-    .yt-thumb img { width: 100%; height: 100%; object-fit: cover; border-radius: 8px; }
+    .yt-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
 
-    .yt-info { flex: 1; min-width: 0; }
-    .yt-name { font-size: 12px; font-weight: 600; color: var(--text); margin-bottom: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-    .yt-desc { font-size: 11px; color: var(--text2); line-height: 1.4; }
+    .yt-info { flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: space-between; }
+    .yt-titel { font-size: 12px; font-weight: 600; color: var(--text); line-height: 1.35; letter-spacing: -0.01em; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; margin-bottom: 4px; }
+    .yt-meta { display: flex; align-items: center; justify-content: space-between; }
+    .yt-kanal { font-family: 'Geist Mono', monospace; font-size: 9px; color: var(--text3); letter-spacing: 0.04em; }
+    .yt-datum { font-family: 'Geist Mono', monospace; font-size: 9px; color: var(--text3); }
 
-    .yt-arrow { font-family: 'Geist Mono', monospace; font-size: 10px; color: var(--text3); flex-shrink: 0; }
-
-    /* ── Newsletter / Links ── */
-    .links-section { margin-bottom: 20px; }
-
-    .link-card {
-      background: var(--s1); border: 1px solid var(--border);
-      border-radius: var(--r); padding: 11px 14px;
-      display: flex; align-items: center; gap: 10px;
-      text-decoration: none; color: inherit; margin-bottom: 6px;
-      transition: background 0.15s, border-color 0.15s;
-    }
+    /* ── Newsletter Links ── */
+    .link-card { background: var(--s1); border: 1px solid var(--border); border-radius: var(--r); padding: 10px 13px; display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; margin-bottom: 6px; transition: background 0.15s, border-color 0.15s; }
     .link-card:hover { background: var(--s2); border-color: var(--border2); }
-    .link-icon { font-size: 14px; flex-shrink: 0; }
+    .link-icon { font-size: 13px; flex-shrink: 0; }
     .link-info { flex: 1; }
     .link-name { font-size: 12px; font-weight: 600; color: var(--text); margin-bottom: 1px; }
     .link-desc { font-size: 10px; color: var(--text2); }
     .link-arrow { font-family: 'Geist Mono', monospace; font-size: 10px; color: var(--text3); }
 
     /* ── Aktien ── */
-    .stocks-bar {
-      display: flex; align-items: center; gap: 8px;
-      margin-bottom: 14px; padding-bottom: 12px;
-      border-bottom: 1px solid var(--border);
-    }
-
-    .stocks-select {
-      flex: 1;
-      background: var(--s2); border: 1px solid var(--border2);
-      color: var(--text); border-radius: 8px;
-      padding: 8px 12px; font-size: 12px;
-      font-family: 'Geist', sans-serif;
-      appearance: none; -webkit-appearance: none;
-      cursor: pointer; outline: none;
-      transition: border-color 0.15s;
-      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23555' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
-      background-repeat: no-repeat;
-      background-position: right 10px center;
-      padding-right: 30px;
-    }
-    .stocks-select:focus { border-color: var(--border2); }
+    .stocks-bar { display: flex; align-items: center; gap: 8px; margin-bottom: 14px; padding-bottom: 12px; border-bottom: 1px solid var(--border); }
+    .stocks-select { flex: 1; background: var(--s2); border: 1px solid var(--border2); color: var(--text); border-radius: 8px; padding: 8px 12px; font-size: 12px; font-family: 'Geist', sans-serif; appearance: none; -webkit-appearance: none; cursor: pointer; outline: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23555' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 10px center; padding-right: 30px; }
     .stocks-select option { background: var(--s2); color: var(--text); }
-
     .stocks-updated { font-family: 'Geist Mono', monospace; font-size: 9px; color: var(--text3); white-space: nowrap; }
 
     .stock-detail { animation: fadeUp 0.25s ease both; }
-
-    .stock-hero {
-      background: var(--s1); border: 1px solid var(--border);
-      border-radius: var(--r); padding: 16px; margin-bottom: 10px;
-    }
-
+    .stock-hero { background: var(--s1); border: 1px solid var(--border); border-radius: var(--r); padding: 16px; margin-bottom: 10px; }
     .stock-hero-top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 14px; }
     .stock-hero-name { font-size: 17px; font-weight: 700; color: var(--text); letter-spacing: -0.02em; margin-bottom: 3px; }
     .stock-hero-meta { font-family: 'Geist Mono', monospace; font-size: 9px; color: var(--text3); letter-spacing: 0.04em; }
     .stock-hero-price { font-family: 'Geist Mono', monospace; font-size: 24px; font-weight: 700; color: var(--accent-hi); letter-spacing: -0.03em; text-align: right; margin-bottom: 4px; }
-
-    .stock-change {
-      font-family: 'Geist Mono', monospace; font-size: 11px; font-weight: 500;
-      padding: 2px 7px; border-radius: 4px; display: inline-block;
-    }
+    .stock-change { font-family: 'Geist Mono', monospace; font-size: 11px; font-weight: 500; padding: 2px 7px; border-radius: 4px; display: inline-block; }
     .stock-change.pos { color: var(--green); background: var(--green-dim); }
     .stock-change.neg { color: var(--red); background: var(--red-dim); }
     .stock-change.neu { color: var(--text3); background: var(--s3); }
 
-    /* Sparkline */
     .spark-wrap { height: 48px; margin-bottom: 14px; }
     .spark-wrap svg { width: 100%; height: 48px; display: block; }
 
-    /* 52W Bar */
     .w52-wrap { margin-bottom: 14px; }
     .w52-labels { display: flex; justify-content: space-between; margin-bottom: 5px; }
     .w52-l, .w52-h { font-family: 'Geist Mono', monospace; font-size: 9px; color: var(--text3); }
@@ -314,7 +156,6 @@
     .w52-fill { position: absolute; top: 0; height: 3px; background: var(--accent); border-radius: 2px; opacity: 0.6; }
     .w52-dot { position: absolute; top: -3px; width: 9px; height: 9px; border-radius: 50%; background: var(--accent-hi); border: 2px solid var(--bg); transform: translateX(-50%); }
 
-    /* Perf Grid */
     .perf-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 6px; margin-bottom: 10px; }
     .perf-cell { background: var(--s2); border: 1px solid var(--border); border-radius: 8px; padding: 8px 6px; text-align: center; }
     .perf-lbl { font-family: 'Geist Mono', monospace; font-size: 8px; color: var(--text3); letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 4px; }
@@ -323,7 +164,6 @@
     .perf-val.neg { color: var(--red); }
     .perf-val.neu { color: var(--text3); }
 
-    /* Kenn Grid */
     .kenn-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 6px; }
     .kenn-cell { background: var(--s2); border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; }
     .kenn-lbl { font-family: 'Geist Mono', monospace; font-size: 8px; color: var(--text3); letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 4px; }
@@ -350,9 +190,7 @@
       <div class="brand-mark">mH</div>
       <div class="brand-logo">my<span>HUB</span></div>
     </div>
-    <div class="topbar-right">
-      <div class="date-pill" id="datumPill">–</div>
-    </div>
+    <div class="date-pill" id="datumPill">–</div>
   </header>
 
   <div class="hero" id="heroWrap">
@@ -374,84 +212,54 @@
 
   <!-- KI-News -->
   <section class="section active" id="tab-news">
+    <!-- Digest -->
     <div id="digestContent">
       <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div><div class="skel-l w3"></div></div>
       <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div><div class="skel-l w3"></div></div>
       <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div></div>
     </div>
 
-    <!-- YouTube Kanäle -->
-    <div class="yt-section">
-      <div class="yt-header">
-        <span class="yt-label">▶ YouTube · Deutsche KI-Kanäle</span>
-        <div class="yt-line"></div>
-      </div>
-      <div class="yt-grid">
-        <a class="yt-card" href="https://www.youtube.com/@everlastai" target="_blank" rel="noopener">
-          <div class="yt-thumb">🤖</div>
-          <div class="yt-info"><div class="yt-name">Everlast AI</div><div class="yt-desc">KI-News, Tools & Trends auf Deutsch</div></div>
-          <div class="yt-arrow">↗</div>
-        </a>
-        <a class="yt-card" href="https://www.youtube.com/@christophmagnussen" target="_blank" rel="noopener">
-          <div class="yt-thumb">💡</div>
-          <div class="yt-info"><div class="yt-name">Christoph Magnussen</div><div class="yt-desc">KI im Business-Alltag & Produktivität</div></div>
-          <div class="yt-arrow">↗</div>
-        </a>
-        <a class="yt-card" href="https://www.youtube.com/@JonasKeil" target="_blank" rel="noopener">
-          <div class="yt-thumb">⚡</div>
-          <div class="yt-info"><div class="yt-name">Jonas Keil</div><div class="yt-desc">KI-Tutorials & Automatisierung</div></div>
-          <div class="yt-arrow">↗</div>
-        </a>
-        <a class="yt-card" href="https://www.youtube.com/@KIpraxis" target="_blank" rel="noopener">
-          <div class="yt-thumb">🧪</div>
-          <div class="yt-info"><div class="yt-name">KI Praxis</div><div class="yt-desc">Praktische KI-Anwendungen & Guides</div></div>
-          <div class="yt-arrow">↗</div>
-        </a>
-        <a class="yt-card" href="https://www.youtube.com/@TheRundownAI" target="_blank" rel="noopener">
-          <div class="yt-thumb">📰</div>
-          <div class="yt-info"><div class="yt-name">The Rundown AI</div><div class="yt-desc">Tägliche KI-News kompakt</div></div>
-          <div class="yt-arrow">↗</div>
-        </a>
-        <a class="yt-card" href="https://www.youtube.com/@MattVidPro" target="_blank" rel="noopener">
-          <div class="yt-thumb">🎯</div>
-          <div class="yt-info"><div class="yt-name">Matt Wolfe</div><div class="yt-desc">KI-Tools Reviews & Tutorials</div></div>
-          <div class="yt-arrow">↗</div>
-        </a>
-      </div>
+    <!-- YouTube Videos -->
+    <div class="section-divider">
+      <span class="section-divider-label">▶ YouTube · Neue Videos</span>
+      <div class="section-divider-line"></div>
+      <span id="ytCount" style="font-family:'Geist Mono',monospace;font-size:9px;color:var(--text3)"></span>
+    </div>
+    <div id="ytContent">
+      <div class="skel"><div class="skel-l w8"></div><div class="skel-l w6"></div></div>
+      <div class="skel"><div class="skel-l w8"></div><div class="skel-l w6"></div></div>
     </div>
 
-    <!-- Newsletter & Links -->
-    <div class="links-section">
-      <div class="yt-header" style="margin-bottom:10px">
-        <span class="yt-label">✉ Newsletter & Ressourcen</span>
-        <div class="yt-line"></div>
-      </div>
-      <a class="link-card" href="https://www.heise.de/themen/ki/" target="_blank" rel="noopener">
-        <div class="link-icon">🇩🇪</div>
-        <div class="link-info"><div class="link-name">Heise · KI-Themen</div><div class="link-desc">Deutschlands führendes Tech-Magazin</div></div>
-        <div class="link-arrow">↗</div>
-      </a>
-      <a class="link-card" href="https://t3n.de/tag/kuenstliche-intelligenz/" target="_blank" rel="noopener">
-        <div class="link-icon">📱</div>
-        <div class="link-info"><div class="link-name">t3n · Künstliche Intelligenz</div><div class="link-desc">KI-News für digitale Pioniere</div></div>
-        <div class="link-arrow">↗</div>
-      </a>
-      <a class="link-card" href="https://www.golem.de/ki/" target="_blank" rel="noopener">
-        <div class="link-icon">⚙️</div>
-        <div class="link-info"><div class="link-name">Golem · KI</div><div class="link-desc">Technische KI-Berichterstattung</div></div>
-        <div class="link-arrow">↗</div>
-      </a>
-      <a class="link-card" href="https://aipresso.de" target="_blank" rel="noopener">
-        <div class="link-icon">☕</div>
-        <div class="link-info"><div class="link-name">AI Presso</div><div class="link-desc">Deutscher KI-Newsletter täglich</div></div>
-        <div class="link-arrow">↗</div>
-      </a>
-      <a class="link-card" href="https://www.ki-weekly.de" target="_blank" rel="noopener">
-        <div class="link-icon">📬</div>
-        <div class="link-info"><div class="link-name">KI Weekly</div><div class="link-desc">Wöchentlicher KI-Newsletter auf Deutsch</div></div>
-        <div class="link-arrow">↗</div>
-      </a>
+    <!-- Newsletter -->
+    <div class="section-divider">
+      <span class="section-divider-label">✉ Newsletter & Ressourcen</span>
+      <div class="section-divider-line"></div>
     </div>
+    <a class="link-card" href="https://www.heise.de/themen/ki/" target="_blank" rel="noopener">
+      <div class="link-icon">🇩🇪</div>
+      <div class="link-info"><div class="link-name">Heise · KI-Themen</div><div class="link-desc">Deutschlands führendes Tech-Magazin</div></div>
+      <div class="link-arrow">↗</div>
+    </a>
+    <a class="link-card" href="https://t3n.de/tag/kuenstliche-intelligenz/" target="_blank" rel="noopener">
+      <div class="link-icon">📱</div>
+      <div class="link-info"><div class="link-name">t3n · Künstliche Intelligenz</div><div class="link-desc">KI-News für digitale Pioniere</div></div>
+      <div class="link-arrow">↗</div>
+    </a>
+    <a class="link-card" href="https://www.golem.de/ki/" target="_blank" rel="noopener">
+      <div class="link-icon">⚙️</div>
+      <div class="link-info"><div class="link-name">Golem · KI</div><div class="link-desc">Technische KI-Berichterstattung</div></div>
+      <div class="link-arrow">↗</div>
+    </a>
+    <a class="link-card" href="https://aipresso.de" target="_blank" rel="noopener">
+      <div class="link-icon">☕</div>
+      <div class="link-info"><div class="link-name">AI Presso</div><div class="link-desc">Deutscher KI-Newsletter täglich</div></div>
+      <div class="link-arrow">↗</div>
+    </a>
+    <a class="link-card" href="https://www.ki-weekly.de" target="_blank" rel="noopener">
+      <div class="link-icon">📬</div>
+      <div class="link-info"><div class="link-name">KI Weekly</div><div class="link-desc">Wöchentlicher KI-Newsletter auf Deutsch</div></div>
+      <div class="link-arrow">↗</div>
+    </a>
   </section>
 
   <!-- Aktien -->
@@ -472,48 +280,35 @@
   </section>
 
   <script>
-    // ── Hilfsfunktionen ─────────────────────────────────────
-    function esc(s) {
-      return s ? String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;') : '';
-    }
-    function fmtPct(v) {
-      if (v == null) return '–';
-      return (v >= 0 ? '+' : '') + v.toFixed(2) + '%';
-    }
-    function pcl(v) {
-      if (v == null) return 'neu';
-      return v > 0 ? 'pos' : v < 0 ? 'neg' : 'neu';
-    }
-    function fmtPrice(v, cur) {
-      if (v == null) return '–';
-      const s = cur === 'EUR' ? '€' : cur === 'USD' ? '$' : cur === 'GBP' ? '£' : cur === 'JPY' ? '¥' : (cur||'');
-      return s + v.toLocaleString('de-DE', {minimumFractionDigits:2, maximumFractionDigits:2});
+    function esc(s) { return s ? String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;') : ''; }
+    function fmtPct(v) { if (v==null) return '–'; return (v>=0?'+':'')+v.toFixed(2)+'%'; }
+    function pcl(v) { if (v==null) return 'neu'; return v>0?'pos':v<0?'neg':'neu'; }
+    function fmtPrice(v,cur) {
+      if (v==null) return '–';
+      const s = cur==='EUR'?'€':cur==='USD'?'$':cur==='GBP'?'£':cur==='JPY'?'¥':(cur||'');
+      return s+v.toLocaleString('de-DE',{minimumFractionDigits:2,maximumFractionDigits:2});
     }
 
-    function sparkSVG(data, pos) {
-      if (!data || data.length < 2) return '';
-      const W=300, H=48, p=2;
-      const mn=Math.min(...data), mx=Math.max(...data), rng=mx-mn||1;
-      const pts = data.map((v,i) => {
-        const x = p + (i/(data.length-1))*(W-p*2);
-        const y = H-p-((v-mn)/rng)*(H-p*2);
+    function sparkSVG(data,pos) {
+      if (!data||data.length<2) return '';
+      const W=300,H=48,p=2;
+      const mn=Math.min(...data),mx=Math.max(...data),rng=mx-mn||1;
+      const pts=data.map((v,i)=>{
+        const x=p+(i/(data.length-1))*(W-p*2);
+        const y=H-p-((v-mn)/rng)*(H-p*2);
         return `${x.toFixed(1)},${y.toFixed(1)}`;
       });
-      const col = pos ? '#4ade80' : '#f87171';
-      const lp = pts[pts.length-1].split(',');
+      const col=pos?'#4ade80':'#f87171';
+      const lp=pts[pts.length-1].split(',');
       return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
-        <defs><linearGradient id="sg" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="0%" stop-color="${col}" stop-opacity="0.15"/>
-          <stop offset="100%" stop-color="${col}" stop-opacity="0"/>
-        </linearGradient></defs>
         <polyline points="${pts.join(' ')}" fill="none" stroke="${col}" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
         <circle cx="${lp[0]}" cy="${lp[1]}" r="3" fill="${col}"/>
       </svg>`;
     }
 
-    function w52HTML(price, low, high) {
-      if (!price || !low || !high || high===low) return '';
-      const pct = Math.max(0,Math.min(100,(price-low)/(high-low)*100));
+    function w52HTML(price,low,high) {
+      if (!price||!low||!high||high===low) return '';
+      const pct=Math.max(0,Math.min(100,(price-low)/(high-low)*100));
       return `<div class="w52-wrap">
         <div class="w52-labels">
           <span class="w52-l">${low.toLocaleString('de-DE',{minimumFractionDigits:2})}</span>
@@ -527,78 +322,27 @@
       </div>`;
     }
 
-    // ── Tab Navigation ──────────────────────────────────────
-    function showTab(id, el) {
-      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-      document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+    function showTab(id,el) {
+      document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
+      document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));
       el.classList.add('active');
-      document.getElementById('tab-' + id).classList.add('active');
-      document.getElementById('heroWrap').style.display = id === 'news' ? 'block' : 'none';
-      document.getElementById('updateInfo').style.display = id === 'news' ? 'block' : 'none';
-    }
-
-    // ── Aktie anzeigen ──────────────────────────────────────
-    let stocksData = [];
-
-    function zeigeAktie(name) {
-      const c = document.getElementById('stockDetail');
-      if (!name) {
-        c.innerHTML = `<div class="empty"><div class="empty-icon">📊</div><div class="empty-title">Aktie auswählen</div><div class="empty-text">Wähle oben eine Aktie aus dem Menü.</div></div>`;
-        return;
-      }
-      const s = stocksData.find(x => x.name === name);
-      if (!s || s.fehler) {
-        c.innerHTML = `<div class="empty"><div class="empty-icon">⚠</div><div class="empty-title">Keine Daten</div><div class="empty-text">Für diese Aktie sind<br>keine Daten verfügbar.</div></div>`;
-        return;
-      }
-
-      const isPos = (s.change_1d_pct||0) >= 0;
-      c.innerHTML = `<div class="stock-detail">
-        <div class="stock-hero">
-          <div class="stock-hero-top">
-            <div>
-              <div class="stock-hero-name">${esc(s.name)}</div>
-              <div class="stock-hero-meta">${esc(s.ticker)} · WKN ${esc(s.wkn)} · ${esc(s.currency)}</div>
-            </div>
-            <div style="text-align:right">
-              <div class="stock-hero-price">${fmtPrice(s.price, s.currency)}</div>
-              <div class="stock-change ${pcl(s.change_1d_pct)}">${fmtPct(s.change_1d_pct)} heute</div>
-            </div>
-          </div>
-          ${s.sparkline?.length ? `<div class="spark-wrap">${sparkSVG(s.sparkline, isPos)}</div>` : ''}
-          ${w52HTML(s.price, s.week52_low, s.week52_high)}
-        </div>
-
-        <div class="perf-grid">
-          <div class="perf-cell"><div class="perf-lbl">1 Tag</div><div class="perf-val ${pcl(s.change_1d_pct)}">${fmtPct(s.change_1d_pct)}</div></div>
-          <div class="perf-cell"><div class="perf-lbl">1 Woche</div><div class="perf-val ${pcl(s.change_1w_pct)}">${fmtPct(s.change_1w_pct)}</div></div>
-          <div class="perf-cell"><div class="perf-lbl">1 Monat</div><div class="perf-val ${pcl(s.change_1m_pct)}">${fmtPct(s.change_1m_pct)}</div></div>
-          <div class="perf-cell"><div class="perf-lbl">1 Jahr</div><div class="perf-val ${pcl(s.change_1y_pct)}">${fmtPct(s.change_1y_pct)}</div></div>
-        </div>
-
-        <div class="kenn-grid">
-          <div class="kenn-cell"><div class="kenn-lbl">Dividende</div><div class="kenn-val">${s.div_rate ? (s.currency==='EUR'?'€':'$')+s.div_rate : '–'}</div></div>
-          <div class="kenn-cell"><div class="kenn-lbl">Div.-Rendite</div><div class="kenn-val">${s.div_yield ? s.div_yield.toFixed(2)+'%' : '–'}</div></div>
-          <div class="kenn-cell"><div class="kenn-lbl">KGV</div><div class="kenn-val">${s.pe_ratio ? s.pe_ratio.toFixed(1) : '–'}</div></div>
-          <div class="kenn-cell"><div class="kenn-lbl">Marktk.</div><div class="kenn-val">${s.market_cap||'–'}</div></div>
-          <div class="kenn-cell"><div class="kenn-lbl">52W Hoch</div><div class="kenn-val">${s.week52_high ? s.week52_high.toLocaleString('de-DE',{minimumFractionDigits:2}) : '–'}</div></div>
-          <div class="kenn-cell"><div class="kenn-lbl">52W Tief</div><div class="kenn-val">${s.week52_low ? s.week52_low.toLocaleString('de-DE',{minimumFractionDigits:2}) : '–'}</div></div>
-        </div>
-      </div>`;
+      document.getElementById('tab-'+id).classList.add('active');
+      document.getElementById('heroWrap').style.display = id==='news'?'block':'none';
+      document.getElementById('updateInfo').style.display = id==='news'?'block':'none';
     }
 
     // ── KI-News laden ───────────────────────────────────────
     async function ladeDigest() {
       try {
-        const d = await fetch('data/digest.json?v=' + Date.now()).then(r => r.json());
-        document.getElementById('datumPill').textContent = d.datumISO || '–';
+        const d = await fetch('data/digest.json?v='+Date.now()).then(r=>r.json());
+        document.getElementById('datumPill').textContent = d.datumISO||'–';
         const hero = document.getElementById('heroTitle');
         hero.classList.remove('skeleton');
-        hero.textContent = d.tagesthema || '–';
+        hero.textContent = d.tagesthema||'–';
         if (d.generiert_um) {
           const dt = new Date(d.generiert_um);
           document.getElementById('updateInfo').textContent =
-            'Aktualisiert · ' + dt.toLocaleTimeString('de-DE',{hour:'2-digit',minute:'2-digit'}) + ' Uhr';
+            'Aktualisiert · '+dt.toLocaleTimeString('de-DE',{hour:'2-digit',minute:'2-digit'})+' Uhr';
         }
         const c = document.getElementById('digestContent');
         if (!d.kategorien?.length) {
@@ -606,11 +350,11 @@
           return;
         }
         c.innerHTML = '';
-        d.kategorien.forEach((kat, ki) => {
+        d.kategorien.forEach((kat,ki) => {
           const div = document.createElement('div');
           div.className = 'kategorie';
           div.style.animationDelay = (ki*60)+'ms';
-          const artikel = (kat.artikel||[]).map(a => `
+          const artikel = (kat.artikel||[]).map(a=>`
             <div class="artikel">
               <div class="artikel-top">
                 <div class="artikel-titel">${esc(a.titel)}</div>
@@ -639,33 +383,115 @@
       }
     }
 
+    // ── YouTube laden ───────────────────────────────────────
+    async function ladeYouTube() {
+      try {
+        const d = await fetch('data/youtube.json?v='+Date.now()).then(r=>r.json());
+        const c = document.getElementById('ytContent');
+        const videos = d.videos||[];
+
+        if (!videos.length) {
+          c.innerHTML = `<div class="empty"><div class="empty-icon">▶</div><div class="empty-title">Keine Videos</div><div class="empty-text">Keine neuen Videos der letzten 7 Tage.</div></div>`;
+          return;
+        }
+
+        document.getElementById('ytCount').textContent = videos.length + ' Videos';
+        c.innerHTML = '';
+        videos.forEach((v,i) => {
+          const a = document.createElement('a');
+          a.className = 'yt-video';
+          a.href = esc(v.link);
+          a.target = '_blank';
+          a.rel = 'noopener';
+          a.style.animationDelay = (i*40)+'ms';
+          const thumb = v.thumbnail || `https://img.youtube.com/vi/${esc(v.video_id)}/mqdefault.jpg`;
+          a.innerHTML = `
+            <div class="yt-thumb"><img src="${esc(thumb)}" alt="" loading="lazy" onerror="this.style.display='none'"></div>
+            <div class="yt-info">
+              <div class="yt-titel">${esc(v.titel)}</div>
+              <div class="yt-meta">
+                <span class="yt-kanal">${esc(v.kanal)}</span>
+                <span class="yt-datum">${esc(v.datum_de||'')}</span>
+              </div>
+            </div>`;
+          c.appendChild(a);
+        });
+      } catch(e) {
+        document.getElementById('ytContent').innerHTML =
+          `<div class="empty"><div class="empty-icon">⚠</div><div class="empty-title">Fehler</div><div class="empty-text">YouTube-Daten nicht verfügbar.</div></div>`;
+      }
+    }
+
     // ── Aktien laden ────────────────────────────────────────
+    let stocksData = [];
+
+    function zeigeAktie(name) {
+      const c = document.getElementById('stockDetail');
+      if (!name) {
+        c.innerHTML = `<div class="empty"><div class="empty-icon">📊</div><div class="empty-title">Aktie auswählen</div><div class="empty-text">Wähle oben eine Aktie aus dem Menü.</div></div>`;
+        return;
+      }
+      const s = stocksData.find(x=>x.name===name);
+      if (!s||s.fehler) {
+        c.innerHTML = `<div class="empty"><div class="empty-icon">⚠</div><div class="empty-title">Keine Daten</div><div class="empty-text">Für diese Aktie sind keine Daten verfügbar.</div></div>`;
+        return;
+      }
+      const isPos = (s.change_1d_pct||0)>=0;
+      c.innerHTML = `<div class="stock-detail">
+        <div class="stock-hero">
+          <div class="stock-hero-top">
+            <div>
+              <div class="stock-hero-name">${esc(s.name)}</div>
+              <div class="stock-hero-meta">${esc(s.ticker)} · WKN ${esc(s.wkn)} · ${esc(s.currency)}</div>
+            </div>
+            <div style="text-align:right">
+              <div class="stock-hero-price">${fmtPrice(s.price,s.currency)}</div>
+              <div class="stock-change ${pcl(s.change_1d_pct)}">${fmtPct(s.change_1d_pct)} heute</div>
+            </div>
+          </div>
+          ${s.sparkline?.length?`<div class="spark-wrap">${sparkSVG(s.sparkline,isPos)}</div>`:''}
+          ${w52HTML(s.price,s.week52_low,s.week52_high)}
+        </div>
+        <div class="perf-grid">
+          <div class="perf-cell"><div class="perf-lbl">1 Tag</div><div class="perf-val ${pcl(s.change_1d_pct)}">${fmtPct(s.change_1d_pct)}</div></div>
+          <div class="perf-cell"><div class="perf-lbl">1 Woche</div><div class="perf-val ${pcl(s.change_1w_pct)}">${fmtPct(s.change_1w_pct)}</div></div>
+          <div class="perf-cell"><div class="perf-lbl">1 Monat</div><div class="perf-val ${pcl(s.change_1m_pct)}">${fmtPct(s.change_1m_pct)}</div></div>
+          <div class="perf-cell"><div class="perf-lbl">1 Jahr</div><div class="perf-val ${pcl(s.change_1y_pct)}">${fmtPct(s.change_1y_pct)}</div></div>
+        </div>
+        <div class="kenn-grid">
+          <div class="kenn-cell"><div class="kenn-lbl">Dividende</div><div class="kenn-val">${s.div_rate?(s.currency==='EUR'?'€':'$')+s.div_rate:'–'}</div></div>
+          <div class="kenn-cell"><div class="kenn-lbl">Div.-Rendite</div><div class="kenn-val">${s.div_yield?s.div_yield.toFixed(2)+'%':'–'}</div></div>
+          <div class="kenn-cell"><div class="kenn-lbl">KGV</div><div class="kenn-val">${s.pe_ratio?s.pe_ratio.toFixed(1):'–'}</div></div>
+          <div class="kenn-cell"><div class="kenn-lbl">Marktk.</div><div class="kenn-val">${s.market_cap||'–'}</div></div>
+          <div class="kenn-cell"><div class="kenn-lbl">52W Hoch</div><div class="kenn-val">${s.week52_high?s.week52_high.toLocaleString('de-DE',{minimumFractionDigits:2}):'–'}</div></div>
+          <div class="kenn-cell"><div class="kenn-lbl">52W Tief</div><div class="kenn-val">${s.week52_low?s.week52_low.toLocaleString('de-DE',{minimumFractionDigits:2}):'–'}</div></div>
+        </div>
+      </div>`;
+    }
+
     async function ladeAktien() {
       try {
-        const d = await fetch('data/stocks.json?v=' + Date.now()).then(r => r.json());
-        stocksData = d.aktien || [];
-
+        const d = await fetch('data/stocks.json?v='+Date.now()).then(r=>r.json());
+        stocksData = d.aktien||[];
         if (d.aktualisiert) {
           const dt = new Date(d.aktualisiert);
           document.getElementById('stocksUpdated').textContent =
-            dt.toLocaleDateString('de-DE') + ' · ' + dt.toLocaleTimeString('de-DE',{hour:'2-digit',minute:'2-digit'});
+            dt.toLocaleDateString('de-DE')+' · '+dt.toLocaleTimeString('de-DE',{hour:'2-digit',minute:'2-digit'});
         }
-
         const sel = document.getElementById('stockSelect');
         stocksData.forEach(s => {
           if (!s.fehler) {
             const opt = document.createElement('option');
             opt.value = s.name;
-            opt.textContent = s.name + (s.price ? ` · ${s.currency === 'EUR' ? '€' : s.currency === 'USD' ? '$' : ''}${s.price?.toFixed(2)}` : '');
+            opt.textContent = s.name+(s.price?` · ${s.currency==='EUR'?'€':s.currency==='USD'?'$':''}${s.price?.toFixed(2)}`:'');
             sel.appendChild(opt);
           }
         });
-      } catch(e) {
-        console.error('Aktien laden fehlgeschlagen', e);
-      }
+      } catch(e) { console.error('Aktien Fehler', e); }
     }
 
     ladeDigest();
+    ladeYouTube();
     ladeAktien();
   </script>
 </body>
