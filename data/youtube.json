@@ -1,275 +1,77 @@
 {
-  "aktualisiert": "2026-03-21T15:00:51.574579+00:00",
+  "aktualisiert": "2026-03-21T15:19:31.776500+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
-      "kanal": "Christoph Magnussen",
-      "titel": "Will bipartisan politics ever make a comeback? | Brad McMillan | TEDxBradley University",
-      "link": "https://www.youtube.com/watch?v=sCMwTEUIAro",
-      "video_id": "sCMwTEUIAro",
-      "thumbnail": "https://i4.ytimg.com/vi/sCMwTEUIAro/hqdefault.jpg",
-      "datum": "2026-03-21T13:31:06+00:00",
+      "kanal": "Neuland Pro",
+      "titel": "Kranke KI-Revolution: Dieses neue Tool verändert ALLES",
+      "link": "https://www.youtube.com/watch?v=CJ3qQw9Rgko",
+      "video_id": "CJ3qQw9Rgko",
+      "thumbnail": "https://img.youtube.com/vi/CJ3qQw9Rgko/mqdefault.jpg",
+      "datum": "2026-03-21T09:21:30+00:00",
       "datum_de": "21.03.2026"
     },
     {
-      "kanal": "Neuland Pro",
-      "titel": "New episode on @VersionHistoryPodcast tomorrow!",
-      "link": "https://www.youtube.com/shorts/lJtxQaCOBUk",
-      "video_id": "lJtxQaCOBUk",
-      "thumbnail": "https://i1.ytimg.com/vi/lJtxQaCOBUk/hqdefault.jpg",
-      "datum": "2026-03-21T13:01:26+00:00",
-      "datum_de": "21.03.2026"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "Adobe's new Rotate Object on Photoshop",
-      "link": "https://www.youtube.com/shorts/2jFelIhfJ9Q",
-      "video_id": "2jFelIhfJ9Q",
-      "thumbnail": "https://i3.ytimg.com/vi/2jFelIhfJ9Q/hqdefault.jpg",
-      "datum": "2026-03-21T12:00:05+00:00",
-      "datum_de": "21.03.2026"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "Samsung discontinues its TriFold #Vergecast",
-      "link": "https://www.youtube.com/shorts/kri01a187FU",
-      "video_id": "kri01a187FU",
-      "thumbnail": "https://i4.ytimg.com/vi/kri01a187FU/hqdefault.jpg",
-      "datum": "2026-03-20T20:18:35+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "How to make sense of perimenopause (and midlife) | Marianne Natvik | TEDxArendal",
-      "link": "https://www.youtube.com/watch?v=W9_xaWcR6ww",
-      "video_id": "W9_xaWcR6ww",
-      "thumbnail": "https://i4.ytimg.com/vi/W9_xaWcR6ww/hqdefault.jpg",
-      "datum": "2026-03-20T17:00:59+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "1200 conversations: the practice that changed everything  | Jessica Wright | TEDxThird Ward",
-      "link": "https://www.youtube.com/watch?v=1K7tr-WScnM",
-      "video_id": "1K7tr-WScnM",
-      "thumbnail": "https://i2.ytimg.com/vi/1K7tr-WScnM/hqdefault.jpg",
-      "datum": "2026-03-20T16:56:13+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "From invisible to influential | Dr. Ginny Baro | TEDxThird Ward",
-      "link": "https://www.youtube.com/watch?v=thQnj4RHiP0",
-      "video_id": "thQnj4RHiP0",
-      "thumbnail": "https://i1.ytimg.com/vi/thQnj4RHiP0/hqdefault.jpg",
-      "datum": "2026-03-20T16:40:52+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Pleasure Ain’t the Problem, Shame Is  | Nikquan Lewis | TEDxThird Ward",
-      "link": "https://www.youtube.com/watch?v=Lj18td1AnrE",
-      "video_id": "Lj18td1AnrE",
-      "thumbnail": "https://i1.ytimg.com/vi/Lj18td1AnrE/hqdefault.jpg",
-      "datum": "2026-03-20T16:39:53+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "I love them all, but I love me more | Dana L. Cox | TEDxThird Ward",
-      "link": "https://www.youtube.com/watch?v=7X5RlQWzm7I",
-      "video_id": "7X5RlQWzm7I",
-      "thumbnail": "https://i4.ytimg.com/vi/7X5RlQWzm7I/hqdefault.jpg",
-      "datum": "2026-03-20T15:53:03+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Discovering the gift of underestimation  | Una Stevenson | TEDxThird Ward",
-      "link": "https://www.youtube.com/watch?v=CiG2i1GyeTw",
-      "video_id": "CiG2i1GyeTw",
-      "thumbnail": "https://i4.ytimg.com/vi/CiG2i1GyeTw/hqdefault.jpg",
-      "datum": "2026-03-20T15:30:45+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Reframing the meaning of taxes | Divakar Vijayasarathy | TEDxThird Ward",
-      "link": "https://www.youtube.com/watch?v=FJ2YTfwPcd4",
-      "video_id": "FJ2YTfwPcd4",
-      "thumbnail": "https://i3.ytimg.com/vi/FJ2YTfwPcd4/hqdefault.jpg",
-      "datum": "2026-03-20T15:30:27+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Why waiting for a plan is holding you back | Thanh Nguyen | TEDxThird Ward",
-      "link": "https://www.youtube.com/watch?v=pGki_UYls0I",
-      "video_id": "pGki_UYls0I",
-      "thumbnail": "https://i1.ytimg.com/vi/pGki_UYls0I/hqdefault.jpg",
-      "datum": "2026-03-20T15:30:13+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "A brain tumor taught me the power of preparation  | Evangeline Fabia | TEDxThird Ward",
-      "link": "https://www.youtube.com/watch?v=xsmJyzmtCX8",
-      "video_id": "xsmJyzmtCX8",
-      "thumbnail": "https://i1.ytimg.com/vi/xsmJyzmtCX8/hqdefault.jpg",
-      "datum": "2026-03-20T15:16:31+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Surviving and thriving through menopause | Kimberly Bady | TEDxThird Ward",
-      "link": "https://www.youtube.com/watch?v=9Cj8MVpS-Cc",
-      "video_id": "9Cj8MVpS-Cc",
-      "thumbnail": "https://i2.ytimg.com/vi/9Cj8MVpS-Cc/hqdefault.jpg",
-      "datum": "2026-03-20T15:15:32+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "How To Prevent Burnout (And No, It’s Not Balance) | Pam Rivet | TEDxThird Ward",
-      "link": "https://www.youtube.com/watch?v=ZSQqx0aVQo0",
-      "video_id": "ZSQqx0aVQo0",
-      "thumbnail": "https://i3.ytimg.com/vi/ZSQqx0aVQo0/hqdefault.jpg",
-      "datum": "2026-03-20T15:14:37+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "In a changing climate, where is all of the music? | Paul Suchan | TEDxUniversityofSaskatchewan",
-      "link": "https://www.youtube.com/watch?v=_cK7NNBH7pA",
-      "video_id": "_cK7NNBH7pA",
-      "thumbnail": "https://i4.ytimg.com/vi/_cK7NNBH7pA/hqdefault.jpg",
-      "datum": "2026-03-20T15:07:54+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "El Poder de la Cercanía  | Juan Retali | TEDxMaipú",
-      "link": "https://www.youtube.com/watch?v=Pq81TDYSY9U",
-      "video_id": "Pq81TDYSY9U",
-      "thumbnail": "https://i1.ytimg.com/vi/Pq81TDYSY9U/hqdefault.jpg",
-      "datum": "2026-03-20T15:02:42+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Space Eagle: da una chat di WhatsApp allo Spazio | Giuseppe Mondilla | TEDxGiarre",
-      "link": "https://www.youtube.com/watch?v=UR6XbKtYbTE",
-      "video_id": "UR6XbKtYbTE",
-      "thumbnail": "https://i2.ytimg.com/vi/UR6XbKtYbTE/hqdefault.jpg",
-      "datum": "2026-03-20T15:02:24+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "RIP Trifold | The Vergecast",
-      "link": "https://www.youtube.com/watch?v=ZHN5i8BdcbQ",
-      "video_id": "ZHN5i8BdcbQ",
-      "thumbnail": "https://i3.ytimg.com/vi/ZHN5i8BdcbQ/hqdefault.jpg",
-      "datum": "2026-03-20T12:01:08+00:00",
-      "datum_de": "20.03.2026"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "Is Benjamin Netanyahu an AI clone?",
-      "link": "https://www.youtube.com/shorts/MVrNnG9ppQ4",
-      "video_id": "MVrNnG9ppQ4",
-      "thumbnail": "https://i2.ytimg.com/vi/MVrNnG9ppQ4/hqdefault.jpg",
-      "datum": "2026-03-19T21:26:28+00:00",
+      "kanal": "Everlast AI",
+      "titel": "„So sieht DEIN Leben 2035 aus!” Zukunftsforscher über Singularität, Roboter, UBI & KI (Sven Jánszky)",
+      "link": "https://www.youtube.com/watch?v=y2C64llGOFI",
+      "video_id": "y2C64llGOFI",
+      "thumbnail": "https://img.youtube.com/vi/y2C64llGOFI/mqdefault.jpg",
+      "datum": "2026-03-19T16:15:00+00:00",
       "datum_de": "19.03.2026"
     },
     {
-      "kanal": "Neuland Pro",
-      "titel": "Headphones found with harmful chemicals",
-      "link": "https://www.youtube.com/shorts/bHKFOzOJuv8",
-      "video_id": "bHKFOzOJuv8",
-      "thumbnail": "https://i3.ytimg.com/vi/bHKFOzOJuv8/hqdefault.jpg",
-      "datum": "2026-03-19T14:01:06+00:00",
-      "datum_de": "19.03.2026"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "What do you think of Nvidia DLSS 5?",
-      "link": "https://www.youtube.com/shorts/BgXpubcmRzI",
-      "video_id": "BgXpubcmRzI",
-      "thumbnail": "https://i3.ytimg.com/vi/BgXpubcmRzI/hqdefault.jpg",
-      "datum": "2026-03-19T00:23:19+00:00",
-      "datum_de": "19.03.2026"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "Interesting phones outside the U.S #Vergecast",
-      "link": "https://www.youtube.com/shorts/wfk0zLzy4ko",
-      "video_id": "wfk0zLzy4ko",
-      "thumbnail": "https://i4.ytimg.com/vi/wfk0zLzy4ko/hqdefault.jpg",
-      "datum": "2026-03-18T18:23:46+00:00",
+      "kanal": "Everlast AI",
+      "titel": "Der Claude Code Moment: DAS müssen Unternehmen jetzt machen! (Vortrag Leonard Schmedding)",
+      "link": "https://www.youtube.com/watch?v=yOFb95LgnoM",
+      "video_id": "yOFb95LgnoM",
+      "thumbnail": "https://img.youtube.com/vi/yOFb95LgnoM/mqdefault.jpg",
+      "datum": "2026-03-18T16:15:00+00:00",
       "datum_de": "18.03.2026"
     },
     {
-      "kanal": "Neuland Pro",
-      "titel": "We deserve weird phones #Vergecast",
-      "link": "https://www.youtube.com/shorts/HTBnDqYn2_0",
-      "video_id": "HTBnDqYn2_0",
-      "thumbnail": "https://i1.ytimg.com/vi/HTBnDqYn2_0/hqdefault.jpg",
-      "datum": "2026-03-17T20:00:25+00:00",
+      "kanal": "Everlast AI",
+      "titel": "Krass: Das kann Claude Code 2.0! Neue Skills, Loops & weitere Use Cases",
+      "link": "https://www.youtube.com/watch?v=9nnsszlfE0w",
+      "video_id": "9nnsszlfE0w",
+      "thumbnail": "https://img.youtube.com/vi/9nnsszlfE0w/mqdefault.jpg",
+      "datum": "2026-03-17T16:15:00+00:00",
       "datum_de": "17.03.2026"
     },
     {
       "kanal": "Neuland Pro",
-      "titel": "Is coding still a safe career? #Vergecast",
-      "link": "https://www.youtube.com/shorts/fdzbdJafnOk",
-      "video_id": "fdzbdJafnOk",
-      "thumbnail": "https://i3.ytimg.com/vi/fdzbdJafnOk/hqdefault.jpg",
-      "datum": "2026-03-17T19:32:33+00:00",
+      "titel": "Baue deinen eigenen KI-Assistenten in 10 Minuten (Custom GPT Tutorial)",
+      "link": "https://www.youtube.com/watch?v=Xr31tM0pqP4",
+      "video_id": "Xr31tM0pqP4",
+      "thumbnail": "https://img.youtube.com/vi/Xr31tM0pqP4/mqdefault.jpg",
+      "datum": "2026-03-17T14:00:06+00:00",
       "datum_de": "17.03.2026"
     },
     {
-      "kanal": "Neuland Pro",
-      "titel": "The future of code is exciting and terrifying | The Vergecast",
-      "link": "https://www.youtube.com/watch?v=d_s-owPs-G8",
-      "video_id": "d_s-owPs-G8",
-      "thumbnail": "https://i1.ytimg.com/vi/d_s-owPs-G8/hqdefault.jpg",
-      "datum": "2026-03-17T12:01:09+00:00",
-      "datum_de": "17.03.2026"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "Is this the best robot Disney's ever made? #TITW",
-      "link": "https://www.youtube.com/shorts/ARxFtGRm6rE",
-      "video_id": "ARxFtGRm6rE",
-      "thumbnail": "https://i2.ytimg.com/vi/ARxFtGRm6rE/hqdefault.jpg",
-      "datum": "2026-03-16T20:30:02+00:00",
+      "kanal": "Christoph Magnussen",
+      "titel": "So steuern sich KI Agents #aitothedna #kipodcast #ki",
+      "link": "https://www.youtube.com/shorts/bcRAM0Q1gF8",
+      "video_id": "bcRAM0Q1gF8",
+      "thumbnail": "https://img.youtube.com/vi/bcRAM0Q1gF8/mqdefault.jpg",
+      "datum": "2026-03-16T08:50:12+00:00",
       "datum_de": "16.03.2026"
     },
     {
-      "kanal": "Neuland Pro",
-      "titel": "Why I intentionally misuse my fitness tracker",
-      "link": "https://www.youtube.com/shorts/VvGaDPViMKY",
-      "video_id": "VvGaDPViMKY",
-      "thumbnail": "https://i3.ytimg.com/vi/VvGaDPViMKY/hqdefault.jpg",
-      "datum": "2026-03-16T13:12:52+00:00",
-      "datum_de": "16.03.2026"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "Did you go to a “mansion party”? Subscribe to @VersionHistoryPodcast for more.",
-      "link": "https://www.youtube.com/shorts/J3MDqVKVVqw",
-      "video_id": "J3MDqVKVVqw",
-      "thumbnail": "https://i3.ytimg.com/vi/J3MDqVKVVqw/hqdefault.jpg",
-      "datum": "2026-03-15T13:00:26+00:00",
+      "kanal": "Christoph Magnussen",
+      "titel": "Kann ChatGPT 5.4 endlich überzeugen? Neue Modelle und Skills Feature!",
+      "link": "https://www.youtube.com/watch?v=o8ldzkIckTA",
+      "video_id": "o8ldzkIckTA",
+      "thumbnail": "https://img.youtube.com/vi/o8ldzkIckTA/mqdefault.jpg",
+      "datum": "2026-03-15T14:01:11+00:00",
       "datum_de": "15.03.2026"
     },
     {
-      "kanal": "Neuland Pro",
-      "titel": "The Neo is kind of just an iPhone. #Vergecast",
-      "link": "https://www.youtube.com/shorts/oNkHpFGzfBo",
-      "video_id": "oNkHpFGzfBo",
-      "thumbnail": "https://i4.ytimg.com/vi/oNkHpFGzfBo/hqdefault.jpg",
-      "datum": "2026-03-15T12:01:16+00:00",
+      "kanal": "Everlast AI",
+      "titel": "Massive Claude Code & ChatGPT Updates! Neue Skills, Gemini Embedding, RAG-Interview & mehr KI-News",
+      "link": "https://www.youtube.com/watch?v=tu5aAXDXj6s",
+      "video_id": "tu5aAXDXj6s",
+      "thumbnail": "https://img.youtube.com/vi/tu5aAXDXj6s/mqdefault.jpg",
+      "datum": "2026-03-15T09:15:00+00:00",
       "datum_de": "15.03.2026"
     }
   ]
