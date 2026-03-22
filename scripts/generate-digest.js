@@ -64,8 +64,8 @@ keine Backticks davor oder danach. Das JSON muss exakt dieser Struktur folgen:
 }
 
 Regeln:
-- Mindestens 3, maximal 5 Kategorien
-- Pro Kategorie 2-4 Artikel
+- Mindestens 4, maximal 6 Kategorien
+- Pro Kategorie 4-6 Artikel
 - Nur Kategorien mit echten Nachrichten aus den letzten 24-48h
 - Sterne: ⭐⭐⭐ = bahnbrechend, ⭐⭐ = bedeutend, ⭐ = interessant
 - Alle Texte auf Deutsch
