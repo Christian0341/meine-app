@@ -16,26 +16,71 @@ FESTE_KANAELE = [
     {"name": "Sascha Hoffmann",     "channel_id": "UC7xxAtIMrlTcB1mKLziqEbA"},
 ]
 
-# ── Suchbegriffe für deutsche KI-Videos ──────────────────────────────────────
+# ── Suchbegriffe ──────────────────────────────────────────────────────────────
 SUCHBEGRIFFE = [
-    "künstliche Intelligenz Tutorial deutsch",
-    "ChatGPT deutsch neu",
-    "KI Tools deutsch",
-    "Claude AI deutsch",
-    "n8n KI automation deutsch",
-    "KI Nachrichten deutsch",
-    "AI Agenten deutsch",
+    "ChatGPT Tutorial deutsch 2026",
+    "Claude AI deutsch Tutorial",
+    "KI Automatisierung n8n deutsch",
+    "künstliche Intelligenz Anwendung deutsch",
+    "AI Agent deutsch Tutorial",
+    "Gemini KI deutsch",
+    "LLM deutsch Tutorial",
 ]
 
-RSS_BASE   = "https://www.youtube.com/feeds/videos.xml?channel_id="
-HEADERS    = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-NS         = {'atom': 'http://www.w3.org/2005/Atom', 'yt': 'http://www.youtube.com/xml/schemas/2015', 'media': 'http://search.yahoo.com/mrss/'}
+# ── KI-relevante Schlüsselwörter (mind. 1 muss im Titel vorkommen) ────────────
+KI_KEYWORDS = [
+    "ki ", "k.i.", "ai ", "a.i.", "künstliche intelligenz",
+    "chatgpt", "claude", "gemini", "llm", "gpt", "copilot",
+    "midjourney", "stable diffusion", "ollama", "llama",
+    "machine learning", "deep learning", "neural", "automatisierung",
+    "n8n", "make.com", "zapier", "agent", "prompt", "rag",
+    "openai", "anthropic", "mistral", "perplexity", "hugging face",
+    "sprachmodell", "bildgenerierung", "ki-tool", "ki tool",
+    "sora", "runway", "elevenlabs", "midjourney",
+]
+
+# ── Ausschluss-Wörter (sofortiger Ausschluss wenn im Titel) ──────────────────
+BLACKLIST = [
+    "betrügt", "betrogen", "rap", "hiphop", "musik", "song",
+    "politik", "trump", "krieg", "sport", "fußball", "rezept",
+    "fitness", "meditation", "reise", "urlaub", "kochen",
+    "prypjat", "centralia", "uwe boll", "österreich #", "deutschland #",
+]
+
+RSS_BASE = "https://www.youtube.com/feeds/videos.xml?channel_id="
+HEADERS  = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+NS       = {'atom': 'http://www.w3.org/2005/Atom', 'yt': 'http://www.youtube.com/xml/schemas/2015'}
 
 cutoff     = datetime.now(timezone.utc) - timedelta(days=7)
 cutoff_str = cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 alle_videos = []
 bekannte_ids = set()
+
+def ist_ki_relevant(titel):
+    """Prüft ob ein Video KI-relevant ist"""
+    titel_lower = titel.lower()
+    # Blacklist prüfen
+    for word in BLACKLIST:
+        if word in titel_lower:
+            return False
+    # Mind. ein KI-Keyword muss vorkommen
+    for kw in KI_KEYWORDS:
+        if kw in titel_lower:
+            return True
+    return False
+
+def ist_englisch(titel):
+    """Grobe Erkennung englischer Titel"""
+    english_indicators = [
+        " the ", "how to ", " is ", " are ", " was ", " will ",
+        " can ", " your ", " you ", " this ", " that ", " with ",
+        " for ", " from ", " best ", " new ", " vs ", "i tried",
+        "i built", "i made", "we built",
+    ]
+    titel_lower = " " + titel.lower() + " "
+    count = sum(1 for w in english_indicators if w in titel_lower)
+    return count >= 2
 
 # ── Teil 1: Feste Kanäle per RSS ─────────────────────────────────────────────
 print("=== Feste Kanäle ===")
@@ -87,19 +132,18 @@ else:
     for begriff in SUCHBEGRIFFE:
         print(f"\nSuche: '{begriff}'...")
         try:
-            url = "https://www.googleapis.com/youtube/v3/search"
             params = {
-                "key":           YOUTUBE_API_KEY,
-                "q":             begriff,
-                "type":          "video",
-                "part":          "snippet",
-                "maxResults":    5,
-                "order":         "date",
-                "publishedAfter": cutoff_str,
+                "key":               YOUTUBE_API_KEY,
+                "q":                 begriff,
+                "type":              "video",
+                "part":              "snippet",
+                "maxResults":        8,
+                "order":             "date",
+                "publishedAfter":    cutoff_str,
                 "relevanceLanguage": "de",
-                "videoEmbeddable": "true",
+                "videoDuration":     "medium",  # 4-20 Minuten (keine Shorts)
             }
-            r = requests.get(url, params=params, timeout=10)
+            r = requests.get("https://www.googleapis.com/youtube/v3/search", params=params, timeout=10)
             r.raise_for_status()
             data = r.json()
 
@@ -113,20 +157,19 @@ else:
                 kanal   = snippet.get("channelTitle", "")
                 pub_str = snippet.get("publishedAt", "")
 
-                # Nur deutschsprachige Titel aufnehmen (grobe Filterung)
-                # Englische Stop-Wörter filtern
-                english_words = ["the ", "how to", "this ", "what ", "why ", "when ", "best ", "new ", "with "]
-                is_likely_english = any(w in titel.lower() for w in english_words)
-                if is_likely_english:
+                # Filter anwenden
+                if ist_englisch(titel):
+                    print(f"  SKIP (englisch): {titel[:50]}")
+                    continue
+                if not ist_ki_relevant(titel):
+                    print(f"  SKIP (nicht KI): {titel[:50]}")
                     continue
 
                 try:
-                    pub_dt = datetime.fromisoformat(pub_str.replace('Z', '+00:00'))
+                    pub_dt   = datetime.fromisoformat(pub_str.replace('Z', '+00:00'))
                     datum_de = pub_dt.strftime("%d.%m.%Y")
-                    datum_iso = pub_str
                 except:
                     datum_de = ""
-                    datum_iso = pub_str
 
                 bekannte_ids.add(video_id)
                 alle_videos.append({
@@ -135,14 +178,14 @@ else:
                     "link":      f"https://www.youtube.com/watch?v={video_id}",
                     "video_id":  video_id,
                     "thumbnail": f"https://img.youtube.com/vi/{video_id}/mqdefault.jpg",
-                    "datum":     datum_iso,
+                    "datum":     pub_str,
                     "datum_de":  datum_de,
                     "quelle":    "suche"
                 })
                 print(f"  ✓ [{kanal}] {titel[:50]}")
 
         except Exception as e:
-            print(f"  Fehler: {e}")
+            print(f"  API Fehler: {e}")
 
 # ── Sortieren und speichern ───────────────────────────────────────────────────
 alle_videos.sort(key=lambda v: v.get("datum", ""), reverse=True)
@@ -157,4 +200,6 @@ os.makedirs("data", exist_ok=True)
 with open("data/youtube.json", "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
-print(f"\nFertig! {len(alle_videos)} Videos gespeichert ({sum(1 for v in alle_videos if v.get('quelle')=='kanal')} Kanal, {sum(1 for v in alle_videos if v.get('quelle')=='suche')} Suche).")
+kanal_count  = sum(1 for v in alle_videos if v.get('quelle') == 'kanal')
+suche_count  = sum(1 for v in alle_videos if v.get('quelle') == 'suche')
+print(f"\nFertig! {len(alle_videos)} Videos ({kanal_count} Kanal, {suche_count} Suche).")
