@@ -1,21 +1,28 @@
 import requests
 import json
 import os
+import re
 from datetime import datetime, timezone, timedelta
 from xml.etree import ElementTree as ET
 
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
 
 # ── Feste Kanäle ──────────────────────────────────────────────────────────────
+# channel_id = direkte ID, handle = @handle für automatische Ermittlung
 FESTE_KANAELE = [
-    {"name": "Everlast AI",         "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg"},
-    {"name": "Christoph Magnussen", "channel_id": "UCDx6L69jmKBJbNu5GnkCilg"},
-    {"name": "Jonas Keil",          "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ"},
-    {"name": "Neuland Pro",         "channel_id": "UCcQz40FwO1qaePDQ5RRzlcw"},
-    {"name": "Sascha Hoffmann",     "channel_id": "UC7xxAtIMrlTcB1mKLziqEbA"},
+    {"name": "Everlast AI",          "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg"},
+    {"name": "Christoph Magnussen",  "channel_id": "UCDx6L69jmKBJbNu5GnkCilg"},
+    {"name": "Jonas Keil",           "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ"},
+    {"name": "Neuland Pro",          "channel_id": "UCcQz40FwO1qaePDQ5RRzlcw"},
+    {"name": "Sascha Hoffmann",      "channel_id": "UC7xxAtIMrlTcB1mKLziqEbA"},
+    {"name": "Kanal 1",              "channel_id": "UCtimfZyjzmkpOeLI1s88hcQ"},
+    {"name": "Morpheus Tutorials",   "handle": "TheMorpheusTutorials"},
+    {"name": "Timo Specht",          "handle": "timo-specht-seo"},
+    {"name": "KI-Lernzone",          "handle": "KI-Lernzone"},
+    {"name": "Akademie4KI",          "handle": "akademie4ki"},
 ]
 
-# ── Suchbegriffe (spezifischer) ───────────────────────────────────────────────
+# ── Suchbegriffe ──────────────────────────────────────────────────────────────
 SUCHBEGRIFFE = [
     "ChatGPT Tutorial deutsch",
     "Claude AI Tutorial deutsch",
@@ -29,8 +36,7 @@ SUCHBEGRIFFE = [
     "KI Anwendung Tutorial deutsch",
 ]
 
-# ── Pflicht-Keywords: mind. 1 muss im Titel sein ──────────────────────────────
-# Diese zeigen klar an dass es ein KI-Inhalt ist
+# ── Pflicht-Keywords ──────────────────────────────────────────────────────────
 PFLICHT_KEYWORDS = [
     "chatgpt", "claude", "gemini", "gpt-", "openai", "anthropic",
     "llm", "llama", "mistral", "ollama", "perplexity", "midjourney",
@@ -40,35 +46,50 @@ PFLICHT_KEYWORDS = [
     "ki tutorial", "ki-news", "ai-tool", "ai agent", "ai workflow",
     "sprachmodell", "bildgenerierung", "prompt engineering",
     "rag ", "fine-tuning", "cowork", "cursor ai", "windsurf",
-    "replit", "bolt.new", "sora", "runway ml", "elevenlabs",
-    "hugging face", "vector", "embedding",
+    "replit", "bolt.new", "sora", "runway", "elevenlabs",
+    "hugging face", "embedding", "ki lernzone", "ki-lernzone",
 ]
 
-# ── Blacklist: sofortiger Ausschluss ──────────────────────────────────────────
+# ── Blacklist ──────────────────────────────────────────────────────────────────
 BLACKLIST_TITEL = [
     "offiziell", "official", "lyrics", "music video", "audio",
     "helene fischer", "schlager", "pop song", "album", "single",
-    "betrügt", "betrogen", "rap", "hiphop", "#musik",
+    "betrügt", "betrogen", "rap", "hiphop",
     "krieg", "sport", "fußball", "rezept", "kochen", "backen",
     "reise", "urlaub", "fitness", "meditation",
     "verwaltungsmanager", "spanien", "skandal",
-    "smci", "ermittlung", "aktie", "börse",
-    "nachrichten der woche", "news der woche",
+    "smci", "ermittlung", "nachrichten der woche", "news der woche",
+    "consistent deutsch zu sprechen", "deutsch lernen", "sprache lernen",
 ]
 
 BLACKLIST_KANAL = [
     "skyline music", "music", "official", "records", "label",
-    "vallejo law", "law",
+    "vallejo law", "bug bounty",
 ]
 
 RSS_BASE = "https://www.youtube.com/feeds/videos.xml?channel_id="
-HEADERS  = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+HEADERS  = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 NS       = {'atom': 'http://www.w3.org/2005/Atom', 'yt': 'http://www.youtube.com/xml/schemas/2015'}
 
 cutoff     = datetime.now(timezone.utc) - timedelta(days=7)
 cutoff_str = cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")
 alle_videos = []
 bekannte_ids = set()
+
+def get_channel_id(handle):
+    try:
+        r = requests.get(f"https://www.youtube.com/@{handle}", timeout=10, headers=HEADERS)
+        for pattern in [
+            r'"channelId":"(UC[a-zA-Z0-9_-]{22})"',
+            r'"browseId":"(UC[a-zA-Z0-9_-]{22})"',
+            r'"externalId":"(UC[a-zA-Z0-9_-]{22})"',
+        ]:
+            m = re.search(pattern, r.text)
+            if m:
+                return m.group(1)
+    except Exception as e:
+        print(f"  Handle-Fehler: {e}")
+    return None
 
 def ist_englisch(titel):
     t = " " + titel.lower() + " "
@@ -83,34 +104,35 @@ def ist_englisch(titel):
 def ist_relevant(titel, kanal_name=""):
     t = titel.lower()
     k = kanal_name.lower()
-
-    # Kanal-Blacklist
     for bk in BLACKLIST_KANAL:
         if bk in k:
             return False, "kanal-blacklist"
-
-    # Titel-Blacklist
     for bt in BLACKLIST_TITEL:
         if bt in t:
-            return False, f"blacklist: {bt}"
-
-    # Englisch-Check
+            return False, f"blacklist"
     if ist_englisch(titel):
         return False, "englisch"
-
-    # Pflicht-Keyword Check
     for kw in PFLICHT_KEYWORDS:
         if kw in t:
             return True, "ok"
-
     return False, "kein KI-keyword"
 
 # ── Teil 1: Feste Kanäle ─────────────────────────────────────────────────────
 print("=== Feste Kanäle ===")
 for kanal in FESTE_KANAELE:
     print(f"\n{kanal['name']}...")
+
+    if "channel_id" in kanal:
+        cid = kanal["channel_id"]
+    else:
+        cid = get_channel_id(kanal["handle"])
+        if not cid:
+            print(f"  SKIP: Channel-ID nicht gefunden")
+            continue
+        print(f"  ID: {cid}")
+
     try:
-        r = requests.get(RSS_BASE + kanal["channel_id"], timeout=10, headers=HEADERS)
+        r = requests.get(RSS_BASE + cid, timeout=10, headers=HEADERS)
         r.raise_for_status()
         root = ET.fromstring(r.content)
         count = 0
@@ -139,7 +161,7 @@ for kanal in FESTE_KANAELE:
             count += 1
             print(f"  ✓ {titel[:60]}")
         if count == 0:
-            print("  Keine neuen Videos")
+            print("  Keine neuen Videos diese Woche")
     except Exception as e:
         print(f"  Fehler: {e}")
 
