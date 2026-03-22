@@ -24,6 +24,8 @@ jobs:
         run: pip install requests
 
       - name: Fetch YouTube data
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python scripts/fetch-youtube.py
 
       - name: Commit data
