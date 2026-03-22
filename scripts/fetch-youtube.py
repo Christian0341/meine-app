@@ -15,7 +15,7 @@ FESTE_KANAELE = [
     {"name": "Jonas Keil",           "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ"},
     {"name": "Neuland Pro",          "channel_id": "UCcQz40FwO1qaePDQ5RRzlcw"},
     {"name": "Sascha Hoffmann",      "channel_id": "UC7xxAtIMrlTcB1mKLziqEbA"},
-    {"name": "Kanal 1",              "channel_id": "UCtimfZyjzmkpOeLI1s88hcQ"},
+   {"name": "KI-Campus",            "channel_id": "UCtimfZyjzmkpOeLI1s88hcQ"},
     {"name": "Morpheus Tutorials",   "handle": "TheMorpheusTutorials"},
     {"name": "Timo Specht",          "handle": "timo-specht-seo"},
     {"name": "KI-Lernzone",          "handle": "KI-Lernzone"},
