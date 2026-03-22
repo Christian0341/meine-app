@@ -32,319 +32,98 @@
 
     * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
     html { scroll-behavior: smooth; }
+    body { background: var(--bg); color: var(--text); font-family: 'DM Sans', sans-serif; min-height: 100vh; overflow-x: hidden; font-size: 14px; line-height: 1.5; }
 
-    body {
-      background: var(--bg);
-      color: var(--text);
-      font-family: 'DM Sans', sans-serif;
-      min-height: 100vh;
-      overflow-x: hidden;
-      font-size: 14px;
-      line-height: 1.5;
-    }
-
-    /* ─── TOPBAR ──────────────────────────────────────────── */
-    .topbar {
-      position: sticky; top: 0; z-index: 100;
-      background: rgba(17,18,20,0.94);
-      backdrop-filter: blur(20px);
-      -webkit-backdrop-filter: blur(20px);
-      border-bottom: 1px solid var(--line);
-      height: 54px; padding: 0 20px;
-      display: flex; align-items: center; justify-content: space-between;
-    }
-
+    /* ── TOPBAR ── */
+    .topbar { position: sticky; top: 0; z-index: 100; background: rgba(17,18,20,0.94); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border-bottom: 1px solid var(--line); height: 54px; padding: 0 20px; display: flex; align-items: center; justify-content: space-between; }
     .brand { display: flex; align-items: center; gap: 10px; }
-
-    .brand-icon {
-      width: 28px; height: 28px;
-      border: 1.5px solid rgba(200,205,214,0.4);
-      border-radius: 8px;
-      display: flex; align-items: center; justify-content: center;
-      font-family: 'DM Mono', monospace;
-      font-size: 10px; font-weight: 500;
-      color: var(--silver);
-      letter-spacing: -0.03em;
-    }
-
-    .brand-name {
-      font-size: 14px; font-weight: 600;
-      color: var(--silver-hi);
-      letter-spacing: -0.03em;
-    }
+    .brand-icon { width: 28px; height: 28px; border: 1.5px solid rgba(200,205,214,0.4); border-radius: 8px; display: flex; align-items: center; justify-content: center; font-family: 'DM Mono', monospace; font-size: 10px; font-weight: 500; color: var(--silver); }
+    .brand-name { font-size: 14px; font-weight: 600; color: var(--silver-hi); letter-spacing: -0.03em; }
     .brand-name em { color: var(--text3); font-style: normal; font-weight: 400; }
+    .topbar-date { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--text3); background: var(--card); border: 1px solid var(--line); padding: 4px 10px; border-radius: 6px; }
 
-    .topbar-date {
-      font-family: 'DM Mono', monospace;
-      font-size: 10px; color: var(--text3);
-      background: var(--card);
-      border: 1px solid var(--line);
-      padding: 4px 10px; border-radius: 6px;
-      letter-spacing: 0.03em;
-    }
+    /* ── HERO (immer sichtbar, wechselt Inhalt) ── */
+    .hero { padding: 20px 20px 16px; border-bottom: 1px solid var(--line); background: linear-gradient(180deg, var(--bg2) 0%, var(--bg) 100%); min-height: 90px; }
+    .hero-eyebrow { display: flex; align-items: center; gap: 7px; margin-bottom: 8px; }
+    .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--silver); animation: livepulse 2.5s ease infinite; }
+    @keyframes livepulse { 0%{box-shadow:0 0 0 0 rgba(200,205,214,0.4)} 70%{box-shadow:0 0 0 6px rgba(200,205,214,0)} 100%{box-shadow:0 0 0 0 rgba(200,205,214,0)} }
+    .hero-label { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text2); }
+    .hero-title { font-size: 15px; font-weight: 500; line-height: 1.5; color: var(--text); max-width: 500px; letter-spacing: -0.01em; }
+    .hero-title.skeleton { background: var(--card2); border-radius: 6px; color: transparent; height: 46px; animation: shimmer 1.8s ease infinite; }
+    .hero-sub { margin-top: 8px; font-family: 'DM Mono', monospace; font-size: 10px; color: var(--text3); }
 
-    /* ─── HERO ────────────────────────────────────────────── */
-    .hero {
-      padding: 24px 20px 20px;
-      border-bottom: 1px solid var(--line);
-      background: linear-gradient(180deg, var(--bg2) 0%, var(--bg) 100%);
-    }
+    /* Aktien Hero Stats */
+    .hero-stats { display: flex; gap: 20px; margin-top: 10px; }
+    .hero-stat { }
+    .hero-stat-val { font-family: 'DM Mono', monospace; font-size: 14px; font-weight: 500; }
+    .hero-stat-val.pos { color: var(--green); }
+    .hero-stat-val.neg { color: var(--red); }
+    .hero-stat-label { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text3); letter-spacing: 0.05em; text-transform: uppercase; margin-top: 2px; }
 
-    .hero-eyebrow {
-      display: flex; align-items: center; gap: 7px;
-      margin-bottom: 10px;
-    }
-
-    .live-dot {
-      width: 6px; height: 6px; border-radius: 50%;
-      background: var(--silver);
-      box-shadow: 0 0 0 0 rgba(200,205,214,0.4);
-      animation: livepulse 2.5s ease infinite;
-    }
-    @keyframes livepulse {
-      0%   { box-shadow: 0 0 0 0 rgba(200,205,214,0.4); }
-      70%  { box-shadow: 0 0 0 6px rgba(200,205,214,0); }
-      100% { box-shadow: 0 0 0 0 rgba(200,205,214,0); }
-    }
-
-    .hero-eyebrow-label {
-      font-family: 'DM Mono', monospace;
-      font-size: 10px; letter-spacing: 0.1em;
-      text-transform: uppercase; color: var(--text2);
-    }
-
-    .hero-title {
-      font-size: 16px; font-weight: 500;
-      line-height: 1.5; color: var(--text);
-      max-width: 400px; letter-spacing: -0.01em;
-    }
-
-    .hero-title.skeleton {
-      background: var(--card2); border-radius: 6px;
-      color: transparent; height: 56px;
-      animation: shimmer 1.8s ease infinite;
-    }
-
-    .hero-footer {
-      margin-top: 10px;
-      font-family: 'DM Mono', monospace;
-      font-size: 10px; color: var(--text3);
-    }
-
-    /* ─── MAIN NAV ────────────────────────────────────────── */
-    .main-nav {
-      padding: 0 20px;
-      border-bottom: 1px solid var(--line);
-      background: var(--bg);
-      display: flex; gap: 0;
-      overflow-x: auto; scrollbar-width: none;
-    }
+    /* ── MAIN NAV ── */
+    .main-nav { border-bottom: 1px solid var(--line); background: var(--bg); display: flex; overflow-x: auto; scrollbar-width: none; }
     .main-nav::-webkit-scrollbar { display: none; }
-
-    .main-tab {
-      flex-shrink: 0;
-      padding: 14px 20px;
-      font-size: 13px; font-weight: 500;
-      color: var(--text3); cursor: pointer;
-      border-bottom: 2px solid transparent;
-      transition: all 0.15s; white-space: nowrap;
-      background: none; border-top: none; border-left: none; border-right: none;
-      font-family: 'DM Sans', sans-serif;
-    }
+    .main-tab { flex-shrink: 0; padding: 14px 24px; font-size: 13px; font-weight: 500; color: var(--text3); cursor: pointer; border-bottom: 2px solid transparent; transition: all 0.15s; white-space: nowrap; background: none; border-top: none; border-left: none; border-right: none; font-family: 'DM Sans', sans-serif; }
     .main-tab:hover { color: var(--text2); }
     .main-tab.active { color: var(--silver-hi); border-bottom-color: var(--silver-hi); }
 
-    /* ─── SECTIONS ────────────────────────────────────────── */
+    /* ── SECTIONS ── */
     .section { display: none; padding-bottom: 100px; }
     .section.active { display: block; }
 
-    /* ─── KATEGORIE-TABS ──────────────────────────────────── */
-    .kat-nav {
-      position: sticky; top: 54px; z-index: 90;
-      background: rgba(17,18,20,0.96);
-      backdrop-filter: blur(12px);
-      border-bottom: 1px solid var(--line);
-      padding: 0 20px;
-      display: flex; gap: 0; overflow-x: auto;
-      scrollbar-width: none;
-    }
+    /* ── KAT NAV ── */
+    .kat-nav { position: sticky; top: 54px; z-index: 90; background: rgba(17,18,20,0.96); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); padding: 0 20px; display: flex; gap: 0; overflow-x: auto; scrollbar-width: none; }
     .kat-nav::-webkit-scrollbar { display: none; }
-
-    .kat-tab {
-      flex-shrink: 0;
-      padding: 12px 16px;
-      font-size: 12px; font-weight: 500;
-      color: var(--text3); cursor: pointer;
-      border-bottom: 2px solid transparent;
-      transition: all 0.15s; white-space: nowrap;
-      background: none; border-top: none; border-left: none; border-right: none;
-      font-family: 'DM Sans', sans-serif;
-      display: flex; align-items: center; gap: 5px;
-    }
+    .kat-tab { flex-shrink: 0; padding: 12px 14px; font-size: 12px; font-weight: 500; color: var(--text3); cursor: pointer; border-bottom: 2px solid transparent; transition: all 0.15s; white-space: nowrap; background: none; border-top: none; border-left: none; border-right: none; font-family: 'DM Sans', sans-serif; display: flex; align-items: center; gap: 5px; }
     .kat-tab:hover { color: var(--text2); }
     .kat-tab.active { color: var(--silver-hi); border-bottom-color: var(--silver); }
-    .kat-tab-emoji { font-size: 13px; }
-    .kat-tab-count {
-      font-family: 'DM Mono', monospace;
-      font-size: 9px; color: var(--text3);
-      background: var(--card2);
-      padding: 1px 5px; border-radius: 10px;
-    }
-    .kat-tab.active .kat-tab-count { color: var(--text2); background: var(--card2); }
+    .kat-count { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text3); background: var(--card2); padding: 1px 5px; border-radius: 10px; }
 
-    /* ─── KATEGORIE PANELS ────────────────────────────────── */
+    /* ── KAT PANELS ── */
     .kat-panel { display: none; padding: 20px 20px 0; }
     .kat-panel.active { display: block; animation: fadeUp 0.2s ease; }
 
-    /* ─── ARTIKEL ─────────────────────────────────────────── */
-    .artikel {
-      background: var(--card);
-      border: 1px solid var(--line);
-      border-radius: var(--r);
-      margin-bottom: 10px;
-      overflow: hidden;
-      transition: border-color 0.15s, background 0.15s;
-    }
+    /* ── ARTIKEL ── */
+    .artikel { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); margin-bottom: 10px; overflow: hidden; transition: border-color 0.15s, background 0.15s; }
     .artikel:hover { border-color: var(--line2); background: var(--card2); }
     .artikel.open { border-color: var(--line2); }
-
-    .artikel-head {
-      padding: 14px 16px;
-      cursor: pointer;
-      display: flex; align-items: flex-start;
-      gap: 12px; user-select: none;
-    }
-
+    .artikel-head { padding: 14px 16px; cursor: pointer; display: flex; align-items: flex-start; gap: 12px; user-select: none; }
     .artikel-head-main { flex: 1; min-width: 0; }
-
-    .artikel-title {
-      font-size: 13px; font-weight: 600;
-      color: var(--text); line-height: 1.45;
-      letter-spacing: -0.01em; margin-bottom: 6px;
-    }
-
-    .artikel-foot-row {
-      display: flex; align-items: center; gap: 8px;
-    }
-
-    .artikel-source {
-      font-family: 'DM Mono', monospace;
-      font-size: 10px; color: var(--text3);
-      text-transform: uppercase; letter-spacing: 0.04em;
-    }
-
-    .artikel-dot { color: var(--text3); font-size: 10px; }
-
+    .artikel-title { font-size: 13px; font-weight: 600; color: var(--text); line-height: 1.45; letter-spacing: -0.01em; margin-bottom: 6px; }
+    .artikel-meta { display: flex; align-items: center; gap: 8px; }
+    .artikel-source { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--text3); text-transform: uppercase; letter-spacing: 0.04em; }
     .artikel-stars { font-size: 9px; opacity: 0.55; }
-
-    .chevron {
-      font-size: 11px; color: var(--text3);
-      flex-shrink: 0; margin-top: 1px;
-      transition: transform 0.22s ease;
-    }
+    .chevron { font-size: 11px; color: var(--text3); flex-shrink: 0; margin-top: 1px; transition: transform 0.22s ease; }
     .artikel.open .chevron { transform: rotate(180deg); }
-
-    /* Aufklapp-Animation */
-    .artikel-body {
-      max-height: 0; overflow: hidden;
-      transition: max-height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    }
+    .artikel-body { max-height: 0; overflow: hidden; transition: max-height 0.3s cubic-bezier(0.4,0,0.2,1); }
     .artikel.open .artikel-body { max-height: 320px; }
-
-    .artikel-body-inner {
-      padding: 0 16px 16px;
-      border-top: 1px solid var(--line);
-    }
-
-    .artikel-summary {
-      font-size: 13px; font-weight: 300;
-      color: var(--text2); line-height: 1.7;
-      padding-top: 12px; margin-bottom: 10px;
-    }
-
-    .artikel-insight {
-      font-size: 12px; color: var(--silver);
-      line-height: 1.6; opacity: 0.85;
-      padding: 9px 12px;
-      background: var(--silver-dim);
-      border-radius: var(--r-sm);
-      border-left: 2px solid rgba(200,205,214,0.3);
-      margin-bottom: 12px;
-      font-style: italic;
-    }
-
-    .artikel-read {
-      font-family: 'DM Mono', monospace;
-      font-size: 10px; color: var(--text2);
-      text-decoration: none;
-      display: inline-flex; align-items: center; gap: 4px;
-      transition: color 0.15s;
-    }
+    .artikel-body-inner { padding: 0 16px 16px; border-top: 1px solid var(--line); }
+    .artikel-summary { font-size: 13px; font-weight: 300; color: var(--text2); line-height: 1.7; padding-top: 12px; margin-bottom: 10px; }
+    .artikel-insight { font-size: 12px; color: var(--silver); line-height: 1.6; opacity: 0.85; padding: 9px 12px; background: var(--silver-dim); border-radius: var(--r-sm); border-left: 2px solid rgba(200,205,214,0.3); margin-bottom: 12px; font-style: italic; }
+    .artikel-read { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--text2); text-decoration: none; transition: color 0.15s; }
     .artikel-read:hover { color: var(--silver-hi); }
 
-    /* ─── TRENNLINIE ──────────────────────────────────────── */
-    .divider {
-      display: flex; align-items: center; gap: 12px;
-      padding: 28px 20px 16px;
-    }
-    .divider-label {
-      font-family: 'DM Mono', monospace;
-      font-size: 10px; font-weight: 500;
-      letter-spacing: 0.08em; text-transform: uppercase;
-      color: var(--text3); white-space: nowrap;
-    }
+    /* ── DIVIDER ── */
+    .divider { display: flex; align-items: center; gap: 12px; padding: 28px 20px 16px; }
+    .divider-label { font-family: 'DM Mono', monospace; font-size: 10px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text3); white-space: nowrap; }
     .divider-line { flex: 1; height: 1px; background: var(--line); }
-    .divider-count {
-      font-family: 'DM Mono', monospace;
-      font-size: 10px; color: var(--text3);
-    }
+    .divider-count { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--text3); }
 
-    /* ─── YOUTUBE ─────────────────────────────────────────── */
+    /* ── YOUTUBE ── */
     .yt-list { padding: 0 20px; }
-
-    .yt-card {
-      display: flex; gap: 12px;
-      padding: 12px; border-radius: var(--r);
-      background: var(--card); border: 1px solid var(--line);
-      text-decoration: none; color: inherit;
-      margin-bottom: 8px;
-      transition: background 0.15s, border-color 0.15s;
-      animation: fadeUp 0.3s ease both;
-    }
+    .yt-card { display: flex; gap: 12px; padding: 12px; border-radius: var(--r); background: var(--card); border: 1px solid var(--line); text-decoration: none; color: inherit; margin-bottom: 8px; transition: background 0.15s, border-color 0.15s; animation: fadeUp 0.3s ease both; }
     .yt-card:hover { background: var(--card2); border-color: var(--line2); }
-
-    .yt-thumb {
-      width: 100px; height: 56px; flex-shrink: 0;
-      border-radius: var(--r-sm); overflow: hidden;
-      background: var(--card2);
-    }
+    .yt-thumb { width: 100px; height: 56px; flex-shrink: 0; border-radius: var(--r-sm); overflow: hidden; background: var(--card2); }
     .yt-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
-
     .yt-body { flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: space-between; }
-
-    .yt-title {
-      font-size: 12px; font-weight: 500;
-      color: var(--text); line-height: 1.4;
-      display: -webkit-box; -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical; overflow: hidden;
-      margin-bottom: 6px;
-    }
-
+    .yt-title { font-size: 12px; font-weight: 500; color: var(--text); line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; margin-bottom: 6px; }
     .yt-meta { display: flex; align-items: center; justify-content: space-between; }
     .yt-channel { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text3); }
     .yt-date { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text3); }
 
-    /* ─── LINKS ───────────────────────────────────────────── */
+    /* ── LINKS ── */
     .link-list { padding: 0 20px; }
-
-    .link-card {
-      display: flex; align-items: center; gap: 12px;
-      padding: 12px 14px; border-radius: var(--r);
-      background: var(--card); border: 1px solid var(--line);
-      text-decoration: none; color: inherit;
-      margin-bottom: 8px;
-      transition: background 0.15s, border-color 0.15s;
-    }
+    .link-card { display: flex; align-items: center; gap: 12px; padding: 12px 14px; border-radius: var(--r); background: var(--card); border: 1px solid var(--line); text-decoration: none; color: inherit; margin-bottom: 8px; transition: background 0.15s, border-color 0.15s; }
     .link-card:hover { background: var(--card2); border-color: var(--line2); }
     .link-icon { font-size: 16px; flex-shrink: 0; width: 32px; text-align: center; }
     .link-body { flex: 1; }
@@ -352,88 +131,31 @@
     .link-desc { font-size: 11px; color: var(--text2); }
     .link-arr { font-size: 12px; color: var(--text3); flex-shrink: 0; }
 
-    /* ─── AKTIEN ──────────────────────────────────────────── */
-    .stocks-header {
-      padding: 20px 20px 14px;
-      display: flex; align-items: center; justify-content: space-between;
-      border-bottom: 1px solid var(--line);
-    }
-    .stocks-title {
-      font-family: 'DM Mono', monospace;
-      font-size: 10px; letter-spacing: 0.08em;
-      text-transform: uppercase; color: var(--text3);
-    }
-    .stocks-ts {
-      font-family: 'DM Mono', monospace;
-      font-size: 10px; color: var(--text3);
-    }
-
-    .stock-list { padding: 16px 20px 0; display: flex; flex-direction: column; gap: 8px; }
-
-    .stock-row {
-      display: flex; align-items: center;
-      padding: 13px 16px; border-radius: var(--r);
-      background: var(--card); border: 1px solid var(--line);
-      cursor: pointer; width: 100%;
-      transition: background 0.15s, border-color 0.15s;
-      animation: fadeUp 0.3s ease both;
-    }
+    /* ── AKTIEN LISTE ── */
+    .stocks-list { padding: 16px 20px 0; display: flex; flex-direction: column; gap: 8px; }
+    .stock-row { display: flex; align-items: center; padding: 13px 16px; border-radius: var(--r); background: var(--card); border: 1px solid var(--line); cursor: pointer; width: 100%; transition: background 0.15s, border-color 0.15s; animation: fadeUp 0.3s ease both; text-align: left; }
     .stock-row:hover { background: var(--card2); border-color: var(--line2); }
-
-    .stock-row-left { flex: 1; text-align: left; }
+    .stock-row-left { flex: 1; }
     .stock-name { font-size: 13px; font-weight: 600; color: var(--text); margin-bottom: 3px; }
     .stock-price { font-family: 'DM Mono', monospace; font-size: 11px; color: var(--text2); }
-
     .stock-row-right { text-align: right; }
-    .stock-pct {
-      font-family: 'DM Mono', monospace;
-      font-size: 13px; font-weight: 500;
-      padding: 3px 9px; border-radius: 6px;
-      display: inline-block; margin-bottom: 3px;
-    }
+    .stock-pct { font-family: 'DM Mono', monospace; font-size: 13px; font-weight: 500; padding: 3px 9px; border-radius: 6px; display: inline-block; margin-bottom: 3px; }
     .stock-pct.pos { color: var(--green); background: var(--green-bg); }
     .stock-pct.neg { color: var(--red); background: var(--red-bg); }
     .stock-pct.neu { color: var(--text3); background: var(--card2); }
-    .stock-pct-label {
-      font-family: 'DM Mono', monospace;
-      font-size: 9px; color: var(--text3); display: block;
-    }
+    .stock-pct-label { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text3); display: block; }
 
-    /* ─── DETAIL PANEL ────────────────────────────────────── */
-    .overlay {
-      position: fixed; inset: 0; z-index: 200;
-      background: rgba(0,0,0,0.65);
-      display: none; align-items: flex-end;
-      backdrop-filter: blur(6px);
-    }
+    /* ── OVERLAY PANEL ── */
+    .overlay { position: fixed; inset: 0; z-index: 200; background: rgba(0,0,0,0.65); display: none; align-items: flex-end; backdrop-filter: blur(6px); }
     .overlay.open { display: flex; }
-
-    .panel {
-      background: var(--bg2);
-      border-top: 1px solid var(--line2);
-      border-radius: 18px 18px 0 0;
-      width: 100%; max-height: 88vh; overflow-y: auto;
-      padding: 20px;
-      animation: slideUp 0.28s cubic-bezier(0.32, 0.72, 0, 1);
-    }
+    .panel { background: var(--bg2); border-top: 1px solid var(--line2); border-radius: 18px 18px 0 0; width: 100%; max-height: 90vh; overflow-y: auto; padding: 20px; animation: slideUp 0.28s cubic-bezier(0.32,0.72,0,1); }
     @keyframes slideUp { from{transform:translateY(100%)} to{transform:translateY(0)} }
-
-    .panel-header {
-      display: flex; align-items: center; justify-content: space-between;
-      margin-bottom: 20px;
-    }
+    .panel-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; }
     .panel-title { font-size: 16px; font-weight: 600; color: var(--silver-hi); }
-    .panel-close {
-      background: var(--card2); border: 1px solid var(--line);
-      color: var(--text2); border-radius: var(--r-sm);
-      padding: 6px 14px; font-size: 12px; cursor: pointer;
-      font-family: 'DM Sans', sans-serif; font-weight: 500;
-    }
+    .panel-close { background: var(--card2); border: 1px solid var(--line); color: var(--text2); border-radius: var(--r-sm); padding: 6px 14px; font-size: 12px; cursor: pointer; font-family: 'DM Sans', sans-serif; font-weight: 500; }
 
-    .price-block {
-      background: var(--card); border: 1px solid var(--line);
-      border-radius: var(--r); padding: 16px; margin-bottom: 12px;
-    }
+    /* Preis Block */
+    .price-block { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 16px; margin-bottom: 12px; }
     .price-top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 14px; }
     .price-name { font-size: 17px; font-weight: 700; color: var(--silver-hi); letter-spacing: -0.02em; margin-bottom: 3px; }
     .price-meta { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--text3); }
@@ -446,7 +168,7 @@
     .spark { height: 52px; margin-bottom: 14px; }
     .spark svg { width: 100%; height: 52px; display: block; }
 
-    .range-bar-wrap { margin-bottom: 4px; }
+    .range-wrap { margin-bottom: 4px; }
     .range-labels { display: flex; justify-content: space-between; margin-bottom: 6px; }
     .range-lo, .range-hi { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--text3); }
     .range-mid { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text3); }
@@ -456,21 +178,38 @@
 
     .perf-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 8px; margin-bottom: 12px; }
     .perf-cell { background: var(--card); border: 1px solid var(--line); border-radius: var(--r-sm); padding: 10px 8px; text-align: center; }
-    .perf-label { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text3); letter-spacing: 0.05em; text-transform: uppercase; margin-bottom: 5px; }
+    .perf-lbl { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text3); letter-spacing: 0.05em; text-transform: uppercase; margin-bottom: 5px; }
     .perf-val { font-family: 'DM Mono', monospace; font-size: 13px; font-weight: 600; }
     .perf-val.pos { color: var(--green); } .perf-val.neg { color: var(--red); } .perf-val.neu { color: var(--text3); }
 
-    .kenn-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 8px; }
+    .kenn-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 8px; margin-bottom: 12px; }
     .kenn-cell { background: var(--card); border: 1px solid var(--line); border-radius: var(--r-sm); padding: 10px 12px; }
-    .kenn-label { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text3); letter-spacing: 0.05em; text-transform: uppercase; margin-bottom: 5px; }
+    .kenn-lbl { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text3); letter-spacing: 0.05em; text-transform: uppercase; margin-bottom: 5px; }
     .kenn-val { font-family: 'DM Mono', monospace; font-size: 13px; color: var(--text2); font-weight: 500; }
 
-    /* ─── EMPTY / SKELETON ────────────────────────────────── */
+    /* Analysten */
+    .analyst-block { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 14px 16px; margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; }
+    .analyst-rec { font-size: 14px; font-weight: 600; color: var(--silver-hi); }
+    .analyst-target { text-align: right; }
+    .analyst-target-val { font-family: 'DM Mono', monospace; font-size: 16px; font-weight: 600; color: var(--green); }
+    .analyst-target-lbl { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text3); text-transform: uppercase; letter-spacing: 0.05em; }
+    .analyst-count { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--text3); margin-top: 4px; }
+
+    /* News */
+    .news-section-label { font-family: 'DM Mono', monospace; font-size: 10px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text3); margin-bottom: 10px; }
+    .news-item { background: var(--card); border: 1px solid var(--line); border-radius: var(--r-sm); padding: 12px 14px; margin-bottom: 8px; text-decoration: none; color: inherit; display: block; transition: background 0.15s, border-color 0.15s; }
+    .news-item:hover { background: var(--card2); border-color: var(--line2); }
+    .news-title { font-size: 13px; font-weight: 500; color: var(--text); line-height: 1.4; margin-bottom: 5px; }
+    .news-summary { font-size: 12px; color: var(--text2); line-height: 1.55; margin-bottom: 7px; }
+    .news-meta { display: flex; align-items: center; justify-content: space-between; }
+    .news-source { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text3); text-transform: uppercase; }
+    .news-date { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text3); }
+
+    /* ── EMPTY / SKELETON ── */
     .empty { text-align: center; padding: 60px 20px; }
     .empty-icon { font-size: 32px; margin-bottom: 14px; opacity: 0.25; }
     .empty-title { font-size: 15px; font-weight: 600; margin-bottom: 7px; color: var(--text2); }
     .empty-text { font-size: 12px; color: var(--text3); line-height: 1.7; font-family: 'DM Mono', monospace; }
-
     .skel { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 14px 16px; margin-bottom: 8px; }
     .skel-l { height: 10px; background: var(--card2); border-radius: 4px; margin-bottom: 8px; animation: shimmer 1.8s ease infinite; }
     .skel-l.w3{width:30%} .skel-l.w6{width:60%} .skel-l.w8{width:80%}
@@ -481,7 +220,6 @@
 </head>
 <body>
 
-  <!-- TOPBAR -->
   <header class="topbar">
     <div class="brand">
       <div class="brand-icon">mH</div>
@@ -490,14 +228,15 @@
     <div class="topbar-date" id="datumPill">–</div>
   </header>
 
-  <!-- HERO -->
-  <div class="hero" id="heroWrap">
+  <!-- HERO — immer sichtbar -->
+  <div class="hero" id="hero">
     <div class="hero-eyebrow">
       <div class="live-dot"></div>
-      <div class="hero-eyebrow-label">KI · Tagesthema</div>
+      <div class="hero-label" id="heroLabel">KI · Tagesthema</div>
     </div>
     <div class="hero-title skeleton" id="heroTitle"></div>
-    <div class="hero-footer" id="updateInfo"></div>
+    <div class="hero-sub" id="heroSub"></div>
+    <div class="hero-stats" id="heroStats" style="display:none"></div>
   </div>
 
   <!-- MAIN NAV -->
@@ -506,10 +245,9 @@
     <button class="main-tab" onclick="showMain('aktien',this)">Aktien</button>
   </nav>
 
-  <!-- ── KI-NEWS ── -->
+  <!-- KI-NEWS -->
   <section class="section active" id="tab-news">
-
-    <div class="kat-nav" id="katNav" style="display:none" role="tablist"></div>
+    <div class="kat-nav" id="katNav" style="display:none"></div>
     <div id="katPanels">
       <div style="padding:20px">
         <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div><div class="skel-l w3"></div></div>
@@ -517,23 +255,12 @@
         <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div></div>
       </div>
     </div>
-
-    <!-- YouTube -->
-    <div class="divider">
-      <span class="divider-label">▶ YouTube · Neue Videos</span>
-      <div class="divider-line"></div>
-      <span class="divider-count" id="ytCount"></span>
-    </div>
+    <div class="divider"><span class="divider-label">▶ YouTube · Neue Videos</span><div class="divider-line"></div><span class="divider-count" id="ytCount"></span></div>
     <div class="yt-list" id="ytList">
       <div class="skel"><div class="skel-l w8"></div><div class="skel-l w6"></div></div>
       <div class="skel"><div class="skel-l w8"></div><div class="skel-l w6"></div></div>
     </div>
-
-    <!-- Newsletter -->
-    <div class="divider">
-      <span class="divider-label">✉ Newsletter & Ressourcen</span>
-      <div class="divider-line"></div>
-    </div>
+    <div class="divider"><span class="divider-label">✉ Newsletter & Ressourcen</span><div class="divider-line"></div></div>
     <div class="link-list">
       <a class="link-card" href="https://www.heise.de/themen/ki/" target="_blank" rel="noopener"><div class="link-icon">🇩🇪</div><div class="link-body"><div class="link-name">Heise · KI</div><div class="link-desc">Führendes deutsches Tech-Magazin</div></div><div class="link-arr">↗</div></a>
       <a class="link-card" href="https://t3n.de/tag/kuenstliche-intelligenz/" target="_blank" rel="noopener"><div class="link-icon">📱</div><div class="link-body"><div class="link-name">t3n · KI</div><div class="link-desc">News für digitale Pioniere</div></div><div class="link-arr">↗</div></a>
@@ -543,22 +270,18 @@
     </div>
   </section>
 
-  <!-- ── AKTIEN ── -->
+  <!-- AKTIEN -->
   <section class="section" id="tab-aktien">
-    <div class="stocks-header">
-      <span class="stocks-title">21 Werte · alle in EUR</span>
-      <span class="stocks-ts" id="stocksTs">–</span>
-    </div>
-    <div class="stock-list" id="stockList">
+    <div class="stocks-list" id="stockList">
       <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div></div>
       <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div></div>
       <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div></div>
     </div>
   </section>
 
-  <!-- OVERLAY DETAIL -->
+  <!-- OVERLAY -->
   <div class="overlay" id="overlay" onclick="closePanel(event)">
-    <div class="panel" id="panel">
+    <div class="panel">
       <div class="panel-header">
         <span class="panel-title" id="panelTitle">–</span>
         <button class="panel-close" onclick="closePanel()">✕ Schließen</button>
@@ -568,91 +291,118 @@
   </div>
 
   <script>
-    const $ = id => document.getElementById(id);
+    const $  = id => document.getElementById(id);
     const esc = s => s ? String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;') : '';
-    const fmtP = v => v == null ? '–' : (v >= 0 ? '+' : '') + v.toFixed(2) + '%';
-    const pcl  = v => v == null ? 'neu' : v > 0 ? 'pos' : v < 0 ? 'neg' : 'neu';
-    const fmtE = v => v == null ? '–' : '€' + v.toLocaleString('de-DE', {minimumFractionDigits:2,maximumFractionDigits:2});
+    const fmtP = v => v==null?'–':(v>=0?'+':'')+v.toFixed(2)+'%';
+    const pcl  = v => v==null?'neu':v>0?'pos':v<0?'neg':'neu';
+    const fmtE = v => v==null?'–':'€'+v.toLocaleString('de-DE',{minimumFractionDigits:2,maximumFractionDigits:2});
 
-    function sparkSVG(data, pos) {
-      if (!data || data.length < 2) return '';
-      const W=300,H=52,p=2,mn=Math.min(...data),mx=Math.max(...data),rng=mx-mn||1;
-      const pts = data.map((v,i) => `${(p+(i/(data.length-1))*(W-p*2)).toFixed(1)},${(H-p-((v-mn)/rng)*(H-p*2)).toFixed(1)}`);
-      const col = pos ? '#52d68a' : '#f26e6e';
-      const lp = pts[pts.length-1].split(',');
-      return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none"><polyline points="${pts.join(' ')}" fill="none" stroke="${col}" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/><circle cx="${lp[0]}" cy="${lp[1]}" r="3" fill="${col}"/></svg>`;
+    function sparkSVG(d,pos){
+      if(!d||d.length<2)return'';
+      const W=300,H=52,p=2,mn=Math.min(...d),mx=Math.max(...d),rng=mx-mn||1;
+      const pts=d.map((v,i)=>`${(p+(i/(d.length-1))*(W-p*2)).toFixed(1)},${(H-p-((v-mn)/rng)*(H-p*2)).toFixed(1)}`);
+      const col=pos?'#52d68a':'#f26e6e';
+      const lp=pts[pts.length-1].split(',');
+      return`<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none"><polyline points="${pts.join(' ')}" fill="none" stroke="${col}" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/><circle cx="${lp[0]}" cy="${lp[1]}" r="3" fill="${col}"/></svg>`;
     }
 
-    function rangeBar(price, lo, hi) {
-      if (!price||!lo||!hi||hi===lo) return '';
-      const p = Math.max(0,Math.min(100,(price-lo)/(hi-lo)*100));
-      return `<div class="range-bar-wrap"><div class="range-labels"><span class="range-lo">${fmtE(lo)}</span><span class="range-mid">52W Range</span><span class="range-hi">${fmtE(hi)}</span></div><div class="range-track"><div class="range-fill" style="width:${p}%"></div><div class="range-dot" style="left:${p}%"></div></div></div>`;
+    function rangeBar(price,lo,hi){
+      if(!price||!lo||!hi||hi===lo)return'';
+      const p=Math.max(0,Math.min(100,(price-lo)/(hi-lo)*100));
+      return`<div class="range-wrap"><div class="range-labels"><span class="range-lo">${fmtE(lo)}</span><span class="range-mid">52W Range</span><span class="range-hi">${fmtE(hi)}</span></div><div class="range-track"><div class="range-fill" style="width:${p}%"></div><div class="range-dot" style="left:${p}%"></div></div></div>`;
     }
+
+    // ── Stocks Cache ────────────────────────────────────────
+    let stocks = [];
 
     // ── Main Tab ────────────────────────────────────────────
     function showMain(id, el) {
-      document.querySelectorAll('.main-tab').forEach(t => t.classList.remove('active'));
-      document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+      document.querySelectorAll('.main-tab').forEach(t=>t.classList.remove('active'));
+      document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));
       el.classList.add('active');
-      $('tab-' + id).classList.add('active');
-      const isNews = id === 'news';
-      $('heroWrap').style.display = isNews ? 'block' : 'none';
+      $('tab-'+id).classList.add('active');
+
+      if (id === 'news') {
+        $('heroLabel').textContent = 'KI · Tagesthema';
+        $('heroStats').style.display = 'none';
+        // Digest-Titel wieder anzeigen
+        const digest_title = window._digestTitle || '';
+        const h = $('heroTitle');
+        h.textContent = digest_title || '–';
+        h.classList.remove('skeleton');
+        $('heroSub').textContent = window._digestSub || '';
+      } else {
+        $('heroLabel').textContent = 'Aktien · Portfolio Übersicht';
+        $('heroSub').textContent = '21 Werte · alle Kurse in EUR';
+        const h = $('heroTitle');
+        h.classList.remove('skeleton');
+        h.textContent = '';
+        renderAktienHero();
+      }
+    }
+
+    function renderAktienHero() {
+      if (!stocks.length) return;
+      const valid = stocks.filter(s => !s.fehler && s.change_1d_pct != null);
+      const pos   = valid.filter(s => s.change_1d_pct > 0).length;
+      const neg   = valid.filter(s => s.change_1d_pct < 0).length;
+      const neu   = valid.filter(s => s.change_1d_pct === 0).length;
+      const stats = $('heroStats');
+      stats.innerHTML = `
+        <div class="hero-stat"><div class="hero-stat-val pos">▲ ${pos}</div><div class="hero-stat-label">Im Plus</div></div>
+        <div class="hero-stat"><div class="hero-stat-val neg">▼ ${neg}</div><div class="hero-stat-label">Im Minus</div></div>
+        <div class="hero-stat"><div class="hero-stat-val" style="color:var(--text3)">● ${neu}</div><div class="hero-stat-label">Unverändert</div></div>`;
+      stats.style.display = 'flex';
     }
 
     // ── Kat Tab ─────────────────────────────────────────────
-    function showKat(i) {
-      document.querySelectorAll('.kat-tab').forEach((t,j) => t.classList.toggle('active', i===j));
-      document.querySelectorAll('.kat-panel').forEach((p,j) => p.classList.toggle('active', i===j));
+    function showKat(i){
+      document.querySelectorAll('.kat-tab').forEach((t,j)=>t.classList.toggle('active',i===j));
+      document.querySelectorAll('.kat-panel').forEach((p,j)=>p.classList.toggle('active',i===j));
     }
 
-    // ── Artikel toggle ──────────────────────────────────────
-    function toggleA(el) { el.closest('.artikel').classList.toggle('open'); }
+    function toggleA(el){ el.closest('.artikel').classList.toggle('open'); }
 
     // ── KI-News ─────────────────────────────────────────────
-    async function ladeDigest() {
-      try {
+    async function ladeDigest(){
+      try{
         const d = await fetch('data/digest.json?v='+Date.now()).then(r=>r.json());
-        $('datumPill').textContent = d.datumISO || '–';
+        $('datumPill').textContent = d.datumISO||'–';
         const h = $('heroTitle');
         h.classList.remove('skeleton');
-        h.textContent = d.tagesthema || '–';
-        if (d.generiert_um) {
-          const dt = new Date(d.generiert_um);
-          $('updateInfo').textContent = 'Aktualisiert · ' + dt.toLocaleTimeString('de-DE',{hour:'2-digit',minute:'2-digit'}) + ' Uhr';
+        h.textContent = d.tagesthema||'–';
+        window._digestTitle = d.tagesthema||'–';
+        if(d.generiert_um){
+          const dt=new Date(d.generiert_um);
+          const sub='Aktualisiert · '+dt.toLocaleTimeString('de-DE',{hour:'2-digit',minute:'2-digit'})+' Uhr';
+          $('heroSub').textContent = sub;
+          window._digestSub = sub;
         }
 
-        const nav    = $('katNav');
-        const panels = $('katPanels');
-
-        if (!d.kategorien?.length) {
-          panels.innerHTML = `<div class="empty"><div class="empty-icon">◌</div><div class="empty-title">Noch kein Digest</div><div class="empty-text">Wird heute Nacht generiert.</div></div>`;
+        const nav=($('katNav')), panels=($('katPanels'));
+        if(!d.kategorien?.length){
+          panels.innerHTML=`<div class="empty"><div class="empty-icon">◌</div><div class="empty-title">Noch kein Digest</div><div class="empty-text">Wird heute Nacht generiert.</div></div>`;
           return;
         }
+        nav.innerHTML=''; panels.innerHTML=''; nav.style.display='flex';
 
-        nav.innerHTML = '';
-        panels.innerHTML = '';
-        nav.style.display = 'flex';
-
-        d.kategorien.forEach((kat, ki) => {
-          // Tab
-          const tab = document.createElement('button');
-          tab.className = 'kat-tab' + (ki===0?' active':'');
-          tab.innerHTML = `<span class="kat-tab-emoji">${kat.emoji||''}</span>${esc(kat.titel)}<span class="kat-tab-count">${(kat.artikel||[]).length}</span>`;
-          tab.onclick = () => showKat(ki);
+        d.kategorien.forEach((kat,ki)=>{
+          const tab=document.createElement('button');
+          tab.className='kat-tab'+(ki===0?' active':'');
+          tab.innerHTML=`${kat.emoji||''} ${esc(kat.titel)}<span class="kat-count">${(kat.artikel||[]).length}</span>`;
+          tab.onclick=()=>showKat(ki);
           nav.appendChild(tab);
 
-          // Panel
-          const panel = document.createElement('div');
-          panel.className = 'kat-panel' + (ki===0?' active':'');
-
-          panel.innerHTML = (kat.artikel||[]).map(a => `
+          const panel=document.createElement('div');
+          panel.className='kat-panel'+(ki===0?' active':'');
+          panel.innerHTML=(kat.artikel||[]).map(a=>`
             <div class="artikel">
               <div class="artikel-head" onclick="toggleA(this)">
                 <div class="artikel-head-main">
                   <div class="artikel-title">${esc(a.titel)}</div>
-                  <div class="artikel-foot-row">
+                  <div class="artikel-meta">
                     <span class="artikel-source">${esc(a.quelle||'')}</span>
-                    ${a.sterne?`<span class="artikel-dot">·</span><span class="artikel-stars">${esc(a.sterne)}</span>`:''}
+                    ${a.sterne?`<span style="color:var(--text3)">·</span><span class="artikel-stars">${esc(a.sterne)}</span>`:''}
                   </div>
                 </div>
                 <span class="chevron">▾</span>
@@ -665,51 +415,69 @@
                 </div>
               </div>
             </div>`).join('');
-
           panels.appendChild(panel);
         });
-
-      } catch(e) {
+      }catch(e){
         $('heroTitle').classList.remove('skeleton');
-        $('heroTitle').textContent = '–';
-        $('katPanels').innerHTML = `<div class="empty"><div class="empty-icon">⚠</div><div class="empty-title">Fehler beim Laden</div></div>`;
+        $('heroTitle').textContent='–';
+        $('katPanels').innerHTML=`<div class="empty"><div class="empty-icon">⚠</div><div class="empty-title">Fehler beim Laden</div></div>`;
       }
     }
 
     // ── YouTube ─────────────────────────────────────────────
-    async function ladeYT() {
-      try {
-        const d = await fetch('data/youtube.json?v='+Date.now()).then(r=>r.json());
-        const list = $('ytList');
-        const vids = d.videos||[];
-        if (!vids.length) {
-          list.innerHTML = `<div class="empty"><div class="empty-icon">▶</div><div class="empty-title">Keine Videos</div><div class="empty-text">Keine neuen Videos dieser Woche.</div></div>`;
-          return;
-        }
-        $('ytCount').textContent = vids.length + ' Videos';
-        list.innerHTML = '';
-        vids.forEach((v,i) => {
-          const a = document.createElement('a');
-          a.className = 'yt-card';
-          a.href = esc(v.link); a.target = '_blank'; a.rel = 'noopener';
-          a.style.animationDelay = (i*35)+'ms';
-          a.innerHTML = `<div class="yt-thumb"><img src="${esc(v.thumbnail)}" alt="" loading="lazy" onerror="this.style.display='none'"></div><div class="yt-body"><div class="yt-title">${esc(v.titel)}</div><div class="yt-meta"><span class="yt-channel">${esc(v.kanal)}</span><span class="yt-date">${esc(v.datum_de||'')}</span></div></div>`;
+    async function ladeYT(){
+      try{
+        const d=await fetch('data/youtube.json?v='+Date.now()).then(r=>r.json());
+        const list=$('ytList'); const vids=d.videos||[];
+        if(!vids.length){list.innerHTML=`<div class="empty"><div class="empty-icon">▶</div><div class="empty-title">Keine Videos</div><div class="empty-text">Keine neuen Videos dieser Woche.</div></div>`;return;}
+        $('ytCount').textContent=vids.length+' Videos';
+        list.innerHTML='';
+        vids.forEach((v,i)=>{
+          const a=document.createElement('a');
+          a.className='yt-card'; a.href=esc(v.link); a.target='_blank'; a.rel='noopener';
+          a.style.animationDelay=(i*35)+'ms';
+          a.innerHTML=`<div class="yt-thumb"><img src="${esc(v.thumbnail)}" alt="" loading="lazy" onerror="this.style.display='none'"></div><div class="yt-body"><div class="yt-title">${esc(v.titel)}</div><div class="yt-meta"><span class="yt-channel">${esc(v.kanal)}</span><span class="yt-date">${esc(v.datum_de||'')}</span></div></div>`;
           list.appendChild(a);
         });
-      } catch(e) {
-        $('ytList').innerHTML = `<div class="empty"><div class="empty-icon">⚠</div><div class="empty-title">Fehler</div></div>`;
-      }
+      }catch(e){$('ytList').innerHTML=`<div class="empty"><div class="empty-icon">⚠</div><div class="empty-title">Fehler</div></div>`;}
     }
 
     // ── Aktien ──────────────────────────────────────────────
-    let stocks = [];
+    function openPanel(name){
+      const s=stocks.find(x=>x.name===name);
+      if(!s||s.fehler)return;
+      $('panelTitle').textContent=s.name;
+      const pos=(s.change_1d_pct||0)>=0;
 
-    function openPanel(name) {
-      const s = stocks.find(x => x.name === name);
-      if (!s || s.fehler) return;
-      $('panelTitle').textContent = s.name;
-      const pos = (s.change_1d_pct||0) >= 0;
-      $('panelContent').innerHTML = `
+      // News HTML
+      let newsHTML='';
+      if(s.news?.length){
+        const items=s.news.map(n=>`
+          <a class="news-item" href="${esc(n.url)}" target="_blank" rel="noopener" ${!n.url?'style="pointer-events:none"':''}>
+            <div class="news-title">${esc(n.titel_de||n.titel)}</div>
+            ${n.zusammenfassung_de?`<div class="news-summary">${esc(n.zusammenfassung_de)}</div>`:''}
+            <div class="news-meta">
+              <span class="news-source">${esc(n.quelle||'')}</span>
+              <span class="news-date">${esc(n.datum_de||'')}</span>
+            </div>
+          </a>`).join('');
+        newsHTML=`<div class="news-section-label">Aktuelle News</div>${items}`;
+      }
+
+      // Analysten HTML
+      let analystHTML='';
+      if(s.recommendation||s.target_price){
+        analystHTML=`
+          <div class="analyst-block">
+            <div>
+              <div class="analyst-rec">${esc(s.recommendation||'–')}</div>
+              ${s.analyst_count?`<div class="analyst-count">${s.analyst_count} Analysten</div>`:''}
+            </div>
+            ${s.target_price?`<div class="analyst-target"><div class="analyst-target-val">${fmtE(s.target_price)}</div><div class="analyst-target-lbl">Kursziel</div></div>`:''}
+          </div>`;
+      }
+
+      $('panelContent').innerHTML=`
         <div class="price-block">
           <div class="price-top">
             <div><div class="price-name">${esc(s.name)}</div><div class="price-meta">${esc(s.ticker)} · WKN ${esc(s.wkn)}</div></div>
@@ -719,51 +487,51 @@
           ${rangeBar(s.price,s.week52_low,s.week52_high)}
         </div>
         <div class="perf-grid">
-          <div class="perf-cell"><div class="perf-label">1 Tag</div><div class="perf-val ${pcl(s.change_1d_pct)}">${fmtP(s.change_1d_pct)}</div></div>
-          <div class="perf-cell"><div class="perf-label">1 Woche</div><div class="perf-val ${pcl(s.change_1w_pct)}">${fmtP(s.change_1w_pct)}</div></div>
-          <div class="perf-cell"><div class="perf-label">1 Monat</div><div class="perf-val ${pcl(s.change_1m_pct)}">${fmtP(s.change_1m_pct)}</div></div>
-          <div class="perf-cell"><div class="perf-label">1 Jahr</div><div class="perf-val ${pcl(s.change_1y_pct)}">${fmtP(s.change_1y_pct)}</div></div>
+          <div class="perf-cell"><div class="perf-lbl">1 Tag</div><div class="perf-val ${pcl(s.change_1d_pct)}">${fmtP(s.change_1d_pct)}</div></div>
+          <div class="perf-cell"><div class="perf-lbl">1 Woche</div><div class="perf-val ${pcl(s.change_1w_pct)}">${fmtP(s.change_1w_pct)}</div></div>
+          <div class="perf-cell"><div class="perf-lbl">1 Monat</div><div class="perf-val ${pcl(s.change_1m_pct)}">${fmtP(s.change_1m_pct)}</div></div>
+          <div class="perf-cell"><div class="perf-lbl">1 Jahr</div><div class="perf-val ${pcl(s.change_1y_pct)}">${fmtP(s.change_1y_pct)}</div></div>
         </div>
         <div class="kenn-grid">
-          <div class="kenn-cell"><div class="kenn-label">Dividende</div><div class="kenn-val">${s.div_rate?fmtE(s.div_rate):'–'}</div></div>
-          <div class="kenn-cell"><div class="kenn-label">Div.-Rendite</div><div class="kenn-val">${s.div_yield?s.div_yield.toFixed(2)+'%':'–'}</div></div>
-          <div class="kenn-cell"><div class="kenn-label">KGV</div><div class="kenn-val">${s.pe_ratio?s.pe_ratio.toFixed(1):'–'}</div></div>
-          <div class="kenn-cell"><div class="kenn-label">Marktk.</div><div class="kenn-val">${s.market_cap||'–'}</div></div>
-          <div class="kenn-cell"><div class="kenn-label">52W Hoch</div><div class="kenn-val">${fmtE(s.week52_high)}</div></div>
-          <div class="kenn-cell"><div class="kenn-label">52W Tief</div><div class="kenn-val">${fmtE(s.week52_low)}</div></div>
-        </div>`;
+          <div class="kenn-cell"><div class="kenn-lbl">Dividende</div><div class="kenn-val">${s.div_rate?fmtE(s.div_rate):'–'}</div></div>
+          <div class="kenn-cell"><div class="kenn-lbl">Div.-Rendite</div><div class="kenn-val">${s.div_yield?s.div_yield.toFixed(2)+'%':'–'}</div></div>
+          <div class="kenn-cell"><div class="kenn-lbl">KGV</div><div class="kenn-val">${s.pe_ratio?s.pe_ratio.toFixed(1):'–'}</div></div>
+          <div class="kenn-cell"><div class="kenn-lbl">Marktk.</div><div class="kenn-val">${s.market_cap||'–'}</div></div>
+          <div class="kenn-cell"><div class="kenn-lbl">52W Hoch</div><div class="kenn-val">${fmtE(s.week52_high)}</div></div>
+          <div class="kenn-cell"><div class="kenn-lbl">52W Tief</div><div class="kenn-val">${fmtE(s.week52_low)}</div></div>
+        </div>
+        ${analystHTML}
+        ${newsHTML}`;
+
       $('overlay').classList.add('open');
     }
 
-    function closePanel(e) {
-      if (e && e.target !== $('overlay')) return;
+    function closePanel(e){
+      if(e&&e.target!==$('overlay'))return;
       $('overlay').classList.remove('open');
     }
 
-    async function ladeAktien() {
-      try {
-        const d = await fetch('data/stocks.json?v='+Date.now()).then(r=>r.json());
-        stocks = d.aktien||[];
-        if (d.aktualisiert) {
-          const dt = new Date(d.aktualisiert);
-          $('stocksTs').textContent = dt.toLocaleDateString('de-DE') + ' · ' + dt.toLocaleTimeString('de-DE',{hour:'2-digit',minute:'2-digit'});
-        }
-        const list = $('stockList');
-        if (!stocks.length) { list.innerHTML = `<div class="empty"><div class="empty-icon">◌</div><div class="empty-title">Keine Daten</div></div>`; return; }
-        list.innerHTML = '';
-        stocks.forEach((s,i) => {
-          if (s.fehler) return;
-          const btn = document.createElement('button');
-          btn.className = 'stock-row';
-          btn.style.animationDelay = (i*25)+'ms';
-          btn.onclick = () => openPanel(s.name);
-          const p = s.change_1w_pct;
-          const lbl = p!=null?(p>=0?'+':'')+p.toFixed(2)+'%':'–';
-          const cls = p!=null?(p>0?'pos':p<0?'neg':'neu'):'neu';
-          btn.innerHTML = `<div class="stock-row-left"><div class="stock-name">${esc(s.name)}</div><div class="stock-price">${fmtE(s.price)}</div></div><div class="stock-row-right"><div class="stock-pct ${cls}">${lbl}</div><span class="stock-pct-label">1 Woche</span></div>`;
+    async function ladeAktien(){
+      try{
+        const d=await fetch('data/stocks.json?v='+Date.now()).then(r=>r.json());
+        stocks=d.aktien||[];
+        const list=$('stockList');
+        if(!stocks.length){list.innerHTML=`<div class="empty"><div class="empty-icon">◌</div><div class="empty-title">Keine Daten</div></div>`;return;}
+        list.innerHTML='';
+        stocks.forEach((s,i)=>{
+          if(s.fehler)return;
+          const btn=document.createElement('button');
+          btn.className='stock-row'; btn.style.animationDelay=(i*25)+'ms';
+          btn.onclick=()=>openPanel(s.name);
+          const p=s.change_1w_pct;
+          const lbl=p!=null?(p>=0?'+':'')+p.toFixed(2)+'%':'–';
+          const cls=p!=null?(p>0?'pos':p<0?'neg':'neu'):'neu';
+          btn.innerHTML=`<div class="stock-row-left"><div class="stock-name">${esc(s.name)}</div><div class="stock-price">${fmtE(s.price)}</div></div><div class="stock-row-right"><div class="stock-pct ${cls}">${lbl}</div><span class="stock-pct-label">1 Woche</span></div>`;
           list.appendChild(btn);
         });
-      } catch(e) { console.error(e); }
+        // Hero Stats rendern wenn Aktien-Tab aktiv
+        if(document.querySelector('.main-tab.active')?.textContent==='Aktien') renderAktienHero();
+      }catch(e){console.error(e);}
     }
 
     ladeDigest();
