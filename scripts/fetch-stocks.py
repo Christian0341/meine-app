@@ -28,7 +28,7 @@ STOCKS = [
     {"wkn": "851995", "name": "PepsiCo",                "ticker": "PEP"},
     {"wkn": "899744", "name": "Realty Income",          "ticker": "O"},
     {"wkn": "852147", "name": "Rio Tinto",              "ticker": "RIO"},
-    {"wkn": "A3C99G", "name": "Shell", "ticker": "SHEL.AS"},
+ {"wkn": "A3C99G", "name": "Shell", "ticker": "SHELL.AS"},
     {"wkn": "723133", "name": "Sixt",                   "ticker": "SIX2.DE"},
     {"wkn": "852654", "name": "Texas Instruments",      "ticker": "TXN"},
     {"wkn": "869561", "name": "UnitedHealth",           "ticker": "UNH"},
