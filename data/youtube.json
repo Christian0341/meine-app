@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-03-22T08:00:20.330254+00:00",
+  "aktualisiert": "2026-03-22T19:21:40.553422+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Uwe Boll",
+      "titel": "Krieg, KI &amp; Politik-Desaster 😳 Uwe Boll packt aus!",
+      "link": "https://www.youtube.com/watch?v=kQuOAOZXY5Y",
+      "video_id": "kQuOAOZXY5Y",
+      "thumbnail": "https://img.youtube.com/vi/kQuOAOZXY5Y/mqdefault.jpg",
+      "datum": "2026-03-22T17:15:08Z",
+      "datum_de": "22.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "GarKeinBock",
+      "titel": "Der KI-GOLDRAUSCH ist eine LÜGE (und du fällst darauf rein)",
+      "link": "https://www.youtube.com/watch?v=ZRLEyvRPGSM",
+      "video_id": "ZRLEyvRPGSM",
+      "thumbnail": "https://img.youtube.com/vi/ZRLEyvRPGSM/mqdefault.jpg",
+      "datum": "2026-03-22T17:00:00Z",
+      "datum_de": "22.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "FOKUS CHINA (Deutsch)",
+      "titel": "KI: China vs. Westen, der grosse UNTERSCHIED #chinanews",
+      "link": "https://www.youtube.com/watch?v=t277Lcl5-Hk",
+      "video_id": "t277Lcl5-Hk",
+      "thumbnail": "https://img.youtube.com/vi/t277Lcl5-Hk/mqdefault.jpg",
+      "datum": "2026-03-22T15:54:07Z",
+      "datum_de": "22.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Live von NVIDIA GTC! NemoClaw, GPT-5.4 Agents, Claude Cowork, Google „Stitch\" & weitere KI-News",
+      "link": "https://www.youtube.com/watch?v=U07CLU73PEc",
+      "video_id": "U07CLU73PEc",
+      "thumbnail": "https://img.youtube.com/vi/U07CLU73PEc/mqdefault.jpg",
+      "datum": "2026-03-22T09:16:00+00:00",
+      "datum_de": "22.03.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Daniel Igl",
+      "titel": "Neustart mit 0€: So würde ich mit TikTok + KI Geld verdienen (Anleitung für Anfänger 2026)",
+      "link": "https://www.youtube.com/watch?v=D6-XpglGmCE",
+      "video_id": "D6-XpglGmCE",
+      "thumbnail": "https://img.youtube.com/vi/D6-XpglGmCE/mqdefault.jpg",
+      "datum": "2026-03-21T16:59:00Z",
+      "datum_de": "21.03.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Neuland Pro",
       "titel": "Kranke KI-Revolution: Dieses neue Tool verändert ALLES",
@@ -9,7 +59,98 @@
       "video_id": "CJ3qQw9Rgko",
       "thumbnail": "https://img.youtube.com/vi/CJ3qQw9Rgko/mqdefault.jpg",
       "datum": "2026-03-21T09:21:30+00:00",
-      "datum_de": "21.03.2026"
+      "datum_de": "21.03.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Servus AI",
+      "titel": "Mein Mann betrügt mich #österreich #deutschland #deutsch #berlin #ki #ai #germany #aivideo #wien",
+      "link": "https://www.youtube.com/watch?v=i7i1BJkbjWE",
+      "video_id": "i7i1BJkbjWE",
+      "thumbnail": "https://img.youtube.com/vi/i7i1BJkbjWE/mqdefault.jpg",
+      "datum": "2026-03-20T23:25:39Z",
+      "datum_de": "20.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Servus AI",
+      "titel": "Meine Frau hat mich betrogen #österreich #österreich #deutschland #deutsch #berlin #ki #ai #aivideo",
+      "link": "https://www.youtube.com/watch?v=fR52MXHsbug",
+      "video_id": "fR52MXHsbug",
+      "thumbnail": "https://img.youtube.com/vi/fR52MXHsbug/mqdefault.jpg",
+      "datum": "2026-03-20T23:09:40Z",
+      "datum_de": "20.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KINewsPaul",
+      "titel": "Meta KI-Agent bricht aus – Sev 1 Sicherheitsvorfall",
+      "link": "https://www.youtube.com/watch?v=to2C4VKIJOw",
+      "video_id": "to2C4VKIJOw",
+      "thumbnail": "https://img.youtube.com/vi/to2C4VKIJOw/mqdefault.jpg",
+      "datum": "2026-03-20T20:55:02Z",
+      "datum_de": "20.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "WPerfolg - KI & Online Marketing meistern",
+      "titel": "Claude Tutorial für Einsteiger (2026): In 20 Minuten zum Claude AI Profi werden",
+      "link": "https://www.youtube.com/watch?v=I8CNU7GLwTY",
+      "video_id": "I8CNU7GLwTY",
+      "thumbnail": "https://img.youtube.com/vi/I8CNU7GLwTY/mqdefault.jpg",
+      "datum": "2026-03-20T19:18:06Z",
+      "datum_de": "20.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Fakten",
+      "titel": "[KI-generiert] Von Prypjat bis Centralia – entdecke die faszinierendsten Orte der Wel...",
+      "link": "https://www.youtube.com/watch?v=QhyJph5hDI0",
+      "video_id": "QhyJph5hDI0",
+      "thumbnail": "https://img.youtube.com/vi/QhyJph5hDI0/mqdefault.jpg",
+      "datum": "2026-03-20T18:09:28Z",
+      "datum_de": "20.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "LuisQ",
+      "titel": "KI-Tools Blind-Ranking 🤯",
+      "link": "https://www.youtube.com/watch?v=ka5lXJGCDyA",
+      "video_id": "ka5lXJGCDyA",
+      "thumbnail": "https://img.youtube.com/vi/ka5lXJGCDyA/mqdefault.jpg",
+      "datum": "2026-03-20T17:30:30Z",
+      "datum_de": "20.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "fernstudi.tv",
+      "titel": "Bevor du wegen KI im #Studium durchfällst: So checkst du, was erlaubt ist 🎓 #kiimstudium #hochschule",
+      "link": "https://www.youtube.com/watch?v=c7fVFe-Zngs",
+      "video_id": "c7fVFe-Zngs",
+      "thumbnail": "https://img.youtube.com/vi/c7fVFe-Zngs/mqdefault.jpg",
+      "datum": "2026-03-20T15:45:04Z",
+      "datum_de": "20.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "MUTPUNKT-DealFlow",
+      "titel": "KI Anfänger Angst? Die gefährlichen KI-Agenten. Das mußt Du wissen.",
+      "link": "https://www.youtube.com/watch?v=zU68n_MbPAg",
+      "video_id": "zU68n_MbPAg",
+      "thumbnail": "https://img.youtube.com/vi/zU68n_MbPAg/mqdefault.jpg",
+      "datum": "2026-03-20T12:45:19Z",
+      "datum_de": "20.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Julian Ivanov | KI-Automatisierung",
+      "titel": "Die 10 besten Claude Code Skills &amp; Plugins",
+      "link": "https://www.youtube.com/watch?v=Vx6QlEhyybQ",
+      "video_id": "Vx6QlEhyybQ",
+      "thumbnail": "https://img.youtube.com/vi/Vx6QlEhyybQ/mqdefault.jpg",
+      "datum": "2026-03-19T19:52:36Z",
+      "datum_de": "19.03.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Everlast AI",
@@ -18,7 +159,48 @@
       "video_id": "y2C64llGOFI",
       "thumbnail": "https://img.youtube.com/vi/y2C64llGOFI/mqdefault.jpg",
       "datum": "2026-03-19T16:15:00+00:00",
-      "datum_de": "19.03.2026"
+      "datum_de": "19.03.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Thomas Oertel",
+      "titel": "ChatGPT über Trump (61) - Exitstrategie",
+      "link": "https://www.youtube.com/watch?v=ARKnbT3RzLI",
+      "video_id": "ARKnbT3RzLI",
+      "thumbnail": "https://img.youtube.com/vi/ARKnbT3RzLI/mqdefault.jpg",
+      "datum": "2026-03-19T11:21:00Z",
+      "datum_de": "19.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Strategiewerkstatt Podcast",
+      "titel": "ChatGPT Agenten: Einkaufen mit KI, die Zukunft jetzt! #shorts",
+      "link": "https://www.youtube.com/watch?v=OG4Zmepv1VA",
+      "video_id": "OG4Zmepv1VA",
+      "thumbnail": "https://img.youtube.com/vi/OG4Zmepv1VA/mqdefault.jpg",
+      "datum": "2026-03-19T04:57:43Z",
+      "datum_de": "19.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Brennpunkt Bremen ",
+      "titel": "#deutschrap #rap #hiphop #chatgpt",
+      "link": "https://www.youtube.com/watch?v=8BLHUm7onJk",
+      "video_id": "8BLHUm7onJk",
+      "thumbnail": "https://img.youtube.com/vi/8BLHUm7onJk/mqdefault.jpg",
+      "datum": "2026-03-18T18:00:08Z",
+      "datum_de": "18.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AI Mentors",
+      "titel": "Diese kostenlosen Google KI-Tools machen bezahlte Tools sinnlos",
+      "link": "https://www.youtube.com/watch?v=l1yYW0B_E4Y",
+      "video_id": "l1yYW0B_E4Y",
+      "thumbnail": "https://img.youtube.com/vi/l1yYW0B_E4Y/mqdefault.jpg",
+      "datum": "2026-03-18T16:30:33Z",
+      "datum_de": "18.03.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Everlast AI",
@@ -27,7 +209,18 @@
       "video_id": "yOFb95LgnoM",
       "thumbnail": "https://img.youtube.com/vi/yOFb95LgnoM/mqdefault.jpg",
       "datum": "2026-03-18T16:15:00+00:00",
-      "datum_de": "18.03.2026"
+      "datum_de": "18.03.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Thomas Oertel",
+      "titel": "ChatGPT über Trump (60) - Kriegsunterstützung",
+      "link": "https://www.youtube.com/watch?v=8bG4Hjc9Hto",
+      "video_id": "8bG4Hjc9Hto",
+      "thumbnail": "https://img.youtube.com/vi/8bG4Hjc9Hto/mqdefault.jpg",
+      "datum": "2026-03-18T15:16:00Z",
+      "datum_de": "18.03.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Everlast AI",
@@ -36,7 +229,38 @@
       "video_id": "9nnsszlfE0w",
       "thumbnail": "https://img.youtube.com/vi/9nnsszlfE0w/mqdefault.jpg",
       "datum": "2026-03-17T16:15:00+00:00",
-      "datum_de": "17.03.2026"
+      "datum_de": "17.03.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Ich und die KI",
+      "titel": "So erstellst du gute Videos mit KI – mein Experiment",
+      "link": "https://www.youtube.com/watch?v=1rYgw4b2llo",
+      "video_id": "1rYgw4b2llo",
+      "thumbnail": "https://img.youtube.com/vi/1rYgw4b2llo/mqdefault.jpg",
+      "datum": "2026-03-17T16:00:02Z",
+      "datum_de": "17.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "Manus bringt OpenClaw alternative -  So gut ist der Lokale KI Agent + Installation",
+      "link": "https://www.youtube.com/watch?v=5bYUxINuqvQ",
+      "video_id": "5bYUxINuqvQ",
+      "thumbnail": "https://img.youtube.com/vi/5bYUxINuqvQ/mqdefault.jpg",
+      "datum": "2026-03-17T15:08:23Z",
+      "datum_de": "17.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Matt Wolfe",
+      "titel": "Perplexity “Computer” is Kind of Insane",
+      "link": "https://www.youtube.com/watch?v=nc0oIVfpSqo",
+      "video_id": "nc0oIVfpSqo",
+      "thumbnail": "https://img.youtube.com/vi/nc0oIVfpSqo/mqdefault.jpg",
+      "datum": "2026-03-17T14:50:08Z",
+      "datum_de": "17.03.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Neuland Pro",
@@ -45,7 +269,28 @@
       "video_id": "Xr31tM0pqP4",
       "thumbnail": "https://img.youtube.com/vi/Xr31tM0pqP4/mqdefault.jpg",
       "datum": "2026-03-17T14:00:06+00:00",
-      "datum_de": "17.03.2026"
+      "datum_de": "17.03.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Moritz Brandes",
+      "titel": "Claude Code und Codex für Software Entwickler - Sauberer Code | deutsch",
+      "link": "https://www.youtube.com/watch?v=6tS_mfSrh1M",
+      "video_id": "6tS_mfSrh1M",
+      "thumbnail": "https://img.youtube.com/vi/6tS_mfSrh1M/mqdefault.jpg",
+      "datum": "2026-03-17T09:39:13Z",
+      "datum_de": "17.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Felicia Simon",
+      "titel": "Diese KI News ändern alles: Der Wettbewerb zwischen ChatGPT, Gemini, Meta AI und Claude 🤯",
+      "link": "https://www.youtube.com/watch?v=Ah-3fSxusgA",
+      "video_id": "Ah-3fSxusgA",
+      "thumbnail": "https://img.youtube.com/vi/Ah-3fSxusgA/mqdefault.jpg",
+      "datum": "2026-03-16T15:45:02Z",
+      "datum_de": "16.03.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Christoph Magnussen",
@@ -54,25 +299,8 @@
       "video_id": "bcRAM0Q1gF8",
       "thumbnail": "https://img.youtube.com/vi/bcRAM0Q1gF8/mqdefault.jpg",
       "datum": "2026-03-16T08:50:12+00:00",
-      "datum_de": "16.03.2026"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Kann ChatGPT 5.4 endlich überzeugen? Neue Modelle und Skills Feature!",
-      "link": "https://www.youtube.com/watch?v=o8ldzkIckTA",
-      "video_id": "o8ldzkIckTA",
-      "thumbnail": "https://img.youtube.com/vi/o8ldzkIckTA/mqdefault.jpg",
-      "datum": "2026-03-15T14:01:11+00:00",
-      "datum_de": "15.03.2026"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Massive Claude Code & ChatGPT Updates! Neue Skills, Gemini Embedding, RAG-Interview & mehr KI-News",
-      "link": "https://www.youtube.com/watch?v=tu5aAXDXj6s",
-      "video_id": "tu5aAXDXj6s",
-      "thumbnail": "https://img.youtube.com/vi/tu5aAXDXj6s/mqdefault.jpg",
-      "datum": "2026-03-15T09:15:00+00:00",
-      "datum_de": "15.03.2026"
+      "datum_de": "16.03.2026",
+      "quelle": "kanal"
     }
   ]
 }
