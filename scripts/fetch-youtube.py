@@ -18,33 +18,47 @@ FESTE_KANAELE = [
 
 # ── Suchbegriffe ──────────────────────────────────────────────────────────────
 SUCHBEGRIFFE = [
-    "ChatGPT Tutorial deutsch 2026",
-    "Claude AI deutsch Tutorial",
-    "KI Automatisierung n8n deutsch",
-    "künstliche Intelligenz Anwendung deutsch",
-    "AI Agent deutsch Tutorial",
-    "Gemini KI deutsch",
-    "LLM deutsch Tutorial",
+    "KI Tutorial deutsch 2026",
+    "ChatGPT deutsch anleitung",
+    "Claude Anthropic deutsch",
+    "KI Automatisierung deutsch tutorial",
+    "künstliche Intelligenz deutsch neu",
+    "AI Werkzeuge deutsch",
+    "Gemini Google KI deutsch",
+    "KI Agent bauen deutsch",
+    "n8n deutsch tutorial",
+    "KI News deutsch woche",
 ]
 
-# ── KI-relevante Schlüsselwörter (mind. 1 muss im Titel vorkommen) ────────────
+# ── KI-relevante Schlüsselwörter ──────────────────────────────────────────────
 KI_KEYWORDS = [
-    "ki ", "k.i.", "ai ", "a.i.", "künstliche intelligenz",
-    "chatgpt", "claude", "gemini", "llm", "gpt", "copilot",
-    "midjourney", "stable diffusion", "ollama", "llama",
+    "ki ", " ki,", " ki.", "k.i.", " ai ", "a.i.", "künstliche intelligenz",
+    "chatgpt", "claude", "gemini", "llm", "gpt", "copilot", "openai",
+    "midjourney", "stable diffusion", "ollama", "llama", "mistral",
     "machine learning", "deep learning", "neural", "automatisierung",
-    "n8n", "make.com", "zapier", "agent", "prompt", "rag",
-    "openai", "anthropic", "mistral", "perplexity", "hugging face",
-    "sprachmodell", "bildgenerierung", "ki-tool", "ki tool",
-    "sora", "runway", "elevenlabs", "midjourney",
+    "n8n", "make.com", "agent", "prompt", "rag", "anthropic",
+    "sprachmodell", "bildgenerierung", "ki-tool", "ki tool", "ki-news",
+    "sora", "runway", "elevenlabs", "perplexity", "notebooklm",
+    "cowork", "cursor", "windsurf", "replit", "bolt.new",
 ]
 
-# ── Ausschluss-Wörter (sofortiger Ausschluss wenn im Titel) ──────────────────
+# ── Blacklist ──────────────────────────────────────────────────────────────────
 BLACKLIST = [
-    "betrügt", "betrogen", "rap", "hiphop", "musik", "song",
+    "betrügt", "betrogen", "rap", "hiphop", "musik", "song", "rocksong",
     "politik", "trump", "krieg", "sport", "fußball", "rezept",
-    "fitness", "meditation", "reise", "urlaub", "kochen",
-    "prypjat", "centralia", "uwe boll", "österreich #", "deutschland #",
+    "fitness", "meditation", "reise", "urlaub", "kochen", "backen",
+    "prypjat", "centralia", "uwe boll",
+]
+
+# ── Eindeutig englische Wörter (wenn 2+ davon vorkommen = englisch) ───────────
+ENGLISH_WORDS = [
+    " the ", " this ", " that ", " with ", " your ", " you ",
+    " how ", " best ", " new ", " use ", " using ", " build ",
+    " make ", " create ", " learn ", " from ", " into ", " just ",
+    "i gave", "i built", "i tried", "i made", "i tested",
+    " is ", " are ", " was ", " will ", " can ", " vs ",
+    " full ", " access ", " agent ", " update ", " tool ",
+    "which ai", "what ai", "why ai",
 ]
 
 RSS_BASE = "https://www.youtube.com/feeds/videos.xml?channel_id="
@@ -57,30 +71,20 @@ cutoff_str = cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")
 alle_videos = []
 bekannte_ids = set()
 
+def ist_englisch(titel):
+    t = " " + titel.lower() + " "
+    treffer = sum(1 for w in ENGLISH_WORDS if w in t)
+    return treffer >= 2
+
 def ist_ki_relevant(titel):
-    """Prüft ob ein Video KI-relevant ist"""
-    titel_lower = titel.lower()
-    # Blacklist prüfen
+    t = " " + titel.lower() + " "
     for word in BLACKLIST:
-        if word in titel_lower:
+        if word in t:
             return False
-    # Mind. ein KI-Keyword muss vorkommen
     for kw in KI_KEYWORDS:
-        if kw in titel_lower:
+        if kw in t:
             return True
     return False
-
-def ist_englisch(titel):
-    """Grobe Erkennung englischer Titel"""
-    english_indicators = [
-        " the ", "how to ", " is ", " are ", " was ", " will ",
-        " can ", " your ", " you ", " this ", " that ", " with ",
-        " for ", " from ", " best ", " new ", " vs ", "i tried",
-        "i built", "i made", "we built",
-    ]
-    titel_lower = " " + titel.lower() + " "
-    count = sum(1 for w in english_indicators if w in titel_lower)
-    return count >= 2
 
 # ── Teil 1: Feste Kanäle per RSS ─────────────────────────────────────────────
 print("=== Feste Kanäle ===")
@@ -120,7 +124,7 @@ for kanal in FESTE_KANAELE:
             count += 1
             print(f"  ✓ {titel[:60]}")
         if count == 0:
-            print(f"  Keine Videos in den letzten 7 Tagen")
+            print("  Keine Videos in den letzten 7 Tagen")
     except Exception as e:
         print(f"  Fehler: {e}")
 
@@ -141,7 +145,7 @@ else:
                 "order":             "date",
                 "publishedAfter":    cutoff_str,
                 "relevanceLanguage": "de",
-                "videoDuration":     "medium",  # 4-20 Minuten (keine Shorts)
+                "videoDuration":     "medium",
             }
             r = requests.get("https://www.googleapis.com/youtube/v3/search", params=params, timeout=10)
             r.raise_for_status()
@@ -157,7 +161,6 @@ else:
                 kanal   = snippet.get("channelTitle", "")
                 pub_str = snippet.get("publishedAt", "")
 
-                # Filter anwenden
                 if ist_englisch(titel):
                     print(f"  SKIP (englisch): {titel[:50]}")
                     continue
@@ -200,6 +203,6 @@ os.makedirs("data", exist_ok=True)
 with open("data/youtube.json", "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
-kanal_count  = sum(1 for v in alle_videos if v.get('quelle') == 'kanal')
-suche_count  = sum(1 for v in alle_videos if v.get('quelle') == 'suche')
+kanal_count = sum(1 for v in alle_videos if v.get('quelle') == 'kanal')
+suche_count = sum(1 for v in alle_videos if v.get('quelle') == 'suche')
 print(f"\nFertig! {len(alle_videos)} Videos ({kanal_count} Kanal, {suche_count} Suche).")
