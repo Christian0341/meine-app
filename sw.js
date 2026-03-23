@@ -1,4 +1,4 @@
-const CACHE_NAME = 'meine-app-v3';
+const CACHE_NAME = 'meine-app-v4';
 const STATIC_FILES = [
   '/',
   '/index.html',
