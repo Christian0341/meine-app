@@ -1,13 +1,13 @@
 {
-  "aktualisiert": "2026-03-23T20:11:44.515781+00:00",
+  "aktualisiert": "2026-03-23T20:17:40.729682+00:00",
   "aktien": [
     {
       "wkn": "A1J84E",
       "name": "AbbVie",
       "ticker": "ABBV",
       "currency": "EUR",
-      "price": 176.39,
-      "change_1d_pct": -0.06,
+      "price": 176.38,
+      "change_1d_pct": -0.07,
       "change_1w_pct": -7.46,
       "change_1m_pct": -8.84,
       "change_1y_pct": 1.26,
@@ -47,12 +47,37 @@
         179.3182,
         177.5022,
         176.5038,
-        176.3919
+        176.3832
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 214.43,
       "analyst_count": 29,
-      "news": [],
+      "news": [
+        {
+          "titel": "Why AbbVie Stock Looks Like a Dirt Cheap Buy Right Now",
+          "url": "https://www.fool.com/investing/2026/03/23/why-abbvie-stock-looks-like-a-dirt-cheap-buy-right/",
+          "quelle": "Motley Fool",
+          "datum": "2026-03-23T18:50:00Z"
+        },
+        {
+          "titel": "Jim Cramer on Johnson & Johnson: “It’s a Textbook Slowdown Stock”",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-johnson-johnson-textbook-163122570.html",
+          "quelle": "Insider Monkey",
+          "datum": "2026-03-21T16:31:22Z"
+        },
+        {
+          "titel": "The Market’s Favorite Active ETF Was Made for This Moment. Is It Delivering?",
+          "url": "https://www.barrons.com/articles/markets-favorite-active-etf-is-it-delivering-ce70ee56?siteid=yhoof2&yptr=yahoo",
+          "quelle": "Barrons.com",
+          "datum": "2026-03-20T17:17:00Z"
+        },
+        {
+          "titel": "Protagonist Therapeutics Stock Rallies Nearly 7% in a Week: Here's Why",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/protagonist-therapeutics-stock-rallies-nearly-160000220.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-20T16:00:00Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -106,7 +131,32 @@
       "analyst_rating": "Kaufen",
       "analyst_target": 39.98,
       "analyst_count": 16,
-      "news": [],
+      "news": [
+        {
+          "titel": "Assessing Ahold Delhaize’s (ENXTAM:AD) Valuation After Strong Recent Share Price Momentum",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-ahold-delhaize-enxtam-ad-020549148.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-03-19T02:05:49Z"
+        },
+        {
+          "titel": "ADRNY vs. CL: Which Stock Is the Better Value Option?",
+          "url": "https://finance.yahoo.com/news/adrny-vs-cl-stock-better-154003184.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-17T15:40:03Z"
+        },
+        {
+          "titel": "Should Value Investors Buy Ahold (ADRNY) Stock?",
+          "url": "https://finance.yahoo.com/news/value-investors-buy-ahold-adrny-134004237.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-17T13:40:04Z"
+        },
+        {
+          "titel": "Are Consumer Staples Stocks Lagging  Ahold (ADRNY) This Year?",
+          "url": "https://finance.yahoo.com/news/consumer-staples-stocks-lagging-ahold-134002385.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-17T13:40:02Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -160,7 +210,32 @@
       "analyst_rating": "Kaufen",
       "analyst_target": 396.75,
       "analyst_count": 18,
-      "news": [],
+      "news": [
+        {
+          "titel": "Iran war is a risk to the flow of Gulf funds around the globe",
+          "url": "https://finance.yahoo.com/economy/articles/iran-war-risk-flow-gulf-050025408.html",
+          "quelle": "Financial Times",
+          "datum": "2026-03-23T05:00:25Z"
+        },
+        {
+          "titel": "Allianz SE (ALIZY) Posts Record Operating Profit As It Launches A Big Buyback Plan",
+          "url": "https://finance.yahoo.com/news/allianz-se-alizy-posts-record-183148806.html",
+          "quelle": "Insider Monkey",
+          "datum": "2026-03-13T18:31:48Z"
+        },
+        {
+          "titel": "Allianz and Sun Life vie for HSBC Singapore insurance unit – report",
+          "url": "https://www.lifeinsuranceinternational.com/news/allianz-sun-life-hsbc-singapore-insurance/",
+          "quelle": "Life Insurance International",
+          "datum": "2026-03-13T09:22:07Z"
+        },
+        {
+          "titel": "Allianz Expands India Reinsurance And US Annuities While Balancing Growth And Risk",
+          "url": "https://finance.yahoo.com/news/allianz-expands-india-reinsurance-us-091302214.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-03-12T09:13:02Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -168,17 +243,17 @@
       "name": "Boeing",
       "ticker": "BA",
       "currency": "EUR",
-      "price": 170.79,
-      "change_1d_pct": 1.7,
+      "price": 170.77,
+      "change_1d_pct": 1.69,
       "change_1w_pct": -7.05,
-      "change_1m_pct": -14.48,
-      "change_1y_pct": 9.69,
+      "change_1m_pct": -14.49,
+      "change_1y_pct": 9.68,
       "week52_high": 218.92,
       "week52_low": 110.93,
       "div_yield": null,
       "div_rate": null,
       "market_cap": "155.9B",
-      "pe_ratio": 80.01,
+      "pe_ratio": 80.0,
       "sparkline": [
         210.6219,
         208.7972,
@@ -209,12 +284,37 @@
         177.2956,
         173.1556,
         167.9398,
-        170.7887
+        170.7715
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 234.33,
       "analyst_count": 24,
-      "news": [],
+      "news": [
+        {
+          "titel": "The Boeing Company (BA) Secures 777 FAA Node Amid Soaring Demand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-company-ba-secures-777-184031589.html",
+          "quelle": "Insider Monkey",
+          "datum": "2026-03-23T18:40:31Z"
+        },
+        {
+          "titel": "Boeing vs Honeywell vs 3M: Which Dip Is the Best Buy Right Now?",
+          "url": "https://247wallst.com/investing/2026/03/23/boeing-vs-honeywell-vs-3m-which-dip-is-the-best-buy-right-now/",
+          "quelle": "24/7 Wall St.",
+          "datum": "2026-03-23T15:35:25Z"
+        },
+        {
+          "titel": "Boeing vs. General Dynamics: Which Aerospace Stock Is the Better Bet?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-vs-general-dynamics-aerospace-152700829.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-23T15:27:00Z"
+        },
+        {
+          "titel": "Could This Be China’s Strategy To Paralyze the Pentagon?",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/could-china-strategy-paralyze-pentagon-143800053.html",
+          "quelle": "Oilprice.com",
+          "datum": "2026-03-23T14:38:00Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -268,7 +368,32 @@
       "analyst_rating": "Halten",
       "analyst_target": 53.98,
       "analyst_count": 25,
-      "news": [],
+      "news": [
+        {
+          "titel": "FDA Approves BMY's Opdivo Label Expansion in Classical Hodgkin Lymphoma",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/fda-approves-bmys-opdivo-label-152900017.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-23T15:29:00Z"
+        },
+        {
+          "titel": "Can Anktiva's Label Expansion Unlock the Next Growth Phase for IBRX?",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/anktivas-label-expansion-unlock-next-135700992.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-23T13:57:00Z"
+        },
+        {
+          "titel": "3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-ranked-dividend-stocks-131002527.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-23T13:10:02Z"
+        },
+        {
+          "titel": "Colgate-Palmolive Taps Healthcare And Regional Marketing Expertise For Growth",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/colgate-palmolive-taps-healthcare-regional-050417918.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-03-23T05:04:17Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -322,7 +447,32 @@
       "analyst_rating": "Kaufen",
       "analyst_target": 52.42,
       "analyst_count": 5,
-      "news": [],
+      "news": [
+        {
+          "titel": "A Look At British American Tobacco’s Valuation As Long Term Returns Draw Investor Interest",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/look-british-american-tobacco-valuation-120321041.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-03-21T12:03:21Z"
+        },
+        {
+          "titel": "Are Consumer Staples Stocks Lagging  Ahold (ADRNY) This Year?",
+          "url": "https://finance.yahoo.com/news/consumer-staples-stocks-lagging-ahold-134002385.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-17T13:40:02Z"
+        },
+        {
+          "titel": "Trump appointee proposes ripping out the White House's 200-year-old columns for the flashier style found at Mar-a-Lago",
+          "url": "https://finance.yahoo.com/news/trump-appointee-proposes-ripping-white-020500010.html",
+          "quelle": "Moneywise",
+          "datum": "2026-03-16T02:05:00Z"
+        },
+        {
+          "titel": "Philip Morris vs. British American Tobacco: Which Tobacco Giant Wins for Income Investors?",
+          "url": "https://247wallst.com/investing/2026/03/13/philip-morris-vs-british-american-tobacco-which-tobacco-giant-wins-for-income-investors/",
+          "quelle": "24/7 Wall St.",
+          "datum": "2026-03-13T13:43:19Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -330,17 +480,17 @@
       "name": "Cisco Systems",
       "ticker": "CSCO",
       "currency": "EUR",
-      "price": 67.85,
-      "change_1d_pct": 1.52,
-      "change_1w_pct": -0.08,
-      "change_1m_pct": -0.46,
-      "change_1y_pct": 32.44,
+      "price": 67.84,
+      "change_1d_pct": 1.51,
+      "change_1w_pct": -0.1,
+      "change_1m_pct": -0.48,
+      "change_1y_pct": 32.42,
       "week52_high": 75.91,
       "week52_low": 44.85,
       "div_yield": null,
       "div_rate": 1.45,
-      "market_cap": "311.5B",
-      "pe_ratio": 28.36,
+      "market_cap": "311.4B",
+      "pe_ratio": 28.35,
       "sparkline": [
         74.6915,
         74.2698,
@@ -371,12 +521,37 @@
         66.7903,
         67.5736,
         66.8334,
-        67.8533
+        67.8404
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 76.44,
       "analyst_count": 21,
-      "news": [],
+      "news": [
+        {
+          "titel": "Cisco launches security services to protect the world from AI agents and each other",
+          "url": "https://finance.yahoo.com/news/cisco-launches-security-services-to-protect-the-world-from-ai-agents-and-each-other-200523498.html",
+          "quelle": "Yahoo Finance",
+          "datum": "2026-03-23T20:05:23Z"
+        },
+        {
+          "titel": "Cisco Bets on New Portfolio to Reignite Security Growth: What's Ahead?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-bets-portfolio-reignite-security-183200315.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-23T18:32:00Z"
+        },
+        {
+          "titel": "Cybersecurity Stocks Rally Amid AI News At RSA Conference",
+          "url": "https://www.investors.com/news/technology/cybersecurity-stocks-rsa-conference-crowdstrike-trump-news/?src=A00220&yptr=yahoo",
+          "quelle": "Investor's Business Daily",
+          "datum": "2026-03-23T15:36:46Z"
+        },
+        {
+          "titel": "Cisco Systems, Inc. (CSCO) is Attracting Investor Attention: Here is What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-inc-csco-attracting-130004304.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-23T13:00:04Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -430,7 +605,32 @@
       "analyst_rating": "Halten",
       "analyst_target": 264.11,
       "analyst_count": 14,
-      "news": [],
+      "news": [
+        {
+          "titel": "Want Better Returns? Don't Ignore These 2 Finance Stocks Set to Beat Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/want-better-returns-dont-ignore-130002893.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-23T13:00:02Z"
+        },
+        {
+          "titel": "Treasury Yields Forge Higher as Investors Bet on Rate Hikes",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-23-2026/card/treasury-yields-forge-higher-as-investors-bet-on-rate-hikes-x08I9fgmMD1l9GWIQHtr?siteid=yhoof2&yptr=yahoo",
+          "quelle": "The Wall Street Journal",
+          "datum": "2026-03-23T10:38:23Z"
+        },
+        {
+          "titel": "The Bull Case For CME Group (CME) Could Change Following Rising Fed Hike Odds And New Futures Launch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bull-case-cme-group-cme-001726845.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-03-22T00:17:26Z"
+        },
+        {
+          "titel": "Bond Yields Extend Surge, Traders See Chance of Rate Hikes This Year",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-20-2026/card/bond-yields-extend-surge-traders-see-chance-of-rate-hikes-this-year-eMFNr9px2NFm08NqI8xu?siteid=yhoof2&yptr=yahoo",
+          "quelle": "The Wall Street Journal",
+          "datum": "2026-03-20T20:11:10Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -484,7 +684,32 @@
       "analyst_rating": "Kaufen",
       "analyst_target": 105.17,
       "analyst_count": 12,
-      "news": [],
+      "news": [
+        {
+          "titel": "When Should You Buy CTS Eventim AG & Co. KGaA (ETR:EVD)?",
+          "url": "https://finance.yahoo.com/news/buy-cts-eventim-ag-co-070037733.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-01-20T07:00:37Z"
+        },
+        {
+          "titel": "CTS Eventim AG & Co. KGaA (ETR:EVD) Shares Could Be 27% Below Their Intrinsic Value Estimate",
+          "url": "https://finance.yahoo.com/news/cts-eventim-ag-co-kgaa-060630992.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-01-06T06:06:30Z"
+        },
+        {
+          "titel": "Will Weakness in CTS Eventim AG & Co. KGaA's (ETR:EVD) Stock Prove Temporary Given Strong Fundamentals?",
+          "url": "https://finance.yahoo.com/news/weakness-cts-eventim-ag-co-041801513.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2025-12-23T04:18:01Z"
+        },
+        {
+          "titel": "Should You Be Adding CTS Eventim KGaA (ETR:EVD) To Your Watchlist Today?",
+          "url": "https://finance.yahoo.com/news/adding-cts-eventim-kgaa-etr-073535122.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2025-12-07T07:35:35Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -538,7 +763,32 @@
       "analyst_rating": "Halten",
       "analyst_target": 38.72,
       "analyst_count": 12,
-      "news": [],
+      "news": [
+        {
+          "titel": "3 Industrial Services Stocks to Watch Despite Industry Headwinds",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-industrial-services-stocks-watch-144300826.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-23T14:43:00Z"
+        },
+        {
+          "titel": "A Look At Fastenal (FAST) Valuation As New Carrollton Logistics Hub Expands Growth Ambitions",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/look-fastenal-fast-valuation-carrollton-190808305.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-03-20T19:08:08Z"
+        },
+        {
+          "titel": "FAST vs DNOW: Which Industrial Distributor Stock Deserves Your Capital?",
+          "url": "https://247wallst.com/investing/2026/03/17/fast-vs-dnow-which-industrial-distributor-stock-deserves-your-capital/",
+          "quelle": "24/7 Wall St.",
+          "datum": "2026-03-17T13:13:48Z"
+        },
+        {
+          "titel": "Fastenal's New Georgia Distribution Hub: Will Capacity Fuel Growth?",
+          "url": "https://finance.yahoo.com/news/fastenals-georgia-distribution-hub-capacity-165100753.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-16T16:51:00Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -592,7 +842,32 @@
       "analyst_rating": "Kaufen",
       "analyst_target": 207.5,
       "analyst_count": 24,
-      "news": [],
+      "news": [
+        {
+          "titel": "How to Find Strong Medical Stocks Slated for Positive Earnings Surprises",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-medical-stocks-slated-positive-130002853.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-23T13:00:02Z"
+        },
+        {
+          "titel": "Protagonist Therapeutics Soars as FDA Approves ICOTYDE for Plaque Psoriasis, Triggers $50M Milestone",
+          "url": "https://www.marketbeat.com/instant-alerts/protagonist-therapeutics-soars-as-fda-approves-icotyde-for-plaque-psoriasis-triggers-50m-milestone-2026-03-21/?utm_source=yahoofinance&utm_medium=yahoofinance",
+          "quelle": "MarketBeat",
+          "datum": "2026-03-21T22:07:15Z"
+        },
+        {
+          "titel": "Jim Cramer on Johnson & Johnson: “It’s a Textbook Slowdown Stock”",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-johnson-johnson-textbook-163122570.html",
+          "quelle": "Insider Monkey",
+          "datum": "2026-03-21T16:31:22Z"
+        },
+        {
+          "titel": "Monte Rosa J J Supply Deal Refocuses MRT 2359 Prostate Cancer Story",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/monte-rosa-j-j-supply-110715747.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-03-21T11:07:15Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -612,41 +887,48 @@
       "market_cap": "585.7B",
       "pe_ratio": 16.45,
       "sparkline": [
-        8.6195,
-        8.4347,
-        8.5869,
-        8.9374,
-        8.6983,
-        8.3803,
-        8.7472,
-        9.0651,
-        9.307,
-        9.2499,
-        9.1928,
-        9.1684,
-        9.3233,
-        9.47,
-        9.8042,
-        9.7961,
-        9.6901,
-        9.7445,
-        9.4347,
-        9.7227,
-        9.489,
-        9.6792,
-        10.2526,
-        9.9727,
-        10.2472,
-        10.2716,
-        10.0352,
-        9.9618,
-        9.7608,
-        9.5271
+        8.6191,
+        8.4343,
+        8.5864,
+        8.937,
+        8.6979,
+        8.3799,
+        8.7468,
+        9.0647,
+        9.3065,
+        9.2495,
+        9.1924,
+        9.1679,
+        9.3228,
+        9.4695,
+        9.8038,
+        9.7956,
+        9.6896,
+        9.744,
+        9.4342,
+        9.7222,
+        9.4886,
+        9.6788,
+        10.2521,
+        9.9722,
+        10.2467,
+        10.2711,
+        10.0347,
+        9.9614,
+        9.7603,
+        9.5266
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 11.66,
       "analyst_count": 9,
-      "news": [],
+      "news": [
+        {
+          "titel": "Koei Tecmo (TSE:3635): Assessing Valuation After New Treasury Share Sale and Equity Offering Details",
+          "url": "https://finance.yahoo.com/news/koei-tecmo-tse-3635-assessing-112338756.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2025-09-15T11:23:38Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -654,17 +936,17 @@
       "name": "McDonald's",
       "ticker": "MCD",
       "currency": "EUR",
-      "price": 265.54,
-      "change_1d_pct": -0.11,
-      "change_1w_pct": -5.55,
-      "change_1m_pct": -5.77,
-      "change_1y_pct": 3.27,
+      "price": 265.5,
+      "change_1d_pct": -0.12,
+      "change_1w_pct": -5.57,
+      "change_1m_pct": -5.78,
+      "change_1y_pct": 3.25,
       "week52_high": 294.14,
       "week52_low": 243.98,
       "div_yield": null,
       "div_rate": 6.4,
-      "market_cap": "220.2B",
-      "pe_ratio": 25.82,
+      "market_cap": "220.1B",
+      "pe_ratio": 25.81,
       "sparkline": [
         278.6871,
         279.0038,
@@ -695,12 +977,37 @@
         271.7488,
         266.4555,
         265.8272,
-        265.5466
+        265.5001
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 295.46,
       "analyst_count": 32,
-      "news": [],
+      "news": [
+        {
+          "titel": "Market's winners & losers last week: Why these 2 sectors stand out",
+          "url": "https://finance.yahoo.com/video/markets-winners-losers-last-week-145947214.html",
+          "quelle": "Yahoo Finance Video",
+          "datum": "2026-03-23T14:59:47Z"
+        },
+        {
+          "titel": "McDonald’s Big Arch provides a modest traffic bump",
+          "url": "https://www.nrn.com/quick-service/mcdonald-s-big-arch-provides-a-modest-traffic-bump",
+          "quelle": "Nation's Restaurant News",
+          "datum": "2026-03-23T18:39:02Z"
+        },
+        {
+          "titel": "Home Depot vs McDonald’s: Which Beaten-Down Blue Chip Is the Better Buy Right Now?",
+          "url": "https://247wallst.com/investing/2026/03/23/home-depot-vs-mcdonalds-which-beaten-down-blue-chip-is-the-better-buy-right-now/",
+          "quelle": "24/7 Wall St.",
+          "datum": "2026-03-23T14:50:50Z"
+        },
+        {
+          "titel": "McDonald’s Big Arch Burger drives only mild traffic boost",
+          "url": "https://www.restaurantdive.com/news/mcdonalds-big-arch-burger-traffic-impact-placerai/815397/",
+          "quelle": "Restaurant Dive",
+          "datum": "2026-03-23T10:49:00Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -754,7 +1061,32 @@
       "analyst_rating": "Kaufen",
       "analyst_target": 62.32,
       "analyst_count": 24,
-      "news": [],
+      "news": [
+        {
+          "titel": "European Stocks Tracking Higher in Monday Trading After Trump Reprieve; Bank, Automotive, Mining Shares Rally",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-tracking-higher-monday-160957467.html",
+          "quelle": "MT Newswires",
+          "datum": "2026-03-23T16:09:57Z"
+        },
+        {
+          "titel": "German auto exports to China plunged a third in 2025: study",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/german-auto-exports-china-plunged-131532939.html",
+          "quelle": "AFP",
+          "datum": "2026-03-20T13:15:32Z"
+        },
+        {
+          "titel": "Mercedes-Benz Deepens China Focus As Geely Talks And BlackRock Stake Grow",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mercedes-benz-deepens-china-focus-042910557.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-03-19T04:29:10Z"
+        },
+        {
+          "titel": "Uber-Nvidia deal boosts Bank of America’s confidence in rideshare app’s AV future",
+          "url": "https://www.proactiveinvestors.com/companies/news/1089029/uber-nvidia-deal-boosts-bank-of-america-s-confidence-in-rideshare-app-s-av-future-1089029.html",
+          "quelle": "Proactive",
+          "datum": "2026-03-17T17:37:00Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -808,7 +1140,32 @@
       "analyst_rating": "Halten",
       "analyst_target": 147.51,
       "analyst_count": 21,
-      "news": [],
+      "news": [
+        {
+          "titel": "Market's winners & losers last week: Why these 2 sectors stand out",
+          "url": "https://finance.yahoo.com/video/markets-winners-losers-last-week-145947214.html",
+          "quelle": "Yahoo Finance Video",
+          "datum": "2026-03-23T14:59:47Z"
+        },
+        {
+          "titel": "Top Midday Stories: Trump Orders 5-Day Postponement of Strikes on Iranian Energy Sites; JPMorgan Launches $8 Billion Junk-Bond Sale for EA Buyout",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-trump-orders-152641442.html",
+          "quelle": "MT Newswires",
+          "datum": "2026-03-23T15:26:41Z"
+        },
+        {
+          "titel": "PepsiCo Uses Local Sourcing, Hedging to Cut Risk",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/pepsico-uses-local-sourcing-hedging-132435504.html",
+          "quelle": "GuruFocus.com",
+          "datum": "2026-03-23T13:24:35Z"
+        },
+        {
+          "titel": "Was Warren Buffett’s Coca-Cola Investment a Mistake?",
+          "url": "https://247wallst.com/investing/2026/03/23/was-warren-buffetts-coca-cola-investment-a-mistake/",
+          "quelle": "24/7 Wall St.",
+          "datum": "2026-03-23T09:57:47Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -816,17 +1173,17 @@
       "name": "Realty Income",
       "ticker": "O",
       "currency": "EUR",
-      "price": 52.36,
-      "change_1d_pct": -0.18,
-      "change_1w_pct": -6.28,
-      "change_1m_pct": -7.63,
-      "change_1y_pct": 14.25,
+      "price": 52.37,
+      "change_1d_pct": -0.16,
+      "change_1w_pct": -6.27,
+      "change_1m_pct": -7.62,
+      "change_1y_pct": 14.26,
       "week52_high": 58.48,
       "week52_low": 43.65,
       "div_yield": null,
       "div_rate": 2.78,
       "market_cap": "56.9B",
-      "pe_ratio": 52.0,
+      "pe_ratio": 52.01,
       "sparkline": [
         54.0814,
         54.7758,
@@ -857,12 +1214,37 @@
         54.2585,
         53.9142,
         52.4597,
-        52.3693
+        52.3736
       ],
       "analyst_rating": "Halten",
       "analyst_target": 58.4,
       "analyst_count": 20,
-      "news": [],
+      "news": [
+        {
+          "titel": "A Look At Apollo Global Management’s Valuation After The Realty Income Joint Venture And New UK Credit Fund",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/look-apollo-global-management-valuation-120617753.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-03-23T12:06:17Z"
+        },
+        {
+          "titel": "3 High-Yield Stocks That Could Help Set You Up for Life",
+          "url": "https://www.fool.com/investing/2026/03/22/3-high-yield-stocks-that-could-help-set-you-up-for/",
+          "quelle": "Motley Fool",
+          "datum": "2026-03-23T00:35:00Z"
+        },
+        {
+          "titel": "The Fed Has Stopped Cutting Rates. Why Investors Should Stay the Course With Realty Income Stock.",
+          "url": "https://www.fool.com/investing/2026/03/22/the-fed-has-stopped-cutting-rates-why-investors-sh/",
+          "quelle": "Motley Fool",
+          "datum": "2026-03-22T11:25:00Z"
+        },
+        {
+          "titel": "Realty Income Secures Another $1 Billion Partnership. Is This Top Monthly Dividend Stock a Buy?",
+          "url": "https://www.fool.com/investing/2026/03/21/realty-income-secures-another-1-billion-partnershi/",
+          "quelle": "Motley Fool",
+          "datum": "2026-03-21T18:28:00Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -870,11 +1252,11 @@
       "name": "Rio Tinto",
       "ticker": "RIO",
       "currency": "EUR",
-      "price": 73.89,
-      "change_1d_pct": 3.25,
-      "change_1w_pct": -4.46,
-      "change_1m_pct": -9.1,
-      "change_1y_pct": 45.39,
+      "price": 73.88,
+      "change_1d_pct": 3.24,
+      "change_1w_pct": -4.47,
+      "change_1m_pct": -9.11,
+      "change_1y_pct": 45.38,
       "week52_high": 87.39,
       "week52_low": 44.47,
       "div_yield": null,
@@ -911,12 +1293,37 @@
         75.5006,
         73.719,
         71.5672,
-        73.8911
+        73.8825
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 82.24,
       "analyst_count": 7,
-      "news": [],
+      "news": [
+        {
+          "titel": "RIO or WPM: Which Is the Better Value Stock Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rio-wpm-better-value-stock-154002835.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-23T15:40:02Z"
+        },
+        {
+          "titel": "Rio Tinto, LCL sign agreement for Ono Project in Papua New Guinea",
+          "url": "https://www.mining-technology.com/news/rio-tinto-lcl-agreement-ono-project/",
+          "quelle": "Mining Technology",
+          "datum": "2026-03-23T14:00:33Z"
+        },
+        {
+          "titel": "ALB vs. RIO: Which Lithium Producer Deserves a Spot in Your Portfolio?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alb-vs-rio-lithium-producer-133100916.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-23T13:31:00Z"
+        },
+        {
+          "titel": "This country will be one of the first to face a key disruption linked to diesel",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/country-one-first-face-key-090924646.html",
+          "quelle": "Investing.com",
+          "datum": "2026-03-22T09:09:24Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -970,7 +1377,32 @@
       "analyst_rating": "Kaufen",
       "analyst_target": 37.47,
       "analyst_count": 6,
-      "news": [],
+      "news": [
+        {
+          "titel": "Could an Oil Deal in Venezuela Boost Shell's Stock?",
+          "url": "https://www.fool.com/investing/2026/03/23/could-an-oil-deal-in-venezuela-boost-shells-stock/",
+          "quelle": "Motley Fool",
+          "datum": "2026-03-23T12:50:00Z"
+        },
+        {
+          "titel": "Every CEO is a wartime CEO now—regardless of geopolitical conflict",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/every-ceo-wartime-ceo-now-095708757.html",
+          "quelle": "Fortune",
+          "datum": "2026-03-23T09:57:08Z"
+        },
+        {
+          "titel": "Iranian Missile Strikes Are Costing Big Oil Billions in Lost Revenue",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-23-2026?siteid=yhoof2&yptr=yahoo",
+          "quelle": "The Wall Street Journal",
+          "datum": "2026-03-23T08:41:29Z"
+        },
+        {
+          "titel": "G7 allies pledge energy supply defense amid escalating maritime threats",
+          "url": "https://www.yahoo.com/news/articles/g7-allies-pledge-energy-supply-010054945.html",
+          "quelle": "Investing.com",
+          "datum": "2026-03-22T01:00:54Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -1024,7 +1456,32 @@
       "analyst_rating": "Starker Kauf",
       "analyst_target": 94.71,
       "analyst_count": 7,
-      "news": [],
+      "news": [
+        {
+          "titel": "Further weakness as Sixt (ETR:SIX2) drops 3.8% this week, taking three-year losses to 38%",
+          "url": "https://finance.yahoo.com/news/further-weakness-sixt-etr-six2-065522060.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-02-16T06:55:22Z"
+        },
+        {
+          "titel": "How Did Sixt SE's (ETR:SIX2) 14% ROE Fare Against The Industry?",
+          "url": "https://finance.yahoo.com/news/did-sixt-ses-etr-six2-074229806.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-01-10T07:42:29Z"
+        },
+        {
+          "titel": "Sixt (ETR:SIX2) Is Looking To Continue Growing Its Returns On Capital",
+          "url": "https://finance.yahoo.com/news/sixt-etr-six2-looking-continue-134522414.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2025-12-22T13:45:22Z"
+        },
+        {
+          "titel": "Sixt's (ETR:SIX2) Solid Profits Have Weak Fundamentals",
+          "url": "https://finance.yahoo.com/news/sixts-etr-six2-solid-profits-042917032.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2025-11-21T04:29:17Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -1032,17 +1489,17 @@
       "name": "Texas Instruments",
       "ticker": "TXN",
       "currency": "EUR",
-      "price": 162.57,
-      "change_1d_pct": 0.9,
-      "change_1w_pct": -2.7,
-      "change_1m_pct": -14.04,
-      "change_1y_pct": 5.03,
+      "price": 162.35,
+      "change_1d_pct": 0.77,
+      "change_1w_pct": -2.83,
+      "change_1m_pct": -14.15,
+      "change_1y_pct": 4.89,
       "week52_high": 199.1,
       "week52_low": 120.45,
       "div_yield": null,
       "div_rate": 4.89,
-      "market_cap": "172.0B",
-      "pe_ratio": 34.66,
+      "market_cap": "171.7B",
+      "pe_ratio": 34.61,
       "sparkline": [
         188.2953,
         190.1458,
@@ -1073,12 +1530,37 @@
         164.2043,
         162.0612,
         161.1144,
-        162.569
+        162.3538
       ],
       "analyst_rating": "Halten",
       "analyst_target": 190.69,
       "analyst_count": 32,
-      "news": [],
+      "news": [
+        {
+          "titel": "Nvidia, AMD Rally As War Fears Ease",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-rally-war-fears-181843797.html",
+          "quelle": "GuruFocus.com",
+          "datum": "2026-03-23T18:18:43Z"
+        },
+        {
+          "titel": "Chip Stocks Pop as Trump Hits Pause on Iran Strikes",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/chip-stocks-pop-trump-hits-134820991.html",
+          "quelle": "GuruFocus.com",
+          "datum": "2026-03-23T13:48:20Z"
+        },
+        {
+          "titel": "Assessing Texas Instruments (TXN) Valuation After New 800V AI Data Center Power Architecture Announcement",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-texas-instruments-txn-valuation-200501473.html",
+          "quelle": "Simply Wall St.",
+          "datum": "2026-03-19T20:05:01Z"
+        },
+        {
+          "titel": "Blue-Chip Tech Stock Could Topple Overhead Resistance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/blue-chip-tech-stock-could-181421483.html",
+          "quelle": "Schaeffer's Investment Research",
+          "datum": "2026-03-19T18:14:21Z"
+        }
+      ],
       "fehler": null
     },
     {
@@ -1132,7 +1614,32 @@
       "analyst_rating": "Kaufen",
       "analyst_target": 310.89,
       "analyst_count": 24,
-      "news": [],
+      "news": [
+        {
+          "titel": "3 Value Stocks Set to Surge, With Up to 100% Upside by 2028",
+          "url": "https://247wallst.com/investing/2026/03/23/3-value-stocks-set-to-surge-with-up-to-100-upside-by-2028/",
+          "quelle": "24/7 Wall St.",
+          "datum": "2026-03-23T18:29:01Z"
+        },
+        {
+          "titel": "The Upside Debate: UnitedHealth's Consistency vs. Centene's Comeback",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/upside-debate-unitedhealths-consistency-vs-161500109.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-23T16:15:00Z"
+        },
+        {
+          "titel": "Why Investors Need to Take Advantage of These 2 Medical Stocks Now",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/why-investors-advantage-2-medical-130003833.html",
+          "quelle": "Zacks",
+          "datum": "2026-03-23T13:00:03Z"
+        },
+        {
+          "titel": "Market Madness: Palantir, Walmart, & other hot stock picks",
+          "url": "https://finance.yahoo.com/video/market-madness-palantir-walmart-other-211331593.html",
+          "quelle": "Yahoo Finance Video",
+          "datum": "2026-03-20T21:13:31Z"
+        }
+      ],
       "fehler": null
     }
   ]
