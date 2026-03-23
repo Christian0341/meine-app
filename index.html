@@ -343,14 +343,15 @@
 
     function renderAktienHero() {
       if (!stocks.length) return;
-const valid = stocks.filter(s => !s.fehler && s.change_1w_pct != null);
-const pos   = valid.filter(s => s.change_1w_pct > 0).length;
-const neg   = valid.filter(s => s.change_1w_pct < 0).length;
+      const valid = stocks.filter(s => !s.fehler && s.change_1d_pct != null);
+      const pos   = valid.filter(s => s.change_1d_pct > 0).length;
+      const neg   = valid.filter(s => s.change_1d_pct < 0).length;
       const neu   = valid.filter(s => s.change_1d_pct === 0).length;
-$('heroStats').innerHTML = `
-            <div class="hero-stat"><div class="hero-stat-val pos">+${pos}</div><div class="hero-stat-lbl">1W im Plus</div></div>
-            <div class="hero-stat"><div class="hero-stat-val neg">−${neg}</div><div class="hero-stat-lbl">1W im Minus</div></div>
-            <div class="hero-stat"><div class="hero-stat-val neu">${valid.length}</div><div class="hero-stat-lbl">Werte</div></div>`;
+      const stats = $('heroStats');
+      stats.innerHTML = `
+        <div class="hero-stat"><div class="hero-stat-val pos">▲ ${pos}</div><div class="hero-stat-label">Im Plus</div></div>
+        <div class="hero-stat"><div class="hero-stat-val neg">▼ ${neg}</div><div class="hero-stat-label">Im Minus</div></div>
+        <div class="hero-stat"><div class="hero-stat-val" style="color:var(--text3)">● ${neu}</div><div class="hero-stat-label">Unverändert</div></div>`;
       stats.style.display = 'flex';
     }
 
@@ -451,16 +452,21 @@ $('heroStats').innerHTML = `
       // News HTML
       let newsHTML='';
       if(s.news?.length){
-        const items=s.news.map(n=>`
-          <a class="news-item" href="${esc(n.url)}" target="_blank" rel="noopener" ${!n.url?'style="pointer-events:none"':''}>
-            <div class="news-title">${esc(n.titel_de||n.titel)}</div>
-            ${n.zusammenfassung_de?`<div class="news-summary">${esc(n.zusammenfassung_de)}</div>`:''}
-            <div class="news-meta">
-              <span class="news-source">${esc(n.quelle||'')}</span>
-              <span class="news-date">${esc(n.datum_de||'')}</span>
+        const items=s.news.map(n=>{
+          const titel = n.titel||n.titel_de||'';
+          const url = (n.url && n.url.startsWith('http'))
+            ? esc(n.url)
+            : `https://www.google.com/search?q=${encodeURIComponent(titel+' '+s.name)}`;
+          return `
+          <a class="news-item" href="${url}" target="_blank" rel="noopener">
+            <div class="news-item-title">${esc(titel)}</div>
+            ${n.einordnung?`<div class="news-item-sum">${esc(n.einordnung)}</div>`:''}
+            <div class="news-item-meta">
+              <span class="news-item-src">${esc(n.quelle||'')}</span>
+              <span class="news-item-date">${esc(n.datum||n.datum_de||'')}</span>
             </div>
-          </a>`).join('');
-        newsHTML=`<div class="news-section-label">Aktuelle News</div>${items}`;
+          </a>`;}).join('');
+        newsHTML=`<div class="news-section"><div class="news-title">Aktuelle News</div>${items}</div>`;
       }
 
       // Analysten HTML
