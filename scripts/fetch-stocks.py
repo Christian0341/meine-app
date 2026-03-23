@@ -47,71 +47,98 @@ def get_eur_rate(currency):
     fallback = {'USD': 0.92, 'GBP': 1.17, 'JPY': 0.0061, 'CAD': 0.68, 'AUD': 0.60}
     return fallback.get(currency, 1.0)
 
+def hole_news(ticker_obj, firmenname):
+    """Holt News von yfinance - verschiedene Methoden versuchen"""
+    raw = []
+    try:
+        # Methode 1: .news Property
+        news = ticker_obj.news
+        if news and isinstance(news, list):
+            for item in news[:4]:
+                # Neues Format: content verschachtelt
+                if isinstance(item, dict):
+                    content = item.get('content', item)
+                    titel = (content.get('title') or 
+                             item.get('title') or '')
+                    url = (content.get('canonicalUrl', {}).get('url') or
+                           content.get('clickThroughUrl', {}).get('url') or
+                           item.get('link') or
+                           item.get('url') or '')
+                    publisher = (content.get('provider', {}).get('displayName') or
+                                 item.get('publisher') or
+                                 item.get('source') or '')
+                    pub_time = (item.get('providerPublishTime') or
+                                content.get('pubDate') or 0)
+                    if titel:
+                        raw.append({
+                            'title': titel,
+                            'url': url,
+                            'publisher': publisher,
+                            'providerPublishTime': pub_time if isinstance(pub_time, (int, float)) else 0
+                        })
+    except Exception as e:
+        print(f"    News-Fehler: {e}")
+    return raw
+
 def gemini_uebersetze(firmenname, news_liste):
     """Übersetzt News mit Gemini ins Deutsche"""
     if not GEMINI_API_KEY or not news_liste:
         return []
 
-    news_text = ""
-    for i, n in enumerate(news_liste):
-        titel = n.get('title', '')
-        news_text += f"{i+1}. {titel}\n"
+    news_text = "\n".join([f"{i+1}. {n['title']}" for i, n in enumerate(news_liste)])
 
-    prompt = f"""Übersetze diese {len(news_liste)} Finanznachrichten-Titel über {firmenname} ins Deutsche.
-Schreibe eine kurze deutsche Zusammenfassung (1 Satz) was die News bedeutet.
-Antworte NUR mit einem JSON-Array ohne Markdown-Backticks:
+    prompt = f"""Übersetze diese {len(news_liste)} Nachrichten-Titel über {firmenname} ins Deutsche.
+Schreibe zusätzlich eine kurze Einordnung (1 Satz) was die News für Aktionäre bedeutet.
+Antworte NUR mit einem JSON-Array, keine Backticks, keine Erklärungen:
 
-[{{"titel":"Deutscher Titel","zusammenfassung":"Kurze Einordnung auf Deutsch"}}]
+[{{"titel":"Deutscher Titel","einordnung":"Kurze Einordnung für Aktionäre"}}]
 
-News:
+Zu übersetzen:
 {news_text}"""
 
     try:
         r = requests.post(GEMINI_URL, json={
             "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.1, "maxOutputTokens": 800}
-        }, timeout=20)
+            "generationConfig": {"temperature": 0.1, "maxOutputTokens": 600}
+        }, timeout=25)
         r.raise_for_status()
         text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-        # Bereinigen
         text = text.strip()
-        if text.startswith("```"):
-            text = text.split("```")[1]
-            if text.startswith("json"):
-                text = text[4:]
-        text = text.strip().rstrip("```").strip()
-        uebersetzt = json.loads(text)
+        # Backticks entfernen
+        if "```" in text:
+            parts = text.split("```")
+            for p in parts:
+                p = p.strip()
+                if p.startswith("json"): p = p[4:].strip()
+                if p.startswith("["): 
+                    text = p
+                    break
+        uebersetzt = json.loads(text.strip())
 
         result = []
         for i, orig in enumerate(news_liste):
             pub_ts = orig.get('providerPublishTime', 0)
-            datum = datetime.fromtimestamp(pub_ts, tz=timezone.utc).strftime("%d.%m.%Y") if pub_ts else ""
-            if i < len(uebersetzt):
-                result.append({
-                    "titel":           uebersetzt[i].get("titel", orig.get("title", "")),
-                    "zusammenfassung": uebersetzt[i].get("zusammenfassung", ""),
-                    "url":             orig.get("link", orig.get("url", "")),
-                    "quelle":          orig.get("publisher", ""),
-                    "datum":           datum,
-                })
-            else:
-                result.append({
-                    "titel":           orig.get("title", ""),
-                    "zusammenfassung": "",
-                    "url":             orig.get("link", ""),
-                    "quelle":          orig.get("publisher", ""),
-                    "datum":           datum,
-                })
+            try:
+                datum = datetime.fromtimestamp(float(pub_ts), tz=timezone.utc).strftime("%d.%m.%Y") if pub_ts else ""
+            except:
+                datum = ""
+            ue = uebersetzt[i] if i < len(uebersetzt) else {}
+            result.append({
+                "titel":      ue.get("titel", orig['title']),
+                "einordnung": ue.get("einordnung", ""),
+                "url":        orig.get('url', ''),
+                "quelle":     orig.get('publisher', ''),
+                "datum":      datum,
+            })
         return result
     except Exception as e:
-        print(f"    Gemini Fehler: {e}")
-        # Fallback ohne Übersetzung
+        print(f"    Gemini-Fehler: {e}")
         return [{
-            "titel":           n.get("title", ""),
-            "zusammenfassung": "",
-            "url":             n.get("link", n.get("url", "")),
-            "quelle":          n.get("publisher", ""),
-            "datum":           datetime.fromtimestamp(n.get('providerPublishTime', 0), tz=timezone.utc).strftime("%d.%m.%Y") if n.get('providerPublishTime') else "",
+            "titel":      n['title'],
+            "einordnung": "",
+            "url":        n.get('url', ''),
+            "quelle":     n.get('publisher', ''),
+            "datum":      "",
         } for n in news_liste]
 
 results = []
@@ -159,13 +186,17 @@ for s in STOCKS:
         div_rate = fmt(info.get("dividendRate"))
         div_rate_eur = fmt(div_rate * eur_rate) if div_rate else None
 
-        # Dividendenrendite: nur anzeigen wenn zwischen 0% und 30% (Filter für Datenfehler)
+        # Dividendenrendite: direkt aus Info oder berechnen
         div_yield = None
         dy = info.get("dividendYield")
         if dy:
             dy_pct = float(dy) * 100
-            if 0 < dy_pct < 30:  # Alles über 30% ist ein Datenfehler
+            if 0 < dy_pct < 25:
                 div_yield = fmt(dy_pct)
+        elif div_rate and price_orig and price_orig > 0:
+            dy_calc = (div_rate / price_orig) * 100
+            if 0 < dy_calc < 25:
+                div_yield = fmt(dy_calc)
 
         mc = info.get("marketCap")
         mc_str = None
@@ -186,24 +217,17 @@ for s in STOCKS:
         analyst_rating_de = rating_map.get(analyst_rating, analyst_rating)
 
         # News abrufen
-        raw_news = []
-        try:
-            news_data = t.news
-            if news_data:
-                raw_news = news_data[:4]
-                print(f"  {len(raw_news)} News gefunden")
-        except Exception as e:
-            print(f"  News-Fehler: {e}")
+        raw_news = hole_news(t, s["name"])
+        print(f"  {len(raw_news)} News gefunden")
 
-        # Übersetzen
         news_de = []
         if raw_news:
             print(f"  Übersetze mit Gemini...")
             news_de = gemini_uebersetze(s["name"], raw_news)
-            time.sleep(2)  # Rate limiting
+            time.sleep(2)
 
         chg = f"{change_1d_pct:+.2f}%" if change_1d_pct is not None else "–"
-        print(f"  OK: €{price_eur} ({chg}) | {len(news_de)} News übersetzt")
+        print(f"  OK: €{price_eur} ({chg}) | {len(news_de)} News")
 
         results.append({
             "wkn":            s["wkn"],
