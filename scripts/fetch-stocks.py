@@ -47,98 +47,96 @@ def get_eur_rate(currency):
     fallback = {'USD': 0.92, 'GBP': 1.17, 'JPY': 0.0061, 'CAD': 0.68, 'AUD': 0.60}
     return fallback.get(currency, 1.0)
 
-def hole_news(ticker_obj, firmenname):
-    """Holt News von yfinance - verschiedene Methoden versuchen"""
+def hole_news(ticker_obj):
+    """Holt News-Titel aus yfinance"""
     raw = []
     try:
-        # Methode 1: .news Property
         news = ticker_obj.news
-        if news and isinstance(news, list):
-            for item in news[:4]:
-                # Neues Format: content verschachtelt
-                if isinstance(item, dict):
-                    content = item.get('content', item)
-                    titel = (content.get('title') or 
-                             item.get('title') or '')
-                    url = (content.get('canonicalUrl', {}).get('url') or
-                           content.get('clickThroughUrl', {}).get('url') or
-                           item.get('link') or
-                           item.get('url') or '')
-                    publisher = (content.get('provider', {}).get('displayName') or
-                                 item.get('publisher') or
-                                 item.get('source') or '')
-                    pub_time = (item.get('providerPublishTime') or
-                                content.get('pubDate') or 0)
-                    if titel:
-                        raw.append({
-                            'title': titel,
-                            'url': url,
-                            'publisher': publisher,
-                            'providerPublishTime': pub_time if isinstance(pub_time, (int, float)) else 0
-                        })
+        if not news: return []
+        for item in news[:4]:
+            titel = ''
+            url   = ''
+            pub   = ''
+            quelle = ''
+            if isinstance(item, dict):
+                # Neues verschachteltes Format
+                content = item.get('content', {})
+                if content:
+                    titel  = content.get('title', '')
+                    quelle = content.get('provider', {}).get('displayName', '')
+                    url    = (content.get('canonicalUrl', {}).get('url', '') or
+                              content.get('clickThroughUrl', {}).get('url', ''))
+                    pub    = content.get('pubDate', '')
+                # Altes flaches Format
+                if not titel:
+                    titel  = item.get('title', '')
+                    quelle = item.get('publisher', '')
+                    url    = item.get('link', item.get('url', ''))
+                    ts     = item.get('providerPublishTime', 0)
+                    if ts:
+                        try:
+                            pub = datetime.fromtimestamp(float(ts), tz=timezone.utc).strftime("%d.%m.%Y")
+                        except: pub = ''
+            if titel:
+                raw.append({'titel': titel, 'url': url, 'quelle': quelle, 'datum': pub})
     except Exception as e:
         print(f"    News-Fehler: {e}")
     return raw
 
 def gemini_uebersetze(firmenname, news_liste):
-    """Übersetzt News mit Gemini ins Deutsche"""
+    """Übersetzt News-Titel ins Deutsche und fügt Einordnung hinzu"""
     if not GEMINI_API_KEY or not news_liste:
-        return []
+        return news_liste  # Originale zurückgeben falls kein Key
 
-    news_text = "\n".join([f"{i+1}. {n['title']}" for i, n in enumerate(news_liste)])
+    titelliste = "\n".join([f"{i+1}. {n['titel']}" for i, n in enumerate(news_liste)])
 
-    prompt = f"""Übersetze diese {len(news_liste)} Nachrichten-Titel über {firmenname} ins Deutsche.
-Schreibe zusätzlich eine kurze Einordnung (1 Satz) was die News für Aktionäre bedeutet.
-Antworte NUR mit einem JSON-Array, keine Backticks, keine Erklärungen:
+    prompt = f"""Du bist ein Finanzredakteur. Übersetze diese {len(news_liste)} englischen Nachrichtentitel über {firmenname} ins Deutsche und schreibe eine kurze Einordnung (1 Satz) für Aktionäre.
 
-[{{"titel":"Deutscher Titel","einordnung":"Kurze Einordnung für Aktionäre"}}]
+Antworte AUSSCHLIESSLICH mit einem JSON-Array. Kein Text davor oder danach, keine Markdown-Formatierung:
+[{{"titel":"Deutscher Titel 1","einordnung":"Einordnung 1"}},{{"titel":"Deutscher Titel 2","einordnung":"Einordnung 2"}}]
 
 Zu übersetzen:
-{news_text}"""
+{titelliste}"""
 
     try:
         r = requests.post(GEMINI_URL, json={
             "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.1, "maxOutputTokens": 600}
-        }, timeout=25)
+            "generationConfig": {
+                "temperature": 0.1,
+                "maxOutputTokens": 800,
+                "responseMimeType": "application/json"
+            }
+        }, timeout=30)
         r.raise_for_status()
-        text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-        text = text.strip()
-        # Backticks entfernen
-        if "```" in text:
-            parts = text.split("```")
-            for p in parts:
-                p = p.strip()
-                if p.startswith("json"): p = p[4:].strip()
-                if p.startswith("["): 
-                    text = p
-                    break
-        uebersetzt = json.loads(text.strip())
+
+        raw_text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+        print(f"    Gemini-Antwort: {raw_text[:100]}...")
+
+        uebersetzt = json.loads(raw_text)
+        if not isinstance(uebersetzt, list):
+            raise ValueError(f"Kein Array: {type(uebersetzt)}")
 
         result = []
         for i, orig in enumerate(news_liste):
-            pub_ts = orig.get('providerPublishTime', 0)
-            try:
-                datum = datetime.fromtimestamp(float(pub_ts), tz=timezone.utc).strftime("%d.%m.%Y") if pub_ts else ""
-            except:
-                datum = ""
             ue = uebersetzt[i] if i < len(uebersetzt) else {}
             result.append({
-                "titel":      ue.get("titel", orig['title']),
+                "titel":      ue.get("titel", orig['titel']),
                 "einordnung": ue.get("einordnung", ""),
                 "url":        orig.get('url', ''),
-                "quelle":     orig.get('publisher', ''),
-                "datum":      datum,
+                "quelle":     orig.get('quelle', ''),
+                "datum":      orig.get('datum', ''),
             })
         return result
+
     except Exception as e:
         print(f"    Gemini-Fehler: {e}")
+        # Fallback: originale englische Titel
         return [{
-            "titel":      n['title'],
+            "titel":      n['titel'],
             "einordnung": "",
             "url":        n.get('url', ''),
-            "quelle":     n.get('publisher', ''),
-            "datum":      "",
+            "quelle":     n.get('quelle', ''),
+            "datum":      n.get('datum', ''),
         } for n in news_liste]
 
 results = []
@@ -181,12 +179,11 @@ for s in STOCKS:
             if p1y > 0: change_1y_pct = fmt((hist["Close"].iloc[-1] - p1y) / p1y * 100)
 
         w52_high_eur = fmt(info.get("fiftyTwoWeekHigh", 0) * eur_rate) if info.get("fiftyTwoWeekHigh") else None
-        w52_low_eur  = fmt(info.get("fiftyTwoWeekLow",  0) * eur_rate) if info.get("fiftyTwoWeekLow")  else None
+        w52_low_eur  = fmt(info.get("fiftyTwoWeekLow",  0) * eur_rate) if info.get("fiftyTwoWeekLow") else None
 
-        div_rate = fmt(info.get("dividendRate"))
+        div_rate     = fmt(info.get("dividendRate"))
         div_rate_eur = fmt(div_rate * eur_rate) if div_rate else None
 
-        # Dividendenrendite: direkt aus Info oder berechnen
         div_yield = None
         dy = info.get("dividendYield")
         if dy:
@@ -209,7 +206,6 @@ for s in STOCKS:
         if len(hist) >= 2:
             sparkline = [fmt(v * eur_rate, 4) for v in hist["Close"].tail(30).tolist()]
 
-        # Analysten
         analyst_rating = info.get("recommendationKey", "")
         analyst_target = fmt(info.get("targetMeanPrice", 0) * eur_rate) if info.get("targetMeanPrice") else None
         analyst_count  = info.get("numberOfAnalystOpinions")
@@ -217,8 +213,8 @@ for s in STOCKS:
         analyst_rating_de = rating_map.get(analyst_rating, analyst_rating)
 
         # News abrufen
-        raw_news = hole_news(t, s["name"])
-        print(f"  {len(raw_news)} News gefunden")
+        raw_news = hole_news(t)
+        print(f"  {len(raw_news)} News gefunden: {[n['titel'][:40] for n in raw_news]}")
 
         news_de = []
         if raw_news:
