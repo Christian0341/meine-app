@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-03-23T10:33:37.160621+00:00",
+  "aktualisiert": "2026-03-23T19:44:47.713795+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Hat Perplexity den Computer neu erfunden? | Erster Blick auf den neuen AI Agent!",
+      "link": "https://www.youtube.com/watch?v=m5Huof13GBE",
+      "video_id": "m5Huof13GBE",
+      "thumbnail": "https://img.youtube.com/vi/m5Huof13GBE/mqdefault.jpg",
+      "datum": "2026-03-23T18:00:56+00:00",
+      "datum_de": "23.03.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KI-Campus",
+      "titel": "Black Mirror im echten Leben? Was passiert, wenn wir Verstorbene als Content-Maschinen nutzen? #KI",
+      "link": "https://www.youtube.com/shorts/0zxB9-klOW8",
+      "video_id": "0zxB9-klOW8",
+      "thumbnail": "https://img.youtube.com/vi/0zxB9-klOW8/mqdefault.jpg",
+      "datum": "2026-03-23T16:30:01+00:00",
+      "datum_de": "23.03.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "Live von NVIDIA GTC! NemoClaw, GPT-5.4 Agents, Claude Cowork, Google „Stitch\" & weitere KI-News",
@@ -44,7 +64,7 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "„So sieht DEIN Leben 2035 aus!” Zukunftsforscher über Singularität, Roboter, UBI & KI (Sven Jánszky)",
+      "titel": "Zukunftsforscher enthüllt: „Das kommt bis 2035!\" Bereite dich vor! Singularität & Post-Labor-Economy",
       "link": "https://www.youtube.com/watch?v=y2C64llGOFI",
       "video_id": "y2C64llGOFI",
       "thumbnail": "https://img.youtube.com/vi/y2C64llGOFI/mqdefault.jpg",
@@ -121,36 +141,6 @@
       "datum": "2026-03-17T14:00:06+00:00",
       "datum_de": "17.03.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Felicia Simon",
-      "titel": "Diese KI News ändern alles: Der Wettbewerb zwischen ChatGPT, Gemini, Meta AI und Claude 🤯",
-      "link": "https://www.youtube.com/watch?v=Ah-3fSxusgA",
-      "video_id": "Ah-3fSxusgA",
-      "thumbnail": "https://img.youtube.com/vi/Ah-3fSxusgA/mqdefault.jpg",
-      "datum": "2026-03-16T15:45:02Z",
-      "datum_de": "16.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "NANCY | Projects To Profit",
-      "titel": "Besser als NotebookLM? Warum Claude Cowork dein Büro jetzt dominiert",
-      "link": "https://www.youtube.com/watch?v=UPuZuK4dlrY",
-      "video_id": "UPuZuK4dlrY",
-      "thumbnail": "https://img.youtube.com/vi/UPuZuK4dlrY/mqdefault.jpg",
-      "datum": "2026-03-16T14:54:12Z",
-      "datum_de": "16.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Nehmat Gereige | Design Professor",
-      "titel": "Claude + Figma MCP — Updated Setup for Designers",
-      "link": "https://www.youtube.com/watch?v=wCvtTQ-CTgU",
-      "video_id": "wCvtTQ-CTgU",
-      "thumbnail": "https://img.youtube.com/vi/wCvtTQ-CTgU/mqdefault.jpg",
-      "datum": "2026-03-16T12:00:00Z",
-      "datum_de": "16.03.2026",
-      "quelle": "suche"
     }
   ]
 }
