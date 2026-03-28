@@ -459,26 +459,26 @@
             : `https://www.google.com/search?q=${encodeURIComponent(titel+' '+s.name)}`;
           return `
           <a class="news-item" href="${url}" target="_blank" rel="noopener">
-            <div class="news-item-title">${esc(titel)}</div>
-            ${n.einordnung?`<div class="news-item-sum">${esc(n.einordnung)}</div>`:''}
-            <div class="news-item-meta">
-              <span class="news-item-src">${esc(n.quelle||'')}</span>
-              <span class="news-item-date">${esc(n.datum||n.datum_de||'')}</span>
+            <div class="news-title">${esc(titel)}</div>
+            ${n.einordnung?`<div class="news-summary">${esc(n.einordnung)}</div>`:''}
+            <div class="news-meta">
+              <span class="news-source">${esc(n.quelle||'')}</span>
+              <span class="news-date">${esc(n.datum||n.datum_de||'')}</span>
             </div>
           </a>`;}).join('');
-        newsHTML=`<div class="news-section"><div class="news-title">Aktuelle News</div>${items}</div>`;
+        newsHTML=`<div class="news-section"><div class="news-section-label">Aktuelle News</div>${items}</div>`;
       }
 
       // Analysten HTML
       let analystHTML='';
-      if(s.recommendation||s.target_price){
+      if(s.analyst_rating||s.analyst_target){
         analystHTML=`
           <div class="analyst-block">
             <div>
-              <div class="analyst-rec">${esc(s.recommendation||'–')}</div>
+              <div class="analyst-rec">${esc(s.analyst_rating||'–')}</div>
               ${s.analyst_count?`<div class="analyst-count">${s.analyst_count} Analysten</div>`:''}
             </div>
-            ${s.target_price?`<div class="analyst-target"><div class="analyst-target-val">${fmtE(s.target_price)}</div><div class="analyst-target-lbl">Kursziel</div></div>`:''}
+            ${s.analyst_target?`<div class="analyst-target"><div class="analyst-target-val">${fmtE(s.analyst_target)}</div><div class="analyst-target-lbl">Ø Kursziel</div></div>`:''}
           </div>`;
       }
 
