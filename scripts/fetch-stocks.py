@@ -1,6 +1,7 @@
 import yfinance as yf
 import json
 import os
+import re
 import time
 import requests
 from datetime import datetime, timezone
@@ -48,7 +49,6 @@ def get_eur_rate(currency):
     return fallback.get(currency, 1.0)
 
 def hole_news(ticker_obj):
-    """Holt News-Titel aus yfinance"""
     raw = []
     try:
         news = ticker_obj.news
@@ -56,18 +56,21 @@ def hole_news(ticker_obj):
         for item in news[:4]:
             titel = ''
             url   = ''
-            pub   = ''
             quelle = ''
+            datum  = ''
             if isinstance(item, dict):
-                # Neues verschachteltes Format
                 content = item.get('content', {})
-                if content:
+                if content and isinstance(content, dict):
                     titel  = content.get('title', '')
                     quelle = content.get('provider', {}).get('displayName', '')
                     url    = (content.get('canonicalUrl', {}).get('url', '') or
                               content.get('clickThroughUrl', {}).get('url', ''))
                     pub    = content.get('pubDate', '')
-                # Altes flaches Format
+                    if pub:
+                        try:
+                            dt = datetime.fromisoformat(pub.replace('Z', '+00:00'))
+                            datum = dt.strftime("%d.%m.%Y")
+                        except: datum = pub[:10]
                 if not titel:
                     titel  = item.get('title', '')
                     quelle = item.get('publisher', '')
@@ -75,46 +78,62 @@ def hole_news(ticker_obj):
                     ts     = item.get('providerPublishTime', 0)
                     if ts:
                         try:
-                            pub = datetime.fromtimestamp(float(ts), tz=timezone.utc).strftime("%d.%m.%Y")
-                        except: pub = ''
+                            datum = datetime.fromtimestamp(float(ts), tz=timezone.utc).strftime("%d.%m.%Y")
+                        except: pass
             if titel:
-                raw.append({'titel': titel, 'url': url, 'quelle': quelle, 'datum': pub})
+                raw.append({'titel': titel, 'url': url, 'quelle': quelle, 'datum': datum})
     except Exception as e:
         print(f"    News-Fehler: {e}")
     return raw
 
+def parse_json_from_text(text):
+    """Extrahiert JSON-Array aus beliebigem Text"""
+    text = text.strip()
+    # Direkt JSON?
+    if text.startswith('['):
+        return json.loads(text)
+    # In Backticks?
+    m = re.search(r'```(?:json)?\s*(\[.*?\])\s*```', text, re.DOTALL)
+    if m:
+        return json.loads(m.group(1))
+    # Array irgendwo im Text?
+    m = re.search(r'(\[.*\])', text, re.DOTALL)
+    if m:
+        return json.loads(m.group(1))
+    raise ValueError(f"Kein JSON-Array gefunden: {text[:200]}")
+
 def gemini_uebersetze(firmenname, news_liste):
-    """Übersetzt News-Titel ins Deutsche und fügt Einordnung hinzu"""
     if not GEMINI_API_KEY or not news_liste:
-        return news_liste  # Originale zurückgeben falls kein Key
+        return [{
+            "titel": n['titel'], "einordnung": "",
+            "url": n.get('url',''), "quelle": n.get('quelle',''), "datum": n.get('datum','')
+        } for n in news_liste]
 
     titelliste = "\n".join([f"{i+1}. {n['titel']}" for i, n in enumerate(news_liste)])
 
-    prompt = f"""Du bist ein Finanzredakteur. Übersetze diese {len(news_liste)} englischen Nachrichtentitel über {firmenname} ins Deutsche und schreibe eine kurze Einordnung (1 Satz) für Aktionäre.
+    prompt = f"""Übersetze diese {len(news_liste)} englischen Finanznachrichtentitel über {firmenname} ins Deutsche.
+Füge jeweils eine kurze Einordnung hinzu (1 Satz auf Deutsch, was das für Aktionäre bedeutet).
 
-Antworte AUSSCHLIESSLICH mit einem JSON-Array. Kein Text davor oder danach, keine Markdown-Formatierung:
-[{{"titel":"Deutscher Titel 1","einordnung":"Einordnung 1"}},{{"titel":"Deutscher Titel 2","einordnung":"Einordnung 2"}}]
+Antworte NUR mit einem JSON-Array in diesem Format:
+[
+  {{"titel": "Deutscher Titel", "einordnung": "Kurze Einordnung"}},
+  {{"titel": "Deutscher Titel 2", "einordnung": "Kurze Einordnung 2"}}
+]
 
-Zu übersetzen:
+Originaltitel:
 {titelliste}"""
 
     try:
         r = requests.post(GEMINI_URL, json={
             "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {
-                "temperature": 0.1,
-                "maxOutputTokens": 800,
-                "responseMimeType": "application/json"
-            }
+            "generationConfig": {"temperature": 0.1, "maxOutputTokens": 1000}
         }, timeout=30)
         r.raise_for_status()
 
         raw_text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-        print(f"    Gemini-Antwort: {raw_text[:100]}...")
+        print(f"    Gemini OK: {raw_text[:80]}...")
 
-        uebersetzt = json.loads(raw_text)
-        if not isinstance(uebersetzt, list):
-            raise ValueError(f"Kein Array: {type(uebersetzt)}")
+        uebersetzt = parse_json_from_text(raw_text)
 
         result = []
         for i, orig in enumerate(news_liste):
@@ -130,13 +149,9 @@ Zu übersetzen:
 
     except Exception as e:
         print(f"    Gemini-Fehler: {e}")
-        # Fallback: originale englische Titel
         return [{
-            "titel":      n['titel'],
-            "einordnung": "",
-            "url":        n.get('url', ''),
-            "quelle":     n.get('quelle', ''),
-            "datum":      n.get('datum', ''),
+            "titel": n['titel'], "einordnung": "",
+            "url": n.get('url',''), "quelle": n.get('quelle',''), "datum": n.get('datum','')
         } for n in news_liste]
 
 results = []
@@ -212,18 +227,16 @@ for s in STOCKS:
         rating_map = {"strong_buy":"Starker Kauf","buy":"Kaufen","hold":"Halten","sell":"Verkaufen","strong_sell":"Starker Verkauf"}
         analyst_rating_de = rating_map.get(analyst_rating, analyst_rating)
 
-        # News abrufen
         raw_news = hole_news(t)
-        print(f"  {len(raw_news)} News gefunden: {[n['titel'][:40] for n in raw_news]}")
+        print(f"  {len(raw_news)} News gefunden")
 
         news_de = []
         if raw_news:
-            print(f"  Übersetze mit Gemini...")
             news_de = gemini_uebersetze(s["name"], raw_news)
             time.sleep(2)
 
         chg = f"{change_1d_pct:+.2f}%" if change_1d_pct is not None else "–"
-        print(f"  OK: €{price_eur} ({chg}) | {len(news_de)} News")
+        print(f"  OK: €{price_eur} ({chg}) | {len(news_de)} News übersetzt")
 
         results.append({
             "wkn":            s["wkn"],
