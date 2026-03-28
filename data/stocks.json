@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-03-28T12:02:51.719153+00:00",
+  "aktualisiert": "2026-03-28T18:14:45.543556+00:00",
   "aktien": [
     {
       "wkn": "A1J84E",
@@ -54,6 +54,13 @@
       "analyst_count": 29,
       "news": [
         {
+          "titel": "AbbVie Dermatology Data Sparks Questions On Growth Potential And Valuation",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/abbvie-dermatology-data-sparks-questions-150536694.html",
+          "quelle": "Simply Wall St.",
+          "datum": "28.03.2026"
+        },
+        {
           "titel": "Why Income Investors Keep VTV as a Core Portfolio Anchor in a Turbulent 2026",
           "einordnung": "",
           "url": "https://247wallst.com/investing/2026/03/27/why-income-investors-keep-vtv-as-a-core-portfolio-anchor-in-a-turbulent-2026/",
@@ -72,13 +79,6 @@
           "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-may-underestimated-march-113810925.html",
           "quelle": "Simply Wall St.",
-          "datum": "27.03.2026"
-        },
-        {
-          "titel": "Here's How Many Shares of AbbVie (ABBV) Stock You'd Need for $10,000 in Yearly Dividends",
-          "einordnung": "",
-          "url": "https://www.fool.com/investing/2026/03/27/how-many-shares-abbvie-abbv-stock-10k-dividend/",
-          "quelle": "Motley Fool",
           "datum": "27.03.2026"
         }
       ],
@@ -303,6 +303,13 @@
       "analyst_count": 24,
       "news": [
         {
+          "titel": "Boeing’s backlog boom puts cash flow to the test",
+          "einordnung": "",
+          "url": "https://www.thestreet.com/investing/stocks/boeings-backlog-boom-puts-cash-flow-to-the-test",
+          "quelle": "TheStreet",
+          "datum": "28.03.2026"
+        },
+        {
           "titel": "Vertiv and 6 Other Stocks to Buy in the Wreckage",
           "einordnung": "",
           "url": "https://www.barrons.com/articles/vertiv-stanley-emerson-electric-industrial-stocks-to-buy-9e3edf4d?siteid=yhoof2&yptr=yahoo",
@@ -321,13 +328,6 @@
           "einordnung": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-oil-prices-surge/?src=A00220&yptr=yahoo",
           "quelle": "Investor's Business Daily",
-          "datum": "26.03.2026"
-        },
-        {
-          "titel": "Boeing (BA) Shares Up After Jim Cramer Warned Against Selling",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-shares-jim-cramer-183315567.html",
-          "quelle": "Insider Monkey",
           "datum": "26.03.2026"
         }
       ],
@@ -552,6 +552,13 @@
       "analyst_count": 21,
       "news": [
         {
+          "titel": "Market Week Ahead: Scarcity Narratives And Naval Tactics",
+          "einordnung": "",
+          "url": "https://www.investors.com/research/investing-action-plan/market-week-ahead-scarcity-narratives-and-naval-tactics/?src=A00220&yptr=yahoo",
+          "quelle": "Investor's Business Daily",
+          "datum": "28.03.2026"
+        },
+        {
           "titel": "Broadcom Expands AI Story With Symantec CBX And 400G Optical Push",
           "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-expands-ai-story-symantec-001757797.html",
@@ -570,13 +577,6 @@
           "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-inc-mdb-appoints-ryan-151314757.html",
           "quelle": "Insider Monkey",
-          "datum": "27.03.2026"
-        },
-        {
-          "titel": "Is Kingsoft Cloud (KC) Stock Outpacing Its Computer and Technology Peers This Year?",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/kingsoft-cloud-kc-stock-outpacing-134003598.html",
-          "quelle": "Zacks",
           "datum": "27.03.2026"
         }
       ],
@@ -884,6 +884,13 @@
       "analyst_count": 24,
       "news": [
         {
+          "titel": "Market Week Ahead: Scarcity Narratives And Naval Tactics",
+          "einordnung": "",
+          "url": "https://www.investors.com/research/investing-action-plan/market-week-ahead-scarcity-narratives-and-naval-tactics/?src=A00220&yptr=yahoo",
+          "quelle": "Investor's Business Daily",
+          "datum": "28.03.2026"
+        },
+        {
           "titel": "PPH ETF: Drug Pricing Policy and Eli Lilly Concentration Are the Two Risks to Watch in 2026",
           "einordnung": "",
           "url": "https://247wallst.com/investing/2026/03/28/pph-etf-drug-pricing-policy-and-eli-lilly-concentration-are-the-two-risks-to-watch-in-2026/",
@@ -902,13 +909,6 @@
           "einordnung": "",
           "url": "https://www.pharmaceutical-technology.com/news/jjs-darzalex-nets-first-self-administered-cancer-injectable-approval/",
           "quelle": "Pharmaceutical Technology",
-          "datum": "27.03.2026"
-        },
-        {
-          "titel": "Why Income Investors Keep VTV as a Core Portfolio Anchor in a Turbulent 2026",
-          "einordnung": "",
-          "url": "https://247wallst.com/investing/2026/03/27/why-income-investors-keep-vtv-as-a-core-portfolio-anchor-in-a-turbulent-2026/",
-          "quelle": "24/7 Wall St.",
           "datum": "27.03.2026"
         }
       ],
@@ -1029,13 +1029,6 @@
       "analyst_count": 33,
       "news": [
         {
-          "titel": "Gas price spike is eating up fast food sales: Chart",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/news/gas-price-spike-is-eating-up-fast-food-sales-chart-131624351.html",
-          "quelle": "Yahoo Finance",
-          "datum": "27.03.2026"
-        },
-        {
           "titel": "McDonald's Gains $18M Viral Buzz, Traffic Rises Just 2.2%",
           "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-gains-18m-viral-buzz-200828672.html",
@@ -1047,6 +1040,13 @@
           "einordnung": "",
           "url": "https://247wallst.com/investing/2026/03/27/starbucks-is-still-a-dog/",
           "quelle": "24/7 Wall St.",
+          "datum": "27.03.2026"
+        },
+        {
+          "titel": "Gas price spike is eating up fast food sales: Chart",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/news/gas-price-spike-is-eating-up-fast-food-sales-chart-131624351.html",
+          "quelle": "Yahoo Finance",
           "datum": "27.03.2026"
         },
         {
@@ -1195,6 +1195,13 @@
       "analyst_count": 21,
       "news": [
         {
+          "titel": "PepsiCo Insiders Sold US$5.7m Of Shares Suggesting Hesitancy",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-insiders-sold-us-5-120009713.html",
+          "quelle": "Simply Wall St.",
+          "datum": "28.03.2026"
+        },
+        {
           "titel": "Meet the Value Stock With a 6.6% Dividend Yield That's Begging to Be Bought in April",
           "einordnung": "",
           "url": "https://www.fool.com/investing/2026/03/28/meet-the-value-stock-with-a-66-dividend-yield-that/",
@@ -1213,13 +1220,6 @@
           "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-netflix-advanced-193600792.html",
           "quelle": "Zacks",
-          "datum": "26.03.2026"
-        },
-        {
-          "titel": "PepsiCo Leans on Local Sourcing and AI to Navigate Cost Pressures",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-leans-local-sourcing-ai-173404369.html",
-          "quelle": "Insider Monkey",
           "datum": "26.03.2026"
         }
       ],
@@ -1278,6 +1278,13 @@
       "analyst_count": 20,
       "news": [
         {
+          "titel": "Is LXP Industrial Trust a Buy or Sell After Pensionfund PDN Dumped Shares Worth $6.4 Million?",
+          "einordnung": "",
+          "url": "https://www.fool.com/coverage/filings/2026/03/28/is-lxp-industrial-trust-a-buy-or-sell-after-pensionfund-pdn-dumped-shares-worth-usd6-4-million/",
+          "quelle": "Motley Fool",
+          "datum": "28.03.2026"
+        },
+        {
           "titel": "Only 1 of These Top 2 REITs Is Built to Pay You for Generations",
           "einordnung": "",
           "url": "https://www.barchart.com/story/news/1015428/only-1-of-these-top-2-reits-is-built-to-pay-you-for-generations",
@@ -1297,13 +1304,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/realty-income-o-story-shifting-050439192.html",
           "quelle": "Simply Wall St.",
           "datum": "27.03.2026"
-        },
-        {
-          "titel": "Want $100 in Super-Safe Monthly Dividend Income? Invest $11,955 Into These 2 High-Octane Income Stocks Yielding an Average of 10.04%!",
-          "einordnung": "",
-          "url": "https://www.fool.com/investing/2026/03/26/want-100-in-safe-monthly-dividend-income-10-yield/",
-          "quelle": "Motley Fool",
-          "datum": "26.03.2026"
         }
       ],
       "fehler": null
@@ -1444,6 +1444,13 @@
       "analyst_count": 6,
       "news": [
         {
+          "titel": "Is It Too Late To Consider Shell (LSE:SHEL) After A 200% Five Year Surge?",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/too-consider-shell-lse-shel-130624467.html",
+          "quelle": "Simply Wall St.",
+          "datum": "28.03.2026"
+        },
+        {
           "titel": "Where are the opportunities in European equities?",
           "einordnung": "",
           "url": "https://finance.yahoo.com/economy/articles/where-opportunities-european-equities-054730419.html",
@@ -1462,13 +1469,6 @@
           "einordnung": "",
           "url": "https://www.barrons.com/articles/producers-are-looking-far-afield-for-oil-its-an-old-fashioned-land-grab-e0feae8a?siteid=yhoof2&yptr=yahoo",
           "quelle": "Barrons.com",
-          "datum": "26.03.2026"
-        },
-        {
-          "titel": "Court Dismisses X Lawsuit Alleging Brands Illegally Boycotted the Platform",
-          "einordnung": "",
-          "url": "https://www.wsj.com/business/media/court-dismisses-x-lawsuit-alleging-brands-illegally-boycotted-the-platform-b2c0d24e?siteid=yhoof2&yptr=yahoo",
-          "quelle": "The Wall Street Journal",
           "datum": "26.03.2026"
         }
       ],
