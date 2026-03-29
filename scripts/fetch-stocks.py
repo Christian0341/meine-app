@@ -1,13 +1,9 @@
 import yfinance as yf
-import json
-import os
-import re
-import time
-import requests
+import json, os, re, time, requests
 from datetime import datetime, timezone
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_URL     = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
+GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
 
 STOCKS = [
     {"wkn": "A1J84E", "name": "AbbVie",               "ticker": "ABBV"},
@@ -33,246 +29,167 @@ STOCKS = [
     {"wkn": "869561", "name": "UnitedHealth",           "ticker": "UNH"},
 ]
 
-def fmt(val, decimals=2):
-    if val is None: return None
-    try: return round(float(val), decimals)
+def fmt(v, d=2):
+    if v is None: return None
+    try: return round(float(v), d)
     except: return None
 
-def get_eur_rate(currency):
-    if currency == 'EUR': return 1.0
+def eur_rate(cur):
+    if cur == 'EUR': return 1.0
     try:
-        t = yf.Ticker(f"{currency}EUR=X")
-        rate = t.info.get('regularMarketPrice') or t.fast_info.get('lastPrice')
-        if rate: return float(rate)
+        r = yf.Ticker(f"{cur}EUR=X").info.get('regularMarketPrice')
+        if r: return float(r)
     except: pass
-    fallback = {'USD': 0.92, 'GBP': 1.17, 'JPY': 0.0061, 'CAD': 0.68, 'AUD': 0.60}
-    return fallback.get(currency, 1.0)
+    return {'USD':0.92,'GBP':1.17,'JPY':0.0061,'CAD':0.68,'AUD':0.60}.get(cur, 1.0)
 
-def hole_news(ticker_obj):
-    raw = []
+def hole_news(t):
+    items = []
     try:
-        news = ticker_obj.news
-        if not news: return []
-        for item in news[:4]:
-            titel = ''
-            url   = ''
-            quelle = ''
-            datum  = ''
-            if isinstance(item, dict):
-                content = item.get('content', {})
-                if content and isinstance(content, dict):
-                    titel  = content.get('title', '')
-                    quelle = content.get('provider', {}).get('displayName', '')
-                    url    = (content.get('canonicalUrl', {}).get('url', '') or
-                              content.get('clickThroughUrl', {}).get('url', ''))
-                    pub    = content.get('pubDate', '')
-                    if pub:
-                        try:
-                            dt = datetime.fromisoformat(pub.replace('Z', '+00:00'))
-                            datum = dt.strftime("%d.%m.%Y")
-                        except: datum = pub[:10]
-                if not titel:
-                    titel  = item.get('title', '')
-                    quelle = item.get('publisher', '')
-                    url    = item.get('link', item.get('url', ''))
-                    ts     = item.get('providerPublishTime', 0)
-                    if ts:
-                        try:
-                            datum = datetime.fromtimestamp(float(ts), tz=timezone.utc).strftime("%d.%m.%Y")
-                        except: pass
+        for n in (t.news or [])[:4]:
+            c = n.get('content', {}) if isinstance(n, dict) else {}
+            titel  = c.get('title') or n.get('title', '')
+            quelle = c.get('provider', {}).get('displayName') or n.get('publisher', '')
+            url    = (c.get('canonicalUrl', {}).get('url') or
+                      c.get('clickThroughUrl', {}).get('url') or
+                      n.get('link') or n.get('url', ''))
+            pub    = c.get('pubDate', '')
+            if pub:
+                try: datum = datetime.fromisoformat(pub.replace('Z','+00:00')).strftime("%d.%m.%Y")
+                except: datum = pub[:10]
+            else:
+                ts = n.get('providerPublishTime', 0)
+                try: datum = datetime.fromtimestamp(float(ts), tz=timezone.utc).strftime("%d.%m.%Y") if ts else ''
+                except: datum = ''
             if titel:
-                raw.append({'titel': titel, 'url': url, 'quelle': quelle, 'datum': datum})
+                items.append({'titel': titel, 'url': url, 'quelle': quelle, 'datum': datum})
     except Exception as e:
         print(f"    News-Fehler: {e}")
-    return raw
+    return items
 
-def parse_json_from_text(text):
-    """Extrahiert JSON-Array aus beliebigem Text"""
-    text = text.strip()
-    # Direkt JSON?
-    if text.startswith('['):
-        return json.loads(text)
-    # In Backticks?
-    m = re.search(r'```(?:json)?\s*(\[.*?\])\s*```', text, re.DOTALL)
-    if m:
-        return json.loads(m.group(1))
-    # Array irgendwo im Text?
-    m = re.search(r'(\[.*\])', text, re.DOTALL)
-    if m:
-        return json.loads(m.group(1))
-    raise ValueError(f"Kein JSON-Array gefunden: {text[:200]}")
+def uebersetze(name, news):
+    if not GEMINI_API_KEY or not news:
+        return [{'titel': n['titel'], 'einordnung': '', 'url': n['url'], 'quelle': n['quelle'], 'datum': n['datum']} for n in news]
 
-def gemini_uebersetze(firmenname, news_liste):
-    if not GEMINI_API_KEY or not news_liste:
-        return [{
-            "titel": n['titel'], "einordnung": "",
-            "url": n.get('url',''), "quelle": n.get('quelle',''), "datum": n.get('datum','')
-        } for n in news_liste]
-
-    titelliste = "\n".join([f"{i+1}. {n['titel']}" for i, n in enumerate(news_liste)])
-
-    prompt = f"""Übersetze diese {len(news_liste)} englischen Finanznachrichtentitel über {firmenname} ins Deutsche.
-Füge jeweils eine kurze Einordnung hinzu (1 Satz auf Deutsch, was das für Aktionäre bedeutet).
-
-Antworte NUR mit einem JSON-Array in diesem Format:
-[
-  {{"titel": "Deutscher Titel", "einordnung": "Kurze Einordnung"}},
-  {{"titel": "Deutscher Titel 2", "einordnung": "Kurze Einordnung 2"}}
-]
-
-Originaltitel:
-{titelliste}"""
+    titeln = "\n".join(f"{i+1}. {n['titel']}" for i, n in enumerate(news))
+    prompt = (
+        f"Uebersetzungsaufgabe fuer Aktionare von {name}.\n"
+        f"Uebersetze {len(news)} englische Finanznachrichten-Titel auf Deutsch.\n"
+        f"Antworte NUR mit diesem JSON-Array (keine anderen Texte):\n"
+        f'[{{"titel":"DE-Titel","einordnung":"1 Satz Einordnung fuer Aktionaere"}}]\n\n'
+        f"Titel:\n{titeln}"
+    )
 
     try:
-        r = requests.post(GEMINI_URL, json={
+        resp = requests.post(GEMINI_URL, json={
             "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.1, "maxOutputTokens": 1000}
+            "generationConfig": {"temperature": 0.1, "maxOutputTokens": 800}
         }, timeout=30)
-        r.raise_for_status()
 
-        raw_text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-        print(f"    Gemini OK: {raw_text[:80]}...")
+        print(f"    Gemini HTTP: {resp.status_code}")
+        body = resp.json()
 
-        uebersetzt = parse_json_from_text(raw_text)
+        if 'error' in body:
+            print(f"    Gemini API-Fehler: {body['error'].get('message','')[:100]}")
+            raise Exception("API error")
 
+        text = body["candidates"][0]["content"]["parts"][0]["text"].strip()
+        print(f"    Gemini Antwort: {text[:100]}")
+
+        # JSON extrahieren
+        if not text.startswith('['):
+            m = re.search(r'\[.*\]', text, re.DOTALL)
+            text = m.group(0) if m else '[]'
+
+        ue = json.loads(text)
         result = []
-        for i, orig in enumerate(news_liste):
-            ue = uebersetzt[i] if i < len(uebersetzt) else {}
+        for i, orig in enumerate(news):
+            u = ue[i] if i < len(ue) else {}
             result.append({
-                "titel":      ue.get("titel", orig['titel']),
-                "einordnung": ue.get("einordnung", ""),
-                "url":        orig.get('url', ''),
-                "quelle":     orig.get('quelle', ''),
-                "datum":      orig.get('datum', ''),
+                'titel':      u.get('titel', orig['titel']),
+                'einordnung': u.get('einordnung', ''),
+                'url':        orig['url'],
+                'quelle':     orig['quelle'],
+                'datum':      orig['datum'],
             })
         return result
 
     except Exception as e:
         print(f"    Gemini-Fehler: {e}")
-        return [{
-            "titel": n['titel'], "einordnung": "",
-            "url": n.get('url',''), "quelle": n.get('quelle',''), "datum": n.get('datum','')
-        } for n in news_liste]
+        return [{'titel': n['titel'], 'einordnung': '', 'url': n['url'], 'quelle': n['quelle'], 'datum': n['datum']} for n in news]
 
 results = []
-eur_rates = {}
+rates = {}
 
 for s in STOCKS:
-    ticker = s["ticker"]
-    print(f"\nFetching {s['name']} ({ticker})...")
+    print(f"\n{s['name']} ({s['ticker']})...")
     try:
-        t    = yf.Ticker(ticker)
+        t    = yf.Ticker(s['ticker'])
         info = t.info
         hist = t.history(period="1y")
+        cur  = info.get('currency', 'USD')
+        if cur not in rates: rates[cur] = eur_rate(cur)
+        er   = rates[cur]
 
-        currency = info.get("currency", "USD")
-        if currency not in eur_rates:
-            eur_rates[currency] = get_eur_rate(currency)
-        eur_rate = eur_rates[currency]
+        po   = fmt(info.get('currentPrice') or info.get('regularMarketPrice'))
+        pc   = fmt(info.get('previousClose'))
+        pe   = fmt(po * er) if po else None
 
-        price_orig = fmt(info.get("currentPrice") or info.get("regularMarketPrice"))
-        prev_close = fmt(info.get("previousClose"))
-        price_eur  = fmt(price_orig * eur_rate) if price_orig else None
+        d1 = fmt((po-pc)/pc*100) if po and pc and pc>0 else None
+        d1w = d1m = d1y = None
+        if len(hist)>=6:  d1w = fmt((hist["Close"].iloc[-1]-hist["Close"].iloc[-6])/hist["Close"].iloc[-6]*100)
+        if len(hist)>=22: d1m = fmt((hist["Close"].iloc[-1]-hist["Close"].iloc[-22])/hist["Close"].iloc[-22]*100)
+        if len(hist)>=2:  d1y = fmt((hist["Close"].iloc[-1]-hist["Close"].iloc[0])/hist["Close"].iloc[0]*100)
 
-        change_1d_pct = None
-        if price_orig and prev_close and prev_close > 0:
-            change_1d_pct = fmt((price_orig - prev_close) / prev_close * 100)
+        h52 = fmt(info.get('fiftyTwoWeekHigh',0)*er) if info.get('fiftyTwoWeekHigh') else None
+        l52 = fmt(info.get('fiftyTwoWeekLow',0)*er)  if info.get('fiftyTwoWeekLow')  else None
+        dr  = fmt(info.get('dividendRate'))
+        dre = fmt(dr*er) if dr else None
 
-        change_1w_pct = None
-        if len(hist) >= 6:
-            p1w = hist["Close"].iloc[-6]
-            if p1w > 0: change_1w_pct = fmt((hist["Close"].iloc[-1] - p1w) / p1w * 100)
+        dy = None
+        raw_dy = info.get('dividendYield')
+        if raw_dy:
+            p = float(raw_dy)*100
+            if 0 < p < 25: dy = fmt(p)
+        elif dr and po and po > 0:
+            p = dr/po*100
+            if 0 < p < 25: dy = fmt(p)
 
-        change_1m_pct = None
-        if len(hist) >= 22:
-            p1m = hist["Close"].iloc[-22]
-            if p1m > 0: change_1m_pct = fmt((hist["Close"].iloc[-1] - p1m) / p1m * 100)
+        mc = info.get('marketCap')
+        mcs = f"{mc/1e12:.2f}T" if mc and mc>=1e12 else f"{mc/1e9:.1f}B" if mc and mc>=1e9 else f"{mc/1e6:.0f}M" if mc else None
+        sp  = [fmt(v*er,4) for v in hist["Close"].tail(30).tolist()] if len(hist)>=2 else []
 
-        change_1y_pct = None
-        if len(hist) >= 2:
-            p1y = hist["Close"].iloc[0]
-            if p1y > 0: change_1y_pct = fmt((hist["Close"].iloc[-1] - p1y) / p1y * 100)
-
-        w52_high_eur = fmt(info.get("fiftyTwoWeekHigh", 0) * eur_rate) if info.get("fiftyTwoWeekHigh") else None
-        w52_low_eur  = fmt(info.get("fiftyTwoWeekLow",  0) * eur_rate) if info.get("fiftyTwoWeekLow") else None
-
-        div_rate     = fmt(info.get("dividendRate"))
-        div_rate_eur = fmt(div_rate * eur_rate) if div_rate else None
-
-        div_yield = None
-        dy = info.get("dividendYield")
-        if dy:
-            dy_pct = float(dy) * 100
-            if 0 < dy_pct < 25:
-                div_yield = fmt(dy_pct)
-        elif div_rate and price_orig and price_orig > 0:
-            dy_calc = (div_rate / price_orig) * 100
-            if 0 < dy_calc < 25:
-                div_yield = fmt(dy_calc)
-
-        mc = info.get("marketCap")
-        mc_str = None
-        if mc:
-            if mc >= 1e12: mc_str = f"{mc/1e12:.2f}T"
-            elif mc >= 1e9: mc_str = f"{mc/1e9:.1f}B"
-            else: mc_str = f"{mc/1e6:.0f}M"
-
-        sparkline = []
-        if len(hist) >= 2:
-            sparkline = [fmt(v * eur_rate, 4) for v in hist["Close"].tail(30).tolist()]
-
-        analyst_rating = info.get("recommendationKey", "")
-        analyst_target = fmt(info.get("targetMeanPrice", 0) * eur_rate) if info.get("targetMeanPrice") else None
-        analyst_count  = info.get("numberOfAnalystOpinions")
-        rating_map = {"strong_buy":"Starker Kauf","buy":"Kaufen","hold":"Halten","sell":"Verkaufen","strong_sell":"Starker Verkauf"}
-        analyst_rating_de = rating_map.get(analyst_rating, analyst_rating)
+        rm  = {"strong_buy":"Starker Kauf","buy":"Kaufen","hold":"Halten","sell":"Verkaufen","strong_sell":"Starker Verkauf"}
+        ar  = rm.get(info.get('recommendationKey',''), info.get('recommendationKey',''))
+        at  = fmt(info.get('targetMeanPrice',0)*er) if info.get('targetMeanPrice') else None
+        ac  = info.get('numberOfAnalystOpinions')
 
         raw_news = hole_news(t)
-        print(f"  {len(raw_news)} News gefunden")
+        print(f"  {len(raw_news)} News")
+        news_de = uebersetze(s['name'], raw_news) if raw_news else []
+        if raw_news: time.sleep(2)
 
-        news_de = []
-        if raw_news:
-            news_de = gemini_uebersetze(s["name"], raw_news)
-            time.sleep(2)
-
-        chg = f"{change_1d_pct:+.2f}%" if change_1d_pct is not None else "–"
-        print(f"  OK: €{price_eur} ({chg}) | {len(news_de)} News übersetzt")
+        chg = f"{d1:+.2f}%" if d1 is not None else "–"
+        print(f"  OK: €{pe} ({chg}) | {len(news_de)} News übersetzt")
 
         results.append({
-            "wkn":            s["wkn"],
-            "name":           s["name"],
-            "ticker":         ticker,
-            "currency":       "EUR",
-            "price":          price_eur,
-            "change_1d_pct":  change_1d_pct,
-            "change_1w_pct":  change_1w_pct,
-            "change_1m_pct":  change_1m_pct,
-            "change_1y_pct":  change_1y_pct,
-            "week52_high":    w52_high_eur,
-            "week52_low":     w52_low_eur,
-            "div_yield":      div_yield,
-            "div_rate":       div_rate_eur,
-            "market_cap":     mc_str,
-            "pe_ratio":       fmt(info.get("trailingPE")),
-            "sparkline":      sparkline,
-            "analyst_rating": analyst_rating_de,
-            "analyst_target": analyst_target,
-            "analyst_count":  analyst_count,
-            "news":           news_de,
-            "fehler":         None
+            "wkn": s["wkn"], "name": s["name"], "ticker": s["ticker"],
+            "currency": "EUR", "price": pe,
+            "change_1d_pct": d1, "change_1w_pct": d1w,
+            "change_1m_pct": d1m, "change_1y_pct": d1y,
+            "week52_high": h52, "week52_low": l52,
+            "div_yield": dy, "div_rate": dre,
+            "market_cap": mcs, "pe_ratio": fmt(info.get('trailingPE')),
+            "sparkline": sp,
+            "analyst_rating": ar, "analyst_target": at, "analyst_count": ac,
+            "news": news_de, "fehler": None
         })
 
     except Exception as e:
         print(f"  FEHLER: {e}")
-        results.append({"wkn": s["wkn"], "name": s["name"], "ticker": ticker, "fehler": str(e)})
-
-output = {
-    "aktualisiert": datetime.now(timezone.utc).isoformat(),
-    "aktien": results
-}
+        results.append({"wkn": s["wkn"], "name": s["name"], "ticker": s["ticker"], "fehler": str(e)})
 
 os.makedirs("data", exist_ok=True)
 with open("data/stocks.json", "w", encoding="utf-8") as f:
-    json.dump(output, f, ensure_ascii=False, indent=2)
+    json.dump({"aktualisiert": datetime.now(timezone.utc).isoformat(), "aktien": results}, f, ensure_ascii=False, indent=2)
 
-print(f"\nFertig! {len(results)} Aktien gespeichert.")
+print(f"\nFertig! {len(results)} Aktien.")
