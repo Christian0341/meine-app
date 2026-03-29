@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-03-28T09:04:04.349677+00:00",
+  "aktualisiert": "2026-03-29T09:04:37.910343+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "Musks „TERAFAB”, OpenAIs NEUER Plan, Claude „Mythos”,  Interview Prof. Lilienthal & weitere KI-News",
+      "link": "https://www.youtube.com/watch?v=mKDL4rALSqw",
+      "video_id": "mKDL4rALSqw",
+      "thumbnail": "https://img.youtube.com/vi/mKDL4rALSqw/mqdefault.jpg",
+      "datum": "2026-03-29T08:15:00+00:00",
+      "datum_de": "29.03.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Akademie4KI",
       "titel": "ChatGPT sagt ich soll zur Tankstelle laufen? 🤔😂 #chatgpt #künstlicheintelligenz #ki",
@@ -59,6 +69,16 @@
       "video_id": "GWlriN5tjfQ",
       "thumbnail": "https://img.youtube.com/vi/GWlriN5tjfQ/mqdefault.jpg",
       "datum": "2026-03-26T16:00:31Z",
+      "datum_de": "26.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "ChatGPT Adult Modus Schock, Seedance 2 sicher in DE, Lyria eine Gefahr für Suno - KI News",
+      "link": "https://www.youtube.com/watch?v=pUNg0aE9je4",
+      "video_id": "pUNg0aE9je4",
+      "thumbnail": "https://img.youtube.com/vi/pUNg0aE9je4/mqdefault.jpg",
+      "datum": "2026-03-26T15:22:41Z",
       "datum_de": "26.03.2026",
       "quelle": "suche"
     },
@@ -154,32 +174,12 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "Live von NVIDIA GTC! NemoClaw, GPT-5.4 Agents, Claude Cowork, Google „Stitch\" & weitere KI-News",
+      "titel": "KI-Agenten: DAS übersehen gerade ALLE! Claude Updates, Google Stitch & LIVE von der NVIDIA GTC",
       "link": "https://www.youtube.com/watch?v=U07CLU73PEc",
       "video_id": "U07CLU73PEc",
       "thumbnail": "https://img.youtube.com/vi/U07CLU73PEc/mqdefault.jpg",
       "datum": "2026-03-22T09:16:00+00:00",
       "datum_de": "22.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Dieses KI-Tool wird komplett unterschätzt! 🚀 #künstlicheintelligenz #kitools #chatgpt #claude",
-      "link": "https://www.youtube.com/shorts/xPm1GJJhBIE",
-      "video_id": "xPm1GJJhBIE",
-      "thumbnail": "https://img.youtube.com/vi/xPm1GJJhBIE/mqdefault.jpg",
-      "datum": "2026-03-21T15:30:36+00:00",
-      "datum_de": "21.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "Kranke KI-Revolution: Dieses neue Tool verändert ALLES",
-      "link": "https://www.youtube.com/watch?v=CJ3qQw9Rgko",
-      "video_id": "CJ3qQw9Rgko",
-      "thumbnail": "https://img.youtube.com/vi/CJ3qQw9Rgko/mqdefault.jpg",
-      "datum": "2026-03-21T09:21:30+00:00",
-      "datum_de": "21.03.2026",
       "quelle": "kanal"
     }
   ]
