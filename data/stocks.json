@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-03-28T18:25:05.956350+00:00",
+  "aktualisiert": "2026-03-29T15:03:06.586741+00:00",
   "aktien": [
     {
       "wkn": "A1J84E",
@@ -303,6 +303,13 @@
       "analyst_count": 24,
       "news": [
         {
+          "titel": "Damaged U.S. Jet’s Nearest Replacement Will Cost More Than $700 Million",
+          "einordnung": "",
+          "url": "https://www.wsj.com/livecoverage/iran-war-middle-east-news-updates/card/on-the-minds-of-no-kings-protesters-in-the-u-s-war-with-iran-nsRrCDkUJl8zw98tYPSv?siteid=yhoof2&yptr=yahoo",
+          "quelle": "The Wall Street Journal",
+          "datum": "28.03.2026"
+        },
+        {
           "titel": "Boeing’s backlog boom puts cash flow to the test",
           "einordnung": "",
           "url": "https://www.thestreet.com/investing/stocks/boeings-backlog-boom-puts-cash-flow-to-the-test",
@@ -322,13 +329,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/look-bae-systems-lse-ba-010901748.html",
           "quelle": "Simply Wall St.",
           "datum": "27.03.2026"
-        },
-        {
-          "titel": "Stock Market Today: Dow Drops As Trump's War Comments Hit Market; Oil Surges (Live Coverage)",
-          "einordnung": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-oil-prices-surge/?src=A00220&yptr=yahoo",
-          "quelle": "Investor's Business Daily",
-          "datum": "26.03.2026"
         }
       ],
       "fehler": null
@@ -386,6 +386,20 @@
       "analyst_count": 25,
       "news": [
         {
+          "titel": "Bristol-Myers Squibb Company (NYSE:BMY) Looks Like A Good Stock, And It's Going Ex-Dividend Soon",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bristol-myers-squibb-company-nyse-123016803.html",
+          "quelle": "Simply Wall St.",
+          "datum": "29.03.2026"
+        },
+        {
+          "titel": "Bristol-Myers Squibb (BMY) Faces Mixed Analyst Sentiment Despite Strong Momentum in Healthcare Industry",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/bristol-myers-squibb-bmy-faces-205109228.html",
+          "quelle": "Insider Monkey",
+          "datum": "28.03.2026"
+        },
+        {
           "titel": "PPH ETF: Drug Pricing Policy and Eli Lilly Concentration Are the Two Risks to Watch in 2026",
           "einordnung": "",
           "url": "https://247wallst.com/investing/2026/03/28/pph-etf-drug-pricing-policy-and-eli-lilly-concentration-are-the-two-risks-to-watch-in-2026/",
@@ -397,20 +411,6 @@
           "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bristol-myers-squibb-180116542.html",
           "quelle": "Insider Monkey",
-          "datum": "27.03.2026"
-        },
-        {
-          "titel": "Jim Cramer on Pfizer: “I Just Need to Know Their Product Flow Better”",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-pfizer-just-know-180113708.html",
-          "quelle": "Insider Monkey",
-          "datum": "27.03.2026"
-        },
-        {
-          "titel": "Consecutive approvals of Opdivo for Hodgkin’s lymphoma to boost sales growth",
-          "einordnung": "",
-          "url": "https://www.clinicaltrialsarena.com/analyst-comment/approvals-opdivo-hodgkins-lymphoma-boost-sales-growth/",
-          "quelle": "Clinical Trials Arena",
           "datum": "27.03.2026"
         }
       ],
@@ -714,9 +714,16 @@
         48.92
       ],
       "analyst_rating": "Kaufen",
-      "analyst_target": 103.67,
+      "analyst_target": 101.33,
       "analyst_count": 12,
       "news": [
+        {
+          "titel": "CTS Eventim AG & Co. KGaA Just Missed Earnings - But Analysts Have Updated Their Models",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cts-eventim-ag-co-kgaa-063330044.html",
+          "quelle": "Simply Wall St.",
+          "datum": "29.03.2026"
+        },
         {
           "titel": "CTS Eventim AG & Co. KGaA Q4 Earnings Call Highlights",
           "einordnung": "",
@@ -737,13 +744,6 @@
           "url": "https://finance.yahoo.com/news/cts-eventim-ag-co-kgaa-060630992.html",
           "quelle": "Simply Wall St.",
           "datum": "06.01.2026"
-        },
-        {
-          "titel": "Will Weakness in CTS Eventim AG & Co. KGaA's (ETR:EVD) Stock Prove Temporary Given Strong Fundamentals?",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/news/weakness-cts-eventim-ag-co-041801513.html",
-          "quelle": "Simply Wall St.",
-          "datum": "23.12.2025"
         }
       ],
       "fehler": null
@@ -884,6 +884,13 @@
       "analyst_count": 24,
       "news": [
         {
+          "titel": "Jim Cramer on Reddit (RDDT): “I Want to Buy Reddit Right Here”",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reddit-rddt-want-211109612.html",
+          "quelle": "Insider Monkey",
+          "datum": "28.03.2026"
+        },
+        {
           "titel": "Market Week Ahead: Scarcity Narratives And Naval Tactics",
           "einordnung": "",
           "url": "https://www.investors.com/research/investing-action-plan/market-week-ahead-scarcity-narratives-and-naval-tactics/?src=A00220&yptr=yahoo",
@@ -903,13 +910,6 @@
           "url": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-oncology-immunology-advances-020424075.html",
           "quelle": "Simply Wall St.",
           "datum": "28.03.2026"
-        },
-        {
-          "titel": "J&J’s Darzalex nets first self-administered cancer injectable approval",
-          "einordnung": "",
-          "url": "https://www.pharmaceutical-technology.com/news/jjs-darzalex-nets-first-self-administered-cancer-injectable-approval/",
-          "quelle": "Pharmaceutical Technology",
-          "datum": "27.03.2026"
         }
       ],
       "fehler": null
@@ -931,36 +931,36 @@
       "market_cap": "575.6B",
       "pe_ratio": 15.8,
       "sparkline": [
-        8.6765,
-        8.3594,
-        8.7253,
-        9.0424,
-        9.2837,
-        9.2267,
-        9.1698,
-        9.1454,
-        9.2999,
-        9.4463,
-        9.7797,
-        9.7716,
-        9.6659,
-        9.7201,
-        9.4111,
-        9.6984,
-        9.4653,
-        9.655,
-        10.2269,
-        9.9478,
-        10.2215,
-        10.2459,
-        10.0101,
-        9.9369,
-        9.7363,
-        9.5032,
-        9.4436,
-        9.3352,
-        9.1969,
-        9.3406
+        8.46,
+        8.1507,
+        8.5075,
+        8.8168,
+        9.052,
+        8.9965,
+        8.941,
+        8.9172,
+        9.0678,
+        9.2106,
+        9.5356,
+        9.5277,
+        9.4246,
+        9.4775,
+        9.1762,
+        9.4563,
+        9.2291,
+        9.4141,
+        9.9717,
+        9.6995,
+        9.9664,
+        9.9902,
+        9.7603,
+        9.6889,
+        9.4933,
+        9.2661,
+        9.2079,
+        9.1022,
+        8.9674,
+        9.1075
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 11.63,
@@ -1029,31 +1029,31 @@
       "analyst_count": 33,
       "news": [
         {
+          "titel": "Iran war is having negative effects on both restaurant demand and supply, analyst",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/economy/articles/iran-war-having-negative-effects-075454884.html",
+          "quelle": "Investing.com",
+          "datum": "29.03.2026"
+        },
+        {
+          "titel": "McDonald's Netflix Tie Up Tests Adult Happy Meal Impact On Valuation",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-netflix-tie-tests-adult-220437474.html",
+          "quelle": "Simply Wall St.",
+          "datum": "28.03.2026"
+        },
+        {
+          "titel": "Analysts Remain Constructive on McDonald’s (MCD) Following Strong Q4 and Full-Year 2025 Performance",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-remain-constructive-mcdonald-mcd-205402726.html",
+          "quelle": "Insider Monkey",
+          "datum": "28.03.2026"
+        },
+        {
           "titel": "McDonald's Gains $18M Viral Buzz, Traffic Rises Just 2.2%",
           "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-gains-18m-viral-buzz-200828672.html",
           "quelle": "GuruFocus.com",
-          "datum": "27.03.2026"
-        },
-        {
-          "titel": "Starbucks Is Still A Dog",
-          "einordnung": "",
-          "url": "https://247wallst.com/investing/2026/03/27/starbucks-is-still-a-dog/",
-          "quelle": "24/7 Wall St.",
-          "datum": "27.03.2026"
-        },
-        {
-          "titel": "Gas price spike is eating up fast food sales: Chart",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/news/gas-price-spike-is-eating-up-fast-food-sales-chart-131624351.html",
-          "quelle": "Yahoo Finance",
-          "datum": "27.03.2026"
-        },
-        {
-          "titel": "Here's Why We Think McDonald's (NYSE:MCD) Is Well Worth Watching",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-think-mcdonalds-nyse-120009149.html",
-          "quelle": "Simply Wall St.",
           "datum": "27.03.2026"
         }
       ],
@@ -1195,6 +1195,13 @@
       "analyst_count": 21,
       "news": [
         {
+          "titel": "Food Megamergers Hardly Ever Work. Could McCormick-Unilever Be Different?",
+          "einordnung": "",
+          "url": "https://www.wsj.com/business/retail/food-mega-mergers-hardly-ever-work-could-mccormick-unilever-be-different-f9100870?siteid=yhoof2&yptr=yahoo",
+          "quelle": "The Wall Street Journal",
+          "datum": "29.03.2026"
+        },
+        {
           "titel": "PepsiCo Insiders Sold US$5.7m Of Shares Suggesting Hesitancy",
           "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-insiders-sold-us-5-120009713.html",
@@ -1214,13 +1221,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-increases-despite-market-215002960.html",
           "quelle": "Zacks",
           "datum": "27.03.2026"
-        },
-        {
-          "titel": "Top Analyst Reports for Netflix, Advanced Micro Devices and SAP",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-netflix-advanced-193600792.html",
-          "quelle": "Zacks",
-          "datum": "26.03.2026"
         }
       ],
       "fehler": null
@@ -1361,6 +1361,13 @@
       "analyst_count": 7,
       "news": [
         {
+          "titel": "Australian states pivot to free public transport as fuel shortages rattle economy",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/economy/policy/articles/australian-states-pivot-free-public-035951769.html",
+          "quelle": "Investing.com",
+          "datum": "29.03.2026"
+        },
+        {
           "titel": "Rio Tinto Ends Diamonds To Concentrate On Core Industrial Commodities",
           "einordnung": "",
           "url": "https://finance.yahoo.com/markets/commodities/articles/rio-tinto-ends-diamonds-concentrate-080511620.html",
@@ -1379,13 +1386,6 @@
           "einordnung": "",
           "url": "https://www.mining-technology.com/news/rio-tinto-mid-2030s-arizona-copper-mine-opening/",
           "quelle": "Mining Technology",
-          "datum": "26.03.2026"
-        },
-        {
-          "titel": "Rio's Diamond Exit Sharpens Commodity Bet",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/rios-diamond-exit-sharpens-commodity-132907054.html",
-          "quelle": "GuruFocus.com",
           "datum": "26.03.2026"
         }
       ],
@@ -1444,6 +1444,13 @@
       "analyst_count": 6,
       "news": [
         {
+          "titel": "Baltic port attacks halt Russian crude loadings as Ukraine targets energy hubs",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/baltic-port-attacks-halt-russian-054221883.html",
+          "quelle": "Investing.com",
+          "datum": "29.03.2026"
+        },
+        {
           "titel": "Is It Too Late To Consider Shell (LSE:SHEL) After A 200% Five Year Surge?",
           "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/too-consider-shell-lse-shel-130624467.html",
@@ -1462,13 +1469,6 @@
           "einordnung": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/shell-warns-possible-energy-shortage-182300980.html",
           "quelle": "Zacks",
-          "datum": "26.03.2026"
-        },
-        {
-          "titel": "Producers Are Looking Far Afield for Oil. It’s ‘An Old-Fashioned Land Grab.’",
-          "einordnung": "",
-          "url": "https://www.barrons.com/articles/producers-are-looking-far-afield-for-oil-its-an-old-fashioned-land-grab-e0feae8a?siteid=yhoof2&yptr=yahoo",
-          "quelle": "Barrons.com",
           "datum": "26.03.2026"
         }
       ],
@@ -1693,6 +1693,20 @@
       "analyst_count": 25,
       "news": [
         {
+          "titel": "Trump calls for replacing Obamacare with direct payments to Americans",
+          "einordnung": "",
+          "url": "https://www.yahoo.com/news/articles/trump-calls-replacing-obamacare-direct-142938444.html",
+          "quelle": "Investing.com",
+          "datum": "29.03.2026"
+        },
+        {
+          "titel": "UnitedHealth Group (UNH) Launches AI Companion Avery",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-group-unh-launches-ai-210007765.html",
+          "quelle": "Insider Monkey",
+          "datum": "28.03.2026"
+        },
+        {
           "titel": "UnitedHealth Faces Breakup Bill And Lawsuit While Shares Screen As Undervalued",
           "einordnung": "",
           "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-faces-breakup-bill-lawsuit-030858974.html",
@@ -1703,20 +1717,6 @@
           "titel": "UnitedHealth Group (UNH) Declines More Than Market: Some Information for Investors",
           "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-unh-declines-more-215006005.html",
-          "quelle": "Zacks",
-          "datum": "27.03.2026"
-        },
-        {
-          "titel": "Why Income Investors Keep VTV as a Core Portfolio Anchor in a Turbulent 2026",
-          "einordnung": "",
-          "url": "https://247wallst.com/investing/2026/03/27/why-income-investors-keep-vtv-as-a-core-portfolio-anchor-in-a-turbulent-2026/",
-          "quelle": "24/7 Wall St.",
-          "datum": "27.03.2026"
-        },
-        {
-          "titel": "Can UnitedHealth's Avery Redefine Healthcare Navigation at Scale?",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealths-avery-redefine-healthcare-navigation-153500565.html",
           "quelle": "Zacks",
           "datum": "27.03.2026"
         }
