@@ -166,7 +166,7 @@ for s in STOCKS:
         raw_news = hole_news(t)
         print(f"  {len(raw_news)} News")
         news_de = uebersetze(s['name'], raw_news) if raw_news else []
-        if raw_news: time.sleep(2)
+        if raw_news: time.sleep(4)
 
         chg = f"{d1:+.2f}%" if d1 is not None else "–"
         print(f"  OK: €{pe} ({chg}) | {len(news_de)} News übersetzt")
