@@ -63,50 +63,73 @@ def hole_news(t):
             if titel:
                 items.append({'titel': titel, 'url': url, 'quelle': quelle, 'datum': datum})
     except Exception as e:
-        print(f"    News-Fehler: {e}")
+        print(f"  News-Fehler: {e}")
     return items
 
-def uebersetze(name, news):
-    if not GEMINI_API_KEY or not news:
-        return [{'titel': n['titel'], 'einordnung': '', 'url': n['url'], 'quelle': n['quelle'], 'datum': n['datum']} for n in news]
+def uebersetze_alle(alle_news_dict):
+    """
+    Übersetzt ALLE News in einer einzigen Gemini-Anfrage.
+    alle_news_dict: {"AbbVie": [news1, news2...], "Allianz": [...], ...}
+    Gibt zurück: {"AbbVie": [ue1, ue2...], ...}
+    """
+    if not GEMINI_API_KEY:
+        return {}
 
-    titeln = "\n".join(f"{i+1}. {n['titel']}" for i, n in enumerate(news))
+    # Alle Titel nummeriert auflisten
+    alle_eintraege = []  # [(firmenname, index, news)]
+    for firma, news_liste in alle_news_dict.items():
+        for i, n in enumerate(news_liste):
+            alle_eintraege.append((firma, i, n))
+
+    if not alle_eintraege:
+        return {}
+
+    titelliste = "\n".join(
+        f"{idx+1}. [{firma}] {n['titel']}"
+        for idx, (firma, i, n) in enumerate(alle_eintraege)
+    )
+
     prompt = (
-        f"Uebersetzungsaufgabe fuer Aktionare von {name}.\n"
-        f"Uebersetze {len(news)} englische Finanznachrichten-Titel auf Deutsch.\n"
-        f"Antworte NUR mit diesem JSON-Array (keine anderen Texte):\n"
-        f'[{{"titel":"DE-Titel","einordnung":"1 Satz Einordnung fuer Aktionaere"}}]\n\n'
-        f"Titel:\n{titeln}"
+        f"Uebersetze {len(alle_eintraege)} englische Finanznachrichten-Titel ins Deutsche.\n"
+        f"Schreibe fuer jeden Titel eine kurze Einordnung (1 Satz) fuer Aktionaere.\n"
+        f"Antworte NUR mit einem JSON-Array:\n"
+        f'[{{"titel":"DE-Titel","einordnung":"Einordnung"}}]\n\n'
+        f"Titel:\n{titelliste}"
     )
 
     try:
         resp = requests.post(GEMINI_URL, json={
             "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.1, "maxOutputTokens": 800}
-        }, timeout=30)
+            "generationConfig": {"temperature": 0.1, "maxOutputTokens": 8000}
+        }, timeout=60)
 
-        print(f"    Gemini HTTP: {resp.status_code}")
+        print(f"Gemini HTTP: {resp.status_code}")
         body = resp.json()
 
         if 'error' in body:
-            print(f"    Gemini API-Fehler: {body['error'].get('message','')[:100]}")
-            raise Exception("API error")
+            print(f"Gemini Fehler: {body['error'].get('message','')[:150]}")
+            return {}
 
         text = body["candidates"][0]["content"]["parts"][0]["text"].strip()
-        print(f"    Gemini Antwort: {text[:100]}")
+        print(f"Gemini Antwort: {len(text)} Zeichen")
 
         # JSON extrahieren
         if not text.startswith('['):
             m = re.search(r'\[.*\]', text, re.DOTALL)
             text = m.group(0) if m else '[]'
 
-        ue = json.loads(text)
-        result = []
-        for i, orig in enumerate(news):
-            u = ue[i] if i < len(ue) else {}
-            result.append({
-                'titel':      u.get('titel', orig['titel']),
-                'einordnung': u.get('einordnung', ''),
+        ue_liste = json.loads(text)
+        print(f"Gemini: {len(ue_liste)} Übersetzungen erhalten")
+
+        # Ergebnisse zurück den Firmen zuordnen
+        result = {}
+        for idx, (firma, i, orig) in enumerate(alle_eintraege):
+            if firma not in result:
+                result[firma] = []
+            ue = ue_liste[idx] if idx < len(ue_liste) else {}
+            result[firma].append({
+                'titel':      ue.get('titel', orig['titel']),
+                'einordnung': ue.get('einordnung', ''),
                 'url':        orig['url'],
                 'quelle':     orig['quelle'],
                 'datum':      orig['datum'],
@@ -114,11 +137,14 @@ def uebersetze(name, news):
         return result
 
     except Exception as e:
-        print(f"    Gemini-Fehler: {e}")
-        return [{'titel': n['titel'], 'einordnung': '', 'url': n['url'], 'quelle': n['quelle'], 'datum': n['datum']} for n in news]
+        print(f"Gemini Ausnahme: {e}")
+        return {}
 
+# ── Schritt 1: Alle Aktiendaten abrufen ──────────────────────────────────────
+print("=== Aktiendaten abrufen ===")
 results = []
 rates = {}
+alle_news_roh = {}  # Firma -> raw news
 
 for s in STOCKS:
     print(f"\n{s['name']} ({s['ticker']})...")
@@ -164,12 +190,12 @@ for s in STOCKS:
         ac  = info.get('numberOfAnalystOpinions')
 
         raw_news = hole_news(t)
-        print(f"  {len(raw_news)} News")
-        news_de = uebersetze(s['name'], raw_news) if raw_news else []
-        if raw_news: time.sleep(6)
+        print(f"  {len(raw_news)} News gefunden")
+        if raw_news:
+            alle_news_roh[s['name']] = raw_news
 
         chg = f"{d1:+.2f}%" if d1 is not None else "–"
-        print(f"  OK: €{pe} ({chg}) | {len(news_de)} News übersetzt")
+        print(f"  Kurs: €{pe} ({chg})")
 
         results.append({
             "wkn": s["wkn"], "name": s["name"], "ticker": s["ticker"],
@@ -181,15 +207,31 @@ for s in STOCKS:
             "market_cap": mcs, "pe_ratio": fmt(info.get('trailingPE')),
             "sparkline": sp,
             "analyst_rating": ar, "analyst_target": at, "analyst_count": ac,
-            "news": news_de, "fehler": None
+            "news": [],  # wird später befüllt
+            "fehler": None
         })
 
     except Exception as e:
         print(f"  FEHLER: {e}")
         results.append({"wkn": s["wkn"], "name": s["name"], "ticker": s["ticker"], "fehler": str(e)})
 
+# ── Schritt 2: Alle News in einer Gemini-Anfrage übersetzen ───────────────────
+print(f"\n=== Übersetze alle News ({sum(len(v) for v in alle_news_roh.values())} Titel) ===")
+ue_alle = uebersetze_alle(alle_news_roh)
+
+# News den Ergebnissen zuordnen
+for r in results:
+    if r.get('fehler'): continue
+    name = r['name']
+    if name in ue_alle:
+        r['news'] = ue_alle[name]
+    elif name in alle_news_roh:
+        # Fallback: englische Originale
+        r['news'] = [{'titel': n['titel'], 'einordnung': '', 'url': n['url'], 'quelle': n['quelle'], 'datum': n['datum']} for n in alle_news_roh[name]]
+
+# ── Speichern ─────────────────────────────────────────────────────────────────
 os.makedirs("data", exist_ok=True)
 with open("data/stocks.json", "w", encoding="utf-8") as f:
     json.dump({"aktualisiert": datetime.now(timezone.utc).isoformat(), "aktien": results}, f, ensure_ascii=False, indent=2)
 
-print(f"\nFertig! {len(results)} Aktien.")
+print(f"\nFertig! {len(results)} Aktien gespeichert.")
