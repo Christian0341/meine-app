@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-03-30T10:48:50.599551+00:00",
+  "aktualisiert": "2026-03-31T10:35:50.921999+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Codex Security im Test: Endlich SICHER vibecoden?!",
+      "link": "https://www.youtube.com/watch?v=Wtf0DLuKDlE",
+      "video_id": "Wtf0DLuKDlE",
+      "thumbnail": "https://img.youtube.com/vi/Wtf0DLuKDlE/mqdefault.jpg",
+      "datum": "2026-03-30T17:00:00+00:00",
+      "datum_de": "30.03.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Felicia Simon",
+      "titel": "Claude AI wird dein Leben verändern 🤯 besser als ChatGPT?",
+      "link": "https://www.youtube.com/watch?v=dsLxBQiUKiI",
+      "video_id": "dsLxBQiUKiI",
+      "thumbnail": "https://img.youtube.com/vi/dsLxBQiUKiI/mqdefault.jpg",
+      "datum": "2026-03-30T14:45:00Z",
+      "datum_de": "30.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Ostend Digital - Marketing & KI",
+      "titel": "Claude AI Tutorial: Komplette Einführung für Anfänger (2026)",
+      "link": "https://www.youtube.com/watch?v=IKpVsh9w4Yk",
+      "video_id": "IKpVsh9w4Yk",
+      "thumbnail": "https://img.youtube.com/vi/IKpVsh9w4Yk/mqdefault.jpg",
+      "datum": "2026-03-30T14:16:29Z",
+      "datum_de": "30.03.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI-Campus",
+      "titel": "#Deepfakes sind kein Zukunftsthema mehr – aber die Gesetze hinken hinterher. ⚖️🤖 #KI",
+      "link": "https://www.youtube.com/shorts/I9dK3N2fb7k",
+      "video_id": "I9dK3N2fb7k",
+      "thumbnail": "https://img.youtube.com/vi/I9dK3N2fb7k/mqdefault.jpg",
+      "datum": "2026-03-30T13:00:00+00:00",
+      "datum_de": "30.03.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "AI Stube ",
       "titel": "NIE wieder E-Mails tippen: Mein KI-WORKFLOW für Claude Cowork",
@@ -181,36 +221,6 @@
       "datum": "2026-03-24T12:32:50Z",
       "datum_de": "24.03.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Hat Perplexity den Computer neu erfunden? | Erster Blick auf den neuen AI Agent!",
-      "link": "https://www.youtube.com/watch?v=m5Huof13GBE",
-      "video_id": "m5Huof13GBE",
-      "thumbnail": "https://img.youtube.com/vi/m5Huof13GBE/mqdefault.jpg",
-      "datum": "2026-03-23T18:00:56+00:00",
-      "datum_de": "23.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Mike Mildenberger",
-      "titel": "Claude Code + Google Stitch = Next Level Design",
-      "link": "https://www.youtube.com/watch?v=q1XHjOPS4DQ",
-      "video_id": "q1XHjOPS4DQ",
-      "thumbnail": "https://img.youtube.com/vi/q1XHjOPS4DQ/mqdefault.jpg",
-      "datum": "2026-03-23T17:01:16Z",
-      "datum_de": "23.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI-Campus",
-      "titel": "Black Mirror im echten Leben? Was passiert, wenn wir Verstorbene als Content-Maschinen nutzen? #KI",
-      "link": "https://www.youtube.com/shorts/0zxB9-klOW8",
-      "video_id": "0zxB9-klOW8",
-      "thumbnail": "https://img.youtube.com/vi/0zxB9-klOW8/mqdefault.jpg",
-      "datum": "2026-03-23T16:30:01+00:00",
-      "datum_de": "23.03.2026",
-      "quelle": "kanal"
     }
   ]
 }
