@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-04-01T10:38:03.599371+00:00",
+  "aktualisiert": "2026-04-02T10:15:07.501707+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "YC-Gründer: „KI-Agenten sind jetzt produktionsreif!\" Claude Code, MCPs & Skills im Unternehmen",
+      "link": "https://www.youtube.com/watch?v=YRmZnooY92g",
+      "video_id": "YRmZnooY92g",
+      "thumbnail": "https://img.youtube.com/vi/YRmZnooY92g/mqdefault.jpg",
+      "datum": "2026-04-01T15:15:00+00:00",
+      "datum_de": "01.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KI-Campus",
+      "titel": "Es gibt inzwischen so viele #KITools. Wir haben einen Guide erstellt, der einen Überblick gibt. #KI",
+      "link": "https://www.youtube.com/shorts/XWA0v-vAMvs",
+      "video_id": "XWA0v-vAMvs",
+      "thumbnail": "https://img.youtube.com/vi/XWA0v-vAMvs/mqdefault.jpg",
+      "datum": "2026-04-01T13:00:00+00:00",
+      "datum_de": "01.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Googles neuer Vibe Designer verändert Alles – App Design in Sekunden (kostenlos)",
+      "link": "https://www.youtube.com/watch?v=0TfQraC33qQ",
+      "video_id": "0TfQraC33qQ",
+      "thumbnail": "https://img.youtube.com/vi/0TfQraC33qQ/mqdefault.jpg",
+      "datum": "2026-04-01T12:00:01+00:00",
+      "datum_de": "01.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "KI Academy Deutschland",
       "titel": "Ich habe einen KI-Agenten zum Leben erweckt (er übernimmt alles)&quot; 🤖",
@@ -63,6 +93,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Laurin Fouquet | KI & Automations",
+      "titel": "Hör auf n8n zu lernen. (Lerne DAS stattdessen)",
+      "link": "https://www.youtube.com/watch?v=eValPIfrf1E",
+      "video_id": "eValPIfrf1E",
+      "thumbnail": "https://img.youtube.com/vi/eValPIfrf1E/mqdefault.jpg",
+      "datum": "2026-03-30T13:38:50Z",
+      "datum_de": "30.03.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "KI-Campus",
       "titel": "#Deepfakes sind kein Zukunftsthema mehr – aber die Gesetze hinken hinterher. ⚖️🤖 #KI",
       "link": "https://www.youtube.com/shorts/I9dK3N2fb7k",
@@ -101,6 +141,16 @@
       "datum": "2026-03-29T08:15:00+00:00",
       "datum_de": "29.03.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Universe of AI",
+      "titel": "Claude Mythos: Anthropic&#39;s Most POWERFUL Model Ever + OpenAI&#39;s Secret &quot;Spud&quot; Model!",
+      "link": "https://www.youtube.com/watch?v=jG4bp_w4GK4",
+      "video_id": "jG4bp_w4GK4",
+      "thumbnail": "https://img.youtube.com/vi/jG4bp_w4GK4/mqdefault.jpg",
+      "datum": "2026-03-27T22:30:00Z",
+      "datum_de": "27.03.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Akademie4KI",
@@ -153,16 +203,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "NANCY | Projects To Profit",
-      "titel": "Claude Code Agent Teams im Büro: Dein KI-Team arbeitet – kein Code nötig",
-      "link": "https://www.youtube.com/watch?v=rAeaDDKztCc",
-      "video_id": "rAeaDDKztCc",
-      "thumbnail": "https://img.youtube.com/vi/rAeaDDKztCc/mqdefault.jpg",
-      "datum": "2026-03-26T16:00:58Z",
-      "datum_de": "26.03.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Kontextkern",
       "titel": "ChatGPT 5.4 - Die 3 Fehler, die dich täglich Stunden kosten",
       "link": "https://www.youtube.com/watch?v=GWlriN5tjfQ",
@@ -181,76 +221,6 @@
       "datum": "2026-03-26T15:22:41Z",
       "datum_de": "26.03.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "IONOS UK",
-      "titel": "Getting Started with IONOS Nodes in n8n Installation &amp; First AI Workflow",
-      "link": "https://www.youtube.com/watch?v=3CuibeqoUX4",
-      "video_id": "3CuibeqoUX4",
-      "thumbnail": "https://img.youtube.com/vi/3CuibeqoUX4/mqdefault.jpg",
-      "datum": "2026-03-26T09:41:19Z",
-      "datum_de": "26.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Shakeela ZQ",
-      "titel": "Google Gemini: Diese neuen Updates verändern deinen Workflow (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=A_fBfIFF4xA",
-      "video_id": "A_fBfIFF4xA",
-      "thumbnail": "https://img.youtube.com/vi/A_fBfIFF4xA/mqdefault.jpg",
-      "datum": "2026-03-25T19:33:53Z",
-      "datum_de": "25.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "AI Mentors",
-      "titel": "Google Flow ist KOSTENLOS – und ersetzt teure Bild- und Video KI-Tools",
-      "link": "https://www.youtube.com/watch?v=tGON3IQwufY",
-      "video_id": "tGON3IQwufY",
-      "thumbnail": "https://img.youtube.com/vi/tGON3IQwufY/mqdefault.jpg",
-      "datum": "2026-03-25T16:30:20Z",
-      "datum_de": "25.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Von ChatGPT bis n8n – KI-Tools praktisch nutzen",
-      "titel": "Claude Cowork Projekte: Praxisbeispiel mit den wichtigsten Funktionen",
-      "link": "https://www.youtube.com/watch?v=DnmrTZftFkU",
-      "video_id": "DnmrTZftFkU",
-      "thumbnail": "https://img.youtube.com/vi/DnmrTZftFkU/mqdefault.jpg",
-      "datum": "2026-03-25T16:03:43Z",
-      "datum_de": "25.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "AI News Daily",
-      "titel": "Ich habe die neuen Claude Cowork Projects getestet – das ändert alles",
-      "link": "https://www.youtube.com/watch?v=9UwzSOmeCIY",
-      "video_id": "9UwzSOmeCIY",
-      "thumbnail": "https://img.youtube.com/vi/9UwzSOmeCIY/mqdefault.jpg",
-      "datum": "2026-03-25T16:00:25Z",
-      "datum_de": "25.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Geheime Codes bei ChatGPT?! 🤯 #künstlicheintelligenz #ki #chatgpt #chatgpttipps",
-      "link": "https://www.youtube.com/shorts/S0XuvQUGm5g",
-      "video_id": "S0XuvQUGm5g",
-      "thumbnail": "https://img.youtube.com/vi/S0XuvQUGm5g/mqdefault.jpg",
-      "datum": "2026-03-25T15:30:15+00:00",
-      "datum_de": "25.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KI-Campus",
-      "titel": "Werden wir von #KI sexualisiert? Wie sollten wir mit Gender-Bias in der KI umgehen? #Sexismus",
-      "link": "https://www.youtube.com/shorts/Hfbhc6_Pi1M",
-      "video_id": "Hfbhc6_Pi1M",
-      "thumbnail": "https://img.youtube.com/vi/Hfbhc6_Pi1M/mqdefault.jpg",
-      "datum": "2026-03-25T14:00:21+00:00",
-      "datum_de": "25.03.2026",
-      "quelle": "kanal"
     }
   ]
 }
