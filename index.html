@@ -72,7 +72,7 @@
     .section.active { display: block; }
 
     /* ── KAT NAV ── */
-    .kat-nav { position: sticky; top: 54px; z-index: 90; background: rgba(17,18,20,0.96); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); padding: 0 20px; display: flex; gap: 0; overflow-x: auto; scrollbar-width: none; }
+    .kat-nav { position: sticky; top: 104px; z-index: 90; background: rgba(17,18,20,0.96); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); padding: 0 20px; display: flex; gap: 0; overflow-x: auto; scrollbar-width: none; }
     .kat-nav::-webkit-scrollbar { display: none; }
     .kat-tab { flex-shrink: 0; padding: 12px 14px; font-size: 12px; font-weight: 500; color: var(--text3); cursor: pointer; border-bottom: 2px solid transparent; transition: all 0.15s; white-space: nowrap; background: none; border-top: none; border-left: none; border-right: none; font-family: 'DM Sans', sans-serif; display: flex; align-items: center; gap: 5px; }
     .kat-tab:hover { color: var(--text2); }
@@ -228,6 +228,12 @@
     <div class="topbar-date" id="datumPill">–</div>
   </header>
 
+  <!-- MAIN NAV -->
+  <nav class="main-nav">
+    <button class="main-tab active" onclick="showMain('news',this)">KI-News</button>
+    <button class="main-tab" onclick="showMain('aktien',this)">Aktien</button>
+  </nav>
+
   <!-- HERO — immer sichtbar -->
   <div class="hero" id="hero">
     <div class="hero-eyebrow">
@@ -238,12 +244,6 @@
     <div class="hero-sub" id="heroSub"></div>
     <div class="hero-stats" id="heroStats" style="display:none"></div>
   </div>
-
-  <!-- MAIN NAV -->
-  <nav class="main-nav">
-    <button class="main-tab active" onclick="showMain('news',this)">KI-News</button>
-    <button class="main-tab" onclick="showMain('aktien',this)">Aktien</button>
-  </nav>
 
   <!-- KI-NEWS -->
   <section class="section active" id="tab-news">
@@ -343,9 +343,9 @@
 
     function renderAktienHero() {
       if (!stocks.length) return;
-const valid = stocks.filter(s => !s.fehler && s.change_1w_pct != null);
-const pos   = valid.filter(s => s.change_1w_pct > 0).length;
-const neg   = valid.filter(s => s.change_1w_pct < 0).length;
+      const valid = stocks.filter(s => !s.fehler && s.change_1d_pct != null);
+      const pos   = valid.filter(s => s.change_1d_pct > 0).length;
+      const neg   = valid.filter(s => s.change_1d_pct < 0).length;
       const neu   = valid.filter(s => s.change_1d_pct === 0).length;
       const stats = $('heroStats');
       stats.innerHTML = `
