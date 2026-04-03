@@ -1,198 +1,166 @@
 {
   "datum": "Freitag, 3. April 2026",
   "datumISO": "2026-04-03",
-  "tagesthema": "Der KI-Sektor erlebt eine Welle neuer multimodaler Modelle und spezialisierter Anwendungen, während Regulierungsbehörden die Implementierung bestehender Gesetze vorantreiben und Unternehmen verstärkt in KI-Infrastruktur investieren.",
+  "tagesthema": "Der heutige KI-News Digest beleuchtet wichtige strategische Schritte von Tech-Giganten wie OpenAI und Google, neue Produktinnovationen bei autonomen KI-Agenten, die fortlaufende Debatte um die EU-KI-Verordnung sowie praktische Anwendungen und grundlegende Entwicklungen im KI-Sektor.",
   "kategorien": [
     {
-      "emoji": "🚀",
-      "titel": "Neue Modelle & Releases",
+      "emoji": "📈",
+      "titel": "Unternehmensstrategie & Marktentwicklung",
       "artikel": [
         {
-          "titel": "OpenAI stellt GPT-7 Vision vor: Neue Ära der visuellen Intelligenz",
-          "zusammenfassung": "OpenAI hat heute GPT-7 Vision enthüllt, ein bahnbrechendes multimodales Modell, das nicht nur Text, sondern auch komplexe Bilder und Videos in Echtzeit analysieren und generieren kann. Es demonstriert verbesserte Fähigkeiten im visuellen Denken und in der Interaktion mit dynamischen Inhalten, was neue Anwendungen in der Robotik und kreativen Branchen ermöglicht.",
-          "einordnung": "Dies ist ein großer Schritt in Richtung AGI, da das Modell visuelle und textuelle Informationen nahtloser als je zuvor integriert und verarbeitet.",
-          "quelle": "OpenAI Blog",
-          "url": "https://openai.com/blog/gpt-7-vision-release-2026-04-03",
+          "titel": "OpenAI: ChatGPT-Entwickler plant Börsengang und kündigt Superapp an",
+          "zusammenfassung": "OpenAI, der Entwickler von ChatGPT, bereitet sich auf einen Börsengang vor und plant gleichzeitig die Einführung einer umfassenden \"Superapp\". Diese strategischen Schritte sollen das Unternehmen weiter skalieren und seine Marktposition als führender KI-Anbieter festigen.",
+          "einordnung": "Der geplante Börsengang und die Superapp-Ankündigung sind wegweisende Entwicklungen, die OpenAIs Ambitionen als globaler Tech-Gigant unterstreichen und den KI-Markt maßgeblich beeinflussen werden.",
+          "quelle": "Manager Magazin",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcmhKMWgyaFJHSVhwZlBEcjBqTEh2LXpodVZLRk0tR1VQLUlkSGMwYy1qMjJZYndBMXFVM2VOYVRhVDBmTXM3S0I0SFdvUmVpMTFlX2hpd1JTX1RfN09zM3FHV1VuLWFjSmp5SDl3TVFuazNqZjVfVDVHMk5YVkpKbE1sNjE2d0tJVmVjQXJuRzV1SDFGQ0tsSlhzRnlVMnU3VFhTWURINHpCLVFrX1V2cng2bHNwcTRxRnk0UG1iOElZNmNtWHFUdmNLX2dUcVprVnJ0WU1FS1pDV3VtVUJVdm5ONVd0cWtiZG9IcEhEb0VhczFnOWVDVEFSQWh2Zk9ReEE?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Anthropic veröffentlicht Claude 4.5 mit Fokus auf ethische Sicherheit",
-          "zusammenfassung": "Anthropic hat Claude 4.5 vorgestellt, eine Weiterentwicklung ihres Sprachmodells, das besonders auf Sicherheit, Transparenz und die Reduzierung von Bias optimiert wurde. Das Modell bietet verbesserte Erklärbarkeit seiner Entscheidungen und strengere interne Schutzmechanismen gegen schädliche Inhalte, was es ideal für sensible Unternehmensanwendungen macht.",
-          "einordnung": "Für Unternehmen und Forschungseinrichtungen, die Wert auf verantwortungsvolle KI legen, setzt Claude 4.5 neue Maßstäbe in puncto Vertrauenswürdigkeit.",
-          "quelle": "Anthropic Newsroom",
-          "url": "https://www.anthropic.com/news/claude-4-5-safety-first-2026-04-03",
+          "titel": "Anthropic: Unternehmen veröffentlicht versehentlich Quellcode von KI-Agent Claude",
+          "zusammenfassung": "Anthropic, ein führender Entwickler von KI-Modellen, hat versehentlich den Quellcode seines KI-Agenten Claude veröffentlicht. Dieser Vorfall wirft Fragen bezüglich Datensicherheit und der Vertraulichkeit von proprietären KI-Entwicklungen auf.",
+          "einordnung": "Der unbeabsichtigte Leak des Quellcodes eines Top-KI-Agenten ist ein signifikanter Vorfall, der die Herausforderungen im Umgang mit sensiblen KI-Assets und die Bedeutung robuster Sicherheitsmaßnahmen unterstreicht.",
+          "quelle": "Manager Magazin",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUnViQWNmdjFPQ3B6TVM4ekNvUjVBYVpxM0RrZV9QSVZ4UUowQlFoV0JMRkV3NnN5ekc1SUJ5WUplYVdmTmJMWFZtTGVLQTJkZ3V2QXBSVVdNdXRFOHh5Z2pfdUtQMWxDV0oxSF91OVhUR2hPVmctTS1rdm5kTHNlajRtM1lxUER2NWY5TkFMTGE4dWFlZEhOUFV3NF9P9xIdnR6ZURwc2o4Zkk3R0dlRFlJSWJNUFNOLXFiM05lZXl1UnR0R2djdXFwdUFNWmw1ajdsWUM5dnpvRmk3Yl9iWTI0MGc5eUFGR1k1RFgxcTVVWHM?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Google DeepMind präsentiert 'Gemini Pro X' für Edge-Geräte",
-          "zusammenfassung": "Google DeepMind hat 'Gemini Pro X' angekündigt, eine extrem effiziente und optimierte Version der Gemini-Architektur, die speziell für den Einsatz auf Edge-Geräten wie Smartphones, IoT-Sensoren und autonomen Fahrzeugen entwickelt wurde. Das Modell ermöglicht komplexe KI-Aufgaben direkt auf dem Gerät mit minimalem Ressourcenverbrauch.",
-          "einordnung": "Diese Entwicklung verspricht eine neue Welle von intelligenten Geräten und Anwendungen, die unabhängig von Cloud-Verbindungen agieren können.",
-          "quelle": "Google AI Blog",
-          "url": "https://ai.googleblog.com/2026/04/gemini-pro-x-edge-ai.html",
+          "titel": "Zwei Studios dicht, eins gekauft: Sony holt sich Ingenieure mit KI-Expertise zur Forschung",
+          "zusammenfassung": "Sony hat im Zuge einer Umstrukturierung zwei Studios geschlossen und ein weiteres gekauft, um gezielt Ingenieure mit KI-Expertise für die eigene Forschung zu gewinnen. Dieser Schritt zeigt Sonys verstärkten Fokus auf die Integration von KI in zukünftige Produkte und Dienstleistungen, insbesondere im Gaming-Bereich.",
+          "einordnung": "Sonys strategische Neuausrichtung unterstreicht die wachsende Bedeutung von KI-Talenten und -Forschung für etablierte Technologieunternehmen, um in zukünftigen Märkten wettbewerbsfähig zu bleiben.",
+          "quelle": "jpgames.de",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWVNuZi1WZW0waUVSWHhiZTRPeUhMVkxNMU9FWVRhUUNEVC10QlR6QUhJbFJHR0hmd0RJN1VCVm91QzEwVzBzMGxtLWxZbEcxRDBiU0Nlb3E2cmc2dnVSY1pJREtELUs5UWVHSEhLb1ZjaHhrejhkT0JuaG5ocVZESTRybmdWT2tRZzA5bElxT05fOE8wYUk0RF9NOEVMQkZDWnZ5NEI0Rm9mT0JoWG95a3ZjZlQ2Y0RicGFlaHdZYjhUZw?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Mistral AI stellt 'Mistral-8x22B-Instruct-v2' vor",
-          "zusammenfassung": "Mistral AI hat eine aktualisierte Version ihres Open-Source-Modells, 'Mistral-8x22B-Instruct-v2', veröffentlicht. Diese Version bietet signifikante Verbesserungen in der Code-Generierung, mathematischen Problemlösung und der Verarbeitung langer Kontexte, was sie zu einer noch leistungsfähigeren Wahl für Entwickler macht.",
-          "einordnung": "Das Update festigt Mistrals Position als führender Anbieter von hochwertigen Open-Source-Modellen und treibt die Innovation in der Community voran.",
-          "quelle": "Mistral AI GitHub",
-          "url": "https://github.com/mistralai/mistral-8x22b-v2-release-2026-04-03",
+          "titel": "Warum KI-Investitionen versanden",
+          "zusammenfassung": "Ein Artikel analysiert die Gründe, warum viele Investitionen in Künstliche Intelligenz nicht die erwarteten Erfolge erzielen und \"versanden\". Hauptursachen sind oft fehlende Strategie, unzureichende Integration in bestehende Prozesse und unrealistische Erwartungen an die Technologie.",
+          "einordnung": "Diese kritische Analyse ist essenziell für Unternehmen, die in KI investieren wollen, da sie auf häufige Fallstricke hinweist und zur Entwicklung realistischerer Implementierungsstrategien anregt.",
+          "quelle": "springerprofessional.de",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeE9VcWFoODlHUDZtcTM1Rm9LSEVSWXJZdnFFVHF5R2h3R3pYbkp4UTdNd0tEczFfQTRtaDlTbDFqQlprUjFEYzZRQTB1bWg3U0x2SWZDOXJGQTNuUzNqUU1OdU9RQlNzR2VtTEVoVXE3NnBkOTdYeEM5VzVHV1JDOXNrVHJQWVRvVWVsekJELVBiQzRtSXdXR2ZPbUdYbWE2ZnRzcmgtYl9vMzhMMW1aeU9TekFoeG1zZ0c4ag?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Die Unternehmen der Schwarz Gruppe planen, ihr Investment in Aleph Alpha zu erweitern",
+          "zusammenfassung": "Die Unternehmen der Schwarz Gruppe (u.a. Lidl, Kaufland) beabsichtigen, ihr Investment in das deutsche KI-Startup Aleph Alpha deutlich auszuweiten. Diese verstärkte Partnerschaft soll die Entwicklung und Anwendung von souveräner KI in Europa vorantreiben und die digitale Transformation der Gruppe unterstützen.",
+          "einordnung": "Die erweiterte Investition der Schwarz Gruppe in Aleph Alpha ist ein starkes Signal für die Stärkung des europäischen KI-Ökosystems und die Bedeutung von KI für traditionelle Großunternehmen.",
+          "quelle": "Schwarz Gruppe",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkhNTmpvWlRSOXdqWUhuOHJWc1BpcnloTFdqVENOMkx6MzFYQ3ZFaDE4bmZpSFBnbzF2VjN6UXFqT25HcS1ud3dfdi1VclFQaHFmYkJWVUY1Rk0tVWRjNDQ3cDl0d2NBaGNzeFpnbXRqeVpZNDJlNnVkMUtTNXZCOXpEWlRqM2lrQWw3Mk4zbVJGWkxvUjZoeFoxNVZMSkhJbkZWOVNjSFA5cWVoWG9KWjBNN1UtektVbW5DbGJUeHRGa2Zm?oc=5",
+          "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "🤖",
+      "titel": "Produktinnovationen & Neue Modelle",
+      "artikel": [
+        {
+          "titel": "Bund veröffentlicht lizenzfreie KI-Werkzeuge",
+          "zusammenfassung": "Die Bundesregierung hat eine Reihe von lizenzfreien KI-Werkzeugen veröffentlicht, um die Entwicklung und Anwendung von Künstlicher Intelligenz in Deutschland zu fördern. Diese Initiative soll Unternehmen und Forschungseinrichtungen den Zugang zu wichtigen KI-Ressourcen erleichtern und Innovationen vorantreiben.",
+          "einordnung": "Diese staatliche Initiative ist ein wichtiger Schritt zur Stärkung des Open-Source-Ökosystems und zur Demokratisierung des Zugangs zu KI-Technologien.",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRnhuQ3owb25KemhYZFpfZW92Y2tpVTVwbTBEZVI4UmEzWWNYZFFVZFBIMGd5c2Z3ZV9CQWZ0OWh0bHBvaThadEpZYWtZZlREbnVEQXdCLUtUYno5UmdLbXpZMkZ0Qmg3WWtsUkpvV1dkWEo4czIwdHI2WkhCLXEza1hPbW5FUTRabFlpaTdVb3Q4eXFBMzRvMmVMRzgwTzg4RG8tYzZsT0JkOXBJb1Zyb2hhNGVldw?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "OpenAI bringt ChatGPT ins Auto – so funktioniert es",
+          "zusammenfassung": "OpenAI integriert ChatGPT direkt in Fahrzeuge, was eine neue Ära der Sprachinteraktion und personalisierten Dienste im Auto einläutet. Nutzer können über natürliche Sprache auf Infotainment, Navigation und Fahrzeugfunktionen zugreifen, was das Fahrerlebnis revolutionieren soll.",
+          "einordnung": "Die Integration von ChatGPT in Autos ist ein bedeutender Schritt für die Automobilbranche und zeigt das Potenzial von Konversations-KI in vernetzten Umgebungen.",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDRJRWhUaWc0MUphMm1FclpqanNtWlh6OUx0MmpvRGNxSzcwTks2allocF9tcy1wRzA5Y1ZvUHNHWXJTbGRYUjE4bDZTWUM4MUo4U1Zvc0dZYVRQUHQzSVFXbTIxc2VMVDV2U1kxOWx6TTRISUJybTVfLWdrZzBFRmJZZ0RIcDJ1WFdtNXlWOA?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Claude: Im „Auto Mode“ wird die KI zur digitalen Arbeitskraft",
+          "zusammenfassung": "Anthropic hat einen \"Auto Mode\" für seinen KI-Agenten Claude vorgestellt, der es der KI ermöglicht, selbstständig komplexe Aufgaben zu planen und auszuführen. Claude agiert damit als digitale Arbeitskraft, die eigenständig Probleme löst und Prozesse optimiert.",
+          "einordnung": "Die Einführung des \"Auto Mode\" für Claude markiert einen wichtigen Fortschritt in der Entwicklung autonomer KI-Agenten und deutet auf eine transformative Wirkung auf Arbeitsabläufe und Produktivität hin.",
+          "quelle": "WELT",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVVFFRnpJM2NocmtLMnE5R21EWC1xeHVualNXV0txMXZZRWdxUExjNFNKa3dsLWt1Y2FJcDBhZ0F5bGhMWDBrbm9ybDJPR2tiTmxSVnhteXp0Z29sWk1TNlRhSVFYQXZMY0RDNzVyQ1Bhb24xd1M4TmFvdy1CQzZDb1lTcmxyVU1pMzJZakZpdUJidGFqZjJOY0NUakc5MlprejJ0UlVRbHF3WTR5VmdwMG90Tl9yOVNON1YyU1RGX1E?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Alibaba führt neues Large Language Model Qwen3.6-Plus ein",
+          "zusammenfassung": "Alibaba hat sein neuestes großes Sprachmodell, Qwen3.6-Plus, vorgestellt, das verbesserte Fähigkeiten in verschiedenen Anwendungsbereichen verspricht. Die Einführung unterstreicht Alibabas Bestreben, im globalen Wettbewerb der LLM-Entwicklung eine führende Rolle zu spielen.",
+          "einordnung": "Die Veröffentlichung von Qwen3.6-Plus durch Alibaba ist ein wichtiger Beitrag zur LLM-Landschaft und intensiviert den globalen Wettbewerb um die leistungsfähigsten Sprachmodelle.",
+          "quelle": "MarketScreener Deutschland",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeWFQZ3VraHp0eGRzNXVpTVcwYzhyZUhoQ2s1SzdUbWJSdnVxVHBvVV9EUU94QnZxYmJGUHM2MDh1MDVvdG5qaDNTX3htTEZpX2k3aVRtQXBOTGtyQS1HckVuZ0xNdjlPT1NRNFZKZUFQMUNJVUlET2psTDBHTTNUUE9kdVlwQi1WU29OZlF2M3lqRWw1SWpOMjg4TldxM1hWcFo5OWlkQTl6RTJrVTJIeFBFT3FVdWl1blJOVFNtSEM3dw?oc=5",
+          "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "titel": "Regulierung & Politik",
+      "artikel": [
+        {
+          "titel": "KI-Verordnung: EU-Unternehmen fordern Entschlackung vor Frist",
+          "zusammenfassung": "Zahlreiche EU-Unternehmen fordern eine \"Entschlackung\" der bevorstehenden KI-Verordnung, um bürokratische Hürden abzubauen und die Wettbewerbsfähigkeit Europas nicht zu gefährden. Die Forderungen kommen kurz vor der finalen Umsetzungsfrist.",
+          "einordnung": "Die anhaltende Debatte um die EU-KI-Verordnung zeigt die Spannungen zwischen Innovationsförderung und Regulierungsbedarf, wobei die Industrie auf praxistaugliche Rahmenbedingungen drängt.",
+          "quelle": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUoyQXhjRlQ4NXNxWWttRmNuZmxqTVFkZkR0N1FqZ05ZaGx2bGg3Tk84TlNRMV96cEE0WXNsdDFneDc0N1AzZms2aTAzTDBDazR5MDNKRXNsclFNTzM4YzUxcUZMYjBISk14YVJOanhIRldRSnJVTks2Q0ZrQjliampQWTVtdjJZdXlWaUlQRXZzaTd1cVlZU253ODZhOTRRY2liMFA4a0dNcW5yUGJkTlo5X2g?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Doppelregulierung adé: MDR schlägt KI-Verordnung",
+          "zusammenfassung": "Der Medizinprodukte-Sektor (MDR) schlägt eine Anpassung der KI-Verordnung vor, um eine Doppelregulierung zu vermeiden und spezifische Anforderungen für KI in Medizinprodukten klarer zu definieren. Ziel ist es, Innovationen zu ermöglichen, ohne die Patientensicherheit zu gefährden.",
+          "einordnung": "Die Forderung nach einer klaren Abgrenzung und Integration der KI-Verordnung in bestehende Sektorregulierungen wie die MDR ist entscheidend für die praktische Anwendbarkeit und Akzeptanz von KI in hochregulierten Bereichen.",
+          "quelle": "Elektroniknet",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHBTbjV2WDRGdm82TEoycmNtN0lZS1ZxVTRvZXNURXdrb2FzaWFKQ0pkell6RnVJckI0cFMyRTVWeUotRHZ0QWRkbUFFLVQxNGFLNDV6Uk5DbTAxb2c0VFgxQ1M5QzFVeUxsWWRVdVdQMTFqSlE0RzJrem1zeXdwWUxOQmtIUG0tT1VWQjhwZkN5bi1fMjRUc2VNUWZIb21zdzJUckRYVF8xaEI2OHcxXzJKSQ?oc=5",
+          "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "☁️",
+      "titel": "Cloud-Dienste & Ökosysteme",
+      "artikel": [
+        {
+          "titel": "Google One & Gemini: KI-Speicherplatz bald nicht mehr kostenlos? Ein verdächtiger Boost (Spekulation)",
+          "zusammenfassung": "Es gibt Spekulationen, dass Google den kostenlosen KI-Speicherplatz für Google One und Gemini-Nutzer in Zukunft einschränken könnte. Ein \"verdächtiger Boost\" in den Speicherangeboten deutet auf mögliche Änderungen in den Geschäftsmodellen hin.",
+          "einordnung": "Diese Spekulationen sind relevant für alle Nutzer von Google-Diensten und zeigen die fortlaufende Anpassung von Geschäftsmodellen im Zuge der Monetarisierung von KI-Funktionen.",
+          "quelle": "GoogleWatchBlog",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zMGN4ZzZXMVFDZDNWQ0FMOHE4MVFMV01Oa1dCN09ORlhZUHQxMnlYNzFwNWp3bDdyOUFBYTFkN1hQQUdadjNYLXZ0dHMyRFpSVEHSAdcBQVVfeXFMT0Nab2tkaHZHMUtoYXNIazU0bThtUE5jdkJuOV95bGdqZnhiV3g3RnFtODBzSDZCV1ZybzktcU82ZUNzT09EX3NUYVU3V3pjQnh6N25nNWUzVkJISHlqUVNSRkczZlJ2NVJIWFB5ZlFfRm9KdmxOR1ZZdXU2bks4blU3QU1nbkZKbDFHYmdINVViN201OWdVYkNaeVZPeUo0RHdLQnpFQUJRNTE1LU5VVlAtOUZIa2V1Q09ZUk9rcXZoQ1VRS0JpTkpIZnFfdXcySWdZcUhGVm8?oc=5",
           "sterne": "⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "🔬",
-      "titel": "Forschung & Wissenschaft",
-      "artikel": [
-        {
-          "titel": "Neuer Algorithmus für energieeffizientes Training von LLMs",
-          "zusammenfassung": "Forscher der ETH Zürich haben einen neuen Algorithmus vorgestellt, der das Training großer Sprachmodelle (LLMs) um bis zu 30% energieeffizienter macht. Die Methode optimiert die Datenflussarchitektur und reduziert den Rechenaufwand bei gleichbleibender Modellleistung, was einen wichtigen Beitrag zur Nachhaltigkeit in der KI leistet.",
-          "einordnung": "Diese Forschung ist entscheidend für die Skalierbarkeit und Umweltverträglichkeit zukünftiger KI-Entwicklungen und könnte die Kosten für das Training massiv senken.",
-          "quelle": "Nature AI",
-          "url": "https://www.nature.com/articles/s41586-026-0304-x",
-          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "KI-gestützte Entdeckung neuer Antibiotika-Klasse",
-          "zusammenfassung": "Ein internationales Forschungsteam hat mithilfe von KI-Modellen eine völlig neue Klasse von Antibiotika entdeckt, die gegen multiresistente Bakterien wirksam ist. Die KI analysierte Millionen von Molekülen und identifizierte vielversprechende Kandidaten in einem Bruchteil der Zeit, die herkömmliche Methoden benötigen würden.",
-          "einordnung": "Diese Entdeckung unterstreicht das enorme Potenzial von KI in der medizinischen Forschung und könnte einen Durchbruch im Kampf gegen Antibiotikaresistenzen bedeuten.",
-          "quelle": "Science Translational Medicine",
-          "url": "https://stm.sciencemag.org/content/2026/04/03/new-antibiotics-ai",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Quanten-KI-Hybridansatz verbessert Materialsimulationen",
-          "zusammenfassung": "Wissenschaftler des MIT haben einen Hybridansatz entwickelt, der Quantencomputing mit klassischen KI-Algorithmen kombiniert, um Materialsimulationen mit beispielloser Genauigkeit und Geschwindigkeit durchzuführen. Dies ermöglicht die Vorhersage von Eigenschaften neuer Materialien, die für Batterien und Supraleiter relevant sind.",
-          "einordnung": "Die Konvergenz von Quantencomputing und KI eröffnet neue Horizonte für die Materialwissenschaft und beschleunigt die Entwicklung innovativer Technologien.",
-          "quelle": "Physical Review Letters",
-          "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.136.142001",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Studie zeigt signifikante Fortschritte bei der KI-Erkennung von Desinformation",
-          "zusammenfassung": "Eine neue Studie der Stanford University belegt, dass KI-Modelle nun mit über 95%iger Genauigkeit Desinformation in Texten, Bildern und Videos erkennen können, selbst bei komplexen Manipulationen. Die Fortschritte basieren auf neuen multimodalen Erkennungsalgorithmen und umfangreichen, annotierten Datensätzen.",
-          "einordnung": "Diese Entwicklung ist entscheidend im Kampf gegen Fake News und könnte die Integrität digitaler Informationen erheblich stärken.",
-          "quelle": "Stanford AI Lab",
-          "url": "https://ai.stanford.edu/blog/disinformation-detection-2026-04-03",
+          "titel": "Google AI Pro hebt Speicher an, Abos bekommen 5 TB ohne Aufpreis",
+          "zusammenfassung": "Google hat angekündigt, den Speicherplatz für Abonnenten von Google AI Pro deutlich zu erhöhen, wobei bestehende Abos nun 5 TB ohne zusätzliche Kosten erhalten. Dies ist eine Reaktion auf den wachsenden Bedarf an Speicherplatz für KI-generierte Inhalte und Daten.",
+          "einordnung": "Googles Schritt, den Speicherplatz für AI Pro-Abonnenten zu erhöhen, ist ein Wettbewerbsvorteil und eine direkte Antwort auf die gestiegenen Anforderungen durch KI-Anwendungen.",
+          "quelle": "WinFuture",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ITm9EaTQ4ckhDaWNzcVBjc2RjYzFJTUJnaW1vZndxNUJTMldxUWlUdUV1NjBydTdweE5yM19LTWVZT3lQanpBZmlrUjlFUQ?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     },
     {
-      "emoji": "💰",
-      "titel": "Unternehmen & Markt",
+      "emoji": "💡",
+      "titel": "KI im Alltag & Grundlagen",
       "artikel": [
         {
-          "titel": "Microsoft investiert 5 Mrd. USD in KI-Rechenzentren in Europa",
-          "zusammenfassung": "Microsoft hat angekündigt, in den nächsten zwei Jahren 5 Milliarden US-Dollar in den Ausbau seiner KI-Rechenzentrumsinfrastruktur in Europa zu investieren. Ziel ist es, die wachsende Nachfrage nach Cloud-KI-Diensten zu decken und die lokale Datenverarbeitung für europäische Unternehmen zu stärken.",
-          "einordnung": "Diese massive Investition unterstreicht das Vertrauen in den europäischen KI-Markt und sichert die Verfügbarkeit von Hochleistungs-KI-Ressourcen für Unternehmen.",
-          "quelle": "Microsoft News Center",
-          "url": "https://news.microsoft.com/europe/2026/04/03/ai-datacenter-investment/",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "KI-Startup 'Synthetica' sichert 200 Mio. USD Series C Finanzierung",
-          "zusammenfassung": "Das auf synthetische Daten spezialisierte KI-Startup Synthetica hat eine Series C Finanzierungsrunde in Höhe von 200 Millionen US-Dollar abgeschlossen. Die Mittel sollen in die Produktentwicklung und die internationale Expansion fließen, um die Nachfrage nach datenschutzkonformen Trainingsdaten zu bedienen.",
-          "einordnung": "Synthetica adressiert ein kritisches Problem im KI-Bereich und seine Finanzierung zeigt das Vertrauen der Investoren in die Zukunft datenschutzfreundlicher KI-Lösungen.",
-          "quelle": "TechCrunch",
-          "url": "https://techcrunch.com/2026/04/03/synthetica-raises-200m-for-synthetic-data/",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "NVIDIA präsentiert neue 'Blackwell Ultra' KI-Chips",
-          "zusammenfassung": "NVIDIA hat auf seiner jährlichen GTC-Konferenz die 'Blackwell Ultra' Serie von KI-Beschleunigern vorgestellt, die eine weitere Leistungssteigerung und Energieeffizienz gegenüber der Vorgängergeneration bieten. Die Chips sind für das Training und die Inferenz der größten LLMs optimiert.",
-          "einordnung": "Die neuen Blackwell Ultra Chips werden die Grenzen dessen verschieben, was in der KI-Forschung und -Anwendung möglich ist, und die Rechenleistung für die nächste Generation von Modellen bereitstellen.",
-          "quelle": "NVIDIA Blog",
-          "url": "https://blogs.nvidia.com/blog/2026/04/03/blackwell-ultra-ai-chips/",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Siemens übernimmt KI-Softwarefirma für industrielle Automatisierung",
-          "zusammenfassung": "Siemens hat die Übernahme von 'OptiMind AI' bekannt gegeben, einem führenden Anbieter von KI-Software für die Optimierung industrieller Prozesse und vorausschauende Wartung. Die Akquisition stärkt Siemens' Position im Bereich der Industrie 4.0 und der intelligenten Fertigung.",
-          "einordnung": "Diese strategische Übernahme zeigt, wie traditionelle Industrieunternehmen KI nutzen, um ihre Wettbewerbsfähigkeit zu steigern und Effizienzgewinne zu erzielen.",
-          "quelle": "Handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/siemens-optimind-ai-uebernahme-2026-04-03",
+          "titel": "Schluss mit der Abzocke: KI entlarvt die wahren Bierpreise – erste Kneipen reagieren sofort",
+          "zusammenfassung": "Eine neue KI-Anwendung analysiert und entlarvt überhöhte Bierpreise, was bereits erste Kneipen dazu veranlasst hat, ihre Preisgestaltung anzupassen. Die Technologie verspricht mehr Transparenz für Konsumenten und könnte den Wettbewerb im Gastgewerbe beleben.",
+          "einordnung": "Ein interessantes Beispiel dafür, wie KI direkt im Alltag eingesetzt werden kann, um Verbrauchern zu helfen und Markttransparenz zu schaffen.",
+          "quelle": "fr.de",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMzBKNDZnVjNTSGNVU3FBb213YUFHR1BBSUVHU0pZNDh4bGJpc2swQmlheGJGTFNiNjdaUE8xLUJTeFhQeHI3al9DYXJwVFVKUk9YalpnOXZSTmtpWG9UQnppYjI1aVBBVFNYVEhrQWtEb1I4QkRPVkh3WGZnTUZwSmlnM3NQc1VXUFBVXzU3MjA2R0pMbE96YW1kMDBjdGFCcWotLUNWU0NMYk5Sdnc?oc=5",
           "sterne": "⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "🏛️",
-      "titel": "Politik & Regulierung",
-      "artikel": [
-        {
-          "titel": "EU AI Act: Erste nationale Implementierungspläne vorgestellt",
-          "zusammenfassung": "Mehrere EU-Mitgliedstaaten, darunter Deutschland und Frankreich, haben ihre ersten nationalen Pläne zur Implementierung des EU AI Act vorgestellt. Die Pläne umfassen die Einrichtung von Aufsichtsbehörden, Zertifizierungsprozesse für Hochrisiko-KI-Systeme und Leitlinien für Unternehmen zur Einhaltung der Vorschriften.",
-          "einordnung": "Die konkrete Umsetzung des AI Act beginnt, was für Unternehmen bedeutet, sich intensiv mit den neuen Compliance-Anforderungen auseinanderzusetzen.",
-          "quelle": "EU Kommission",
-          "url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_26_1234",
-          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "G7-Staaten einigen sich auf Rahmenwerk für KI-Sicherheitstests",
-          "zusammenfassung": "Die G7-Staaten haben sich auf ein gemeinsames Rahmenwerk für die Sicherheitstests von fortschrittlichen KI-Modellen geeinigt. Ziel ist es, globale Standards für die Bewertung von Risiken wie Bias, Desinformation und autonomen Entscheidungen zu etablieren, um eine sichere Entwicklung und Nutzung von KI zu gewährleisten.",
-          "einordnung": "Diese internationale Kooperation ist entscheidend, um die globalen Herausforderungen der KI-Sicherheit gemeinsam anzugehen und Vertrauen in die Technologie zu schaffen.",
-          "quelle": "Reuters",
-          "url": "https://www.reuters.com/technology/ai-safety-g7-framework-2026-04-03/",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "US-Senat debattiert über neues Gesetz zur KI-Haftung",
-          "zusammenfassung": "Der US-Senat hat eine Debatte über ein vorgeschlagenes Gesetz zur KI-Haftung begonnen, das festlegen soll, wer für Schäden verantwortlich ist, die durch autonome KI-Systeme verursacht werden. Das Gesetz zielt darauf ab, Rechtssicherheit für Entwickler und Nutzer zu schaffen und gleichzeitig Verbraucher zu schützen.",
-          "einordnung": "Die Klärung der Haftungsfrage ist ein wichtiger Schritt für die breite Akzeptanz und den Einsatz von KI in kritischen Bereichen.",
-          "quelle": "The Hill",
-          "url": "https://thehill.com/policy/technology/ai-liability-bill-senate-2026-04-03",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "UNESCO veröffentlicht Empfehlungen für KI in der Bildung",
-          "zusammenfassung": "Die UNESCO hat eine Reihe von Empfehlungen für den ethischen und verantwortungsvollen Einsatz von KI in der Bildung veröffentlicht. Die Leitlinien sollen Ländern helfen, KI-Technologien zu integrieren, um Lernprozesse zu personalisieren und die Zugänglichkeit zu verbessern, während gleichzeitig Datenschutz und Fairness gewahrt bleiben.",
-          "einordnung": "Diese Empfehlungen bieten einen wichtigen Orientierungsrahmen für Bildungseinrichtungen weltweit, um das Potenzial von KI verantwortungsvoll zu nutzen.",
-          "quelle": "UNESCO Press",
-          "url": "https://www.unesco.org/news/ai-education-recommendations-2026-04-03",
+          "titel": "Was sind große Sprachmodelle (LLM)?",
+          "zusammenfassung": "Dieser Artikel von Databricks bietet eine grundlegende Erklärung zu großen Sprachmodellen (LLM), deren Funktionsweise, Anwendungsbereichen und ihrer Bedeutung für die moderne KI-Landschaft. Er richtet sich an ein breiteres Publikum, das die Technologie verstehen möchte.",
+          "einordnung": "Eine nützliche Ressource für Einsteiger und Interessierte, die ein besseres Verständnis der fundamentalen Konzepte hinter den aktuellen KI-Entwicklungen erlangen möchten.",
+          "quelle": "Databricks",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUEZqZTJ5RTktZHViZVpiSFZjbHcwZUU1d25KX1JsU3pPODlPNlpLMXY3cDRMV1RFUHlzc1EwWFpLOVhQZTNxQTZWcVY4VmF0SkhuOThtUmtGc2NhTW1zNktReGZETG9jVjdUNjNFblM2cEE?oc=5",
           "sterne": "⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "🛠️",
-      "titel": "Tools & Anwendungen",
-      "artikel": [
-        {
-          "titel": "Adobe integriert KI-Video-Generierung in Creative Cloud",
-          "zusammenfassung": "Adobe hat eine neue Funktion zur KI-gestützten Videogenerierung in seine Creative Cloud Suite integriert. Nutzer können nun detaillierte Videoclips aus Texteingaben oder Bildreferenzen erstellen und diese nahtlos in ihre Projekte einbinden, was den Workflow für Videoproduzenten revolutioniert.",
-          "einordnung": "Diese Integration macht fortschrittliche KI-Videoproduktion für Kreativprofis zugänglich und wird die Art und Weise, wie Inhalte erstellt werden, grundlegend verändern.",
-          "quelle": "Adobe Blog",
-          "url": "https://blog.adobe.com/en/publish/2026/04/03/ai-video-generation-creative-cloud",
-          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Hugging Face startet 'OpenAgent' für autonome KI-Agenten",
-          "zusammenfassung": "Hugging Face hat 'OpenAgent' vorgestellt, ein Open-Source-Framework, das Entwicklern den Bau und das Deployment autonomer KI-Agenten erleichtert. Es bietet Tools für Aufgabenplanung, Werkzeugnutzung und Selbstkorrektur, wodurch komplexe Arbeitsabläufe automatisiert werden können.",
-          "einordnung": "OpenAgent demokratisiert den Zugang zu fortschrittlichen KI-Agenten und wird die Entwicklung intelligenter Automatisierungslösungen beschleunigen.",
-          "quelle": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/openagent-release-2026-04-03",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Neue KI-Plattform optimiert Lieferketten in Echtzeit",
-          "zusammenfassung": "Das Logistik-Tech-Unternehmen 'LogiFlow' hat eine neue KI-Plattform eingeführt, die Lieferketten in Echtzeit optimiert. Sie nutzt prädiktive Analysen und maschinelles Lernen, um Engpässe zu identifizieren, Routen anzupassen und Lagerbestände effizienter zu verwalten, was zu erheblichen Kosteneinsparungen führt.",
-          "einordnung": "Diese Anwendung zeigt das transformative Potenzial von KI für die Effizienz und Resilienz globaler Lieferketten.",
-          "quelle": "Supply Chain Dive",
-          "url": "https://www.supplychaindive.com/news/logiflow-ai-realtime-optimization-2026-04-03",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "KI-gestütztes Tool zur Personalisierung von E-Learning-Inhalten",
-          "zusammenfassung": "Ein neues KI-Tool namens 'AdaptiLearn' ermöglicht es Bildungseinrichtungen, E-Learning-Inhalte dynamisch an den individuellen Lernstil und das Tempo jedes Schülers anzupassen. Es analysiert Fortschritte und schlägt personalisierte Lernpfade und Materialien vor, um den Lernerfolg zu maximieren.",
-          "einordnung": "AdaptiLearn verspricht eine Revolution im Bildungsbereich, indem es personalisiertes Lernen in großem Maßstab praktikabel macht.",
-          "quelle": "EdTech Magazine",
-          "url": "https://edtechmagazine.com/k12/article/2026/04/adaptilearn-ai-personalization",
+          "titel": "KI-Forschung: Gitta Kutyniok geehrt",
+          "zusammenfassung": "Die renommierte KI-Forscherin Gitta Kutyniok wurde für ihre herausragenden Beiträge im Bereich der Künstlichen Intelligenz geehrt. Ihre Arbeit hat maßgeblich zur Weiterentwicklung von KI-Algorithmen und deren theoretischen Grundlagen beigetragen.",
+          "einordnung": "Die Ehrung von Gitta Kutyniok würdigt wichtige akademische Leistungen und unterstreicht die Bedeutung der Grundlagenforschung für den Fortschritt der KI.",
+          "quelle": "lmu.de",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmxVYnVCc2Fpd3FjdWlnMkJta054dm1Db3FhZVVzRHVKLUZuMkc3ZEw5Y25GOU5fMjRjVzhPbUtYcE14aFdZQi1kaEJKYkVLRTFJR09hZTcxbFRVQkdqa2ltVXhpV3NRZGp2d2xvRlY5Unl0SXZEdERab1hOZ1d5RVhMVTZlbkk2aTdSS2NwcWgtdWgwYUk3Zk1ERTZZSXp1?oc=5",
           "sterne": "⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-04-03T08:35:46.310Z"
+  "generiert_um": "2026-04-03T19:58:42.147Z"
 }
