@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-04-02T10:15:07.501707+00:00",
+  "aktualisiert": "2026-04-03T10:02:21.073852+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "NANCY | Projects To Profit",
+      "titel": "Nie wieder generische KI-Grafiken! NotebookLM &amp; Google Gemini richtig kombiniert!",
+      "link": "https://www.youtube.com/watch?v=0WD-r8UV0vk",
+      "video_id": "0WD-r8UV0vk",
+      "thumbnail": "https://img.youtube.com/vi/0WD-r8UV0vk/mqdefault.jpg",
+      "datum": "2026-04-02T16:23:53Z",
+      "datum_de": "02.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "„Bewusstsein ist keine menschliche Leistung!\" KI, Geist, Philosophie & Zukunft",
+      "link": "https://www.youtube.com/watch?v=FiZaV8Ci3jQ",
+      "video_id": "FiZaV8Ci3jQ",
+      "thumbnail": "https://img.youtube.com/vi/FiZaV8Ci3jQ/mqdefault.jpg",
+      "datum": "2026-04-02T15:15:00+00:00",
+      "datum_de": "02.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Diese ChatGPT Codes kennt kaum jemand… 🤯 #künstlicheintelligenz #ki #chatgpt #chatgpttipps",
+      "link": "https://www.youtube.com/shorts/Tpolfd0MRpE",
+      "video_id": "Tpolfd0MRpE",
+      "thumbnail": "https://img.youtube.com/vi/Tpolfd0MRpE/mqdefault.jpg",
+      "datum": "2026-04-02T14:30:19+00:00",
+      "datum_de": "02.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "YC-Gründer: „KI-Agenten sind jetzt produktionsreif!\" Claude Code, MCPs & Skills im Unternehmen",
@@ -191,36 +221,6 @@
       "datum": "2026-03-27T11:01:24+00:00",
       "datum_de": "27.03.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Automatisiere ALLES mit Claude Code: Das ultimative Tutorial auf Deutsch (Vom Anfänger zum Profi)",
-      "link": "https://www.youtube.com/watch?v=Lu95f1ZBIos",
-      "video_id": "Lu95f1ZBIos",
-      "thumbnail": "https://img.youtube.com/vi/Lu95f1ZBIos/mqdefault.jpg",
-      "datum": "2026-03-26T17:16:16+00:00",
-      "datum_de": "26.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Kontextkern",
-      "titel": "ChatGPT 5.4 - Die 3 Fehler, die dich täglich Stunden kosten",
-      "link": "https://www.youtube.com/watch?v=GWlriN5tjfQ",
-      "video_id": "GWlriN5tjfQ",
-      "thumbnail": "https://img.youtube.com/vi/GWlriN5tjfQ/mqdefault.jpg",
-      "datum": "2026-03-26T16:00:31Z",
-      "datum_de": "26.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "ChatGPT Adult Modus Schock, Seedance 2 sicher in DE, Lyria eine Gefahr für Suno - KI News",
-      "link": "https://www.youtube.com/watch?v=pUNg0aE9je4",
-      "video_id": "pUNg0aE9je4",
-      "thumbnail": "https://img.youtube.com/vi/pUNg0aE9je4/mqdefault.jpg",
-      "datum": "2026-03-26T15:22:41Z",
-      "datum_de": "26.03.2026",
-      "quelle": "suche"
     }
   ]
 }
