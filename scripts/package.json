@@ -1,7 +1,9 @@
 {
-  "datum": "Noch kein Digest verfügbar",
-  "datumISO": "",
-  "tagesthema": "Der erste Digest wird morgen früh automatisch generiert.",
-  "kategorien": [],
-  "generiert_um": ""
+  "name": "ki-news-digest-scripts",
+  "version": "1.0.0",
+  "description": "Scripts für den täglichen KI-News Digest",
+  "type": "module",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
 }
