@@ -230,7 +230,7 @@
 
   <!-- MAIN NAV -->
   <nav class="main-nav">
-    <button class="main-tab active" onclick="showMain('news',this)">KI-News</button>
+    <button class="main-tab active" onclick="showMain('news',this)">KI</button>
     <button class="main-tab" onclick="showMain('aktien',this)">Aktien</button>
   </nav>
 
@@ -238,7 +238,7 @@
   <div class="hero" id="hero">
     <div class="hero-eyebrow">
       <div class="live-dot"></div>
-      <div class="hero-label" id="heroLabel">KI · Tagesthema</div>
+      <div class="hero-label" id="heroLabel">KI · News</div>
     </div>
     <div class="hero-title skeleton" id="heroTitle"></div>
     <div class="hero-sub" id="heroSub"></div>
@@ -255,18 +255,17 @@
         <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div></div>
       </div>
     </div>
-    <div class="divider"><span class="divider-label">▶ YouTube · Neue Videos</span><div class="divider-line"></div><span class="divider-count" id="ytCount"></span></div>
+    <div class="divider"><span class="divider-label">▶ Videos</span><div class="divider-line"></div><span class="divider-count" id="ytCount"></span></div>
     <div class="yt-list" id="ytList">
       <div class="skel"><div class="skel-l w8"></div><div class="skel-l w6"></div></div>
       <div class="skel"><div class="skel-l w8"></div><div class="skel-l w6"></div></div>
     </div>
-    <div class="divider"><span class="divider-label">✉ Newsletter & Ressourcen</span><div class="divider-line"></div></div>
+    <div class="divider"><span class="divider-label">🎙️ Podcasts</span><div class="divider-line"></div></div>
     <div class="link-list">
-      <a class="link-card" href="https://www.heise.de/thema/Kuenstliche-Intelligenz" target="_blank" rel="noopener"><div class="link-icon">🇩🇪</div><div class="link-body"><div class="link-name">Heise · KI</div><div class="link-desc">Führendes deutsches Tech-Magazin</div></div><div class="link-arr">↗</div></a>
-      <a class="link-card" href="https://t3n.de/tag/kuenstliche-intelligenz/" target="_blank" rel="noopener"><div class="link-icon">📱</div><div class="link-body"><div class="link-name">t3n · KI</div><div class="link-desc">News für digitale Pioniere</div></div><div class="link-arr">↗</div></a>
-      <a class="link-card" href="https://www.golem.de/kuenstliche-intelligenz/" target="_blank" rel="noopener"><div class="link-icon">⚙️</div><div class="link-body"><div class="link-name">Golem · KI</div><div class="link-desc">Technische KI-Berichterstattung</div></div><div class="link-arr">↗</div></a>
-      <a class="link-card" href="https://the-decoder.de" target="_blank" rel="noopener"><div class="link-icon">🔍</div><div class="link-body"><div class="link-name">The Decoder</div><div class="link-desc">Deutschlands führendes KI-Nachrichtenportal</div></div><div class="link-arr">↗</div></a>
-      <a class="link-card" href="https://www.heise.de/thema/KI-Update" target="_blank" rel="noopener"><div class="link-icon">🎙️</div><div class="link-body"><div class="link-name">Heise KI-Update</div><div class="link-desc">Podcast · 3x pro Woche</div></div><div class="link-arr">↗</div></a>
+      <a class="link-card" href="https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp" target="_blank" rel="noopener"><div class="link-icon">🎙️</div><div class="link-body"><div class="link-name">Heise KI-Update</div><div class="link-desc">Mo, Mi, Fr · mit The Decoder</div></div><div class="link-arr">↗</div></a>
+      <a class="link-card" href="https://kiupdate.podigee.io" target="_blank" rel="noopener"><div class="link-icon">🎧</div><div class="link-body"><div class="link-name">KI-Update · Web-Player</div><div class="link-desc">Direkt im Browser hören</div></div><div class="link-arr">↗</div></a>
+      <a class="link-card" href="https://open.spotify.com/show/3JGSMdnGe4CvVTFgKMEV95" target="_blank" rel="noopener"><div class="link-icon">🎙️</div><div class="link-body"><div class="link-name">On the Way to New Work</div><div class="link-desc">Christoph Magnussen · KI & Arbeit</div></div><div class="link-arr">↗</div></a>
+      <a class="link-card" href="https://open.spotify.com/show/4ZYVpbVZwg2b7R9LLHJbZf" target="_blank" rel="noopener"><div class="link-icon">🎙️</div><div class="link-body"><div class="link-name">KI verstehen · ZDF</div><div class="link-desc">Wöchentlich · verständlich erklärt</div></div><div class="link-arr">↗</div></a>
     </div>
   </section>
 
@@ -323,7 +322,7 @@
       $('tab-'+id).classList.add('active');
 
       if (id === 'news') {
-        $('heroLabel').textContent = 'KI · Tagesthema';
+        $('heroLabel').textContent = 'KI · News';
         $('heroStats').style.display = 'none';
         // Digest-Titel wieder anzeigen
         const digest_title = window._digestTitle || '';
