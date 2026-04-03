@@ -1,44 +1,105 @@
 // generate-digest.js
-// Ruft die Gemini API auf, generiert einen strukturierten KI-News Digest
-// und speichert ihn als data/digest.json im Repository.
+// Holt echte KI-Artikel aus Google News RSS, dann generiert Gemini den Digest
 
 import fs from 'fs';
 import path from 'path';
+import { parseStringPromise } from 'xml2js';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-// ── Konfiguration ────────────────────────────────────────────────────────────
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const GEMINI_MODEL   = 'gemini-2.5-flash';
 const OUTPUT_PATH    = path.join(__dirname, '..', 'data', 'digest.json');
 
 if (!GEMINI_API_KEY) {
-  console.error('❌ GEMINI_API_KEY nicht gesetzt. Abbruch.');
+  console.error('❌ GEMINI_API_KEY nicht gesetzt.');
   process.exit(1);
 }
 
 // ── Datum ────────────────────────────────────────────────────────────────────
-const heute = new Date();
-const datumISO = heute.toISOString().slice(0, 10); // "2026-03-11"
+const heute    = new Date();
+const datumISO = heute.toISOString().slice(0, 10);
 const wochentage = ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag'];
-const monate     = ['Januar','Februar','März','April','Mai','Juni',
-                    'Juli','August','September','Oktober','November','Dezember'];
+const monate     = ['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember'];
 const datumLang  = `${wochentage[heute.getDay()]}, ${heute.getDate()}. ${monate[heute.getMonth()]} ${heute.getFullYear()}`;
 
-// ── Prompt ───────────────────────────────────────────────────────────────────
-const PROMPT = `Du bist ein KI-Nachrichtenredakteur. Erstelle einen kompakten aber inhaltlich
-reichen deutschsprachigen KI-News Digest für ${datumLang}.
+// ── Google News RSS Suchbegriffe ──────────────────────────────────────────────
+const SUCHBEGRIFFE = [
+  'künstliche Intelligenz',
+  'OpenAI ChatGPT',
+  'Anthropic Claude',
+  'Google Gemini KI',
+  'KI Regulierung EU',
+  'Large Language Model',
+  'KI Forschung',
+  'KI Unternehmen Investition',
+];
 
-Recherchiere die wichtigsten KI-Nachrichten der letzten 24 Stunden aus folgenden Bereichen:
-- Neue Modelle & Releases (OpenAI, Anthropic, Google, Meta, Mistral, xAI usw.)
-- Forschung & Wissenschaft (arxiv, bedeutende Studien)
-- Unternehmen & Markt (Finanzierungen, Akquisitionen)
-- Politik & Regulierung (EU AI Act, Behörden, Gesetze)
-- Tools & Anwendungen (Open Source, neue Produkte)
+// ── Google News RSS abrufen ───────────────────────────────────────────────────
+async function holeGoogleNews(suchbegriff) {
+  const query = encodeURIComponent(suchbegriff);
+  const url   = `https://news.google.com/rss/search?q=${query}&hl=de&gl=DE&ceid=DE:de`;
+  try {
+    const resp = await fetch(url, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; myHUB/1.0)' }
+    });
+    if (!resp.ok) return [];
+    const xml  = await resp.text();
+    const data = await parseStringPromise(xml, { explicitArray: false });
+    const items = data?.rss?.channel?.item || [];
+    const arr   = Array.isArray(items) ? items : [items];
 
-Gib deine Antwort AUSSCHLIESSLICH als valides JSON zurück — kein Markdown, keine Erklärungen,
-keine Backticks davor oder danach. Das JSON muss exakt dieser Struktur folgen:
+    return arr.slice(0, 3).map(item => ({
+      titel:  item.title   || '',
+      url:    item.link    || '',
+      quelle: item.source?._ || item.source || '',
+      datum:  item.pubDate ? new Date(item.pubDate).toLocaleDateString('de-DE') : '',
+    })).filter(a => a.titel && a.url);
+  } catch (e) {
+    console.error(`  RSS Fehler für "${suchbegriff}": ${e.message}`);
+    return [];
+  }
+}
+
+// ── Alle Artikel sammeln ──────────────────────────────────────────────────────
+async function sammleArtikel() {
+  console.log('📰 Sammle echte Artikel aus Google News...');
+  const alle = [];
+  const geseheneUrls = new Set();
+
+  for (const begriff of SUCHBEGRIFFE) {
+    const artikel = await holeGoogleNews(begriff);
+    for (const a of artikel) {
+      if (!geseheneUrls.has(a.url)) {
+        geseheneUrls.add(a.url);
+        alle.push(a);
+      }
+    }
+    await new Promise(r => setTimeout(r, 500)); // kurze Pause
+  }
+
+  console.log(`  ${alle.length} Artikel gesammelt`);
+  return alle;
+}
+
+// ── Gemini Digest generieren ──────────────────────────────────────────────────
+async function generiereDigest(artikel) {
+  const artikelText = artikel.map((a, i) =>
+    `${i+1}. Titel: ${a.titel}\n   URL: ${a.url}\n   Quelle: ${a.quelle}\n   Datum: ${a.datum}`
+  ).join('\n\n');
+
+  const prompt = `Du bist ein KI-Nachrichtenredakteur. Erstelle einen strukturierten KI-News Digest für ${datumLang}.
+
+Hier sind echte Artikel die heute verfügbar sind:
+
+${artikelText}
+
+Gruppiere diese Artikel in 4-6 thematische Kategorien (z.B. Neue Modelle, Forschung, Unternehmen, Regulierung).
+Schreibe für jeden Artikel eine kurze Zusammenfassung (2-3 Sätze) und eine Einordnung (1 Satz).
+Verwende NUR die URLs aus der obigen Liste — erfinde keine neuen URLs.
+
+Antworte AUSSCHLIESSLICH als valides JSON ohne Markdown-Backticks:
 
 {
   "datum": "${datumLang}",
@@ -47,14 +108,14 @@ keine Backticks davor oder danach. Das JSON muss exakt dieser Struktur folgen:
   "kategorien": [
     {
       "emoji": "🚀",
-      "titel": "Neue Modelle & Releases",
+      "titel": "Kategoriename",
       "artikel": [
         {
-          "titel": "Artikeltitel",
-          "zusammenfassung": "2-3 Sätze: Wer hat was getan und warum ist es wichtig.",
-          "einordnung": "1 Satz: Was das für KI-Interessierte bedeutet.",
-          "quelle": "Quellenname (z.B. TechCrunch, OpenAI Blog)",
-          "url": "https://...",
+          "titel": "Artikeltitel auf Deutsch",
+          "zusammenfassung": "2-3 Sätze Zusammenfassung",
+          "einordnung": "1 Satz Einordnung für KI-Interessierte",
+          "quelle": "Quellenname",
+          "url": "https://... (aus der obigen Liste)",
           "sterne": "⭐⭐⭐"
         }
       ]
@@ -64,86 +125,60 @@ keine Backticks davor oder danach. Das JSON muss exakt dieser Struktur folgen:
 }
 
 Regeln:
-- Mindestens 4, maximal 6 Kategorien
-- Pro Kategorie 4-6 Artikel
-- Nur Kategorien mit echten Nachrichten aus den letzten 24-48h
-- Sterne: ⭐⭐⭐ = bahnbrechend, ⭐⭐ = bedeutend, ⭐ = interessant
+- Nur Artikel aus der obigen Liste verwenden
+- 4-6 Kategorien, pro Kategorie 2-5 Artikel
 - Alle Texte auf Deutsch
-- URLs müssen real und direkt abrufbar sein
-- Keine erfundenen Nachrichten — lieber weniger aber korrekte Artikel`;
+- Sterne: ⭐⭐⭐ = bahnbrechend, ⭐⭐ = bedeutend, ⭐ = interessant`;
 
-// ── Gemini API aufrufen ──────────────────────────────────────────────────────
-async function generiereDigest() {
-  console.log(`🔍 Generiere KI-News Digest für ${datumLang}...`);
-
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
-
-  const response = await fetch(url, {
-    method: 'POST',
+  const url  = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
+  const resp = await fetch(url, {
+    method:  'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: PROMPT }] }],
-    generationConfig: {
-        temperature: 0.4,
-       maxOutputTokens: 16000
-      }
+    body:    JSON.stringify({
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: { temperature: 0.4, maxOutputTokens: 16000 }
     })
   });
 
-  if (!response.ok) {
-    const fehler = await response.text();
-    throw new Error(`Gemini API Fehler ${response.status}: ${fehler}`);
+  if (!resp.ok) {
+    const err = await resp.text();
+    throw new Error(`Gemini Fehler ${resp.status}: ${err}`);
   }
 
-  const data = await response.json();
-
-  // Antwort extrahieren
+  const data = await resp.json();
   const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
-  if (!text) {
-    console.error('Gemini Antwort:', JSON.stringify(data, null, 2));
-    throw new Error('Keine Textantwort von Gemini erhalten.');
-  }
+  if (!text) throw new Error('Keine Antwort von Gemini');
 
-  // JSON parsen (Backticks entfernen falls vorhanden)
   const bereinigt = text.replace(/```json\n?|\n?```/g, '').trim();
-  let digest;
-  try {
-    digest = JSON.parse(bereinigt);
-  } catch (e) {
-    console.error('Rohantwort:', bereinigt.slice(0, 500));
-    throw new Error(`JSON-Parsing fehlgeschlagen: ${e.message}`);
-  }
+  const digest    = JSON.parse(bereinigt);
 
-  // Validierung
-  if (!digest.kategorien || !Array.isArray(digest.kategorien)) {
-    throw new Error('Digest hat keine gültige "kategorien"-Struktur.');
-  }
-
-  console.log(`✅ ${digest.kategorien.length} Kategorien, Tagesthema: "${digest.tagesthema}"`);
+  if (!digest.kategorien?.length) throw new Error('Keine Kategorien im Digest');
   return digest;
 }
 
-// ── Datei speichern ──────────────────────────────────────────────────────────
+// ── Main ──────────────────────────────────────────────────────────────────────
 async function main() {
   try {
-    const digest = await generiereDigest();
+    const artikel = await sammleArtikel();
 
-    // Sicherstellen dass data/ existiert
-    const dataDir = path.dirname(OUTPUT_PATH);
-    if (!fs.existsSync(dataDir)) {
-      fs.mkdirSync(dataDir, { recursive: true });
+    if (artikel.length < 5) {
+      throw new Error(`Zu wenige Artikel gesammelt: ${artikel.length}`);
     }
 
-    fs.writeFileSync(OUTPUT_PATH, JSON.stringify(digest, null, 2), 'utf-8');
-    console.log(`💾 Digest gespeichert: ${OUTPUT_PATH}`);
+    console.log(`\n🤖 Generiere Digest mit Gemini (${artikel.length} Artikel)...`);
+    const digest = await generiereDigest(artikel);
 
-    // Artikel-Statistik ausgeben
-    let gesamtArtikel = 0;
+    const dataDir = path.dirname(OUTPUT_PATH);
+    if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
+    fs.writeFileSync(OUTPUT_PATH, JSON.stringify(digest, null, 2), 'utf-8');
+
+    console.log(`✅ Digest gespeichert: ${digest.kategorien.length} Kategorien`);
+    let gesamt = 0;
     for (const kat of digest.kategorien) {
-      gesamtArtikel += kat.artikel?.length || 0;
+      gesamt += kat.artikel?.length || 0;
       console.log(`   ${kat.emoji} ${kat.titel}: ${kat.artikel?.length || 0} Artikel`);
     }
-    console.log(`📊 Gesamt: ${gesamtArtikel} Artikel`);
+    console.log(`📊 Gesamt: ${gesamt} Artikel`);
 
   } catch (err) {
     console.error('❌ Fehler:', err.message);
