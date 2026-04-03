@@ -50,7 +50,7 @@ async function holeGoogleNews(suchbegriff) {
     const items = data?.rss?.channel?.item || [];
     const arr   = Array.isArray(items) ? items : [items];
 
-    return arr.slice(0, 3).map(item => ({
+    return arr.slice(0, 2).map(item => ({
       titel:  item.title   || '',
       url:    item.link    || '',
       quelle: item.source?._ || item.source || '',
