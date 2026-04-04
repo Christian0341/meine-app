@@ -43,7 +43,7 @@
     .topbar-date { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--text3); background: var(--card); border: 1px solid var(--line); padding: 4px 10px; border-radius: 6px; }
 
     /* ── HERO (immer sichtbar, wechselt Inhalt) ── */
-    .hero { padding: 0; border-bottom: none; background: none; min-height: 0; display: none; }
+    .hero { padding: 16px 20px 14px; border-bottom: 1px solid var(--line); background: linear-gradient(180deg, var(--bg2) 0%, var(--bg) 100%); min-height: 60px; }
     .hero-eyebrow { display: flex; align-items: center; gap: 7px; margin-bottom: 8px; }
     .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--silver); animation: livepulse 2.5s ease infinite; }
     @keyframes livepulse { 0%{box-shadow:0 0 0 0 rgba(200,205,214,0.4)} 70%{box-shadow:0 0 0 6px rgba(200,205,214,0)} 100%{box-shadow:0 0 0 0 rgba(200,205,214,0)} }
@@ -234,8 +234,8 @@
     <button class="main-tab" onclick="showMain('aktien',this)">Aktien</button>
   </nav>
 
-  <!-- HERO — wechselt je nach Tab -->
-  <div class="hero" id="hero">
+  <!-- HERO — nur bei Aktien -->
+  <div class="hero" id="hero" style="display:none">
     <div class="hero-title skeleton" id="heroTitle"></div>
     <div class="hero-sub" id="heroSub"></div>
     <div class="hero-stats" id="heroStats" style="display:none"></div>
@@ -317,12 +317,9 @@
       $('tab-'+id).classList.add('active');
 
       if (id === 'news') {
-        $('heroStats').style.display = 'none';
-        const h = $('heroTitle');
-        h.textContent = '';
-        h.classList.remove('skeleton');
-        $('heroSub').textContent = window._digestSub || '';
+        $('hero').style.display = 'none';
       } else {
+        $('hero').style.display = 'block';
         const h = $('heroTitle');
         h.classList.remove('skeleton');
         h.textContent = '';
