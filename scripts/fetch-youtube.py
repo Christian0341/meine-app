@@ -7,23 +7,20 @@ from xml.etree import ElementTree as ET
 
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
 
-# ── Feste Kanäle ──────────────────────────────────────────────────────────────
-# channel_id = direkte ID, handle = @handle für automatische Ermittlung
 FESTE_KANAELE = [
     {"name": "Everlast AI",          "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg"},
     {"name": "Christoph Magnussen",  "channel_id": "UCDx6L69jmKBJbNu5GnkCilg"},
     {"name": "Jonas Keil",           "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ"},
     {"name": "Neuland Pro",          "channel_id": "UCcQz40FwO1qaePDQ5RRzlcw"},
-    {"name": "Sascha Hoffmann",     "channel_id": "UC7xxAtIMrlTcB1mKLziqEbA"},
-    {"name": "Sascha Taschan",      "handle": "saschthetasch"},
-   {"name": "KI-Campus",            "channel_id": "UCtimfZyjzmkpOeLI1s88hcQ"},
+    {"name": "Sascha Hoffmann",      "channel_id": "UC7xxAtIMrlTcB1mKLziqEbA"},
+    {"name": "Sascha Taschan",       "handle": "saschthetasch"},
+    {"name": "KI-Campus",            "channel_id": "UCtimfZyjzmkpOeLI1s88hcQ"},
     {"name": "Morpheus Tutorials",   "handle": "TheMorpheusTutorials"},
     {"name": "Timo Specht",          "handle": "timo-specht-seo"},
     {"name": "KI-Lernzone",          "handle": "KI-Lernzone"},
     {"name": "Akademie4KI",          "handle": "akademie4ki"},
 ]
 
-# ── Suchbegriffe ──────────────────────────────────────────────────────────────
 SUCHBEGRIFFE = [
     "ChatGPT Tutorial deutsch",
     "Claude AI Tutorial deutsch",
@@ -37,7 +34,6 @@ SUCHBEGRIFFE = [
     "KI Anwendung Tutorial deutsch",
 ]
 
-# ── Pflicht-Keywords ──────────────────────────────────────────────────────────
 PFLICHT_KEYWORDS = [
     "chatgpt", "claude", "gemini", "gpt-", "openai", "anthropic",
     "llm", "llama", "mistral", "ollama", "perplexity", "midjourney",
@@ -51,7 +47,6 @@ PFLICHT_KEYWORDS = [
     "hugging face", "embedding", "ki lernzone", "ki-lernzone",
 ]
 
-# ── Blacklist ──────────────────────────────────────────────────────────────────
 BLACKLIST_TITEL = [
     "offiziell", "official", "lyrics", "music video", "audio",
     "helene fischer", "schlager", "pop song", "album", "single",
@@ -61,6 +56,7 @@ BLACKLIST_TITEL = [
     "verwaltungsmanager", "spanien", "skandal",
     "smci", "ermittlung", "nachrichten der woche", "news der woche",
     "consistent deutsch zu sprechen", "deutsch lernen", "sprache lernen",
+    "#shorts", "shorts",
 ]
 
 BLACKLIST_KANAL = [
@@ -68,14 +64,15 @@ BLACKLIST_KANAL = [
     "vallejo law", "bug bounty",
 ]
 
-RSS_BASE = "https://www.youtube.com/feeds/videos.xml?channel_id="
-HEADERS  = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-NS       = {'atom': 'http://www.w3.org/2005/Atom', 'yt': 'http://www.youtube.com/xml/schemas/2015'}
+MAX_VIDEOS    = 15
+RSS_BASE      = "https://www.youtube.com/feeds/videos.xml?channel_id="
+HEADERS       = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+NS            = {'atom': 'http://www.w3.org/2005/Atom', 'yt': 'http://www.youtube.com/xml/schemas/2015'}
 
-cutoff     = datetime.now(timezone.utc) - timedelta(days=7)
-cutoff_str = cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")
-alle_videos = []
-bekannte_ids = set()
+cutoff        = datetime.now(timezone.utc) - timedelta(days=7)
+cutoff_str    = cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")
+alle_videos   = []
+bekannte_ids  = set()
 
 def get_channel_id(handle):
     try:
@@ -91,6 +88,13 @@ def get_channel_id(handle):
     except Exception as e:
         print(f"  Handle-Fehler: {e}")
     return None
+
+def ist_short(titel, video_id):
+    """Shorts erkennen: #shorts im Titel oder typische Short-Muster"""
+    t = titel.lower()
+    if "#shorts" in t or "#short" in t:
+        return True
+    return False
 
 def ist_englisch(titel):
     t = " " + titel.lower() + " "
@@ -111,6 +115,8 @@ def ist_relevant(titel, kanal_name=""):
     for bt in BLACKLIST_TITEL:
         if bt in t:
             return False, f"blacklist"
+    if ist_short(titel, ""):
+        return False, "short"
     if ist_englisch(titel):
         return False, "englisch"
     for kw in PFLICHT_KEYWORDS:
@@ -122,7 +128,6 @@ def ist_relevant(titel, kanal_name=""):
 print("=== Feste Kanäle ===")
 for kanal in FESTE_KANAELE:
     print(f"\n{kanal['name']}...")
-
     if "channel_id" in kanal:
         cid = kanal["channel_id"]
     else:
@@ -131,11 +136,10 @@ for kanal in FESTE_KANAELE:
             print(f"  SKIP: Channel-ID nicht gefunden")
             continue
         print(f"  ID: {cid}")
-
     try:
         r = requests.get(RSS_BASE + cid, timeout=10, headers=HEADERS)
         r.raise_for_status()
-        root = ET.fromstring(r.content)
+        root  = ET.fromstring(r.content)
         count = 0
         for entry in root.findall('atom:entry', NS):
             pub_el = entry.find('atom:published', NS)
@@ -149,8 +153,11 @@ for kanal in FESTE_KANAELE:
             link_el  = entry.find('atom:link', NS)
             video_id = vid_el.text if vid_el is not None else ''
             if video_id in bekannte_ids: continue
-            bekannte_ids.add(video_id)
             titel = title_el.text if title_el is not None else ''
+            if ist_short(titel, video_id):
+                print(f"  SKIP (short): {titel[:45]}")
+                continue
+            bekannte_ids.add(video_id)
             alle_videos.append({
                 "kanal": kanal["name"], "titel": titel,
                 "link": link_el.get('href') if link_el is not None else '',
@@ -184,7 +191,6 @@ else:
             }
             r = requests.get("https://www.googleapis.com/youtube/v3/search", params=params, timeout=10)
             r.raise_for_status()
-
             for item in r.json().get("items", []):
                 video_id = item["id"].get("videoId", "")
                 if not video_id or video_id in bekannte_ids: continue
@@ -192,18 +198,15 @@ else:
                 titel    = snippet.get("title", "")
                 kanal    = snippet.get("channelTitle", "")
                 pub_str  = snippet.get("publishedAt", "")
-
                 ok, grund = ist_relevant(titel, kanal)
                 if not ok:
                     print(f"  SKIP ({grund}): {titel[:45]}")
                     continue
-
                 try:
                     pub_dt   = datetime.fromisoformat(pub_str.replace('Z', '+00:00'))
                     datum_de = pub_dt.strftime("%d.%m.%Y")
                 except:
                     datum_de = ""
-
                 bekannte_ids.add(video_id)
                 alle_videos.append({
                     "kanal": kanal, "titel": titel,
@@ -214,23 +217,24 @@ else:
                     "quelle": "suche"
                 })
                 print(f"  ✓ [{kanal}] {titel[:45]}")
-
         except Exception as e:
             print(f"  API Fehler: {e}")
 
-# ── Speichern ─────────────────────────────────────────────────────────────────
+# ── Sortieren + auf 15 begrenzen ──────────────────────────────────────────────
 alle_videos.sort(key=lambda v: v.get("datum", ""), reverse=True)
+alle_videos = alle_videos[:MAX_VIDEOS]
+print(f"\n→ Nach Filter: {len(alle_videos)} Videos (max. {MAX_VIDEOS})")
 
+# ── Speichern ─────────────────────────────────────────────────────────────────
 output = {
     "aktualisiert": datetime.now(timezone.utc).isoformat(),
     "zeitraum_tage": 7,
     "videos": alle_videos
 }
-
 os.makedirs("data", exist_ok=True)
 with open("data/youtube.json", "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
 k = sum(1 for v in alle_videos if v.get('quelle') == 'kanal')
 s = sum(1 for v in alle_videos if v.get('quelle') == 'suche')
-print(f"\nFertig! {len(alle_videos)} Videos ({k} Kanal, {s} Suche).")
+print(f"Fertig! {len(alle_videos)} Videos ({k} Kanal, {s} Suche).")
