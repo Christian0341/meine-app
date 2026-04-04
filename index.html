@@ -43,7 +43,7 @@
     .topbar-date { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--text3); background: var(--card); border: 1px solid var(--line); padding: 4px 10px; border-radius: 6px; }
 
     /* ── HERO (immer sichtbar, wechselt Inhalt) ── */
-    .hero { padding: 20px 20px 16px; border-bottom: 1px solid var(--line); background: linear-gradient(180deg, var(--bg2) 0%, var(--bg) 100%); min-height: 90px; }
+    .hero { padding: 16px 20px 14px; border-bottom: 1px solid var(--line); background: linear-gradient(180deg, var(--bg2) 0%, var(--bg) 100%); min-height: 60px; }
     .hero-eyebrow { display: flex; align-items: center; gap: 7px; margin-bottom: 8px; }
     .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--silver); animation: livepulse 2.5s ease infinite; }
     @keyframes livepulse { 0%{box-shadow:0 0 0 0 rgba(200,205,214,0.4)} 70%{box-shadow:0 0 0 6px rgba(200,205,214,0)} 100%{box-shadow:0 0 0 0 rgba(200,205,214,0)} }
@@ -234,12 +234,8 @@
     <button class="main-tab" onclick="showMain('aktien',this)">Aktien</button>
   </nav>
 
-  <!-- HERO — immer sichtbar -->
+  <!-- HERO — wechselt je nach Tab -->
   <div class="hero" id="hero">
-    <div class="hero-eyebrow">
-      <div class="live-dot"></div>
-      <div class="hero-label" id="heroLabel">KI · News</div>
-    </div>
     <div class="hero-title skeleton" id="heroTitle"></div>
     <div class="hero-sub" id="heroSub"></div>
     <div class="hero-stats" id="heroStats" style="display:none"></div>
@@ -247,6 +243,7 @@
 
   <!-- KI-NEWS -->
   <section class="section active" id="tab-news">
+    <div class="divider" id="newsDivider" style="display:none"><span class="divider-label">📰 News</span><div class="divider-line"></div></div>
     <div class="kat-nav" id="katNav" style="display:none"></div>
     <div id="katPanels">
       <div style="padding:20px">
@@ -322,20 +319,16 @@
       $('tab-'+id).classList.add('active');
 
       if (id === 'news') {
-        $('heroLabel').textContent = 'KI · News';
         $('heroStats').style.display = 'none';
-        // Digest-Titel wieder anzeigen
-        const digest_title = window._digestTitle || '';
         const h = $('heroTitle');
-        h.textContent = digest_title || '–';
+        h.textContent = window._digestTitle || '–';
         h.classList.remove('skeleton');
         $('heroSub').textContent = window._digestSub || '';
       } else {
-        $('heroLabel').textContent = 'Aktien · Portfolio Übersicht';
-        $('heroSub').textContent = '21 Werte · alle Kurse in EUR';
         const h = $('heroTitle');
         h.classList.remove('skeleton');
         h.textContent = '';
+        $('heroSub').textContent = '21 Werte · Wochenveränderung · EUR';
         renderAktienHero();
       }
     }
@@ -383,7 +376,7 @@
           panels.innerHTML=`<div class="empty"><div class="empty-icon">◌</div><div class="empty-title">Noch kein Digest</div><div class="empty-text">Wird heute Nacht generiert.</div></div>`;
           return;
         }
-        nav.innerHTML=''; panels.innerHTML=''; nav.style.display='flex';
+        nav.innerHTML=''; panels.innerHTML=''; nav.style.display='flex'; if($('newsDivider')) $('newsDivider').style.display='flex';
 
         d.kategorien.forEach((kat,ki)=>{
           const tab=document.createElement('button');
