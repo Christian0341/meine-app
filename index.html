@@ -371,20 +371,6 @@
           window._digestSub = sub;
         }
 
-        // Podcasts rendern
-        if(d.podcasts?.length){
-          const pl=$('podcastList');
-          pl.innerHTML='';
-          d.podcasts.forEach(p=>{
-            const a=document.createElement('a');
-            a.className='link-card';
-            a.href=esc(p.spotify||p.web||'#');
-            a.target='_blank'; a.rel='noopener';
-            a.innerHTML=`<div class="link-icon">🎙️</div><div class="link-body"><div class="link-name">${esc(p.name)}</div><div class="link-desc">${p.episode?esc(p.episode.substring(0,60))+'…':esc(p.desc)}</div>${p.datum?`<div class="link-desc" style="margin-top:2px;opacity:0.6">${esc(p.datum)}</div>`:''}</div><div class="link-arr">↗</div>`;
-            pl.appendChild(a);
-          });
-        }
-
         const nav=($('katNav')), panels=($('katPanels'));
         if(!d.kategorien?.length){
           panels.innerHTML=`<div class="empty"><div class="empty-icon">◌</div><div class="empty-title">Noch kein Digest</div><div class="empty-text">Wird heute Nacht generiert.</div></div>`;
