@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-04-04T09:08:51.618860+00:00",
+  "aktualisiert": "2026-04-04T16:51:17.913805+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Das beste Tool für jeden Anwendungsbereich! 🚀 #künstlicheintelligenz #chatgpt #gemini #claude",
+      "link": "https://www.youtube.com/shorts/u1KjgQtkRhM",
+      "video_id": "u1KjgQtkRhM",
+      "thumbnail": "https://img.youtube.com/vi/u1KjgQtkRhM/mqdefault.jpg",
+      "datum": "2026-04-04T15:01:24+00:00",
+      "datum_de": "04.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Paperclip ist VERRÜCKT: Komplette Agents Teams auf Knopfdruck",
+      "link": "https://www.youtube.com/watch?v=zMcGWvvehrs",
+      "video_id": "zMcGWvvehrs",
+      "thumbnail": "https://img.youtube.com/vi/zMcGWvvehrs/mqdefault.jpg",
+      "datum": "2026-04-04T14:15:06+00:00",
+      "datum_de": "04.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Cloud Code Einfach Erklärt  Mehr Shippen, Weniger Ablenkung!",
+      "link": "https://www.youtube.com/shorts/5j4-P0PKxrk",
+      "video_id": "5j4-P0PKxrk",
+      "thumbnail": "https://img.youtube.com/vi/5j4-P0PKxrk/mqdefault.jpg",
+      "datum": "2026-04-04T13:31:45+00:00",
+      "datum_de": "04.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "Claude AI richtig nutzen: Alle kostenlosen Funktionen erklärt (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=ttnqP7WUcYg",
+      "video_id": "ttnqP7WUcYg",
+      "thumbnail": "https://img.youtube.com/vi/ttnqP7WUcYg/mqdefault.jpg",
+      "datum": "2026-04-04T13:06:34Z",
+      "datum_de": "04.04.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Sascha Taschan",
       "titel": "OpenClaw & N8N Automatisierung mit VPS Agenten meistern",
@@ -31,6 +71,16 @@
       "datum": "2026-04-03T14:10:49+00:00",
       "datum_de": "03.04.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Codedigipt",
+      "titel": "Gemma 4 + Claude Code + Jan : Best FREE AI Coding Setup",
+      "link": "https://www.youtube.com/watch?v=dhlrZwH1Uzg",
+      "video_id": "dhlrZwH1Uzg",
+      "thumbnail": "https://img.youtube.com/vi/dhlrZwH1Uzg/mqdefault.jpg",
+      "datum": "2026-04-03T07:40:00Z",
+      "datum_de": "03.04.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "NANCY | Projects To Profit",
@@ -100,206 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/XWA0v-vAMvs/mqdefault.jpg",
       "datum": "2026-04-01T13:00:00+00:00",
       "datum_de": "01.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Googles neuer Vibe Designer verändert Alles – App Design in Sekunden (kostenlos)",
-      "link": "https://www.youtube.com/watch?v=0TfQraC33qQ",
-      "video_id": "0TfQraC33qQ",
-      "thumbnail": "https://img.youtube.com/vi/0TfQraC33qQ/mqdefault.jpg",
-      "datum": "2026-04-01T12:00:01+00:00",
-      "datum_de": "01.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KI Academy Deutschland",
-      "titel": "Ich habe einen KI-Agenten zum Leben erweckt (er übernimmt alles)&quot; 🤖",
-      "link": "https://www.youtube.com/watch?v=r7ikng9xcF8",
-      "video_id": "r7ikng9xcF8",
-      "thumbnail": "https://img.youtube.com/vi/r7ikng9xcF8/mqdefault.jpg",
-      "datum": "2026-03-31T18:53:08Z",
-      "datum_de": "31.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "OpenCLaw & Ulama: Günstige KI Modelle lokal nutzen",
-      "link": "https://www.youtube.com/shorts/p5kGFVN53RE",
-      "video_id": "p5kGFVN53RE",
-      "thumbnail": "https://img.youtube.com/vi/p5kGFVN53RE/mqdefault.jpg",
-      "datum": "2026-03-31T16:15:07+00:00",
-      "datum_de": "31.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Krass: 10 neue Claude Funktionen, die kaum einer nutzt! (Stitch, Browser Use, Auto-Dream, uvm.)",
-      "link": "https://www.youtube.com/watch?v=97pZNEOLpRs",
-      "video_id": "97pZNEOLpRs",
-      "thumbnail": "https://img.youtube.com/vi/97pZNEOLpRs/mqdefault.jpg",
-      "datum": "2026-03-31T15:15:00+00:00",
-      "datum_de": "31.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Das beste KI-Tool für Präsentationen! 🚀 #künstlicheintelligenz #ki #gamma #präsentation",
-      "link": "https://www.youtube.com/shorts/GDUN0lPgJbg",
-      "video_id": "GDUN0lPgJbg",
-      "thumbnail": "https://img.youtube.com/vi/GDUN0lPgJbg/mqdefault.jpg",
-      "datum": "2026-03-31T14:30:08+00:00",
-      "datum_de": "31.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Günstiges YouTube & Automatisierungs Setup",
-      "link": "https://www.youtube.com/shorts/by7rxYHD3DA",
-      "video_id": "by7rxYHD3DA",
-      "thumbnail": "https://img.youtube.com/vi/by7rxYHD3DA/mqdefault.jpg",
-      "datum": "2026-03-30T17:15:03+00:00",
-      "datum_de": "30.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Codex Security im Test: Endlich SICHER vibecoden?!",
-      "link": "https://www.youtube.com/watch?v=Wtf0DLuKDlE",
-      "video_id": "Wtf0DLuKDlE",
-      "thumbnail": "https://img.youtube.com/vi/Wtf0DLuKDlE/mqdefault.jpg",
-      "datum": "2026-03-30T17:00:00+00:00",
-      "datum_de": "30.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Felicia Simon",
-      "titel": "Claude AI wird dein Leben verändern 🤯 besser als ChatGPT?",
-      "link": "https://www.youtube.com/watch?v=dsLxBQiUKiI",
-      "video_id": "dsLxBQiUKiI",
-      "thumbnail": "https://img.youtube.com/vi/dsLxBQiUKiI/mqdefault.jpg",
-      "datum": "2026-03-30T14:45:00Z",
-      "datum_de": "30.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Ostend Digital - Marketing & KI",
-      "titel": "Claude AI Tutorial: Komplette Einführung für Anfänger (2026)",
-      "link": "https://www.youtube.com/watch?v=IKpVsh9w4Yk",
-      "video_id": "IKpVsh9w4Yk",
-      "thumbnail": "https://img.youtube.com/vi/IKpVsh9w4Yk/mqdefault.jpg",
-      "datum": "2026-03-30T14:16:29Z",
-      "datum_de": "30.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Laurin Fouquet | KI & Automations",
-      "titel": "Hör auf n8n zu lernen. (Lerne DAS stattdessen)",
-      "link": "https://www.youtube.com/watch?v=eValPIfrf1E",
-      "video_id": "eValPIfrf1E",
-      "thumbnail": "https://img.youtube.com/vi/eValPIfrf1E/mqdefault.jpg",
-      "datum": "2026-03-30T13:38:50Z",
-      "datum_de": "30.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI-Campus",
-      "titel": "#Deepfakes sind kein Zukunftsthema mehr – aber die Gesetze hinken hinterher. ⚖️🤖 #KI",
-      "link": "https://www.youtube.com/shorts/I9dK3N2fb7k",
-      "video_id": "I9dK3N2fb7k",
-      "thumbnail": "https://img.youtube.com/vi/I9dK3N2fb7k/mqdefault.jpg",
-      "datum": "2026-03-30T13:00:00+00:00",
-      "datum_de": "30.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Cloud Code  KI Tools, die dein Leben verändern!",
-      "link": "https://www.youtube.com/shorts/M4sJhsHUKLg",
-      "video_id": "M4sJhsHUKLg",
-      "thumbnail": "https://img.youtube.com/vi/M4sJhsHUKLg/mqdefault.jpg",
-      "datum": "2026-03-30T11:15:03+00:00",
-      "datum_de": "30.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "AI Stube ",
-      "titel": "NIE wieder E-Mails tippen: Mein KI-WORKFLOW für Claude Cowork",
-      "link": "https://www.youtube.com/watch?v=IjaKIHW8G8c",
-      "video_id": "IjaKIHW8G8c",
-      "thumbnail": "https://img.youtube.com/vi/IjaKIHW8G8c/mqdefault.jpg",
-      "datum": "2026-03-29T18:02:10Z",
-      "datum_de": "29.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Digitale Profis",
-      "titel": "Alles kostenlos &amp; lokal: Die besten Open-Source KI-Tools für 2026! Chatbots, Bilder/Video, Code",
-      "link": "https://www.youtube.com/watch?v=gn_RacOYWg0",
-      "video_id": "gn_RacOYWg0",
-      "thumbnail": "https://img.youtube.com/vi/gn_RacOYWg0/mqdefault.jpg",
-      "datum": "2026-03-29T15:00:50Z",
-      "datum_de": "29.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Die besten KI-Tools für deine Recherche! 🚀 #künstlicheintelligenz #ki #perplexity #chatgpt",
-      "link": "https://www.youtube.com/shorts/S-8sOFPbWD8",
-      "video_id": "S-8sOFPbWD8",
-      "thumbnail": "https://img.youtube.com/vi/S-8sOFPbWD8/mqdefault.jpg",
-      "datum": "2026-03-29T14:30:24+00:00",
-      "datum_de": "29.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Von ChatGPT zu Claude  Der 'GEHEIME' Wechsel Trick!",
-      "link": "https://www.youtube.com/shorts/aU_VrgmwOOI",
-      "video_id": "aU_VrgmwOOI",
-      "thumbnail": "https://img.youtube.com/vi/aU_VrgmwOOI/mqdefault.jpg",
-      "datum": "2026-03-29T12:15:00+00:00",
-      "datum_de": "29.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Anton & Tom | AI & Automation",
-      "titel": "Claude AI Tutorial für deutsche Agenturen (Alle Funktionen erklärt)",
-      "link": "https://www.youtube.com/watch?v=_KJ1Qog6f8U",
-      "video_id": "_KJ1Qog6f8U",
-      "thumbnail": "https://img.youtube.com/vi/_KJ1Qog6f8U/mqdefault.jpg",
-      "datum": "2026-03-29T09:00:35Z",
-      "datum_de": "29.03.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Claude „Mythos” geleakt, OpenAIs MEGA-Plan, Optimus-3, Terafab, TUM-Interview & weitere KI-News",
-      "link": "https://www.youtube.com/watch?v=mKDL4rALSqw",
-      "video_id": "mKDL4rALSqw",
-      "thumbnail": "https://img.youtube.com/vi/mKDL4rALSqw/mqdefault.jpg",
-      "datum": "2026-03-29T08:15:00+00:00",
-      "datum_de": "29.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "So läuft mein komplettes AI Operation System für nur 25€/Monat",
-      "link": "https://www.youtube.com/watch?v=jm925IcBITo",
-      "video_id": "jm925IcBITo",
-      "thumbnail": "https://img.youtube.com/vi/jm925IcBITo/mqdefault.jpg",
-      "datum": "2026-03-28T15:15:03+00:00",
-      "datum_de": "28.03.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "OpenAI deals with Pentagon  AI for surveillance & weapons",
-      "link": "https://www.youtube.com/shorts/9oPLxsW1wX8",
-      "video_id": "9oPLxsW1wX8",
-      "thumbnail": "https://img.youtube.com/vi/9oPLxsW1wX8/mqdefault.jpg",
-      "datum": "2026-03-28T11:35:21+00:00",
-      "datum_de": "28.03.2026",
       "quelle": "kanal"
     }
   ]
