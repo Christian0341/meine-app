@@ -56,7 +56,7 @@ BLACKLIST_TITEL = [
     "verwaltungsmanager", "spanien", "skandal",
     "smci", "ermittlung", "nachrichten der woche", "news der woche",
     "consistent deutsch zu sprechen", "deutsch lernen", "sprache lernen",
-    "#shorts", "shorts",
+    "#shorts", "#short",
 ]
 
 BLACKLIST_KANAL = [
@@ -64,15 +64,16 @@ BLACKLIST_KANAL = [
     "vallejo law", "bug bounty",
 ]
 
-MAX_VIDEOS    = 15
-RSS_BASE      = "https://www.youtube.com/feeds/videos.xml?channel_id="
-HEADERS       = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-NS            = {'atom': 'http://www.w3.org/2005/Atom', 'yt': 'http://www.youtube.com/xml/schemas/2015'}
+MAX_VIDEOS   = 15
+MIN_SEKUNDEN = 120  # Videos unter 2 Minuten werden gefiltert
+RSS_BASE     = "https://www.youtube.com/feeds/videos.xml?channel_id="
+HEADERS      = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+NS           = {'atom': 'http://www.w3.org/2005/Atom', 'yt': 'http://www.youtube.com/xml/schemas/2015'}
 
-cutoff        = datetime.now(timezone.utc) - timedelta(days=7)
-cutoff_str    = cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")
-alle_videos   = []
-bekannte_ids  = set()
+cutoff       = datetime.now(timezone.utc) - timedelta(days=7)
+cutoff_str   = cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")
+alle_videos  = []
+bekannte_ids = set()
 
 def get_channel_id(handle):
     try:
@@ -89,12 +90,44 @@ def get_channel_id(handle):
         print(f"  Handle-Fehler: {e}")
     return None
 
-def ist_short(titel, video_id):
-    """Shorts erkennen: #shorts im Titel oder typische Short-Muster"""
-    t = titel.lower()
-    if "#shorts" in t or "#short" in t:
-        return True
-    return False
+def parse_duration(iso_duration):
+    """ISO 8601 Dauer in Sekunden umrechnen z.B. PT1M30S → 90"""
+    if not iso_duration:
+        return 0
+    m = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', iso_duration)
+    if not m:
+        return 0
+    h = int(m.group(1) or 0)
+    mi = int(m.group(2) or 0)
+    s = int(m.group(3) or 0)
+    return h * 3600 + mi * 60 + s
+
+def hole_video_dauern(video_ids):
+    """Holt Videodauern für eine Liste von IDs per YouTube API"""
+    if not YOUTUBE_API_KEY or not video_ids:
+        return {}
+    dauern = {}
+    # API erlaubt max. 50 IDs pro Request
+    for i in range(0, len(video_ids), 50):
+        batch = video_ids[i:i+50]
+        try:
+            r = requests.get(
+                "https://www.googleapis.com/youtube/v3/videos",
+                params={
+                    "key": YOUTUBE_API_KEY,
+                    "id": ",".join(batch),
+                    "part": "contentDetails",
+                },
+                timeout=10
+            )
+            r.raise_for_status()
+            for item in r.json().get("items", []):
+                vid_id   = item["id"]
+                duration = item.get("contentDetails", {}).get("duration", "")
+                dauern[vid_id] = parse_duration(duration)
+        except Exception as e:
+            print(f"  Dauer-API Fehler: {e}")
+    return dauern
 
 def ist_englisch(titel):
     t = " " + titel.lower() + " "
@@ -114,9 +147,7 @@ def ist_relevant(titel, kanal_name=""):
             return False, "kanal-blacklist"
     for bt in BLACKLIST_TITEL:
         if bt in t:
-            return False, f"blacklist"
-    if ist_short(titel, ""):
-        return False, "short"
+            return False, "blacklist"
     if ist_englisch(titel):
         return False, "englisch"
     for kw in PFLICHT_KEYWORDS:
@@ -154,9 +185,6 @@ for kanal in FESTE_KANAELE:
             video_id = vid_el.text if vid_el is not None else ''
             if video_id in bekannte_ids: continue
             titel = title_el.text if title_el is not None else ''
-            if ist_short(titel, video_id):
-                print(f"  SKIP (short): {titel[:45]}")
-                continue
             bekannte_ids.add(video_id)
             alle_videos.append({
                 "kanal": kanal["name"], "titel": titel,
@@ -220,21 +248,35 @@ else:
         except Exception as e:
             print(f"  API Fehler: {e}")
 
+# ── Videodauern holen und kurze Videos filtern ────────────────────────────────
+print(f"\n=== Dauer-Check ({len(alle_videos)} Videos) ===")
+alle_video_ids = [v["video_id"] for v in alle_videos if v.get("video_id")]
+dauern = hole_video_dauern(alle_video_ids)
+
+gefiltert = []
+for v in alle_videos:
+    dauer = dauern.get(v["video_id"], 999)
+    if dauer < MIN_SEKUNDEN:
+        print(f"  SKIP ({dauer}s < {MIN_SEKUNDEN}s): {v['titel'][:50]}")
+    else:
+        gefiltert.append(v)
+
+print(f"→ Nach Dauer-Filter: {len(gefiltert)} Videos")
+
 # ── Sortieren + auf 15 begrenzen ──────────────────────────────────────────────
-alle_videos.sort(key=lambda v: v.get("datum", ""), reverse=True)
-alle_videos = alle_videos[:MAX_VIDEOS]
-print(f"\n→ Nach Filter: {len(alle_videos)} Videos (max. {MAX_VIDEOS})")
+gefiltert.sort(key=lambda v: v.get("datum", ""), reverse=True)
+gefiltert = gefiltert[:MAX_VIDEOS]
 
 # ── Speichern ─────────────────────────────────────────────────────────────────
 output = {
     "aktualisiert": datetime.now(timezone.utc).isoformat(),
     "zeitraum_tage": 7,
-    "videos": alle_videos
+    "videos": gefiltert
 }
 os.makedirs("data", exist_ok=True)
 with open("data/youtube.json", "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
-k = sum(1 for v in alle_videos if v.get('quelle') == 'kanal')
-s = sum(1 for v in alle_videos if v.get('quelle') == 'suche')
-print(f"Fertig! {len(alle_videos)} Videos ({k} Kanal, {s} Suche).")
+k = sum(1 for v in gefiltert if v.get('quelle') == 'kanal')
+s = sum(1 for v in gefiltert if v.get('quelle') == 'suche')
+print(f"Fertig! {len(gefiltert)} Videos ({k} Kanal, {s} Suche).")
