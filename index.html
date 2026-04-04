@@ -258,11 +258,9 @@
       <div class="skel"><div class="skel-l w8"></div><div class="skel-l w6"></div></div>
     </div>
     <div class="divider"><span class="divider-label">🎙️ Podcasts</span><div class="divider-line"></div></div>
-    <div class="link-list">
-      <a class="link-card" href="https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp" target="_blank" rel="noopener"><div class="link-icon">🎙️</div><div class="link-body"><div class="link-name">Heise KI-Update</div><div class="link-desc">Mo, Mi, Fr · mit The Decoder</div></div><div class="link-arr">↗</div></a>
-      <a class="link-card" href="https://kiupdate.podigee.io" target="_blank" rel="noopener"><div class="link-icon">🎧</div><div class="link-body"><div class="link-name">KI-Update · Web-Player</div><div class="link-desc">Direkt im Browser hören</div></div><div class="link-arr">↗</div></a>
-      <a class="link-card" href="https://open.spotify.com/show/3JGSMdnGe4CvVTFgKMEV95" target="_blank" rel="noopener"><div class="link-icon">🎙️</div><div class="link-body"><div class="link-name">On the Way to New Work</div><div class="link-desc">Christoph Magnussen · KI & Arbeit</div></div><div class="link-arr">↗</div></a>
-      <a class="link-card" href="https://open.spotify.com/show/4ZYVpbVZwg2b7R9LLHJbZf" target="_blank" rel="noopener"><div class="link-icon">🎙️</div><div class="link-body"><div class="link-name">KI verstehen · ZDF</div><div class="link-desc">Wöchentlich · verständlich erklärt</div></div><div class="link-arr">↗</div></a>
+    <div class="link-list" id="podcastList">
+      <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div></div>
+      <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div></div>
     </div>
   </section>
 
@@ -369,6 +367,20 @@
           const sub='Aktualisiert · '+dt.toLocaleTimeString('de-DE',{hour:'2-digit',minute:'2-digit'})+' Uhr';
           $('heroSub').textContent = sub;
           window._digestSub = sub;
+        }
+
+        // Podcasts rendern
+        if(d.podcasts?.length){
+          const pl=$('podcastList');
+          pl.innerHTML='';
+          d.podcasts.forEach(p=>{
+            const a=document.createElement('a');
+            a.className='link-card';
+            a.href=esc(p.spotify||p.web||'#');
+            a.target='_blank'; a.rel='noopener';
+            a.innerHTML=`<div class="link-icon">🎙️</div><div class="link-body"><div class="link-name">${esc(p.name)}</div><div class="link-desc">${p.episode?esc(p.episode.substring(0,60))+'…':esc(p.desc)}</div>${p.datum?`<div class="link-desc" style="margin-top:2px;opacity:0.6">${esc(p.datum)}</div>`:''}</div><div class="link-arr">↗</div>`;
+            pl.appendChild(a);
+          });
         }
 
         const nav=($('katNav')), panels=($('katPanels'));
