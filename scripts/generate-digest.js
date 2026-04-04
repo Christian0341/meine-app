@@ -36,6 +36,58 @@ const SUCHBEGRIFFE = [
   'KI Unternehmen Investition',
 ];
 
+// ── Podcast RSS Feeds ────────────────────────────────────────────────────────
+const PODCASTS = [
+  {
+    name: 'Heise KI-Update',
+    desc: 'Mo, Mi, Fr · mit The Decoder',
+    rss: 'https://kiupdate.podigee.io/feed/mp3',
+    spotify: 'https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp',
+    web: 'https://kiupdate.podigee.io'
+  },
+  {
+    name: 'On the Way to New Work',
+    desc: 'Christoph Magnussen · KI & Arbeit',
+    rss: 'https://feeds.podigee.com/on-the-way-to-new-work',
+    spotify: 'https://open.spotify.com/show/3JGSMdnGe4CvVTFgKMEV95',
+    web: 'https://open.spotify.com/show/3JGSMdnGe4CvVTFgKMEV95'
+  },
+  {
+    name: 'KI verstehen · ZDF',
+    desc: 'Wöchentlich · verständlich erklärt',
+    rss: 'https://www.zdf.de/podcast/ki-verstehen-100.xml',
+    spotify: 'https://open.spotify.com/show/4ZYVpbVZwg2b7R9LLHJbZf',
+    web: 'https://open.spotify.com/show/4ZYVpbVZwg2b7R9LLHJbZf'
+  }
+];
+
+// ── Letzte Podcast-Episode holen ─────────────────────────────────────────────
+async function holePodcastEpisode(podcast) {
+  try {
+    const resp = await fetch(podcast.rss, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; myHUB/1.0)' }
+    });
+    if (!resp.ok) return null;
+    const xml  = await resp.text();
+    const data = await parseStringPromise(xml, { explicitArray: false });
+    const items = data?.rss?.channel?.item || data?.feed?.entry || [];
+    const arr   = Array.isArray(items) ? items : [items];
+    const item  = arr[0];
+    if (!item) return null;
+    return {
+      name:    podcast.name,
+      desc:    podcast.desc,
+      episode: item.title || '',
+      datum:   item.pubDate ? new Date(item.pubDate).toLocaleDateString('de-DE') : '',
+      spotify: podcast.spotify,
+      web:     podcast.web
+    };
+  } catch(e) {
+    console.error(`  Podcast RSS Fehler (${podcast.name}): ${e.message}`);
+    return { name: podcast.name, desc: podcast.desc, episode: '', datum: '', spotify: podcast.spotify, web: podcast.web };
+  }
+}
+
 // ── Google News RSS abrufen ───────────────────────────────────────────────────
 async function holeGoogleNews(suchbegriff) {
   const query = encodeURIComponent(suchbegriff);
@@ -50,7 +102,7 @@ async function holeGoogleNews(suchbegriff) {
     const items = data?.rss?.channel?.item || [];
     const arr   = Array.isArray(items) ? items : [items];
 
-    return arr.slice(0, 2).map(item => ({
+    return arr.slice(0, 3).map(item => ({
       titel:  item.title   || '',
       url:    item.link    || '',
       quelle: item.source?._ || item.source || '',
@@ -136,7 +188,7 @@ Regeln:
     headers: { 'Content-Type': 'application/json' },
     body:    JSON.stringify({
       contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0.4, maxOutputTokens: 32000 }
+      generationConfig: { temperature: 0.4, maxOutputTokens: 16000 }
     })
   });
 
@@ -165,8 +217,14 @@ async function main() {
       throw new Error(`Zu wenige Artikel gesammelt: ${artikel.length}`);
     }
 
+    console.log('\n🎙️ Lade Podcast-Episoden...');
+    const podcasts = await Promise.all(PODCASTS.map(holePodcastEpisode));
+    const podcastsGueltig = podcasts.filter(Boolean);
+    console.log(`  ${podcastsGueltig.length} Podcasts geladen`);
+
     console.log(`\n🤖 Generiere Digest mit Gemini (${artikel.length} Artikel)...`);
     const digest = await generiereDigest(artikel);
+    digest.podcasts = podcastsGueltig;
 
     const dataDir = path.dirname(OUTPUT_PATH);
     if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
