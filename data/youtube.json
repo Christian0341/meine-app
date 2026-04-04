@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-04-03T20:23:42.874270+00:00",
+  "aktualisiert": "2026-04-04T09:08:51.618860+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
@@ -233,6 +233,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Digitale Profis",
+      "titel": "Alles kostenlos &amp; lokal: Die besten Open-Source KI-Tools für 2026! Chatbots, Bilder/Video, Code",
+      "link": "https://www.youtube.com/watch?v=gn_RacOYWg0",
+      "video_id": "gn_RacOYWg0",
+      "thumbnail": "https://img.youtube.com/vi/gn_RacOYWg0/mqdefault.jpg",
+      "datum": "2026-03-29T15:00:50Z",
+      "datum_de": "29.03.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Akademie4KI",
       "titel": "Die besten KI-Tools für deine Recherche! 🚀 #künstlicheintelligenz #ki #perplexity #chatgpt",
       "link": "https://www.youtube.com/shorts/S-8sOFPbWD8",
@@ -251,6 +261,16 @@
       "datum": "2026-03-29T12:15:00+00:00",
       "datum_de": "29.03.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Anton & Tom | AI & Automation",
+      "titel": "Claude AI Tutorial für deutsche Agenturen (Alle Funktionen erklärt)",
+      "link": "https://www.youtube.com/watch?v=_KJ1Qog6f8U",
+      "video_id": "_KJ1Qog6f8U",
+      "thumbnail": "https://img.youtube.com/vi/_KJ1Qog6f8U/mqdefault.jpg",
+      "datum": "2026-03-29T09:00:35Z",
+      "datum_de": "29.03.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Everlast AI",
@@ -281,16 +301,6 @@
       "datum": "2026-03-28T11:35:21+00:00",
       "datum_de": "28.03.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Universe of AI",
-      "titel": "Claude Mythos: Anthropic&#39;s Most POWERFUL Model Ever + OpenAI&#39;s Secret &quot;Spud&quot; Model!",
-      "link": "https://www.youtube.com/watch?v=jG4bp_w4GK4",
-      "video_id": "jG4bp_w4GK4",
-      "thumbnail": "https://img.youtube.com/vi/jG4bp_w4GK4/mqdefault.jpg",
-      "datum": "2026-03-27T22:30:00Z",
-      "datum_de": "27.03.2026",
-      "quelle": "suche"
     }
   ]
 }
