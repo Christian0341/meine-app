@@ -1,10 +1,20 @@
 {
-  "aktualisiert": "2026-04-04T16:57:19.338803+00:00",
+  "aktualisiert": "2026-04-05T09:10:30.328596+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "Everlast AI",
+      "titel": "Krass: Claude Code KOSTENLOS mit Gemma-4! Neuer “Kairos” Agent, Opus 4.7, Seedance & mehr KI-News",
+      "link": "https://www.youtube.com/watch?v=26vS1Os8vek",
+      "video_id": "26vS1Os8vek",
+      "thumbnail": "https://img.youtube.com/vi/26vS1Os8vek/mqdefault.jpg",
+      "datum": "2026-04-05T08:15:00+00:00",
+      "datum_de": "05.04.2026",
+      "quelle": "kanal"
+    },
+    {
       "kanal": "Sascha Taschan",
-      "titel": "Paperclip ist VERRÜCKT: Komplette Agents Teams auf Knopfdruck",
+      "titel": "Claude Code + Paperclip: Komplette Agents Teams auf Knopfdruck",
       "link": "https://www.youtube.com/watch?v=zMcGWvvehrs",
       "video_id": "zMcGWvvehrs",
       "thumbnail": "https://img.youtube.com/vi/zMcGWvvehrs/mqdefault.jpg",
@@ -141,16 +151,6 @@
       "datum": "2026-03-30T17:00:00+00:00",
       "datum_de": "30.03.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Felicia Simon",
-      "titel": "Claude AI wird dein Leben verändern 🤯 besser als ChatGPT?",
-      "link": "https://www.youtube.com/watch?v=dsLxBQiUKiI",
-      "video_id": "dsLxBQiUKiI",
-      "thumbnail": "https://img.youtube.com/vi/dsLxBQiUKiI/mqdefault.jpg",
-      "datum": "2026-03-30T14:45:00Z",
-      "datum_de": "30.03.2026",
-      "quelle": "suche"
     }
   ]
 }
