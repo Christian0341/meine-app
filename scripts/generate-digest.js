@@ -48,21 +48,21 @@ const PODCASTS = [
   {
     name: 'Doppelgänger Tech Talk',
     desc: 'Glöckler & Klöckner · 2x pro Woche',
-    rss: 'https://doppelgaenger.podigee.io/feed/mp3',
+    rss: 'https://feeds.megaphone.fm/doppelgaenger',
     spotify: 'https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3',
     itunesId: '1533580842'
   },
   {
     name: 'OMR Podcast',
     desc: 'Philipp Westermeyer · Tech & Business',
-    rss: 'https://omr.podigee.io/feed/mp3',
+    rss: 'https://omr.podigee.io/feed/aac',
     spotify: 'https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH',
     itunesId: '1072188364'
   },
   {
     name: 'Der KI-Podcast · ARD',
     desc: 'Dienstags · Gregor Schmalzried & Team',
-    rss: 'https://feeds.br.de/ki-podcast/feed.xml',
+    rss: 'https://www.br.de/radio/br24/der-ki-podcast-104.xml',
     spotify: 'https://open.spotify.com/show/7IYjMXCK7KUrNJyVCLUEjk',
     itunesId: '1490402609'
   },
@@ -83,7 +83,7 @@ const PODCASTS = [
   {
     name: 'F.A.Z. Künstliche Intelligenz',
     desc: 'KI in Wirtschaft & Unternehmen',
-    rss: 'https://fazpodcast.podigee.io/feed/mp3',
+    rss: 'https://kuenstlicheintelligenz.podigee.io/feed/mp3',
     spotify: 'https://open.spotify.com/show/2e0ib9yPTdELNdzzKojhKO',
     itunesId: '1523132877'
   }
