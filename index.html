@@ -131,6 +131,18 @@
     .link-desc { font-size: 11px; color: var(--text2); }
     .link-arr { font-size: 12px; color: var(--text3); flex-shrink: 0; }
 
+    /* ── PODCAST KARTEN ── */
+    .pod-list { padding: 0 20px; }
+    .pod-card { display: flex; gap: 10px; background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 8px 10px; margin-bottom: 8px; text-decoration: none; color: inherit; transition: background 0.15s; }
+    .pod-card:hover { background: var(--card2); }
+    .pod-cover { width: 52px; height: 52px; border-radius: 6px; object-fit: cover; flex-shrink: 0; background: var(--card2); }
+    .pod-cover-placeholder { width: 52px; height: 52px; border-radius: 6px; flex-shrink: 0; background: var(--card2); display: flex; align-items: center; justify-content: center; }
+    .pod-body { flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: center; }
+    .pod-show { font-size: 9px; color: var(--text2); margin-bottom: 3px; text-transform: uppercase; letter-spacing: 0.05em; }
+    .pod-episode { font-size: 11px; font-weight: 500; color: var(--text); line-height: 1.35; margin-bottom: 4px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+    .pod-meta { font-size: 9px; color: var(--text3); display: flex; justify-content: space-between; }
+    .pod-arr2 { font-size: 11px; color: var(--text3); flex-shrink: 0; align-self: center; margin-left: 6px; }
+
     /* ── AKTIEN LISTE ── */
     .stocks-list { padding: 16px 20px 0; display: flex; flex-direction: column; gap: 8px; }
     .stock-row { display: flex; align-items: center; padding: 13px 16px; border-radius: var(--r); background: var(--card); border: 1px solid var(--line); cursor: pointer; width: 100%; transition: background 0.15s, border-color 0.15s; animation: fadeUp 0.3s ease both; text-align: left; }
@@ -258,14 +270,10 @@
       <div class="skel"><div class="skel-l w8"></div><div class="skel-l w6"></div></div>
     </div>
     <div class="divider"><svg width="13" height="13" viewBox="0 0 14 14" fill="none" style="flex-shrink:0;opacity:0.55"><circle cx="7" cy="6" r="2.5" stroke="#7a808c" stroke-width="1.2"/><path d="M4 6C4 7.66 5.34 9 7 9s3-1.34 3-3" stroke="#7a808c" stroke-width="1.2" stroke-linecap="round"/><line x1="7" y1="9" x2="7" y2="12" stroke="#7a808c" stroke-width="1.2" stroke-linecap="round"/><line x1="5" y1="12" x2="9" y2="12" stroke="#7a808c" stroke-width="1.2" stroke-linecap="round"/></svg><span class="divider-label" style="color:#7a808c">Podcasts</span><div class="divider-line" style="background:rgba(255,255,255,0.1)"></div></div>
-    <div class="link-list">
-      <a class="link-card" href="https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp" target="_blank" rel="noopener"><div class="link-icon"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" style="flex-shrink:0;opacity:0.4"><circle cx="7" cy="6" r="2.5" stroke="#c8cdd6" stroke-width="1.2"/><path d="M4 6C4 7.66 5.34 9 7 9s3-1.34 3-3" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="7" y1="9" x2="7" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="5" y1="12" x2="9" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/></svg></div><div class="link-body"><div class="link-name">Heise KI-Update</div><div class="link-desc">Mo, Mi, Fr · mit The Decoder</div></div><div class="link-arr">↗</div></a>
-      <a class="link-card" href="https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3" target="_blank" rel="noopener"><div class="link-icon"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" style="flex-shrink:0;opacity:0.4"><circle cx="7" cy="6" r="2.5" stroke="#c8cdd6" stroke-width="1.2"/><path d="M4 6C4 7.66 5.34 9 7 9s3-1.34 3-3" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="7" y1="9" x2="7" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="5" y1="12" x2="9" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/></svg></div><div class="link-body"><div class="link-name">Doppelgänger Tech Talk</div><div class="link-desc">Glöckler & Klöckner · 2x pro Woche</div></div><div class="link-arr">↗</div></a>
-      <a class="link-card" href="https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH" target="_blank" rel="noopener"><div class="link-icon"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" style="flex-shrink:0;opacity:0.4"><circle cx="7" cy="6" r="2.5" stroke="#c8cdd6" stroke-width="1.2"/><path d="M4 6C4 7.66 5.34 9 7 9s3-1.34 3-3" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="7" y1="9" x2="7" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="5" y1="12" x2="9" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/></svg></div><div class="link-body"><div class="link-name">OMR Podcast</div><div class="link-desc">Philipp Westermeyer · Tech & Business</div></div><div class="link-arr">↗</div></a>
-      <a class="link-card" href="https://open.spotify.com/show/7IYjMXCK7KUrNJyVCLUEjk" target="_blank" rel="noopener"><div class="link-icon"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" style="flex-shrink:0;opacity:0.4"><circle cx="7" cy="6" r="2.5" stroke="#c8cdd6" stroke-width="1.2"/><path d="M4 6C4 7.66 5.34 9 7 9s3-1.34 3-3" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="7" y1="9" x2="7" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="5" y1="12" x2="9" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/></svg></div><div class="link-body"><div class="link-name">Der KI-Podcast · ARD</div><div class="link-desc">Dienstags · Gregor Schmalzried & Team</div></div><div class="link-arr">↗</div></a>
-      <a class="link-card" href="https://open.spotify.com/show/0rktSeF3DOjOyk2f0VPFwO" target="_blank" rel="noopener"><div class="link-icon"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" style="flex-shrink:0;opacity:0.4"><circle cx="7" cy="6" r="2.5" stroke="#c8cdd6" stroke-width="1.2"/><path d="M4 6C4 7.66 5.34 9 7 9s3-1.34 3-3" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="7" y1="9" x2="7" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="5" y1="12" x2="9" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/></svg></div><div class="link-body"><div class="link-name">KI verstehen · Deutschlandfunk</div><div class="link-desc">Wöchentlich · verständlich erklärt</div></div><div class="link-arr">↗</div></a>
-      <a class="link-card" href="https://open.spotify.com/show/6rmXt98jRHNziyG1ev3sAT" target="_blank" rel="noopener"><div class="link-icon"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" style="flex-shrink:0;opacity:0.4"><circle cx="7" cy="6" r="2.5" stroke="#c8cdd6" stroke-width="1.2"/><path d="M4 6C4 7.66 5.34 9 7 9s3-1.34 3-3" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="7" y1="9" x2="7" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="5" y1="12" x2="9" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/></svg></div><div class="link-body"><div class="link-name">Deep Minds · KI & Wissenschaft</div><div class="link-desc">Experten-Interviews · tiefgründig</div></div><div class="link-arr">↗</div></a>
-      <a class="link-card" href="https://open.spotify.com/show/2e0ib9yPTdELNdzzKojhKO" target="_blank" rel="noopener"><div class="link-icon"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" style="flex-shrink:0;opacity:0.4"><circle cx="7" cy="6" r="2.5" stroke="#c8cdd6" stroke-width="1.2"/><path d="M4 6C4 7.66 5.34 9 7 9s3-1.34 3-3" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="7" y1="9" x2="7" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/><line x1="5" y1="12" x2="9" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round"/></svg></div><div class="link-body"><div class="link-name">F.A.Z. Künstliche Intelligenz</div><div class="link-desc">KI in Wirtschaft & Unternehmen</div></div><div class="link-arr">↗</div></a>
+    <div class="pod-list" id="podcastList">
+      <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div></div>
+      <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div></div>
+      <div class="skel"><div class="skel-l w6"></div><div class="skel-l w8"></div></div>
     </div>
   </section>
 
@@ -377,6 +385,38 @@
           return;
         }
         nav.innerHTML=''; panels.innerHTML=''; nav.style.display='flex'; if($('newsDivider')) $('newsDivider').style.display='flex';
+
+        // Podcasts rendern
+        if (d.podcasts?.length) {
+          const pl = $('podcastList');
+          pl.innerHTML = '';
+          d.podcasts.forEach(p => {
+            const a = document.createElement('a');
+            a.className = 'pod-card';
+            a.href = esc(p.spotify || '#');
+            a.target = '_blank';
+            a.rel = 'noopener';
+            const coverHtml = p.cover
+              ? `<img class="pod-cover" src="${esc(p.cover)}" alt="" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
+              : '';
+            const placeholderStyle = p.cover ? 'display:none' : '';
+            a.innerHTML = `
+              ${coverHtml}
+              <div class="pod-cover-placeholder" style="${placeholderStyle}">
+                <svg width="20" height="20" viewBox="0 0 14 14" fill="none"><circle cx="7" cy="6" r="2.5" stroke="#c8cdd6" stroke-width="1.2" opacity="0.6"/><path d="M4 6C4 7.66 5.34 9 7 9s3-1.34 3-3" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round" opacity="0.4"/><line x1="7" y1="9" x2="7" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round" opacity="0.4"/><line x1="5" y1="12" x2="9" y2="12" stroke="#c8cdd6" stroke-width="1.2" stroke-linecap="round" opacity="0.4"/></svg>
+              </div>
+              <div class="pod-body">
+                <div class="pod-show">${esc(p.name)}</div>
+                <div class="pod-episode">${p.episode ? esc(p.episode) : esc(p.desc)}</div>
+                <div class="pod-meta">
+                  <span>${esc(p.datum || '')}</span>
+                  <span>${esc(p.dauer || '')}</span>
+                </div>
+              </div>
+              <div class="pod-arr2">↗</div>`;
+            pl.appendChild(a);
+          });
+        }
 
         d.kategorien.forEach((kat,ki)=>{
           const tab=document.createElement('button');
