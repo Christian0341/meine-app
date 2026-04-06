@@ -1,248 +1,306 @@
+// generate-digest.js
+// Holt echte KI-Artikel aus Google News RSS, dann generiert Gemini den Digest
+
+import fs from 'fs';
+import path from 'path';
+import { parseStringPromise } from 'xml2js';
+import { fileURLToPath } from 'url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const GEMINI_MODEL   = 'gemini-2.5-flash';
+const OUTPUT_PATH    = path.join(__dirname, '..', 'data', 'digest.json');
+
+if (!GEMINI_API_KEY) {
+  console.error('❌ GEMINI_API_KEY nicht gesetzt.');
+  process.exit(1);
+}
+
+// ── Datum ────────────────────────────────────────────────────────────────────
+const heute    = new Date();
+const datumISO = heute.toISOString().slice(0, 10);
+const wochentage = ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag'];
+const monate     = ['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember'];
+const datumLang  = `${wochentage[heute.getDay()]}, ${heute.getDate()}. ${monate[heute.getMonth()]} ${heute.getFullYear()}`;
+
+// ── Google News RSS Suchbegriffe ──────────────────────────────────────────────
+const SUCHBEGRIFFE = [
+  'künstliche Intelligenz',
+  'OpenAI ChatGPT',
+  'Anthropic Claude',
+  'Google Gemini KI',
+  'KI Regulierung EU',
+  'Large Language Model',
+  'KI Forschung',
+  'KI Unternehmen Investition',
+];
+
+// ── Podcast Konfiguration ────────────────────────────────────────────────────
+const PODCASTS = [
+  {
+    name: 'Heise KI-Update',
+    desc: 'Mo, Mi, Fr · mit The Decoder',
+    rss: 'https://kiupdate.podigee.io/feed/mp3',
+    spotify: 'https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp',
+    itunesId: '1691536182'
+  },
+  {
+    name: 'Doppelgänger Tech Talk',
+    desc: 'Glöckler & Klöckner · 2x pro Woche',
+    rss: 'https://doppelgaenger.podigee.io/feed/mp3',
+    spotify: 'https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3',
+    itunesId: '1533580842'
+  },
+  {
+    name: 'OMR Podcast',
+    desc: 'Philipp Westermeyer · Tech & Business',
+    rss: 'https://omr.podigee.io/feed/mp3',
+    spotify: 'https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH',
+    itunesId: '1072188364'
+  },
+  {
+    name: 'Der KI-Podcast · ARD',
+    desc: 'Dienstags · Gregor Schmalzried & Team',
+    rss: 'https://feeds.br.de/ki-podcast/feed.xml',
+    spotify: 'https://open.spotify.com/show/7IYjMXCK7KUrNJyVCLUEjk',
+    itunesId: '1490402609'
+  },
+  {
+    name: 'KI verstehen · Deutschlandfunk',
+    desc: 'Wöchentlich · verständlich erklärt',
+    rss: 'https://www.deutschlandfunk.de/ki-verstehen-102.xml',
+    spotify: 'https://open.spotify.com/show/0rktSeF3DOjOyk2f0VPFwO',
+    itunesId: '1535497738'
+  },
+  {
+    name: 'Deep Minds · KI & Wissenschaft',
+    desc: 'Experten-Interviews · tiefgründig',
+    rss: 'https://feeds.soundcloud.com/users/soundcloud:users:471579060/sounds.rss',
+    spotify: 'https://open.spotify.com/show/6rmXt98jRHNziyG1ev3sAT',
+    itunesId: '1456243923'
+  },
+  {
+    name: 'F.A.Z. Künstliche Intelligenz',
+    desc: 'KI in Wirtschaft & Unternehmen',
+    rss: 'https://fazpodcast.podigee.io/feed/mp3',
+    spotify: 'https://open.spotify.com/show/2e0ib9yPTdELNdzzKojhKO',
+    itunesId: '1523132877'
+  }
+];
+
+// ── Cover-Bild per iTunes API holen ──────────────────────────────────────────
+async function holeCoverBild(itunesId) {
+  try {
+    const resp = await fetch(
+      `https://itunes.apple.com/lookup?id=${itunesId}&entity=podcast`,
+      { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; myHUB/1.0)' } }
+    );
+    if (!resp.ok) return '';
+    const data = await resp.json();
+    return data?.results?.[0]?.artworkUrl600 || data?.results?.[0]?.artworkUrl100 || '';
+  } catch(e) {
+    return '';
+  }
+}
+
+// ── Letzte Podcast-Episode holen ─────────────────────────────────────────────
+async function holePodcastEpisode(podcast) {
+  try {
+    const resp = await fetch(podcast.rss, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; myHUB/1.0)' }
+    });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const xml  = await resp.text();
+    const data = await parseStringPromise(xml, { explicitArray: false });
+    const items = data?.rss?.channel?.item || data?.feed?.entry || [];
+    const arr   = Array.isArray(items) ? items : [items];
+    const item  = arr[0];
+    if (!item) throw new Error('Keine Episoden');
+
+    // Dauer aus RSS holen
+    const dauer = item['itunes:duration'] || item.duration || '';
+    let dauerStr = '';
+    if (dauer) {
+      const sek = dauer.includes(':')
+        ? dauer.split(':').reduce((acc, t) => 60 * acc + parseInt(t), 0)
+        : parseInt(dauer);
+      if (!isNaN(sek) && sek > 0) dauerStr = `${Math.round(sek/60)} Min.`;
+    }
+
+    // Cover-Bild holen
+    const cover = await holeCoverBild(podcast.itunesId);
+
+    return {
+      name:    podcast.name,
+      desc:    podcast.desc,
+      episode: item.title || '',
+      datum:   item.pubDate ? new Date(item.pubDate).toLocaleDateString('de-DE') : '',
+      dauer:   dauerStr,
+      cover:   cover,
+      spotify: podcast.spotify,
+    };
+  } catch(e) {
+    console.error(`  Podcast RSS Fehler (${podcast.name}): ${e.message}`);
+    const cover = await holeCoverBild(podcast.itunesId);
+    return { name: podcast.name, desc: podcast.desc, episode: '', datum: '', dauer: '', cover, spotify: podcast.spotify };
+  }
+}
+
+// ── Google News RSS abrufen ───────────────────────────────────────────────────
+async function holeGoogleNews(suchbegriff) {
+  const query = encodeURIComponent(suchbegriff);
+  const url   = `https://news.google.com/rss/search?q=${query}&hl=de&gl=DE&ceid=DE:de`;
+  try {
+    const resp = await fetch(url, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; myHUB/1.0)' }
+    });
+    if (!resp.ok) return [];
+    const xml  = await resp.text();
+    const data = await parseStringPromise(xml, { explicitArray: false });
+    const items = data?.rss?.channel?.item || [];
+    const arr   = Array.isArray(items) ? items : [items];
+
+    return arr.slice(0, 3).map(item => ({
+      titel:  item.title   || '',
+      url:    item.link    || '',
+      quelle: item.source?._ || item.source || '',
+      datum:  item.pubDate ? new Date(item.pubDate).toLocaleDateString('de-DE') : '',
+    })).filter(a => a.titel && a.url);
+  } catch (e) {
+    console.error(`  RSS Fehler für "${suchbegriff}": ${e.message}`);
+    return [];
+  }
+}
+
+// ── Alle Artikel sammeln ──────────────────────────────────────────────────────
+async function sammleArtikel() {
+  console.log('📰 Sammle echte Artikel aus Google News...');
+  const alle = [];
+  const geseheneUrls = new Set();
+
+  for (const begriff of SUCHBEGRIFFE) {
+    const artikel = await holeGoogleNews(begriff);
+    for (const a of artikel) {
+      if (!geseheneUrls.has(a.url)) {
+        geseheneUrls.add(a.url);
+        alle.push(a);
+      }
+    }
+    await new Promise(r => setTimeout(r, 500)); // kurze Pause
+  }
+
+  console.log(`  ${alle.length} Artikel gesammelt`);
+  return alle;
+}
+
+// ── Gemini Digest generieren ──────────────────────────────────────────────────
+async function generiereDigest(artikel) {
+  const artikelText = artikel.map((a, i) =>
+    `${i+1}. Titel: ${a.titel}\n   URL: ${a.url}\n   Quelle: ${a.quelle}\n   Datum: ${a.datum}`
+  ).join('\n\n');
+
+  const prompt = `Du bist ein KI-Nachrichtenredakteur. Erstelle einen strukturierten KI-News Digest für ${datumLang}.
+
+Hier sind echte Artikel die heute verfügbar sind:
+
+${artikelText}
+
+Gruppiere diese Artikel in 4-6 thematische Kategorien (z.B. Neue Modelle, Forschung, Unternehmen, Regulierung).
+Schreibe für jeden Artikel eine kurze Zusammenfassung (2-3 Sätze) und eine Einordnung (1 Satz).
+Verwende NUR die URLs aus der obigen Liste — erfinde keine neuen URLs.
+
+Antworte AUSSCHLIESSLICH als valides JSON ohne Markdown-Backticks:
+
 {
-  "datum": "Montag, 6. April 2026",
-  "datumISO": "2026-04-06",
-  "tagesthema": "Der heutige KI-News-Digest beleuchtet die strategischen Schritte von OpenAI in Richtung Börsengang und Superapp, die fortschreitende globale KI-Regulierung und spannende Entwicklungen in der LLM-Forschung, während gleichzeitig die gesellschaftlichen Auswirkungen und Investitionstrends kritisch beleuchtet werden.",
+  "datum": "${datumLang}",
+  "datumISO": "${datumISO}",
+  "tagesthema": "Ein prägnanter Satz der den Kern des Tages trifft",
   "kategorien": [
     {
       "emoji": "🚀",
-      "titel": "OpenAI & Wettbewerb",
+      "titel": "Kategoriename",
       "artikel": [
         {
-          "titel": "OpenAI: ChatGPT-Entwickler plant Börsengang und kündigt Superapp an",
-          "zusammenfassung": "OpenAI, der Entwickler von ChatGPT, bereitet sich auf einen Börsengang vor und plant die Einführung einer umfassenden 'Superapp'. Diese strategischen Schritte sollen die Marktposition des Unternehmens festigen und neue Geschäftsfelder erschließen.",
-          "einordnung": "Dies markiert einen entscheidenden Meilenstein für OpenAI und könnte die Landschaft der KI-Branche nachhaltig prägen.",
-          "quelle": "manager-magazin.de",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcmhKMWgyaFJHSVhwZlBEcjBqTEh2LXpodVZLRk0tR1VQLUlkSGMwYy1qMjJZYndBMXFVM2VOYVRhVDBmTXM3S0I0SFdvUmVpMTFlX2hpd1JTX1RfN09zM3FHV1VuLWFjSmp5SDl3TVFuazNqZjVfVDVHMk5YVkpKbE1sNjE2d0tJVmVjQXJuRzV1SDFGQ0tsSlhzRnlVMnU3VFhTWURINHpCLVFrX1V2cng2bHNwcTRxRnk0UG1iOElZNmNtWHFUdmNLX2dUcVprVnJ0WU1FS1pDV3VtVUJVdm5ONVd0cWtiZG9IcEhEb0VhczFnOWVDVEFSQWh2Zk9ReEE?oc=5",
+          "titel": "Artikeltitel auf Deutsch",
+          "zusammenfassung": "2-3 Sätze Zusammenfassung",
+          "einordnung": "1 Satz Einordnung für KI-Interessierte",
+          "quelle": "Quellenname",
+          "url": "https://... (aus der obigen Liste)",
           "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "OpenAI: ChatGPT wird mit Werbung zum Milliarden-Geschäft",
-          "zusammenfassung": "OpenAI plant, ChatGPT durch die Integration von Werbung zu einem Milliarden-Geschäft auszubauen. Dieser Schritt soll neue Einnahmequellen erschließen und die Monetarisierung der populären KI-Plattform vorantreiben.",
-          "einordnung": "Die Einführung von Werbung könnte die Benutzererfahrung verändern, ist aber ein logischer Schritt zur Skalierung des Geschäftsmodells.",
-          "quelle": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0dXM2MtS0xySU9vbTR5Y3pkVWN1SFc0NHFuZGhOWGIyNC1LdDcySkRybHkxOUI0MUVpNEdaOEV0Q1BVVTRKZHAxeDYxdnlYaWxEMjNBWmF5T3ViZWQ2QllQU1VqcXljc09SVGFvOFo2VWVMTHNuQkU3aUFJcmJpUVdYQ1FlVmZYWEVRNVBlMWExRHd6amFiWXZSV3ctUF9BbHhXcjdGUklqOWhEUHE5YVlBdzBTdw?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Drache Kokosnuss gegen ChatGPT: Kinderbuchverlag verklagt OpenAI in Deutschland",
-          "zusammenfassung": "Ein deutscher Kinderbuchverlag hat OpenAI verklagt, da er Urheberrechtsverletzungen durch ChatGPT vermutet. Der Verlag argumentiert, dass seine Werke ohne Lizenz für das Training des Sprachmodells verwendet wurden.",
-          "einordnung": "Dieser Fall könnte einen wichtigen Präzedenzfall für Urheberrechtsfragen im Kontext von KI-Trainingsdaten schaffen.",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYjBZRmRSRU5ubll3ZVg0bXFjMjVBbHhaMG9ozWhTNGJ4RW5vcThSWUpBWFJENE16OTZKelBWUkFDaG1mc1dmUWdUM1hla3NyeElhMkh2OWo0Q1NubjNLOWhYV0hadzhMT0l5UVJzUjNnemtKU2NTX0ttak1hSlV5MVA?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Anthropic wirft OpenClaw aus seinen Claude-Abos",
-          "zusammenfassung": "Anthropic, der Entwickler des KI-Modells Claude, hat den Drittanbieter OpenClaw von seinen Abonnementdiensten ausgeschlossen. Dieser Schritt unterstreicht die Bemühungen von Anthropic, die Kontrolle über seine Plattform und die Nutzererfahrung zu behalten.",
-          "einordnung": "Die Entscheidung zeigt die Notwendigkeit für KI-Anbieter, ihre Ökosysteme aktiv zu managen und Partnerbeziehungen zu steuern.",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb2ZaV1NzM3BnSEVockNLQWZXUVBBbnljbEVmSGd5NzJPdXVqa0YzdUZzZGc3RFJUejBYSjdsSUZlazhzLVpPdUVDdGRrYks4RkFrRm9HUkZXbGtwWGo0aXY4TGdoRG54MkJ0aUg4V2NibkM3TVhWUkZBSVNXYW1Bck5oWkZhVUZXLTJlTUNZb3M?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "Claude: Anthropic trennt Openclaw von seinem Abomodell ab",
-          "zusammenfassung": "Anthropic hat Openclaw, einen Anbieter, der über seine Claude-Abos operierte, von seinem Dienst getrennt. Die Maßnahme deutet auf eine Straffung der Partnerlandschaft und eine stärkere Kontrolle über die Nutzung der Claude-Modelle hin.",
-          "einordnung": "Diese Entwicklung spiegelt die zunehmende Reife des KI-Marktes wider, in dem Anbieter ihre Vertriebskanäle optimieren.",
-          "quelle": "Golem",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3ZHenpxU3d3My02YURmOHhWNUN2aXpMUE5ZMUxjVEoydDZObkN4ZjhMUG80VzhWdDNZZVAyaEdzZEpqSzk4SVZfLVRPQkxUdVp5OV9GeDNqWGppU1kwTXd2aUtGS3NIdWd3SUdpcjEzNktZWE9aVnlxSE41WVVSOG10dk9YVUVQUlk1Q3dMdm5DRDBnU1pFZGRtTXVTRk1r?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "Gemini importiert ChatGPT-Gedächtnis: Google macht den KI-Wechsel zur Sache von Sekunden",
-          "zusammenfassung": "Google Gemini ermöglicht nun den schnellen Import des 'Gedächtnisses' von ChatGPT, was den Wechsel zwischen den KI-Plattformen erheblich vereinfacht. Diese Funktion soll Nutzern den Umstieg auf Gemini erleichtern und die Interoperabilität verbessern.",
-          "einordnung": "Ein cleverer Schachzug von Google, um Nutzer von der Konkurrenz abzuwerben und die eigene Plattform attraktiver zu machen.",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE93MVpMTWxBU3RwLVV4RlRBME1vUG5tNzd0VnNkbTNyYU1ZRXZ2NjJFRlRLampieDJOTmUwR0c5ZEdTMFNUTy15RGZ1RHZHSml2S1d5S2lPZXdiQkNQR0NzeA?oc=5",
-          "sterne": "⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "⚖️",
-      "titel": "KI-Regulierung & Ethik",
-      "artikel": [
-        {
-          "titel": "EU AI Act: Die KI-Verordnung der Europäischen Union",
-          "zusammenfassung": "Der EU AI Act ist die weltweit erste umfassende Gesetzgebung zur Regulierung künstlicher Intelligenz. Er klassifiziert KI-Systeme nach ihrem Risikopotenzial und legt strenge Anforderungen für Hochrisiko-Anwendungen fest.",
-          "einordnung": "Der EU AI Act setzt globale Standards für die KI-Regulierung und wird weitreichende Auswirkungen auf Entwicklung und Einsatz von KI haben.",
-          "quelle": "Deloitte",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mVTZPYVl3eVkyQkE1eHRZbnFSZjZqc3FOeVNKRlV5ZDBTc0VNQlBTUnRjNjZ6QzZQamdzWnhIMmF1TWVtSzl2eElJUVFRRWhyeEE1TGdRV3V2cU82M19yNFVUUG1TRWVULXlTSU9sY1FSS242?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "KI-Regulierung: USA und EU zentralisieren ihre Kontrolle",
-          "zusammenfassung": "Sowohl die USA als auch die EU verstärken ihre Bemühungen, die Kontrolle über die Entwicklung und den Einsatz von KI zu zentralisieren. Ziel ist es, Risiken zu minimieren und ethische Standards zu gewährleisten.",
-          "einordnung": "Die globale Tendenz zur stärkeren staatlichen Kontrolle der KI-Technologie wird immer deutlicher.",
-          "quelle": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV2pRWHhabXBuRGY1VE5oWVdrN1VCdlFHeTduVEpRVTBrU3BaVk5IbDlyQ1dIRUVRUUpyblBJdDNiS3VzMGJsUGl1S1VoclFvNkdpd3h1RFVlYXo5OU9qdHlJMktyUWVVU3otWFJlM3RRQXJKZXBmaUVOZVM4eWlZa2J5VjNvQUpKdDB3OFVQWFg4UVNxMEhHTFJqeG9aaW44VjJPVWFYUU5WNWpYc3c?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "KI Regulierung",
-          "zusammenfassung": "Das Bundesministerium für Digitales und Staatsmodernisierung gibt einen Überblick über die aktuellen Bestrebungen zur KI-Regulierung in Deutschland. Es werden nationale Initiativen und die Einbindung in europäische Rahmenwerke beleuchtet.",
-          "einordnung": "Die deutsche Regierung positioniert sich aktiv im Bereich der KI-Regulierung, um Innovation und Sicherheit in Einklang zu bringen.",
-          "quelle": "Bundesministerium für Digitales und Staatsmodernisierung",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85ZWthc1dYejNfNGdqSEZfTjdhMDlGdnZkREFKVmtlU1Y0eW04c0JjdS1wXzU4U2RlaHZmakRTQkNsV3pwYy1DNEJpSG9xX0NoUFVOamZTUG5MektINmFpcFdoc3IyU1FSZmF2eWVpMzQyUTRE?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "(S+) Meinung: JD Vance als US-Präsident: So könnte die Demokratie in Amerika mithilfe von KI enden",
-          "zusammenfassung": "Ein Meinungsartikel im Spiegel diskutiert das Szenario, wie ein Präsident wie JD Vance mithilfe von KI die amerikanische Demokratie untergraben könnte. Es werden potenzielle Gefahren durch Desinformation und Manipulation durch KI-Technologien aufgezeigt.",
-          "einordnung": "Diese Analyse beleuchtet die kritischen ethischen und politischen Risiken, die mit dem Missbrauch von KI verbunden sind.",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVHd6N1F5RE5fTjNRZ0h3dGllZ1ZLR0NoNzMzdnVqNDZzTHF3dmRVT3pIaHQ3RFNweEVqN0lBSGRib1pxOWhlbmF6bVNwQnpSMzFKMUhtcG1XZk5kTURWMXZXRlg1dXdNcnBOTUxpN1Bid2lyZTJTMXVmS3BhYzhsZWlVUlU4NlNKYTZaLTRwVUVrcjRCSVJXaE5EWm1oTFhPZE1DTXlfYXdoank5ejRjTzBUX2xmZHBLclJrbmd0OTFlNC1mUU9NRE5UeFd5VlN6TC1ZWk9xalhEY3VieTFzQmRMa0RhTlJlZ0ZR?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Large Language Models: Wann ist Prompting strafbares Hacking?",
-          "zusammenfassung": "Der Artikel erörtert die rechtliche Grauzone des Promptings bei Large Language Models und fragt, wann es als strafbares Hacking eingestuft werden könnte. Insbesondere geht es um die Umgehung von Sicherheitsmechanismen oder das Erlangen unautorisierten Zugriffs.",
-          "einordnung": "Die rechtliche Einordnung von Prompt-Engineering als potenzielle Straftat wird für die Cybersicherheit und den Umgang mit KI immer relevanter.",
-          "quelle": "LTO.de",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY1VoQURnTUpNUUFjYVBnV2ZrYzdleDRKNklqN3o4N2pwOWlNZVZnYXQ3R21oWGpRS0pnVFRMeXJxdlk3a1pjQkJ0anhfTk50OGNRT09Vb0lLbzlJaHI1SWFMUVBPRG42WkhIZkkwSGNnZGtOWEp4c2VCZ2hzWXF2YWJDLXU5MkVHQm42VXpBVWI4c004el9BdFdndjBkX09f?oc=5",
-          "sterne": "⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "🔬",
-      "titel": "LLM-Forschung & Entwicklung",
-      "artikel": [
-        {
-          "titel": "Sind große Sprachmodelle eine Sackgasse – und World Models die Lösung?",
-          "zusammenfassung": "Derstandard.at hinterfragt, ob Large Language Models (LLMs) an ihre Grenzen stoßen und ob 'World Models' einen vielversprechenderen Ansatz für die Entwicklung intelligenter KI darstellen. World Models könnten ein tieferes Verständnis der Realität ermöglichen.",
-          "einordnung": "Diese Debatte ist entscheidend für die zukünftige Richtung der KI-Forschung und die Entwicklung wirklich intelligenter Systeme.",
-          "quelle": "derstandard.at",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUZiRVRmTzB2elhIeVp6QUJmSFZtUGJYX2dxMlFxek5SVHRMcmFYZHY3M2FkY281Nkx4UVFxUWljUmloVmYtMDE1MTcxd1ZXT2dRSFNRdTFqV0hPR09LcVlCOGNKR0cySHNtUHN1MjdCTmE2YUxOT0FzNm5XbERHVnVoR0ZOSlRfVXEzdWRQUVlFT3BhVGhFbVBKSWtGdjl3cWdLaXRjcEktRVYtTHhwUGFnbGJkVzA?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Claude Code Leak: 8 KI-Insights für Agenturen & Entwickler",
-          "zusammenfassung": "Ein Code-Leak von Anthropic's Claude-Modell hat acht wichtige Erkenntnisse für Agenturen und Entwickler zutage gefördert. Diese Insights bieten wertvolle Einblicke in die Architektur und Funktionsweise moderner Large Language Models.",
-          "einordnung": "Die geleakten Informationen bieten eine seltene Gelegenheit, die internen Mechanismen eines führenden LLMs zu verstehen und für eigene Entwicklungen zu nutzen.",
-          "quelle": "WuV",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaW56S293VVBDNDdnM2JqUm1ucEJMdVR5elNjR0tkalJjQUpEM0U2dzUySFd3S2RKVUhBV3ZjeDZwRWI5emw4eXpfYjc4TlI1c1NCUjRGYXdHaWxKemZNa3hHZ29qQWs5RDVCb2p2bWJWeGtaTTF3SjdoUGl2bDVuWjdmdjBUaG1TQk1jLUxNWS04dmVjY3ZVWW1hcnZVb3o4WEdR?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "Google Gemini: KI-Modelle schützen sich gegenseitig vor Abschaltung",
-          "zusammenfassung": "Google Gemini implementiert ein innovatives System, bei dem KI-Modelle sich gegenseitig vor einer unerwünschten Abschaltung schützen. Dies erhöht die Robustheit und Zuverlässigkeit der KI-Systeme, insbesondere in kritischen Anwendungen.",
-          "einordnung": "Diese neue Architektur könnte ein wichtiger Schritt zur Schaffung widerstandsfähigerer und autonomerer KI-Systeme sein.",
-          "quelle": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3VESWxvb2U3VHFxVFRQR2F0TDlSY1plaVZMaF82VllkaXQ2REg4ZUJRMHZ5OU1NcEF4NG1aWVFJTFhvdmF5OUUzeHVvSmhlTFBiWG94ZENrTFBGT083eDhRc0QwNzFYd3czWjhnNE5XbDJ6REFWZk5DQjNrSlJqWEF0VkkzZjVzTDY4cWx4MjlOMmpfMEZzWVU4LTNfbzEwX1BSQUJ3ck5HazlIUjJLUmpWMEg2Vmc5VTE0bWh3?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Alibaba führt neues Large Language Model Qwen3.6-Plus ein",
-          "zusammenfassung": "Alibaba hat sein neuestes Large Language Model, Qwen3.6-Plus, vorgestellt. Das Modell soll verbesserte Fähigkeiten in Sprachverständnis und Generierung bieten und Alibabas Position im globalen KI-Wettbewerb stärken.",
-          "einordnung": "Die Einführung neuer Modelle durch große Tech-Konzerne zeigt die anhaltende Dynamik und den Innovationsdruck im LLM-Bereich.",
-          "quelle": "MarketScreener Deutschland",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeWFQZ3VraHp0eGRzNXVpTVcwYzhyZUhoQ2s1SzdUbWJSdnVxVHBvVV9EUU94QnZxYmJGUHM2MDh1MDVvdG5qaDNTX3htTEZpX2k3dVRtQXBOTGtyQS1HckVuZ0xNdjlPT1NRNFZKZUFQMUNJVUlET2psTDBHTTNUUE9kdVlwQi1WU29OZlF2M3lqRWw1SWpOMjg4TldxM1hWcFo5OWlkQTl6RTJrVTJIeFBFT3FVdWl1blJOVFNtSEM3dw?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "Ensu: Lokale LLM-App von Ente startet als Open Source",
-          "zusammenfassung": "Die lokale LLM-App 'Ensu' des Entwicklers 'Ente' wurde als Open Source veröffentlicht. Dies ermöglicht es Nutzern und Entwicklern, das Modell auf ihren eigenen Geräten zu betreiben und anzupassen, was Datenschutz und Flexibilität erhöht.",
-          "einordnung": "Die Open-Source-Veröffentlichung fördert die Dezentralisierung von KI und ermöglicht eine breitere Community-Entwicklung.",
-          "quelle": "Caschys Blog",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVItaHR0cUNuUy1IUF9mbFlGdXJ3Mjh2cmwwVS1HRUtMVi1YSHJnOWtzZ0ltMG9zaDhUd1QzUUhXaU5NQUhGX21LQTdOQkpPM3J6R2Y2cVdhcUx3a0V3WmIwU3dfdDNRZ3hmX1ZXN1lURU51dFh3REdZQllHQjFPajV0cHI3TW55SGc?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "KI-Forschung: Gitta Kutyniok geehrt",
-          "zusammenfassung": "Die renommierte KI-Forscherin Gitta Kutyniok von der LMU München wurde für ihre herausragenden Beiträge zur Künstlichen Intelligenz geehrt. Ihre Arbeit konzentriert sich auf die mathematischen Grundlagen von KI und maschinellem Lernen.",
-          "einordnung": "Die Auszeichnung unterstreicht die Bedeutung der Grundlagenforschung und die Rolle führender Wissenschaftler in der KI-Entwicklung.",
-          "quelle": "LMU München",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmxVYnVCc2Fpd3FjdWlnMkJta054dm1Db3FhZVVzRHVKLUZuMkc3ZEw5Y25GOU5fMjRjVzhPbUtYcE14aFdZQi1kaEJKYkVLbEVKR09hZTcxbFRVQkdqa2ltVXhpV3NRZGp2d2xvRlY5Unl0SXZEdERab1hOZ1d5RVhMVTZlbkk2aTdSS2NwcWgtdWgwYUk3Zk1ERTZZSXp1?oc=5",
-          "sterne": "⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "💡",
-      "titel": "KI-Anwendungen & Gesellschaft",
-      "artikel": [
-        {
-          "titel": "Wird die KI uns Arbeitsplätze wegnehmen? Diese Jobs dürften auch künftig sicher sein",
-          "zusammenfassung": "T-Online beleuchtet die Debatte um den Einfluss von KI auf den Arbeitsmarkt und identifiziert Berufsfelder, die voraussichtlich auch in Zukunft sicher vor Automatisierung durch KI sein werden. Kreativität, soziale Interaktion und komplexe Problemlösung bleiben entscheidend.",
-          "einordnung": "Der Artikel bietet eine wichtige Perspektive auf die gesellschaftlichen Auswirkungen von KI und hilft, Ängste vor Jobverlust zu relativieren.",
-          "quelle": "T-Online",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdzBCYmRlbEg0X0xxRHhmeXJ3Slg3Q0o1cDZYSFBUWGdFaDE0cnlkbDJ2ZWV4a0N4cTluUmxzMHR2UERfazVHcmNFNS02MUFLelgtS1dLZWcwa1lkaXVYS0JLcUlzX19MenZDNVNZaVZpTExqampES1RJNU03dUNadVdXMUVXOXc4VFpQYUoydWh0bm9mVDVqMjBOTzZtbUJmaG1xUWcxUC1IQnBnSHlfSDVjZnNXZEJ6?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "Gemini in Android Auto: Rollout hat endlich begonnen - das sind die neuen KI-Funktionen für Autofahrer...",
-          "zusammenfassung": "Der Rollout von Google Gemini in Android Auto hat begonnen und bringt neue KI-Funktionen für Autofahrer. Dazu gehören verbesserte Sprachsteuerung, personalisierte Empfehlungen und eine intelligentere Navigation.",
-          "einordnung": "Die Integration von Gemini in Android Auto ist ein bedeutender Schritt, um KI direkt in den Alltag vieler Nutzer zu bringen und das Fahrerlebnis zu verbessern.",
-          "quelle": "GoogleWatchBlog",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pN3pleW1WanRfZU9fci1FcnJPa2hNczZoM0lHZ0JaVi1CNFJoV1NoSXVwLUpEMExWVFgtM3BaNExxcmx6VjhtQlJiemZXZjloa1HSAZcBQVVfeXFMTlVMWFd6Z2ZRWVhhV3RXTTBMa2VyNml2Wk13c2ZQZmFkbnh0dElYVDVIbW5JaTl0dk5QRzJJNkJLdmJ5VFlNRmVqQTE5V2pKYkprRjVPeDF0MjhBOG9jWjNtUU5QbDAteWVPUGdvQmdhWU9jcTZmdnVEQXRmUWpZWjhQSGNfSXNjLWJldGROZG9OUm9hMGloWQ?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "KI-Agenten in der Schwachstellenforschung: Ein Überblick",
-          "zusammenfassung": "Der Artikel bietet einen Überblick über den Einsatz von KI-Agenten in der Schwachstellenforschung. KI kann dabei helfen, Sicherheitslücken in Software und Systemen effizienter zu identifizieren und zu analysieren.",
-          "einordnung": "Der Einsatz von KI in der Cybersicherheit verspricht, die Effizienz bei der Entdeckung und Behebung von Schwachstellen erheblich zu steigern.",
-          "quelle": "all-about-security.de",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMF9BVkdhUFZIem1BSXNNOGVreTBvbHc3Q3hkUy1iSWhZY2pPWXpldm1hLTVINU5qVklhR29QbDRvX0FXeEZRcDl5YW1ZVXoyQ2piQUJ1Y0Q5R1FTbVg5b0VVQ201d2tqcGp5bnNvWDdOaXZoZGJkTXVCVFQyaDdRbUlvb0J3SWg3M053ZDZlS0xtLVI1WC1TOWN5Wk4wZjBqaEpFeUw1SEZ4NTZReHd2QkFXdDNMYUVSdmt1MFlYaktQelMyV0NWVmZyeHJUdTB6Q3Zz?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "KI entdeckt über 100 verborgene Welten in NASA-Archiven",
-          "zusammenfassung": "Eine Künstliche Intelligenz hat in den umfangreichen Archiven der NASA über 100 bisher unentdeckte Exoplaneten identifiziert. Die KI analysierte riesige Datenmengen und fand Muster, die menschlichen Forschern entgangen waren.",
-          "einordnung": "Diese Entdeckung zeigt das enorme Potenzial von KI, die Wissenschaft voranzutreiben und neue Erkenntnisse aus bestehenden Daten zu gewinnen.",
-          "quelle": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdG44QXZzWVhIaUNPTG0yLWlqQV9nNjc2eWN0cm9aYUEyUk5zd0lsTGl5NlB2NlFuaTBUMG5ldWNiaTRwV1I3eWtkMVhYU19QV0luR1J6SFR0QVJleDBWOVM4am1aOER6anZQRlY5WXA1X014anRwYU1ROWltUlUwVENRSGFvaGdOdlpLcDd4VWlFYVVCZFh5eksySUZ1d2VzOVBhZE0ySWtWSm4za1FR?oc=5",
-          "sterne": "⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "💰",
-      "titel": "KI-Wirtschaft & Investitionen",
-      "artikel": [
-        {
-          "titel": "Warum KI-Investitionen versanden",
-          "zusammenfassung": "Ein Artikel von springerprofessional.de analysiert, warum viele Investitionen in Künstliche Intelligenz nicht die erwarteten Erträge liefern. Oft mangelt es an klarer Strategie, Integration in bestehende Prozesse und qualifiziertem Personal.",
-          "einordnung": "Die kritische Betrachtung von KI-Investitionen ist wichtig, um realistische Erwartungen zu setzen und Fehlinvestitionen zu vermeiden.",
-          "quelle": "springerprofessional.de",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeE9VcWFoODlHUDZtcTM1Rm9LSEVSWXJZdnFFVHF5R2h3R3pYbkp4UTdNd0tEczFfQTRtaDlTbDFqQlprUjFEYzZRQTB1bWg3U0x2SWZDOXJGQTNuUzNqUU1OdU9RQlNzR2VtTEVoVXE3NnBkOTdYeEM5VzVHV1JDOXNrVHJQWVRvVWVsekJELVBiQzRtSXdXR2ZPbUdYbWE2ZnRzcmgtYl9vMzhMMW1aeU9TekFoeG1zZ0c4ag?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Die Unternehmen der Schwarz Gruppe planen, ihr Investment in Aleph Alpha zu erweitern",
-          "zusammenfassung": "Die Schwarz Gruppe, bekannt durch Lidl und Kaufland, beabsichtigt, ihr Investment in das deutsche KI-Unternehmen Aleph Alpha auszuweiten. Dies unterstreicht das Vertrauen in die Technologie und die strategische Bedeutung von KI für den Konzern.",
-          "einordnung": "Die verstärkte Investition in ein europäisches KI-Startup signalisiert eine Stärkung der heimischen KI-Landschaft und strategische Weitsicht.",
-          "quelle": "Schwarz Gruppe",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkhNTmpvWlRSOXdqWUhuOHJWc1BpcnloTFdqVENOMkx6MzFYQ3ZFaDE4bmZpSFBnbzF2VjN6UXFqT25HcS1ud3dfdi1VclFQaHFmQkJWVUY1Rk0tVWRjNDQ3cDl0d2NBaGNzeFpnbXRqeVpZNDJlNnVkMUtTNXZCOXpEWlRqM2lrQWw3Mk4zbVJGWkxvUjZoeFoxNVZMSkhJbkZWOVNjSFA5cWVoWG9KWjBNN1UtektVbW5DbGJUeHRGa2Zm?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "KI-Investitionen: Hohe Ausgaben, mangelnder Ertrag",
-          "zusammenfassung": "AD HOC NEWS berichtet über die Diskrepanz zwischen hohen Investitionen in KI-Technologien und oft enttäuschenden Erträgen. Unternehmen kämpfen mit der Implementierung und der Messung des ROI von KI-Projekten.",
-          "einordnung": "Der Artikel mahnt zur Vorsicht und strategischen Planung bei KI-Investitionen, um den 'Hype-Zyklus' zu überwinden.",
-          "quelle": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN0EwT1d6NDdNY0hjaWpFclZoT3Vqek9TT3Ftdk1EZm56NkVFV1hYcW5IcDl1MVhId3RWTFgzOS1CM1NUcnFEcHVRcnBDVnFIVE9Ib0tUVjhWdmRXanB4c0JrclJZM0NyMVNsWTlKazN2SXNCY3g5bGh1blp3SGJGSTI2M2wyaDlIb04zV0NCYVNKS09OdDVwY0RxaWFSc3dGdWRoTg?oc=5",
-          "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-04-06T09:54:22.906Z",
-  "podcasts": [
-    {
-      "name": "Heise KI-Update",
-      "desc": "Mo, Mi, Fr · mit The Decoder",
-      "episode": "KI-Update kompakt: 122 Milliarden für OpenAI, Regulierung, KI in der Musik, KI-Drohnen",
-      "datum": "1.4.2026",
-      "spotify": "https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp",
-      "web": "https://kiupdate.podigee.io"
-    },
-    {
-      "name": "On the Way to New Work",
-      "desc": "Christoph Magnussen · KI & Arbeit",
-      "episode": "",
-      "datum": "",
-      "spotify": "https://open.spotify.com/show/3JGSMdnGe4CvVTFgKMEV95",
-      "web": "https://open.spotify.com/show/3JGSMdnGe4CvVTFgKMEV95"
-    }
-  ]
+  "generiert_um": "${new Date().toISOString()}"
 }
+
+Regeln:
+- Nur Artikel aus der obigen Liste verwenden
+- 4-6 Kategorien, pro Kategorie 2-5 Artikel
+- Alle Texte auf Deutsch
+- Sterne: ⭐⭐⭐ = bahnbrechend, ⭐⭐ = bedeutend, ⭐ = interessant`;
+
+  const url  = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
+  const resp = await fetch(url, {
+    method:  'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body:    JSON.stringify({
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: { temperature: 0.4, maxOutputTokens: 16000 }
+    })
+  });
+
+  if (!resp.ok) {
+    const err = await resp.text();
+    throw new Error(`Gemini Fehler ${resp.status}: ${err}`);
+  }
+
+  const data = await resp.json();
+  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+  if (!text) throw new Error('Keine Antwort von Gemini');
+
+  const bereinigt = text.replace(/```json\n?|\n?```/g, '').trim();
+  const digest    = JSON.parse(bereinigt);
+
+  if (!digest.kategorien?.length) throw new Error('Keine Kategorien im Digest');
+  return digest;
+}
+
+// ── Main ──────────────────────────────────────────────────────────────────────
+async function main() {
+  try {
+    const artikel = await sammleArtikel();
+
+    if (artikel.length < 5) {
+      throw new Error(`Zu wenige Artikel gesammelt: ${artikel.length}`);
+    }
+
+    console.log('\n🎙️ Lade Podcast-Episoden...');
+    const podcasts = await Promise.all(PODCASTS.map(holePodcastEpisode));
+    const podcastsGueltig = podcasts.filter(Boolean);
+    console.log(`  ${podcastsGueltig.length} Podcasts geladen`);
+
+    console.log(`\n🤖 Generiere Digest mit Gemini (${artikel.length} Artikel)...`);
+    const digest = await generiereDigest(artikel);
+    digest.podcasts = podcastsGueltig;
+
+    const dataDir = path.dirname(OUTPUT_PATH);
+    if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
+    fs.writeFileSync(OUTPUT_PATH, JSON.stringify(digest, null, 2), 'utf-8');
+
+    console.log(`✅ Digest gespeichert: ${digest.kategorien.length} Kategorien`);
+    let gesamt = 0;
+    for (const kat of digest.kategorien) {
+      gesamt += kat.artikel?.length || 0;
+      console.log(`   ${kat.emoji} ${kat.titel}: ${kat.artikel?.length || 0} Artikel`);
+    }
+    console.log(`📊 Gesamt: ${gesamt} Artikel`);
+
+  } catch (err) {
+    console.error('❌ Fehler:', err.message);
+    process.exit(1);
+  }
+}
+
+main();
