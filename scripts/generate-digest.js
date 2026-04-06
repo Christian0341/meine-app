@@ -96,10 +96,20 @@ async function holeCoverBild(itunesId) {
       `https://itunes.apple.com/lookup?id=${itunesId}&entity=podcast`,
       { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; myHUB/1.0)' } }
     );
-    if (!resp.ok) return '';
+    if (!resp.ok) {
+      console.error(`  iTunes Fehler (${itunesId}): HTTP ${resp.status}`);
+      return '';
+    }
     const data = await resp.json();
-    return data?.results?.[0]?.artworkUrl600 || data?.results?.[0]?.artworkUrl100 || '';
+    const url = data?.results?.[0]?.artworkUrl600 || data?.results?.[0]?.artworkUrl100 || '';
+    if (url) {
+      console.log(`  Cover OK (${itunesId}): ${url.slice(0,60)}`);
+    } else {
+      console.error(`  Cover leer (${itunesId}): ${JSON.stringify(data).slice(0,100)}`);
+    }
+    return url;
   } catch(e) {
+    console.error(`  iTunes Ausnahme (${itunesId}): ${e.message}`);
     return '';
   }
 }
