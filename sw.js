@@ -1,18 +1,16 @@
-const CACHE_NAME = 'meine-app-v5';
+const CACHE_NAME = 'meine-app-v6';
 const STATIC_FILES = [
   '/',
   '/index.html',
   '/manifest.json',
   '/icon.png'
 ];
-
 self.addEventListener('install', e => {
   e.waitUntil(
     caches.open(CACHE_NAME).then(cache => cache.addAll(STATIC_FILES))
   );
   self.skipWaiting();
 });
-
 self.addEventListener('activate', e => {
   e.waitUntil(
     caches.keys().then(keys =>
@@ -21,10 +19,9 @@ self.addEventListener('activate', e => {
   );
   self.clients.claim();
 });
-
 self.addEventListener('fetch', e => {
-  // data/digest.json immer frisch vom Netzwerk laden
-  if (e.request.url.includes('digest.json')) {
+  // Alle JSON-Daten immer frisch vom Netzwerk
+  if (e.request.url.includes('.json')) {
     e.respondWith(fetch(e.request));
     return;
   }
