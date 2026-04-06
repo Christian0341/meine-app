@@ -48,7 +48,7 @@ const PODCASTS = [
   {
     name: 'Doppelgänger Tech Talk',
     desc: 'Glöckler & Klöckner · 2x pro Woche',
-    rss: 'https://feeds.megaphone.fm/doppelgaenger',
+    rss: 'https://feeds.megaphone.fm/LINDALA4208458418',
     spotify: 'https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3',
     itunesId: '1533580842'
   },
@@ -62,7 +62,7 @@ const PODCASTS = [
   {
     name: 'Der KI-Podcast · ARD',
     desc: 'Dienstags · Gregor Schmalzried & Team',
-    rss: 'https://www.br.de/radio/br24/der-ki-podcast-104.xml',
+    rss: 'https://feeds.megaphone.fm/ADL9840502364',
     spotify: 'https://open.spotify.com/show/7IYjMXCK7KUrNJyVCLUEjk',
     itunesId: '1490402609'
   },
@@ -76,7 +76,7 @@ const PODCASTS = [
   {
     name: 'Deep Minds · KI & Wissenschaft',
     desc: 'Experten-Interviews · tiefgründig',
-    rss: 'https://feeds.soundcloud.com/users/soundcloud:users:471579060/sounds.rss',
+    rss: 'https://deep-minds.podigee.io/feed/mp3',
     spotify: 'https://open.spotify.com/show/6rmXt98jRHNziyG1ev3sAT',
     itunesId: '1456243923'
   },
