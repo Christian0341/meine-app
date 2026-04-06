@@ -36,30 +36,73 @@ const SUCHBEGRIFFE = [
   'KI Unternehmen Investition',
 ];
 
-// ── Podcast RSS Feeds ────────────────────────────────────────────────────────
+// ── Podcast Konfiguration ────────────────────────────────────────────────────
 const PODCASTS = [
   {
     name: 'Heise KI-Update',
     desc: 'Mo, Mi, Fr · mit The Decoder',
     rss: 'https://kiupdate.podigee.io/feed/mp3',
     spotify: 'https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp',
-    web: 'https://kiupdate.podigee.io'
+    itunesId: '1691536182'
   },
   {
-    name: 'On the Way to New Work',
-    desc: 'Christoph Magnussen · KI & Arbeit',
-    rss: 'https://feeds.podigee.com/on-the-way-to-new-work',
-    spotify: 'https://open.spotify.com/show/3JGSMdnGe4CvVTFgKMEV95',
-    web: 'https://open.spotify.com/show/3JGSMdnGe4CvVTFgKMEV95'
+    name: 'Doppelgänger Tech Talk',
+    desc: 'Glöckler & Klöckner · 2x pro Woche',
+    rss: 'https://doppelgaenger.podigee.io/feed/mp3',
+    spotify: 'https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3',
+    itunesId: '1533580842'
   },
   {
-    name: 'KI verstehen · ZDF',
+    name: 'OMR Podcast',
+    desc: 'Philipp Westermeyer · Tech & Business',
+    rss: 'https://omr.podigee.io/feed/mp3',
+    spotify: 'https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH',
+    itunesId: '1072188364'
+  },
+  {
+    name: 'Der KI-Podcast · ARD',
+    desc: 'Dienstags · Gregor Schmalzried & Team',
+    rss: 'https://feeds.br.de/ki-podcast/feed.xml',
+    spotify: 'https://open.spotify.com/show/7IYjMXCK7KUrNJyVCLUEjk',
+    itunesId: '1490402609'
+  },
+  {
+    name: 'KI verstehen · Deutschlandfunk',
     desc: 'Wöchentlich · verständlich erklärt',
-    rss: 'https://www.zdf.de/podcast/ki-verstehen-100.xml',
-    spotify: 'https://open.spotify.com/show/4ZYVpbVZwg2b7R9LLHJbZf',
-    web: 'https://open.spotify.com/show/4ZYVpbVZwg2b7R9LLHJbZf'
+    rss: 'https://www.deutschlandfunk.de/ki-verstehen-102.xml',
+    spotify: 'https://open.spotify.com/show/0rktSeF3DOjOyk2f0VPFwO',
+    itunesId: '1535497738'
+  },
+  {
+    name: 'Deep Minds · KI & Wissenschaft',
+    desc: 'Experten-Interviews · tiefgründig',
+    rss: 'https://feeds.soundcloud.com/users/soundcloud:users:471579060/sounds.rss',
+    spotify: 'https://open.spotify.com/show/6rmXt98jRHNziyG1ev3sAT',
+    itunesId: '1456243923'
+  },
+  {
+    name: 'F.A.Z. Künstliche Intelligenz',
+    desc: 'KI in Wirtschaft & Unternehmen',
+    rss: 'https://fazpodcast.podigee.io/feed/mp3',
+    spotify: 'https://open.spotify.com/show/2e0ib9yPTdELNdzzKojhKO',
+    itunesId: '1523132877'
   }
 ];
+
+// ── Cover-Bild per iTunes API holen ──────────────────────────────────────────
+async function holeCoverBild(itunesId) {
+  try {
+    const resp = await fetch(
+      `https://itunes.apple.com/lookup?id=${itunesId}&entity=podcast`,
+      { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; myHUB/1.0)' } }
+    );
+    if (!resp.ok) return '';
+    const data = await resp.json();
+    return data?.results?.[0]?.artworkUrl600 || data?.results?.[0]?.artworkUrl100 || '';
+  } catch(e) {
+    return '';
+  }
+}
 
 // ── Letzte Podcast-Episode holen ─────────────────────────────────────────────
 async function holePodcastEpisode(podcast) {
@@ -67,24 +110,40 @@ async function holePodcastEpisode(podcast) {
     const resp = await fetch(podcast.rss, {
       headers: { 'User-Agent': 'Mozilla/5.0 (compatible; myHUB/1.0)' }
     });
-    if (!resp.ok) return null;
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const xml  = await resp.text();
     const data = await parseStringPromise(xml, { explicitArray: false });
     const items = data?.rss?.channel?.item || data?.feed?.entry || [];
     const arr   = Array.isArray(items) ? items : [items];
     const item  = arr[0];
-    if (!item) return null;
+    if (!item) throw new Error('Keine Episoden');
+
+    // Dauer aus RSS holen
+    const dauer = item['itunes:duration'] || item.duration || '';
+    let dauerStr = '';
+    if (dauer) {
+      const sek = dauer.includes(':')
+        ? dauer.split(':').reduce((acc, t) => 60 * acc + parseInt(t), 0)
+        : parseInt(dauer);
+      if (!isNaN(sek) && sek > 0) dauerStr = `${Math.round(sek/60)} Min.`;
+    }
+
+    // Cover-Bild holen
+    const cover = await holeCoverBild(podcast.itunesId);
+
     return {
       name:    podcast.name,
       desc:    podcast.desc,
       episode: item.title || '',
       datum:   item.pubDate ? new Date(item.pubDate).toLocaleDateString('de-DE') : '',
+      dauer:   dauerStr,
+      cover:   cover,
       spotify: podcast.spotify,
-      web:     podcast.web
     };
   } catch(e) {
     console.error(`  Podcast RSS Fehler (${podcast.name}): ${e.message}`);
-    return { name: podcast.name, desc: podcast.desc, episode: '', datum: '', spotify: podcast.spotify, web: podcast.web };
+    const cover = await holeCoverBild(podcast.itunesId);
+    return { name: podcast.name, desc: podcast.desc, episode: '', datum: '', dauer: '', cover, spotify: podcast.spotify };
   }
 }
 
@@ -188,7 +247,7 @@ Regeln:
     headers: { 'Content-Type': 'application/json' },
     body:    JSON.stringify({
       contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0.4, maxOutputTokens: 65536 }
+      generationConfig: { temperature: 0.4, maxOutputTokens: 16000 }
     })
   });
 
