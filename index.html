@@ -37,7 +37,7 @@
     /* ── TOPBAR ── */
     .topbar { position: sticky; top: 0; z-index: 100; background: rgba(17,18,20,0.94); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border-bottom: 1px solid var(--line); height: 54px; padding: 0 20px; display: flex; align-items: center; justify-content: space-between; }
     .brand { display: flex; align-items: center; gap: 10px; }
-    .brand-icon { width: 28px; height: 28px; border: 1.5px solid rgba(200,205,214,0.4); border-radius: 8px; display: flex; align-items: center; justify-content: center; font-family: 'DM Mono', monospace; font-size: 10px; font-weight: 500; color: var(--silver); }
+    .brand-icon { width: 28px; height: 28px; display: flex; align-items: center; justify-content: center; }
     .brand-name { font-size: 14px; font-weight: 600; color: var(--silver-hi); letter-spacing: -0.03em; }
     .brand-name em { color: var(--text3); font-style: normal; font-weight: 400; }
     .topbar-date { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--text3); background: var(--card); border: 1px solid var(--line); padding: 4px 10px; border-radius: 6px; }
@@ -222,7 +222,7 @@
 
   <header class="topbar">
     <div class="brand">
-      <div class="brand-icon">mH</div>
+      <div class="brand-icon"><svg width="28" height="28" viewBox="0 0 28 28" fill="none"><path d="M14 4 L24 10 L24 18 L14 24 L4 18 L4 10 Z" stroke="#c8cdd6" stroke-width="1.2" opacity="0.6" fill="none"/><path d="M14 4 L24 10 L14 14 Z" fill="#c8cdd6" opacity="0.6"/><path d="M14 14 L24 10 L24 18 Z" fill="#c8cdd6" opacity="0.2"/><path d="M14 14 L14 24 L4 18 Z" fill="#c8cdd6" opacity="0.3"/><path d="M14 4 L14 14 L4 10 Z" fill="#c8cdd6" opacity="0.45"/><path d="M4 10 L14 14 L4 18 Z" fill="#c8cdd6" opacity="0.07"/><path d="M14 14 L24 18 L14 24 Z" fill="#c8cdd6" opacity="0.1"/></svg></div>
       <div class="brand-name">my<em>HUB</em></div>
     </div>
     <div class="topbar-date" id="datumPill">–</div>
