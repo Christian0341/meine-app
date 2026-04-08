@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-04-07T10:38:09.754794+00:00",
+  "aktualisiert": "2026-04-08T10:42:29.252293+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-Experten reagieren: GPT-5.5, Claude “Mythos”, AGI in 6 Monaten, Helium-Krise & 51.000 Jobverluste",
+      "link": "https://www.youtube.com/watch?v=XEJ74o4fROY",
+      "video_id": "XEJ74o4fROY",
+      "thumbnail": "https://img.youtube.com/vi/XEJ74o4fROY/mqdefault.jpg",
+      "datum": "2026-04-07T17:13:14+00:00",
+      "datum_de": "07.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "planet schule",
+      "titel": "Deutsch Basics: Recherche mit Suchoperatoren und KI-Tools | kolleg24 | planet schule | ARD",
+      "link": "https://www.youtube.com/watch?v=TsD6x9r24QM",
+      "video_id": "TsD6x9r24QM",
+      "thumbnail": "https://img.youtube.com/vi/TsD6x9r24QM/mqdefault.jpg",
+      "datum": "2026-04-07T14:00:46Z",
+      "datum_de": "07.04.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "IchBinFabian",
       "titel": "Claude Code KOSTENLOS nutzen: Ollama Setup (2026)",
@@ -130,26 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/ks-iz1lw9nI/mqdefault.jpg",
       "datum": "2026-04-03T14:10:49+00:00",
       "datum_de": "03.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "NANCY | Projects To Profit",
-      "titel": "Nie wieder generische KI-Grafiken! NotebookLM &amp; Google Gemini richtig kombiniert!",
-      "link": "https://www.youtube.com/watch?v=0WD-r8UV0vk",
-      "video_id": "0WD-r8UV0vk",
-      "thumbnail": "https://img.youtube.com/vi/0WD-r8UV0vk/mqdefault.jpg",
-      "datum": "2026-04-02T16:23:53Z",
-      "datum_de": "02.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "„Bewusstsein ist keine menschliche Leistung!\" KI, Geist, Philosophie & Zukunft",
-      "link": "https://www.youtube.com/watch?v=FiZaV8Ci3jQ",
-      "video_id": "FiZaV8Ci3jQ",
-      "thumbnail": "https://img.youtube.com/vi/FiZaV8Ci3jQ/mqdefault.jpg",
-      "datum": "2026-04-02T15:15:00+00:00",
-      "datum_de": "02.04.2026",
       "quelle": "kanal"
     }
   ]
