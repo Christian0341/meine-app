@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-04-08T10:42:29.252293+00:00",
+  "aktualisiert": "2026-04-09T08:23:00.367506+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Julian Ivanov | KI-Automatisierung",
+      "titel": "Claude Code hat mir einen JARVIS gebaut (Free Template)",
+      "link": "https://www.youtube.com/watch?v=XsceN-hEit4",
+      "video_id": "XsceN-hEit4",
+      "thumbnail": "https://img.youtube.com/vi/XsceN-hEit4/mqdefault.jpg",
+      "datum": "2026-04-08T18:54:49Z",
+      "datum_de": "08.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Der Claude Source Code wurde veröffentlicht! (Mega Updates)",
+      "link": "https://www.youtube.com/watch?v=Kow2L_qzqDI",
+      "video_id": "Kow2L_qzqDI",
+      "thumbnail": "https://img.youtube.com/vi/Kow2L_qzqDI/mqdefault.jpg",
+      "datum": "2026-04-08T14:15:03+00:00",
+      "datum_de": "08.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Institut für KI",
+      "titel": "KI Agenten erstellen mit n8n - dein erster Mail Agent (Tutorial)",
+      "link": "https://www.youtube.com/watch?v=G6phuI7UiUU",
+      "video_id": "G6phuI7UiUU",
+      "thumbnail": "https://img.youtube.com/vi/G6phuI7UiUU/mqdefault.jpg",
+      "datum": "2026-04-08T14:04:58Z",
+      "datum_de": "08.04.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "KI-Experten reagieren: GPT-5.5, Claude “Mythos”, AGI in 6 Monaten, Helium-Krise & 51.000 Jobverluste",
@@ -14,7 +44,7 @@
     },
     {
       "kanal": "planet schule",
-      "titel": "Deutsch Basics: Recherche mit Suchoperatoren und KI-Tools | kolleg24 | planet schule | ARD",
+      "titel": "Deutsch Basics:  Recherche mit Suchoperatoren und KI-Tools | kolleg24 | planet schule | ARD",
       "link": "https://www.youtube.com/watch?v=TsD6x9r24QM",
       "video_id": "TsD6x9r24QM",
       "thumbnail": "https://img.youtube.com/vi/TsD6x9r24QM/mqdefault.jpg",
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/zMcGWvvehrs/mqdefault.jpg",
       "datum": "2026-04-04T14:15:06+00:00",
       "datum_de": "04.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Shakeela ZQ",
-      "titel": "Claude AI richtig nutzen: Alle kostenlosen Funktionen erklärt (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=ttnqP7WUcYg",
-      "video_id": "ttnqP7WUcYg",
-      "thumbnail": "https://img.youtube.com/vi/ttnqP7WUcYg/mqdefault.jpg",
-      "datum": "2026-04-04T13:06:34Z",
-      "datum_de": "04.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "OpenClaw & N8N Automatisierung mit VPS Agenten meistern",
-      "link": "https://www.youtube.com/shorts/5J-a3FnmxG4",
-      "video_id": "5J-a3FnmxG4",
-      "thumbnail": "https://img.youtube.com/vi/5J-a3FnmxG4/mqdefault.jpg",
-      "datum": "2026-04-03T17:15:00+00:00",
-      "datum_de": "03.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "KI-ESKALATION: Claude Mythos ist zu gefährlich für uns! OpenAI bringt SuperApp!",
-      "link": "https://www.youtube.com/watch?v=ks-iz1lw9nI",
-      "video_id": "ks-iz1lw9nI",
-      "thumbnail": "https://img.youtube.com/vi/ks-iz1lw9nI/mqdefault.jpg",
-      "datum": "2026-04-03T14:10:49+00:00",
-      "datum_de": "03.04.2026",
       "quelle": "kanal"
     }
   ]
