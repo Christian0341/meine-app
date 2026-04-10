@@ -62,7 +62,7 @@ const PODCASTS = [
   {
     name: 'Der KI-Podcast · ARD',
     desc: 'Dienstags · Gregor Schmalzried & Team',
-    rss: 'https://feeds.megaphone.fm/ADL9840502364',
+    rss: 'https://www.ardaudiothek.de/api/shows/94850562/episodes/rss/'
     spotify: 'https://open.spotify.com/show/7IYjMXCK7KUrNJyVCLUEjk',
     itunesId: '1498491292'
   },
@@ -76,9 +76,9 @@ const PODCASTS = [
   {
     name: 'Deep Minds · KI & Wissenschaft',
     desc: 'Experten-Interviews · tiefgründig',
-    rss: 'https://deep-minds.podigee.io/feed/mp3',
+    rss: 'https://the-decoder.de/feed/podcast/',
     spotify: 'https://open.spotify.com/show/6rmXt98jRHNziyG1ev3sAT',
-    itunesId: '1481991010'
+    itunesId: '1598920439'
   },
   {
     name: 'F.A.Z. Künstliche Intelligenz',
