@@ -50,42 +50,42 @@ const PODCASTS = [
     desc: 'Glöckler & Klöckner · 2x pro Woche',
     rss: 'https://feeds.megaphone.fm/LINDALA4208458418',
     spotify: 'https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3',
-    itunesId: '1533580842'
+    itunesId: '1519234952'
   },
   {
     name: 'OMR Podcast',
     desc: 'Philipp Westermeyer · Tech & Business',
     rss: 'https://omr.podigee.io/feed/aac',
     spotify: 'https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH',
-    itunesId: '1072188364'
+    itunesId: '1056312052'
   },
   {
     name: 'Der KI-Podcast · ARD',
     desc: 'Dienstags · Gregor Schmalzried & Team',
     rss: 'https://feeds.megaphone.fm/ADL9840502364',
     spotify: 'https://open.spotify.com/show/7IYjMXCK7KUrNJyVCLUEjk',
-    itunesId: '1490402609'
+    itunesId: '1498491292'
   },
   {
     name: 'KI verstehen · Deutschlandfunk',
     desc: 'Wöchentlich · verständlich erklärt',
     rss: 'https://www.deutschlandfunk.de/ki-verstehen-102.xml',
     spotify: 'https://open.spotify.com/show/0rktSeF3DOjOyk2f0VPFwO',
-    itunesId: '1535497738'
+    itunesId: '1547897517'
   },
   {
     name: 'Deep Minds · KI & Wissenschaft',
     desc: 'Experten-Interviews · tiefgründig',
     rss: 'https://deep-minds.podigee.io/feed/mp3',
     spotify: 'https://open.spotify.com/show/6rmXt98jRHNziyG1ev3sAT',
-    itunesId: '1456243923'
+    itunesId: '1481991010'
   },
   {
     name: 'F.A.Z. Künstliche Intelligenz',
     desc: 'KI in Wirtschaft & Unternehmen',
     rss: 'https://kuenstlicheintelligenz.podigee.io/feed/mp3',
     spotify: 'https://open.spotify.com/show/2e0ib9yPTdELNdzzKojhKO',
-    itunesId: '1523132877'
+    itunesId: '1560876052'
   }
 ];
 
