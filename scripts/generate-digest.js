@@ -62,7 +62,7 @@ const PODCASTS = [
   {
     name: 'Der KI-Podcast · ARD',
     desc: 'Dienstags · Gregor Schmalzried & Team',
-    rss: 'https://www.ardaudiothek.de/api/shows/94850562/episodes/rss/'
+    rss: 'https://www.ardaudiothek.de/api/shows/94850562/episodes/rss/',
     spotify: 'https://open.spotify.com/show/7IYjMXCK7KUrNJyVCLUEjk',
     itunesId: '1498491292'
   },
