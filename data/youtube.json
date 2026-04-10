@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-04-09T08:23:00.367506+00:00",
+  "aktualisiert": "2026-04-10T08:24:20.022723+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Lasst uns entwickeln :)",
+      "link": "https://www.youtube.com/watch?v=AhqkVn3ylKE",
+      "video_id": "AhqkVn3ylKE",
+      "thumbnail": "https://img.youtube.com/vi/AhqkVn3ylKE/mqdefault.jpg",
+      "datum": "2026-04-10T03:59:18+00:00",
+      "datum_de": "10.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Ex-NASA-Forschungschef: Die Wahrheit über Rechenzentren im WELTALL, Mond-Quantencomputer & KI",
+      "link": "https://www.youtube.com/watch?v=9wMty1uTQaA",
+      "video_id": "9wMty1uTQaA",
+      "thumbnail": "https://img.youtube.com/vi/9wMty1uTQaA/mqdefault.jpg",
+      "datum": "2026-04-09T15:15:00+00:00",
+      "datum_de": "09.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Paperclip  KI Agenten Teams mühelos erstellen & managen!",
+      "link": "https://www.youtube.com/shorts/YcWXi8ttZSQ",
+      "video_id": "YcWXi8ttZSQ",
+      "thumbnail": "https://img.youtube.com/vi/YcWXi8ttZSQ/mqdefault.jpg",
+      "datum": "2026-04-09T12:15:09+00:00",
+      "datum_de": "09.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "BILDUNGSGUTSCHEIN bekommen: Lasse deine KI-Weiterbildung 100% finanzieren",
+      "link": "https://www.youtube.com/watch?v=1AubY2-BIUw",
+      "video_id": "1AubY2-BIUw",
+      "thumbnail": "https://img.youtube.com/vi/1AubY2-BIUw/mqdefault.jpg",
+      "datum": "2026-04-09T12:00:04+00:00",
+      "datum_de": "09.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Julian Ivanov | KI-Automatisierung",
       "titel": "Claude Code hat mir einen JARVIS gebaut (Free Template)",
@@ -111,46 +151,6 @@
       "datum": "2026-04-05T21:25:53Z",
       "datum_de": "05.04.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Klaus Mohr PHOTO",
-      "titel": "Großes Ｌｕｍｉｎａｒ  Ｎｅｏ  Frühjahrs-Update! | 3 neue KI-Tools!",
-      "link": "https://www.youtube.com/watch?v=cnaTODbfqsA",
-      "video_id": "cnaTODbfqsA",
-      "thumbnail": "https://img.youtube.com/vi/cnaTODbfqsA/mqdefault.jpg",
-      "datum": "2026-04-05T17:29:28Z",
-      "datum_de": "05.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI-Dodo",
-      "titel": "Hör auf für SaaS zu zahlen: Baue deine eigenen KI-Tools in 4 Min!",
-      "link": "https://www.youtube.com/watch?v=PA4XBk3RYJE",
-      "video_id": "PA4XBk3RYJE",
-      "thumbnail": "https://img.youtube.com/vi/PA4XBk3RYJE/mqdefault.jpg",
-      "datum": "2026-04-05T12:53:00Z",
-      "datum_de": "05.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Krass: Claude Code KOSTENLOS mit Gemma-4! Neuer “Kairos” Agent, Opus 4.7, Seedance & mehr KI-News",
-      "link": "https://www.youtube.com/watch?v=26vS1Os8vek",
-      "video_id": "26vS1Os8vek",
-      "thumbnail": "https://img.youtube.com/vi/26vS1Os8vek/mqdefault.jpg",
-      "datum": "2026-04-05T08:15:00+00:00",
-      "datum_de": "05.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Claude Code + Paperclip: Baut Agents Teams auf Knopfdruck",
-      "link": "https://www.youtube.com/watch?v=zMcGWvvehrs",
-      "video_id": "zMcGWvvehrs",
-      "thumbnail": "https://img.youtube.com/vi/zMcGWvvehrs/mqdefault.jpg",
-      "datum": "2026-04-04T14:15:06+00:00",
-      "datum_de": "04.04.2026",
-      "quelle": "kanal"
     }
   ]
 }
