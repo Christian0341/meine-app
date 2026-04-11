@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-04-10T08:24:20.022723+00:00",
+  "aktualisiert": "2026-04-11T07:54:30.301446+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Anthropic Claude Code Leak  Roadmap enthüllt!",
+      "link": "https://www.youtube.com/shorts/W4DEqQsh0sg",
+      "video_id": "W4DEqQsh0sg",
+      "thumbnail": "https://img.youtube.com/vi/W4DEqQsh0sg/mqdefault.jpg",
+      "datum": "2026-04-10T17:00:48+00:00",
+      "datum_de": "10.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Sechsstelliger Betrag gespart durch KI-Systeme als Versicherungsmakler | Everlast AI Erfahrung",
+      "link": "https://www.youtube.com/watch?v=3yHzSGc4HcA",
+      "video_id": "3yHzSGc4HcA",
+      "thumbnail": "https://img.youtube.com/vi/3yHzSGc4HcA/mqdefault.jpg",
+      "datum": "2026-04-10T11:00:00+00:00",
+      "datum_de": "10.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Von Rechtfertigungsbürokratie zu Rare Diseases: Wo KI im Gesundheitswesen wirklich Leben rettet!",
+      "link": "https://www.youtube.com/watch?v=YcJRfnPcPhc",
+      "video_id": "YcJRfnPcPhc",
+      "thumbnail": "https://img.youtube.com/vi/YcJRfnPcPhc/mqdefault.jpg",
+      "datum": "2026-04-10T10:00:54+00:00",
+      "datum_de": "10.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Morpheus Tutorials",
       "titel": "Lasst uns entwickeln :)",
@@ -121,36 +151,6 @@
       "datum": "2026-04-06T17:00:54+00:00",
       "datum_de": "06.04.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Felicia Simon",
-      "titel": "Claude AI kann so viel mehr als du denkst 🤯 10 versteckte Funktionen 🔥",
-      "link": "https://www.youtube.com/watch?v=BzbnWF3TFcQ",
-      "video_id": "BzbnWF3TFcQ",
-      "thumbnail": "https://img.youtube.com/vi/BzbnWF3TFcQ/mqdefault.jpg",
-      "datum": "2026-04-06T14:45:01Z",
-      "datum_de": "06.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "AI Stube ",
-      "titel": "Claude Code GRATIS: Nie wieder Session-Limits!",
-      "link": "https://www.youtube.com/watch?v=gSAKIJ30654",
-      "video_id": "gSAKIJ30654",
-      "thumbnail": "https://img.youtube.com/vi/gSAKIJ30654/mqdefault.jpg",
-      "datum": "2026-04-06T08:40:27Z",
-      "datum_de": "06.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Niklas Hansen",
-      "titel": "SO nutzt du Claude Code GRATIS! (Gemma 4 + Claude Code)",
-      "link": "https://www.youtube.com/watch?v=JJ7dEXZfRoo",
-      "video_id": "JJ7dEXZfRoo",
-      "thumbnail": "https://img.youtube.com/vi/JJ7dEXZfRoo/mqdefault.jpg",
-      "datum": "2026-04-05T21:25:53Z",
-      "datum_de": "05.04.2026",
-      "quelle": "suche"
     }
   ]
 }
