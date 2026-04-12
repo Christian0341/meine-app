@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-04-11T07:54:30.301446+00:00",
+  "aktualisiert": "2026-04-12T08:05:34.906219+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "So 10x du deine Claude Code Agent Teams! ",
+      "link": "https://www.youtube.com/watch?v=sDfnOnAvxcU",
+      "video_id": "sDfnOnAvxcU",
+      "thumbnail": "https://img.youtube.com/vi/sDfnOnAvxcU/mqdefault.jpg",
+      "datum": "2026-04-11T14:15:06+00:00",
+      "datum_de": "11.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Neuland Pro",
+      "titel": "KRASSE KI NEWS: Gefährlichstes Modell ALLER ZEITEN?! Anthropic warnt Regierung!",
+      "link": "https://www.youtube.com/watch?v=j1Ivwkvx9XE",
+      "video_id": "j1Ivwkvx9XE",
+      "thumbnail": "https://img.youtube.com/vi/j1Ivwkvx9XE/mqdefault.jpg",
+      "datum": "2026-04-11T07:50:01+00:00",
+      "datum_de": "11.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Sascha Taschan",
       "titel": "Anthropic Claude Code Leak  Roadmap enthüllt!",
@@ -73,6 +93,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "IchBinFabian",
+      "titel": "OpenAI baut ein Plugin für Claude Code: So nutzt du es",
+      "link": "https://www.youtube.com/watch?v=gDy8d3CHtRI",
+      "video_id": "gDy8d3CHtRI",
+      "thumbnail": "https://img.youtube.com/vi/gDy8d3CHtRI/mqdefault.jpg",
+      "datum": "2026-04-09T07:00:37Z",
+      "datum_de": "09.04.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Julian Ivanov | KI-Automatisierung",
       "titel": "Claude Code hat mir einen JARVIS gebaut (Free Template)",
       "link": "https://www.youtube.com/watch?v=XsceN-hEit4",
@@ -121,36 +151,6 @@
       "datum": "2026-04-07T14:00:46Z",
       "datum_de": "07.04.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "IchBinFabian",
-      "titel": "Claude Code KOSTENLOS nutzen: Ollama Setup (2026)",
-      "link": "https://www.youtube.com/watch?v=TacxSmh54xc",
-      "video_id": "TacxSmh54xc",
-      "thumbnail": "https://img.youtube.com/vi/TacxSmh54xc/mqdefault.jpg",
-      "datum": "2026-04-07T07:00:20Z",
-      "datum_de": "07.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Michael Schrot",
-      "titel": "🚀 Baue deinen eigenen KI Agent, 100% gratis! Für alles: Schreiben, Coden, Spiel Entwickeln 🔥🔥",
-      "link": "https://www.youtube.com/watch?v=w8vAcgf010k",
-      "video_id": "w8vAcgf010k",
-      "thumbnail": "https://img.youtube.com/vi/w8vAcgf010k/mqdefault.jpg",
-      "datum": "2026-04-06T21:06:49Z",
-      "datum_de": "06.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "ALLES was wir aus dem Claude Code LEAK gelernt haben! 🔎",
-      "link": "https://www.youtube.com/watch?v=gUpmu_Oxw-A",
-      "video_id": "gUpmu_Oxw-A",
-      "thumbnail": "https://img.youtube.com/vi/gUpmu_Oxw-A/mqdefault.jpg",
-      "datum": "2026-04-06T17:00:54+00:00",
-      "datum_de": "06.04.2026",
-      "quelle": "kanal"
     }
   ]
 }
