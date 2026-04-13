@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-04-12T08:05:34.906219+00:00",
+  "aktualisiert": "2026-04-13T09:05:32.524116+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "NotebookLM + Claude AI Workflow: So baust du dir ein KI System (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=XHVgq4zodpE",
+      "video_id": "XHVgq4zodpE",
+      "thumbnail": "https://img.youtube.com/vi/XHVgq4zodpE/mqdefault.jpg",
+      "datum": "2026-04-12T11:30:21Z",
+      "datum_de": "12.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Claude „Mythos\" BRICHT das Internet! Projekt Glasswing, Meta Muse Spark, HeyGen-5 & weitere KI-News",
+      "link": "https://www.youtube.com/watch?v=ZLSX-R2FTyI",
+      "video_id": "ZLSX-R2FTyI",
+      "thumbnail": "https://img.youtube.com/vi/ZLSX-R2FTyI/mqdefault.jpg",
+      "datum": "2026-04-12T08:15:00+00:00",
+      "datum_de": "12.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Fynn Röber",
+      "titel": "Claude Code hat YouTube-Videos für immer verändert (Tutorial)",
+      "link": "https://www.youtube.com/watch?v=2rAcCuJFASw",
+      "video_id": "2rAcCuJFASw",
+      "thumbnail": "https://img.youtube.com/vi/2rAcCuJFASw/mqdefault.jpg",
+      "datum": "2026-04-12T07:39:26Z",
+      "datum_de": "12.04.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Sascha Taschan",
       "titel": "So 10x du deine Claude Code Agent Teams! ",
@@ -121,36 +151,6 @@
       "datum": "2026-04-08T14:15:03+00:00",
       "datum_de": "08.04.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Institut für KI",
-      "titel": "KI Agenten erstellen mit n8n - dein erster Mail Agent (Tutorial)",
-      "link": "https://www.youtube.com/watch?v=G6phuI7UiUU",
-      "video_id": "G6phuI7UiUU",
-      "thumbnail": "https://img.youtube.com/vi/G6phuI7UiUU/mqdefault.jpg",
-      "datum": "2026-04-08T14:04:58Z",
-      "datum_de": "08.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI-Experten reagieren: GPT-5.5, Claude “Mythos”, AGI in 6 Monaten, Helium-Krise & 51.000 Jobverluste",
-      "link": "https://www.youtube.com/watch?v=XEJ74o4fROY",
-      "video_id": "XEJ74o4fROY",
-      "thumbnail": "https://img.youtube.com/vi/XEJ74o4fROY/mqdefault.jpg",
-      "datum": "2026-04-07T17:13:14+00:00",
-      "datum_de": "07.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "planet schule",
-      "titel": "Deutsch Basics:  Recherche mit Suchoperatoren und KI-Tools | kolleg24 | planet schule | ARD",
-      "link": "https://www.youtube.com/watch?v=TsD6x9r24QM",
-      "video_id": "TsD6x9r24QM",
-      "thumbnail": "https://img.youtube.com/vi/TsD6x9r24QM/mqdefault.jpg",
-      "datum": "2026-04-07T14:00:46Z",
-      "datum_de": "07.04.2026",
-      "quelle": "suche"
     }
   ]
 }
