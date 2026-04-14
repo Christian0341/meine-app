@@ -1,10 +1,50 @@
 {
-  "aktualisiert": "2026-04-13T09:05:32.524116+00:00",
+  "aktualisiert": "2026-04-14T08:47:43.775278+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "IchBinFabian",
+      "titel": "Claude Managed Agents: Braucht man n8n noch?!",
+      "link": "https://www.youtube.com/watch?v=vEHnR_ONlAk",
+      "video_id": "vEHnR_ONlAk",
+      "thumbnail": "https://img.youtube.com/vi/vEHnR_ONlAk/mqdefault.jpg",
+      "datum": "2026-04-14T06:45:07Z",
+      "datum_de": "14.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Nie wieder tippen! Meine eigene Speech-to-Text App (Claude Code)",
+      "link": "https://www.youtube.com/watch?v=vVTl1dqPL0k",
+      "video_id": "vVTl1dqPL0k",
+      "thumbnail": "https://img.youtube.com/vi/vVTl1dqPL0k/mqdefault.jpg",
+      "datum": "2026-04-13T16:34:34+00:00",
+      "datum_de": "13.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Ich hab OpenClaw allein auf meinen Code gelassen",
+      "link": "https://www.youtube.com/watch?v=S60pby2p7Yw",
+      "video_id": "S60pby2p7Yw",
+      "thumbnail": "https://img.youtube.com/vi/S60pby2p7Yw/mqdefault.jpg",
+      "datum": "2026-04-13T14:33:07+00:00",
+      "datum_de": "13.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "IchBinFabian",
+      "titel": "Gemma 4: Kostenloses AI-Coding lokal in Claude Code (Ollama Setup)",
+      "link": "https://www.youtube.com/watch?v=Oatm7_HXaD0",
+      "video_id": "Oatm7_HXaD0",
+      "thumbnail": "https://img.youtube.com/vi/Oatm7_HXaD0/mqdefault.jpg",
+      "datum": "2026-04-13T07:15:03Z",
+      "datum_de": "13.04.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Shakeela ZQ",
-      "titel": "NotebookLM + Claude AI Workflow: So baust du dir ein KI System (Deutsch)",
+      "titel": "Dieser NotebookLM + Claude AI Workflow ist unglaublich (Deutsch)",
       "link": "https://www.youtube.com/watch?v=XHVgq4zodpE",
       "video_id": "XHVgq4zodpE",
       "thumbnail": "https://img.youtube.com/vi/XHVgq4zodpE/mqdefault.jpg",
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/YcWXi8ttZSQ/mqdefault.jpg",
       "datum": "2026-04-09T12:15:09+00:00",
       "datum_de": "09.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "BILDUNGSGUTSCHEIN bekommen: Lasse deine KI-Weiterbildung 100% finanzieren",
-      "link": "https://www.youtube.com/watch?v=1AubY2-BIUw",
-      "video_id": "1AubY2-BIUw",
-      "thumbnail": "https://img.youtube.com/vi/1AubY2-BIUw/mqdefault.jpg",
-      "datum": "2026-04-09T12:00:04+00:00",
-      "datum_de": "09.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "IchBinFabian",
-      "titel": "OpenAI baut ein Plugin für Claude Code: So nutzt du es",
-      "link": "https://www.youtube.com/watch?v=gDy8d3CHtRI",
-      "video_id": "gDy8d3CHtRI",
-      "thumbnail": "https://img.youtube.com/vi/gDy8d3CHtRI/mqdefault.jpg",
-      "datum": "2026-04-09T07:00:37Z",
-      "datum_de": "09.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Julian Ivanov | KI-Automatisierung",
-      "titel": "Claude Code hat mir einen JARVIS gebaut (Free Template)",
-      "link": "https://www.youtube.com/watch?v=XsceN-hEit4",
-      "video_id": "XsceN-hEit4",
-      "thumbnail": "https://img.youtube.com/vi/XsceN-hEit4/mqdefault.jpg",
-      "datum": "2026-04-08T18:54:49Z",
-      "datum_de": "08.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Der Claude Source Code wurde veröffentlicht! (Mega Updates)",
-      "link": "https://www.youtube.com/watch?v=Kow2L_qzqDI",
-      "video_id": "Kow2L_qzqDI",
-      "thumbnail": "https://img.youtube.com/vi/Kow2L_qzqDI/mqdefault.jpg",
-      "datum": "2026-04-08T14:15:03+00:00",
-      "datum_de": "08.04.2026",
       "quelle": "kanal"
     }
   ]
