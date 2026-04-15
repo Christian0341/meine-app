@@ -1,16 +1,46 @@
 {
-  "aktualisiert": "2026-04-14T08:47:43.775278+00:00",
+  "aktualisiert": "2026-04-15T08:48:43.818656+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
       "kanal": "IchBinFabian",
-      "titel": "Claude Managed Agents: Braucht man n8n noch?!",
-      "link": "https://www.youtube.com/watch?v=vEHnR_ONlAk",
-      "video_id": "vEHnR_ONlAk",
-      "thumbnail": "https://img.youtube.com/vi/vEHnR_ONlAk/mqdefault.jpg",
-      "datum": "2026-04-14T06:45:07Z",
+      "titel": "Claude Managed Agents: Ersetzt das wirklich n8n?!",
+      "link": "https://www.youtube.com/watch?v=V6aqX8Ia8Ao",
+      "video_id": "V6aqX8Ia8Ao",
+      "thumbnail": "https://img.youtube.com/vi/V6aqX8Ia8Ao/mqdefault.jpg",
+      "datum": "2026-04-14T18:03:48Z",
       "datum_de": "14.04.2026",
       "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Krass: Neue Claude „Managed Agents” getestet! (Alle Funktionen + Beispiele)",
+      "link": "https://www.youtube.com/watch?v=SMNhtBT-NGQ",
+      "video_id": "SMNhtBT-NGQ",
+      "thumbnail": "https://img.youtube.com/vi/SMNhtBT-NGQ/mqdefault.jpg",
+      "datum": "2026-04-14T15:15:00+00:00",
+      "datum_de": "14.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "NANCY | Projects To Profit",
+      "titel": "Gemini Gems direkt in Google Docs: Der KI-Workflow der dein Büro verändert",
+      "link": "https://www.youtube.com/watch?v=r5B7gzA6DcI",
+      "video_id": "r5B7gzA6DcI",
+      "thumbnail": "https://img.youtube.com/vi/r5B7gzA6DcI/mqdefault.jpg",
+      "datum": "2026-04-14T14:44:07Z",
+      "datum_de": "14.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Wie ich meine Speech-To-Text App gebaut habe",
+      "link": "https://www.youtube.com/shorts/19fDYR32BZg",
+      "video_id": "19fDYR32BZg",
+      "thumbnail": "https://img.youtube.com/vi/19fDYR32BZg/mqdefault.jpg",
+      "datum": "2026-04-14T11:26:12+00:00",
+      "datum_de": "14.04.2026",
+      "quelle": "kanal"
     },
     {
       "kanal": "Christoph Magnussen",
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/YcJRfnPcPhc/mqdefault.jpg",
       "datum": "2026-04-10T10:00:54+00:00",
       "datum_de": "10.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Lasst uns entwickeln :)",
-      "link": "https://www.youtube.com/watch?v=AhqkVn3ylKE",
-      "video_id": "AhqkVn3ylKE",
-      "thumbnail": "https://img.youtube.com/vi/AhqkVn3ylKE/mqdefault.jpg",
-      "datum": "2026-04-10T03:59:18+00:00",
-      "datum_de": "10.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Ex-NASA-Forschungschef: Die Wahrheit über Rechenzentren im WELTALL, Mond-Quantencomputer & KI",
-      "link": "https://www.youtube.com/watch?v=9wMty1uTQaA",
-      "video_id": "9wMty1uTQaA",
-      "thumbnail": "https://img.youtube.com/vi/9wMty1uTQaA/mqdefault.jpg",
-      "datum": "2026-04-09T15:15:00+00:00",
-      "datum_de": "09.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Paperclip  KI Agenten Teams mühelos erstellen & managen!",
-      "link": "https://www.youtube.com/shorts/YcWXi8ttZSQ",
-      "video_id": "YcWXi8ttZSQ",
-      "thumbnail": "https://img.youtube.com/vi/YcWXi8ttZSQ/mqdefault.jpg",
-      "datum": "2026-04-09T12:15:09+00:00",
-      "datum_de": "09.04.2026",
       "quelle": "kanal"
     }
   ]
