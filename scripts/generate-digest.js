@@ -62,7 +62,7 @@ const PODCASTS = [
   {
     name: 'Der KI-Podcast · ARD',
     desc: 'Dienstags · Gregor Schmalzried & Team',
-    rss: 'https://www.br.de/podcast/ki-podcast-feed104.xml',
+    rss: 'https://ki-podcast.podigee.io/feed/mp3',
     spotify: 'https://open.spotify.com/show/7IYjMXCK7KUrNJyVCLUEjk',
     itunesId: '1498491292'
   },
@@ -76,7 +76,7 @@ const PODCASTS = [
   {
     name: 'Deep Minds · KI & Wissenschaft',
     desc: 'Experten-Interviews · tiefgründig',
-    rss: 'https://feeds.soundcloud.com/users/soundcloud:users:341895781/sounds.rss',
+    rss: 'https://feeds.soundcloud.com/users/soundcloud:users:869750728/sounds.rss',
     spotify: 'https://open.spotify.com/show/6rmXt98jRHNziyG1ev3sAT',
     itunesId: '1598920439'
   },
@@ -216,9 +216,19 @@ Hier sind echte Artikel die heute verfügbar sind:
 
 ${artikelText}
 
-Gruppiere diese Artikel in 4-6 thematische Kategorien (z.B. Neue Modelle, Forschung, Unternehmen, Regulierung).
-Schreibe für jeden Artikel eine kurze Zusammenfassung (2-3 Sätze) und eine Einordnung (1 Satz).
+Sortiere die Artikel in folgende Kategorien:
+
+FESTE KATEGORIEN (immer vorhanden, wenn passende Artikel vorhanden):
+1. 🚀 "Neue Modelle & Produkte" — neue KI-Modelle, Tool-Releases, Produktupdates
+2. 🏢 "Unternehmen & Strategie" — OpenAI, Anthropic, Google, Meta, Investments, Firmennews
+3. ⚖️ "Regulierung & Politik" — EU AI Act, Gesetze, Behörden, politische Entscheidungen
+4. 🔬 "Forschung & Wissenschaft" — Papers, Durchbrüche, akademische Studien
+
+FLEXIBLE KATEGORIEN (genau 2, basierend auf dem heutigen Tagesgeschehen):
+Wähle 2 aktuelle Trendthemen die heute besonders im Fokus stehen. Beispiele: KI & Robotik, KI & Sicherheit, KI & Arbeit, KI & Gesellschaft, KI & Kreativität, KI & Gesundheit, KI & Energie — oder andere passende Themen.
+
 Verwende NUR die URLs aus der obigen Liste — erfinde keine neuen URLs.
+Schreibe für jeden Artikel eine kurze Zusammenfassung (2-3 Sätze).
 
 Antworte AUSSCHLIESSLICH als valides JSON ohne Markdown-Backticks:
 
@@ -230,11 +240,12 @@ Antworte AUSSCHLIESSLICH als valides JSON ohne Markdown-Backticks:
     {
       "emoji": "🚀",
       "titel": "Kategoriename",
+      "fest": true,
       "artikel": [
         {
           "titel": "Artikeltitel auf Deutsch",
           "zusammenfassung": "2-3 Sätze Zusammenfassung",
-          "einordnung": "1 Satz Einordnung für KI-Interessierte",
+          "einordnung": "",
           "quelle": "Quellenname",
           "url": "https://... (aus der obigen Liste)",
           "sterne": "⭐⭐⭐"
@@ -246,10 +257,11 @@ Antworte AUSSCHLIESSLICH als valides JSON ohne Markdown-Backticks:
 }
 
 Regeln:
-- Nur Artikel aus der obigen Liste verwenden
-- 4-6 Kategorien, pro Kategorie 2-5 Artikel
+- Genau 4 feste + 2 flexible Kategorien = 6 Kategorien total
+- Pro Kategorie 2-4 Artikel
 - Alle Texte auf Deutsch
-- Sterne: ⭐⭐⭐ = bahnbrechend, ⭐⭐ = bedeutend, ⭐ = interessant`;
+- Sterne: ⭐⭐⭐ = bahnbrechend, ⭐⭐ = bedeutend, ⭐ = interessant
+- Nur Artikel aus der obigen Liste verwenden`;
 
   const url  = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
   const resp = await fetch(url, {
