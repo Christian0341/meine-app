@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-04-15T08:48:43.818656+00:00",
+  "aktualisiert": "2026-04-16T08:49:26.210943+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "IchBinFabian",
+      "titel": "Karpathys Second Brain mit Claude Code nachbauen!",
+      "link": "https://www.youtube.com/watch?v=RBfZhKQv3u8",
+      "video_id": "RBfZhKQv3u8",
+      "thumbnail": "https://img.youtube.com/vi/RBfZhKQv3u8/mqdefault.jpg",
+      "datum": "2026-04-15T16:30:09Z",
+      "datum_de": "15.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Xing-Gründer: „Europa ist ABGEHÄNGT!\" Der Tod von SaaS, Renaissance & Zukunft (Lars Hinrichs)",
+      "link": "https://www.youtube.com/watch?v=hLFVfscRWQc",
+      "video_id": "hLFVfscRWQc",
+      "thumbnail": "https://img.youtube.com/vi/hLFVfscRWQc/mqdefault.jpg",
+      "datum": "2026-04-15T15:15:00+00:00",
+      "datum_de": "15.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Verschwende nicht deine Zeit mit Vibe Coding - mach das stattdessen...",
+      "link": "https://www.youtube.com/watch?v=7haO6Yft49Q",
+      "video_id": "7haO6Yft49Q",
+      "thumbnail": "https://img.youtube.com/vi/7haO6Yft49Q/mqdefault.jpg",
+      "datum": "2026-04-15T14:15:01+00:00",
+      "datum_de": "15.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Speech-To-Text App mit AI #claudecode",
+      "link": "https://www.youtube.com/shorts/xS4wNKwAfNA",
+      "video_id": "xS4wNKwAfNA",
+      "thumbnail": "https://img.youtube.com/vi/xS4wNKwAfNA/mqdefault.jpg",
+      "datum": "2026-04-15T13:58:01+00:00",
+      "datum_de": "15.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Cloud Code Agent Teams  Aktivierung & Effektive Nutzung erklärt!",
+      "link": "https://www.youtube.com/shorts/C7q7_s7_3rs",
+      "video_id": "C7q7_s7_3rs",
+      "thumbnail": "https://img.youtube.com/vi/C7q7_s7_3rs/mqdefault.jpg",
+      "datum": "2026-04-15T13:00:18+00:00",
+      "datum_de": "15.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "IchBinFabian",
       "titel": "Claude Managed Agents: Ersetzt das wirklich n8n?!",
@@ -14,7 +64,7 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "Krass: Neue Claude „Managed Agents” getestet! (Alle Funktionen + Beispiele)",
+      "titel": "Krass: Das können Claude „Managed AGENTS”! (Alle Funktionen + Beispiele)",
       "link": "https://www.youtube.com/watch?v=SMNhtBT-NGQ",
       "video_id": "SMNhtBT-NGQ",
       "thumbnail": "https://img.youtube.com/vi/SMNhtBT-NGQ/mqdefault.jpg",
@@ -101,56 +151,6 @@
       "datum": "2026-04-12T07:39:26Z",
       "datum_de": "12.04.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "So 10x du deine Claude Code Agent Teams! ",
-      "link": "https://www.youtube.com/watch?v=sDfnOnAvxcU",
-      "video_id": "sDfnOnAvxcU",
-      "thumbnail": "https://img.youtube.com/vi/sDfnOnAvxcU/mqdefault.jpg",
-      "datum": "2026-04-11T14:15:06+00:00",
-      "datum_de": "11.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "KRASSE KI NEWS: Gefährlichstes Modell ALLER ZEITEN?! Anthropic warnt Regierung!",
-      "link": "https://www.youtube.com/watch?v=j1Ivwkvx9XE",
-      "video_id": "j1Ivwkvx9XE",
-      "thumbnail": "https://img.youtube.com/vi/j1Ivwkvx9XE/mqdefault.jpg",
-      "datum": "2026-04-11T07:50:01+00:00",
-      "datum_de": "11.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Anthropic Claude Code Leak  Roadmap enthüllt!",
-      "link": "https://www.youtube.com/shorts/W4DEqQsh0sg",
-      "video_id": "W4DEqQsh0sg",
-      "thumbnail": "https://img.youtube.com/vi/W4DEqQsh0sg/mqdefault.jpg",
-      "datum": "2026-04-10T17:00:48+00:00",
-      "datum_de": "10.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Sechsstelliger Betrag gespart durch KI-Systeme als Versicherungsmakler | Everlast AI Erfahrung",
-      "link": "https://www.youtube.com/watch?v=3yHzSGc4HcA",
-      "video_id": "3yHzSGc4HcA",
-      "thumbnail": "https://img.youtube.com/vi/3yHzSGc4HcA/mqdefault.jpg",
-      "datum": "2026-04-10T11:00:00+00:00",
-      "datum_de": "10.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Von Rechtfertigungsbürokratie zu Rare Diseases: Wo KI im Gesundheitswesen wirklich Leben rettet!",
-      "link": "https://www.youtube.com/watch?v=YcJRfnPcPhc",
-      "video_id": "YcJRfnPcPhc",
-      "thumbnail": "https://img.youtube.com/vi/YcJRfnPcPhc/mqdefault.jpg",
-      "datum": "2026-04-10T10:00:54+00:00",
-      "datum_de": "10.04.2026",
-      "quelle": "kanal"
     }
   ]
 }
