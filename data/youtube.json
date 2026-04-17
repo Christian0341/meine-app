@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-04-16T08:49:26.210943+00:00",
+  "aktualisiert": "2026-04-17T08:48:45.092293+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "Prof. Alois Knoll: DAS ist der nächste Durchbruch bei Humanoiden Robotern, Weltmodellen & AGI!",
+      "link": "https://www.youtube.com/watch?v=LzW02B55Y5c",
+      "video_id": "LzW02B55Y5c",
+      "thumbnail": "https://img.youtube.com/vi/LzW02B55Y5c/mqdefault.jpg",
+      "datum": "2026-04-16T15:15:00+00:00",
+      "datum_de": "16.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "KI Vibe Coding  Die Wahrheit über deine KI Nutzung",
+      "link": "https://www.youtube.com/shorts/wpp5OT5fe8A",
+      "video_id": "wpp5OT5fe8A",
+      "thumbnail": "https://img.youtube.com/vi/wpp5OT5fe8A/mqdefault.jpg",
+      "datum": "2026-04-16T13:56:23+00:00",
+      "datum_de": "16.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Grok Tutorial 2026: Komplette Anleitung für Einsteiger (kostenlos)",
+      "link": "https://www.youtube.com/watch?v=2fOUPgKvtZI",
+      "video_id": "2fOUPgKvtZI",
+      "thumbnail": "https://img.youtube.com/vi/2fOUPgKvtZI/mqdefault.jpg",
+      "datum": "2026-04-16T12:00:11+00:00",
+      "datum_de": "16.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "IchBinFabian",
       "titel": "Karpathys Second Brain mit Claude Code nachbauen!",
@@ -24,7 +54,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Verschwende nicht deine Zeit mit Vibe Coding - mach das stattdessen...",
+      "titel": "Verschwende nicht deine Zeit mit Vibe Coding - mach stattdessen das",
       "link": "https://www.youtube.com/watch?v=7haO6Yft49Q",
       "video_id": "7haO6Yft49Q",
       "thumbnail": "https://img.youtube.com/vi/7haO6Yft49Q/mqdefault.jpg",
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/Oatm7_HXaD0/mqdefault.jpg",
       "datum": "2026-04-13T07:15:03Z",
       "datum_de": "13.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Shakeela ZQ",
-      "titel": "Dieser NotebookLM + Claude AI Workflow ist unglaublich (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=XHVgq4zodpE",
-      "video_id": "XHVgq4zodpE",
-      "thumbnail": "https://img.youtube.com/vi/XHVgq4zodpE/mqdefault.jpg",
-      "datum": "2026-04-12T11:30:21Z",
-      "datum_de": "12.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Claude „Mythos\" BRICHT das Internet! Projekt Glasswing, Meta Muse Spark, HeyGen-5 & weitere KI-News",
-      "link": "https://www.youtube.com/watch?v=ZLSX-R2FTyI",
-      "video_id": "ZLSX-R2FTyI",
-      "thumbnail": "https://img.youtube.com/vi/ZLSX-R2FTyI/mqdefault.jpg",
-      "datum": "2026-04-12T08:15:00+00:00",
-      "datum_de": "12.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Fynn Röber",
-      "titel": "Claude Code hat YouTube-Videos für immer verändert (Tutorial)",
-      "link": "https://www.youtube.com/watch?v=2rAcCuJFASw",
-      "video_id": "2rAcCuJFASw",
-      "thumbnail": "https://img.youtube.com/vi/2rAcCuJFASw/mqdefault.jpg",
-      "datum": "2026-04-12T07:39:26Z",
-      "datum_de": "12.04.2026",
       "quelle": "suche"
     }
   ]
