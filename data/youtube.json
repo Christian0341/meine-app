@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-04-18T08:02:18.215870+00:00",
+  "aktualisiert": "2026-04-19T08:10:26.322250+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Das beste Update 2026: Claude Routines sind verrückt gut! ",
+      "link": "https://www.youtube.com/watch?v=B-xubxSQ8EI",
+      "video_id": "B-xubxSQ8EI",
+      "thumbnail": "https://img.youtube.com/vi/B-xubxSQ8EI/mqdefault.jpg",
+      "datum": "2026-04-18T14:15:04+00:00",
+      "datum_de": "18.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "AI mit Arnie",
+      "titel": "Claude Design ist ein Beast",
+      "link": "https://www.youtube.com/watch?v=ZTCYHG9ZIH4",
+      "video_id": "ZTCYHG9ZIH4",
+      "thumbnail": "https://img.youtube.com/vi/ZTCYHG9ZIH4/mqdefault.jpg",
+      "datum": "2026-04-18T12:55:37Z",
+      "datum_de": "18.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Neuland Pro",
+      "titel": "KI NEWS WAHNSINN: Opus 4.7 ist da! Angriff auf Sam Altman & Roboter wird Basketball-Star",
+      "link": "https://www.youtube.com/watch?v=qpIspTrZYX8",
+      "video_id": "qpIspTrZYX8",
+      "thumbnail": "https://img.youtube.com/vi/qpIspTrZYX8/mqdefault.jpg",
+      "datum": "2026-04-18T08:06:37+00:00",
+      "datum_de": "18.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "Prof. Alois Knoll: DAS ist der nächste Durchbruch bei Humanoiden Robotern, Weltmodellen & AGI!",
@@ -121,36 +151,6 @@
       "datum": "2026-04-14T11:26:12+00:00",
       "datum_de": "14.04.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Nie wieder tippen! Meine eigene Speech-to-Text App (Claude Code)",
-      "link": "https://www.youtube.com/watch?v=vVTl1dqPL0k",
-      "video_id": "vVTl1dqPL0k",
-      "thumbnail": "https://img.youtube.com/vi/vVTl1dqPL0k/mqdefault.jpg",
-      "datum": "2026-04-13T16:34:34+00:00",
-      "datum_de": "13.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Ich hab OpenClaw allein auf meinen Code gelassen",
-      "link": "https://www.youtube.com/watch?v=S60pby2p7Yw",
-      "video_id": "S60pby2p7Yw",
-      "thumbnail": "https://img.youtube.com/vi/S60pby2p7Yw/mqdefault.jpg",
-      "datum": "2026-04-13T14:33:07+00:00",
-      "datum_de": "13.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "IchBinFabian",
-      "titel": "Gemma 4: Kostenloses AI-Coding lokal in Claude Code (Ollama Setup)",
-      "link": "https://www.youtube.com/watch?v=Oatm7_HXaD0",
-      "video_id": "Oatm7_HXaD0",
-      "thumbnail": "https://img.youtube.com/vi/Oatm7_HXaD0/mqdefault.jpg",
-      "datum": "2026-04-13T07:15:03Z",
-      "datum_de": "13.04.2026",
-      "quelle": "suche"
     }
   ]
 }
