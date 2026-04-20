@@ -1,7 +1,7 @@
 {
-  "datum": "Samstag, 18. April 2026",
-  "datumISO": "2026-04-18",
-  "tagesthema": "Der heutige KI-News Digest beleuchtet die neuesten Produktinnovationen von Tech-Giganten, die fortschreitende Regulierung und die vielfältigen Auswirkungen von KI auf Wirtschaft, Gesellschaft und Sicherheit.",
+  "datum": "Montag, 20. April 2026",
+  "datumISO": "2026-04-20",
+  "tagesthema": "Der globale KI-Wettbewerb spitzt sich zu, während Europa über die richtige Balance aus Regulierung und Innovationsförderung ringt und neue KI-Anwendungen in Industrie und Alltag Einzug halten.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,36 +9,36 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Codex für (fast) alles - OpenAI",
-          "zusammenfassung": "OpenAI hat 'Codex für (fast) alles' vorgestellt, ein vielseitiges neues Modell, das die Grenzen der KI-Anwendung erweitert. Es verspricht, komplexe Aufgaben zu automatisieren und die Interaktion mit digitalen Systemen zu vereinfachen.",
-          "einordnung": "",
-          "quelle": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzSFpoRy1kd1VwSURXTXJYOEF2RWg0c1RHWnA0OVg3UncwQ1dhWVdHZlJsNXVOTDZybXhsaFpoUzFoRXdRNlpLaWhXVDBSMVpWTTBpcGwwc1BsTFFLd2lpMTlteG1HbExWWWpj?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
           "titel": "Anthropic stellt Claude Design vor: KI-Werkzeug für Prototypen und Webseiten",
-          "zusammenfassung": "Anthropic präsentiert 'Claude Design', ein spezielles KI-Werkzeug, das Entwickler und Designer bei der Erstellung von Prototypen und Webseiten unterstützen soll. Es zielt darauf ab, den Designprozess zu beschleunigen und zu optimieren.",
+          "zusammenfassung": "Anthropic hat \"Claude Design\" vorgestellt, ein neues KI-Werkzeug, das speziell für die Erstellung von Prototypen und Webseiten entwickelt wurde. Dieses Tool soll Designprozesse beschleunigen und Entwicklern neue Möglichkeiten zur schnellen Umsetzung von Ideen eröffnen.",
           "einordnung": "",
           "quelle": "heise online",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmdMb2EtT040NTBYUmpLOEg2Vk5Jb0dGYjF0bGprV1RsaXg4TGRMY0JsU0lRY1dTa2xBR2xienRoT2MtSnhQc09yU3lMdFczaGNlSWJTNFlhVG1GRXdRZmZlTFctWjlSdXVCRVlLbFpoLWR4WWc4TFlWcEYwMXdaY1hTbG5ONGRtd2huMklKUmtBd2FJa08wUmJOM2tEYzRUZ0toa1FsYXlXaWZrbDJkZjktNjZhdW8?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Befolgt Anweisungen „substanziell besser“: Anthropic gibt Opus 4.7 frei",
-          "zusammenfassung": "Anthropic gibt die Freigabe von Opus 4.7 bekannt, einer weiterentwickelten Version ihres KI-Modells, die Anweisungen 'substanziell besser' befolgen soll. Diese Verbesserung verspricht präzisere und zuverlässigere Ergebnisse in verschiedenen Anwendungsbereichen.",
-          "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzFTR1RZNVlkbzQyc1NUeFU5VElyc1JoUlA5MUkxYzAyNm93eE0ybzY4SzVBTDZrRllUMWpYMjI3R011NlBTUDc1UGl0SGpQamNiV1FjNWJCdWJ0TUNkSTBYQ2sxaHZwd1NCX203T1lvQlRqMkJrWWx4VjMtREJoaDAtakJ0eDd1V1VJd2EwVVZXSGR3VE9peGhyT0hqUnZHQ0hZMldRRUFwVk1n?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
           "titel": "Google Gemini: KI-App für Mac jetzt verfügbar",
-          "zusammenfassung": "Google hat seine KI-App Gemini nun auch für Mac-Nutzer verfügbar gemacht. Dies bringt den leistungsstarken KI-Assistenten nativ auf Apple-Desktops und erweitert dessen Reichweite erheblich.",
+          "zusammenfassung": "Google hat seine KI-App Gemini nun auch für Mac-Nutzer verfügbar gemacht. Dies erweitert die Reichweite von Geminis Funktionen auf eine weitere wichtige Plattform und ermöglicht mehr Anwendern den Zugriff auf Googles fortschrittlichen KI-Assistenten.",
           "einordnung": "",
           "quelle": "Mac Life",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUC1pTmZYcVJKYnJtZDNraW9uWFljbXlya3Awa2RaZF9ZQTkzOURaY3hsWmtDa052Z0M2US0wXzROWVNsaEc0NkFXLVBjQTlmLWxPSC1WS1hpMmUzRnNDZXE2c2tDdExvXzI4T0hXdVdzRUl5WURRRUFLWDNUa3lCalhnMkw1dXVJeWdJbzVyWWNTMkREb184Nw?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "Google Maps mit Gemini: So plant KI deine Reisen – ohne Stress",
+          "zusammenfassung": "Google Maps integriert Gemini, um Nutzern eine stressfreie Reiseplanung durch KI-Unterstützung zu ermöglichen. Diese neue Funktion nutzt die Fähigkeiten von Gemini, um Routen zu optimieren und personalisierte Empfehlungen zu geben, was den Reisealltag vereinfacht.",
+          "einordnung": "",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56S2QyRU5fMExLbTltc2FtRGJtMmZKSzdoZHdseDdNNmJvcnV0ZGdaWUhVYjJVMjRmaDg1QWlTMXZPUmMxeXhMNFRVcTBiZXF1SmIySkpCUjR3VTd5OHN0N1NaNFVqNkt4cWVKZ1F2OHo?oc=5",
           "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Android: So könnt ihr den neuen KI-Begleiter Search Live jetzt nutzen - Google Gemini gibt 5 Tipps (Videos)",
+          "zusammenfassung": "Google stellt den neuen KI-Begleiter \"Search Live\" für Android vor und gibt fünf Tipps zur Nutzung von Google Gemini. Dies zeigt die fortlaufende Integration von KI-Funktionen in mobile Betriebssysteme und deren praktische Anwendung im Alltag der Nutzer.",
+          "einordnung": "",
+          "quelle": "GoogleWatchBlog",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtMnJrdHFpV0U4ckNXeU1DRWlqVkx0dUlZc2dzZXgxcHh1TmNuR0RnQmJQeWZEblY1TmxBenVHekI4Y2ZUMEtOX1pWdzc3dVJleVHSAeABQVVfeXFMTXVINDRidmZIS01XcVZqbzBQWkE3NlFhWjRHTkRPbFpwZm5IeEJFQ0FVbWNYdW5HcjVYWmlYV3FSYVZGSHp4WjdKZHRXalZfMVptX1c1QW01UTNaRXFxcV93eU1Ec2MzN3poMjZ3cGJtUnFPNllweUMyMVZWMVNyeTJSM2RYMG12eEg3OWRqaVpXODhLb2F0eTM2eXpScGtIMkFhc0VRRWlnRzZvNlAxZnZ3cnppelB3d3dHcnMwaWJkd2lYN3hxX1lYNW9tQlhlS0NDekpJbFhJVEZNOE53MDE?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
@@ -48,36 +48,36 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "KI-Assistenten übernehmen die Arbeit: Dropbox und OpenAI starten Produktivitäts-Revolution",
-          "zusammenfassung": "Dropbox und OpenAI starten eine 'Produktivitäts-Revolution' durch die Integration von KI-Assistenten in ihre Produkte. Diese Partnerschaft zielt darauf ab, Arbeitsabläufe zu automatisieren und die Effizienz für Nutzer erheblich zu steigern.",
+          "titel": "HYGH beschleunigt Entwicklung und Kampagnen mit ChatGPT Business",
+          "zusammenfassung": "HYGH nutzt ChatGPT Business, um seine Entwicklungsprozesse und Marketingkampagnen zu beschleunigen. Dieser Anwendungsfall unterstreicht die wachsende Bedeutung von KI-Tools für Unternehmen zur Steigerung der Effizienz und Kreativität.",
           "einordnung": "",
-          "quelle": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb0lENE53OWV6SmhRQkpsZFp5Wk1FcnpmX29NOExCYjJCUG9Da2kwN0c3SmZjOW5IeEo0bGRfMG92MV9EOEUxcFRMNWhqMGhQZWdZVTJuSVRLYkRPczdQbHhtTzBTdXgxOGJtYTJ3aUwzaFBja2hxdi1BVFA2MXppeWZnZnBHY1FFaGp1OW5PdF9TLVNtWXoxcHBTQ01kdFFuWHhLNnRPei1KNDJPQ0hiX3BxOXZac3Q4WFdyUWl4Sms?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMVTFZVThfMHRtRzVJMUNuRmZPMWhiRjMtZVFQSmlyN2lVY3AyaWhrSFRoU0NNUGExTGZjNzFWX2ZTdXZvMS1SUmtMZ1M?oc=5",
+          "sterne": "⭐"
         },
         {
-          "titel": "Die Unternehmen der Schwarz Gruppe planen, ihr Investment in Aleph Alpha zu erweitern",
-          "zusammenfassung": "Die Unternehmen der Schwarz Gruppe planen, ihr Investment in das deutsche KI-Startup Aleph Alpha zu erweitern. Dies unterstreicht das Vertrauen in die heimische KI-Forschung und -Entwicklung und stärkt den Standort Deutschland.",
+          "titel": "OpenAI in der Krise: Der ChatGPT-Hersteller am Rande des Nervenzusammenbruchs",
+          "zusammenfassung": "Berichte deuten auf eine Krise bei OpenAI hin, die den Hersteller von ChatGPT an den Rand eines Nervenzusammenbruchs bringen könnte. Interne Spannungen und strategische Herausforderungen scheinen das Unternehmen zu belasten und werfen Fragen zur zukünftigen Ausrichtung auf.",
           "einordnung": "",
-          "quelle": "Schwarz Gruppe",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkhNTmpvWlRSOXdqWUhuOHJWc1BpcnloTFdqVENOMkx6MzFYQ3ZFaDE4bmZpSFBnbzF2VjN6UXFqT25HcS1ud3dfdi1VclFQaHFmYkJWVUY1Rk0tVWRjNDQ3cDl0d2NBaGNzeFpnbXRqeVpZNDJlNnVkMUtTNXZCOXpEWlRqM2lrQWw3Mk4zbVJGWkxvUjZoeFoxNVZMSkhJbkZWOVNjSFA5cWVoWG9KWjBNN1UtektVbW5DbGJUeHRGa2Zm?oc=5",
+          "quelle": "Der Standard",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblRoU2V6X2V2MVVYZ1IzLUJXVG1kQXFKUFdNR0pUc1psSnZaZjVzbW9UUXNYUlRfbHhmX25SQzBtNXExWWZKZ1ducmpoWW52WHVqYnpVOVhMS1ZveHFsZm82M2hnaUt4cFp5b2hkT0VXRGVWSTJPZ0FvZXJDSDVZRHVDLWRmTWlHODA0UldHdG5uNWpFY0p4TW43MGlPN2QxcjM2UlY5QzZSeGEzWUZLc1hWN0ZlSG9WZncwMDZ0SDU0SFF1aVNyam1uWkpHTC0x?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Investieren in die Zukunft: Wie KI-ETFs die Märkte revolutionieren",
-          "zusammenfassung": "Der Artikel beleuchtet, wie KI-ETFs die Finanzmärkte revolutionieren und Anlegern neue Möglichkeiten bieten, in den wachsenden KI-Sektor zu investieren. Es wird das Potenzial für zukünftige Renditen analysiert und die Attraktivität dieser Anlageform hervorgehoben.",
+          "titel": "Claude Mythos: Nur er bestimmt die Regeln – die wahren Motive des mächtigen KI-Torwächters",
+          "zusammenfassung": "Dieser Artikel beleuchtet die Rolle von Claude als mächtiger \"KI-Torwächter\" und hinterfragt die wahren Motive hinter seiner Entwicklung und den von ihm gesetzten Regeln. Es geht um die Einflussnahme von Anthropic auf die KI-Landschaft und die ethischen Implikationen der Modellkontrolle.",
           "einordnung": "",
-          "quelle": "Finanzen.net",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vTHBBQ3FWaEJVX1UzcHFmckJsMXpYT3U4Z1VlYWpyWUxUeHYxM0JQX08zUFMxdS1uOEp2TFp4N2Z5WmtHTy1Eemt3eXVYUmtsUUFPR1ZsZWtxaEJCWHdZakRlTnVoU1NCNXh6RUw4eGswVGs?oc=5",
-          "sterne": "⭐"
+          "quelle": "WELT",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcmRkcnVnRWV5QXBHVFVXU0oxdTBnUnpTVHlyYk95blZYb0xKTFJVcTlJVVh0N0g1M3kxNGJMY0sxSkM0TkRBMm1HbFh2LWhMc2xHUTNZRTA0YTlQN3pESzNmdDA2cGxSaHFPcjFfbDZLbVBiT0hEMjFLY1VjbjV2QzJ5SUhpWmJ1Q2xQZmRMY2hPTFJEaE1sQ3loVTVyN1dvYnNYZ2RXQ01mNllLN3JKTXBFZ1R6RFp0dnRBX2NOMVpKaG1CZEMxcTN1dFdEc0ZmLVNfcDRlM2xHQnNSY2NoVVNhSE9JVGJjRmc?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "Warum KI-Investitionen versanden",
-          "zusammenfassung": "Ein kritischer Blick auf die Gründe, warum einige KI-Investitionen nicht die erwarteten Erfolge erzielen. Der Artikel diskutiert Herausforderungen und Fallstricke bei der Implementierung und Skalierung von KI-Projekten und warnt vor überzogenen Erwartungen.",
+          "titel": "Claude Mythos von Anthropic: Achtung, die KI-Hacker kommen",
+          "zusammenfassung": "Der \"Claude Mythos\" von Anthropic wird kritisch beleuchtet, insbesondere im Hinblick auf potenzielle Schwachstellen und die Gefahr durch \"KI-Hacker\". Der Artikel warnt vor den Risiken, die mit mächtigen KI-Modellen wie Claude einhergehen können, und fordert erhöhte Sicherheitsmaßnahmen.",
           "einordnung": "",
-          "quelle": "springerprofessional.de",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeE9VcWFoODlHUDZtcTM1Rm9LSEVSWXJZdnFFVHF5R2h3R3pYbkp4UTdNd0tEczFfQTRtaDlTbDFqQlprUjFEYzZRQTB1bWg3U0x2SWZDOXJGQTNuUzNqUU1OdU9RQlNzR2VtTEVoVXE3NnBkOTdYeEM5VzVHV1JDOXNrVHJQWVRvVWVsekJELVBiQzRtSXdXR2ZPbUdYbWE2ZnRzcmgtYl9vMzhMMW1aeU9SekFoeG1zZ0c4ag?oc=5",
-          "sterne": "⭐"
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUhFenkwdk00Nm1OLTN2N2RWTlpoNVhKbGNsV2VON0dUZnNXblgyNGxzNFFLR0dKQjNraHB0aVhKWnRHUTBjUnFPNnhSYi1NbGNwdzJlTmE4ckhBVUxqM2cyVTRHRGZ5NmFKU21zb21IblVTX2dBS2c4RVRDVDlzZ01kVC1GbGlqRlAwc2dmdGU5QUN0SWlXd1V6YjRvdVNBTjNLb2kwVUlRaXhJR0JjVEpWZHVqbTdnQjZKOVRnZw?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     },
@@ -87,36 +87,36 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "KI-Gesetz zwingt Webseiten zu Transparenz und neuen Sicherheitsstandards",
-          "zusammenfassung": "Ein neues KI-Gesetz tritt in Kraft, das Webseiten zu mehr Transparenz und neuen Sicherheitsstandards verpflichtet. Dies soll den Schutz der Nutzer erhöhen und einen verantwortungsvollen Umgang mit KI-Technologien gewährleisten.",
-          "einordnung": "",
-          "quelle": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkl4RngyNl9UOV9naEk1aWtPLWFPQ2cwZFpKdk4wRURENjRqUmpJMXpQSV9paUNUZUVvOHFzVnMtM2lIS2dfTUREYWpPNnRKMmJWUEFWQm9MS2lsT25aOV9sYlZNNU1IS1FCMjh0MlhVRzdGcXI0aHJoWFRKdWdYU1B0VHdBSWhCUFRPZDQtcEhIa0l3cnJHT0JSeTBKa05IajN0ZlFDc2p6amNpSWNIV3RTd3dSbDd6OG1aZXJuZTRrb3BpOFNZMy1wQQ?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "EU AI Act: Frist verschoben – Warum HR jetzt trotzdem handeln muss",
-          "zusammenfassung": "Obwohl die Frist für den EU AI Act verschoben wurde, betont der Artikel, warum HR-Abteilungen bereits jetzt handeln müssen. Unternehmen sind angehalten, sich proaktiv auf die kommenden Vorschriften vorzubereiten, um Compliance-Risiken zu vermeiden.",
-          "einordnung": "",
-          "quelle": "Personalwirtschaft",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlFQNXlWSXhDT2IyZEdZZXBzSHRtQlpoRDJueWItaTVYR0J3cnBtekxYWGdMTmhFWDh3NVVvSGlackprQktNU0V2SXZZU2NlMjI0U2s2dmpyYjRoT1laSm1faFFpdlg1dE03R0N6clFvbUIzZHFxeUZ3RldyZnNvZzhlWTgtN2pudTZ3NTR6NUhpOWVONEU2ZGVjNVRnYzd3Nm9wdkUzMXZOUQ?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
           "titel": "ChatGPT als Suchmaschine einstufen? Wenn OpenAI gegen die EU verliert, gewinnen wir",
-          "zusammenfassung": "Der Artikel diskutiert die mögliche Einstufung von ChatGPT als Suchmaschine und die weitreichenden Folgen, sollte OpenAI gegen die EU verlieren. Dies könnte neue Präzedenzfälle für die Regulierung von KI-Modellen schaffen und den Wettbewerb beeinflussen.",
+          "zusammenfassung": "Die Debatte, ob ChatGPT als Suchmaschine eingestuft werden sollte, könnte weitreichende Folgen für OpenAI haben, insbesondere im Hinblick auf die EU-Regulierung. Ein potenzieller Verlust von OpenAI vor der EU könnte für Nutzer mehr Transparenz und bessere Datenschutzstandards bedeuten.",
           "einordnung": "",
           "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3lkcGd3aVRYOTRPQUlDVy1sb19qSXJPaHM3N0I4VU9tU1BPSnExMFpmOFFueGNNaVJsOHlWajNHbk1uQW1nTUpRUWxPR0RxME0xbEV6aXlKd25SVWZMNVd2SkFEbjFpR2ZPX251Y2hQRUNMcXlUTkpOYkZFT3UyX3RKLVl1X1YzcEZvaTd0eFhCMGc0WHd4TGlJbEs4YTRhMzdIWk1JYmRMakJNNTh3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3lkcGd3aVRYOTRPQUlDVy1sb19qSXJPaHM3N0I4VU9tU1BPSnExMFpmOFFueGNNaVJsOHlWajNHbm1uQW1nTUpRUWxPR0RxME0xbEV6aXlKd25SVWZMNVd2SkFEbjFpR2ZPX251Y2hQRUNMcXlUTkpOYkZFT3UyX3RKLVl1X1YzcEZvaTd0eFhCMGc0WHd4TGlJbEs4YTRhMzdIWk1JYmRMakJNNTh3?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "KI Regulierung - Bundesministerium für Digitales und Staatsmodernisierung",
-          "zusammenfassung": "Das Bundesministerium für Digitales und Staatsmodernisierung gibt Einblicke in seine Strategie zur KI-Regulierung. Ziel ist es, Innovationen zu fördern und gleichzeitig ethische Standards und Sicherheit zu gewährleisten, um das Vertrauen in KI zu stärken.",
+          "titel": "Merz fordert weniger EU-Regulierung für Industrie-KI",
+          "zusammenfassung": "Friedrich Merz fordert eine Reduzierung der EU-Regulierung für Künstliche Intelligenz im Industriesektor, um die Wettbewerbsfähigkeit Europas zu stärken. Diese politische Positionierung unterstreicht die anhaltende Debatte über das richtige Maß an staatlicher Kontrolle für KI-Innovationen.",
           "einordnung": "",
-          "quelle": "Bundesministerium für Digitales und Staatsmodernisierung",
-          "url": "https://news.google.com/rss/articles/CBMidEFVV3lxTE85ZWthc1dYejNfNGdqSEZfTjdhMDlGdnZkREFKVmtlU1Y0eW04c0JjdS1wXzU4U2RlaHZmakRTQkNsV3pwYy1DNEJpSG9xX0NoUFVOamZTUG5MektINmFpcFdoc3IyU1FSZmF2eWVpMzQyUTRE?oc=5",
-          "sterne": "⭐"
+          "quelle": "Golem",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0xLclZzWWdrdzV2cmdoV1ZpbjJxbjRqdm5TeGpQVDZkUEN2NlN2bk1YUDl2bDk4M1lwTVBrdUlzcUNoa2FfeVVialJUZVZpMmxYNnhnbUNXTGdmbmttX1BpOFJGTHVoNnZWRjEzVE1BOVBtWFliLWk2RFlfRXpobkNPRXJGRlpaVHZIVXV2RjJxZG1TNVFBczNNd0VEczk4eHItUTRFTFgxeE5HbWxfYmpVenpDRGtJ?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "KI-Sicherheit und EU-Regulierung prägen 2026",
+          "zusammenfassung": "Der Artikel prognostiziert, dass KI-Sicherheit und die EU-Regulierung die Entwicklungen im Jahr 2026 maßgeblich prägen werden. Dies zeigt die zentrale Bedeutung rechtlicher Rahmenbedingungen und Sicherheitsaspekte für die zukünftige Gestaltung der KI-Landschaft und ihrer Anwendungen.",
+          "einordnung": "",
+          "quelle": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0VSTVA4ZUVDV3NWQlRIdGZMaTJqTnNhNjZqOFA1VkJ2eHVlcEY5aC1pOHNndGsyaXhPNmxLY09vNWcxS1lWQ3lDTlY0RlNId3dqNjFuM1NZV2hCeW1NQ0luSHBzeVVTU0NOcnBCWU5jeGJTQlBSbE9JM3M5MVAwRGhTOW8wdXN4M3NjTTEtRWtsdjVBMG55VXZEd0prUG5RR3lXanR1RQ?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Siemens-Chef: KI-Investitionen verlagern sich bei strikter EU-Regulierung in die USA und nach China",
+          "zusammenfassung": "Der Siemens-Chef warnt davor, dass strikte EU-Regulierungen im Bereich KI zu einer Verlagerung von Investitionen in die USA und nach China führen könnten. Diese Aussage verstärkt die Bedenken hinsichtlich der Wettbewerbsfähigkeit Europas im globalen KI-Rennen und fordert eine Überprüfung der aktuellen Ansätze.",
+          "einordnung": "",
+          "quelle": "MarketScreener Deutschland",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNV9RZ1MzTVgtM3YzQVB1V1VIUWx6aENsam8xNXRPSnc0NjlDRUhZYUxUaWJpNVdoN1hiX2E4V2RUeUx2bWtKclQ2QmQ3LUJsTUhpY3lidWc2eDZjd3NDaWNGSjFoQUJkTTgwSmRrVjJmUmVDUDJXV083VDBpYzNpc3lwUUtvTUVsU0RhTmRfaTdQeC1tTFkwZTFIX1pNR2U5ZXAyU29jaU5rMTNCMFp4cGFtMC1zaGowWmlnTlBqM3EtdldLRmpDSC1JUTFaV0d3bkRZVU5rVHI4bVBDNnZBaDlERjBpbDN3QVZiZkhTa1JvNVJwSTA0?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
@@ -126,95 +126,71 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Rasanter Fortschritt in der Medizin: Wie KI Forschung und Therapie verändert",
-          "zusammenfassung": "Der rasante Fortschritt der KI verändert Forschung und Therapie in der Medizin grundlegend. Der Artikel beleuchtet, wie KI neue Diagnosen ermöglicht, personalisierte Behandlungsansätze revolutioniert und die Entwicklung neuer Medikamente beschleunigt.",
-          "einordnung": "",
-          "quelle": "Deutsche Wirtschaftsnachrichten",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRlV5STVKclZhX3NSSDExSjNfTlQ1SVJCS20yeWZFWTZmdTNTVTlhVGFUSG8zQWxRcS1hbEd1UExYdEN0Unc2YXo4SDJfZ1hudVlSVmNzZ1RlNTd4ajJvZk04U2hfczR6dmhWUHJiX2RpOFVidjdhQ0t1WDFRVWFKYU45V0RiN0tPYk53NjBaSFp6aUlBSnZDc2xIdWZOVXVRVDZMYlJ2ekJuU3pfWl9rbm1QSkJibzMwQ0RFR25YX3ZUUzFJS2c?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "(S+) Künstliche Intelligenz: Was die KI mit unserem Gehirn anrichtet",
-          "zusammenfassung": "Der Spiegel untersucht, welche Auswirkungen Künstliche Intelligenz auf unser Gehirn hat. Es werden sowohl potenzielle Vorteile für die kognitive Leistungsfähigkeit als auch Risiken für menschliche Interaktion und Entscheidungsfindung diskutiert.",
-          "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa01PLVpJQzlfdHdJajd5eVNNdlB6Y3p1akJJM3dOV3lqLTB6WkJwX3FscFhIYWRhNW1aY3BGTUtLWVk2OTZwNU5UYlYzeGJLaGZyY2Y4bkZLNTRxRHpXSFJzLW5XRGxqOG9kRFU2YWtVM1RqVHBsandDNlRLRWVCWVFidWJTcHAxZllFRFB0VzFGMUlCMWpNOTVkVXBNX3d4ZGwxNVF0dDlvQ0lFOFpFVXVDaEg?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
-          "zusammenfassung": "Large Language Models zeigen großes Potenzial in der Onkologie, stehen jedoch vor Infrastrukturproblemen. Der Artikel erörtert die Chancen für die Krebsforschung, von der Datenanalyse bis zur personalisierten Therapie, und die Herausforderungen bei der Implementierung.",
-          "einordnung": "",
-          "quelle": "healthcare-in-europe.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Neue Leitlinien für KI in der Begutachtung in Kraft",
-          "zusammenfassung": "Neue Leitlinien für den Einsatz von KI in der wissenschaftlichen Begutachtung sind in Kraft getreten. Sie sollen faire und transparente Prozesse gewährleisten, den Missbrauch von KI verhindern und die Qualität der Forschung sichern.",
-          "einordnung": "",
-          "quelle": "Forschung & Lehre",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmFWN1RVQjdZa2tXRWNZRlptR2dnNGpXVkJZR2xHRHpNcXFvVjdXdURFMEpqc3p3VFpDT3c0SHZCcVNOWW12czFpU0VnYUtaMTlDTTM0YnVCa3JFQm5kbS1id1B0MkdqTkwwUWNRTnYyY3lacWJCVlFjenZ3YkFsTzFQLWpXVHFQeDJEUmJHeW9TMkVsY1dKQjRRTlNpQlNQbmRYMw?oc=5",
-          "sterne": "⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "🛡️",
-      "titel": "KI & Sicherheit & Ethik",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "Ex-Google-CEO liefert: Super-KI-Drohne macht Jagd auf die Russen-Lkw",
-          "zusammenfassung": "Ein Ex-Google-CEO liefert eine Super-KI-Drohne, die auf russische Lkw Jagd macht, was die Debatte um autonome Waffensysteme neu entfacht. Der Einsatz von KI im Militärbereich wirft erhebliche ethische Fragen und Bedenken hinsichtlich der Eskalation auf.",
-          "einordnung": "",
-          "quelle": "BILD",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb0tlOTVOR1owLVlnX0tpOERJWFZveVhCazRWTjR5QzdZT3VJSk5WNWtjTmpnTi1PZXdMTnJ1V0VVM0xySk9MbjhiYVJwZGc2cndxQmxQNFIzblkxSzI1OUduNTZNN1FFd05IcXZkWm54MHZwZktReGtUQXFQWmdCN2hxVGFRYmJsQjk4QWRiOGZFdDdLNGZLcUlZOUxMeU1PeFJkblV2M3FibmtEMEp0YjJnX2tHY1lMV0R5T09RdEllbEsxeHQ4S2lfXzQ2b2JwWFczbzFiY1lKb0ZIdVpTa29n?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "(S+) Claude Mythos: Ist diese neue KI zu gefährlich für das Internet?",
-          "zusammenfassung": "Der Spiegel fragt, ob die neue KI Claude zu gefährlich für das Internet ist. Die Diskussion dreht sich um die potenziellen Risiken leistungsstarker KI-Modelle, deren unkontrollierte Verbreitung und die Auswirkungen auf die Informationsintegrität.",
-          "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUzctcGV5azdlOF9nN2xIUUxQN0p2enlZdEpFdmlvaGRHMWZpeFFtSVA5QlVIbHlacHZDNnRweTlYNWt1WlNiVkJIN0w4Yk4zODEyaW1fS2daLUdfbFRHVlBvclZ6OTlscnVjQktLNW1YelVGNUYtT1N1WlloNEgydUREaWFBUlJfbXZTZnRnVURESUhMLXNpb1Q5TDNxcVllZjMzZVM1RDIyRGowMzNCTF9hSjRtZ3gwU0wzZWlkX1pDOGIwX1V0ZExwbUZGSUd3M1I1WFBR?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
           "titel": "Open-Cloud-LLMs sicher nutzen: Chancen, Risiken und Marktübersicht 2026",
-          "zusammenfassung": "Der Artikel bietet eine Marktübersicht und beleuchtet Chancen und Risiken bei der sicheren Nutzung von Open-Cloud-LLMs. Es werden Strategien für Unternehmen vorgestellt, um Daten zu schützen, Compliance zu gewährleisten und die Vorteile dieser Modelle sicher zu nutzen.",
+          "zusammenfassung": "Eine Marktübersicht für 2026 beleuchtet die Chancen und Risiken bei der sicheren Nutzung von Open-Cloud-Large Language Models (LLMs). Der Artikel bietet Einblicke in die Herausforderungen und Potenziale dieser Technologie für Unternehmen und betont die Notwendigkeit robuster Sicherheitsstrategien.",
           "einordnung": "",
           "quelle": "it-daily",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02YXNPd0xfaEJUNEs1T1Q0VjdwTHZnZnBpUXU5MnEyNENVYXRnUzdCU1hJSlBMOE5Vc3lTbkk1Z1J1YTJvWmNhWDc2RHozRWtEVHlHanp3VE9BUmlDNHdfeHpuUkFkcUtGRFNkWGY4UU5jaWwzS1VuS2hoMA?oc=5",
           "sterne": "⭐⭐"
+        },
+        {
+          "titel": "5 Beste Large Language Models (LLMs) im April 2026",
+          "zusammenfassung": "Dieser Artikel präsentiert die fünf besten Large Language Models (LLMs) im April 2026 und bietet eine aktuelle Einschätzung der führenden Modelle auf dem Markt. Er dient als Orientierungshilfe für Entwickler und Anwender, die die leistungsfähigsten KI-Modelle für ihre Projekte suchen.",
+          "einordnung": "",
+          "quelle": "Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwbFJ6Nmh3MFBHdjhmcm4waTJUM2VCOVJqWW02UEM3QjlNS0pVTU9ORUlLanFtdDlTME5YdzBlTHQySFBzcFhvUkZQUW9RekxHOU1XLWp3SDJSQkFqeld4aUNQSmFWSW8?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
     {
-      "emoji": "🌍",
-      "titel": "KI & Gesellschaft & Wirtschaft",
+      "emoji": "🌐",
+      "titel": "KI & Standortwettbewerb",
       "fest": false,
       "artikel": [
         {
-          "titel": "KI-Weltmeister in der Industrie? Deutschland liegt in Europa klar vorn",
-          "zusammenfassung": "Deutschland positioniert sich als 'KI-Weltmeister' in der Industrie und liegt in Europa klar vorn. Der Artikel analysiert die Faktoren, die zu diesem Erfolg beitragen, wie Investitionen in Forschung und Entwicklung sowie die Integration von KI in Schlüsselindustrien.",
+          "titel": "Stanford AI Index 2026: Chinas Aufstieg radiert den KI-Vorsprung der USA fast aus",
+          "zusammenfassung": "Der aktuelle Stanford AI Index 2026 zeigt, dass China seinen KI-Vorsprung gegenüber den USA massiv aufgeholt hat und der Abstand nun minimal ist. Dies unterstreicht die Verschiebung der globalen Machtverhältnisse im Bereich der Künstlichen Intelligenz und deutet auf einen intensiveren Wettbewerb hin.",
           "einordnung": "",
-          "quelle": "Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGE1c1VGNG1NY3NKbWJhd0xDLWhqRGt4dFJnZlBvZkJaYlFhelRIRFlXSjVhV1I2M0NQR0lCOWNFLWtmX1JheWZGWnJ1aVNlQ0Z6Vk1LSkswT0dId2tkUi1TTzZrYUNzMmo0dmw2N1ZONG9QVzRoY241ZG5kcHppeWV1Rm0?oc=5",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53TFJBa0VZX3F5ajg1cjU3SnotVmxwcG5KQWFjZ0hfM1NlQU9FR3RkS0FTZ3JaRWdJTURheHJBT01GeEtadk5XVjFyRkV0dWpUSGRTbkFEcWRJRW84dG9ZNlpUZG40VTR1akVQZWIwQVRnUkdhRmRvRlFpLTZWbTQ?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "„Grüs Gott!“: KI-Krug fürs Frühlingsfest mit peinlichem Fehler",
-          "zusammenfassung": "Ein KI-generierter Krug für das Frühlingsfest sorgte mit einem peinlichen 'Grüs Gott!'-Fehler für Heiterkeit und Spott. Dieser Vorfall zeigt humorvoll die Grenzen und Tücken von KI im Alltag auf und erinnert daran, dass menschliche Kontrolle weiterhin unerlässlich ist.",
+          "titel": "KI-Weltmeister in der Industrie? Deutschland liegt in Europa klar vorn",
+          "zusammenfassung": "Eine neue Studie positioniert Deutschland als führend in Europa bei der industriellen Anwendung von Künstlicher Intelligenz. Dies zeigt die Stärke des Landes im Bereich der Integration von KI in Fertigungsprozesse und hebt seine Wettbewerbsfähigkeit hervor.",
           "einordnung": "",
-          "quelle": "Abendzeitung München",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMmFxQW1yYmwyT3ppcmlpM3dVWXdUWlFBajhueFdHbi1nSGlnaHlRci0yLTVIcS1OY0VxYVBienVaNTZjdEduR3pVYWg2UkF1cWoyemlCOU53V0dkVnhMVEVSbmJGOWF3Zk5wQlhtdXlFTUZkTEZGTnJjUUZ1ZDA5eFktREJpYXdTMGVROWtlVUYwZ1JkSmZ0bndnYTlVanpXdm95alF2TWtOZUVKeWRWN1Z3ZEdnbUZVbEU5NTItSjM3LUZXVEJ0M1JSUlV1UUdnS2tkUnZjanE?oc=5",
-          "sterne": "⭐"
+          "quelle": "Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGE1c1VGNG1NY3NKbWJhd0xDLWhqRGt4dFJnZlBvZkJaYlFhelRIRFlXSjVhV1I2M0NQR0lCOWNFLWtmX1JheWZGWnJ1aVNlQ0Z6Vk1LSkswT0dId2tkUi1TTzZrYUNzMmo0dmw2N1ZONG9QVzRoY241ZG5kcHppeWV1Rm0?oc=5",
+          "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "titel": "KI in der Praxis & Anwendung",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "BMW Group und Universität Zagreb: Fortschritte in der Batteriezellfertigung durch Künstliche Intelligenz",
+          "zusammenfassung": "Die BMW Group und die Universität Zagreb haben durch den Einsatz von Künstlicher Intelligenz bedeutende Fortschritte in der Batteriezellfertigung erzielt. Diese Kooperation demonstriert das Potenzial von KI, Produktionsprozesse in der Automobilindustrie zu optimieren und Effizienz zu steigern.",
+          "einordnung": "",
+          "quelle": "BMW Group",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOX1NEMFhyWU4tUDJoVkhGdXpKYWhldG9rUDluUGx3dTc4NjVGeE1zTGtYMHR0SjY4MEhONExvdVA2YXRoQUNmVHNaVHh2dEd3aHFNQ043V0Z0REVYMU12V3F0eFRLc1J1Uk42ekswWk5XUDk1aDdBekRTbmVDT053UEpkbnBlY3hGM2pHVFF0b2J6Sk1JOG1kRzJwZUttb0VuRC16MGNGQmlrdEZzSnIyWlpQU1d1NVRJWnU2T1gzSEVZQXdRX3VUazBMbW9hVklWU2FsN0VSOVBEY2htVmZGcFZOTWJ1eUw0WnNCZEZOZkNvdkVmbFdzVWtjazRqQzhOMWl2WDNn?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
+          "zusammenfassung": "Large Language Models (LLMs) zeigen großes Potenzial in der Onkologie, stehen jedoch vor erheblichen Infrastrukturproblemen bei ihrer Implementierung. Der Artikel diskutiert die vielversprechenden Anwendungen in der Krebsforschung und die notwendigen Schritte zur Überwindung technischer Hürden für eine breitere Nutzung.",
+          "einordnung": "",
+          "quelle": "healthcare-in-europe.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-04-18T06:54:51.293Z",
+  "generiert_um": "2026-04-20T07:38:48.985Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -237,9 +213,9 @@
     {
       "name": "OMR Podcast",
       "desc": "Philipp Westermeyer · Tech & Business",
-      "episode": "Der einflussreichste deutsche Banker, den niemand kennt: Jörg Ambrosius (897)",
-      "datum": "15.4.2026",
-      "dauer": "69 Min.",
+      "episode": "Vom Amateur-Fußballer zum Streaming-Star: Elias Nerlich (#898)",
+      "datum": "19.4.2026",
+      "dauer": "86 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH"
     },
@@ -249,7 +225,7 @@
       "episode": "",
       "datum": "",
       "dauer": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/96/20/26/9620260f-4622-2d3c-2c7c-db54a55c39dc/0.jpg/100x100bb.jpg",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c8/46/6d/c8466dc3-efc5-0852-de44-c3077d2eb17a/mza_12796844955860036292.jpeg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/7IYjMXCK7KUrNJyVCLUEjk"
     },
     {
@@ -264,9 +240,9 @@
     {
       "name": "Deep Minds · KI & Wissenschaft",
       "desc": "Experten-Interviews · tiefgründig",
-      "episode": "",
-      "datum": "",
-      "dauer": "",
+      "episode": "KI bei der BWI und der Bundeswehr | DEEP MINDS #16",
+      "datum": "5.8.2023",
+      "dauer": "87 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/42/5b/33/425b332f-9133-8ea4-4b0f-87cf36be5bfc/mza_3332432553733513187.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/6rmXt98jRHNziyG1ev3sAT"
     },
