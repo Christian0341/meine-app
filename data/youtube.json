@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-04-19T08:10:26.322250+00:00",
+  "aktualisiert": "2026-04-20T09:11:41.147840+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "DigiNerd",
+      "titel": "Ollama KI Assistent lokal auf Windows installieren Tutorial Deutsch",
+      "link": "https://www.youtube.com/watch?v=AX_9m-Z02s8",
+      "video_id": "AX_9m-Z02s8",
+      "thumbnail": "https://img.youtube.com/vi/AX_9m-Z02s8/mqdefault.jpg",
+      "datum": "2026-04-19T18:16:40Z",
+      "datum_de": "19.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "DerKryptoGraf",
+      "titel": "Dein eigener 24/7 KI-Agent: OpenClaw sicher einrichten (Tutorial für Anfänger",
+      "link": "https://www.youtube.com/watch?v=65lOLD2FstQ",
+      "video_id": "65lOLD2FstQ",
+      "thumbnail": "https://img.youtube.com/vi/65lOLD2FstQ/mqdefault.jpg",
+      "datum": "2026-04-19T16:12:26Z",
+      "datum_de": "19.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "Gemini vs Claude AI vs ChatGPT: Welches KI-Tool lohnt sich 2026 wirklich? (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=pPK9OFE6xGU",
+      "video_id": "pPK9OFE6xGU",
+      "thumbnail": "https://img.youtube.com/vi/pPK9OFE6xGU/mqdefault.jpg",
+      "datum": "2026-04-19T14:07:00Z",
+      "datum_de": "19.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Opus 4.7: Ist es VORBEI für Claude? Anthropics Krise, Codex-Updates, GPT-Rosalind & mehr KI-News",
+      "link": "https://www.youtube.com/watch?v=Yob3R9Kb4vg",
+      "video_id": "Yob3R9Kb4vg",
+      "thumbnail": "https://img.youtube.com/vi/Yob3R9Kb4vg/mqdefault.jpg",
+      "datum": "2026-04-19T08:21:00+00:00",
+      "datum_de": "19.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Unfairer Vorteil | KI",
+      "titel": "So machst du Claude zum Designer (Websites &amp; Apps - ohne Code)",
+      "link": "https://www.youtube.com/watch?v=TpbMp7gNM2U",
+      "video_id": "TpbMp7gNM2U",
+      "thumbnail": "https://img.youtube.com/vi/TpbMp7gNM2U/mqdefault.jpg",
+      "datum": "2026-04-18T15:03:02Z",
+      "datum_de": "18.04.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Sascha Taschan",
       "titel": "Das beste Update 2026: Claude Routines sind verrückt gut! ",
@@ -34,7 +84,7 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "Prof. Alois Knoll: DAS ist der nächste Durchbruch bei Humanoiden Robotern, Weltmodellen & AGI!",
+      "titel": "Robotik-Professor: DAS ist die Zukunft! Humanoide Roboter, LLMs, AGI & China (Prof. Alois Knoll)",
       "link": "https://www.youtube.com/watch?v=LzW02B55Y5c",
       "video_id": "LzW02B55Y5c",
       "thumbnail": "https://img.youtube.com/vi/LzW02B55Y5c/mqdefault.jpg",
@@ -100,56 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/xS4wNKwAfNA/mqdefault.jpg",
       "datum": "2026-04-15T13:58:01+00:00",
       "datum_de": "15.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Cloud Code Agent Teams  Aktivierung & Effektive Nutzung erklärt!",
-      "link": "https://www.youtube.com/shorts/C7q7_s7_3rs",
-      "video_id": "C7q7_s7_3rs",
-      "thumbnail": "https://img.youtube.com/vi/C7q7_s7_3rs/mqdefault.jpg",
-      "datum": "2026-04-15T13:00:18+00:00",
-      "datum_de": "15.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "IchBinFabian",
-      "titel": "Claude Managed Agents: Ersetzt das wirklich n8n?!",
-      "link": "https://www.youtube.com/watch?v=V6aqX8Ia8Ao",
-      "video_id": "V6aqX8Ia8Ao",
-      "thumbnail": "https://img.youtube.com/vi/V6aqX8Ia8Ao/mqdefault.jpg",
-      "datum": "2026-04-14T18:03:48Z",
-      "datum_de": "14.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Krass: Das können Claude „Managed AGENTS”! (Alle Funktionen + Beispiele)",
-      "link": "https://www.youtube.com/watch?v=SMNhtBT-NGQ",
-      "video_id": "SMNhtBT-NGQ",
-      "thumbnail": "https://img.youtube.com/vi/SMNhtBT-NGQ/mqdefault.jpg",
-      "datum": "2026-04-14T15:15:00+00:00",
-      "datum_de": "14.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "NANCY | Projects To Profit",
-      "titel": "Gemini Gems direkt in Google Docs: Der KI-Workflow der dein Büro verändert",
-      "link": "https://www.youtube.com/watch?v=r5B7gzA6DcI",
-      "video_id": "r5B7gzA6DcI",
-      "thumbnail": "https://img.youtube.com/vi/r5B7gzA6DcI/mqdefault.jpg",
-      "datum": "2026-04-14T14:44:07Z",
-      "datum_de": "14.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Wie ich meine Speech-To-Text App gebaut habe",
-      "link": "https://www.youtube.com/shorts/19fDYR32BZg",
-      "video_id": "19fDYR32BZg",
-      "thumbnail": "https://img.youtube.com/vi/19fDYR32BZg/mqdefault.jpg",
-      "datum": "2026-04-14T11:26:12+00:00",
-      "datum_de": "14.04.2026",
       "quelle": "kanal"
     }
   ]
