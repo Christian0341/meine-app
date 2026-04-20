@@ -62,9 +62,10 @@ const PODCASTS = [
   {
     name: 'Der KI-Podcast · ARD',
     desc: 'Dienstags · Gregor Schmalzried & Team',
-    rss: 'https://ki-podcast.podigee.io/feed/mp3',
+    // FIX: Korrekte RSS-URL für ARD KI-Podcast (BR24/SWR Produktion)
+    rss: 'https://feeds.br.de/ki-podcast/feed.rss',
     spotify: 'https://open.spotify.com/show/7IYjMXCK7KUrNJyVCLUEjk',
-    itunesId: '1498491292'
+    itunesId: '1698961192'
   },
   {
     name: 'KI verstehen · Deutschlandfunk',
@@ -76,7 +77,8 @@ const PODCASTS = [
   {
     name: 'Deep Minds · KI & Wissenschaft',
     desc: 'Experten-Interviews · tiefgründig',
-    rss: 'https://feeds.soundcloud.com/users/soundcloud:users:869750728/sounds.rss',
+    // FIX: Korrekte SoundCloud User-ID für Deep Minds
+    rss: 'https://feeds.soundcloud.com/users/soundcloud:users:1059316612/sounds.rss',
     spotify: 'https://open.spotify.com/show/6rmXt98jRHNziyG1ev3sAT',
     itunesId: '1598920439'
   },
@@ -88,6 +90,53 @@ const PODCASTS = [
     itunesId: '1560876052'
   }
 ];
+
+// ── Hilfsfunktion: Warten ─────────────────────────────────────────────────────
+const warte = (ms) => new Promise(r => setTimeout(r, ms));
+
+// ── Gemini API mit Retry-Mechanismus ─────────────────────────────────────────
+async function geminiMitRetry(url, body, maxVersuche = 4) {
+  const wartezeiten = [10000, 30000, 60000]; // 10s, 30s, 60s
+
+  for (let versuch = 1; versuch <= maxVersuche; versuch++) {
+    try {
+      console.log(`  Gemini Versuch ${versuch}/${maxVersuche}...`);
+      const resp = await fetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body)
+      });
+
+      if (resp.ok) {
+        return resp;
+      }
+
+      const fehlerText = await resp.text();
+
+      // Bei 503 (Überlastet) oder 429 (Rate Limit) → Retry
+      if ((resp.status === 503 || resp.status === 429) && versuch < maxVersuche) {
+        const warteMs = wartezeiten[versuch - 1] || 60000;
+        console.warn(`  ⚠️ Gemini ${resp.status} (Versuch ${versuch}/${maxVersuche}) — warte ${warteMs/1000}s...`);
+        await warte(warteMs);
+        continue;
+      }
+
+      // Andere Fehler oder letzter Versuch → Fehler werfen
+      throw new Error(`Gemini Fehler ${resp.status}: ${fehlerText}`);
+
+    } catch (e) {
+      // Netzwerkfehler (kein HTTP-Fehler)
+      if (versuch < maxVersuche && !e.message.startsWith('Gemini Fehler')) {
+        const warteMs = wartezeiten[versuch - 1] || 60000;
+        console.warn(`  ⚠️ Netzwerkfehler (Versuch ${versuch}/${maxVersuche}): ${e.message} — warte ${warteMs/1000}s...`);
+        await warte(warteMs);
+        continue;
+      }
+      throw e;
+    }
+  }
+  throw new Error(`Gemini nach ${maxVersuche} Versuchen nicht erreichbar`);
+}
 
 // ── Cover-Bild per iTunes API holen ──────────────────────────────────────────
 async function holeCoverBild(itunesId) {
@@ -197,7 +246,7 @@ async function sammleArtikel() {
         alle.push(a);
       }
     }
-    await new Promise(r => setTimeout(r, 500)); // kurze Pause
+    await warte(500); // kurze Pause
   }
 
   console.log(`  ${alle.length} Artikel gesammelt`);
@@ -206,7 +255,11 @@ async function sammleArtikel() {
 
 // ── Gemini Digest generieren ──────────────────────────────────────────────────
 async function generiereDigest(artikel) {
-  const artikelText = artikel.map((a, i) =>
+  // FIX: Auf max. 18 Artikel begrenzen damit die JSON-Antwort nicht abgeschnitten wird
+  const artikelBegrenzt = artikel.slice(0, 18);
+  console.log(`  Verwende ${artikelBegrenzt.length} von ${artikel.length} Artikeln für Gemini`);
+
+  const artikelText = artikelBegrenzt.map((a, i) =>
     `${i+1}. Titel: ${a.titel}\n   URL: ${a.url}\n   Quelle: ${a.quelle}\n   Datum: ${a.datum}`
   ).join('\n\n');
 
@@ -261,29 +314,41 @@ Regeln:
 - Pro Kategorie 2-4 Artikel
 - Alle Texte auf Deutsch
 - Sterne: ⭐⭐⭐ = bahnbrechend, ⭐⭐ = bedeutend, ⭐ = interessant
-- Nur Artikel aus der obigen Liste verwenden`;
+- Nur Artikel aus der obigen Liste verwenden
+- WICHTIG: Das JSON muss vollständig und gültig sein`;
 
-  const url  = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
-  const resp = await fetch(url, {
-    method:  'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body:    JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0.4, maxOutputTokens: 16000 }
-    })
-  });
+  const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
+  const body = {
+    contents: [{ parts: [{ text: prompt }] }],
+    // FIX: maxOutputTokens auf 32000 erhöht (vorher 16000 war zu wenig → JSON wurde abgeschnitten)
+    generationConfig: { temperature: 0.4, maxOutputTokens: 32000 }
+  };
 
-  if (!resp.ok) {
-    const err = await resp.text();
-    throw new Error(`Gemini Fehler ${resp.status}: ${err}`);
-  }
+  // FIX: Retry-Mechanismus für 503/429 Fehler
+  const resp = await geminiMitRetry(apiUrl, body, 4);
 
   const data = await resp.json();
   const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
   if (!text) throw new Error('Keine Antwort von Gemini');
 
-  const bereinigt = text.replace(/```json\n?|\n?```/g, '').trim();
-  const digest    = JSON.parse(bereinigt);
+  // FIX: Robusteres JSON-Parsing — versucht auch abgeschnittenes JSON zu retten
+  let bereinigt = text.replace(/```json\n?|\n?```/g, '').trim();
+
+  let digest;
+  try {
+    digest = JSON.parse(bereinigt);
+  } catch (parseErr) {
+    // Letzter Versuch: JSON bis zur letzten vollständigen Klammer reparieren
+    console.warn(`  ⚠️ JSON-Parse Fehler, versuche Reparatur... (${parseErr.message})`);
+    const letzteKlammer = bereinigt.lastIndexOf('}\n]');
+    if (letzteKlammer > 0) {
+      bereinigt = bereinigt.slice(0, letzteKlammer + 3) + '\n}';
+      digest = JSON.parse(bereinigt);
+      console.log('  ✅ JSON erfolgreich repariert');
+    } else {
+      throw new Error(`JSON konnte nicht geparst werden: ${parseErr.message}`);
+    }
+  }
 
   if (!digest.kategorien?.length) throw new Error('Keine Kategorien im Digest');
   return digest;
