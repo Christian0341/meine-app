@@ -66,17 +66,110 @@ def hole_news(t):
         print(f"  News-Fehler: {e}")
     return items
 
-def uebersetze_alle(alle_news_dict):
+# ── Gemini API mit Retry-Mechanismus ─────────────────────────────────────────
+def gemini_mit_retry(payload, max_versuche=4):
+    """Schickt einen Request an Gemini mit exponential backoff bei 429/503."""
+    wartezeiten = [15, 30, 60]  # Sekunden
+
+    for versuch in range(1, max_versuche + 1):
+        try:
+            print(f"  Gemini Versuch {versuch}/{max_versuche}...")
+            resp = requests.post(GEMINI_URL, json=payload, timeout=90)
+            print(f"  Gemini HTTP: {resp.status_code}")
+
+            if resp.status_code == 200:
+                return resp
+
+            # Bei 429 (Rate Limit) oder 503 (Überlastet) → Retry
+            if resp.status_code in (429, 503) and versuch < max_versuche:
+                warte = wartezeiten[versuch - 1]
+                print(f"  ⚠️ Gemini {resp.status_code} — warte {warte}s vor Versuch {versuch+1}...")
+                time.sleep(warte)
+                continue
+
+            # Anderen Fehler loggen und None zurückgeben
+            print(f"  ❌ Gemini Fehler {resp.status_code}: {resp.text[:200]}")
+            return None
+
+        except Exception as e:
+            if versuch < max_versuche:
+                warte = wartezeiten[versuch - 1]
+                print(f"  ⚠️ Netzwerkfehler (Versuch {versuch}): {e} — warte {warte}s...")
+                time.sleep(warte)
+            else:
+                print(f"  ❌ Netzwerkfehler nach {max_versuche} Versuchen: {e}")
+                return None
+
+    return None
+
+# ── Einen Batch übersetzen ────────────────────────────────────────────────────
+def uebersetze_batch(eintraege):
     """
-    Übersetzt ALLE News in einer einzigen Gemini-Anfrage.
-    alle_news_dict: {"AbbVie": [news1, news2...], "Allianz": [...], ...}
-    Gibt zurück: {"AbbVie": [ue1, ue2...], ...}
+    Übersetzt einen Batch von News-Titeln via Gemini.
+    eintraege: [(firmenname, index, news_dict), ...]
+    Gibt zurück: [{titel, einordnung}, ...] in gleicher Reihenfolge, oder [] bei Fehler
+    """
+    if not eintraege:
+        return []
+
+    titelliste = "\n".join(
+        f"{idx+1}. [{firma}] {n['titel']}"
+        for idx, (firma, i, n) in enumerate(eintraege)
+    )
+
+    prompt = (
+        f"Uebersetze {len(eintraege)} englische Finanznachrichten-Titel ins Deutsche.\n"
+        f"Schreibe fuer jeden Titel eine kurze Einordnung (1 Satz) fuer Aktionaere.\n"
+        f"Antworte NUR mit einem JSON-Array (kein Markdown, keine Erklaerungen):\n"
+        f'[{{"titel":"DE-Titel","einordnung":"Einordnung"}}]\n\n'
+        f"Titel:\n{titelliste}"
+    )
+
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.1, "maxOutputTokens": 4000}
+    }
+
+    resp = gemini_mit_retry(payload)
+    if resp is None:
+        return []
+
+    try:
+        body = resp.json()
+
+        if 'error' in body:
+            print(f"  ❌ Gemini API-Fehler: {body['error'].get('message','')[:200]}")
+            return []
+
+        text = body["candidates"][0]["content"]["parts"][0]["text"].strip()
+        print(f"  Gemini Antwort: {len(text)} Zeichen")
+
+        # JSON aus Antwort extrahieren (entfernt Markdown-Backticks falls vorhanden)
+        text = re.sub(r'```json\s*|\s*```', '', text).strip()
+        if not text.startswith('['):
+            m = re.search(r'\[.*\]', text, re.DOTALL)
+            text = m.group(0) if m else '[]'
+
+        ue_liste = json.loads(text)
+        print(f"  ✅ {len(ue_liste)}/{len(eintraege)} Übersetzungen erhalten")
+        return ue_liste
+
+    except Exception as e:
+        print(f"  ❌ Parse-Fehler: {e}")
+        return []
+
+# ── Alle News in Batches übersetzen ──────────────────────────────────────────
+def uebersetze_alle(alle_news_dict, batch_groesse=40):
+    """
+    Übersetzt ALLE News in Batches (max. batch_groesse Titel pro Request).
+    Verhindert 429-Fehler durch kleinere Batches + Pause zwischen Batches.
     """
     if not GEMINI_API_KEY:
+        print("  ⚠️ GEMINI_API_KEY nicht gesetzt — überspringe Übersetzung")
         return {}
 
-    # Alle Titel nummeriert auflisten
-    alle_eintraege = []  # [(firmenname, index, news)]
+    # Alle Einträge flach auflisten
+    alle_eintraege = []
     for firma, news_liste in alle_news_dict.items():
         for i, n in enumerate(news_liste):
             alle_eintraege.append((firma, i, n))
@@ -84,67 +177,48 @@ def uebersetze_alle(alle_news_dict):
     if not alle_eintraege:
         return {}
 
-    titelliste = "\n".join(
-        f"{idx+1}. [{firma}] {n['titel']}"
-        for idx, (firma, i, n) in enumerate(alle_eintraege)
-    )
+    gesamt = len(alle_eintraege)
+    print(f"  {gesamt} Titel in Batches à {batch_groesse}...")
 
-    prompt = (
-        f"Uebersetze {len(alle_eintraege)} englische Finanznachrichten-Titel ins Deutsche.\n"
-        f"Schreibe fuer jeden Titel eine kurze Einordnung (1 Satz) fuer Aktionaere.\n"
-        f"Antworte NUR mit einem JSON-Array:\n"
-        f'[{{"titel":"DE-Titel","einordnung":"Einordnung"}}]\n\n'
-        f"Titel:\n{titelliste}"
-    )
+    # In Batches aufteilen
+    alle_ue = []
+    for start in range(0, gesamt, batch_groesse):
+        batch = alle_eintraege[start:start + batch_groesse]
+        batch_nr = start // batch_groesse + 1
+        batch_gesamt = (gesamt + batch_groesse - 1) // batch_groesse
+        print(f"\n  Batch {batch_nr}/{batch_gesamt} ({len(batch)} Titel):")
 
-    try:
-        resp = requests.post(GEMINI_URL, json={
-            "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.1, "maxOutputTokens": 8000}
-        }, timeout=60)
+        ue_batch = uebersetze_batch(batch)
+        alle_ue.extend(ue_batch)
 
-        print(f"Gemini HTTP: {resp.status_code}")
-        body = resp.json()
+        # Pause zwischen Batches (außer nach dem letzten)
+        if start + batch_groesse < gesamt:
+            print("  Pause 10s zwischen Batches...")
+            time.sleep(10)
 
-        if 'error' in body:
-            print(f"Gemini Fehler: {body['error'].get('message','')[:150]}")
-            return {}
+    # Ergebnisse zurück den Firmen zuordnen
+    result = {}
+    for idx, (firma, i, orig) in enumerate(alle_eintraege):
+        if firma not in result:
+            result[firma] = []
+        ue = alle_ue[idx] if idx < len(alle_ue) else {}
+        result[firma].append({
+            'titel':      ue.get('titel', orig['titel']),
+            'einordnung': ue.get('einordnung', ''),
+            'url':        orig['url'],
+            'quelle':     orig['quelle'],
+            'datum':      orig['datum'],
+        })
 
-        text = body["candidates"][0]["content"]["parts"][0]["text"].strip()
-        print(f"Gemini Antwort: {len(text)} Zeichen")
-
-        # JSON extrahieren
-        if not text.startswith('['):
-            m = re.search(r'\[.*\]', text, re.DOTALL)
-            text = m.group(0) if m else '[]'
-
-        ue_liste = json.loads(text)
-        print(f"Gemini: {len(ue_liste)} Übersetzungen erhalten")
-
-        # Ergebnisse zurück den Firmen zuordnen
-        result = {}
-        for idx, (firma, i, orig) in enumerate(alle_eintraege):
-            if firma not in result:
-                result[firma] = []
-            ue = ue_liste[idx] if idx < len(ue_liste) else {}
-            result[firma].append({
-                'titel':      ue.get('titel', orig['titel']),
-                'einordnung': ue.get('einordnung', ''),
-                'url':        orig['url'],
-                'quelle':     orig['quelle'],
-                'datum':      orig['datum'],
-            })
-        return result
-
-    except Exception as e:
-        print(f"Gemini Ausnahme: {e}")
-        return {}
+    uebersetzt = sum(1 for idx, _ in enumerate(alle_eintraege) if idx < len(alle_ue) and alle_ue[idx].get('titel'))
+    print(f"\n  Übersetzung abgeschlossen: {uebersetzt}/{gesamt} Titel übersetzt")
+    return result
 
 # ── Schritt 1: Alle Aktiendaten abrufen ──────────────────────────────────────
 print("=== Aktiendaten abrufen ===")
 results = []
 rates = {}
-alle_news_roh = {}  # Firma -> raw news
+alle_news_roh = {}
 
 for s in STOCKS:
     print(f"\n{s['name']} ({s['ticker']})...")
@@ -207,7 +281,7 @@ for s in STOCKS:
             "market_cap": mcs, "pe_ratio": fmt(info.get('trailingPE')),
             "sparkline": sp,
             "analyst_rating": ar, "analyst_target": at, "analyst_count": ac,
-            "news": [],  # wird später befüllt
+            "news": [],
             "fehler": None
         })
 
@@ -215,23 +289,31 @@ for s in STOCKS:
         print(f"  FEHLER: {e}")
         results.append({"wkn": s["wkn"], "name": s["name"], "ticker": s["ticker"], "fehler": str(e)})
 
-# ── Schritt 2: Alle News in einer Gemini-Anfrage übersetzen ───────────────────
-print(f"\n=== Übersetze alle News ({sum(len(v) for v in alle_news_roh.values())} Titel) ===")
-ue_alle = uebersetze_alle(alle_news_roh)
+# ── Schritt 2: Alle News in Batches übersetzen ────────────────────────────────
+gesamt_news = sum(len(v) for v in alle_news_roh.values())
+print(f"\n=== Übersetze alle News ({gesamt_news} Titel) ===")
+ue_alle = uebersetze_alle(alle_news_roh, batch_groesse=40)
 
 # News den Ergebnissen zuordnen
+uebersetzt_count = 0
+englisch_count = 0
 for r in results:
     if r.get('fehler'): continue
     name = r['name']
     if name in ue_alle:
         r['news'] = ue_alle[name]
+        uebersetzt_count += len(ue_alle[name])
     elif name in alle_news_roh:
-        # Fallback: englische Originale
+        # Fallback: englische Originale (mit Log-Hinweis)
+        print(f"  ⚠️ Fallback auf Englisch: {name}")
+        englisch_count += len(alle_news_roh[name])
         r['news'] = [{'titel': n['titel'], 'einordnung': '', 'url': n['url'], 'quelle': n['quelle'], 'datum': n['datum']} for n in alle_news_roh[name]]
+
+print(f"\n  📊 News-Statistik: {uebersetzt_count} übersetzt, {englisch_count} englisch (Fallback)")
 
 # ── Speichern ─────────────────────────────────────────────────────────────────
 os.makedirs("data", exist_ok=True)
 with open("data/stocks.json", "w", encoding="utf-8") as f:
     json.dump({"aktualisiert": datetime.now(timezone.utc).isoformat(), "aktien": results}, f, ensure_ascii=False, indent=2)
 
-print(f"\nFertig! {len(results)} Aktien gespeichert.")
+print(f"\n✅ Fertig! {len(results)} Aktien gespeichert.")
