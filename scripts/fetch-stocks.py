@@ -127,7 +127,8 @@ def uebersetze_batch(eintraege):
 
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.1, "maxOutputTokens": 4000}
+        # FIX: 8000 Tokens — 40 Titel × ~15 Wörter JSON brauchen ~3000, Puffer für Sonderzeichen
+        "generationConfig": {"temperature": 0.1, "maxOutputTokens": 8000}
     }
 
     resp = gemini_mit_retry(payload)
@@ -159,7 +160,7 @@ def uebersetze_batch(eintraege):
         return []
 
 # ── Alle News in Batches übersetzen ──────────────────────────────────────────
-def uebersetze_alle(alle_news_dict, batch_groesse=40):
+def uebersetze_alle(alle_news_dict, batch_groesse=20):
     """
     Übersetzt ALLE News in Batches (max. batch_groesse Titel pro Request).
     Verhindert 429-Fehler durch kleinere Batches + Pause zwischen Batches.
@@ -292,7 +293,7 @@ for s in STOCKS:
 # ── Schritt 2: Alle News in Batches übersetzen ────────────────────────────────
 gesamt_news = sum(len(v) for v in alle_news_roh.values())
 print(f"\n=== Übersetze alle News ({gesamt_news} Titel) ===")
-ue_alle = uebersetze_alle(alle_news_roh, batch_groesse=40)
+ue_alle = uebersetze_alle(alle_news_roh, batch_groesse=20)
 
 # News den Ergebnissen zuordnen
 uebersetzt_count = 0
@@ -300,7 +301,7 @@ englisch_count = 0
 for r in results:
     if r.get('fehler'): continue
     name = r['name']
-    if name in ue_alle:
+    if name in ue_alle and ue_alle[name] and ue_alle[name][0].get("titel"):
         r['news'] = ue_alle[name]
         uebersetzt_count += len(ue_alle[name])
     elif name in alle_news_roh:
