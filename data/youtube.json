@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-04-20T09:11:41.147840+00:00",
+  "aktualisiert": "2026-04-21T08:56:26.615797+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Codex ist mehr als nur ein KI Coding Tool! #codex #openai",
+      "link": "https://www.youtube.com/shorts/TNdGZr-z4-k",
+      "video_id": "TNdGZr-z4-k",
+      "thumbnail": "https://img.youtube.com/vi/TNdGZr-z4-k/mqdefault.jpg",
+      "datum": "2026-04-21T08:30:09+00:00",
+      "datum_de": "21.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "OpenAI CODEX Update! Ein KI AGENT Tool für ALLES?",
+      "link": "https://www.youtube.com/watch?v=zO27qhSh6dI",
+      "video_id": "zO27qhSh6dI",
+      "thumbnail": "https://img.youtube.com/vi/zO27qhSh6dI/mqdefault.jpg",
+      "datum": "2026-04-20T16:01:39+00:00",
+      "datum_de": "20.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Felicia Simon",
+      "titel": "Claude AI Prompt schreiben ✅ Techniken und Tipps für die besten KI Antworten",
+      "link": "https://www.youtube.com/watch?v=m4rFoTPpeAA",
+      "video_id": "m4rFoTPpeAA",
+      "thumbnail": "https://img.youtube.com/vi/m4rFoTPpeAA/mqdefault.jpg",
+      "datum": "2026-04-20T14:45:05Z",
+      "datum_de": "20.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "IchBinFabian",
+      "titel": "Claude Design killt Figma: Hands-On mit 3 Beispielen!",
+      "link": "https://www.youtube.com/watch?v=3JRlAcMz9oA",
+      "video_id": "3JRlAcMz9oA",
+      "thumbnail": "https://img.youtube.com/vi/3JRlAcMz9oA/mqdefault.jpg",
+      "datum": "2026-04-20T11:30:03Z",
+      "datum_de": "20.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Julian Ivanov | KI-Automatisierung",
+      "titel": "Claude Design Tutorial: Das kann Anthropics neues Tool",
+      "link": "https://www.youtube.com/watch?v=dfJcMc8bfXI",
+      "video_id": "dfJcMc8bfXI",
+      "thumbnail": "https://img.youtube.com/vi/dfJcMc8bfXI/mqdefault.jpg",
+      "datum": "2026-04-20T10:24:01Z",
+      "datum_de": "20.04.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "DigiNerd",
       "titel": "Ollama KI Assistent lokal auf Windows installieren Tutorial Deutsch",
@@ -41,16 +91,6 @@
       "datum": "2026-04-19T08:21:00+00:00",
       "datum_de": "19.04.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Unfairer Vorteil | KI",
-      "titel": "So machst du Claude zum Designer (Websites &amp; Apps - ohne Code)",
-      "link": "https://www.youtube.com/watch?v=TpbMp7gNM2U",
-      "video_id": "TpbMp7gNM2U",
-      "thumbnail": "https://img.youtube.com/vi/TpbMp7gNM2U/mqdefault.jpg",
-      "datum": "2026-04-18T15:03:02Z",
-      "datum_de": "18.04.2026",
-      "quelle": "suche"
     },
     {
       "kanal": "Sascha Taschan",
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/2fOUPgKvtZI/mqdefault.jpg",
       "datum": "2026-04-16T12:00:11+00:00",
       "datum_de": "16.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "IchBinFabian",
-      "titel": "Karpathys Second Brain mit Claude Code nachbauen!",
-      "link": "https://www.youtube.com/watch?v=RBfZhKQv3u8",
-      "video_id": "RBfZhKQv3u8",
-      "thumbnail": "https://img.youtube.com/vi/RBfZhKQv3u8/mqdefault.jpg",
-      "datum": "2026-04-15T16:30:09Z",
-      "datum_de": "15.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Xing-Gründer: „Europa ist ABGEHÄNGT!\" Der Tod von SaaS, Renaissance & Zukunft (Lars Hinrichs)",
-      "link": "https://www.youtube.com/watch?v=hLFVfscRWQc",
-      "video_id": "hLFVfscRWQc",
-      "thumbnail": "https://img.youtube.com/vi/hLFVfscRWQc/mqdefault.jpg",
-      "datum": "2026-04-15T15:15:00+00:00",
-      "datum_de": "15.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Verschwende nicht deine Zeit mit Vibe Coding - mach stattdessen das",
-      "link": "https://www.youtube.com/watch?v=7haO6Yft49Q",
-      "video_id": "7haO6Yft49Q",
-      "thumbnail": "https://img.youtube.com/vi/7haO6Yft49Q/mqdefault.jpg",
-      "datum": "2026-04-15T14:15:01+00:00",
-      "datum_de": "15.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Speech-To-Text App mit AI #claudecode",
-      "link": "https://www.youtube.com/shorts/xS4wNKwAfNA",
-      "video_id": "xS4wNKwAfNA",
-      "thumbnail": "https://img.youtube.com/vi/xS4wNKwAfNA/mqdefault.jpg",
-      "datum": "2026-04-15T13:58:01+00:00",
-      "datum_de": "15.04.2026",
       "quelle": "kanal"
     }
   ]
