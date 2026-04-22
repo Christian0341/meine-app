@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-04-21T08:56:26.615797+00:00",
+  "aktualisiert": "2026-04-22T08:52:18.882591+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "n8n ist tot: Lerne jetzt ALLES über Agentic Workflows! (Agentic Coding Grundkurs 2026)",
+      "link": "https://www.youtube.com/watch?v=w62ah6G_7CE",
+      "video_id": "w62ah6G_7CE",
+      "thumbnail": "https://img.youtube.com/vi/w62ah6G_7CE/mqdefault.jpg",
+      "datum": "2026-04-21T15:00:00+00:00",
+      "datum_de": "21.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "Codex ist mehr als nur ein KI Coding Tool! #codex #openai",
@@ -34,7 +44,7 @@
     },
     {
       "kanal": "IchBinFabian",
-      "titel": "Claude Design killt Figma: Hands-On mit 3 Beispielen!",
+      "titel": "Claude Design ist da, und es ändert alles!!",
       "link": "https://www.youtube.com/watch?v=3JRlAcMz9oA",
       "video_id": "3JRlAcMz9oA",
       "thumbnail": "https://img.youtube.com/vi/3JRlAcMz9oA/mqdefault.jpg",
@@ -94,7 +104,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Das beste Update 2026: Claude Routines sind verrückt gut! ",
+      "titel": "Das beste Update: Claude Routines sind verrückt gut!",
       "link": "https://www.youtube.com/watch?v=B-xubxSQ8EI",
       "video_id": "B-xubxSQ8EI",
       "thumbnail": "https://img.youtube.com/vi/B-xubxSQ8EI/mqdefault.jpg",
@@ -123,34 +133,24 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Everlast AI",
-      "titel": "Robotik-Professor: DAS ist die Zukunft! Humanoide Roboter, LLMs, AGI & China (Prof. Alois Knoll)",
-      "link": "https://www.youtube.com/watch?v=LzW02B55Y5c",
-      "video_id": "LzW02B55Y5c",
-      "thumbnail": "https://img.youtube.com/vi/LzW02B55Y5c/mqdefault.jpg",
-      "datum": "2026-04-16T15:15:00+00:00",
-      "datum_de": "16.04.2026",
-      "quelle": "kanal"
+      "kanal": "Philip Thomas",
+      "titel": "Der erste KI-Agent, der sich selbst verbessert (Hermes Agent + Installation)",
+      "link": "https://www.youtube.com/watch?v=6KSjegH9vIA",
+      "video_id": "6KSjegH9vIA",
+      "thumbnail": "https://img.youtube.com/vi/6KSjegH9vIA/mqdefault.jpg",
+      "datum": "2026-04-17T13:00:26Z",
+      "datum_de": "17.04.2026",
+      "quelle": "suche"
     },
     {
-      "kanal": "Sascha Taschan",
-      "titel": "KI Vibe Coding  Die Wahrheit über deine KI Nutzung",
-      "link": "https://www.youtube.com/shorts/wpp5OT5fe8A",
-      "video_id": "wpp5OT5fe8A",
-      "thumbnail": "https://img.youtube.com/vi/wpp5OT5fe8A/mqdefault.jpg",
-      "datum": "2026-04-16T13:56:23+00:00",
+      "kanal": "ZELDOgiq",
+      "titel": "Gemini 3.1 Flash TTS ist da - kostenlos und besser als ElevenLabs! Das musst du jetzt wissen",
+      "link": "https://www.youtube.com/watch?v=i9zLKiuE6ao",
+      "video_id": "i9zLKiuE6ao",
+      "thumbnail": "https://img.youtube.com/vi/i9zLKiuE6ao/mqdefault.jpg",
+      "datum": "2026-04-16T15:15:49Z",
       "datum_de": "16.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Grok Tutorial 2026: Komplette Anleitung für Einsteiger (kostenlos)",
-      "link": "https://www.youtube.com/watch?v=2fOUPgKvtZI",
-      "video_id": "2fOUPgKvtZI",
-      "thumbnail": "https://img.youtube.com/vi/2fOUPgKvtZI/mqdefault.jpg",
-      "datum": "2026-04-16T12:00:11+00:00",
-      "datum_de": "16.04.2026",
-      "quelle": "kanal"
+      "quelle": "suche"
     }
   ]
 }
