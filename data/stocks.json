@@ -1,1727 +1,326 @@
-{
-  "aktualisiert": "2026-04-21T19:04:20.832280+00:00",
-  "aktien": [
-    {
-      "wkn": "A1J84E",
-      "name": "AbbVie",
-      "ticker": "ABBV",
-      "currency": "EUR",
-      "price": 174.76,
-      "change_1d_pct": 0.71,
-      "change_1w_pct": -1.61,
-      "change_1m_pct": 0.88,
-      "change_1y_pct": 24.5,
-      "week52_high": 208.53,
-      "week52_low": 145.58,
-      "div_yield": null,
-      "div_rate": 5.89,
-      "market_cap": "362.9B",
-      "pe_ratio": 86.93,
-      "sparkline": [
-        191.7761,
-        192.3421,
-        190.3906,
-        185.5838,
-        187.0791,
-        185.6514,
-        176.0039,
-        174.2213,
-        173.2414,
-        173.1231,
-        173.3512,
-        175.0239,
-        178.3524,
-        176.8993,
-        180.042,
-        183.7337,
-        181.6133,
-        176.4263,
-        174.61,
-        174.3396,
-        178.7494,
-        179.4337,
-        175.6659,
-        174.4241,
-        177.6259,
-        177.5322,
-        178.0177,
-        177.4981,
-        173.5202,
-        174.7595
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 212.1,
-      "analyst_count": 29,
-      "news": [
-        {
-          "titel": "Canaccord bezeichnet AbbVie als Kerninvestment mit einem Kursziel von 262 $: Ist dies der beständigste Werttreiber der Biopharma-Branche?",
-          "einordnung": "Diese Einschätzung deutet auf starkes Vertrauen in das langfristige Wachstumspotenzial von AbbVie hin, was für langfristig orientierte Aktionäre positiv ist.",
-          "url": "https://247wallst.com/investing/2026/04/21/canaccord-calls-abbvie-a-core-holding-with-a-262-target-is-this-biopharmas-most-durable-compounder/",
-          "quelle": "24/7 Wall St.",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Darum fiel AbbVie (ABBV) stärker als der Gesamtmarkt",
-          "einordnung": "Aktionäre sollten die spezifischen Gründe für den überdurchschnittlichen Kursrückgang prüfen, um potenzielle Risiken oder kurzfristige Schwächen zu verstehen.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-abbvie-abbv-fell-214503954.html",
-          "quelle": "Zacks",
-          "datum": "20.04.2026"
-        },
-        {
-          "titel": "Trump unterzeichnete eine Verordnung zu psychedelischen Drogen – und diese 4 Aktien schossen in die Höhe",
-          "einordnung": "Diese Nachricht beleuchtet neue regulatorische Entwicklungen im Pharmasektor, die zwar nicht direkt AbbVie betreffen, aber das Potenzial für neue Märkte und Therapien aufzeigen.",
-          "url": "https://www.barrons.com/articles/psychedelic-drugs-stocks-trump-order-ataibeckley-3c8a9362?siteid=yhoof2&yptr=yahoo",
-          "quelle": "Barrons.com",
-          "datum": "20.04.2026"
-        },
-        {
-          "titel": "Warum ich nicht aufhören kann, AbbVie-Aktien zu kaufen",
-          "einordnung": "Eine solche persönliche Kaufempfehlung deutet auf eine starke Überzeugung in die zukünftige Performance des Unternehmens hin, was für bestehende und potenzielle Aktionäre interessant ist.",
-          "url": "https://247wallst.com/investing/2026/04/20/why-i-cant-stop-buying-abbvie-stock/",
-          "quelle": "24/7 Wall St.",
-          "datum": "20.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "A2ANT0",
-      "name": "Ahold Delhaize",
-      "ticker": "AD.AS",
-      "currency": "EUR",
-      "price": 41.5,
-      "change_1d_pct": 0.48,
-      "change_1w_pct": 1.17,
-      "change_1m_pct": 2.5,
-      "change_1y_pct": 20.34,
-      "week52_high": 42.54,
-      "week52_low": 32.13,
-      "div_yield": null,
-      "div_rate": 1.46,
-      "market_cap": "36.7B",
-      "pe_ratio": 16.6,
-      "sparkline": [
-        40.3602,
-        40.5371,
-        40.1735,
-        40.9105,
-        41.3822,
-        41.5198,
-        41.7655,
-        41.1071,
-        40.488,
-        40.144,
-        39.3677,
-        39.8296,
-        39.5347,
-        39.4463,
-        39.1023,
-        39.7902,
-        39.5937,
-        40.488,
-        41.0088,
-        40.9695,
-        41.1759,
-        41.51,
-        40.98,
-        41.27,
-        41.02,
-        40.68,
-        41.05,
-        40.92,
-        41.3,
-        41.5
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 40.9,
-      "analyst_count": 16,
-      "news": [
-        {
-          "titel": "Globales Einzelhandelsranking 2026: Walmart führt die NRF Top 50 an",
-          "einordnung": "Aktionäre von Ahold Delhaize sollten die Positionierung des Unternehmens in solchen Rankings verfolgen, um seine Wettbewerbsfähigkeit im globalen Einzelhandel zu beurteilen.",
-          "url": "https://www.retail-insight-network.com/news/global-retail-ranking-2026-walmart-tops-nrf-top-50/",
-          "quelle": "Retail Insight Network",
-          "datum": "13.04.2026"
-        },
-        {
-          "titel": "Fiserv-Partnerschaften mit Western Alliance und Ahold Delhaize stellen Wachstumsgeschichte auf die Probe",
-          "einordnung": "Diese Partnerschaft könnte neue Wachstumschancen für Ahold Delhaize im Bereich der Zahlungstechnologien eröffnen, deren Erfolg jedoch noch zu beweisen ist.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-partnerships-western-alliance-ahold-171301197.html",
-          "quelle": "Simply Wall St.",
-          "datum": "07.04.2026"
-        },
-        {
-          "titel": "Fiserv und Lebensmittelhändler erweitern Pay-by-Bank-Initiative",
-          "einordnung": "Die Ausweitung dieser Zahlungsmethode könnte die Kundenbindung stärken und die Betriebskosten senken, was sich positiv auf die Profitabilität auswirken könnte.",
-          "url": "https://www.paymentsdive.com/news/fiserv-grocer-expand-pay-by-bank-effort/816840/",
-          "quelle": "Payments Dive",
-          "datum": "07.04.2026"
-        },
-        {
-          "titel": "Hat Ahold (ADRNY) andere Konsumgüteraktien in diesem Jahr übertroffen?",
-          "einordnung": "Eine Outperformance gegenüber Wettbewerbern im Sektor der Basiskonsumgüter wäre ein positives Zeichen für die operative Stärke und Marktposition von Ahold Delhaize.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ahold-adrny-outpaced-other-consumer-134002700.html",
-          "quelle": "Zacks",
-          "datum": "06.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "840400",
-      "name": "Allianz",
-      "ticker": "ALV.DE",
-      "currency": "EUR",
-      "price": 394.8,
-      "change_1d_pct": 1.41,
-      "change_1w_pct": 2.81,
-      "change_1m_pct": 11.78,
-      "change_1y_pct": 16.11,
-      "week52_high": 397.0,
-      "week52_low": 333.2,
-      "div_yield": null,
-      "div_rate": 17.1,
-      "market_cap": "150.1B",
-      "pe_ratio": 14.26,
-      "sparkline": [
-        344.2,
-        354.4,
-        351.9,
-        350.5,
-        354.1,
-        359.5,
-        362.1,
-        358.6,
-        353.2,
-        347.6,
-        349.7,
-        349.5,
-        353.8,
-        350.9,
-        350.9,
-        357.3,
-        359.3,
-        367.7,
-        367.9,
-        367.2,
-        378.1,
-        378.3,
-        377.3,
-        378.9,
-        384.0,
-        386.1,
-        385.9,
-        390.0,
-        389.3,
-        394.8
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 397.3,
-      "analyst_count": 18,
-      "news": [
-        {
-          "titel": "Allianz-Aktie übertrifft die Branche: Zeit zum Halten oder Kaufen?",
-          "einordnung": "Die Outperformance der Allianz-Aktie deutet auf eine starke Marktposition und gute Geschäftsentwicklung hin, was eine Überlegung zum Halten oder Kauf rechtfertigt.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aiz-stock-outperforms-industry-time-161000837.html",
-          "quelle": "Zacks",
-          "datum": "14.04.2026"
-        },
-        {
-          "titel": "Aviva führt Maklerranking an, nachdem es sein kommerzielles Angebot verbessert hat",
-          "einordnung": "Obwohl Aviva hier im Fokus steht, sollten Allianz-Aktionäre die Wettbewerbslandschaft im Versicherungssektor genau beobachten, um die eigene Positionierung zu bewerten.",
-          "url": "https://www.lifeinsuranceinternational.com/analyst-comment/aviva-tops-broker-ranking/",
-          "quelle": "Life Insurance International",
-          "datum": "09.04.2026"
-        },
-        {
-          "titel": "Top europäische Dividendenaktien für April 2026",
-          "einordnung": "Die potenzielle Nennung der Allianz in solchen Listen unterstreicht ihre Attraktivität als verlässlicher Dividendenzahler für einkommensorientierte Aktionäre.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-european-dividend-stocks-april-103153801.html",
-          "quelle": "Simply Wall St.",
-          "datum": "06.04.2026"
-        },
-        {
-          "titel": "Europäische Dividendenaktien, die man im April 2026 beobachten sollte",
-          "einordnung": "Die Aufnahme der Allianz in eine Beobachtungsliste für Dividendenaktien bestätigt ihre Relevanz für Anleger, die stabile Erträge suchen.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/european-dividend-stocks-watch-april-053145425.html",
-          "quelle": "Simply Wall St.",
-          "datum": "06.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "850471",
-      "name": "Boeing",
-      "ticker": "BA",
-      "currency": "EUR",
-      "price": 188.11,
-      "change_1d_pct": -1.88,
-      "change_1w_pct": -1.31,
-      "change_1m_pct": 13.18,
-      "change_1y_pct": 38.59,
-      "week52_high": 216.66,
-      "week52_low": 135.01,
-      "div_yield": null,
-      "div_rate": null,
-      "market_cap": "173.5B",
-      "pe_ratio": 89.05,
-      "sparkline": [
-        185.488,
-        182.3704,
-        174.4146,
-        178.7843,
-        181.8337,
-        179.5765,
-        175.4623,
-        171.3651,
-        166.2032,
-        169.0056,
-        167.3106,
-        170.0278,
-        165.5558,
-        162.2849,
-        161.1691,
-        169.5338,
-        176.5952,
-        177.3618,
-        180.8371,
-        178.878,
-        185.522,
-        187.4471,
-        185.3772,
-        189.2189,
-        190.6073,
-        190.7436,
-        186.442,
-        190.2751,
-        191.7231,
-        188.1073
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 226.37,
-      "analyst_count": 25,
-      "news": [
-        {
-          "titel": "Boeing Q1-Gewinnvorschau: Jet-Auslieferungen verbessern sich, während CEO Ortberg versucht, den Cash-Burn umzukehren",
-          "einordnung": "Eine Verbesserung der Auslieferungszahlen und die Bemühungen zur Reduzierung des Cash-Burns sind entscheidende positive Signale für die finanzielle Erholung von Boeing.",
-          "url": "https://finance.yahoo.com/markets/stocks/article/boeing-q1-earnings-preview-jet-deliveries-improve-as-ceo-ortberg-tries-to-flip-cash-burn-173026777.html",
-          "quelle": "Yahoo Finance Video",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Boeing verbessert sich, ist aber noch nicht am Ziel",
-          "einordnung": "Diese Einschätzung deutet auf eine positive Entwicklung hin, mahnt aber zur Geduld, da weitere Fortschritte für eine vollständige Erholung notwendig sind.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-improving-not-fully-yet-183426484.html",
-          "quelle": "GuruFocus.com",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "GE-Aktie bricht ein. Warum der Gewinn über den Erwartungen nicht ausreichte.",
-          "einordnung": "Obwohl es um GE geht, sollten Boeing-Aktionäre die breiteren Trends in der Luftfahrt- und Industriebranche beobachten, da diese auch Boeing beeinflussen können.",
-          "url": "https://www.barrons.com/articles/ge-aerospace-earnings-stock-price-f1336e48?siteid=yhoof2&yptr=yahoo",
-          "quelle": "Barrons.com",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Jim Cramer sagt: „Ich weiß nicht, warum ich TransDigm brauche, und ich weiß auch nicht, warum Sie es brauchen sollten.“",
-          "einordnung": "Diese kritische Äußerung über einen Zulieferer oder Wettbewerber könnte indirekt die Lieferkette oder das Wettbewerbsumfeld von Boeing betreffen und sollte beobachtet werden.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-don-t-171857627.html",
-          "quelle": "Insider Monkey",
-          "datum": "21.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "850501",
-      "name": "Bristol-Myers Squibb",
-      "ticker": "BMY",
-      "currency": "EUR",
-      "price": 50.7,
-      "change_1d_pct": 0.66,
-      "change_1w_pct": 2.49,
-      "change_1m_pct": 4.63,
-      "change_1y_pct": 27.71,
-      "week52_high": 53.57,
-      "week52_low": 36.22,
-      "div_yield": null,
-      "div_rate": 2.15,
-      "market_cap": "121.5B",
-      "pe_ratio": 17.2,
-      "sparkline": [
-        50.696,
-        50.5695,
-        49.7011,
-        49.8107,
-        50.3419,
-        50.3419,
-        50.0552,
-        48.9929,
-        48.4618,
-        48.0571,
-        48.3859,
-        49.6927,
-        50.1058,
-        49.3555,
-        50.3588,
-        51.1344,
-        52.045,
-        50.7673,
-        50.5373,
-        49.1233,
-        50.4266,
-        50.6565,
-        49.9325,
-        49.4555,
-        49.4725,
-        49.3107,
-        50.2221,
-        51.2528,
-        50.3669,
-        50.7034
-      ],
-      "analyst_rating": "Halten",
-      "analyst_target": 53.7,
-      "analyst_count": 25,
-      "news": [
-        {
-          "titel": "Warum die Dow Jones-Aktie Merck um 4 % fiel – und einen wichtigen Rivalen beflügelte",
-          "einordnung": "Ein Rückgang bei einem Konkurrenten wie Merck, der einen anderen Rivalen stärkt, könnte die Wettbewerbsdynamik im Pharmasektor zugunsten von Bristol Myers Squibb verschieben.",
-          "url": "https://www.investors.com/news/technology/merck-stock-exelixis-stock-renal-cell-carcinoma-treatment/?src=A00220&yptr=yahoo",
-          "quelle": "Investor's Business Daily",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Bristol Myers vs. Gilead Sciences: Welche Biotech-Aktie ist jetzt die bessere Wette?",
-          "einordnung": "Diese Vergleichsanalyse ist für Aktionäre relevant, um die relative Stärke und das Investitionspotenzial von Bristol Myers Squibb gegenüber einem wichtigen Wettbewerber zu bewerten.",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/bristol-myers-vs-gilead-sciences-152600887.html",
-          "quelle": "Zacks",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Darum ist Bristol Myers Squibb (BMY) eine starke Value-Aktie",
-          "einordnung": "Die Einstufung als Value-Aktie deutet auf ein attraktives Bewertungsniveau und potenziellen Spielraum für Kurssteigerungen hin, was für Anleger interessant ist.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-bristol-myers-squibb-134003395.html",
-          "quelle": "Zacks",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Eli Lilly sichert sich Krebs-Deal über 7 Milliarden Dollar, um mit Gilead, J&J und anderen zu konkurrieren",
-          "einordnung": "Dieser große Deal eines Wettbewerbers wie Eli Lilly zeigt die intensive Wettbewerbslandschaft im Onkologiebereich, die auch Bristol Myers Squibb betrifft.",
-          "url": "https://www.investors.com/news/technology/eli-lilly-kelonia-therapeutics-acquisition/?src=A00220&yptr=yahoo",
-          "quelle": "Investor's Business Daily",
-          "datum": "20.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "916018",
-      "name": "Brit. American Tobacco",
-      "ticker": "BTI",
-      "currency": "EUR",
-      "price": 47.06,
-      "change_1d_pct": -3.17,
-      "change_1w_pct": -3.93,
-      "change_1m_pct": -2.29,
-      "change_1y_pct": 37.57,
-      "week52_high": 53.85,
-      "week52_low": 34.17,
-      "div_yield": null,
-      "div_rate": 2.85,
-      "market_cap": "119.6B",
-      "pe_ratio": 11.71,
-      "sparkline": [
-        49.8801,
-        49.6702,
-        50.2832,
-        50.3167,
-        51.1647,
-        50.8373,
-        48.7719,
-        49.3008,
-        48.1674,
-        48.6292,
-        48.4948,
-        49.0741,
-        48.9146,
-        49.234,
-        49.6259,
-        49.8047,
-        49.3107,
-        49.6429,
-        50.0092,
-        50.0858,
-        51.0654,
-        50.1284,
-        50.0944,
-        49.9921,
-        48.987,
-        48.28,
-        47.8201,
-        48.28,
-        48.6037,
-        47.062
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 51.87,
-      "analyst_count": 5,
-      "news": [
-        {
-          "titel": "Ein Dividendenportfolio, das bei 700.000 $ Investition ein Gehalt von 45.000 $ zahlt",
-          "einordnung": "Dieser Titel hebt das Potenzial von Dividendenaktien wie British American Tobacco hervor, ein passives Einkommen zu generieren.",
-          "url": "https://247wallst.com/personal-finance/2026/04/20/a-dividend-portfolio-that-pays-a-45000-salary-on-700k-invested/",
-          "quelle": "24/7 Wall St.",
-          "datum": "20.04.2026"
-        },
-        {
-          "titel": "Eine Betrachtung der Bewertung von British American Tobacco nach der jüngsten Abkühlung des Aktienkurses",
-          "einordnung": "Aktionäre sollten prüfen, ob die aktuelle Bewertung nach dem Kursrückgang eine Kaufgelegenheit oder weitere Vorsicht signalisiert.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/look-british-american-tobacco-valuation-070525189.html",
-          "quelle": "Simply Wall St.",
-          "datum": "20.04.2026"
-        },
-        {
-          "titel": "Vier renditestarke Aktien, die Ihr jährliches Renteneinkommen von 60.000 $ finanzieren könnten",
-          "einordnung": "Dieser Artikel positioniert British American Tobacco als potenziellen Baustein für ein ertragsstarkes Ruhestandsportfolio.",
-          "url": "https://247wallst.com/personal-finance/2026/04/18/four-high-yield-stocks-that-could-fund-your-60000-annual-retirement-income/",
-          "quelle": "24/7 Wall St.",
-          "datum": "18.04.2026"
-        },
-        {
-          "titel": "British American Tobacco (BTI) ist mit Preissetzungsmacht gut positioniert",
-          "einordnung": "Die Preissetzungsmacht deutet auf eine starke Marktposition hin, die dem Unternehmen hilft, Inflation und Kostensteigerungen zu managen.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/british-american-tobacco-bti-well-175837538.html",
-          "quelle": "Insider Monkey",
-          "datum": "17.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "878841",
-      "name": "Cisco Systems",
-      "ticker": "CSCO",
-      "currency": "EUR",
-      "price": 76.03,
-      "change_1d_pct": 1.77,
-      "change_1w_pct": 8.05,
-      "change_1m_pct": 15.57,
-      "change_1y_pct": 67.95,
-      "week52_high": 76.19,
-      "week52_low": 46.5,
-      "div_yield": null,
-      "div_rate": 1.43,
-      "market_cap": "352.7B",
-      "pe_ratio": 32.11,
-      "sparkline": [
-        65.8282,
-        66.167,
-        65.862,
-        66.3619,
-        66.8448,
-        67.1583,
-        65.7434,
-        66.5144,
-        65.7858,
-        66.777,
-        68.5053,
-        69.3271,
-        69.6067,
-        67.709,
-        65.269,
-        65.735,
-        66.023,
-        67.3092,
-        68.5188,
-        68.7232,
-        71.2957,
-        70.8442,
-        70.035,
-        70.1457,
-        70.3672,
-        70.1542,
-        71.9771,
-        73.4677,
-        74.7114,
-        76.0317
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 75.89,
-      "analyst_count": 22,
-      "news": [
-        {
-          "titel": "Cisco Systems (CSCO) ist eine großartige Momentum-Aktie: Sollten Sie kaufen?",
-          "einordnung": "Anleger sollten prüfen, ob der aktuelle Aufwärtstrend von Cisco nachhaltig ist und zu ihrer Anlagestrategie passt.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-great-momentum-160002453.html",
-          "quelle": "Zacks",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Der Zacks Analysten-Blog: Broadcom, JPMorgan, Cisco, Preformed Line Products und CompX",
-          "einordnung": "Dieser Blogbeitrag bietet eine Zusammenfassung von Analystenmeinungen zu Cisco und anderen Unternehmen, die für eine breitere Marktperspektive nützlich ist.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-broadcom-jpmorgan-074700025.html",
-          "quelle": "Zacks",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Aktienmarkt heute, 20. April: Nokia steigt vor den Q1-Ergebnissen aufgrund der starken Nachfrage nach KI-Netzwerklösungen",
-          "einordnung": "Obwohl es um Nokia geht, deutet die Erwähnung der KI-Netzwerknachfrage auf einen positiven Trend hin, der auch für Cisco relevant sein könnte.",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/04/20/stock-market-today-april-20-nokia-rises-ahead-of-q1-earnings-on-strength-in-ai-networking-demand/",
-          "quelle": "Motley Fool",
-          "datum": "20.04.2026"
-        },
-        {
-          "titel": "Ist Cisco Systems (CSCO) eine der besten KI-Rechenzentrumsaktien, die man jetzt kaufen kann?",
-          "einordnung": "Dieser Titel fordert Aktionäre auf, Ciscos Positionierung im wachsenden KI-Rechenzentrumsmarkt zu bewerten.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-one-best-210153189.html",
-          "quelle": "Insider Monkey",
-          "datum": "20.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "A0MW32",
-      "name": "CME Group",
-      "ticker": "CME",
-      "currency": "EUR",
-      "price": 241.81,
-      "change_1d_pct": -1.24,
-      "change_1w_pct": -4.43,
-      "change_1m_pct": -7.63,
-      "change_1y_pct": 13.22,
-      "week52_high": 280.38,
-      "week52_low": 214.57,
-      "div_yield": null,
-      "div_rate": 4.43,
-      "market_cap": "103.0B",
-      "pe_ratio": 25.46,
-      "sparkline": [
-        260.9404,
-        258.3765,
-        265.0716,
-        265.2505,
-        267.3204,
-        266.8945,
-        263.121,
-        264.6628,
-        261.7752,
-        261.1278,
-        257.8228,
-        250.3696,
-        253.4786,
-        250.2418,
-        253.4786,
-        251.5791,
-        252.9335,
-        259.8927,
-        262.8399,
-        264.552,
-        257.9336,
-        254.6286,
-        251.5365,
-        256.0426,
-        253.0102,
-        252.8994,
-        252.3202,
-        245.0203,
-        244.8499,
-        241.809
-      ],
-      "analyst_rating": "Halten",
-      "analyst_target": 266.56,
-      "analyst_count": 15,
-      "news": [
-        {
-          "titel": "CME Group (CME) Q1-Ergebnisbericht Vorschau: Worauf zu achten ist",
-          "einordnung": "Aktionäre sollten die genannten Punkte im Auge behalten, um die bevorstehenden Quartalsergebnisse von CME Group besser einschätzen zu können.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cme-group-cme-q1-earnings-070951358.html",
-          "quelle": "StockStory",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Kann die CME Group ihre Erfolgsserie in dieser Berichtssaison fortsetzen?",
-          "einordnung": "Dieser Titel deutet auf eine Historie positiver Überraschungen hin und fragt, ob CME Group diese Erwartungen erneut übertreffen kann.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cme-group-retain-beat-streak-162800111.html",
-          "quelle": "Zacks",
-          "datum": "20.04.2026"
-        },
-        {
-          "titel": "Die Ausweitung der Cross-Margin bei CME rückt Kapitaleffizienz und Bewertung in den Fokus",
-          "einordnung": "Die verbesserte Kapitaleffizienz durch Cross-Margin-Erweiterungen könnte die Bewertung der CME Group positiv beeinflussen.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cme-cross-margin-expansion-puts-041711350.html",
-          "quelle": "Simply Wall St.",
-          "datum": "20.04.2026"
-        },
-        {
-          "titel": "Preist die CME Group (CME) nach dem jüngsten Kursrückgang zu viel Optimismus ein?",
-          "einordnung": "Aktionäre sollten prüfen, ob der aktuelle Aktienkurs die Erwartungen übermäßig hoch ansetzt oder eine attraktive Einstiegsgelegenheit bietet.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cme-group-cme-pricing-too-020738288.html",
-          "quelle": "Simply Wall St.",
-          "datum": "20.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "547030",
-      "name": "CTS Eventim",
-      "ticker": "EVD.DE",
-      "currency": "EUR",
-      "price": 58.75,
-      "change_1d_pct": 0.34,
-      "change_1w_pct": 6.43,
-      "change_1m_pct": -9.68,
-      "change_1y_pct": -39.15,
-      "week52_high": 114.1,
-      "week52_low": 48.68,
-      "div_yield": null,
-      "div_rate": 1.44,
-      "market_cap": "5.6B",
-      "pe_ratio": 19.65,
-      "sparkline": [
-        67.35,
-        69.2,
-        69.35,
-        69.2,
-        69.15,
-        68.0,
-        67.3,
-        66.5,
-        65.05,
-        63.1,
-        63.25,
-        63.35,
-        64.5,
-        63.7,
-        48.92,
-        49.98,
-        49.66,
-        51.95,
-        51.05,
-        50.6,
-        53.05,
-        52.55,
-        53.85,
-        53.8,
-        55.2,
-        56.15,
-        58.1,
-        59.9,
-        58.55,
-        58.75
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 96.67,
-      "analyst_count": 12,
-      "news": [
-        {
-          "titel": "CTS Eventim AG & Co. KGaA hat die Gewinnerwartungen knapp verfehlt – aber Analysten haben ihre Modelle aktualisiert",
-          "einordnung": "Trotz des knappen Verfehlens der Erwartungen könnten die aktualisierten Analystenmodelle neue Perspektiven für die zukünftige Entwicklung bieten.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cts-eventim-ag-co-kgaa-063330044.html",
-          "quelle": "Simply Wall St.",
-          "datum": "29.03.2026"
-        },
-        {
-          "titel": "Highlights des Q4-Ergebnis-Calls der CTS Eventim AG & Co. KGaA",
-          "einordnung": "Aktionäre sollten die wichtigsten Punkte des Ergebnis-Calls prüfen, um Einblicke in die Geschäftsstrategie und Zukunftsaussichten zu erhalten.",
-          "url": "https://www.marketbeat.com/instant-alerts/cts-eventim-ag-co-kgaa-q4-earnings-call-highlights-2026-03-26/?utm_source=yahoofinance&utm_medium=yahoofinance",
-          "quelle": "MarketBeat",
-          "datum": "26.03.2026"
-        },
-        {
-          "titel": "Wann sollten Sie CTS Eventim AG & Co. KGaA (ETR:EVD) kaufen?",
-          "einordnung": "Dieser Titel regt Aktionäre an, den optimalen Zeitpunkt für einen Einstieg oder Nachkauf bei CTS Eventim zu analysieren.",
-          "url": "https://finance.yahoo.com/news/buy-cts-eventim-ag-co-070037733.html",
-          "quelle": "Simply Wall St.",
-          "datum": "20.01.2026"
-        },
-        {
-          "titel": "Die Aktien der CTS Eventim AG & Co. KGaA (ETR:EVD) könnten 27 % unter ihrem geschätzten inneren Wert liegen",
-          "einordnung": "Dies deutet auf eine potenzielle Unterbewertung hin, die für Value-Investoren eine Kaufgelegenheit darstellen könnte.",
-          "url": "https://finance.yahoo.com/news/cts-eventim-ag-co-kgaa-060630992.html",
-          "quelle": "Simply Wall St.",
-          "datum": "06.01.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "887891",
-      "name": "Fastenal",
-      "ticker": "FAST",
-      "currency": "EUR",
-      "price": 38.91,
-      "change_1d_pct": 0.26,
-      "change_1w_pct": 2.38,
-      "change_1m_pct": 4.39,
-      "change_1y_pct": 16.18,
-      "week52_high": 43.13,
-      "week52_low": 33.19,
-      "div_yield": null,
-      "div_rate": 0.78,
-      "market_cap": "52.5B",
-      "pe_ratio": 40.42,
-      "sparkline": [
-        39.4383,
-        39.6854,
-        38.544,
-        38.7228,
-        38.9102,
-        39.1232,
-        38.3991,
-        37.8966,
-        37.2748,
-        37.8625,
-        38.2373,
-        38.6462,
-        38.4247,
-        38.2884,
-        38.4332,
-        39.5235,
-        39.7194,
-        39.4383,
-        39.0721,
-        38.8762,
-        41.0397,
-        41.8234,
-        41.883,
-        39.0124,
-        38.0073,
-        37.8199,
-        38.0925,
-        38.9954,
-        38.808,
-        38.9102
-      ],
-      "analyst_rating": "Halten",
-      "analyst_target": 39.6,
-      "analyst_count": 12,
-      "news": [
-        {
-          "titel": "SITE vs. FAST: Welche Aktie sollten Value-Investoren jetzt kaufen?",
-          "einordnung": "Dieser Vergleich hilft Value-Investoren, die Attraktivität von Fastenal im Verhältnis zu einem Konkurrenten zu bewerten.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vs-fast-stock-value-investors-154003325.html",
-          "quelle": "Zacks",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Bernstein erhöht sein Kursziel für Fastenal (FAST) auf 42 $",
-          "einordnung": "Eine Kurszielerhöhung durch Analysten kann ein positives Signal für die zukünftige Kursentwicklung von Fastenal sein.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-raises-price-target-fastenal-131214970.html",
-          "quelle": "Insider Monkey",
-          "datum": "20.04.2026"
-        },
-        {
-          "titel": "Schreibt Fastenals (FAST) Margendruck die Erzählung über seine Digital- und FMI-Strategie neu?",
-          "einordnung": "Aktionäre sollten prüfen, wie der Margendruck die langfristige Strategie von Fastenal beeinflusst und ob Anpassungen erforderlich sind.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fastenal-fast-margin-squeeze-rewriting-001719453.html",
-          "quelle": "Simply Wall St.",
-          "datum": "18.04.2026"
-        },
-        {
-          "titel": "Fastenals (FAST) internationale Umsätze erschließen: Trends, Überraschungen und Aussichten",
-          "einordnung": "Dieser Artikel bietet Einblicke in das Wachstumspotenzial von Fastenal durch die Expansion in internationale Märkte.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/unlocking-fastenal-fast-international-revenues-131502176.html",
-          "quelle": "Zacks",
-          "datum": "17.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "853260",
-      "name": "Johnson & Johnson",
-      "ticker": "JNJ",
-      "currency": "EUR",
-      "price": 192.57,
-      "change_1d_pct": -2.0,
-      "change_1w_pct": -5.84,
-      "change_1m_pct": -3.95,
-      "change_1y_pct": 48.08,
-      "week52_high": 214.41,
-      "week52_low": 124.47,
-      "div_yield": null,
-      "div_rate": 4.57,
-      "market_cap": "544.8B",
-      "pe_ratio": 20.5,
-      "sparkline": [
-        207.5922,
-        206.9789,
-        206.1697,
-        205.7267,
-        207.1492,
-        202.8221,
-        202.1151,
-        202.3877,
-        200.4882,
-        200.5308,
-        200.403,
-        204.3724,
-        203.7846,
-        204.8153,
-        206.553,
-        208.214,
-        207.9414,
-        207.0215,
-        205.2582,
-        203.0776,
-        205.5393,
-        205.5479,
-        203.1202,
-        202.6943,
-        204.5172,
-        203.2991,
-        199.7812,
-        199.4745,
-        196.5017,
-        192.5664
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 213.87,
-      "analyst_count": 24,
-      "news": [
-        {
-          "titel": "UnitedHealth springt um 9% nach starkem Gewinnausblick",
-          "einordnung": "Der deutliche Kursanstieg ist eine positive Nachricht für Aktionäre, da er auf einen vielversprechenden Gewinnausblick und somit auf potenziell höhere zukünftige Erträge hindeutet.",
-          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-unitedhealth-stock-jumps-on-upbeat-guidance-tesla-and-others-report-this-week-104416983.html",
-          "quelle": "Yahoo Finance",
-          "datum": "13.04.2026"
-        },
-        {
-          "titel": "This Biotech Stock Is Up 460% Over the Past Year. Why Analysts See It Rising Higher.",
-          "einordnung": "",
-          "url": "https://www.barrons.com/articles/arrowhead-pharmaceuticals-stock-upgrade-6b846749?siteid=yhoof2&yptr=yahoo",
-          "quelle": "Barrons.com",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "3 Dividend Aristocrats That Look Cheap and Just Hiked Payouts",
-          "einordnung": "",
-          "url": "https://www.barrons.com/articles/dividend-aristocrats-chubb-sysco-b8e7da74?siteid=yhoof2&yptr=yahoo",
-          "quelle": "Barrons.com",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Legend Biotech (LEGN) Moves 18.4% Higher: Will This Strength Last?",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/legend-biotech-legn-moves-18-135200030.html",
-          "quelle": "Zacks",
-          "datum": "21.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "A0RLRP",
-      "name": "Koei Tecmo",
-      "ticker": "3635.T",
-      "currency": "EUR",
-      "price": 9.23,
-      "change_1d_pct": -0.95,
-      "change_1w_pct": NaN,
-      "change_1m_pct": NaN,
-      "change_1y_pct": NaN,
-      "week52_high": 13.6,
-      "week52_low": 8.22,
-      "div_yield": null,
-      "div_rate": 0.46,
-      "market_cap": "577.1B",
-      "pe_ratio": 15.82,
-      "sparkline": [
-        9.2813,
-        9.8311,
-        9.5627,
-        9.8259,
-        9.8494,
-        9.6227,
-        9.5523,
-        9.3595,
-        9.1354,
-        9.0781,
-        8.9739,
-        8.841,
-        8.9791,
-        8.6103,
-        8.5969,
-        8.784,
-        8.5515,
-        8.5702,
-        8.4954,
-        8.5168,
-        8.6798,
-        8.5168,
-        8.4767,
-        8.5355,
-        8.8,
-        9.118,
-        9.233,
-        9.412,
-        9.3211,
-        NaN
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 11.25,
-      "analyst_count": 9,
-      "news": [
-        {
-          "titel": "Koei Tecmo (TSE:3635): Assessing Valuation After New Treasury Share Sale and Equity Offering Details",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/news/koei-tecmo-tse-3635-assessing-112338756.html",
-          "quelle": "Simply Wall St.",
-          "datum": "15.09.2025"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "856958",
-      "name": "McDonald's",
-      "ticker": "MCD",
-      "currency": "EUR",
-      "price": 257.04,
-      "change_1d_pct": -1.69,
-      "change_1w_pct": -0.48,
-      "change_1m_pct": -2.29,
-      "change_1y_pct": 0.01,
-      "week52_high": 291.1,
-      "week52_low": 241.46,
-      "div_yield": null,
-      "div_rate": 6.34,
-      "market_cap": "214.5B",
-      "pe_ratio": 25.27,
-      "sparkline": [
-        279.3393,
-        277.0139,
-        275.9065,
-        278.0786,
-        278.2405,
-        277.9423,
-        268.9388,
-        263.7002,
-        263.0784,
-        262.7547,
-        262.2181,
-        265.5061,
-        263.1466,
-        260.5656,
-        262.8059,
-        264.7309,
-        261.7496,
-        261.6219,
-        263.8536,
-        259.6712,
-        261.5111,
-        263.6747,
-        260.3782,
-        259.3816,
-        258.2828,
-        260.8723,
-        261.4685,
-        265.2164,
-        261.4515,
-        257.0434
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 292.94,
-      "analyst_count": 33,
-      "news": [
-        {
-          "titel": "Goldman Sachs warns US consumers could have a challenging few months",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/news/goldman-sachs-warns-us-consumers-could-have-a-challenging-few-months-113704421.html",
-          "quelle": "Yahoo Finance",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "McDonald’s Reworks Its Value Menu With $3 Deals. Wall Street Is Watching.",
-          "einordnung": "",
-          "url": "https://www.barrons.com/articles/mcdonalds-value-menu-deals-consumer-affordable-e0cc0899?siteid=yhoof2&yptr=yahoo",
-          "quelle": "Barrons.com",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "McDonald’s Q1 profit seen slightly below estimates as Jefferies trims sales outlook",
-          "einordnung": "",
-          "url": "https://www.proactiveinvestors.com/companies/news/1090942/mcdonald-s-q1-profit-seen-slightly-below-estimates-as-jefferies-trims-sales-outlook-1090942.html",
-          "quelle": "Proactive",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Dutch Bros' Q1 Beat May Lift Full-Year 2026 Guidance, Competition Remains an Overhang, RBC Says",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dutch-bros-apos-q1-beat-154135579.html",
-          "quelle": "MT Newswires",
-          "datum": "21.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "710000",
-      "name": "Mercedes-Benz",
-      "ticker": "MBG.DE",
-      "currency": "EUR",
-      "price": 51.15,
-      "change_1d_pct": -1.65,
-      "change_1w_pct": -0.16,
-      "change_1m_pct": 6.01,
-      "change_1y_pct": 15.67,
-      "week52_high": 62.34,
-      "week52_low": 47.9,
-      "div_yield": null,
-      "div_rate": 3.5,
-      "market_cap": "45.3B",
-      "pe_ratio": 9.58,
-      "sparkline": [
-        50.691,
-        51.4385,
-        51.289,
-        51.6254,
-        51.2516,
-        50.2238,
-        50.1864,
-        49.9621,
-        48.2522,
-        47.5234,
-        48.5232,
-        48.2709,
-        48.8502,
-        48.5699,
-        48.2428,
-        48.2522,
-        48.953,
-        49.4108,
-        49.252,
-        48.5699,
-        50.8218,
-        49.7566,
-        50.3452,
-        50.6442,
-        51.2329,
-        50.8872,
-        49.85,
-        52.66,
-        52.01,
-        51.15
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 61.57,
-      "analyst_count": 24,
-      "news": [
-        {
-          "titel": "Mercedes-Benz secures multi-year EV battery supply deal with Samsung SDI",
-          "einordnung": "",
-          "url": "https://www.wardsauto.com/news/mercedes-benz-secures-multi-year-ev-battery-supply-deal-with-samsung-sdi/817968/",
-          "quelle": "Wards Auto",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Samsung SDI signs first EV battery deal with Mercedes",
-          "einordnung": "",
-          "url": "https://www.just-auto.com/news/samsung-sdi-signs-first-ev-battery-deal-with-mercedes/",
-          "quelle": "Just Auto",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Mercedes and Samsung SDI sign first EV battery supply deal",
-          "einordnung": "",
-          "url": "https://www.euronews.com/2026/04/20/mercedes-and-samsung-sdi-sign-first-ev-battery-supply-deal?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
-          "quelle": "Euronews",
-          "datum": "20.04.2026"
-        },
-        {
-          "titel": "Samsung SDI signs first EV battery supply deal with Mercedes-Benz",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/samsung-sdi-signs-first-ev-060613347.html",
-          "quelle": "Reuters",
-          "datum": "20.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "851995",
-      "name": "PepsiCo",
-      "ticker": "PEP",
-      "currency": "EUR",
-      "price": 132.03,
-      "change_1d_pct": -1.27,
-      "change_1w_pct": -0.46,
-      "change_1m_pct": 3.31,
-      "change_1y_pct": 13.74,
-      "week52_high": 146.07,
-      "week52_low": 108.69,
-      "div_yield": null,
-      "div_rate": 4.85,
-      "market_cap": "211.9B",
-      "pe_ratio": 24.33,
-      "sparkline": [
-        136.9524,
-        136.4158,
-        135.3169,
-        136.1858,
-        134.3459,
-        133.3067,
-        130.7854,
-        130.1039,
-        127.8041,
-        128.5196,
-        128.2726,
-        129.2436,
-        128.477,
-        130.3595,
-        133.5793,
-        132.276,
-        131.7309,
-        133.7411,
-        133.5026,
-        130.5043,
-        131.8586,
-        134.15,
-        133.7837,
-        132.7786,
-        132.6423,
-        131.9012,
-        134.9081,
-        134.3033,
-        133.7241,
-        132.029
-      ],
-      "analyst_rating": "Halten",
-      "analyst_target": 146.14,
-      "analyst_count": 21,
-      "news": [
-        {
-          "titel": "Earnings live updates: UnitedHealth stock jumps on upbeat guidance, Tesla and others report this week",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-unitedhealth-stock-jumps-on-upbeat-guidance-tesla-and-others-report-this-week-104416983.html",
-          "quelle": "Yahoo Finance",
-          "datum": "13.04.2026"
-        },
-        {
-          "titel": "Goldman Sachs warns US consumers could have a challenging few months",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/news/goldman-sachs-warns-us-consumers-could-have-a-challenging-few-months-113704421.html",
-          "quelle": "Yahoo Finance",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Gatorade is making a major ingredient change",
-          "einordnung": "",
-          "url": "https://www.thestreet.com/retail/gatorade-is-making-a-major-ingredient-change",
-          "quelle": "TheStreet",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Guru sues PepsiCo for alleged distribution agreement breach",
-          "einordnung": "",
-          "url": "https://www.just-drinks.com/news/guru-organic-energy-sues-pepsico/",
-          "quelle": "Just Drinks",
-          "datum": "21.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "899744",
-      "name": "Realty Income",
-      "ticker": "O",
-      "currency": "EUR",
-      "price": 54.69,
-      "change_1d_pct": -1.11,
-      "change_1w_pct": 0.61,
-      "change_1m_pct": 5.8,
-      "change_1y_pct": 17.04,
-      "week52_high": 57.87,
-      "week52_low": 46.32,
-      "div_yield": null,
-      "div_rate": 2.76,
-      "market_cap": "59.9B",
-      "pe_ratio": 54.87,
-      "sparkline": [
-        55.0199,
-        54.8757,
-        55.1471,
-        54.6467,
-        55.0538,
-        54.3499,
-        53.4595,
-        53.1203,
-        51.6871,
-        51.6023,
-        51.2716,
-        50.9324,
-        51.1105,
-        51.4666,
-        51.8567,
-        52.1131,
-        52.7094,
-        52.9905,
-        52.6668,
-        53.0075,
-        53.4845,
-        53.8338,
-        54.3023,
-        53.936,
-        54.3534,
-        54.4811,
-        55.0604,
-        55.4437,
-        55.2989,
-        54.6856
-      ],
-      "analyst_rating": "Halten",
-      "analyst_target": 58.05,
-      "analyst_count": 20,
-      "news": [
-        {
-          "titel": "Riley Exploration Permian and FitLife Brands have been highlighted as Zacks Bull and Bear of the Day",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/riley-exploration-permian-fitlife-brands-134100369.html",
-          "quelle": "Zacks",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Want $580 in Passive Income? Invest $5,000 Into These 3 Dividend Aristocrats",
-          "einordnung": "",
-          "url": "https://247wallst.com/investing/2026/04/20/want-580-in-passive-income-invest-5000-into-these-3-dividend-aristocrats/",
-          "quelle": "24/7 Wall St.",
-          "datum": "20.04.2026"
-        },
-        {
-          "titel": "3 Stocks To Buy For a Lifetime Of Passive Income",
-          "einordnung": "",
-          "url": "https://247wallst.com/investing/2026/04/20/3-stocks-to-buy-for-a-lifetime-of-passive-income/",
-          "quelle": "24/7 Wall St.",
-          "datum": "20.04.2026"
-        },
-        {
-          "titel": "Put $5,000 In These Dividend Giants and Earn Passive Income Every Quarter",
-          "einordnung": "",
-          "url": "https://247wallst.com/investing/2026/04/20/put-5000-in-these-dividend-giants-and-earn-passive-income-every-quarter/",
-          "quelle": "24/7 Wall St.",
-          "datum": "20.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "852147",
-      "name": "Rio Tinto",
-      "ticker": "RIO",
-      "currency": "EUR",
-      "price": 83.8,
-      "change_1d_pct": -1.45,
-      "change_1w_pct": -0.5,
-      "change_1m_pct": 18.31,
-      "change_1y_pct": 77.15,
-      "week52_high": 86.48,
-      "week52_low": 47.39,
-      "div_yield": null,
-      "div_rate": 3.42,
-      "market_cap": "160.0B",
-      "pe_ratio": 16.18,
-      "sparkline": [
-        78.093,
-        78.4337,
-        77.2583,
-        74.8136,
-        76.5427,
-        76.4916,
-        74.7199,
-        72.9567,
-        70.8272,
-        73.1185,
-        73.9107,
-        74.5666,
-        73.0759,
-        73.8,
-        75.6569,
-        79.4644,
-        80.7592,
-        80.4525,
-        80.0777,
-        80.6314,
-        83.8597,
-        82.7353,
-        83.6979,
-        84.4986,
-        84.2175,
-        83.9534,
-        84.933,
-        85.3078,
-        85.0352,
-        83.7958
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 83.18,
-      "analyst_count": 7,
-      "news": [
-        {
-          "titel": "Solis expands into Brazil lithium with Rio Tinto project acquisition",
-          "einordnung": "",
-          "url": "https://www.proactiveinvestors.com/companies/news/1090874/solis-expands-into-brazil-lithium-with-rio-tinto-project-acquisition-1090874.html",
-          "quelle": "Proactive",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Rio Tinto’s Iron Ore, Copper Production Rose in First Quarter",
-          "einordnung": "",
-          "url": "https://www.wsj.com/business/rio-tintos-iron-ore-copper-production-rose-in-first-quarter-750696b5?siteid=yhoof2&yptr=yahoo",
-          "quelle": "The Wall Street Journal",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "This Newsletter Has a Multidecade Market-Beating Record. How It Finds Winning Stocks—and Dodges Losers.",
-          "einordnung": "",
-          "url": "https://www.barrons.com/articles/market-beating-newsletter-winning-stocks-a97cd060?siteid=yhoof2&yptr=yahoo",
-          "quelle": "Barrons.com",
-          "datum": "20.04.2026"
-        },
-        {
-          "titel": "Rio Tinto’s Montana Copper Gold Deal And What It Means For Shares",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rio-tinto-montana-copper-gold-060635090.html",
-          "quelle": "Simply Wall St.",
-          "datum": "17.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "A3C99G",
-      "name": "Shell",
-      "ticker": "SHELL.AS",
-      "currency": "EUR",
-      "price": 37.7,
-      "change_1d_pct": 0.27,
-      "change_1w_pct": -2.89,
-      "change_1m_pct": -5.99,
-      "change_1y_pct": 38.24,
-      "week52_high": 41.33,
-      "week52_low": 28.37,
-      "div_yield": null,
-      "div_rate": 1.29,
-      "market_cap": "210.9B",
-      "pe_ratio": 14.72,
-      "sparkline": [
-        37.065,
-        36.725,
-        37.56,
-        38.535,
-        38.945,
-        39.505,
-        40.195,
-        40.06,
-        40.095,
-        39.57,
-        38.8,
-        39.925,
-        39.69,
-        40.16,
-        40.15,
-        40.915,
-        41.055,
-        39.525,
-        40.605,
-        40.82,
-        39.1,
-        39.58,
-        39.265,
-        39.885,
-        38.815,
-        38.47,
-        38.88,
-        36.72,
-        37.605,
-        37.695
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 42.79,
-      "analyst_count": 6,
-      "news": [
-        {
-          "titel": "European Stocks Track Lower in Tuesday Trading; Euro Area Economic Sentiment Plunges",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-track-lower-tuesday-161422242.html",
-          "quelle": "MT Newswires",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Activists Sue Shell Over Emissions, Again",
-          "einordnung": "",
-          "url": "https://www.yahoo.com/news/articles/activists-sue-shell-over-emissions-143000022.html",
-          "quelle": "Oilprice.com",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Sector Update: Energy Stocks Edge Higher Premarket Tuesday",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-edge-higher-132415500.html",
-          "quelle": "MT Newswires",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Shell is best placed to cope with pressure on refining margins, says analyst",
-          "einordnung": "",
-          "url": "https://www.proactiveinvestors.com/companies/news/1090916/shell-is-best-placed-to-cope-with-pressure-on-refining-margins-says-analyst-1090916.html",
-          "quelle": "Proactive",
-          "datum": "21.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "723133",
-      "name": "Sixt",
-      "ticker": "SIX2.DE",
-      "currency": "EUR",
-      "price": 76.75,
-      "change_1d_pct": 1.32,
-      "change_1w_pct": 4.14,
-      "change_1m_pct": 25.1,
-      "change_1y_pct": 3.16,
-      "week52_high": 98.7,
-      "week52_low": 57.7,
-      "div_yield": null,
-      "div_rate": 3.2,
-      "market_cap": "3.6B",
-      "pe_ratio": 12.62,
-      "sparkline": [
-        64.6,
-        66.2,
-        64.85,
-        64.6,
-        62.85,
-        62.2,
-        62.1,
-        62.2,
-        61.35,
-        60.1,
-        60.9,
-        61.65,
-        63.0,
-        62.8,
-        64.2,
-        64.6,
-        64.25,
-        65.35,
-        66.5,
-        66.35,
-        70.65,
-        69.9,
-        72.1,
-        72.15,
-        73.7,
-        73.75,
-        75.15,
-        76.35,
-        75.75,
-        76.75
-      ],
-      "analyst_rating": "Starker Kauf",
-      "analyst_target": 96.86,
-      "analyst_count": 7,
-      "news": [
-        {
-          "titel": "Further weakness as Sixt (ETR:SIX2) drops 3.8% this week, taking three-year losses to 38%",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/news/further-weakness-sixt-etr-six2-065522060.html",
-          "quelle": "Simply Wall St.",
-          "datum": "16.02.2026"
-        },
-        {
-          "titel": "How Did Sixt SE's (ETR:SIX2) 14% ROE Fare Against The Industry?",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/news/did-sixt-ses-etr-six2-074229806.html",
-          "quelle": "Simply Wall St.",
-          "datum": "10.01.2026"
-        },
-        {
-          "titel": "Sixt (ETR:SIX2) Is Looking To Continue Growing Its Returns On Capital",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/news/sixt-etr-six2-looking-continue-134522414.html",
-          "quelle": "Simply Wall St.",
-          "datum": "22.12.2025"
-        },
-        {
-          "titel": "Sixt's (ETR:SIX2) Solid Profits Have Weak Fundamentals",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/news/sixts-etr-six2-solid-profits-042917032.html",
-          "quelle": "Simply Wall St.",
-          "datum": "21.11.2025"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "852654",
-      "name": "Texas Instruments",
-      "ticker": "TXN",
-      "currency": "EUR",
-      "price": 199.99,
-      "change_1d_pct": 0.46,
-      "change_1w_pct": 7.27,
-      "change_1m_pct": 25.42,
-      "change_1y_pct": 66.33,
-      "week52_high": 201.02,
-      "week52_low": 123.58,
-      "div_yield": null,
-      "div_rate": 4.84,
-      "market_cap": "213.8B",
-      "pe_ratio": 43.08,
-      "sparkline": [
-        168.1964,
-        169.2271,
-        161.8846,
-        162.5064,
-        165.3599,
-        165.6325,
-        162.5064,
-        160.3854,
-        159.4484,
-        160.675,
-        165.7858,
-        167.6087,
-        164.7466,
-        162.1231,
-        158.7926,
-        165.3685,
-        167.2083,
-        165.9903,
-        169.866,
-        170.1385,
-        177.941,
-        183.12,
-        182.907,
-        184.5936,
-        186.4335,
-        184.2358,
-        190.0366,
-        195.7607,
-        199.0657,
-        199.9856
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 191.78,
-      "analyst_count": 32,
-      "news": [
-        {
-          "titel": "Intel Slips as Chip Stocks Mostly Advance",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-slips-chip-stocks-mostly-152404323.html",
-          "quelle": "GuruFocus.com",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Texas Instruments (TXN) Q1 Earnings: What To Expect",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-q1-earnings-061351922.html",
-          "quelle": "StockStory",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "2 Buy Rated Tech Stocks to Consider as Earnings Approach: TEL & TXN",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-buy-rated-tech-stocks-234100165.html",
-          "quelle": "Zacks",
-          "datum": "20.04.2026"
-        },
-        {
-          "titel": "Nasdaq, S&P 500 Fall From Record Highs Amid Iran War Uncertainty; Oil Jumps",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-record-211326986.html",
-          "quelle": "MT Newswires",
-          "datum": "20.04.2026"
-        }
-      ],
-      "fehler": null
-    },
-    {
-      "wkn": "869561",
-      "name": "UnitedHealth",
-      "ticker": "UNH",
-      "currency": "EUR",
-      "price": 297.76,
-      "change_1d_pct": 8.07,
-      "change_1w_pct": 11.26,
-      "change_1m_pct": 26.85,
-      "change_1y_pct": -15.49,
-      "week52_high": 373.81,
-      "week52_low": 199.83,
-      "div_yield": null,
-      "div_rate": 7.53,
-      "market_cap": "317.4B",
-      "pe_ratio": 26.43,
-      "sparkline": [
-        240.4972,
-        242.976,
-        235.9912,
-        240.2843,
-        243.1804,
-        244.9521,
-        242.1923,
-        238.8788,
-        234.7476,
-        229.5942,
-        231.9281,
-        230.4545,
-        228.325,
-        220.6332,
-        222.9927,
-        230.4886,
-        233.3762,
-        236.1701,
-        239.6624,
-        262.1244,
-        260.6338,
-        261.4259,
-        259.2283,
-        266.6134,
-        267.627,
-        267.5078,
-        269.5095,
-        276.5198,
-        275.5403,
-        297.768
-      ],
-      "analyst_rating": "Kaufen",
-      "analyst_target": 308.12,
-      "analyst_count": 26,
-      "news": [
-        {
-          "titel": "Earnings live updates: UnitedHealth stock jumps on upbeat guidance, Tesla and others report this week",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-unitedhealth-stock-jumps-on-upbeat-guidance-tesla-and-others-report-this-week-104416983.html",
-          "quelle": "Yahoo Finance",
-          "datum": "13.04.2026"
-        },
-        {
-          "titel": "UnitedHealth stock jumps 8% on earnings outlook beat",
-          "einordnung": "",
-          "url": "https://finance.yahoo.com/markets/stocks/article/unitedhealth-stock-jumps-8-on-earnings-outlook-beat-125216776.html",
-          "quelle": "Yahoo Finance",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "Stock Market Today: Dow, S&P 500 Sink As Oil Rises; Shipping Name Surges (Live Coverage)",
-          "einordnung": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-warsh-hearing/?src=A00220&yptr=yahoo",
-          "quelle": "Investor's Business Daily",
-          "datum": "21.04.2026"
-        },
-        {
-          "titel": "UnitedHealth Pops 9% On Strong Profit Outlook",
-          "einordnung": "",
-          "url": "https://app.moby.co/home/news/news-unitedhealth-pops-9-on-strong-profit-outlook?utm_source=yahoo_finance&utm_medium=rss",
-          "quelle": "Moby",
-          "datum": "21.04.2026"
-        }
-      ],
-      "fehler": null
+import yfinance as yf
+import json, os, re, time, requests
+from datetime import datetime, timezone
+
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
+
+STOCKS = [
+    {"wkn": "A1J84E", "name": "AbbVie",               "ticker": "ABBV"},
+    {"wkn": "A2ANT0", "name": "Ahold Delhaize",        "ticker": "AD.AS"},
+    {"wkn": "840400", "name": "Allianz",                "ticker": "ALV.DE"},
+    {"wkn": "850471", "name": "Boeing",                 "ticker": "BA"},
+    {"wkn": "850501", "name": "Bristol-Myers Squibb",   "ticker": "BMY"},
+    {"wkn": "916018", "name": "Brit. American Tobacco", "ticker": "BTI"},
+    {"wkn": "878841", "name": "Cisco Systems",          "ticker": "CSCO"},
+    {"wkn": "A0MW32", "name": "CME Group",              "ticker": "CME"},
+    {"wkn": "547030", "name": "CTS Eventim",            "ticker": "EVD.DE"},
+    {"wkn": "887891", "name": "Fastenal",               "ticker": "FAST"},
+    {"wkn": "853260", "name": "Johnson & Johnson",      "ticker": "JNJ"},
+    {"wkn": "A0RLRP", "name": "Koei Tecmo",            "ticker": "3635.T"},
+    {"wkn": "856958", "name": "McDonald's",             "ticker": "MCD"},
+    {"wkn": "710000", "name": "Mercedes-Benz",          "ticker": "MBG.DE"},
+    {"wkn": "851995", "name": "PepsiCo",                "ticker": "PEP"},
+    {"wkn": "899744", "name": "Realty Income",          "ticker": "O"},
+    {"wkn": "852147", "name": "Rio Tinto",              "ticker": "RIO"},
+    {"wkn": "A3C99G", "name": "Shell",                  "ticker": "SHELL.AS"},
+    {"wkn": "723133", "name": "Sixt",                   "ticker": "SIX2.DE"},
+    {"wkn": "852654", "name": "Texas Instruments",      "ticker": "TXN"},
+    {"wkn": "869561", "name": "UnitedHealth",           "ticker": "UNH"},
+]
+
+def fmt(v, d=2):
+    if v is None: return None
+    try: return round(float(v), d)
+    except: return None
+
+def eur_rate(cur):
+    if cur == 'EUR': return 1.0
+    try:
+        r = yf.Ticker(f"{cur}EUR=X").info.get('regularMarketPrice')
+        if r: return float(r)
+    except: pass
+    return {'USD':0.92,'GBP':1.17,'JPY':0.0061,'CAD':0.68,'AUD':0.60}.get(cur, 1.0)
+
+def hole_news(t):
+    items = []
+    try:
+        for n in (t.news or [])[:4]:
+            c = n.get('content', {}) if isinstance(n, dict) else {}
+            titel  = c.get('title') or n.get('title', '')
+            quelle = c.get('provider', {}).get('displayName') or n.get('publisher', '')
+            url    = (c.get('canonicalUrl', {}).get('url') or
+                      c.get('clickThroughUrl', {}).get('url') or
+                      n.get('link') or n.get('url', ''))
+            pub    = c.get('pubDate', '')
+            if pub:
+                try: datum = datetime.fromisoformat(pub.replace('Z','+00:00')).strftime("%d.%m.%Y")
+                except: datum = pub[:10]
+            else:
+                ts = n.get('providerPublishTime', 0)
+                try: datum = datetime.fromtimestamp(float(ts), tz=timezone.utc).strftime("%d.%m.%Y") if ts else ''
+                except: datum = ''
+            if titel:
+                items.append({'titel': titel, 'url': url, 'quelle': quelle, 'datum': datum})
+    except Exception as e:
+        print(f"  News-Fehler: {e}")
+    return items
+
+# ── Gemini API mit Retry-Mechanismus ─────────────────────────────────────────
+def gemini_mit_retry(payload, max_versuche=4):
+    """Schickt einen Request an Gemini mit exponential backoff bei 429/503."""
+    wartezeiten = [15, 30, 60]  # Sekunden
+
+    for versuch in range(1, max_versuche + 1):
+        try:
+            print(f"  Gemini Versuch {versuch}/{max_versuche}...")
+            resp = requests.post(GEMINI_URL, json=payload, timeout=90)
+            print(f"  Gemini HTTP: {resp.status_code}")
+
+            if resp.status_code == 200:
+                return resp
+
+            # Bei 429 (Rate Limit) oder 503 (Überlastet) → Retry
+            if resp.status_code in (429, 503) and versuch < max_versuche:
+                warte = wartezeiten[versuch - 1]
+                print(f"  ⚠️ Gemini {resp.status_code} — warte {warte}s vor Versuch {versuch+1}...")
+                time.sleep(warte)
+                continue
+
+            # Anderen Fehler loggen und None zurückgeben
+            print(f"  ❌ Gemini Fehler {resp.status_code}: {resp.text[:200]}")
+            return None
+
+        except Exception as e:
+            if versuch < max_versuche:
+                warte = wartezeiten[versuch - 1]
+                print(f"  ⚠️ Netzwerkfehler (Versuch {versuch}): {e} — warte {warte}s...")
+                time.sleep(warte)
+            else:
+                print(f"  ❌ Netzwerkfehler nach {max_versuche} Versuchen: {e}")
+                return None
+
+    return None
+
+# ── Einen Batch übersetzen ────────────────────────────────────────────────────
+def uebersetze_batch(eintraege):
+    """
+    Übersetzt einen Batch von News-Titeln via Gemini.
+    eintraege: [(firmenname, index, news_dict), ...]
+    Gibt zurück: [{titel, einordnung}, ...] in gleicher Reihenfolge, oder [] bei Fehler
+    """
+    if not eintraege:
+        return []
+
+    titelliste = "\n".join(
+        f"{idx+1}. [{firma}] {n['titel']}"
+        for idx, (firma, i, n) in enumerate(eintraege)
+    )
+
+    prompt = (
+        f"Uebersetze {len(eintraege)} englische Finanznachrichten-Titel ins Deutsche.\n"
+        f"Schreibe fuer jeden Titel eine kurze Einordnung (1 Satz) fuer Aktionaere.\n"
+        f"Antworte NUR mit einem JSON-Array (kein Markdown, keine Erklaerungen):\n"
+        f'[{{"titel":"DE-Titel","einordnung":"Einordnung"}}]\n\n'
+        f"Titel:\n{titelliste}"
+    )
+
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        # FIX: 8000 Tokens — 40 Titel × ~15 Wörter JSON brauchen ~3000, Puffer für Sonderzeichen
+        "generationConfig": {"temperature": 0.1, "maxOutputTokens": 8000}
     }
-  ]
-}
+
+    resp = gemini_mit_retry(payload)
+    if resp is None:
+        return []
+
+    try:
+        body = resp.json()
+
+        if 'error' in body:
+            print(f"  ❌ Gemini API-Fehler: {body['error'].get('message','')[:200]}")
+            return []
+
+        text = body["candidates"][0]["content"]["parts"][0]["text"].strip()
+        print(f"  Gemini Antwort: {len(text)} Zeichen")
+
+        # JSON aus Antwort extrahieren (entfernt Markdown-Backticks falls vorhanden)
+        text = re.sub(r'```json\s*|\s*```', '', text).strip()
+        if not text.startswith('['):
+            m = re.search(r'\[.*\]', text, re.DOTALL)
+            text = m.group(0) if m else '[]'
+
+        ue_liste = json.loads(text)
+        print(f"  ✅ {len(ue_liste)}/{len(eintraege)} Übersetzungen erhalten")
+        return ue_liste
+
+    except Exception as e:
+        print(f"  ❌ Parse-Fehler: {e}")
+        return []
+
+# ── Alle News in Batches übersetzen ──────────────────────────────────────────
+def uebersetze_alle(alle_news_dict, batch_groesse=20):
+    """
+    Übersetzt ALLE News in Batches (max. batch_groesse Titel pro Request).
+    Verhindert 429-Fehler durch kleinere Batches + Pause zwischen Batches.
+    """
+    if not GEMINI_API_KEY:
+        print("  ⚠️ GEMINI_API_KEY nicht gesetzt — überspringe Übersetzung")
+        return {}
+
+    # Alle Einträge flach auflisten
+    alle_eintraege = []
+    for firma, news_liste in alle_news_dict.items():
+        for i, n in enumerate(news_liste):
+            alle_eintraege.append((firma, i, n))
+
+    if not alle_eintraege:
+        return {}
+
+    gesamt = len(alle_eintraege)
+    print(f"  {gesamt} Titel in Batches à {batch_groesse}...")
+
+    # In Batches aufteilen
+    alle_ue = []
+    for start in range(0, gesamt, batch_groesse):
+        batch = alle_eintraege[start:start + batch_groesse]
+        batch_nr = start // batch_groesse + 1
+        batch_gesamt = (gesamt + batch_groesse - 1) // batch_groesse
+        print(f"\n  Batch {batch_nr}/{batch_gesamt} ({len(batch)} Titel):")
+
+        ue_batch = uebersetze_batch(batch)
+        alle_ue.extend(ue_batch)
+
+        # Pause zwischen Batches (außer nach dem letzten)
+        if start + batch_groesse < gesamt:
+            print("  Pause 10s zwischen Batches...")
+            time.sleep(10)
+
+    # Ergebnisse zurück den Firmen zuordnen
+    result = {}
+    for idx, (firma, i, orig) in enumerate(alle_eintraege):
+        if firma not in result:
+            result[firma] = []
+        ue = alle_ue[idx] if idx < len(alle_ue) else {}
+        result[firma].append({
+            'titel':      ue.get('titel', orig['titel']),
+            'einordnung': ue.get('einordnung', ''),
+            'url':        orig['url'],
+            'quelle':     orig['quelle'],
+            'datum':      orig['datum'],
+        })
+
+    uebersetzt = sum(1 for idx, _ in enumerate(alle_eintraege) if idx < len(alle_ue) and alle_ue[idx].get('titel'))
+    print(f"\n  Übersetzung abgeschlossen: {uebersetzt}/{gesamt} Titel übersetzt")
+    return result
+
+# ── Schritt 1: Alle Aktiendaten abrufen ──────────────────────────────────────
+print("=== Aktiendaten abrufen ===")
+results = []
+rates = {}
+alle_news_roh = {}
+
+for s in STOCKS:
+    print(f"\n{s['name']} ({s['ticker']})...")
+    try:
+        t    = yf.Ticker(s['ticker'])
+        info = t.info
+        hist = t.history(period="1y")
+        cur  = info.get('currency', 'USD')
+        if cur not in rates: rates[cur] = eur_rate(cur)
+        er   = rates[cur]
+
+        po   = fmt(info.get('currentPrice') or info.get('regularMarketPrice'))
+        pc   = fmt(info.get('previousClose'))
+        pe   = fmt(po * er) if po else None
+
+        d1 = fmt((po-pc)/pc*100) if po and pc and pc>0 else None
+        d1w = d1m = d1y = None
+        if len(hist)>=6:
+            v = fmt((hist["Close"].iloc[-1]-hist["Close"].iloc[-6])/hist["Close"].iloc[-6]*100)
+            d1w = None if v != v else v  # NaN check
+        if len(hist)>=22:
+            v = fmt((hist["Close"].iloc[-1]-hist["Close"].iloc[-22])/hist["Close"].iloc[-22]*100)
+            d1m = None if v != v else v
+        if len(hist)>=2:
+            v = fmt((hist["Close"].iloc[-1]-hist["Close"].iloc[0])/hist["Close"].iloc[0]*100)
+            d1y = None if v != v else v
+
+        h52 = fmt(info.get('fiftyTwoWeekHigh',0)*er) if info.get('fiftyTwoWeekHigh') else None
+        l52 = fmt(info.get('fiftyTwoWeekLow',0)*er)  if info.get('fiftyTwoWeekLow')  else None
+        dr  = fmt(info.get('dividendRate'))
+        dre = fmt(dr*er) if dr else None
+
+        dy = None
+        raw_dy = info.get('dividendYield')
+        if raw_dy:
+            p = float(raw_dy)*100
+            if 0 < p < 25: dy = fmt(p)
+        elif dr and po and po > 0:
+            p = dr/po*100
+            if 0 < p < 25: dy = fmt(p)
+
+        mc = info.get('marketCap')
+        mcs = f"{mc/1e12:.2f}T" if mc and mc>=1e12 else f"{mc/1e9:.1f}B" if mc and mc>=1e9 else f"{mc/1e6:.0f}M" if mc else None
+        sp  = [x if x is not None and x == x else None for x in [fmt(v*er,4) for v in hist["Close"].tail(30).tolist()]] if len(hist)>=2 else []
+
+        rm  = {"strong_buy":"Starker Kauf","buy":"Kaufen","hold":"Halten","sell":"Verkaufen","strong_sell":"Starker Verkauf"}
+        ar  = rm.get(info.get('recommendationKey',''), info.get('recommendationKey',''))
+        at  = fmt(info.get('targetMeanPrice',0)*er) if info.get('targetMeanPrice') else None
+        ac  = info.get('numberOfAnalystOpinions')
+
+        raw_news = hole_news(t)
+        print(f"  {len(raw_news)} News gefunden")
+        if raw_news:
+            alle_news_roh[s['name']] = raw_news
+
+        chg = f"{d1:+.2f}%" if d1 is not None else "–"
+        print(f"  Kurs: €{pe} ({chg})")
+
+        results.append({
+            "wkn": s["wkn"], "name": s["name"], "ticker": s["ticker"],
+            "currency": "EUR", "price": pe,
+            "change_1d_pct": d1, "change_1w_pct": d1w,
+            "change_1m_pct": d1m, "change_1y_pct": d1y,
+            "week52_high": h52, "week52_low": l52,
+            "div_yield": dy, "div_rate": dre,
+            "market_cap": mcs, "pe_ratio": fmt(info.get('trailingPE')),
+            "sparkline": sp,
+            "analyst_rating": ar, "analyst_target": at, "analyst_count": ac,
+            "news": [],
+            "fehler": None
+        })
+
+    except Exception as e:
+        print(f"  FEHLER: {e}")
+        results.append({"wkn": s["wkn"], "name": s["name"], "ticker": s["ticker"], "fehler": str(e)})
+
+# ── Schritt 2: Alle News in Batches übersetzen ────────────────────────────────
+gesamt_news = sum(len(v) for v in alle_news_roh.values())
+print(f"\n=== Übersetze alle News ({gesamt_news} Titel) ===")
+ue_alle = uebersetze_alle(alle_news_roh, batch_groesse=20)
+
+# News den Ergebnissen zuordnen
+uebersetzt_count = 0
+englisch_count = 0
+for r in results:
+    if r.get('fehler'): continue
+    name = r['name']
+    if name in ue_alle and ue_alle[name] and ue_alle[name][0].get("titel"):
+        r['news'] = ue_alle[name]
+        uebersetzt_count += len(ue_alle[name])
+    elif name in alle_news_roh:
+        # Fallback: englische Originale (mit Log-Hinweis)
+        print(f"  ⚠️ Fallback auf Englisch: {name}")
+        englisch_count += len(alle_news_roh[name])
+        r['news'] = [{'titel': n['titel'], 'einordnung': '', 'url': n['url'], 'quelle': n['quelle'], 'datum': n['datum']} for n in alle_news_roh[name]]
+
+print(f"\n  📊 News-Statistik: {uebersetzt_count} übersetzt, {englisch_count} englisch (Fallback)")
+
+# ── Speichern ─────────────────────────────────────────────────────────────────
+os.makedirs("data", exist_ok=True)
+with open("data/stocks.json", "w", encoding="utf-8") as f:
+    json.dump({"aktualisiert": datetime.now(timezone.utc).isoformat(), "aktien": results}, f, ensure_ascii=False, indent=2, allow_nan=False)
+
+print(f"\n✅ Fertig! {len(results)} Aktien gespeichert.")
