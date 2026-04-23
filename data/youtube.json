@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-04-22T08:52:18.882591+00:00",
+  "aktualisiert": "2026-04-23T08:57:40.086515+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "John Taylor - Scalable Workflows ",
+      "titel": "Claude Design ist da! Alles was du wissen musst (Tutorial Deutsch 2026)",
+      "link": "https://www.youtube.com/watch?v=V1fY7kf5eEY",
+      "video_id": "V1fY7kf5eEY",
+      "thumbnail": "https://img.youtube.com/vi/V1fY7kf5eEY/mqdefault.jpg",
+      "datum": "2026-04-23T06:00:20Z",
+      "datum_de": "23.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Institut für KI",
+      "titel": "Claude Code Tutorial: KI Mail Agent für Outlook bauen",
+      "link": "https://www.youtube.com/watch?v=fzRNafY0or4",
+      "video_id": "fzRNafY0or4",
+      "thumbnail": "https://img.youtube.com/vi/fzRNafY0or4/mqdefault.jpg",
+      "datum": "2026-04-22T19:18:21Z",
+      "datum_de": "22.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Obsidian macht Claude Code 10x schlauer! (Second Brain)",
+      "link": "https://www.youtube.com/watch?v=0bNutTb5KwE",
+      "video_id": "0bNutTb5KwE",
+      "thumbnail": "https://img.youtube.com/vi/0bNutTb5KwE/mqdefault.jpg",
+      "datum": "2026-04-22T14:15:00+00:00",
+      "datum_de": "22.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Von ChatGPT bis n8n – KI-Tools praktisch nutzen",
+      "titel": "Gemini 3.1 TTS (Text-to-Speech): 12x günstiger als ElevenLabs! (Gleiche Qualität)",
+      "link": "https://www.youtube.com/watch?v=wnaT1VNb9Ww",
+      "video_id": "wnaT1VNb9Ww",
+      "thumbnail": "https://img.youtube.com/vi/wnaT1VNb9Ww/mqdefault.jpg",
+      "datum": "2026-04-22T14:06:52Z",
+      "datum_de": "22.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Julian Taylor",
+      "titel": "ChatGPT Image 2.0: Das neue OpenAI Update verändert ALLES (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=gPi15BEH_UE",
+      "video_id": "gPi15BEH_UE",
+      "thumbnail": "https://img.youtube.com/vi/gPi15BEH_UE/mqdefault.jpg",
+      "datum": "2026-04-22T13:02:25Z",
+      "datum_de": "22.04.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "n8n ist tot: Lerne jetzt ALLES über Agentic Workflows! (Agentic Coding Grundkurs 2026)",
@@ -101,56 +151,6 @@
       "datum": "2026-04-19T08:21:00+00:00",
       "datum_de": "19.04.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Das beste Update: Claude Routines sind verrückt gut!",
-      "link": "https://www.youtube.com/watch?v=B-xubxSQ8EI",
-      "video_id": "B-xubxSQ8EI",
-      "thumbnail": "https://img.youtube.com/vi/B-xubxSQ8EI/mqdefault.jpg",
-      "datum": "2026-04-18T14:15:04+00:00",
-      "datum_de": "18.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "AI mit Arnie",
-      "titel": "Claude Design ist ein Beast",
-      "link": "https://www.youtube.com/watch?v=ZTCYHG9ZIH4",
-      "video_id": "ZTCYHG9ZIH4",
-      "thumbnail": "https://img.youtube.com/vi/ZTCYHG9ZIH4/mqdefault.jpg",
-      "datum": "2026-04-18T12:55:37Z",
-      "datum_de": "18.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "KI NEWS WAHNSINN: Opus 4.7 ist da! Angriff auf Sam Altman & Roboter wird Basketball-Star",
-      "link": "https://www.youtube.com/watch?v=qpIspTrZYX8",
-      "video_id": "qpIspTrZYX8",
-      "thumbnail": "https://img.youtube.com/vi/qpIspTrZYX8/mqdefault.jpg",
-      "datum": "2026-04-18T08:06:37+00:00",
-      "datum_de": "18.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Philip Thomas",
-      "titel": "Der erste KI-Agent, der sich selbst verbessert (Hermes Agent + Installation)",
-      "link": "https://www.youtube.com/watch?v=6KSjegH9vIA",
-      "video_id": "6KSjegH9vIA",
-      "thumbnail": "https://img.youtube.com/vi/6KSjegH9vIA/mqdefault.jpg",
-      "datum": "2026-04-17T13:00:26Z",
-      "datum_de": "17.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Gemini 3.1 Flash TTS ist da - kostenlos und besser als ElevenLabs! Das musst du jetzt wissen",
-      "link": "https://www.youtube.com/watch?v=i9zLKiuE6ao",
-      "video_id": "i9zLKiuE6ao",
-      "thumbnail": "https://img.youtube.com/vi/i9zLKiuE6ao/mqdefault.jpg",
-      "datum": "2026-04-16T15:15:49Z",
-      "datum_de": "16.04.2026",
-      "quelle": "suche"
     }
   ]
 }
