@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-04-23T08:57:40.086515+00:00",
+  "aktualisiert": "2026-04-24T09:04:57.477685+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "ADHS Autismus Interview Stream",
+      "link": "https://www.youtube.com/watch?v=P9Faaqi00Nc",
+      "video_id": "P9Faaqi00Nc",
+      "thumbnail": "https://img.youtube.com/vi/P9Faaqi00Nc/mqdefault.jpg",
+      "datum": "2026-04-24T02:29:09+00:00",
+      "datum_de": "24.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "BCI-Erfinder warnt vor Musk: „Neuralink ist brandgefährlich!\" Das ist die Wahrheit (Niels Birbaumer)",
+      "link": "https://www.youtube.com/watch?v=AqFWq3VyuC8",
+      "video_id": "AqFWq3VyuC8",
+      "thumbnail": "https://img.youtube.com/vi/AqFWq3VyuC8/mqdefault.jpg",
+      "datum": "2026-04-23T15:15:00+00:00",
+      "datum_de": "23.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Das mit Abstand beste KI-Bildmodell! - ChatGPT Images 2.0 ist da",
+      "link": "https://www.youtube.com/watch?v=eWYoVVy4Iv0",
+      "video_id": "eWYoVVy4Iv0",
+      "thumbnail": "https://img.youtube.com/vi/eWYoVVy4Iv0/mqdefault.jpg",
+      "datum": "2026-04-23T09:00:57+00:00",
+      "datum_de": "23.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "John Taylor - Scalable Workflows ",
       "titel": "Claude Design ist da! Alles was du wissen musst (Tutorial Deutsch 2026)",
@@ -13,12 +43,32 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Jonas Keil",
+      "titel": "Claude Design ist der WAHNSINN! | Komplettes Anfänger-Tutorial in 16 min!",
+      "link": "https://www.youtube.com/watch?v=gInteRuNh68",
+      "video_id": "gInteRuNh68",
+      "thumbnail": "https://img.youtube.com/vi/gInteRuNh68/mqdefault.jpg",
+      "datum": "2026-04-23T04:00:44Z",
+      "datum_de": "23.04.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Institut für KI",
       "titel": "Claude Code Tutorial: KI Mail Agent für Outlook bauen",
       "link": "https://www.youtube.com/watch?v=fzRNafY0or4",
       "video_id": "fzRNafY0or4",
       "thumbnail": "https://img.youtube.com/vi/fzRNafY0or4/mqdefault.jpg",
       "datum": "2026-04-22T19:18:21Z",
+      "datum_de": "22.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Kontextkern",
+      "titel": "Claude AI für Einsteiger 2026: Grundlagen &amp; Artifacts erklärt",
+      "link": "https://www.youtube.com/watch?v=8pmGrnxQgAM",
+      "video_id": "8pmGrnxQgAM",
+      "thumbnail": "https://img.youtube.com/vi/8pmGrnxQgAM/mqdefault.jpg",
+      "datum": "2026-04-22T16:00:16Z",
       "datum_de": "22.04.2026",
       "quelle": "suche"
     },
@@ -34,7 +84,7 @@
     },
     {
       "kanal": "Von ChatGPT bis n8n – KI-Tools praktisch nutzen",
-      "titel": "Gemini 3.1 TTS (Text-to-Speech): 12x günstiger als ElevenLabs! (Gleiche Qualität)",
+      "titel": "Profi-Sprachausgabe mit Gemini 3.1: So gut wie ElevenLabs, aber 12x günstiger",
       "link": "https://www.youtube.com/watch?v=wnaT1VNb9Ww",
       "video_id": "wnaT1VNb9Ww",
       "thumbnail": "https://img.youtube.com/vi/wnaT1VNb9Ww/mqdefault.jpg",
@@ -101,56 +151,6 @@
       "datum": "2026-04-20T11:30:03Z",
       "datum_de": "20.04.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Julian Ivanov | KI-Automatisierung",
-      "titel": "Claude Design Tutorial: Das kann Anthropics neues Tool",
-      "link": "https://www.youtube.com/watch?v=dfJcMc8bfXI",
-      "video_id": "dfJcMc8bfXI",
-      "thumbnail": "https://img.youtube.com/vi/dfJcMc8bfXI/mqdefault.jpg",
-      "datum": "2026-04-20T10:24:01Z",
-      "datum_de": "20.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "DigiNerd",
-      "titel": "Ollama KI Assistent lokal auf Windows installieren Tutorial Deutsch",
-      "link": "https://www.youtube.com/watch?v=AX_9m-Z02s8",
-      "video_id": "AX_9m-Z02s8",
-      "thumbnail": "https://img.youtube.com/vi/AX_9m-Z02s8/mqdefault.jpg",
-      "datum": "2026-04-19T18:16:40Z",
-      "datum_de": "19.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "DerKryptoGraf",
-      "titel": "Dein eigener 24/7 KI-Agent: OpenClaw sicher einrichten (Tutorial für Anfänger",
-      "link": "https://www.youtube.com/watch?v=65lOLD2FstQ",
-      "video_id": "65lOLD2FstQ",
-      "thumbnail": "https://img.youtube.com/vi/65lOLD2FstQ/mqdefault.jpg",
-      "datum": "2026-04-19T16:12:26Z",
-      "datum_de": "19.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Shakeela ZQ",
-      "titel": "Gemini vs Claude AI vs ChatGPT: Welches KI-Tool lohnt sich 2026 wirklich? (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=pPK9OFE6xGU",
-      "video_id": "pPK9OFE6xGU",
-      "thumbnail": "https://img.youtube.com/vi/pPK9OFE6xGU/mqdefault.jpg",
-      "datum": "2026-04-19T14:07:00Z",
-      "datum_de": "19.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Opus 4.7: Ist es VORBEI für Claude? Anthropics Krise, Codex-Updates, GPT-Rosalind & mehr KI-News",
-      "link": "https://www.youtube.com/watch?v=Yob3R9Kb4vg",
-      "video_id": "Yob3R9Kb4vg",
-      "thumbnail": "https://img.youtube.com/vi/Yob3R9Kb4vg/mqdefault.jpg",
-      "datum": "2026-04-19T08:21:00+00:00",
-      "datum_de": "19.04.2026",
-      "quelle": "kanal"
     }
   ]
 }
