@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-04-24T09:04:57.477685+00:00",
+  "aktualisiert": "2026-04-25T08:08:50.407099+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Cashflow Booster",
+      "titel": "Dieser KI-Agent erledigt deine Shutterstock-Arbeit ALLEINE | Cowork Tutorial Deutsch",
+      "link": "https://www.youtube.com/watch?v=Lm-L-zX4FOo",
+      "video_id": "Lm-L-zX4FOo",
+      "thumbnail": "https://img.youtube.com/vi/Lm-L-zX4FOo/mqdefault.jpg",
+      "datum": "2026-04-24T14:30:31Z",
+      "datum_de": "24.04.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Warum der Mittelstand beim Thema Daten im Vorteil ist | Claudia Pohlink, Director Data & AI, FIEGE",
+      "link": "https://www.youtube.com/watch?v=gMSJutIllhc",
+      "video_id": "gMSJutIllhc",
+      "thumbnail": "https://img.youtube.com/vi/gMSJutIllhc/mqdefault.jpg",
+      "datum": "2026-04-24T11:01:14+00:00",
+      "datum_de": "24.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Morpheus Tutorials",
       "titel": "ADHS Autismus Interview Stream",
@@ -131,26 +151,6 @@
       "datum": "2026-04-20T16:01:39+00:00",
       "datum_de": "20.04.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Felicia Simon",
-      "titel": "Claude AI Prompt schreiben ✅ Techniken und Tipps für die besten KI Antworten",
-      "link": "https://www.youtube.com/watch?v=m4rFoTPpeAA",
-      "video_id": "m4rFoTPpeAA",
-      "thumbnail": "https://img.youtube.com/vi/m4rFoTPpeAA/mqdefault.jpg",
-      "datum": "2026-04-20T14:45:05Z",
-      "datum_de": "20.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "IchBinFabian",
-      "titel": "Claude Design ist da, und es ändert alles!!",
-      "link": "https://www.youtube.com/watch?v=3JRlAcMz9oA",
-      "video_id": "3JRlAcMz9oA",
-      "thumbnail": "https://img.youtube.com/vi/3JRlAcMz9oA/mqdefault.jpg",
-      "datum": "2026-04-20T11:30:03Z",
-      "datum_de": "20.04.2026",
-      "quelle": "suche"
     }
   ]
 }
