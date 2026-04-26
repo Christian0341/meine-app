@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-04-25T08:08:50.407099+00:00",
+  "aktualisiert": "2026-04-26T08:19:19.012076+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "GPT-5.5 „Spud”: OpenAIs Paukenschlag! ChatGPT “ImageGen-2”, Claude Design, Cowork & weitere KI-News",
+      "link": "https://www.youtube.com/watch?v=qyutRyBrakI",
+      "video_id": "qyutRyBrakI",
+      "thumbnail": "https://img.youtube.com/vi/qyutRyBrakI/mqdefault.jpg",
+      "datum": "2026-04-26T08:15:00+00:00",
+      "datum_de": "26.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Claude Live-Artifacts ist gerade gelauncht – und es ist WILD",
+      "link": "https://www.youtube.com/watch?v=Hi75npVo2s0",
+      "video_id": "Hi75npVo2s0",
+      "thumbnail": "https://img.youtube.com/vi/Hi75npVo2s0/mqdefault.jpg",
+      "datum": "2026-04-25T14:15:03+00:00",
+      "datum_de": "25.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Claude Design Tutorial: Alles Wichtige in 10 Minuten!",
+      "link": "https://www.youtube.com/watch?v=YO95cyk-AL0",
+      "video_id": "YO95cyk-AL0",
+      "thumbnail": "https://img.youtube.com/vi/YO95cyk-AL0/mqdefault.jpg",
+      "datum": "2026-04-25T12:00:53+00:00",
+      "datum_de": "25.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Cashflow Booster",
       "titel": "Dieser KI-Agent erledigt deine Shutterstock-Arbeit ALLEINE | Cowork Tutorial Deutsch",
@@ -121,36 +151,6 @@
       "datum": "2026-04-22T13:02:25Z",
       "datum_de": "22.04.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "n8n ist tot: Lerne jetzt ALLES über Agentic Workflows! (Agentic Coding Grundkurs 2026)",
-      "link": "https://www.youtube.com/watch?v=w62ah6G_7CE",
-      "video_id": "w62ah6G_7CE",
-      "thumbnail": "https://img.youtube.com/vi/w62ah6G_7CE/mqdefault.jpg",
-      "datum": "2026-04-21T15:00:00+00:00",
-      "datum_de": "21.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Codex ist mehr als nur ein KI Coding Tool! #codex #openai",
-      "link": "https://www.youtube.com/shorts/TNdGZr-z4-k",
-      "video_id": "TNdGZr-z4-k",
-      "thumbnail": "https://img.youtube.com/vi/TNdGZr-z4-k/mqdefault.jpg",
-      "datum": "2026-04-21T08:30:09+00:00",
-      "datum_de": "21.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "OpenAI CODEX Update! Ein KI AGENT Tool für ALLES?",
-      "link": "https://www.youtube.com/watch?v=zO27qhSh6dI",
-      "video_id": "zO27qhSh6dI",
-      "thumbnail": "https://img.youtube.com/vi/zO27qhSh6dI/mqdefault.jpg",
-      "datum": "2026-04-20T16:01:39+00:00",
-      "datum_de": "20.04.2026",
-      "quelle": "kanal"
     }
   ]
 }
