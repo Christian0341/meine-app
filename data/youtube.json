@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-04-26T08:19:19.012076+00:00",
+  "aktualisiert": "2026-04-27T09:25:13.752411+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
@@ -93,16 +93,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Jonas Keil",
-      "titel": "Claude Design ist der WAHNSINN! | Komplettes Anfänger-Tutorial in 16 min!",
-      "link": "https://www.youtube.com/watch?v=gInteRuNh68",
-      "video_id": "gInteRuNh68",
-      "thumbnail": "https://img.youtube.com/vi/gInteRuNh68/mqdefault.jpg",
-      "datum": "2026-04-23T04:00:44Z",
-      "datum_de": "23.04.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Institut für KI",
       "titel": "Claude Code Tutorial: KI Mail Agent für Outlook bauen",
       "link": "https://www.youtube.com/watch?v=fzRNafY0or4",
@@ -151,6 +141,16 @@
       "datum": "2026-04-22T13:02:25Z",
       "datum_de": "22.04.2026",
       "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "n8n ist tot: Lerne jetzt ALLES über Agentic Workflows! (Agentic Coding Grundkurs 2026)",
+      "link": "https://www.youtube.com/watch?v=w62ah6G_7CE",
+      "video_id": "w62ah6G_7CE",
+      "thumbnail": "https://img.youtube.com/vi/w62ah6G_7CE/mqdefault.jpg",
+      "datum": "2026-04-21T15:00:00+00:00",
+      "datum_de": "21.04.2026",
+      "quelle": "kanal"
     }
   ]
 }
