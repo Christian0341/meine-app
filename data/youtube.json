@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-04-27T09:25:13.752411+00:00",
+  "aktualisiert": "2026-04-28T09:29:21.626150+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "CLAUDE DESIGN: Präsentationen, Websites und Grafiken auf Knopfdruck?",
+      "link": "https://www.youtube.com/watch?v=BQ2VQFFnGJE",
+      "video_id": "BQ2VQFFnGJE",
+      "thumbnail": "https://img.youtube.com/vi/BQ2VQFFnGJE/mqdefault.jpg",
+      "datum": "2026-04-27T17:02:39+00:00",
+      "datum_de": "27.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Warum investiert Google Milliarden in Anthropic? #ki #google",
+      "link": "https://www.youtube.com/shorts/hlC0-Sb10W4",
+      "video_id": "hlC0-Sb10W4",
+      "thumbnail": "https://img.youtube.com/vi/hlC0-Sb10W4/mqdefault.jpg",
+      "datum": "2026-04-27T16:14:30+00:00",
+      "datum_de": "27.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "GPT-5.5 „Spud”: OpenAIs Paukenschlag! ChatGPT “ImageGen-2”, Claude Design, Cowork & weitere KI-News",
@@ -93,6 +113,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Jonas Keil",
+      "titel": "Claude Design ist der WAHNSINN! | Komplettes Anfänger-Tutorial in 16 min!",
+      "link": "https://www.youtube.com/watch?v=gInteRuNh68",
+      "video_id": "gInteRuNh68",
+      "thumbnail": "https://img.youtube.com/vi/gInteRuNh68/mqdefault.jpg",
+      "datum": "2026-04-23T04:00:44Z",
+      "datum_de": "23.04.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Institut für KI",
       "titel": "Claude Code Tutorial: KI Mail Agent für Outlook bauen",
       "link": "https://www.youtube.com/watch?v=fzRNafY0or4",
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/0bNutTb5KwE/mqdefault.jpg",
       "datum": "2026-04-22T14:15:00+00:00",
       "datum_de": "22.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Von ChatGPT bis n8n – KI-Tools praktisch nutzen",
-      "titel": "Profi-Sprachausgabe mit Gemini 3.1: So gut wie ElevenLabs, aber 12x günstiger",
-      "link": "https://www.youtube.com/watch?v=wnaT1VNb9Ww",
-      "video_id": "wnaT1VNb9Ww",
-      "thumbnail": "https://img.youtube.com/vi/wnaT1VNb9Ww/mqdefault.jpg",
-      "datum": "2026-04-22T14:06:52Z",
-      "datum_de": "22.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Julian Taylor",
-      "titel": "ChatGPT Image 2.0: Das neue OpenAI Update verändert ALLES (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=gPi15BEH_UE",
-      "video_id": "gPi15BEH_UE",
-      "thumbnail": "https://img.youtube.com/vi/gPi15BEH_UE/mqdefault.jpg",
-      "datum": "2026-04-22T13:02:25Z",
-      "datum_de": "22.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "n8n ist tot: Lerne jetzt ALLES über Agentic Workflows! (Agentic Coding Grundkurs 2026)",
-      "link": "https://www.youtube.com/watch?v=w62ah6G_7CE",
-      "video_id": "w62ah6G_7CE",
-      "thumbnail": "https://img.youtube.com/vi/w62ah6G_7CE/mqdefault.jpg",
-      "datum": "2026-04-21T15:00:00+00:00",
-      "datum_de": "21.04.2026",
       "quelle": "kanal"
     }
   ]
