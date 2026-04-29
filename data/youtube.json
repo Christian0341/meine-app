@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-04-28T09:29:21.626150+00:00",
+  "aktualisiert": "2026-04-29T09:18:12.326035+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "Krass: Das kann GPT-5.5 mit Codex! OpenAIs neue Super-App GETESTET (Alle Beispiele & Use Cases)",
+      "link": "https://www.youtube.com/watch?v=9XY2xaA6syI",
+      "video_id": "9XY2xaA6syI",
+      "thumbnail": "https://img.youtube.com/vi/9XY2xaA6syI/mqdefault.jpg",
+      "datum": "2026-04-28T15:16:00+00:00",
+      "datum_de": "28.04.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "CLAUDE DESIGN: Präsentationen, Websites und Grafiken auf Knopfdruck?",
@@ -141,16 +151,6 @@
       "datum": "2026-04-22T16:00:16Z",
       "datum_de": "22.04.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Obsidian macht Claude Code 10x schlauer! (Second Brain)",
-      "link": "https://www.youtube.com/watch?v=0bNutTb5KwE",
-      "video_id": "0bNutTb5KwE",
-      "thumbnail": "https://img.youtube.com/vi/0bNutTb5KwE/mqdefault.jpg",
-      "datum": "2026-04-22T14:15:00+00:00",
-      "datum_de": "22.04.2026",
-      "quelle": "kanal"
     }
   ]
 }
