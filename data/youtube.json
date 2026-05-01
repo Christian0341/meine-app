@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-04-30T09:21:00.921248+00:00",
+  "aktualisiert": "2026-05-01T09:05:06.940343+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "Post-Labor-Debatte: Das Ende der Arbeit, Jobverluste, Hyperdeflation, Grundeinkommen, AGI & Zukunft",
+      "link": "https://www.youtube.com/watch?v=6G0eOcx8gBI",
+      "video_id": "6G0eOcx8gBI",
+      "thumbnail": "https://img.youtube.com/vi/6G0eOcx8gBI/mqdefault.jpg",
+      "datum": "2026-04-30T15:15:00+00:00",
+      "datum_de": "30.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "10 mal Effizienter! - Claude Skills Tutorial für Anfänger!",
+      "link": "https://www.youtube.com/watch?v=46xySsJvoT8",
+      "video_id": "46xySsJvoT8",
+      "thumbnail": "https://img.youtube.com/vi/46xySsJvoT8/mqdefault.jpg",
+      "datum": "2026-04-30T12:00:08+00:00",
+      "datum_de": "30.04.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Jonas Keil",
+      "titel": "Claude AI ist GENIAL! (7 Tricks für Anfänger)",
+      "link": "https://www.youtube.com/watch?v=GcdQYnksP_U",
+      "video_id": "GcdQYnksP_U",
+      "thumbnail": "https://img.youtube.com/vi/GcdQYnksP_U/mqdefault.jpg",
+      "datum": "2026-04-29T21:04:54Z",
+      "datum_de": "29.04.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "KI-Deepdive mit Christoph Magnussen (April 2026) | LIVE-Aufzeichnung",
@@ -31,6 +61,16 @@
       "datum": "2026-04-29T14:15:09+00:00",
       "datum_de": "29.04.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "KITrend",
+      "titel": "Alles kostenlos &amp; lokal： Die besten Open Source KI Tools für 2026! Chatbots, Bilder⧸Video, Cod",
+      "link": "https://www.youtube.com/watch?v=UIQLDZ9YpvE",
+      "video_id": "UIQLDZ9YpvE",
+      "thumbnail": "https://img.youtube.com/vi/UIQLDZ9YpvE/mqdefault.jpg",
+      "datum": "2026-04-29T09:25:46Z",
+      "datum_de": "29.04.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Everlast AI",
@@ -110,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/gMSJutIllhc/mqdefault.jpg",
       "datum": "2026-04-24T11:01:14+00:00",
       "datum_de": "24.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "ADHS Autismus Interview Stream",
-      "link": "https://www.youtube.com/watch?v=P9Faaqi00Nc",
-      "video_id": "P9Faaqi00Nc",
-      "thumbnail": "https://img.youtube.com/vi/P9Faaqi00Nc/mqdefault.jpg",
-      "datum": "2026-04-24T02:29:09+00:00",
-      "datum_de": "24.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "ChatGPT 5.5 ist da – Darum ist OpenAI zurück an der Spitze - KI News",
-      "link": "https://www.youtube.com/watch?v=kyG4VIMJlzA",
-      "video_id": "kyG4VIMJlzA",
-      "thumbnail": "https://img.youtube.com/vi/kyG4VIMJlzA/mqdefault.jpg",
-      "datum": "2026-04-23T19:18:37Z",
-      "datum_de": "23.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "BCI-Erfinder warnt vor Musk: „Neuralink ist brandgefährlich!\" Das ist die Wahrheit (Niels Birbaumer)",
-      "link": "https://www.youtube.com/watch?v=AqFWq3VyuC8",
-      "video_id": "AqFWq3VyuC8",
-      "thumbnail": "https://img.youtube.com/vi/AqFWq3VyuC8/mqdefault.jpg",
-      "datum": "2026-04-23T15:15:00+00:00",
-      "datum_de": "23.04.2026",
       "quelle": "kanal"
     }
   ]
