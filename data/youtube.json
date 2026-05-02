@@ -1,10 +1,30 @@
 {
-  "aktualisiert": "2026-05-01T09:05:06.940343+00:00",
+  "aktualisiert": "2026-05-02T08:24:37.016009+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "KI auf Deutsch",
+      "titel": "ChatGPT Tutorial für Anfänger – 5 einfache Tricks",
+      "link": "https://www.youtube.com/watch?v=CM4UIpfVqx4",
+      "video_id": "CM4UIpfVqx4",
+      "thumbnail": "https://img.youtube.com/vi/CM4UIpfVqx4/mqdefault.jpg",
+      "datum": "2026-05-02T04:23:50Z",
+      "datum_de": "02.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Neuland Pro",
+      "titel": "KRASSE KI NEWS: GPT-5.5 ZERSTÖRT ALLES, unendliche Welten und KI-Streit eskaliert",
+      "link": "https://www.youtube.com/watch?v=kXxrzTrMWMo",
+      "video_id": "kXxrzTrMWMo",
+      "thumbnail": "https://img.youtube.com/vi/kXxrzTrMWMo/mqdefault.jpg",
+      "datum": "2026-05-01T15:01:48+00:00",
+      "datum_de": "01.05.2026",
+      "quelle": "kanal"
+    },
+    {
       "kanal": "Everlast AI",
-      "titel": "Post-Labor-Debatte: Das Ende der Arbeit, Jobverluste, Hyperdeflation, Grundeinkommen, AGI & Zukunft",
+      "titel": "Das Ende der Arbeit: Wieso 80% ihren Job verlieren werden & was danach kommt (Post-Labor-Debatte)",
       "link": "https://www.youtube.com/watch?v=6G0eOcx8gBI",
       "video_id": "6G0eOcx8gBI",
       "thumbnail": "https://img.youtube.com/vi/6G0eOcx8gBI/mqdefault.jpg",
@@ -104,13 +124,23 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "GPT-5.5 „Spud”: OpenAIs Paukenschlag! ChatGPT “ImageGen-2”, Claude Design, Cowork & weitere KI-News",
+      "titel": "GPT-5.5 „Spud\" knackt DAS Problem von Claude! ImageGen 2, Claude Design, Kimi-K2.6 & mehr KI-News",
       "link": "https://www.youtube.com/watch?v=qyutRyBrakI",
       "video_id": "qyutRyBrakI",
       "thumbnail": "https://img.youtube.com/vi/qyutRyBrakI/mqdefault.jpg",
       "datum": "2026-04-26T08:15:00+00:00",
       "datum_de": "26.04.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Unfairer Vorteil | KI",
+      "titel": "Die Besten Claude-Skills, die ich täglich nutze (zum Kopieren)",
+      "link": "https://www.youtube.com/watch?v=fbwjpWjFoz0",
+      "video_id": "fbwjpWjFoz0",
+      "thumbnail": "https://img.youtube.com/vi/fbwjpWjFoz0/mqdefault.jpg",
+      "datum": "2026-04-25T16:53:19Z",
+      "datum_de": "25.04.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Sascha Taschan",
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/Hi75npVo2s0/mqdefault.jpg",
       "datum": "2026-04-25T14:15:03+00:00",
       "datum_de": "25.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Claude Design Tutorial: Alles Wichtige in 10 Minuten!",
-      "link": "https://www.youtube.com/watch?v=YO95cyk-AL0",
-      "video_id": "YO95cyk-AL0",
-      "thumbnail": "https://img.youtube.com/vi/YO95cyk-AL0/mqdefault.jpg",
-      "datum": "2026-04-25T12:00:53+00:00",
-      "datum_de": "25.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Cashflow Booster",
-      "titel": "Dieser KI-Agent erledigt deine Shutterstock-Arbeit ALLEINE | Cowork Tutorial Deutsch",
-      "link": "https://www.youtube.com/watch?v=Lm-L-zX4FOo",
-      "video_id": "Lm-L-zX4FOo",
-      "thumbnail": "https://img.youtube.com/vi/Lm-L-zX4FOo/mqdefault.jpg",
-      "datum": "2026-04-24T14:30:31Z",
-      "datum_de": "24.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Warum der Mittelstand beim Thema Daten im Vorteil ist | Claudia Pohlink, Director Data & AI, FIEGE",
-      "link": "https://www.youtube.com/watch?v=gMSJutIllhc",
-      "video_id": "gMSJutIllhc",
-      "thumbnail": "https://img.youtube.com/vi/gMSJutIllhc/mqdefault.jpg",
-      "datum": "2026-04-24T11:01:14+00:00",
-      "datum_de": "24.04.2026",
       "quelle": "kanal"
     }
   ]
