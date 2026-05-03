@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-05-02T08:24:37.016009+00:00",
+  "aktualisiert": "2026-05-03T08:51:43.443628+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-News: Codex „Goal\" arbeitet TAGELANG, Claude übernimmt ADS, Opus 4.7. gehackt & OpenAI „Goblins”",
+      "link": "https://www.youtube.com/watch?v=k_-AsnFqbqQ",
+      "video_id": "k_-AsnFqbqQ",
+      "thumbnail": "https://img.youtube.com/vi/k_-AsnFqbqQ/mqdefault.jpg",
+      "datum": "2026-05-03T08:15:00+00:00",
+      "datum_de": "03.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Business Kickstart mit Natascha",
+      "titel": "GPT Image 2.0 Tutorial (Deutsch): So erstelle ich YouTube Thumbnails mit ChatGPT",
+      "link": "https://www.youtube.com/watch?v=6RfY1JWoSoQ",
+      "video_id": "6RfY1JWoSoQ",
+      "thumbnail": "https://img.youtube.com/vi/6RfY1JWoSoQ/mqdefault.jpg",
+      "datum": "2026-05-02T18:17:32Z",
+      "datum_de": "02.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Nie wieder ans Claude Nutzungslimit stoßen (8 Hacks)",
+      "link": "https://www.youtube.com/watch?v=hdnAl4kUUdM",
+      "video_id": "hdnAl4kUUdM",
+      "thumbnail": "https://img.youtube.com/vi/hdnAl4kUUdM/mqdefault.jpg",
+      "datum": "2026-05-02T14:15:09+00:00",
+      "datum_de": "02.05.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "KI auf Deutsch",
       "titel": "ChatGPT Tutorial für Anfänger – 5 einfache Tricks",
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/hlC0-Sb10W4/mqdefault.jpg",
       "datum": "2026-04-27T16:14:30+00:00",
       "datum_de": "27.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "GPT-5.5 „Spud\" knackt DAS Problem von Claude! ImageGen 2, Claude Design, Kimi-K2.6 & mehr KI-News",
-      "link": "https://www.youtube.com/watch?v=qyutRyBrakI",
-      "video_id": "qyutRyBrakI",
-      "thumbnail": "https://img.youtube.com/vi/qyutRyBrakI/mqdefault.jpg",
-      "datum": "2026-04-26T08:15:00+00:00",
-      "datum_de": "26.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Unfairer Vorteil | KI",
-      "titel": "Die Besten Claude-Skills, die ich täglich nutze (zum Kopieren)",
-      "link": "https://www.youtube.com/watch?v=fbwjpWjFoz0",
-      "video_id": "fbwjpWjFoz0",
-      "thumbnail": "https://img.youtube.com/vi/fbwjpWjFoz0/mqdefault.jpg",
-      "datum": "2026-04-25T16:53:19Z",
-      "datum_de": "25.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Claude Live-Artifacts ist gerade gelauncht – und es ist WILD",
-      "link": "https://www.youtube.com/watch?v=Hi75npVo2s0",
-      "video_id": "Hi75npVo2s0",
-      "thumbnail": "https://img.youtube.com/vi/Hi75npVo2s0/mqdefault.jpg",
-      "datum": "2026-04-25T14:15:03+00:00",
-      "datum_de": "25.04.2026",
       "quelle": "kanal"
     }
   ]
