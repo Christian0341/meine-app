@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-05-03T08:51:43.443628+00:00",
+  "aktualisiert": "2026-05-04T09:27:01.681761+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Julian Ivanov | KI-Automatisierung",
+      "titel": "Claude Code war noch nie so einfach!",
+      "link": "https://www.youtube.com/watch?v=yPF8_mowno8",
+      "video_id": "yPF8_mowno8",
+      "thumbnail": "https://img.youtube.com/vi/yPF8_mowno8/mqdefault.jpg",
+      "datum": "2026-05-03T15:26:48Z",
+      "datum_de": "03.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "NotebookLM + GPT 5.5: Der Workflow für Hypothesen, Entscheidungen und Frameworks (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=hF2uYDvN3XI",
+      "video_id": "hF2uYDvN3XI",
+      "thumbnail": "https://img.youtube.com/vi/hF2uYDvN3XI/mqdefault.jpg",
+      "datum": "2026-05-03T14:00:59Z",
+      "datum_de": "03.05.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "KI-News: Codex „Goal\" arbeitet TAGELANG, Claude übernimmt ADS, Opus 4.7. gehackt & OpenAI „Goblins”",
@@ -34,11 +54,31 @@
     },
     {
       "kanal": "KI auf Deutsch",
-      "titel": "ChatGPT Tutorial für Anfänger – 5 einfache Tricks",
+      "titel": "KI-Agent baut meinen Arbeitsalltag – Live Demo",
+      "link": "https://www.youtube.com/watch?v=QCTHYt35ggw",
+      "video_id": "QCTHYt35ggw",
+      "thumbnail": "https://img.youtube.com/vi/QCTHYt35ggw/mqdefault.jpg",
+      "datum": "2026-05-02T09:43:03Z",
+      "datum_de": "02.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI auf Deutsch",
+      "titel": "ChatGPT für Anfänger: 5 Tricks für bessere Ergebnisse",
       "link": "https://www.youtube.com/watch?v=CM4UIpfVqx4",
       "video_id": "CM4UIpfVqx4",
       "thumbnail": "https://img.youtube.com/vi/CM4UIpfVqx4/mqdefault.jpg",
       "datum": "2026-05-02T04:23:50Z",
+      "datum_de": "02.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI auf Deutsch",
+      "titel": "KI-Tools &amp; Automatisierung auf Deutsch erklärt",
+      "link": "https://www.youtube.com/watch?v=_Nfgxp3dBts",
+      "video_id": "_Nfgxp3dBts",
+      "thumbnail": "https://img.youtube.com/vi/_Nfgxp3dBts/mqdefault.jpg",
+      "datum": "2026-05-02T03:13:41Z",
       "datum_de": "02.05.2026",
       "quelle": "suche"
     },
@@ -54,7 +94,7 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "Das Ende der Arbeit: Wieso 80% ihren Job verlieren werden & was danach kommt (Post-Labor-Debatte)",
+      "titel": "Das Ende der Arbeit: Wieso 80% ihren Job verlieren werden & was danach kommt (Post-Labor-Economy)",
       "link": "https://www.youtube.com/watch?v=6G0eOcx8gBI",
       "video_id": "6G0eOcx8gBI",
       "thumbnail": "https://img.youtube.com/vi/6G0eOcx8gBI/mqdefault.jpg",
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/zkLhU9pCsBU/mqdefault.jpg",
       "datum": "2026-04-29T14:15:09+00:00",
       "datum_de": "29.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KITrend",
-      "titel": "Alles kostenlos &amp; lokal： Die besten Open Source KI Tools für 2026! Chatbots, Bilder⧸Video, Cod",
-      "link": "https://www.youtube.com/watch?v=UIQLDZ9YpvE",
-      "video_id": "UIQLDZ9YpvE",
-      "thumbnail": "https://img.youtube.com/vi/UIQLDZ9YpvE/mqdefault.jpg",
-      "datum": "2026-04-29T09:25:46Z",
-      "datum_de": "29.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Krass: Das kann GPT-5.5 mit Codex! OpenAIs neue Super-App GETESTET (Alle Beispiele & Use Cases)",
-      "link": "https://www.youtube.com/watch?v=9XY2xaA6syI",
-      "video_id": "9XY2xaA6syI",
-      "thumbnail": "https://img.youtube.com/vi/9XY2xaA6syI/mqdefault.jpg",
-      "datum": "2026-04-28T15:16:00+00:00",
-      "datum_de": "28.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "CLAUDE DESIGN: Präsentationen, Websites und Grafiken auf Knopfdruck?",
-      "link": "https://www.youtube.com/watch?v=BQ2VQFFnGJE",
-      "video_id": "BQ2VQFFnGJE",
-      "thumbnail": "https://img.youtube.com/vi/BQ2VQFFnGJE/mqdefault.jpg",
-      "datum": "2026-04-27T17:02:39+00:00",
-      "datum_de": "27.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Warum investiert Google Milliarden in Anthropic? #ki #google",
-      "link": "https://www.youtube.com/shorts/hlC0-Sb10W4",
-      "video_id": "hlC0-Sb10W4",
-      "thumbnail": "https://img.youtube.com/vi/hlC0-Sb10W4/mqdefault.jpg",
-      "datum": "2026-04-27T16:14:30+00:00",
-      "datum_de": "27.04.2026",
       "quelle": "kanal"
     }
   ]
