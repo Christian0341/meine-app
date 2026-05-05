@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-05-04T09:27:01.681761+00:00",
+  "aktualisiert": "2026-05-05T09:12:11.011254+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Wer braucht noch Chatbots? SO funktionieren KI Agenten in ChatGPT und Co.!",
+      "link": "https://www.youtube.com/watch?v=hiCthsCiJow",
+      "video_id": "hiCthsCiJow",
+      "thumbnail": "https://img.youtube.com/vi/hiCthsCiJow/mqdefault.jpg",
+      "datum": "2026-05-04T15:19:45+00:00",
+      "datum_de": "04.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Siegertipps",
+      "titel": "ChatGPT Tutorial 2026: In 30 Minuten vom Anfänger zum Profi! (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=Y1D1Zs43880",
+      "video_id": "Y1D1Zs43880",
+      "thumbnail": "https://img.youtube.com/vi/Y1D1Zs43880/mqdefault.jpg",
+      "datum": "2026-05-04T09:52:01Z",
+      "datum_de": "04.05.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Julian Ivanov | KI-Automatisierung",
       "titel": "Claude Code war noch nie so einfach!",
@@ -19,6 +39,16 @@
       "video_id": "hF2uYDvN3XI",
       "thumbnail": "https://img.youtube.com/vi/hF2uYDvN3XI/mqdefault.jpg",
       "datum": "2026-05-03T14:00:59Z",
+      "datum_de": "03.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Unfairer Vorteil | KI",
+      "titel": "Keiner redet über die besten KI-Tools 2026 (Kreativ Apps im Ranking)",
+      "link": "https://www.youtube.com/watch?v=TDZaRlIsd2U",
+      "video_id": "TDZaRlIsd2U",
+      "thumbnail": "https://img.youtube.com/vi/TDZaRlIsd2U/mqdefault.jpg",
+      "datum": "2026-05-03T10:24:47Z",
       "datum_de": "03.05.2026",
       "quelle": "suche"
     },
@@ -59,16 +89,6 @@
       "video_id": "QCTHYt35ggw",
       "thumbnail": "https://img.youtube.com/vi/QCTHYt35ggw/mqdefault.jpg",
       "datum": "2026-05-02T09:43:03Z",
-      "datum_de": "02.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI auf Deutsch",
-      "titel": "ChatGPT für Anfänger: 5 Tricks für bessere Ergebnisse",
-      "link": "https://www.youtube.com/watch?v=CM4UIpfVqx4",
-      "video_id": "CM4UIpfVqx4",
-      "thumbnail": "https://img.youtube.com/vi/CM4UIpfVqx4/mqdefault.jpg",
-      "datum": "2026-05-02T04:23:50Z",
       "datum_de": "02.05.2026",
       "quelle": "suche"
     },
@@ -123,34 +143,14 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Christoph Magnussen",
-      "titel": "KI-Deepdive mit Christoph Magnussen (April 2026) | LIVE-Aufzeichnung",
-      "link": "https://www.youtube.com/watch?v=ea3XzSZhJBM",
-      "video_id": "ea3XzSZhJBM",
-      "thumbnail": "https://img.youtube.com/vi/ea3XzSZhJBM/mqdefault.jpg",
-      "datum": "2026-04-29T18:26:52+00:00",
+      "kanal": "Business Kickstart mit Natascha",
+      "titel": "Claude Code: Mein Workflow für digitale Produkte (Web-App + Seiten DEUTSCH)",
+      "link": "https://www.youtube.com/watch?v=SEFp_j68pvQ",
+      "video_id": "SEFp_j68pvQ",
+      "thumbnail": "https://img.youtube.com/vi/SEFp_j68pvQ/mqdefault.jpg",
+      "datum": "2026-04-29T19:43:41Z",
       "datum_de": "29.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Dr. Anne Greul: Claude, KI im Unternehmen, Compliance, Halluzinationen & die Zukunft von Software",
-      "link": "https://www.youtube.com/watch?v=1r4xoezskZ4",
-      "video_id": "1r4xoezskZ4",
-      "thumbnail": "https://img.youtube.com/vi/1r4xoezskZ4/mqdefault.jpg",
-      "datum": "2026-04-29T15:15:00+00:00",
-      "datum_de": "29.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Die BESTEN Skills ohne die ich nicht mehr arbeiten möchte!",
-      "link": "https://www.youtube.com/watch?v=zkLhU9pCsBU",
-      "video_id": "zkLhU9pCsBU",
-      "thumbnail": "https://img.youtube.com/vi/zkLhU9pCsBU/mqdefault.jpg",
-      "datum": "2026-04-29T14:15:09+00:00",
-      "datum_de": "29.04.2026",
-      "quelle": "kanal"
+      "quelle": "suche"
     }
   ]
 }
