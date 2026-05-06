@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-05-05T09:12:11.011254+00:00",
+  "aktualisiert": "2026-05-06T09:30:49.513526+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "Nutze Codex NICHT, bis du dieses Video gesehen hast! (Die ChatGPT-SuperApp)",
+      "link": "https://www.youtube.com/watch?v=FLZEcCHa5CQ",
+      "video_id": "FLZEcCHa5CQ",
+      "thumbnail": "https://img.youtube.com/vi/FLZEcCHa5CQ/mqdefault.jpg",
+      "datum": "2026-05-05T15:15:00+00:00",
+      "datum_de": "05.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Niklas AI",
+      "titel": "IRRE: Dieser KI-Agent baut sich SELBST neue Skills! (Hermes Tutorial)",
+      "link": "https://www.youtube.com/watch?v=HmldUVyXtJs",
+      "video_id": "HmldUVyXtJs",
+      "thumbnail": "https://img.youtube.com/vi/HmldUVyXtJs/mqdefault.jpg",
+      "datum": "2026-05-05T15:13:00Z",
+      "datum_de": "05.05.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "Wer braucht noch Chatbots? SO funktionieren KI Agenten in ChatGPT und Co.!",
@@ -63,6 +83,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "Marco Linke | Digitales Marketing & Businesserfolg",
+      "titel": "Claude Cowork: Nie wieder Routineaufgaben - KI-Automationen (#5)",
+      "link": "https://www.youtube.com/watch?v=EJsEKZXuoyQ",
+      "video_id": "EJsEKZXuoyQ",
+      "thumbnail": "https://img.youtube.com/vi/EJsEKZXuoyQ/mqdefault.jpg",
+      "datum": "2026-05-03T06:00:06Z",
+      "datum_de": "03.05.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Business Kickstart mit Natascha",
       "titel": "GPT Image 2.0 Tutorial (Deutsch): So erstelle ich YouTube Thumbnails mit ChatGPT",
       "link": "https://www.youtube.com/watch?v=6RfY1JWoSoQ",
@@ -121,36 +151,6 @@
       "datum": "2026-04-30T15:15:00+00:00",
       "datum_de": "30.04.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "10 mal Effizienter! - Claude Skills Tutorial für Anfänger!",
-      "link": "https://www.youtube.com/watch?v=46xySsJvoT8",
-      "video_id": "46xySsJvoT8",
-      "thumbnail": "https://img.youtube.com/vi/46xySsJvoT8/mqdefault.jpg",
-      "datum": "2026-04-30T12:00:08+00:00",
-      "datum_de": "30.04.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Jonas Keil",
-      "titel": "Claude AI ist GENIAL! (7 Tricks für Anfänger)",
-      "link": "https://www.youtube.com/watch?v=GcdQYnksP_U",
-      "video_id": "GcdQYnksP_U",
-      "thumbnail": "https://img.youtube.com/vi/GcdQYnksP_U/mqdefault.jpg",
-      "datum": "2026-04-29T21:04:54Z",
-      "datum_de": "29.04.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Business Kickstart mit Natascha",
-      "titel": "Claude Code: Mein Workflow für digitale Produkte (Web-App + Seiten DEUTSCH)",
-      "link": "https://www.youtube.com/watch?v=SEFp_j68pvQ",
-      "video_id": "SEFp_j68pvQ",
-      "thumbnail": "https://img.youtube.com/vi/SEFp_j68pvQ/mqdefault.jpg",
-      "datum": "2026-04-29T19:43:41Z",
-      "datum_de": "29.04.2026",
-      "quelle": "suche"
     }
   ]
 }
