@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-05-09T08:45:52.959101+00:00",
+  "aktualisiert": "2026-05-10T08:59:22.872197+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-News: Musk RETTET Anthropic, Claude lernt jetzt IM SCHLAF, Codex Updates & das neue GPT-Realtime",
+      "link": "https://www.youtube.com/watch?v=Rg7lvSakZpE",
+      "video_id": "Rg7lvSakZpE",
+      "thumbnail": "https://img.youtube.com/vi/Rg7lvSakZpE/mqdefault.jpg",
+      "datum": "2026-05-10T08:15:10+00:00",
+      "datum_de": "10.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "EasyDeutsch - Deutsche Grammatik verstehen",
+      "titel": "KI-Tools speziell für Deutschlehrer (Kompletter Überblick 2026)",
+      "link": "https://www.youtube.com/watch?v=XrGkUS0Em_A",
+      "video_id": "XrGkUS0Em_A",
+      "thumbnail": "https://img.youtube.com/vi/XrGkUS0Em_A/mqdefault.jpg",
+      "datum": "2026-05-10T07:14:03Z",
+      "datum_de": "10.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI auf Deutsch",
+      "titel": "ChatGPT flutet Amazon: So erkennst du KI-geschriebene Bücher sofort",
+      "link": "https://www.youtube.com/watch?v=9MCMVimacAM",
+      "video_id": "9MCMVimacAM",
+      "thumbnail": "https://img.youtube.com/vi/9MCMVimacAM/mqdefault.jpg",
+      "datum": "2026-05-09T17:23:51Z",
+      "datum_de": "09.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "VERGISS CLAUDE CODE: Codex ist der NEUE KI-Champion!",
+      "link": "https://www.youtube.com/watch?v=PkzzHC7JkBs",
+      "video_id": "PkzzHC7JkBs",
+      "thumbnail": "https://img.youtube.com/vi/PkzzHC7JkBs/mqdefault.jpg",
+      "datum": "2026-05-09T14:15:07+00:00",
+      "datum_de": "09.05.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "rebaekah mike",
       "titel": "🚨 Claude kann keine Word-Datei erstellen? HIER ist die Lösung! | Claude zu DOCX &amp; PDF Export Fix",
@@ -111,46 +151,6 @@
       "datum": "2026-05-07T06:00:22Z",
       "datum_de": "07.05.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Vorbereitung meistern mit Codex #codex",
-      "link": "https://www.youtube.com/shorts/VYq2-6hDw7U",
-      "video_id": "VYq2-6hDw7U",
-      "thumbnail": "https://img.youtube.com/vi/VYq2-6hDw7U/mqdefault.jpg",
-      "datum": "2026-05-06T18:02:18+00:00",
-      "datum_de": "06.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Robotik-Experte: Vergiss Humanoide Roboter! DAS wird wirklich passieren (Dr. Hendrik Susemihl)",
-      "link": "https://www.youtube.com/watch?v=Utk1C8yYJuc",
-      "video_id": "Utk1C8yYJuc",
-      "thumbnail": "https://img.youtube.com/vi/Utk1C8yYJuc/mqdefault.jpg",
-      "datum": "2026-05-06T15:15:00+00:00",
-      "datum_de": "06.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Von ChatGPT bis n8n – KI-Tools praktisch nutzen",
-      "titel": "Claude CLI einfach erklärt — so steuerst du externe Programme ohne MCP-Server",
-      "link": "https://www.youtube.com/watch?v=ThtKwn8E2KY",
-      "video_id": "ThtKwn8E2KY",
-      "thumbnail": "https://img.youtube.com/vi/ThtKwn8E2KY/mqdefault.jpg",
-      "datum": "2026-05-06T14:52:40Z",
-      "datum_de": "06.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Paperclip: So baust du ein KI Unternehmen was OHNE dich läuft! ",
-      "link": "https://www.youtube.com/watch?v=cgEZzWeOToE",
-      "video_id": "cgEZzWeOToE",
-      "thumbnail": "https://img.youtube.com/vi/cgEZzWeOToE/mqdefault.jpg",
-      "datum": "2026-05-06T14:15:06+00:00",
-      "datum_de": "06.05.2026",
-      "quelle": "kanal"
     }
   ]
 }
