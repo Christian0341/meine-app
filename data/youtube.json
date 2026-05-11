@@ -1,10 +1,40 @@
 {
-  "aktualisiert": "2026-05-10T08:59:22.872197+00:00",
+  "aktualisiert": "2026-05-11T10:40:38.150902+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "Kimovate",
+      "titel": "Claude Design – Logos und Brand Kits mit KI",
+      "link": "https://www.youtube.com/watch?v=SrfYL3OfHVk",
+      "video_id": "SrfYL3OfHVk",
+      "thumbnail": "https://img.youtube.com/vi/SrfYL3OfHVk/mqdefault.jpg",
+      "datum": "2026-05-10T12:28:16Z",
+      "datum_de": "10.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Neuland Pro",
+      "titel": "KI NEWS ESKALIEREN: OpenAI greift ALLES an: Browser, Smartphones, Unternehmen",
+      "link": "https://www.youtube.com/watch?v=u8LcZT5nMDI",
+      "video_id": "u8LcZT5nMDI",
+      "thumbnail": "https://img.youtube.com/vi/u8LcZT5nMDI/mqdefault.jpg",
+      "datum": "2026-05-10T11:49:10+00:00",
+      "datum_de": "10.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "Googles Gemini erstellt jetzt Dateien, aber wie gut sind sie wirklich? (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=wkaLe6qB_gQ",
+      "video_id": "wkaLe6qB_gQ",
+      "thumbnail": "https://img.youtube.com/vi/wkaLe6qB_gQ/mqdefault.jpg",
+      "datum": "2026-05-10T11:01:28Z",
+      "datum_de": "10.05.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Everlast AI",
-      "titel": "KI-News: Musk RETTET Anthropic, Claude lernt jetzt IM SCHLAF, Codex Updates & das neue GPT-Realtime",
+      "titel": "KI-News: Claude verbessert sich IM SCHLAF! Musk rettet Anthropic, Codex & GPT-Realtime Updates",
       "link": "https://www.youtube.com/watch?v=Rg7lvSakZpE",
       "video_id": "Rg7lvSakZpE",
       "thumbnail": "https://img.youtube.com/vi/Rg7lvSakZpE/mqdefault.jpg",
@@ -113,42 +143,12 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Paul Mill",
-      "titel": "25 Claude Code Hacks in 7 Minuten",
-      "link": "https://www.youtube.com/watch?v=FXlQDC2kBss",
-      "video_id": "FXlQDC2kBss",
-      "thumbnail": "https://img.youtube.com/vi/FXlQDC2kBss/mqdefault.jpg",
-      "datum": "2026-05-07T16:00:22Z",
-      "datum_de": "07.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "“Ihr werdet euer blaues Wunder erleben” Robotik-Professor über China, Humanoide & die Zukunft",
-      "link": "https://www.youtube.com/watch?v=uL11z0Apnn4",
-      "video_id": "uL11z0Apnn4",
-      "thumbnail": "https://img.youtube.com/vi/uL11z0Apnn4/mqdefault.jpg",
-      "datum": "2026-05-07T15:15:00+00:00",
-      "datum_de": "07.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Elon Musk hilft Claude? #anthropic #claude",
-      "link": "https://www.youtube.com/shorts/2og9SVkz_zQ",
-      "video_id": "2og9SVkz_zQ",
-      "thumbnail": "https://img.youtube.com/vi/2og9SVkz_zQ/mqdefault.jpg",
-      "datum": "2026-05-07T14:49:14+00:00",
-      "datum_de": "07.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KI Infos & Anleitungen",
-      "titel": "KI-Agenten brauchen Sicherheitsgurte: AgentTrust, DTap und LongSeeker",
-      "link": "https://www.youtube.com/watch?v=IB8R67lzgr4",
-      "video_id": "IB8R67lzgr4",
-      "thumbnail": "https://img.youtube.com/vi/IB8R67lzgr4/mqdefault.jpg",
-      "datum": "2026-05-07T06:00:22Z",
+      "kanal": "Digitale Profis",
+      "titel": "NotebookLM Updates, ChatGPT in Excel, Manus Cloud Computer &amp; Erinnerungen bei Gemini | KI-News",
+      "link": "https://www.youtube.com/watch?v=Pxy0IEClld0",
+      "video_id": "Pxy0IEClld0",
+      "thumbnail": "https://img.youtube.com/vi/Pxy0IEClld0/mqdefault.jpg",
+      "datum": "2026-05-07T16:00:44Z",
       "datum_de": "07.05.2026",
       "quelle": "suche"
     }
