@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-05-12T09:45:32.468003+00:00",
+  "aktualisiert": "2026-05-13T09:49:00.301810+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-Experten reagieren: DAS übersehen alle! Musks Claude-Deal, Chinas Roboter-Druck & EU kippt AI-Act",
+      "link": "https://www.youtube.com/watch?v=a7PS6urkqxE",
+      "video_id": "a7PS6urkqxE",
+      "thumbnail": "https://img.youtube.com/vi/a7PS6urkqxE/mqdefault.jpg",
+      "datum": "2026-05-12T15:15:26+00:00",
+      "datum_de": "12.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Ki & Krypto | Reader Sentiment ",
+      "titel": "Tool 5 ist mein Geheimtipp — 5 KI-Tools, 500€ gespart 🤯",
+      "link": "https://www.youtube.com/watch?v=avGxai-Q3Y8",
+      "video_id": "avGxai-Q3Y8",
+      "thumbnail": "https://img.youtube.com/vi/avGxai-Q3Y8/mqdefault.jpg",
+      "datum": "2026-05-12T14:00:23Z",
+      "datum_de": "12.05.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "BuildMitKI",
       "titel": "3 kostenlose KI-Tools, die dein Lernen für immer verändern – NotebookLM, Gemini &amp; Gems",
@@ -83,16 +103,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "KI auf Deutsch",
-      "titel": "ChatGPT flutet Amazon: So erkennst du KI-geschriebene Bücher sofort",
-      "link": "https://www.youtube.com/watch?v=9MCMVimacAM",
-      "video_id": "9MCMVimacAM",
-      "thumbnail": "https://img.youtube.com/vi/9MCMVimacAM/mqdefault.jpg",
-      "datum": "2026-05-09T17:23:51Z",
-      "datum_de": "09.05.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Sascha Taschan",
       "titel": "VERGISS CLAUDE CODE: Codex ist der NEUE KI-Champion!",
       "link": "https://www.youtube.com/watch?v=PkzzHC7JkBs",
@@ -141,16 +151,6 @@
       "datum": "2026-05-08T04:49:44+00:00",
       "datum_de": "08.05.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Claude verdoppelt Limits + ChatGPT 5.5 jetzt kostenlos + Grok 4.3 ist da KI News",
-      "link": "https://www.youtube.com/watch?v=LmPpUatp3RU",
-      "video_id": "LmPpUatp3RU",
-      "thumbnail": "https://img.youtube.com/vi/LmPpUatp3RU/mqdefault.jpg",
-      "datum": "2026-05-07T16:58:45Z",
-      "datum_de": "07.05.2026",
-      "quelle": "suche"
     }
   ]
 }
