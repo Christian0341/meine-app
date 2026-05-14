@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-05-13T09:49:00.301810+00:00",
+  "aktualisiert": "2026-05-14T09:37:50.621503+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Jonas Keil",
+      "titel": "ChatGPT Codex: Der einfache Grundkurs für Anfänger!",
+      "link": "https://www.youtube.com/watch?v=98kIFt3cIsw",
+      "video_id": "98kIFt3cIsw",
+      "thumbnail": "https://img.youtube.com/vi/98kIFt3cIsw/mqdefault.jpg",
+      "datum": "2026-05-13T19:22:19Z",
+      "datum_de": "13.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Von ChatGPT bis n8n – KI-Tools praktisch nutzen",
+      "titel": "Claude oder OpenAI Codex — Lohnt sich der Wechsel wirklich?",
+      "link": "https://www.youtube.com/watch?v=ujEEv-FnCyw",
+      "video_id": "ujEEv-FnCyw",
+      "thumbnail": "https://img.youtube.com/vi/ujEEv-FnCyw/mqdefault.jpg",
+      "datum": "2026-05-13T14:44:10Z",
+      "datum_de": "13.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Dieses NEUE Update macht Claude Code noch mächtiger! (Claude Goals)",
+      "link": "https://www.youtube.com/watch?v=hr2k5n6i1wI",
+      "video_id": "hr2k5n6i1wI",
+      "thumbnail": "https://img.youtube.com/vi/hr2k5n6i1wI/mqdefault.jpg",
+      "datum": "2026-05-13T14:15:13+00:00",
+      "datum_de": "13.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Codex vs Cloud Code: Der Hype erklärt",
+      "link": "https://www.youtube.com/shorts/E3ZDBxSvzrg",
+      "video_id": "E3ZDBxSvzrg",
+      "thumbnail": "https://img.youtube.com/vi/E3ZDBxSvzrg/mqdefault.jpg",
+      "datum": "2026-05-13T11:17:31+00:00",
+      "datum_de": "13.05.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "KI-Experten reagieren: DAS übersehen alle! Musks Claude-Deal, Chinas Roboter-Druck & EU kippt AI-Act",
@@ -53,16 +93,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Kimovate",
-      "titel": "Claude Design – Logos und Brand Kits mit KI",
-      "link": "https://www.youtube.com/watch?v=SrfYL3OfHVk",
-      "video_id": "SrfYL3OfHVk",
-      "thumbnail": "https://img.youtube.com/vi/SrfYL3OfHVk/mqdefault.jpg",
-      "datum": "2026-05-10T12:28:16Z",
-      "datum_de": "10.05.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Neuland Pro",
       "titel": "KI NEWS ESKALIEREN: OpenAI greift ALLES an: Browser, Smartphones, Unternehmen",
       "link": "https://www.youtube.com/watch?v=u8LcZT5nMDI",
@@ -71,16 +101,6 @@
       "datum": "2026-05-10T11:49:10+00:00",
       "datum_de": "10.05.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Shakeela ZQ",
-      "titel": "Googles Gemini erstellt jetzt Dateien, aber wie gut sind sie wirklich? (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=wkaLe6qB_gQ",
-      "video_id": "wkaLe6qB_gQ",
-      "thumbnail": "https://img.youtube.com/vi/wkaLe6qB_gQ/mqdefault.jpg",
-      "datum": "2026-05-10T11:01:28Z",
-      "datum_de": "10.05.2026",
-      "quelle": "suche"
     },
     {
       "kanal": "Everlast AI",
@@ -103,6 +123,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "KI auf Deutsch",
+      "titel": "ChatGPT flutet Amazon: So erkennst du KI-geschriebene Bücher sofort",
+      "link": "https://www.youtube.com/watch?v=9MCMVimacAM",
+      "video_id": "9MCMVimacAM",
+      "thumbnail": "https://img.youtube.com/vi/9MCMVimacAM/mqdefault.jpg",
+      "datum": "2026-05-09T17:23:51Z",
+      "datum_de": "09.05.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Sascha Taschan",
       "titel": "VERGISS CLAUDE CODE: Codex ist der NEUE KI-Champion!",
       "link": "https://www.youtube.com/watch?v=PkzzHC7JkBs",
@@ -121,36 +151,6 @@
       "datum": "2026-05-09T05:41:16Z",
       "datum_de": "09.05.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Eltern-Initiative statt Fingerpointing: Wie wir KI wirklich in die Schulen bringen | Verena Pausder",
-      "link": "https://www.youtube.com/watch?v=ifyzcjucVxs",
-      "video_id": "ifyzcjucVxs",
-      "thumbnail": "https://img.youtube.com/vi/ifyzcjucVxs/mqdefault.jpg",
-      "datum": "2026-05-08T10:01:22+00:00",
-      "datum_de": "08.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KI Forge",
-      "titel": "#3 KI-Agenten 2026: Was wirklich funktioniert – und was nicht",
-      "link": "https://www.youtube.com/watch?v=EU-bS2_ZfTE",
-      "video_id": "EU-bS2_ZfTE",
-      "thumbnail": "https://img.youtube.com/vi/EU-bS2_ZfTE/mqdefault.jpg",
-      "datum": "2026-05-08T07:00:00Z",
-      "datum_de": "08.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "MorphReader Design für Web",
-      "link": "https://www.youtube.com/watch?v=q25LIdM85Sc",
-      "video_id": "q25LIdM85Sc",
-      "thumbnail": "https://img.youtube.com/vi/q25LIdM85Sc/mqdefault.jpg",
-      "datum": "2026-05-08T04:49:44+00:00",
-      "datum_de": "08.05.2026",
-      "quelle": "kanal"
     }
   ]
 }
