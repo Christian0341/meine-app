@@ -1,10 +1,20 @@
 {
-  "aktualisiert": "2026-05-14T09:37:50.621503+00:00",
+  "aktualisiert": "2026-05-15T09:50:39.801849+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "Everlast AI",
+      "titel": "China-Insider packt aus: Es gibt KEIN zurück mehr! DAS rollt bis 2030 auf uns zu (Jörg Wuttke)",
+      "link": "https://www.youtube.com/watch?v=zFeYNjN96dg",
+      "video_id": "zFeYNjN96dg",
+      "thumbnail": "https://img.youtube.com/vi/zFeYNjN96dg/mqdefault.jpg",
+      "datum": "2026-05-14T15:15:38+00:00",
+      "datum_de": "14.05.2026",
+      "quelle": "kanal"
+    },
+    {
       "kanal": "Jonas Keil",
-      "titel": "ChatGPT Codex: Der einfache Grundkurs für Anfänger!",
+      "titel": "ChatGPT Codex ist UNGLAUBLICH! So benutzt du es als Anfänger",
       "link": "https://www.youtube.com/watch?v=98kIFt3cIsw",
       "video_id": "98kIFt3cIsw",
       "thumbnail": "https://img.youtube.com/vi/98kIFt3cIsw/mqdefault.jpg",
@@ -41,6 +51,16 @@
       "datum": "2026-05-13T11:17:31+00:00",
       "datum_de": "13.05.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Christian Ohle",
+      "titel": "Wann lohnt sich ein KI-Agent wirklich? Diese 4 Kriterien entscheiden",
+      "link": "https://www.youtube.com/watch?v=i1QCNng2Kqw",
+      "video_id": "i1QCNng2Kqw",
+      "thumbnail": "https://img.youtube.com/vi/i1QCNng2Kqw/mqdefault.jpg",
+      "datum": "2026-05-13T07:00:10Z",
+      "datum_de": "13.05.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Everlast AI",
@@ -123,33 +143,13 @@
       "quelle": "suche"
     },
     {
-      "kanal": "KI auf Deutsch",
-      "titel": "ChatGPT flutet Amazon: So erkennst du KI-geschriebene Bücher sofort",
-      "link": "https://www.youtube.com/watch?v=9MCMVimacAM",
-      "video_id": "9MCMVimacAM",
-      "thumbnail": "https://img.youtube.com/vi/9MCMVimacAM/mqdefault.jpg",
-      "datum": "2026-05-09T17:23:51Z",
-      "datum_de": "09.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "VERGISS CLAUDE CODE: Codex ist der NEUE KI-Champion!",
-      "link": "https://www.youtube.com/watch?v=PkzzHC7JkBs",
-      "video_id": "PkzzHC7JkBs",
-      "thumbnail": "https://img.youtube.com/vi/PkzzHC7JkBs/mqdefault.jpg",
-      "datum": "2026-05-09T14:15:07+00:00",
-      "datum_de": "09.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "rebaekah mike",
-      "titel": "🚨 Claude kann keine Word-Datei erstellen? HIER ist die Lösung! | Claude zu DOCX &amp; PDF Export Fix",
-      "link": "https://www.youtube.com/watch?v=ClrVW8Ixi80",
-      "video_id": "ClrVW8Ixi80",
-      "thumbnail": "https://img.youtube.com/vi/ClrVW8Ixi80/mqdefault.jpg",
-      "datum": "2026-05-09T05:41:16Z",
-      "datum_de": "09.05.2026",
+      "kanal": "WorldofAI",
+      "titel": "Hermes Agent NEW Desktop App - The 24/7 Self-Evolving AI Agent!",
+      "link": "https://www.youtube.com/watch?v=YBp_PXBbe80",
+      "video_id": "YBp_PXBbe80",
+      "thumbnail": "https://img.youtube.com/vi/YBp_PXBbe80/mqdefault.jpg",
+      "datum": "2026-05-10T06:27:40Z",
+      "datum_de": "10.05.2026",
       "quelle": "suche"
     }
   ]
