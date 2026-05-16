@@ -1,7 +1,7 @@
 {
-  "datum": "Freitag, 15. Mai 2026",
-  "datumISO": "2026-05-15",
-  "tagesthema": "Neue KI-Produkte von Google und strategische Weichenstellungen prägen den Tag, während Regulierung und gesellschaftliche Auswirkungen von KI weiterhin im Fokus stehen.",
+  "datum": "Samstag, 16. Mai 2026",
+  "datumISO": "2026-05-16",
+  "tagesthema": "Die KI-Integration in Produkte und Arbeitswelt beschleunigt sich, während ethische Fragen und Regulierungsbemühungen zunehmen.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,36 +9,36 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Gemini Omni: Googles brandneuer KI-Videogenerator zeigt sich - liefert beeindruckende Ergebnisse (Video)",
-          "zusammenfassung": "Google hat mit 'Gemini Omni' einen neuen, leistungsstarken KI-Videogenerator vorgestellt, der beeindruckende Ergebnisse bei der Erstellung von Videos aus Texteingaben liefert. Dieses Tool erweitert die Fähigkeiten der Gemini-Suite erheblich und unterstreicht Googles Ambitionen im Bereich der generativen KI. Es markiert einen wichtigen Schritt in der Entwicklung von multimodalen KI-Anwendungen.",
+          "titel": "ChatGPT bekommt den Finanz-Durchblick",
+          "zusammenfassung": "Caschys Blog meldet, dass ChatGPT eine neue Integration oder ein Update erhalten hat, das seine Fähigkeiten im Finanzbereich erheblich verbessert. Nutzer können nun komplexere Finanzanalysen, Marktprognosen oder personalisierte Anlageberatungen erwarten. Dies erweitert den Anwendungsbereich des Chatbots in einem kritischen Sektor.",
           "einordnung": "",
-          "quelle": "GoogleWatchBlog",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yQlRjclh2S0dWXzBobG8wODRoc1BLNUhmcDNWSzBBNmtiTURGb1duR3hMQzlHdmo4SDBMMnJKRk9NVXBiQ2VXZUJxYlNiZll2WXfSAdsBQVVfeXFMUDB5dGZWdmVtV2kxU1dFSm5WN3hLRjZzRWszV3RzNTRpZ0FwdllxelF5WUR2OUdiLVFHVi1UcklDS19oTUUybkNpZHV1cTI5THlFcFhxcnM2TmU3YWI0VDZPMk1fUWlMUHloOHZ3VmZFLS1Bbk9COEQ4VkFXNExTRXNBZVpqanNXcGtxazJaSl9JTDEyRXFPZ1NJNHM0N1VPQ041WXY3T242S0NqV2ZFbkt4ZFFRcEJVSDk0cVhUeHBzLWh3Y0Q2ejQ1dWNxMm1SQTVxVEFnaEFZaU1r?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "Caschys Blog",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80QU5hWUF2RTBDYlpVQ3I1blNUNjZxSVVvWXJPWXIzTmdTdGpfSEJ1YlNRVmtzZzg0WjRuSk43MklaMXNRRTFXSTNLRE9VVVFVZGRLMHlsLWZGZzNYMFZhRkpaU2xqM1dncU1GWHRGaWRsUzdabHc?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Claude for Legal: Anthropic startet Angebot für Juristen",
+          "zusammenfassung": "Anthropic hat mit \"Claude for Legal\" ein spezialisiertes KI-Angebot für die Rechtsbranche eingeführt. Die Plattform soll Juristen bei der Recherche, der Analyse von Dokumenten und der Fallvorbereitung unterstützen. Dies markiert einen wichtigen Schritt in der vertikalen Spezialisierung von Large Language Models.",
+          "einordnung": "",
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXhoS0F0NzYtZlJ1MUlTdXZkQ1hzNjJBazJBd01fQlhTOUJzSWRlVmE4Zm1FNVh2NXNKVl9QRll2VzllYU5aQUV3d1ZjMEE0Y2cyZXB1ejQ2WC1iM29RS3Z4VjZBZFhTUWk2bVdoTVR0eGJKLVlqVGJlZUVxRlhQbUw5SzdnT0Z1Y2JLRnUyckg3T2UyQXhqZm85Qldwd2g5QV9NU1ozaHdUOWxZNWFpbXlJV2NkNzA0VmZsU2tCOA?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Mehr KI, neue Videos und Widgets: Google verpasst Android Auto ein großes Update",
+          "zusammenfassung": "CHIP berichtet über ein umfangreiches Update für Android Auto, das mehr KI-Funktionen, verbesserte Videointegration und neue Widgets mit sich bringt. Das Update zielt darauf ab, das Fahrerlebnis sicherer und personalisierter zu gestalten. Google integriert damit weitere KI-Fähigkeiten direkt in Fahrzeuge.",
+          "einordnung": "",
+          "quelle": "CHIP",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZVI4VkJrN3BoSC1GYWFHYzI3T0x2LTI4RS11RmI4NVJwdFpaRjVMM21uN0liTUpLeUo5WFpiNGV1eEF2N0NaTVJFU1pDX2l1d0p3MEg2ZzJZeTg0M3FrNjRCMV9zTW5aMzFkZUlWUXhSVFdFREM3bGhNZTdOd3ppdndEaFE5aERKaTJyQWV1NWg5RS1sWEt1dE9GZVBkZGJWU3FEVUxUVld1SV9YRUdtMW4zN0xXakRwME1jRG96UFVRNnRyYlF6Q0pPajRXQnlLdE9EOWJaY3E5NkZQMHZYc3BZN0xob0g0a013?oc=5",
+          "sterne": "⭐⭐"
         },
         {
           "titel": "Google stellt Gemini Intelligence für Android vor",
-          "zusammenfassung": "Google hat 'Gemini Intelligence' für Android angekündigt, eine tief in das Betriebssystem integrierte KI-Funktion. Sie soll Nutzern personalisierte Unterstützung bieten und die Interaktion mit mobilen Geräten verbessern. Dies ist ein weiterer Schritt, um KI allgegenwärtig im mobilen Alltag zu machen.",
+          "zusammenfassung": "Heise Online kündigt die Einführung von \"Gemini Intelligence\" für Android an, eine tiefgreifende Integration von Googles Gemini-KI in das Betriebssystem. Dies soll Nutzern eine intelligentere und proaktivere Unterstützung im Alltag bieten. Die Initiative unterstreicht Googles Bestreben, KI als Kernbestandteil seiner mobilen Plattform zu etablieren.",
           "einordnung": "",
           "quelle": "heise online",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSmxjTVkyaDhPUU5pbTF0VHB2c0ZXWFFFazAydkloa3p4cXZOT1c2WmF1dzJWNVEyRXJ5VHBwcHZDY2I5MmswWkhkbTF6dFZlZXlQdnpCZEJraFZINy1hbzJpN0NXR0t0cWxsWXlmX3VtU0RjX2hvZGF4LWxGSHV4d2hJdXk0TFEzSE9hM1VScWFzZnhr?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Googlebook: Der Chromebook-Nachfolger setzt auf KI",
-          "zusammenfassung": "Der Nachfolger des Chromebooks, bekannt als 'Googlebook', wird stark auf Künstliche Intelligenz setzen, um ein intelligenteres und reaktionsschnelleres Betriebssystem zu bieten. Diese Entwicklung zeigt die zunehmende Integration von KI direkt in Hardware und Betriebssysteme. Nutzer können sich auf eine verbesserte Benutzererfahrung durch KI-gestützte Funktionen freuen.",
-          "einordnung": "",
-          "quelle": "ifun.de",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbnFQZ2N5TTBNU1gwVnlFVHpjb2ZyeUhBVk5EbnZ5RGNpNk5QSF8yQTNSajBkeTBKejZ5dl9iUVo3c2Y3LUdIMjBTQUl0cFlXQUJ4Wml1NFpKUWxSUVhHU3pTZzFZRXprNlFHWDZDYUVobGhCZmpTWGhYUG53TlFCOEEyQQ?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "OpenAI-Apps auf dem Mac: macOS verschiebt alte ChatGPT-Versionen in den Papierkorb",
-          "zusammenfassung": "macOS hat eine automatische Bereinigungsfunktion eingeführt, die ältere, nicht mehr unterstützte Versionen von OpenAI-Apps wie ChatGPT in den Papierkorb verschiebt. Dies soll Nutzer dazu anhalten, stets die aktuellsten und sichersten Softwareversionen zu verwenden. Der Vorgang unterstreicht die schnelle Weiterentwicklung und den Wartungsaufwand im Bereich der KI-Anwendungen.",
-          "einordnung": "",
-          "quelle": "Hardwareluxx",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeWlHc1c5MEhWR0wyUmlHcjh2b3VzSTF5Yk5leWNJNnZOU1lQZWlQMVVwZE5XeXJ5ZmI2d0pCbTJINVVFRHhLWkFydmZyTVFZQWhBR3p6cUxqOU5sYUlsTVZteWVSVXB4eENZZGlPSmJfajVxbnhvY2tSSkhmZTJJQmI1akpvaWQzbmp5SGhFVkZLWU9jX1Jyc1JVTThhd2tlNkVGdTE4Tkx6NEZmUXZTMHVCbzd2Ml9VR09Kclo2S18yOXh0U3ZPQXJ0dmFydnFMeTlzb3pqbldRcTg0YkFpUlVQWHViaWFUUDFHdVJWQ0RVNEIxTkgw?oc=5",
-          "sterne": "⭐"
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
@@ -48,32 +48,32 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Elon Musk gegen OpenAI: Wenn Sam Altman von Wohltätigkeit spricht",
-          "zusammenfassung": "Der Konflikt zwischen Elon Musk und OpenAI-CEO Sam Altman verschärft sich, wobei Musk Altmans Behauptungen über die wohltätige Ausrichtung von OpenAI in Frage stellt. Der Artikel beleuchtet die unterschiedlichen Visionen und Geschäftsmodelle der KI-Giganten. Es geht um die Kommerzialisierung von KI und die ursprüngliche Mission von OpenAI.",
+          "titel": "Chef von ChatGPT kommt aus Itzehoe: Nick Turley und sein Weg von der Kleinstadt ins Silicon Valley",
+          "zusammenfassung": "shz.de porträtiert Nick Turley, den CEO von ChatGPT, und zeichnet seinen ungewöhnlichen Werdegang von der norddeutschen Kleinstadt Itzehoe bis an die Spitze eines der weltweit führenden KI-Unternehmen nach. Der Artikel beleuchtet seine Visionen und die Herausforderungen in der Führung eines Tech-Giganten.",
           "einordnung": "",
-          "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTC1mLTdtYjdrU2pWSkhiN085Q0FJdnhESkRXSi0xMU9pX0VPUjJGWjBRQ3lTX05vOEk1d3lXcUJ3TDhJbElxQ3IwbncxNkFVT2dOZkJkTjRUSldmWGRLa0hEM2c4OEZiUmRTaVRKSDZOZmxyd3V5S0g1MFk3VnpjMlFicm40RWxMT2tXdGtXNEt5R0hIWUVPekR2cGduM0pmaEE?oc=5",
+          "quelle": "shz.de",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON0w3OTZIdHFGRnozUUlxV0RtNWdzaGdWYndZdDNsQUxkT3FKZ0lPRUFyNHk2OHVINWpvRmhCcWlULXZiZ3RJSnFWSFpEX2hzdUNiZVNtMG16OXdjOW5JQmhWamFqTmp3MzhQZ2RkSHBuZ3VWbTRyckdTclZ5UEFGU1ZLOXZMNXpGc3RaaGVNY2hURFFwakNYS3g3VEZ4MGMwZVIzeXVNQ1Vmc3VyMUVJSEFiNlB1ak0?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "Nachts sind tausende Agenten im Einsatz: So nutzt der Claude-Code-Erfinder die eigene KI",
+          "zusammenfassung": "T3N gewährt Einblicke, wie der Code-Erfinder von Claude seine eigene KI intern nutzt, indem tausende \"Agenten\" nachts komplexe Aufgaben erledigen. Diese Praxis zeigt nicht nur das Vertrauen in die eigene Technologie, sondern auch innovative Ansätze zur Skalierung von Entwicklungs- und Testprozessen. Es ist ein Blick hinter die Kulissen eines führenden KI-Unternehmens.",
+          "einordnung": "",
+          "quelle": "T3N",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOF9kamJBT2RQWnRZVzI5a2J5bjZBN0ZJSzU3eVByNG1BdVVmZHJiLWpDWnVrNjlnS01Sc0JkaVN4YVNuUXZDVVF1a0lPQXh4aVlINEdqY015dVZ3Zjd0QTBmY19UZFhQX0hkU0U4SWFoYWJPS3kzZGlLdjFySzlvT0phQTlubjlQay11YjMwSW5rajF5WTVFbjlsVnF1anJBZjFmLV9aY3BIdEpuYy1nNFY5U3ZUZlk?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Google Cloud: „Wenn Anthropic das richtige LLM hat, sollen Kunden Claude nutzen“",
-          "zusammenfassung": "Google Cloud betont seine Offenheit gegenüber Large Language Models von Drittanbietern und ermutigt Kunden, auch Claude von Anthropic zu nutzen, wenn es ihren Anforderungen besser entspricht. Diese Strategie zeigt Googles Ansatz, eine breite Palette an KI-Lösungen anzubieten und die Kundenbindung über Flexibilität zu stärken. Es unterstreicht den intensiven Wettbewerb im LLM-Markt.",
+          "titel": "Gemini übernimmt: Google will Android voll unter KI-Kontrolle bringen",
+          "zusammenfassung": "Ntv berichtet über Googles strategische Entscheidung, Android vollständig unter die Kontrolle von Gemini-KI zu stellen. Dieser Schritt signalisiert eine tiefgreifende Neuausrichtung des mobilen Ökosystems, bei der KI nicht nur eine Funktion, sondern das zentrale Nervensystem wird. Es ist ein klares Statement zur zukünftigen Ausrichtung von Googles Plattformstrategie.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY2xJeVZrRjZLdFNhVmtrZlV0YVV5Q08xTXhubzRTRWZldFMyZkNxNkNUVWs4NlZINkhyLXJYdHF3NEVzUElmdFRPZ0NFQTRLUGRhN3VKSDNPWWQxVTNBX3V3czhoOTlWZzRkVHN3NzQwckZxRktKWjl5aWdTN1g4d29oaGFwU1pacWp3cXdwT0MxTk9lSGR1NUo2WVlnUUZzRDlnakdQdU1NZTFkSERvQ2EyOHd6VGctUkp3SW5BMzI?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "KI-Abomodell: Anthropic erlaubt wieder Openclaw-Anwendungen",
-          "zusammenfassung": "Anthropic lockert seine Richtlinien und erlaubt wieder die Nutzung von Openclaw-Anwendungen im Rahmen seines KI-Abomodells. Diese Entscheidung könnte die Flexibilität für Entwickler erhöhen und die Verbreitung von Claude-basierten Tools fördern. Sie deutet auf eine Anpassung an Marktbedürfnisse und den Wunsch nach einem breiteren Ökosystem hin.",
-          "einordnung": "",
-          "quelle": "Golem",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdTNZaWNiX2Z0ZUhnMk8zMUlVMEhmVTlJUFhBZVZvazg0OU01OUJSR3l5a0JjelJadWs4aTllakJOMWVkUTYxQ1NSbGVraU1qdGg4WGxKTVBDUkhTWlRrcEtySWxTZVU2N2pZdjRxZjU3VXVTdnJoTjJSYkViamFQb3dZWTM4bE1WNzNPb0VPY1pBcndSV1I5NGVNTGpQUVFRNVY0?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "Ntv",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlByYWFGaGc4LUVFcDBvUlFVQ0lDT0dmbEpuODg3c2JzNWNQSDJydFFDbGY4c09WLUZOUWpvNkJhdzFMX29nWG0yaXZ5aEJlZXNmWEVONnBFQzJGYTVaNFpPc3RhM01sRVQ4OE5GQk5yRXA2OER0Q0JpNVk1MzJtc2RBUnZUaHZEUUhacUlZSlBRdVdRdkY2LThpSQ?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
           "titel": "An der Schwelle der Marktbereinigung: Die Rolle von Large Language Models",
-          "zusammenfassung": "Der Artikel analysiert, wie Large Language Models (LLMs) eine Marktbereinigung im KI-Sektor vorantreiben könnten. Kleinere Akteure könnten Schwierigkeiten haben, mit den Ressourcen und der Innovationskraft der großen Tech-Konzerne mitzuhalten. Dies deutet auf eine Konsolidierung und eine zentrale Rolle von LLMs im zukünftigen KI-Markt hin.",
+          "zusammenfassung": "Der Artikel von eu.36kr.com analysiert, wie Large Language Models den Markt beeinflussen und welche Rolle sie in einer bevorstehenden Marktbereinigung spielen könnten. Es wird diskutiert, welche Unternehmen sich durchsetzen und welche Geschäftsmodelle zukunftsfähig sind. Die Analyse bietet strategische Einblicke für Unternehmen im KI-Sektor.",
           "einordnung": "",
           "quelle": "eu.36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWmpWUklqQzRLYlFzSE9GUUp1WDNFWmlHeHlOS0I3NTBleUxqeTBFcTJZblQtN0VvTGVGLVRXeDNMMkJQYVZqUVNBM3FFSFlLVk53?oc=5",
@@ -88,23 +88,23 @@
       "artikel": [
         {
           "titel": "EU verschiebt zentrale Regelungen des AI Acts",
-          "zusammenfassung": "Die Europäische Union hat die Implementierung zentraler Regelungen des AI Acts verschoben, was auf die Komplexität und die Notwendigkeit weiterer Abstimmungen hindeutet. Diese Verzögerung könnte Unternehmen zwar mehr Zeit für die Anpassung geben, birgt aber auch Unsicherheiten bezüglich des genauen Zeitplans. Die Regulierung von Künstlicher Intelligenz bleibt eine Herausforderung für die Gesetzgeber.",
+          "zusammenfassung": "Haufe meldet, dass die EU die Implementierung zentraler Regelungen des AI Acts verschoben hat. Die Gründe dafür sind komplex und reichen von technischen Herausforderungen bis zu politischen Differenzen. Diese Verzögerung könnte Auswirkungen auf die schnelle Anpassung der Industrie haben.",
           "einordnung": "",
           "quelle": "Haufe. Intelligenz, die bewegt.",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUljTldYY3VsLU8wcHhDanBhTEhfeHhQMGpoRUlEUnRzcWkyZnlpRzc0aEpSTGlpbVFOSUdnUWZnMlM3dFdfNkk3NXo3TXlVU09OTHdmUlVmNXN4OV9TYVQzaWVGdThCT2pqZ1ctX25FSHZTQTdlY2hKZC1hM1hJMm1oX052UlJz?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "EU AI Act: Fristen verschoben, globale Regulierung nimmt Fahrt auf",
-          "zusammenfassung": "Die EU hat Fristen für die Umsetzung des AI Acts verschoben, während gleichzeitig die globale Regulierung von Künstlicher Intelligenz an Fahrt gewinnt. Dies deutet auf eine komplexe internationale Landschaft hin, in der verschiedene Regionen unterschiedliche Regulierungsansätze verfolgen. Die Verschiebung könnte den Dialog über internationale Standards beeinflussen und die Notwendigkeit einer koordinierten Strategie unterstreichen.",
+          "titel": "KI-Transparenz: EU-Kommission konkretisiert Regeln gegen digitale Täuschung",
+          "zusammenfassung": "Heise Online berichtet, dass die EU-Kommission ihre Regeln zur KI-Transparenz konkretisiert hat, um digitale Täuschung effektiver zu bekämpfen. Die neuen Vorgaben sollen sicherstellen, dass KI-generierte Inhalte klar als solche erkennbar sind. Dies ist ein wichtiger Schritt zur Stärkung des Vertrauens in digitale Medien.",
           "einordnung": "",
-          "quelle": "Börse Express",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0lmbHgyeDZjZUMtbEdTU1dzeHRLTktFOGNRbHhTNkhUZFBQWlFPSTUxWk4tZWthaEZfc1B4cllObzZpd0tCS00zSzZNV3podTRnNzZEd1FKSGZEaVNldzBnaXVVVC1hM1ZZX3RNY1lrWV8yakp3YW9fY1dHQzlubER6WTVPVHN5eUd3V2RYejU2MEJjV0EwcFRoNFo2UnBkRlM5UU1wUTN3OEk2VXVhZXNoUm93Nnc?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDJUSFkyMkZpMml6QjNja2dIV3VoWUpzV1BPWG9RMUpMUHNZalFtUlcwNWlOajhUdmVmcDQzaExNMXpQNDl0U1Aza0U0RmZmeTB6YWJjXzFyMlRES3Y1SGIydVgzNFhFZy0tMkxtcVpMTkx2RndJYXJwaHRDVW1uVGtrUEZ4NWlidFVLUTFuM0d5UGhtZGdhbGFiVTh1VHVxWHZtOGVwellnMkdIb1hEWWRqMVdWdw?oc=5",
           "sterne": "⭐⭐"
         },
         {
           "titel": "EU einig bei KI-Omnibus: Manchmal geht es auch in Brüssel schnell",
-          "zusammenfassung": "Entgegen der allgemeinen Wahrnehmung hat die EU schnell Einigkeit über den sogenannten 'KI-Omnibus' erzielt, ein umfassendes Paket von KI-Regulierungen. Dies zeigt, dass bei bestimmten Aspekten der KI-Regulierung ein Konsens gefunden werden kann, auch in einem komplexen politischen Umfeld. Es unterstreicht die Dringlichkeit, mit der die EU auf die rasanten Entwicklungen im Bereich der Künstlichen Intelligenz reagiert.",
+          "zusammenfassung": "Die FAZ kommentiert die überraschend schnelle Einigung der EU auf den \"KI-Omnibus\", ein umfassendes Paket von KI-Regulierungen. Trotz der Komplexität des Themas konnte in Brüssel zügig ein Konsens erzielt werden. Dies zeigt die Dringlichkeit und den politischen Willen, den KI-Sektor zu gestalten.",
           "einordnung": "",
           "quelle": "FAZ",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLVRrM29fX256ejVyZW5XbVRCRVBYZElsSlZzWnVoU0RtYUJlUWNtWUt6U3RTN1ltdVlnRG4xamFhVWF3SWZ5RGV1SGFCY3FxRGk3TjBwS1RNbFdIVEhLWVRFQ3hfSnhVbFRpYXhXUk9IVXdqQzkzOGt3MmR4Vm1VbkFfT3M5VGVudVp5MzZNQmRZRVpGZWZEaVItb093OU1ESTdlMHpQWHZabGtfQkVNRGpmTjZuTHp4Z3FCaDhQczJ2R1REQXdhVU1STQ?oc=5",
@@ -118,79 +118,79 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Was sind KI-Wrapper?",
-          "zusammenfassung": "Der Artikel erklärt das Konzept von KI-Wrappern, die als Schnittstellen oder zusätzliche Schichten um bestehende KI-Modelle fungieren. Sie ermöglichen es, Funktionalitäten zu erweitern, die Sicherheit zu verbessern oder die Integration in andere Systeme zu vereinfachen. Dies ist besonders relevant für Unternehmen, die KI-Lösungen anpassen und effizienter nutzen möchten.",
-          "einordnung": "",
-          "quelle": "LTO.de",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPakhmbEcwdmRFQ3dvX2NXNGFFWVh5OExOc2ozV1FjeTRaRFh5ejNISVJTTUxzT1lZV2tjU1dUalBIVm9SQWNjMU1pcF9WQW1OT2NUVnV2TURuRk5UQzdiMjlkcWRRTlhaZVNQN0VnbWhDMlFobE9DQWI1bE5oQ1p4dlFuNXFnczVDeF8zODhn?oc=5",
-          "sterne": "⭐"
-        },
-        {
           "titel": "Large Language Model (LLM): Definition & Funktionsweise",
-          "zusammenfassung": "Dieser Artikel bietet eine grundlegende Definition und Erklärung der Funktionsweise von Large Language Models (LLMs). Er erläutert die Architektur und die Trainingsprinzipien, die diesen mächtigen KI-Systemen zugrunde liegen. Es dient als Einführung für ein breiteres Publikum, um das Verständnis für die Technologie hinter LLMs zu vertiefen.",
+          "zusammenfassung": "Schieb.de bietet eine grundlegende Definition und Erläuterung der Funktionsweise von Large Language Models (LLMs). Der Artikel erklärt die Kernkonzepte hinter diesen leistungsstarken KI-Modellen und wie sie Sprache verstehen und generieren. Es dient als Einführung in die technologischen Grundlagen.",
           "einordnung": "",
           "quelle": "schieb.de",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aQ3kxVFJNVkZoYW9TaWx5RXpMeVB2NW5Ta2NicG4wM0k4VGlPdHI4TW42SUJ2eEduYzFIT1lob0hJTXlZdmw2LVQ5YTVTN0dCTjMyM05mc3ZUbVhfRGw4MVhjMmNVekttVVFEbTJRS3FaLWFzNk9KZ1A1S0w?oc=5",
           "sterne": "⭐"
+        },
+        {
+          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
+          "zusammenfassung": "Healthcare-in-Europe.com untersucht das Potenzial von Large Language Models in der Onkologie, von der Diagnoseunterstützung bis zur personalisierten Therapie. Der Artikel beleuchtet jedoch auch die erheblichen Infrastrukturprobleme, die einer breiten Anwendung im Weg stehen. Es ist eine Analyse der Chancen und Herausforderungen im medizinischen Bereich.",
+          "einordnung": "",
+          "quelle": "healthcare-in-europe.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dmJiTWc?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     },
     {
       "emoji": "💼",
-      "titel": "KI & Arbeit",
+      "titel": "KI & Arbeitswelt",
       "fest": false,
       "artikel": [
         {
+          "titel": "Stellenstreichungen: Frisst die KI-Revolution ihre Ingenieure?",
+          "zusammenfassung": "Die WirtschaftsWoche beleuchtet die Auswirkungen der KI auf den Arbeitsmarkt für Ingenieure. Es wird diskutiert, ob die Automatisierung durch KI zu einem Abbau von Stellen in technischen Berufen führt und welche neuen Qualifikationen gefragt sind. Der Artikel analysiert die strukturellen Veränderungen in der Branche.",
+          "einordnung": "",
+          "quelle": "WirtschaftsWoche",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWF2R00yanRMMUt3cDVJN0JVdG8zUHNSeW1uNEFvLUhvMlVzVWdZVzNqRzdDZFoyVVNOSUg3c19DeE9LaG1HN2lmd3RMZkRfSEtJNTdncWJYemVDTjJHQi0xTXhVMS0zU0xJeXVUT2RGWUNiUFZxSS1DaWlDQ1FzeWhTbGJNT0xQR2FiamZtcjRkeUd5NjB6Q0Iwem9YR2dJUkpKTHk3LTR2YW9RTmN6dXRzeUE5R1lhUENjcTF3?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
           "titel": "Künstliche Intelligenz: Entwickler sind von KI-Einsatz nicht begeistert",
-          "zusammenfassung": "Eine aktuelle Umfrage unter Entwicklern zeigt eine geringe Begeisterung für den umfassenden Einsatz von KI in ihren Projekten. Viele sehen noch keine klaren Vorteile oder sind besorgt über die Komplexität und ethische Implikationen der Integration. Dies deutet auf eine Diskrepanz zwischen dem Hype um KI und der praktischen Akzeptanz in der Entwicklergemeinschaft hin.",
+          "zusammenfassung": "Eine Umfrage unter Entwicklern zeigt eine überraschende Skepsis gegenüber dem verstärkten Einsatz von KI in ihren Arbeitsabläufen. Viele äußern Bedenken hinsichtlich der Qualität der generierten Codes oder der Reduzierung kreativer Freiräume. Der Artikel untersucht die Gründe für diese Zurückhaltung.",
           "einordnung": "",
           "quelle": "Golem",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcE9PQmUtckJROUhiXy13Y3B5UTJMcUl3Z3I2a29VZnFxdkd6VGxfRS1ESk4wZGpUSFRPZjFIWWFnNmZtWDlnXzI0eHJIZHVIcjFPcllmeEhQdDJoa21BekoxR3V4X3E0RU14d18wWUpHeUxSS3Nvd3VZcC16bDVTS2lzcnp0blBBTEpEVjJBdHRTWEdEeFQ5dlZwdXFXYjRldXRUQTF2QXhyanBRSXotQWhQblE?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Künstliche Intelligenz: Commerzbank setzt beim Stellenabbau stark auf KI",
-          "zusammenfassung": "Die Commerzbank plant, im Rahmen ihres Stellenabbaus verstärkt auf Künstliche Intelligenz zu setzen, um Effizienz zu steigern und Kosten zu senken. Dieser Schritt unterstreicht den Trend, dass KI nicht nur neue Arbeitsplätze schafft, sondern auch bestehende transformiert oder ersetzt. Die Bank sieht darin einen strategischen Weg, um wettbewerbsfähig zu bleiben und ihre Geschäftsprozesse zu optimieren.",
+          "titel": "KI-Ultras lieben diesen 315.000-Dollar-Job",
+          "zusammenfassung": "Business Insider berichtet über eine neue, hochdotierte Jobkategorie im KI-Sektor, die \"KI-Ultras\" anzieht und Gehälter von bis zu 315.000 Dollar bietet. Diese Positionen erfordern spezialisierte Fähigkeiten an der Schnittstelle von KI-Entwicklung und strategischer Anwendung. Der Artikel beleuchtet die Anforderungen und den Hype um diese Rollen.",
           "einordnung": "",
-          "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3V2MUVqdzYybXZaaG1LUHlGSTZaenlhNkYzbllTSVg3TndEaGxWYkhXTXZXWGsxZTl6aFRiMDdtNnNiRTZSSGxXR0VYaEMtNzhFNkRVUUJvQ3ktM0diT1VIOVdWQWNqTWhGcVFQeUk1Qm1LbGx5dXY1Yy1xdnpEXzJkS0NpWWNLRjhNUmlHZDZRRk5HSFE?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Claude for Legal: Anthropic startet Angebot für Juristen",
-          "zusammenfassung": "Anthropic hat 'Claude for Legal' vorgestellt, eine spezialisierte Version seines Large Language Models Claude, die auf die Bedürfnisse von Juristen zugeschnitten ist. Dieses Angebot zielt darauf ab, rechtliche Recherchen und die Erstellung von Dokumenten zu optimieren und zu beschleunigen. Es markiert einen weiteren Schritt in der Vertikalisierung von KI-Anwendungen für spezifische Branchen und Berufsfelder.",
-          "einordnung": "",
-          "quelle": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXhoS0F0NzYtZlJ1MUlTdXZkQ1hzNjJBazJBd01fQlhTOUJzSWRlVmE4Zm1FNVh2NXNKVl9QRll2VzllYU5aQUV3d1ZjMEE0Y2cyZXB1ejQ2WC1iM29RS3Z4VjZBZFhTUWk2bVdoTVR0eGJLLVlqVGJlZUVxRlhQbUw5SzdnT0Z1Y2JLRnUyckg3T2UyQXhqZm85Qldwd2g5QV9NU1ozaHdUOWxZNWFpbXlJV2NkNzA0VmZsU2tCOA?oc=5",
+          "quelle": "Business Insider Deutschland",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNktOOEdPRE5Ockd2ZUhZME5LQ0tKUkZ5WXVYd1ZYcm9VeVVWcEtzY3BZQmVGWjNuSnlidG5KNWs2cnlPMm85dF9ERWFFQ05LcFR1dDd3MW15ZXVVTTM0LTg1ZXhQdlIxZTlfUjZ3VlJaQ0o4VmxtNlpSWmdxa3MtZ1FSQ2pDb1hhQl9BYlhXSEpuUQ?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     },
     {
-      "emoji": "🌍",
-      "titel": "KI, Gesellschaft & Ethik",
+      "emoji": "⚠️",
+      "titel": "KI & Ethik & Gesellschaft",
       "fest": false,
       "artikel": [
         {
-          "titel": "Tödliche Überdosis nach ChatGPT-Rat: Eltern eines verstorbenen Teenagers verklagen OpenAI",
-          "zusammenfassung": "Eltern eines Teenagers verklagen OpenAI, nachdem ihr Kind angeblich nach einem Rat von ChatGPT eine tödliche Überdosis genommen hat. Dieser tragische Fall wirft ernste Fragen zur Verantwortung von KI-Entwicklern und zur Sicherheit von generativen Modellen auf. Er beleuchtet die potenziellen Gefahren und die Notwendigkeit strengerer Richtlinien im Umgang mit KI-Systemen.",
+          "titel": "Hui Xiong: Silizium-Kolosse gegen Kohlenstoff-Leben – die letzten Grenzen der KI",
+          "zusammenfassung": "Hui Xiong erörtert in der FAZ die philosophischen und existentiellen Fragen, die sich aus der fortschreitenden Entwicklung künstlicher Intelligenz ergeben. Der Artikel beleuchtet die potenziellen Konflikte und Symbiosen zwischen menschengemachter Intelligenz und dem biologischen Leben. Es ist eine tiefgehende Betrachtung der ultimativen Grenzen und Implikationen der KI.",
           "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nbXJvX3FzbXAxZTlZazdSOFhsdnc0UmpaTk5BVFJHeHJCcHVVaEdGckx4M3JPMDNySFZNMDVycDBCV2YwQ2VxaVdzWEdvWmU2Ukh4WDZ5aXNsb05nSFgxS0RqbkZ1RTA4alpNRg?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTHd0NjJWUXdQT3NOTV9EVUQydjVUdXdQejh1cnJqVncxZEdNWldkZ09jSUNUQVVHdjR2Y2hMdW1jNWFyYlk4ekduSmdKYmthOUlHRjVEcFh2VzZqMnFzZlZIZ1NHcTJPdzdyWEc4NEdQVVFVc28xT3NqNFNMcXJkOUQ5WDBjN3RSWnlwV3JWQmdRV0pYUS1DUnczWUkxWU1wT091Vnc4b0xuWmhmblR5YzRVeElyWW9mNVUtdDZnbEhSWERuckd0aE1DY3czVmlFWU5WZENlSGNCeGdQV20yVG93?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
-          "zusammenfassung": "Der Einsatz von Large Language Models in der Onkologie birgt enormes Potenzial für die Analyse medizinischer Daten und die Unterstützung bei Diagnosen. Jedoch stößt die Implementierung auf erhebliche Infrastrukturprobleme, da oft die notwendigen IT-Systeme und Datenstandards fehlen. Dies zeigt die Herausforderungen bei der praktischen Anwendung von KI im Gesundheitswesen und die Notwendigkeit weiterer Investitionen.",
+          "titel": "Tödliche Überdosis nach ChatGPT-Rat: Eltern eines verstorbenen Teenagers verklagen OpenAI",
+          "zusammenfassung": "T3N berichtet über eine tragische Klage gegen OpenAI, nachdem ein Teenager nach Ratschlägen von ChatGPT eine tödliche Überdosis erlitten haben soll. Die Eltern machen das KI-Modell für die fatalen Empfehlungen verantwortlich und werfen OpenAI mangelnde Sicherheitsvorkehrungen vor. Dieser Fall wirft ernste Fragen zur Verantwortung und den Risiken von KI-Anwendungen auf.",
           "einordnung": "",
-          "quelle": "healthcare-in-europe.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "T3N",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nbXJvX3FzbXAxZTlZazdSOFhsdnc0UmpaTk5BVFJHeHJCcHVVaEdGckx4M3JPMDNySFZNMDVycDBCV2YwQ2VxaVdzWEdvWmU2Ukh4WDZ5aXNsb05nSFgxS0RqbkZ1RTA4alpNRg?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-05-15T08:36:14.074Z",
+  "generiert_um": "2026-05-16T07:46:54.099Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -204,9 +204,9 @@
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "  SaaS-Schnäppchenjagd? | OpenAI spart $100 Mrd. durch Msft-Deal | Anthropic-Akamai-Deal | Helsing $18 Mrd. #561",
-      "datum": "12.5.2026",
-      "dauer": "73 Min.",
+      "episode": "OpenAI prüft Klage gegen Apple | Infinite Money Glitch bei Jensen Huang | DeepMinds AI-Mauszeiger | Das Problem der n8n Bewertung #562",
+      "datum": "15.5.2026",
+      "dauer": "71 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
