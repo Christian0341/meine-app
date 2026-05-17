@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-05-16T08:52:14.100494+00:00",
+  "aktualisiert": "2026-05-17T09:09:23.246994+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-News: DAS ändert alles! Neues Modell, Claude ist ZURÜCK, Codex in ChatGPT & BCI-Interview",
+      "link": "https://www.youtube.com/watch?v=bKK0GP8OXlo",
+      "video_id": "bKK0GP8OXlo",
+      "thumbnail": "https://img.youtube.com/vi/bKK0GP8OXlo/mqdefault.jpg",
+      "datum": "2026-05-17T08:15:32+00:00",
+      "datum_de": "17.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "Googles Gemini bekommt Notebooks: Warum dieses Update mehr kann als du denkst (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=yCZaaOUXdOQ",
+      "video_id": "yCZaaOUXdOQ",
+      "thumbnail": "https://img.youtube.com/vi/yCZaaOUXdOQ/mqdefault.jpg",
+      "datum": "2026-05-17T08:01:02Z",
+      "datum_de": "17.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Kontextkern",
+      "titel": "Claude richtig prompten 2026: Vom Einsteiger zum Profi",
+      "link": "https://www.youtube.com/watch?v=FqPF29NAevA",
+      "video_id": "FqPF29NAevA",
+      "thumbnail": "https://img.youtube.com/vi/FqPF29NAevA/mqdefault.jpg",
+      "datum": "2026-05-16T17:30:34Z",
+      "datum_de": "16.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Lerne 90% über Claude Cowork in unter 20min! (Kompletter Kurs)",
+      "link": "https://www.youtube.com/watch?v=AXVefjsTkEg",
+      "video_id": "AXVefjsTkEg",
+      "thumbnail": "https://img.youtube.com/vi/AXVefjsTkEg/mqdefault.jpg",
+      "datum": "2026-05-16T14:15:01+00:00",
+      "datum_de": "16.05.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Neuland Pro",
       "titel": "HEFTIGE KI NEWS: Die nächste REVOLUTION steht bevor & ANTHROPIC SCHLÄGT OPENAI",
@@ -111,46 +151,6 @@
       "datum": "2026-05-12T00:26:00Z",
       "datum_de": "12.05.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "🔮 MiroFish simuliert die Zukunft mit tausenden Agents | Alles was du wissen musst!",
-      "link": "https://www.youtube.com/watch?v=lpQ3W8v-GS8",
-      "video_id": "lpQ3W8v-GS8",
-      "thumbnail": "https://img.youtube.com/vi/lpQ3W8v-GS8/mqdefault.jpg",
-      "datum": "2026-05-11T17:00:56+00:00",
-      "datum_de": "11.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "NotebookLM Guide 2026: So lernst & arbeitest du 10x schneller",
-      "link": "https://www.youtube.com/watch?v=IqHY6sZ-TfE",
-      "video_id": "IqHY6sZ-TfE",
-      "thumbnail": "https://img.youtube.com/vi/IqHY6sZ-TfE/mqdefault.jpg",
-      "datum": "2026-05-11T12:00:36+00:00",
-      "datum_de": "11.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "KI NEWS ESKALIEREN: OpenAI greift ALLES an: Browser, Smartphones, Unternehmen",
-      "link": "https://www.youtube.com/watch?v=u8LcZT5nMDI",
-      "video_id": "u8LcZT5nMDI",
-      "thumbnail": "https://img.youtube.com/vi/u8LcZT5nMDI/mqdefault.jpg",
-      "datum": "2026-05-10T11:49:10+00:00",
-      "datum_de": "10.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI-News: Claude verbessert sich IM SCHLAF! Musk rettet Anthropic, Codex & GPT-Realtime Updates",
-      "link": "https://www.youtube.com/watch?v=Rg7lvSakZpE",
-      "video_id": "Rg7lvSakZpE",
-      "thumbnail": "https://img.youtube.com/vi/Rg7lvSakZpE/mqdefault.jpg",
-      "datum": "2026-05-10T08:15:10+00:00",
-      "datum_de": "10.05.2026",
-      "quelle": "kanal"
     }
   ]
 }
