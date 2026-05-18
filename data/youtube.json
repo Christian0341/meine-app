@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-05-17T09:09:23.246994+00:00",
+  "aktualisiert": "2026-05-18T11:10:14.414304+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Aufgaben Automatisieren & Nie Wieder Manuell Klicken!",
+      "link": "https://www.youtube.com/shorts/X453Qt_4wOc",
+      "video_id": "X453Qt_4wOc",
+      "thumbnail": "https://img.youtube.com/vi/X453Qt_4wOc/mqdefault.jpg",
+      "datum": "2026-05-18T09:30:11+00:00",
+      "datum_de": "18.05.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "KI-News: DAS ändert alles! Neues Modell, Claude ist ZURÜCK, Codex in ChatGPT & BCI-Interview",
@@ -34,7 +44,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Lerne 90% über Claude Cowork in unter 20min! (Kompletter Kurs)",
+      "titel": "So wird Cowork zu deinem KOMPLETTEN KI-Betriebssystem! ",
       "link": "https://www.youtube.com/watch?v=AXVefjsTkEg",
       "video_id": "AXVefjsTkEg",
       "thumbnail": "https://img.youtube.com/vi/AXVefjsTkEg/mqdefault.jpg",
@@ -83,6 +93,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "The Node AI | AI Automation",
+      "titel": "Claude Code Update: Kein Terminal. Kein VS Code. Per Sprachbefehl.",
+      "link": "https://www.youtube.com/watch?v=QiQ3sfFakZc",
+      "video_id": "QiQ3sfFakZc",
+      "thumbnail": "https://img.youtube.com/vi/QiQ3sfFakZc/mqdefault.jpg",
+      "datum": "2026-05-13T15:03:07Z",
+      "datum_de": "13.05.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Von ChatGPT bis n8n – KI-Tools praktisch nutzen",
       "titel": "Claude oder OpenAI Codex — Lohnt sich der Wechsel wirklich?",
       "link": "https://www.youtube.com/watch?v=ujEEv-FnCyw",
@@ -123,32 +143,12 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Everlast AI",
-      "titel": "KI-Experten reagieren: DAS übersehen alle! Musks Claude-Deal, Chinas Roboter-Druck & EU kippt AI-Act",
-      "link": "https://www.youtube.com/watch?v=a7PS6urkqxE",
-      "video_id": "a7PS6urkqxE",
-      "thumbnail": "https://img.youtube.com/vi/a7PS6urkqxE/mqdefault.jpg",
-      "datum": "2026-05-12T15:15:26+00:00",
-      "datum_de": "12.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Ki & Krypto | Reader Sentiment ",
-      "titel": "Tool 5 ist mein Geheimtipp — 5 KI-Tools, 500€ gespart 🤯",
-      "link": "https://www.youtube.com/watch?v=avGxai-Q3Y8",
-      "video_id": "avGxai-Q3Y8",
-      "thumbnail": "https://img.youtube.com/vi/avGxai-Q3Y8/mqdefault.jpg",
-      "datum": "2026-05-12T14:00:23Z",
-      "datum_de": "12.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "BuildMitKI",
-      "titel": "3 kostenlose KI-Tools, die dein Lernen für immer verändern – NotebookLM, Gemini &amp; Gems",
-      "link": "https://www.youtube.com/watch?v=ARBJFWgEJuI",
-      "video_id": "ARBJFWgEJuI",
-      "thumbnail": "https://img.youtube.com/vi/ARBJFWgEJuI/mqdefault.jpg",
-      "datum": "2026-05-12T00:26:00Z",
+      "kanal": "Digitale Profis",
+      "titel": "Ex-OpenAI-Chefin zeigt die Zukunft von KI: Interaction Models von Thinking Machines uvm. | KI-News",
+      "link": "https://www.youtube.com/watch?v=vuFOF3hm08A",
+      "video_id": "vuFOF3hm08A",
+      "thumbnail": "https://img.youtube.com/vi/vuFOF3hm08A/mqdefault.jpg",
+      "datum": "2026-05-12T16:01:26Z",
       "datum_de": "12.05.2026",
       "quelle": "suche"
     }
