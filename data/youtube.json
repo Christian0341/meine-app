@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-05-19T10:39:35.983027+00:00",
+  "aktualisiert": "2026-05-20T10:27:18.972205+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "🤯 Andrej Karpathy wechselt zu Antropic #ainews",
+      "link": "https://www.youtube.com/shorts/8QGNZM2ejRY",
+      "video_id": "8QGNZM2ejRY",
+      "thumbnail": "https://img.youtube.com/vi/8QGNZM2ejRY/mqdefault.jpg",
+      "datum": "2026-05-19T19:08:57+00:00",
+      "datum_de": "19.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-Forscher: Vergiss ChatGPT, DAS ist der nächste Durchbruch! Weltmodelle erklärt (Daniel Cremers)",
+      "link": "https://www.youtube.com/watch?v=FvSRHiwQN0w",
+      "video_id": "FvSRHiwQN0w",
+      "thumbnail": "https://img.youtube.com/vi/FvSRHiwQN0w/mqdefault.jpg",
+      "datum": "2026-05-19T15:15:29+00:00",
+      "datum_de": "19.05.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "ZELDOgiq",
       "titel": "Hermes Agent und Grok machen etwas was Claude ausdrücklich verbietet (Full Tutorial)",
@@ -34,7 +54,7 @@
     },
     {
       "kanal": "ButzigerRobin",
-      "titel": "Virale YouTube-Thumbnails mit ChatGPT erstellen 🚀",
+      "titel": "ChatGPT macht meine Fortnite Thumbnails VIRAL?!",
       "link": "https://www.youtube.com/watch?v=KArdTuW-fHY",
       "video_id": "KArdTuW-fHY",
       "thumbnail": "https://img.youtube.com/vi/KArdTuW-fHY/mqdefault.jpg",
@@ -131,26 +151,6 @@
       "datum": "2026-05-14T15:15:38+00:00",
       "datum_de": "14.05.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Jonas Keil",
-      "titel": "ChatGPT Codex ist UNGLAUBLICH! So benutzt du es als Anfänger",
-      "link": "https://www.youtube.com/watch?v=98kIFt3cIsw",
-      "video_id": "98kIFt3cIsw",
-      "thumbnail": "https://img.youtube.com/vi/98kIFt3cIsw/mqdefault.jpg",
-      "datum": "2026-05-13T19:22:19Z",
-      "datum_de": "13.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "cloudstrive",
-      "titel": "Dieser KI-Agent lernt komplett selbstständig! Hermes Agent getestet",
-      "link": "https://www.youtube.com/watch?v=32vgseyktsM",
-      "video_id": "32vgseyktsM",
-      "thumbnail": "https://img.youtube.com/vi/32vgseyktsM/mqdefault.jpg",
-      "datum": "2026-05-13T16:45:00Z",
-      "datum_de": "13.05.2026",
-      "quelle": "suche"
     }
   ]
 }
