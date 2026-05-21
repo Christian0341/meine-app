@@ -1,7 +1,87 @@
 {
-  "aktualisiert": "2026-05-20T10:27:18.972205+00:00",
+  "aktualisiert": "2026-05-21T10:42:56.440545+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Du nutzt Claude falsch! - 7 Prompting-Techniken für 10x bessere Ergebnisse",
+      "link": "https://www.youtube.com/watch?v=-lg9B1X7_9E",
+      "video_id": "-lg9B1X7_9E",
+      "thumbnail": "https://img.youtube.com/vi/-lg9B1X7_9E/mqdefault.jpg",
+      "datum": "2026-05-21T10:15:00+00:00",
+      "datum_de": "21.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "HardReset_info Deutsch",
+      "titel": "MOTOROLA Edge 70 Fusion (7000 mAh): Google Assistant &amp; Gemini einrichten – Sprachbefehle aktivieren",
+      "link": "https://www.youtube.com/watch?v=uNxSl--Cyxc",
+      "video_id": "uNxSl--Cyxc",
+      "thumbnail": "https://img.youtube.com/vi/uNxSl--Cyxc/mqdefault.jpg",
+      "datum": "2026-05-21T00:09:53Z",
+      "datum_de": "21.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "Gemini Omni ist das Nano Banana für Videos - Das musst du wissen!",
+      "link": "https://www.youtube.com/watch?v=k9NBQWSZet0",
+      "video_id": "k9NBQWSZet0",
+      "thumbnail": "https://img.youtube.com/vi/k9NBQWSZet0/mqdefault.jpg",
+      "datum": "2026-05-20T18:50:12Z",
+      "datum_de": "20.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "IchBinFabian",
+      "titel": "Gemini 3.5 Flash schlägt Claude Opus 4.7: Antigravity 2.0 ist da",
+      "link": "https://www.youtube.com/watch?v=wDMa_fa-Ci8",
+      "video_id": "wDMa_fa-Ci8",
+      "thumbnail": "https://img.youtube.com/vi/wDMa_fa-Ci8/mqdefault.jpg",
+      "datum": "2026-05-20T17:00:18Z",
+      "datum_de": "20.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AI Mentors",
+      "titel": "Higgsfield Supercomputer: 1 Prompt und dieser KI-Agent macht ALLES!",
+      "link": "https://www.youtube.com/watch?v=iTD7JCUtSVk",
+      "video_id": "iTD7JCUtSVk",
+      "thumbnail": "https://img.youtube.com/vi/iTD7JCUtSVk/mqdefault.jpg",
+      "datum": "2026-05-20T15:30:19Z",
+      "datum_de": "20.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "ENDLICH: Claude Code Agent Dashboard ist da! ",
+      "link": "https://www.youtube.com/watch?v=4ArIK1Glf9Q",
+      "video_id": "4ArIK1Glf9Q",
+      "thumbnail": "https://img.youtube.com/vi/4ArIK1Glf9Q/mqdefault.jpg",
+      "datum": "2026-05-20T14:15:01+00:00",
+      "datum_de": "20.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Julian Ivanov | KI-Automatisierung",
+      "titel": "Claude Code kostenlos nutzen: Unbegrenzt coden ohne starken PC",
+      "link": "https://www.youtube.com/watch?v=vx0-0RjwIsQ",
+      "video_id": "vx0-0RjwIsQ",
+      "thumbnail": "https://img.youtube.com/vi/vx0-0RjwIsQ/mqdefault.jpg",
+      "datum": "2026-05-20T13:41:18Z",
+      "datum_de": "20.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "Gemini 3.5 Flash ist da - Das musst du jetzt wissen!",
+      "link": "https://www.youtube.com/watch?v=kV1GpkVJXcg",
+      "video_id": "kV1GpkVJXcg",
+      "thumbnail": "https://img.youtube.com/vi/kV1GpkVJXcg/mqdefault.jpg",
+      "datum": "2026-05-20T13:29:55Z",
+      "datum_de": "20.05.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "🤯 Andrej Karpathy wechselt zu Antropic #ainews",
@@ -21,6 +101,16 @@
       "datum": "2026-05-19T15:15:29+00:00",
       "datum_de": "19.05.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Büro-Kaizen digital",
+      "titel": "Copilot Cowork kann Aufgaben für Dich ausführen (so funktioniert&#39;s!)",
+      "link": "https://www.youtube.com/watch?v=n0nZgDjdiw0",
+      "video_id": "n0nZgDjdiw0",
+      "thumbnail": "https://img.youtube.com/vi/n0nZgDjdiw0/mqdefault.jpg",
+      "datum": "2026-05-19T14:01:05Z",
+      "datum_de": "19.05.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "ZELDOgiq",
@@ -61,96 +151,6 @@
       "datum": "2026-05-18T13:00:24Z",
       "datum_de": "18.05.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Aufgaben Automatisieren & Nie Wieder Manuell Klicken!",
-      "link": "https://www.youtube.com/shorts/X453Qt_4wOc",
-      "video_id": "X453Qt_4wOc",
-      "thumbnail": "https://img.youtube.com/vi/X453Qt_4wOc/mqdefault.jpg",
-      "datum": "2026-05-18T09:30:11+00:00",
-      "datum_de": "18.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI-News: DAS ändert alles! Neues Modell, Claude ist ZURÜCK, Codex in ChatGPT & BCI-Interview",
-      "link": "https://www.youtube.com/watch?v=bKK0GP8OXlo",
-      "video_id": "bKK0GP8OXlo",
-      "thumbnail": "https://img.youtube.com/vi/bKK0GP8OXlo/mqdefault.jpg",
-      "datum": "2026-05-17T08:15:32+00:00",
-      "datum_de": "17.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Shakeela ZQ",
-      "titel": "Googles Gemini bekommt Notebooks: Warum dieses Update mehr kann als du denkst (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=yCZaaOUXdOQ",
-      "video_id": "yCZaaOUXdOQ",
-      "thumbnail": "https://img.youtube.com/vi/yCZaaOUXdOQ/mqdefault.jpg",
-      "datum": "2026-05-17T08:01:02Z",
-      "datum_de": "17.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Kontextkern",
-      "titel": "Claude richtig prompten 2026: Vom Einsteiger zum Profi",
-      "link": "https://www.youtube.com/watch?v=FqPF29NAevA",
-      "video_id": "FqPF29NAevA",
-      "thumbnail": "https://img.youtube.com/vi/FqPF29NAevA/mqdefault.jpg",
-      "datum": "2026-05-16T17:30:34Z",
-      "datum_de": "16.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "So wird Cowork zu deinem KOMPLETTEN KI-Betriebssystem! ",
-      "link": "https://www.youtube.com/watch?v=AXVefjsTkEg",
-      "video_id": "AXVefjsTkEg",
-      "thumbnail": "https://img.youtube.com/vi/AXVefjsTkEg/mqdefault.jpg",
-      "datum": "2026-05-16T14:15:01+00:00",
-      "datum_de": "16.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "HEFTIGE KI NEWS: Die nächste REVOLUTION steht bevor & ANTHROPIC SCHLÄGT OPENAI",
-      "link": "https://www.youtube.com/watch?v=UQN6bf8_TNI",
-      "video_id": "UQN6bf8_TNI",
-      "thumbnail": "https://img.youtube.com/vi/UQN6bf8_TNI/mqdefault.jpg",
-      "datum": "2026-05-16T06:28:26+00:00",
-      "datum_de": "16.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Dirk Bußmann",
-      "titel": "Prompt zu lang? So machst du ChatGPT-Anfragen einfacher",
-      "link": "https://www.youtube.com/watch?v=NIZNLLpl-_o",
-      "video_id": "NIZNLLpl-_o",
-      "thumbnail": "https://img.youtube.com/vi/NIZNLLpl-_o/mqdefault.jpg",
-      "datum": "2026-05-15T11:04:03Z",
-      "datum_de": "15.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sebastian Claes | N8N & KI-Agenten",
-      "titel": "Claude Code macht Aktienanalysen unfair",
-      "link": "https://www.youtube.com/watch?v=hCDEa8MTc-I",
-      "video_id": "hCDEa8MTc-I",
-      "thumbnail": "https://img.youtube.com/vi/hCDEa8MTc-I/mqdefault.jpg",
-      "datum": "2026-05-14T17:00:51Z",
-      "datum_de": "14.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "China-Insider packt aus: Es gibt KEIN zurück mehr! DAS rollt bis 2030 auf uns zu (Jörg Wuttke)",
-      "link": "https://www.youtube.com/watch?v=zFeYNjN96dg",
-      "video_id": "zFeYNjN96dg",
-      "thumbnail": "https://img.youtube.com/vi/zFeYNjN96dg/mqdefault.jpg",
-      "datum": "2026-05-14T15:15:38+00:00",
-      "datum_de": "14.05.2026",
-      "quelle": "kanal"
     }
   ]
 }
