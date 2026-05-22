@@ -1,7 +1,77 @@
 {
-  "aktualisiert": "2026-05-21T10:42:56.440545+00:00",
+  "aktualisiert": "2026-05-22T10:26:59.307300+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Datenschutz ist kein KI-Verhinderer: Warum die DSGVO ein Verbündeter ist | Dr. Sebastian Kraska",
+      "link": "https://www.youtube.com/watch?v=g6lUrCUqgL0",
+      "video_id": "g6lUrCUqgL0",
+      "thumbnail": "https://img.youtube.com/vi/g6lUrCUqgL0/mqdefault.jpg",
+      "datum": "2026-05-22T10:00:15+00:00",
+      "datum_de": "22.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "MandR Tutorials Deutsch",
+      "titel": "Claude Code MCP: So fügst du es zu Servern hinzu (2026): Vollständiges Tutorial",
+      "link": "https://www.youtube.com/watch?v=z6HJMz2Nx74",
+      "video_id": "z6HJMz2Nx74",
+      "thumbnail": "https://img.youtube.com/vi/z6HJMz2Nx74/mqdefault.jpg",
+      "datum": "2026-05-22T03:22:27Z",
+      "datum_de": "22.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "MandR Tutorials Deutsch",
+      "titel": "So installierst du Claude Code auf dem Mac (2026): Schritt für Schritt",
+      "link": "https://www.youtube.com/watch?v=vMHx8J0co2A",
+      "video_id": "vMHx8J0co2A",
+      "thumbnail": "https://img.youtube.com/vi/vMHx8J0co2A/mqdefault.jpg",
+      "datum": "2026-05-22T03:22:17Z",
+      "datum_de": "22.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "MandR Tutorials Deutsch",
+      "titel": "So installierst du Claude Code unter Windows 11",
+      "link": "https://www.youtube.com/watch?v=7nH0GhzQhr8",
+      "video_id": "7nH0GhzQhr8",
+      "thumbnail": "https://img.youtube.com/vi/7nH0GhzQhr8/mqdefault.jpg",
+      "datum": "2026-05-22T03:22:15Z",
+      "datum_de": "22.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "IchBinFabian",
+      "titel": "Das ist verrückt (aber DAS funktioniert in Deutschland nicht!) | Gemini Omni getestet",
+      "link": "https://www.youtube.com/watch?v=fFQrEHdZdJQ",
+      "video_id": "fFQrEHdZdJQ",
+      "thumbnail": "https://img.youtube.com/vi/fFQrEHdZdJQ/mqdefault.jpg",
+      "datum": "2026-05-21T16:30:38Z",
+      "datum_de": "21.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Streitgespräch: „Der Mensch soll abgeschafft werden!\" Wohin steuert uns KI wirklich?",
+      "link": "https://www.youtube.com/watch?v=vSwmJDMw4xY",
+      "video_id": "vSwmJDMw4xY",
+      "thumbnail": "https://img.youtube.com/vi/vSwmJDMw4xY/mqdefault.jpg",
+      "datum": "2026-05-21T15:15:00+00:00",
+      "datum_de": "21.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Google I/O: Programmieren mit Gemini 3.5 Flash?",
+      "link": "https://www.youtube.com/watch?v=ZIpkJjQy4Kg",
+      "video_id": "ZIpkJjQy4Kg",
+      "thumbnail": "https://img.youtube.com/vi/ZIpkJjQy4Kg/mqdefault.jpg",
+      "datum": "2026-05-21T14:22:08+00:00",
+      "datum_de": "21.05.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Akademie4KI",
       "titel": "Du nutzt Claude falsch! - 7 Prompting-Techniken für 10x bessere Ergebnisse",
@@ -80,76 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/kV1GpkVJXcg/mqdefault.jpg",
       "datum": "2026-05-20T13:29:55Z",
       "datum_de": "20.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "🤯 Andrej Karpathy wechselt zu Antropic #ainews",
-      "link": "https://www.youtube.com/shorts/8QGNZM2ejRY",
-      "video_id": "8QGNZM2ejRY",
-      "thumbnail": "https://img.youtube.com/vi/8QGNZM2ejRY/mqdefault.jpg",
-      "datum": "2026-05-19T19:08:57+00:00",
-      "datum_de": "19.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI-Forscher: Vergiss ChatGPT, DAS ist der nächste Durchbruch! Weltmodelle erklärt (Daniel Cremers)",
-      "link": "https://www.youtube.com/watch?v=FvSRHiwQN0w",
-      "video_id": "FvSRHiwQN0w",
-      "thumbnail": "https://img.youtube.com/vi/FvSRHiwQN0w/mqdefault.jpg",
-      "datum": "2026-05-19T15:15:29+00:00",
-      "datum_de": "19.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Büro-Kaizen digital",
-      "titel": "Copilot Cowork kann Aufgaben für Dich ausführen (so funktioniert&#39;s!)",
-      "link": "https://www.youtube.com/watch?v=n0nZgDjdiw0",
-      "video_id": "n0nZgDjdiw0",
-      "thumbnail": "https://img.youtube.com/vi/n0nZgDjdiw0/mqdefault.jpg",
-      "datum": "2026-05-19T14:01:05Z",
-      "datum_de": "19.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Hermes Agent und Grok machen etwas was Claude ausdrücklich verbietet (Full Tutorial)",
-      "link": "https://www.youtube.com/watch?v=R4XGyPTvRGQ",
-      "video_id": "R4XGyPTvRGQ",
-      "thumbnail": "https://img.youtube.com/vi/R4XGyPTvRGQ/mqdefault.jpg",
-      "datum": "2026-05-18T16:49:31Z",
-      "datum_de": "18.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Mit PAPERCLIP AI alle KI-AGENTEN steuern! Claude, Codex und Co.",
-      "link": "https://www.youtube.com/watch?v=kP53c_gjEm8",
-      "video_id": "kP53c_gjEm8",
-      "thumbnail": "https://img.youtube.com/vi/kP53c_gjEm8/mqdefault.jpg",
-      "datum": "2026-05-18T16:30:26+00:00",
-      "datum_de": "18.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Felicia Simon",
-      "titel": "Claude Design Tutorial 🎨 diese KI erstellt Webseiten &amp; Social Media Posts für dich",
-      "link": "https://www.youtube.com/watch?v=XKHoanh6jAg",
-      "video_id": "XKHoanh6jAg",
-      "thumbnail": "https://img.youtube.com/vi/XKHoanh6jAg/mqdefault.jpg",
-      "datum": "2026-05-18T14:45:03Z",
-      "datum_de": "18.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ButzigerRobin",
-      "titel": "ChatGPT macht meine Fortnite Thumbnails VIRAL?!",
-      "link": "https://www.youtube.com/watch?v=KArdTuW-fHY",
-      "video_id": "KArdTuW-fHY",
-      "thumbnail": "https://img.youtube.com/vi/KArdTuW-fHY/mqdefault.jpg",
-      "datum": "2026-05-18T13:00:24Z",
-      "datum_de": "18.05.2026",
       "quelle": "suche"
     }
   ]
