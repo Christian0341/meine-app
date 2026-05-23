@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-05-22T10:26:59.307300+00:00",
+  "aktualisiert": "2026-05-23T09:06:44.529043+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Neuland Pro",
+      "titel": "KRASSE KI NEWS: Google I/Os unfassbare Updates, CODEX starke Updates & Musk verliert gegen OpenAI",
+      "link": "https://www.youtube.com/watch?v=pq2GS-2bXg4",
+      "video_id": "pq2GS-2bXg4",
+      "thumbnail": "https://img.youtube.com/vi/pq2GS-2bXg4/mqdefault.jpg",
+      "datum": "2026-05-23T06:08:21+00:00",
+      "datum_de": "23.05.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Techi DE",
+      "titel": "Was ist Gemini Spark? Googles KI-Agent fur Gmail Docs und mehr Google IO 2026",
+      "link": "https://www.youtube.com/watch?v=jDjL5UDwr9U",
+      "video_id": "jDjL5UDwr9U",
+      "thumbnail": "https://img.youtube.com/vi/jDjL5UDwr9U/mqdefault.jpg",
+      "datum": "2026-05-22T12:53:37Z",
+      "datum_de": "22.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Latif Koc",
+      "titel": "5 KI-Tools, die deine YouTube-Videos effizienter und schneller machen",
+      "link": "https://www.youtube.com/watch?v=HoZaa7nzm10",
+      "video_id": "HoZaa7nzm10",
+      "thumbnail": "https://img.youtube.com/vi/HoZaa7nzm10/mqdefault.jpg",
+      "datum": "2026-05-22T11:06:04Z",
+      "datum_de": "22.05.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "Datenschutz ist kein KI-Verhinderer: Warum die DSGVO ein Verbündeter ist | Dr. Sebastian Kraska",
@@ -119,36 +149,6 @@
       "video_id": "iTD7JCUtSVk",
       "thumbnail": "https://img.youtube.com/vi/iTD7JCUtSVk/mqdefault.jpg",
       "datum": "2026-05-20T15:30:19Z",
-      "datum_de": "20.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "ENDLICH: Claude Code Agent Dashboard ist da! ",
-      "link": "https://www.youtube.com/watch?v=4ArIK1Glf9Q",
-      "video_id": "4ArIK1Glf9Q",
-      "thumbnail": "https://img.youtube.com/vi/4ArIK1Glf9Q/mqdefault.jpg",
-      "datum": "2026-05-20T14:15:01+00:00",
-      "datum_de": "20.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Julian Ivanov | KI-Automatisierung",
-      "titel": "Claude Code kostenlos nutzen: Unbegrenzt coden ohne starken PC",
-      "link": "https://www.youtube.com/watch?v=vx0-0RjwIsQ",
-      "video_id": "vx0-0RjwIsQ",
-      "thumbnail": "https://img.youtube.com/vi/vx0-0RjwIsQ/mqdefault.jpg",
-      "datum": "2026-05-20T13:41:18Z",
-      "datum_de": "20.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Gemini 3.5 Flash ist da - Das musst du jetzt wissen!",
-      "link": "https://www.youtube.com/watch?v=kV1GpkVJXcg",
-      "video_id": "kV1GpkVJXcg",
-      "thumbnail": "https://img.youtube.com/vi/kV1GpkVJXcg/mqdefault.jpg",
-      "datum": "2026-05-20T13:29:55Z",
       "datum_de": "20.05.2026",
       "quelle": "suche"
     }
