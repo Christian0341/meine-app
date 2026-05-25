@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-05-24T09:23:47.874546+00:00",
+  "aktualisiert": "2026-05-25T11:14:40.641858+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "OpenClaw ist TOT: Hermes Agent ist jetzt 10x besser!",
+      "link": "https://www.youtube.com/watch?v=zrnrwV7qKLQ",
+      "video_id": "zrnrwV7qKLQ",
+      "thumbnail": "https://img.youtube.com/vi/zrnrwV7qKLQ/mqdefault.jpg",
+      "datum": "2026-05-24T14:15:07+00:00",
+      "datum_de": "24.05.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "Gemini 3.5: DIESES Problem übersehen alle & DAS kann “Omni” wirklich! (+AI Act Update Interview)",
@@ -139,16 +149,6 @@
       "video_id": "k9NBQWSZet0",
       "thumbnail": "https://img.youtube.com/vi/k9NBQWSZet0/mqdefault.jpg",
       "datum": "2026-05-20T18:50:12Z",
-      "datum_de": "20.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "IchBinFabian",
-      "titel": "Gemini 3.5 Flash schlägt Claude Opus 4.7: Antigravity 2.0 ist da",
-      "link": "https://www.youtube.com/watch?v=wDMa_fa-Ci8",
-      "video_id": "wDMa_fa-Ci8",
-      "thumbnail": "https://img.youtube.com/vi/wDMa_fa-Ci8/mqdefault.jpg",
-      "datum": "2026-05-20T17:00:18Z",
       "datum_de": "20.05.2026",
       "quelle": "suche"
     }
