@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-05-27T10:58:29.306973+00:00",
+  "aktualisiert": "2026-05-28T10:59:01.442144+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Jonas Keil",
+      "titel": "IRRE: 6 Claude Code Tricks, die jeder Anfänger kennen sollte!",
+      "link": "https://www.youtube.com/watch?v=9TCovOQbx0I",
+      "video_id": "9TCovOQbx0I",
+      "thumbnail": "https://img.youtube.com/vi/9TCovOQbx0I/mqdefault.jpg",
+      "datum": "2026-05-27T19:19:53Z",
+      "datum_de": "27.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Jörg Kampers",
+      "titel": "YouTube Konkurrenzanalyse mit NotebookLM &amp; Gemini – Gratis-Workflow Schritt für Schritt",
+      "link": "https://www.youtube.com/watch?v=i38YMlNaXAg",
+      "video_id": "i38YMlNaXAg",
+      "thumbnail": "https://img.youtube.com/vi/i38YMlNaXAg/mqdefault.jpg",
+      "datum": "2026-05-27T17:30:05Z",
+      "datum_de": "27.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Antigravity 2.0 + Claude Code ist JETZT mein Lieblings Workflow",
+      "link": "https://www.youtube.com/watch?v=BytK6fd5gqI",
+      "video_id": "BytK6fd5gqI",
+      "thumbnail": "https://img.youtube.com/vi/BytK6fd5gqI/mqdefault.jpg",
+      "datum": "2026-05-27T14:15:02+00:00",
+      "datum_de": "27.05.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "IchBinFabian",
       "titel": "Niemand zeigt euch claude.com/plugins: DAS ändert alles für Cowork!",
@@ -119,36 +149,6 @@
       "video_id": "jDjL5UDwr9U",
       "thumbnail": "https://img.youtube.com/vi/jDjL5UDwr9U/mqdefault.jpg",
       "datum": "2026-05-22T12:53:37Z",
-      "datum_de": "22.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Latif Koc",
-      "titel": "Beste KI-Tools 2026: 5 Tools, die jeden YouTuber schneller machen",
-      "link": "https://www.youtube.com/watch?v=HoZaa7nzm10",
-      "video_id": "HoZaa7nzm10",
-      "thumbnail": "https://img.youtube.com/vi/HoZaa7nzm10/mqdefault.jpg",
-      "datum": "2026-05-22T11:06:04Z",
-      "datum_de": "22.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Datenschutz ist kein KI-Verhinderer: Warum die DSGVO ein Verbündeter ist | Dr. Sebastian Kraska",
-      "link": "https://www.youtube.com/watch?v=g6lUrCUqgL0",
-      "video_id": "g6lUrCUqgL0",
-      "thumbnail": "https://img.youtube.com/vi/g6lUrCUqgL0/mqdefault.jpg",
-      "datum": "2026-05-22T10:00:15+00:00",
-      "datum_de": "22.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "MandR Tutorials Deutsch",
-      "titel": "Claude Code MCP: So fügst du es zu Servern hinzu (2026): Vollständiges Tutorial",
-      "link": "https://www.youtube.com/watch?v=z6HJMz2Nx74",
-      "video_id": "z6HJMz2Nx74",
-      "thumbnail": "https://img.youtube.com/vi/z6HJMz2Nx74/mqdefault.jpg",
-      "datum": "2026-05-22T03:22:27Z",
       "datum_de": "22.05.2026",
       "quelle": "suche"
     }
