@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-05-29T10:51:24.214989+00:00",
+  "aktualisiert": "2026-05-30T09:23:49.868930+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Kontextkern",
+      "titel": "Claude Opus 4.8 erklärt: Was wirklich neu ist – und für wen es sich lohnt",
+      "link": "https://www.youtube.com/watch?v=d24d7SZ-xdI",
+      "video_id": "d24d7SZ-xdI",
+      "thumbnail": "https://img.youtube.com/vi/d24d7SZ-xdI/mqdefault.jpg",
+      "datum": "2026-05-29T19:30:16Z",
+      "datum_de": "29.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "IchBinFabian",
+      "titel": "Claude Opus 4.8 getestet: 4x weniger Fehler, aber Mythos ist das Monster",
+      "link": "https://www.youtube.com/watch?v=BN83TtTrOQo",
+      "video_id": "BN83TtTrOQo",
+      "thumbnail": "https://img.youtube.com/vi/BN83TtTrOQo/mqdefault.jpg",
+      "datum": "2026-05-29T18:30:19Z",
+      "datum_de": "29.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "The Node AI | AI Automation",
+      "titel": "Claude Opus 4.8: Was sich wirklich geändert hat — Ehrlichkeit, Effort Control &amp; Dynamic Workflows",
+      "link": "https://www.youtube.com/watch?v=zXI3S6VOIa8",
+      "video_id": "zXI3S6VOIa8",
+      "thumbnail": "https://img.youtube.com/vi/zXI3S6VOIa8/mqdefault.jpg",
+      "datum": "2026-05-29T12:14:05Z",
+      "datum_de": "29.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "Claude Opus 4.8 ist da, das musst du wissen!",
+      "link": "https://www.youtube.com/watch?v=rbJdBxriTlo",
+      "video_id": "rbJdBxriTlo",
+      "thumbnail": "https://img.youtube.com/vi/rbJdBxriTlo/mqdefault.jpg",
+      "datum": "2026-05-29T09:31:12Z",
+      "datum_de": "29.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "WorldofAI",
+      "titel": "Claude Opus 4.8: Best AI Model Ever? Powerful, Agentic, and Faster! (Fully Tested)",
+      "link": "https://www.youtube.com/watch?v=MkzUPtYjgBY",
+      "video_id": "MkzUPtYjgBY",
+      "thumbnail": "https://img.youtube.com/vi/MkzUPtYjgBY/mqdefault.jpg",
+      "datum": "2026-05-29T05:44:41Z",
+      "datum_de": "29.05.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christian Brandstötter",
       "titel": "Claude Cowork Geplante Aufgaben – KI auf Autopilot setzen (Scheduled Tasks Tutorial Deutsch)",
@@ -13,12 +63,12 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Julian Ivanov | KI-Automatisierung",
-      "titel": "Claude kann jetzt Hollywood-Filme generieren (Seedance 2.0)",
-      "link": "https://www.youtube.com/watch?v=ZvDnoABlFjw",
-      "video_id": "ZvDnoABlFjw",
-      "thumbnail": "https://img.youtube.com/vi/ZvDnoABlFjw/mqdefault.jpg",
-      "datum": "2026-05-28T17:24:57Z",
+      "kanal": "Niklas Briem | Einfach bauen, mit KI! ",
+      "titel": "Claude Opus 4.8 verändert ALLES!",
+      "link": "https://www.youtube.com/watch?v=95QOKxR9Mz8",
+      "video_id": "95QOKxR9Mz8",
+      "thumbnail": "https://img.youtube.com/vi/95QOKxR9Mz8/mqdefault.jpg",
+      "datum": "2026-05-28T20:26:46Z",
       "datum_de": "28.05.2026",
       "quelle": "suche"
     },
@@ -63,26 +113,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "MikesWorld",
-      "titel": "Claude Opus 4.8 Leak: Anthropic muss jetzt liefern 🔥",
-      "link": "https://www.youtube.com/watch?v=DLW-iQJRzYo",
-      "video_id": "DLW-iQJRzYo",
-      "thumbnail": "https://img.youtube.com/vi/DLW-iQJRzYo/mqdefault.jpg",
-      "datum": "2026-05-27T08:00:20Z",
-      "datum_de": "27.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "IchBinFabian",
-      "titel": "Niemand zeigt euch claude.com/plugins: DAS ändert alles für Cowork!",
-      "link": "https://www.youtube.com/watch?v=31LnGRboda0",
-      "video_id": "31LnGRboda0",
-      "thumbnail": "https://img.youtube.com/vi/31LnGRboda0/mqdefault.jpg",
-      "datum": "2026-05-26T16:45:33Z",
-      "datum_de": "26.05.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "ZELDOgiq",
       "titel": "Antigravity 2.0: Darum schlägt Googles Super App Claude Code",
       "link": "https://www.youtube.com/watch?v=5ndTFcb1Fqo",
@@ -113,16 +143,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Claude & KI | Reader Sentiment",
-      "titel": "Endlich Claude wird KOMPLETT autonom — das ändert ALLES 🤐",
-      "link": "https://www.youtube.com/watch?v=MhoSpsLQxaw",
-      "video_id": "MhoSpsLQxaw",
-      "thumbnail": "https://img.youtube.com/vi/MhoSpsLQxaw/mqdefault.jpg",
-      "datum": "2026-05-26T15:00:17Z",
-      "datum_de": "26.05.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "NANCY | Projects To Profit",
       "titel": "Claude Cowork Tutorial Deutsch – Excel, Word &amp; PDFs automatisch (2026)",
       "link": "https://www.youtube.com/watch?v=_zlSGbFttjc",
@@ -130,26 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/_zlSGbFttjc/mqdefault.jpg",
       "datum": "2026-05-26T14:36:23Z",
       "datum_de": "26.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Marc De Fanti",
-      "titel": "Hermes: Ist das der beste KI-Agent den es gibt?",
-      "link": "https://www.youtube.com/watch?v=saA2zCkLJVI",
-      "video_id": "saA2zCkLJVI",
-      "thumbnail": "https://img.youtube.com/vi/saA2zCkLJVI/mqdefault.jpg",
-      "datum": "2026-05-25T11:30:13Z",
-      "datum_de": "25.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Matthias E.",
-      "titel": "Wie du mit ChatGPT Online Geld verdienst als Anfänger (Deutsch I 2026)",
-      "link": "https://www.youtube.com/watch?v=FkYuReRI064",
-      "video_id": "FkYuReRI064",
-      "thumbnail": "https://img.youtube.com/vi/FkYuReRI064/mqdefault.jpg",
-      "datum": "2026-05-25T08:00:31Z",
-      "datum_de": "25.05.2026",
       "quelle": "suche"
     }
   ]
