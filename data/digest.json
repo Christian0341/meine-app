@@ -1,7 +1,7 @@
 {
-  "datum": "Freitag, 29. Mai 2026",
-  "datumISO": "2026-05-29",
-  "tagesthema": "Der KI-Markt erlebt einen intensiven Wettbewerb mit neuen Modellen und strategischen Weichenstellungen, während die Gesellschaft die Auswirkungen der KI reflektiert und die Regulierung weltweit voranschreitet.",
+  "datum": "Samstag, 30. Mai 2026",
+  "datumISO": "2026-05-30",
+  "tagesthema": "Der KI-Markt erlebt eine dynamische Phase mit neuen Modell-Releases und strategischen Machtkämpfen, während Regulierungsbehörden weltweit die Weichen stellen und die Gesellschaft sich mit den Auswirkungen von KI-generierten Inhalten auseinandersetzt.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -10,35 +10,35 @@
       "artikel": [
         {
           "titel": "Anthropic bringt „ehrlicheres“ Claude Opus 4.8 – und kündigt Mythos an",
-          "zusammenfassung": "Anthropic hat Claude Opus 4.8 veröffentlicht, das als 'ehrlicher' und leistungsfähiger gilt, und gleichzeitig das noch fortschrittlichere Modell Mythos angekündigt. Diese Entwicklung unterstreicht Anthropic's Fokus auf Sicherheit und Zuverlässigkeit in der KI-Entwicklung. Die Ankündigung von Mythos deutet auf einen schnellen Innovationszyklus hin.",
+          "zusammenfassung": "Anthropic hat mit Claude Opus 4.8 eine neue, verbesserte Version seines KI-Modells veröffentlicht, die sich durch höhere Ehrlichkeit und weniger Halluzinationen auszeichnen soll. Gleichzeitig kündigte das Unternehmen bereits das Nachfolgemodell \"Mythos\" an, das noch leistungsfähiger werden soll. Dies unterstreicht den schnellen Innovationszyklus im Bereich der Large Language Models.",
           "einordnung": "",
-          "quelle": "Heise Online",
+          "quelle": "heise online",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1RKU0tmVUV3RHNUZXdBWVozdmR6RHdHRjZjUTJpMldmSjdWdzNpRnZxRFJfQnptRzY5TG9IOGlzODloTmRfRG10TzAyS1NUdjNtUzFpQVl3cUNneGJud1Y2ZnVUamFPWXlYZFdsdTVrdEhId2Q1YUg0ZC1DdllFQllkMXFmLVN5aTlSMFZkTFByd3VidWVwR0xyVGJpV05uWWE0MlNTd3FGY2s?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
+          "titel": "Claude Opus 4.8: Warum das KI-Modell besonders ehrlich ist – und Anthropic es bald mit Mythos übertreffen will",
+          "zusammenfassung": "T3N beleuchtet die Besonderheiten von Claude Opus 4.8, insbesondere dessen verbesserte \"Ehrlichkeit\" bei der Beantwortung von Fragen und der Vermeidung von Falschinformationen. Der Artikel geht auch auf die strategische Ankündigung von \"Mythos\" ein, die zeigt, wie schnell Anthropic seine Modelle weiterentwickeln will, um im Wettbewerb zu bestehen.",
+          "einordnung": "",
+          "quelle": "T3N",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE11OGVWWjJ4OEpZYUZ6UWJvUjBURkVla2haOVNmRnM0Ykc5ZEFIbmszZ2NXd0pvOWlGV0UteHBmdENWdFFW?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
           "titel": "KI: Claude Opus 4.8 - schneller, ehrlicher, besser",
-          "zusammenfassung": "Golem.de bestätigt die Verbesserungen von Anthropic's Claude Opus 4.8, das sich durch höhere Geschwindigkeit, verbesserte Ehrlichkeit und eine insgesamt bessere Leistung auszeichnet. Das Modell setzt neue Maßstäbe in der Interaktion und Zuverlässigkeit von KI-Systemen. Die Fortschritte tragen dazu bei, Halluzinationen zu minimieren und präzisere Antworten zu liefern.",
+          "zusammenfassung": "Golem.de fasst die Kernverbesserungen von Claude Opus 4.8 zusammen, darunter eine höhere Geschwindigkeit, verbesserte Ehrlichkeit und eine insgesamt gesteigerte Leistungsfähigkeit. Das Update positioniert Claude als starken Konkurrenten zu anderen führenden KI-Modellen und betont die kontinuierliche Optimierung in der KI-Entwicklung.",
           "einordnung": "",
           "quelle": "Golem.de",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd0NHcE9SamxGbTV3WEtFdG9yLVdxelJ0aUViSXE3SU9oWXRWV1lSRTZ0MThxLTl1c2xMdnVLMGRRMG9CZ25DdzdzQkZ3eEV3NEhrU3lkR0ZXRkpxdDNZM0ZuNXB2dDhTTTB2Y0RiRmdQalc5M1pXejFUR2MtQlFoaW9hLW5ORklLQTRfazhhUUFvQQ?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Claude Opus 4.8: Warum das KI-Modell besonders ehrlich ist – und Anthropic es bald mit Mythos übertreffen will",
-          "zusammenfassung": "Dieser Artikel beleuchtet die Mechanismen, die Claude Opus 4.8 zu einem besonders 'ehrlichen' KI-Modell machen, indem es weniger anfällig für Halluzinationen und Voreingenommenheit ist. Anthropic plant bereits, diese Errungenschaften mit dem kommenden Mythos-Modell weiter zu übertreffen. Dies unterstreicht den Wettbewerb um vertrauenswürdigere KI-Systeme.",
+          "titel": "Google lockert Nutzungslimits für Gemini-Modelle nach Nutzer-Feedback",
+          "zusammenfassung": "Google hat auf das Feedback seiner Nutzer reagiert und die Nutzungslimits für seine Gemini-KI-Modelle gelockert. Diese Anpassung zielt darauf ab, die Zugänglichkeit und Attraktivität von Gemini zu erhöhen und die Akzeptanz bei einer breiteren Anwenderschaft zu fördern. Es zeigt die Reaktion der Unternehmen auf die Bedürfnisse der Community.",
           "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW9Pam85OTRUVWFsZGh2cms0Wmhaa2wxejhtS2hfMEI4TXdTZVVvLUtRX1F2MThESGJwMHdvNUxsMUJEX0VsQmpZOTZMTldJWDZXODlfc2xuVHd3N2JZekRUNHd2MVFfeDQ5X3FickNJY2RBVnkzUXpHY2ppemNWTU9Lcw?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlJUTDVXYk9kZ2pZeXNuQkdiUXE2MFNZT3o1VnlZRTdKQVpHRi0tdkM1WjBDMGx5bkxXY09DWU5HczQ1UE5qYzVBdnVzd29BLW5JdGV6Q3BXallBaEl6WnlUVElfRmJtTDF0Rjh6RlgwLVd2YTZ1M2I0MlY5VjRZRWhYS1EtNTlUMGRvLVctZGdINXoxRG1ocjFLdDN3WlRmWFRUWUI0ZW9LZlBNajJF?oc=5",
           "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Lassen Sie das Large Language Model \"sehen und ändern\": Genauigkeit der visuellen Segmentierung steigt um 9%",
-          "zusammenfassung": "Ein neuer Durchbruch ermöglicht es Large Language Models, visuelle Daten nicht nur zu 'sehen', sondern auch zu 'ändern', was die Genauigkeit der visuellen Segmentierung um 9% erhöht. Diese multimodale Fähigkeit überbrückt die Lücke zwischen Sprach- und Bildverständnis und eröffnet neue Anwendungsmöglichkeiten. Es ist ein bedeutender Schritt in der Entwicklung intelligenterer KI-Systeme.",
-          "einordnung": "",
-          "quelle": "eu.36kr.com",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YaUhmeEY5dlZyMUI5emRRRFpWREFaNnpzV1JObzZUMTBmamxRbnZTM2pkU0plZXFEUlVxbnJSWE10eV9kT1JWcXJpanpqQzZYWXFF?oc=5",
-          "sterne": "⭐⭐⭐"
         }
       ]
     },
@@ -48,8 +48,16 @@
       "fest": true,
       "artikel": [
         {
+          "titel": "KI bei Amazon, Meta, Uber und Co.: US-Konzerne rationieren Einsatz von künstlicher Intelligenz",
+          "zusammenfassung": "Große US-Konzerne wie Amazon, Meta und Uber sehen sich gezwungen, den Einsatz von Künstlicher Intelligenz zu rationieren. Dies deutet auf Engpässe bei Ressourcen wie Rechenleistung oder Fachkräften hin und könnte strategische Auswirkungen auf die Implementierung von KI in verschiedenen Geschäftsbereichen haben. Die Rationierung zeigt die hohen Kosten und Herausforderungen der KI-Skalierung.",
+          "einordnung": "",
+          "quelle": "Manager Magazin",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPckxlckhHVEt5aTZtTlE1dm5zN0pFbTI0Q1hCMk92TTNzeTktSjR5Qzh2Snp1X3l5UkhEYkNGay1WczFzQVRVaDlKcWRoTjFQZjVmTmJIWUhxSmxTWDlEMnJkcWdNVGR1c0lvcW1CcGFDZVBlNmluYTlGOTJJMkttMkJFZUdxTUxPOWUwcUJCSFVrUEhvYmc5dXVKYi12Z2pKWWVzd0F0bG9jWXoySGJGcFdOLVo3UXNxdDM0ZXR1Y0swZW5wdkdobF8yM3Q5eG56VjRmcXIzT2cwREg5UEdGMWxkY0x3OFBRSGZzXzhPMTMwY2J3SjVCRU9fcWVWc0pSV2VzektqbnJBdw?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
           "titel": "Künstliche Intelligenz: Anthropic wird höher bewertet als OpenAI",
-          "zusammenfassung": "Anthropic hat OpenAI in der Unternehmensbewertung überholt, was einen bemerkenswerten Wandel in der KI-Branche darstellt. Dieser Meilenstein unterstreicht das wachsende Vertrauen der Investoren in Anthropic's Ansatz der 'konstitutionellen KI' und deren Fokus auf Sicherheit und Ethik. Es signalisiert eine Verschiebung in der Wahrnehmung der führenden KI-Entwickler.",
+          "zusammenfassung": "Anthropic, der Entwickler der Claude-Modelle, hat eine höhere Bewertung erreicht als OpenAI, der Schöpfer von ChatGPT. Dies unterstreicht den intensiven Wettbewerb und die Dynamik im KI-Sektor, wo Investoren zunehmend auf verschiedene Akteure setzen. Die Bewertung spiegelt das Vertrauen in Anthropic's Technologie und Geschäftsstrategie wider.",
           "einordnung": "",
           "quelle": "DIE ZEIT",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHBiQzc3VXZYT2k0QzZKZDB4Q3BIT3NWTWtDSlFyOTNLRU5Ea2Y0aGhwTEIteVZrd2FxYnAyY3JBRE1MdVVxSGRySzUyaERmYTBBZmhLU3J5SmZXeTd6aEFNTVk3VTZuR0pZMkQ4di1FSzQ1SVk4X3VYT1JLTGk1YjBlMWw4MFRjTUpwb1dxX2RKODZhUlZiZEMzRTBPRVVxcE00NlV1dlVmWnhoM2ZtMw?oc=5",
@@ -57,18 +65,18 @@
         },
         {
           "titel": "Wie OpenAIs Vorstoß im Werbegeschäft jetzt Google unter Druck setzt",
-          "zusammenfassung": "OpenAI drängt verstärkt in das Werbegeschäft vor und setzt damit den langjährigen Marktführer Google unter erheblichen Druck. Dieser strategische Schritt von OpenAI zielt darauf ab, neue Einnahmequellen zu erschließen und Googles Dominanz im Werbemarkt herauszufordern. Es deutet auf eine Intensivierung des Wettbewerbs im gesamten Tech-Sektor hin.",
+          "zusammenfassung": "OpenAIs jüngster Vorstoß in das Werbegeschäft setzt den etablierten Marktführer Google unter erheblichen Druck. Durch die Expansion in diesen Bereich könnte OpenAI Googles dominierende Position herausfordern und neue Möglichkeiten für KI-gestützte Werbung schaffen. Dies markiert eine strategische Diversifizierung für OpenAI und eine potenzielle Verschiebung im digitalen Werbemarkt.",
           "einordnung": "",
           "quelle": "Business Insider Deutschland",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbi1qQVNpU2tfSkxCUVpXd3YwemxxWC1TdG01ckpmd0lXMFlFYV9xbElWX2gwdWpnNXN3TzZBcktGeWVJS1Q1SnZab1R3enYyUkNVM3Y0U3hydzZDblRYbG4xUXBFM0s0X3I5V2wyZEF5YmRRODJhelpzLS1CendyRDNkUVhjU3dvTDYwSTlrU2J6MnpoOWc3N1Y5YTVQWUpaTFdrOTAtRWR1bV9QdVRyY25zZFBRYkVpTG4tUFd4aFdHRXc?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Google: Gemini Omnis Videobearbeitung funktioniert nicht in Europa",
-          "zusammenfassung": "Googles Videobearbeitungsfunktion Gemini Omni ist in Europa nicht verfügbar, was wahrscheinlich auf regulatorische Hürden und Datenschutzbestimmungen der EU zurückzuführen ist. Dieser Fall verdeutlicht die Herausforderungen für globale Tech-Unternehmen, KI-Produkte weltweit einheitlich anzubieten. Regionale Gesetze beeinflussen maßgeblich die Produktstrategie.",
+          "titel": "Golfstaaten investieren in künstliche Intelligenz - doch das hat einen hohen Preis",
+          "zusammenfassung": "Die Golfstaaten investieren massiv in Künstliche Intelligenz, um ihre Wirtschaft zu diversifizieren und zukunftsfähig zu machen. Dieser strategische Schritt ist jedoch mit hohen Kosten verbunden, sowohl finanziell als auch potenziell gesellschaftlich. Der Artikel beleuchtet die Ambitionen und Herausforderungen dieser regionalen KI-Offensive.",
           "einordnung": "",
-          "quelle": "Golem.de",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZkZfSklUZE85OXktaE1abTIyZ1BEUG5Od2daREhqcFlITk1kN3FSYkF4Ym5xYlZKN0JYQ2RZamlRVE02V1RFelVjRzlxVEdPUGdYTXQ1TXJ4Rzk4ZVJONmpNQjJBY0s2bTFDcjVzN083RTlCeTdRUENzR3hqb1Q0S3VNZ1NRT3BQejhMZmswSldTSlpmRmpIQkRjbnNoMnN1ZnhabTl4YkdxZUU0?oc=5",
+          "quelle": "Deutschlandfunk",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMnVyRjRBSVNYcC1EV0x2cnoxQzNBWFpnLURabzJuSllxaU1TRFFOZjh0YlVjTmc4eFhveHRCNTRIek5DWlNFQ0t1bzNoRV9Tc2l3SG1rZ1lOYXU0MV9nRThuQzRRdVZqSUJHRXBQUEpWVGlUVjdIU2JLajg3c1dGb1RLcmtlWTVZc0hnaEQ2VQ?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -79,24 +87,24 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "KI-Regulierung: UN eröffnet Governance-Labor in Valencia",
-          "zusammenfassung": "Die Vereinten Nationen haben in Valencia ein neues Labor für KI-Governance eröffnet, um internationale Standards und Best Practices für die Regulierung künstlicher Intelligenz zu entwickeln. Diese Initiative unterstreicht die globale Anstrengung, ethische und gesellschaftliche Herausforderungen der KI proaktiv anzugehen. Es ist ein wichtiger Schritt zur Schaffung eines einheitlichen Rahmens.",
-          "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRU9RRlpQV3dlX0JuYTZjVkRNblZ1ZHFRS2NRQ3l1MVZlRGV2d3FReUNqSGQ5Wk01WjFueS1rOGUxOTlNa3M5SFNTMUdaT1N1TWtFcElNVFdsVU9ETDkyQ3FtWVA5emtuTTRjd1FjRThDR3dHR2tXUk4zUjA2NjRHWThGTF8zZzVNamE0?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
           "titel": "EU verschiebt zentrale Regelungen des AI Acts",
-          "zusammenfassung": "Die Europäische Union hat die Umsetzung zentraler Bestimmungen ihres AI Acts verschoben, was auf die Komplexität und anhaltenden Debatten bei der Finalisierung der umfassenden KI-Gesetzgebung hindeutet. Diese Verzögerung spiegelt die Herausforderungen wider, Innovation und eine robuste Regulierungsaufsicht in Einklang zu bringen. Die Feinjustierung der Regeln nimmt mehr Zeit in Anspruch als erwartet.",
+          "zusammenfassung": "Die Europäische Union hat die Implementierung zentraler Regelungen des AI Acts verschoben. Diese Verzögerung könnte auf komplexe technische oder politische Herausforderungen bei der Finalisierung und Durchsetzung der umfassenden KI-Gesetzgebung hindeuten. Die Verschiebung beeinflusst den Zeitplan für die europaweite KI-Regulierung.",
           "einordnung": "",
           "quelle": "Haufe. Intelligenz, die bewegt.",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUljTldYY3VsLU8wcHhDanBhTEhfeHhQMGpoRUlEUnRzcWkyZnlpRzc0aEpSTGlpbVFOSUdnUWZnMlM3dFdfNkk3NXo3TXlVU09OTHdmUlVmNXN4OV9TYVQzaWVGdThCT2pqZ1ctX25FSHZTQTdlY2hKZC1hM1hJMm1oX052UlJz?oc=5",
           "sterne": "⭐⭐"
         },
         {
+          "titel": "KI-Regulierung: UN eröffnet Governance-Labor in Valencia",
+          "zusammenfassung": "Die Vereinten Nationen haben in Valencia ein Governance-Labor für KI-Regulierung eröffnet. Diese Initiative zielt darauf ab, internationale Standards und Best Practices für den verantwortungsvollen Umgang mit Künstlicher Intelligenz zu entwickeln. Das Labor soll eine Plattform für den globalen Dialog und die Zusammenarbeit bei der Gestaltung zukünftiger KI-Politik bieten.",
+          "einordnung": "",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRU9RRlpQV3dlX0JuYTZjVkRNblZ1ZHFRS2NRQ3l1MVZlRGV2d3FReUNqSGQ5Wk01WjFueS1rOGUxOTlNa3M5SFNTMUdaT1N1TWtFcElNVFdsVU9ETDkyQ3FtWVA5emtuTTRjd1FjRThDR3dHR2tXUk4zUjA2NjRHWThGTF8zZzVNamE0?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
           "titel": "KI-Regulierung: EU schärft Transparenzregeln ab Dezember 2026",
-          "zusammenfassung": "Die EU wird ab Dezember 2026 die Transparenzregeln für KI-Systeme verschärfen, um die Rechenschaftspflicht zu erhöhen und das Nutzerverständnis für KI-Entscheidungsprozesse zu verbessern. Dieser Schritt ist Teil des kontinuierlichen Bestrebens, eine ethischere Governance und einen stärkeren Verbraucherschutz im Bereich der KI zu gewährleisten. Unternehmen müssen sich auf strengere Offenlegungspflichten einstellen.",
+          "zusammenfassung": "Die Europäische Union wird ab Dezember 2026 strengere Transparenzregeln für Künstliche Intelligenz einführen. Diese Maßnahmen sollen sicherstellen, dass KI-Systeme nachvollziehbar und erklärbar sind, um Vertrauen und Rechenschaftspflicht zu fördern. Die Verschärfung der Regeln ist ein weiterer Schritt zur umfassenden Regulierung von KI in Europa.",
           "einordnung": "",
           "quelle": "Börse Express",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2dJNExHNzNTdjBsaWVFS096OS1MQlNyZE13MkxUMjNxQWhJWDFhWVk5WUVrOFpTS3NseHZkQWJsUTVabWlfanhrRDA3VzRiandNWndZa3p5RTk2d2RoMXhrTlAyQzdzTjQ3WFF6RlJMVURRMEJ0Sl9ZbnFUX1FFMUZRa1VQTGpSNHBfWGFYa01oVjNwaHYybng2RE1Wb1ZQSFFzWEZydEJzVGhCMGtqWTBCWQ?oc=5",
@@ -110,103 +118,95 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Studie: Nach einer Woche halten wir KI-Ideen für unsere eigenen",
-          "zusammenfassung": "Eine aktuelle Studie zeigt, dass Menschen KI-generierte Ideen bereits nach einer Woche als ihre eigenen ansehen, was Fragen der Originalität und Zuschreibung aufwirft. Dieses Phänomen deutet auf eine Verschmelzung menschlicher und künstlicher Kreativität hin und hat Implikationen für geistiges Eigentum. Die Studie beleuchtet die psychologischen Auswirkungen der KI-Nutzung.",
+          "titel": "Was sind große Sprachmodelle (LLM)?",
+          "zusammenfassung": "Dieser Artikel von Databricks bietet eine grundlegende Erklärung großer Sprachmodelle (LLM), ihrer Funktionsweise und ihrer Bedeutung. Er dient als informative Ressource für das Verständnis der zugrunde liegenden Technologien, die viele der aktuellen KI-Anwendungen antreiben. Es ist eine wichtige wissenschaftliche und technische Einordnung.",
           "einordnung": "",
-          "quelle": "BASIC thinking",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNGNIRVBpb090T2FGRTd2ZE5lZ3RRdURCUTZzSEYyRU5ndVNIdy1PbnI4R0M4aURKWGxFRFl6YWJDU2lFZWYyazR4d0t0cTkzeEFGaFJKSXFPcmV1NGxUVDRSbmhBWjlqN2czclNDdzF1WmFPeHFmbmVKR19Gdw?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Adversarial Attacks on Large Language Models: The Prompt Injection Approach",
-          "zusammenfassung": "Dieser Forschungsartikel untersucht 'Adversarial Attacks' auf Large Language Models (LLMs) mittels Prompt Injection, die Schwachstellen in den Modellen aufzeigen. Solche Angriffe können zu unerwünschtem oder schädlichem Verhalten führen und unterstreichen die Notwendigkeit robuster Sicherheitsmaßnahmen in der KI-Entwicklung. Die Studie trägt zum Verständnis der Resilienz von LLMs bei.",
-          "einordnung": "",
-          "quelle": "springerprofessional.de",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcTFCUHNRemU4SlNJQUlhT0ZEWG5VV283bmpNX0l3cTVyc2luUWs5QmFnMHV1X2JyY0drNWdkcnZhTWtya25IN3d1SXVHR3FZV3hlaGF2OEVmU1RIbFdtMWd0alBGN0ZiZ0VVSmxwYzJrbUhsb2FVZXRHNHE5eW9BVnpOWUlzNXpSMkdTZndVbkFucHZjMmZfQkw3d0p4VWZYWGZHMC05dnlpUC1GZmc?oc=5",
-          "sterne": "⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "🗣️",
-      "titel": "KI & Gesellschaft",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "Wie sich die KI-Angst in China Bahn bricht",
-          "zusammenfassung": "In China wächst die Angst vor den Auswirkungen künstlicher Intelligenz auf Arbeitsplätze und die soziale Struktur. Die Regierung steht vor der Herausforderung, KI-Innovationen zu fördern und gleichzeitig die öffentliche Besorgnis zu managen. Diese Entwicklung zeigt, wie globale Gesellschaften mit den tiefgreifenden Veränderungen durch KI ringen.",
-          "einordnung": "",
-          "quelle": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZm5rbnpkWEtCc0ZsVTlBa3RZc25wT0FMTzJiWEk1d0pVUmdTeHZEc0NGX0dLSkdTZzhFTnVHOWdNNjEwaGp3SkE4d3Vka0haUG9DSzV2VHpLZ2pDLUlsLUt5YzdNbXIyZUJCOHNfbHBjRU42czlJNWlsc2oyLVdXcTJ4S2plTW5KWXctZWZHWk1pQms?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Darren Cullen gegen Open AI: Fakewerbung als Kritik an ChatGPT",
-          "zusammenfassung": "Der Künstler Darren Cullen nutzt 'Fakewerbung', um ChatGPT kritisch zu hinterfragen und auf satirische Weise auf wahrgenommene Mängel und ethische Bedenken hinzuweisen. Seine Kampagne dient als künstlerischer Kommentar zur schnellen Verbreitung von KI-Technologien und regt zur öffentlichen Diskussion an. Dies ist ein Beispiel für die gesellschaftliche Auseinandersetzung mit KI.",
-          "einordnung": "",
-          "quelle": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV0cxQ2swYUpkSndVbFdnN1NfZ0l5dDA4bmRsRUJYQmxKSnh5Z3VLaEFTOFU1aWxaYlZqWEZlZjVFTWx0MzkzXzBHU25oclppSl9WWnlWN1BLSUZDODlCZEYxS1VCQXJFMEtBdXhGZVhvY0c0V0Z1aFVnOFdRQ3J6QXJqMVpYUFZtYmozQ1VXV1NZYmlwSWsyTlE2UmJhSEpfMV9TVjJpM3FfUjlTVXJhczE3clU3VDNGUDdhNW1LNUtsdw?oc=5",
+          "quelle": "Databricks",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUEZqZTJ5RTktZHViZVpiSFZjbHcwZUU1d25KX1JsU3pPODlPNlpLMXY3cDRMV1RFUHlzc1EwWFpLOVhQZTNxQTZWcVY4VmF0SkhuOThtUmtGc2NhTW1zNktReGZETG9jVjdUNjNFblM2cEE?oc=5",
           "sterne": "⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "📈",
-      "titel": "KI-Markt & Strategische Weichenstellungen",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "Bericht: Apple setzt zur WWDC voll auf lokale KI-Modelle",
-          "zusammenfassung": "Apple konzentriert sich Berichten zufolge bei seiner bevorstehenden WWDC stark auf lokale KI-Modelle, die direkt auf dem Gerät laufen. Diese Strategie betont Datenschutz und Leistung, indem KI-Aufgaben dezentral verarbeitet werden. Apple positioniert sich damit als Alternative zu cloudbasierten KI-Lösungen und setzt einen wichtigen strategischen Akzent im Wettbewerb.",
-          "einordnung": "",
-          "quelle": "Heise Online",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMEh1WXNqa3paQ29RQTNEdm1PYzhKU01nS2FUYTlRZ2dXSk43RkkzRWtJMHJJMEtxZlRpandlbUJDVW5Gd2VMOWlfNzJrU2k5SFRGUlk0WUk3MGtaUUhLc0cwdkJOR3NubE9HenZ5XzEyTEE3R1hfRXR0RW92ek5FQTJpRHJnbjRCb3hPNzVJdmNJSXZGTEgtMzl5aw?oc=5",
-          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "„Größtes Android-Update seit Jahren”: Doch die Google-Smartphones sind dafür ausgelegt",
-          "zusammenfassung": "Google bereitet ein umfassendes Android-Update vor, das als das größte seit Jahren gilt und voraussichtlich tiefgreifende KI-Integrationen mit sich bringt. Die Google-Smartphones sind bereits für diese Neuerungen optimiert, was eine reibungslose Implementierung verspricht. Dies zeigt Googles strategische Ausrichtung auf KI-gestützte mobile Erlebnisse und den Wettbewerb im Smartphone-Markt.",
+          "titel": "Large Language Models im Härtetest: Wer schlägt ChatGPT, Claude & Co.?",
+          "zusammenfassung": "Das Industriemagazin unterzieht verschiedene Large Language Models einem Härtetest, um ihre Leistungsfähigkeit und Grenzen zu vergleichen. Der Artikel analysiert, welche Modelle in verschiedenen Anwendungsbereichen überzeugen und wo noch Entwicklungsbedarf besteht. Dies liefert wertvolle Einblicke in die praktische Leistungsfähigkeit aktueller KI-Modelle.",
           "einordnung": "",
-          "quelle": "CHIP",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObjctU25KWFVMMmc4S1l6VDBGSUlzdDBzeExtWmZBN2gxM2I1bjBVc0ZZWnF6M1ZCNG96SnV5VVBBdzFiN1EyaE5GMU93WU9EZ1dRenB6cGFqRVZsYzQ3S2hGRUt0NUJNM0tvbzhBMVpZZkozalpYVjk0V2dibGl1dWtxUU9ickNJdEVOZnh5TkNQTzJhZWJaOEtDN3hOTGlVS29FUUdVaWhSS2twSVA1TWVsZlUzQmFrZVVmcHphNmhaOWdMbXlRQm53MWFMVUx6Ym50MzJiX1RFRUFrNElKdjVYSU10X3VRV2h3RWtMeGhzQ2FLN0FmS1R3c1VRbjc4eTk1SURpNHY?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Mit europäischer KI arbeiten: So gut funktioniert es ohne ChatGPT oder Gemini",
-          "zusammenfassung": "Der Artikel untersucht die Leistungsfähigkeit und Anwendbarkeit europäischer KI-Lösungen als Alternativen zu dominanten Modellen wie ChatGPT oder Gemini. Er bewertet, wie gut diese regionalen Angebote für Nutzer funktionieren, die Wert auf Datenschutz oder lokale Compliance legen. Dies spiegelt den Wunsch nach Diversifizierung und Souveränität im globalen KI-Markt wider.",
-          "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9CcFA4TnZXVFZicUNFWGF1bGRTcUt3YWhqLVlqLXVHUHpZWnM3aEpWd2hxRGVmX0V5ZWFpMENPbXVRaVh0?oc=5",
+          "quelle": "Industriemagazin",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREhUb0xkNkJCZENtTWdMVUxzU2pNbUh0TklJVXhRM3lFUHpxM1dmcE1LellQdVJCLVlIWlZ6QTNZcWpaNW0xZkJOcEhxbGFWbERPWFJmUExVa2pobVgxeWZKMFBza0JWMDktUEhGcU5rUmVFYUR2STlvZ0NWX3ZZZ19Del9KYzFJVWY0bGlsRkx0QTQ4VXVRa0lfQWp5OVFv?oc=5",
           "sterne": "⭐⭐"
         },
         {
           "titel": "Large Language Models: 12 GPT-Alternativen",
-          "zusammenfassung": "Computerwoche stellt eine umfassende Liste von zwölf Alternativen zu GPT vor, die einen Überblick über die vielfältige Landschaft der Large Language Models auf dem Markt bietet. Dieser Leitfaden hilft Nutzern, Optionen jenseits der OpenAI-Angebote zu erkunden und zeigt die Breite des Wettbewerbs. Die Verfügbarkeit verschiedener Modelle fördert Innovation und Spezialisierung.",
+          "zusammenfassung": "Die Computerwoche stellt 12 Alternativen zu GPT vor, die auf dem Markt verfügbar sind und unterschiedliche Stärken und Schwächen aufweisen. Der Artikel bietet einen Überblick über die Vielfalt der LLM-Landschaft und hilft Unternehmen sowie Entwicklern bei der Auswahl des passenden Modells für ihre spezifischen Anforderungen.",
           "einordnung": "",
           "quelle": "Computerwoche",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9jamtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
           "sterne": "⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "titel": "KI & Gesellschaftliche Auswirkungen",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "Giorgia Meloni: KI-Fotos und Deepfakes aus Sri Lanka",
+          "zusammenfassung": "Der Artikel berichtet über KI-generierte Fotos und Deepfakes der italienischen Ministerpräsidentin Giorgia Meloni, die ihren Ursprung in Sri Lanka haben. Dieser Vorfall verdeutlicht die globale Reichweite und die potenziellen Gefahren von Deepfake-Technologien für die öffentliche Wahrnehmung und politische Figuren. Es unterstreicht die Notwendigkeit von Medienkompetenz und technologischen Schutzmaßnahmen.",
+          "einordnung": "",
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX21KaU5BUEE3bkZlX1dBWjQtN0ozZGF1WlZYTlNwZ2M5bXVLT2NUSklBTTdweHdib3IyNFVkel9KVGVKRWNjTkk1QzdRVURCT3hTa1dBWkFMRjFGOHVhdVNUU0kzTmhIRFpOUkJ1U1dGZlZ6am9aTW1kQjRQbk1MUnhPVjdIQU9pVUZUMFUyMl9KjFWS0ZMcG5wQzFNN3lUM2RPQ0loaThzRlJ2R3Q0MFFBVWRpaFdaYmRhR0dRa0hYLXJuUVBDNzEzLWxkdVhUWFZWc1FGVQ?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Darren Cullen gegen Open AI: Fakewerbung als Kritik an ChatGPT",
+          "zusammenfassung": "Der Künstler Darren Cullen nutzt \"Fakewerbung\", um Kritik an ChatGPT und den Auswirkungen von KI auf die Gesellschaft zu üben. Seine satirischen Arbeiten thematisieren die potenziellen Risiken und ethischen Fragen, die mit der Verbreitung von KI-Modellen verbunden sind. Dies ist ein Beispiel für künstlerische Auseinandersetzung mit den gesellschaftlichen Implikationen von KI.",
+          "einordnung": "",
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV0cxQ2swYUpkSndVbFdnN1NfZ0l5dDA4bmRsRUJYQmxKSnh5Z3VLaEFTOFU1aWxaYlZqWEZlZjVFTWx0MzkzXzBHU25oclppSl9WWnlWN1BLSUZDODlCZEYxS1VCQXJFMEtBdXhGZVhvY0c0V0Z1aFVnOFdRQ3J6QXJqMVpYUFZtYmozQ1VXV1NZYmlwSWsyTlE2UmJhSEpfMV9TVjJpM3FfUjlTVXJhczE3clU3VDNGUDdhNWxLNUtsdw?oc=5",
+          "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "titel": "KI & Technologische Integration",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "„Größtes Android-Update seit Jahren”: Viele Smartphones können Funktionen nicht nutzen",
+          "zusammenfassung": "Ein angeblich \"größtes Android-Update seit Jahren\" bringt neue Funktionen mit sich, die jedoch nicht von allen Smartphones genutzt werden können. Es ist wahrscheinlich, dass viele dieser neuen Funktionen auf fortschrittliche KI-Fähigkeiten oder spezielle Hardware angewiesen sind. Dies zeigt die Herausforderungen bei der breiten Integration von KI in bestehende Technologie-Ökosysteme.",
+          "einordnung": "",
+          "quelle": "CHIP",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWHR3dmRERTNJaU91VVJjaFo4X3JCU2NlZEpERXBPRjhJVl9TaWpLQVY4YnRncVc3OVRvQ21rU2RxcjdBcGt2ejZXRWhGY2E1RlViQURDTUlxZGt0c3F2ejJXanFleUpBSXBvWS02d0s4WHFBUGM4a0NHVmU2bWJmZ0FTYktGS0lyVFFrYlZRbTZIZjF2d0FsM0lHdENPeF9sRTFuajdFYTQ3WnZ2eWFycXZMYWZPQklfa2pVN0ZWclMyUmg0ZWV5VFVSR3Vpc2xhOU1NeC1WTzRMOVljb0tyaHlQYmF0Y1dxTEVKVTc0LXlqTXc5eTlqenJrLVU0eDNrSzdUVkdEbmw?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Mit europäischer KI arbeiten: So gut funktioniert es ohne ChatGPT oder Gemini",
+          "zusammenfassung": "Der Artikel untersucht, wie gut europäische KI-Lösungen als Alternativen zu dominanten Modellen wie ChatGPT oder Gemini funktionieren. Er beleuchtet die Machbarkeit und die Vorteile der Nutzung lokaler oder datenschutzfreundlicherer KI-Angebote. Dies ist relevant für Unternehmen und Nutzer, die Wert auf Souveränität und spezifische Anforderungen legen.",
+          "einordnung": "",
+          "quelle": "T3N",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9CcFA4TnZXVFZicUNFWGF1bGRTcUt3YWhqLVlqLXVHUHpZWnM3aEpWd2hxRGVmX0V5ZWFpMENPbXVRaVh0?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-05-29T09:30:19.045Z",
+  "generiert_um": "2026-05-30T08:13:22.437Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
       "desc": "Mo, Mi, Fr · mit The Decoder",
-      "episode": "KI-Update kompakt: Klagen per KI, Wayback Machine, Wissenschaftszitate, KI-Storytelling",
-      "datum": "27.5.2026",
-      "dauer": "22 Min.",
+      "episode": "KI-Update Deep-Dive: Künstliche Intelligenz als Security-Albtraum",
+      "datum": "29.5.2026",
+      "dauer": "28 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/f1/22/9bf12286-42a8-2765-8a9d-91a07df6b535/mza_1407979254960059607.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp"
     },
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "Schrödingers IPO | Papst + Anthropic | 1997 oder 2000? #565",
-      "datum": "26.5.2026",
-      "dauer": "70 Min.",
+      "episode": "  Anthropic mit 500% NRR | Token-Maxing bald vorbei? | Stark-Drohnen auf €2.5 Mrd. Bewertung #566 ",
+      "datum": "29.5.2026",
+      "dauer": "81 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
