@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-05-30T09:23:49.868930+00:00",
+  "aktualisiert": "2026-05-31T09:48:41.601819+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "Claude Opus 4.8: DIESE 7 Dinge ändern jetzt ALLES! (+ KI-Weltmodell Interview)",
+      "link": "https://www.youtube.com/watch?v=lHU6jFHWAkM",
+      "video_id": "lHU6jFHWAkM",
+      "thumbnail": "https://img.youtube.com/vi/lHU6jFHWAkM/mqdefault.jpg",
+      "datum": "2026-05-31T08:15:31+00:00",
+      "datum_de": "31.05.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Kontextkern",
       "titel": "Claude Opus 4.8 erklärt: Was wirklich neu ist – und für wen es sich lohnt",
@@ -43,16 +53,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "WorldofAI",
-      "titel": "Claude Opus 4.8: Best AI Model Ever? Powerful, Agentic, and Faster! (Fully Tested)",
-      "link": "https://www.youtube.com/watch?v=MkzUPtYjgBY",
-      "video_id": "MkzUPtYjgBY",
-      "thumbnail": "https://img.youtube.com/vi/MkzUPtYjgBY/mqdefault.jpg",
-      "datum": "2026-05-29T05:44:41Z",
-      "datum_de": "29.05.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Christian Brandstötter",
       "titel": "Claude Cowork Geplante Aufgaben – KI auf Autopilot setzen (Scheduled Tasks Tutorial Deutsch)",
       "link": "https://www.youtube.com/watch?v=YrUnK_qQoe0",
@@ -69,6 +69,16 @@
       "video_id": "95QOKxR9Mz8",
       "thumbnail": "https://img.youtube.com/vi/95QOKxR9Mz8/mqdefault.jpg",
       "datum": "2026-05-28T20:26:46Z",
+      "datum_de": "28.05.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "Qwen 3.7 schlägt Claude, Google baut Apps gratis - KI News",
+      "link": "https://www.youtube.com/watch?v=neXj90WHqv8",
+      "video_id": "neXj90WHqv8",
+      "thumbnail": "https://img.youtube.com/vi/neXj90WHqv8/mqdefault.jpg",
+      "datum": "2026-05-28T15:57:28Z",
       "datum_de": "28.05.2026",
       "quelle": "suche"
     },
@@ -141,16 +151,6 @@
       "datum": "2026-05-26T15:15:18+00:00",
       "datum_de": "26.05.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "NANCY | Projects To Profit",
-      "titel": "Claude Cowork Tutorial Deutsch – Excel, Word &amp; PDFs automatisch (2026)",
-      "link": "https://www.youtube.com/watch?v=_zlSGbFttjc",
-      "video_id": "_zlSGbFttjc",
-      "thumbnail": "https://img.youtube.com/vi/_zlSGbFttjc/mqdefault.jpg",
-      "datum": "2026-05-26T14:36:23Z",
-      "datum_de": "26.05.2026",
-      "quelle": "suche"
     }
   ]
 }
