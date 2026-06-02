@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-06-01T12:42:55.005515+00:00",
+  "aktualisiert": "2026-06-02T11:23:12.233005+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "ProduktWahrheit",
+      "titel": "🤯 Die meisten nutzen Claude falsch – diese 8 Skills ändern alles",
+      "link": "https://www.youtube.com/watch?v=D1xr7ImYQwQ",
+      "video_id": "D1xr7ImYQwQ",
+      "thumbnail": "https://img.youtube.com/vi/D1xr7ImYQwQ/mqdefault.jpg",
+      "datum": "2026-06-02T10:59:34Z",
+      "datum_de": "02.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "GainDrop HQ",
+      "titel": "Ich nutze 7 KI-Tools – und genau das ist das Problem",
+      "link": "https://www.youtube.com/watch?v=jqlqDDZrdxc",
+      "video_id": "jqlqDDZrdxc",
+      "thumbnail": "https://img.youtube.com/vi/jqlqDDZrdxc/mqdefault.jpg",
+      "datum": "2026-06-01T13:47:23Z",
+      "datum_de": "01.06.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christian Brandstötter",
       "titel": "Claude Cowork Dispatch – Desktop-KI vom Smartphone steuern (Fernzugriff Tutorial Deutsch)",
@@ -53,6 +73,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "Marc De Fanti",
+      "titel": "OpenCode + Ollama: KI-Coding für 0 Euro im Monat (Setup)",
+      "link": "https://www.youtube.com/watch?v=NgDibn4zL_4",
+      "video_id": "NgDibn4zL_4",
+      "thumbnail": "https://img.youtube.com/vi/NgDibn4zL_4/mqdefault.jpg",
+      "datum": "2026-05-30T16:30:21Z",
+      "datum_de": "30.05.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Punktzehn",
       "titel": "Gemini Omni: Die besten Use Cases!",
       "link": "https://www.youtube.com/watch?v=0Kp1iJXS7JY",
@@ -83,42 +113,12 @@
       "quelle": "suche"
     },
     {
-      "kanal": "The Node AI | AI Automation",
-      "titel": "Claude Opus 4.8: Was sich wirklich geändert hat — Ehrlichkeit, Effort Control &amp; Dynamic Workflows",
-      "link": "https://www.youtube.com/watch?v=zXI3S6VOIa8",
-      "video_id": "zXI3S6VOIa8",
-      "thumbnail": "https://img.youtube.com/vi/zXI3S6VOIa8/mqdefault.jpg",
-      "datum": "2026-05-29T12:14:05Z",
-      "datum_de": "29.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Claude Opus 4.8 ist da, das musst du wissen!",
-      "link": "https://www.youtube.com/watch?v=rbJdBxriTlo",
-      "video_id": "rbJdBxriTlo",
-      "thumbnail": "https://img.youtube.com/vi/rbJdBxriTlo/mqdefault.jpg",
-      "datum": "2026-05-29T09:31:12Z",
-      "datum_de": "29.05.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Christian Brandstötter",
       "titel": "Claude Cowork Geplante Aufgaben – KI auf Autopilot setzen (Scheduled Tasks Tutorial Deutsch)",
       "link": "https://www.youtube.com/watch?v=YrUnK_qQoe0",
       "video_id": "YrUnK_qQoe0",
       "thumbnail": "https://img.youtube.com/vi/YrUnK_qQoe0/mqdefault.jpg",
       "datum": "2026-05-28T22:00:07Z",
-      "datum_de": "28.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Niklas Briem | Einfach bauen, mit KI! ",
-      "titel": "Claude Opus 4.8 verändert ALLES!",
-      "link": "https://www.youtube.com/watch?v=95QOKxR9Mz8",
-      "video_id": "95QOKxR9Mz8",
-      "thumbnail": "https://img.youtube.com/vi/95QOKxR9Mz8/mqdefault.jpg",
-      "datum": "2026-05-28T20:26:46Z",
       "datum_de": "28.05.2026",
       "quelle": "suche"
     },
@@ -144,7 +144,7 @@
     },
     {
       "kanal": "Jonas Keil",
-      "titel": "IRRE: 6 Claude Code Tricks, die jeder Anfänger kennen sollte!",
+      "titel": "6 Claude Code Tricks, die Beginner zu Profis machen!",
       "link": "https://www.youtube.com/watch?v=9TCovOQbx0I",
       "video_id": "9TCovOQbx0I",
       "thumbnail": "https://img.youtube.com/vi/9TCovOQbx0I/mqdefault.jpg",
