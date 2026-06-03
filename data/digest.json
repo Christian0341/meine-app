@@ -1,7 +1,7 @@
 {
-  "datum": "Dienstag, 2. Juni 2026",
-  "datumISO": "2026-06-02",
-  "tagesthema": "Der KI-Markt ist in Bewegung: Während Anthropic seinen Mega-Börsengang vorbereitet und Google Gemini Nutzerrekorde feiert, sehen sich KI-Entwickler mit rechtlichen Klagen und ethischen Fragen konfrontiert, die die Regulierung in Europa vor Herausforderungen stellen.",
+  "datum": "Mittwoch, 3. Juni 2026",
+  "datumISO": "2026-06-03",
+  "tagesthema": "US-Politik sichert sich exklusiven KI-Zugang, während Anthropic an die Börse drängt und neue Regulierungen sowie rechtliche Schritte die Zukunft der Technologie formen.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,35 +9,27 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Google-KI: Gemini-App knackt 900-Millionen-Nutzer-Marke",
-          "zusammenfassung": "Die Gemini-App von Google hat die beeindruckende Marke von 900 Millionen Nutzern überschritten. Dieser Meilenstein unterstreicht die massive Akzeptanz und Reichweite von Googles KI-Angeboten im globalen Markt. Der Erfolg von Gemini festigt Googles Position als einer der führenden Akteure im Bereich der generativen KI.",
-          "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjVqd2tZRTlNR2pzcFd5bHNUdjFmd1RCem5Yc0VyLWNVLXlsZzYwUmFpUDVkNzJ6Wi0tcF9TdTJESlNRRnAyU0dTbGZfUTNxZVJmWkNhTUREdEo0dXItZ0RFRVh6MFNVZnlsTHM1bExrVElYay1mbmt0QkE1RXEtM0NrbHhhM1Zs?oc=1",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Apple integriert Google Gemini und Nvidia Confidential Computing für neue Siri-Generation",
-          "zusammenfassung": "Apple plant, Google Gemini in die nächste Generation von Siri zu integrieren und setzt dabei auf Nvidia Confidential Computing. Diese strategische Partnerschaft deutet auf eine signifikante Verbesserung der KI-Fähigkeiten von Siri hin. Die Integration von Gemini könnte Siri intelligenter und leistungsfähiger machen, während Nvidia für den Datenschutz sorgt.",
-          "einordnung": "",
-          "quelle": "it-daily",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GQWpIM1RqbzBXRVUwSU4wSVJwY2YzSnItTWhkTU90LWxQM0NSZTN6WmZvdUZybXU4cHp1T2pNYkpFV0VMWmFOVXEtWXFQemtRLWQ5RlR5ZTBUZlpZN2JMYU5MQjh3VE1XMlhRRE9TUmpTVVU?oc=1",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Google Gemini: KI-App wird agentisch und erhält Daily-Brief-Funktion",
-          "zusammenfassung": "Google Gemini wird um agentische Funktionen erweitert und erhält eine 'Daily-Brief'-Funktion. Diese Neuerungen ermöglichen es der KI, proaktiver zu agieren und Nutzern personalisierte Zusammenfassungen und Aufgaben anzubieten. Die Entwicklung hin zu agentischen KIs markiert einen wichtigen Schritt in der Evolution von KI-Assistenten.",
+          "titel": "KI-Update: Google Beam, GPT-5.4, Wahnbeziehung zu Gemini, KI-Fazit vom MWC",
+          "zusammenfassung": "Ein umfassendes KI-Update beleuchtet neue Entwicklungen wie Google Beam und das erwartete GPT-5.4. Es werden auch kritische Aspekte wie die 'Wahnbeziehung' zu Gemini diskutiert und ein Fazit der KI-Trends vom Mobile World Congress gezogen. Der Artikel bietet einen Überblick über aktuelle Produktinnovationen und Herausforderungen im KI-Bereich.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLVlOUndJUjhHUFJUcl9tZ1ViZjRBXzlHQi1iN2JFQ1RSVDBsV2JYb2g4QWo0NzBFb3A4ZkNiS0k1U3VIMUMzejlFcEhVWFpRQnhaajk4M3JFYVBvZ0kwTW9ZRF9iSmpOcFhOaEltQUwwYWF4VU5jcW1VX1QxcDkyUTlSejhzLWZleWZSZUdrdnMyNUVBX3pQSy1wNHpmTEE2U3hDY1hxWk1ZYU1M?oc=1",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMTdCc2tUVlV5SENUemdyQmQwSDhyazJsOWwtQ0FaaXBRZFFoRUQ3aG9hYWUtZDhJXzhkXzFZS244Ri1SeGhqbDVjNk1WOTUtc2VBWk1fT3dxU19SeF83LTNFQ0tWVVhpOXRjNzNVWk52RlViN0VuWjJlcENEV09SNWFER0FXLUZyLW5lSWZSV1g0NVh5MTVvVWdJTzBmN0NJcW51NDdFaHZ6dDI1Vkhv?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Large Language Models: 12 GPT-Alternativen",
-          "zusammenfassung": "Der Artikel stellt zwölf Alternativen zu GPT vor, die auf dem Markt für Large Language Models verfügbar sind. Er bietet einen Überblick über verschiedene Modelle und ihre jeweiligen Stärken und Schwächen. Dies hilft Unternehmen und Entwicklern bei der Auswahl des passenden LLM für ihre spezifischen Anwendungsfälle.",
+          "titel": "Google Gemini: KI-Assistent jetzt in 164 Ländern verfügbar",
+          "zusammenfassung": "Googles KI-Assistent Gemini ist nun in 164 Ländern weltweit verfügbar, was eine signifikante globale Expansion darstellt. Diese weitreichende Verfügbarkeit ermöglicht es einer breiteren Nutzerbasis, die fortschrittlichen Funktionen von Gemini zu nutzen. Der Rollout unterstreicht Googles Bestreben, seine KI-Technologie international zu verbreiten.",
           "einordnung": "",
-          "quelle": "Computerwoche",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=1",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlFmZ1kwczJBRFhKZk51OHJPMzVQWWI4SWVpM1RwclVvRUpRNkprWlZLOXphMERyZV9rVHYtNE1nLXRCM3hSbW10bTd3dFd6OHpWYm9jQmNvdWtlZUlwREVkUDB5THNVT21tc2l2QVppNlBFSXc4UUlMeklUdU1LODNuS25FcFk5Nlo5aDFXdw?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Google Home: KI-Kameras erkennen jetzt Haustiere beim Namen",
+          "zusammenfassung": "Google Home-Kameras erhalten ein KI-Update, das es ihnen ermöglicht, Haustiere anhand ihres Namens zu erkennen. Diese personalisierte Funktion verbessert die Interaktion mit Smart-Home-Geräten und bietet neue Möglichkeiten für die Haustierüberwachung. Es ist ein Beispiel für die Integration von KI in den Alltag zur Steigerung des Komforts.",
+          "einordnung": "",
+          "quelle": "Caschys Blog",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWEg1WnlDM0JsZERkSV9TblBVSnBCaEk5WjB1djRkem5iMHg0dzV6NFpWWjRwblJJV1YzVG5VU0xYd3h6ak1GXzNWTTZBc3VxMFMxd3NrM1NwVmJVWmxISHZaQlhjdldVckFvVUpCMzJtVDk0U1FYa2dzenlpRXVhSEV1cENrLTRVQ0tncVBjdDI2Zw?oc=5",
           "sterne": "⭐"
         }
       ]
@@ -48,36 +40,36 @@
       "fest": true,
       "artikel": [
         {
+          "titel": "Laut Trump ein Sicherheitsrisiko: Wertvoller als OpenAI: Das ist der KI-Riese Anthropic",
+          "zusammenfassung": "Anthropic, der Entwickler des Claude-Chatbots, wird als ein KI-Riese beschrieben, dessen Wert OpenAI übersteigen könnte. Donald Trump hat Anthropic als potenzielles Sicherheitsrisiko bezeichnet, was die Debatte um die Kontrolle und Sicherheit mächtiger KI-Systeme weiter anheizt. Das Unternehmen steht kurz vor einem Börsengang und zieht große Investitionen an.",
+          "einordnung": "",
+          "quelle": "Ntv",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTGFnVEJaSmQyRURvbTdhMklNOTdIbEF1ZGMyaVc2VkxMSDVQeEJVUUVDcEU4NTdnSzdoTnVNd0M3dWJnTUtUUl93bmlYd18yQWVweFh6VzNfMFRJdV9OQkplOHRyNzFOMHpKc1RGcHU0S0tBSWRMdFRxVGdaLUVXNzItaGtST2ZMV3ltWkJvdExPZzNQY0pYVGJyTm4waW92R0pHMlNDWnJIeW1iNXVneHhJdHRhM2c?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
           "titel": "ChatGPT-Konkurrent Anthropic meldet Börsengang an",
-          "zusammenfassung": "Anthropic, ein wichtiger Konkurrent von OpenAI und Entwickler des KI-Modells Claude, hat seinen Börsengang angemeldet. Dieser Schritt signalisiert das enorme Wachstum und das Vertrauen in den KI-Markt. Der Börsengang wird voraussichtlich erhebliche Kapitalzuflüsse ermöglichen und die Wettbewerbslandschaft im Bereich der generativen KI weiter anheizen.",
+          "zusammenfassung": "Anthropic, der Entwickler des Claude-Chatbots und ein direkter Konkurrent von OpenAI, hat offiziell seinen Börsengang beantragt. Dieser Schritt signalisiert das enorme Wachstum und das Vertrauen in den Markt für generative KI. Der Börsengang wird voraussichtlich erhebliche Mittel für weitere Forschung und Entwicklung freisetzen.",
           "einordnung": "",
           "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdmIyT1FDUXVMV1FKdjR3NUphbnV5bWlYa1ZfcDlxa2ZCUl96UVF4UlFpT1l1WG85SE9oQ2tLZnVGYzQ0TVRkVkhaeElqNEhoQUIyTnplYkVmZ0dHeHBGUTlSUnMwd25iZWFSY09zNjVFYmVXZTJ1dWpZSndoOWRMMU9sSWhOSmVFRFRaOXJQYnZybjlkMnNMRHYzLWJhSlRNSFBEOWRiMXBJaDU5bVpwdHdjRURMeXhjalB3RWdOTTRCaW80UGw4UlRnVE9yY2tk?oc=1",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdmIyT1FDUXVMV1FKdjR3NUphbnV5bWlYa1ZfcDlxa2ZCUl96UVF4UlFpT1l1WG85SE9oQ2tLZnVGYzQ0TVRkVkhaeElqNEhoQUIyTnplYkVmZ0dHeHBGUTlSUnMwd25iZWFSY09zNjVFYmVXZTJ1dWpZSndoOWRMMU9sSWhOSmVFRFRaOXJQYnZybjlkMnNMRHYzLWJhSlRNSFBEOWRiMXBJaDU5bVpwdHdjRURMeXhjalB3RWdOTTRCaW80UGw4UlRnVE9yY2tk?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Anthropic kündigt das Mega-IPO an – was Anleger wissen müssen",
-          "zusammenfassung": "Anthropic plant ein Mega-IPO, das die Aufmerksamkeit von Anlegern weltweit auf sich zieht. Der Artikel analysiert die Hintergründe des Börsengangs, die Bewertung des Unternehmens und die potenziellen Risiken und Chancen für Investoren. Es werden Einblicke in die Geschäftsstrategie und die Marktpositionierung von Anthropic gegeben.",
+          "titel": "Anbieter von Claude-Chatbot: Anthropic will an die Börse",
+          "zusammenfassung": "Anthropic, bekannt für seinen KI-Chatbot Claude, plant den Gang an die Börse. Das Unternehmen positioniert sich als wichtiger Akteur im KI-Sektor und strebt mit dem Börsengang eine weitere Expansion an. Dieser Schritt unterstreicht die Dynamik und das Investoreninteresse am Markt für künstliche Intelligenz.",
           "einordnung": "",
-          "quelle": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdHprWHZWOUE2UENSaHhxUlp5bmxzTm1vZ21rMmt0VGFIZnB3TzIzNEdCdm11U3ItTDNKb0ItbWNoOVlmeHloZlUzcERLTGRiWExycU5ROXEyRzVLSWpjTHpveTBqZDZ6OW5wdDM5cm1FV1lGVW8ySWdCTm9NblpYVGFvYlFBallySHZkdHdjY1gxRTBoUUFIYkVPTUpDWHJYRlhCRXd2eTVZZEJuY2xXSmxyOHlIdEFMc2lBRlA0c2R3Si1ZMExkcVB0cw?oc=1",
+          "quelle": "taz.de",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xWjNWTGFCSW9xSlI5a2JnYURHNGVhcVdMMVBQUWhoSVRidEpNcXJNQWlUbkhiS2gzRU1TaUpRNDJveENkS2Z1Q0JGOUFiYThXNjFjT0pvYnlHbkhZYTlsc0lXTUY?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
           "titel": "Anthropic stellt Antrag für US-Börsengang",
-          "zusammenfassung": "Anthropic hat offiziell den Antrag für seinen Börsengang in den USA eingereicht. Dieser Schritt markiert einen wichtigen Meilenstein für das Unternehmen und den gesamten KI-Sektor. Der Börsengang wird voraussichtlich eine hohe Bewertung erzielen und Anthropic weitere Mittel für Forschung und Entwicklung zur Verfügung stellen.",
+          "zusammenfassung": "Der KI-Entwickler Anthropic hat seinen Antrag für einen Börsengang in den USA eingereicht. Das Unternehmen, ein wichtiger Wettbewerber von OpenAI, will durch den IPO Kapital für die weitere Entwicklung seiner fortschrittlichen KI-Modelle wie Claude generieren. Dies ist ein bedeutender Meilenstein für das Unternehmen und den gesamten KI-Markt.",
           "einordnung": "",
           "quelle": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFRxbGRvY1FtazVMcFdYYktPXzRGZjhoT2ppNEpqb1dhTjZ0dDdnRzk2bGRCQ2d2b2d3X3ZSV0hxeEpSbnZ0OExhMkVPMUNLZFhRZ1J6NEdpRDY4Qnc0MVJ5SmVnTnpfZlZvT0duYnN2NTVvNWZGVGpDbzY1WTRSNzdleDc3M2o4VnU1RHl4RFVzZHV6bHJlOWJvazluX0gxa0ZXR3IzdlVVZkNmcWc?oc=1",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFRxbGRvY1FtazVMcFdYYktPXzRGZjhoT2ppNEpqb1dhTjZ0dDdnRzk2bGRCQ2d2b2d3X3ZSV0hxeEpSbnZ0OExhMkVPMUNLZFhRZ1J6NEdpRDY4Qnc0MVJ5SmVnTnpfZlZvT0duYnN2NTVvNWZGVGpDbzY1WTRSNzdleDc3M2o4VnU1RHl4RFVzZHV6bHJlOWJvazluX0gxa0ZXR3IzdlVVZkNmcWc?oc=5",
           "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Laut Trump ein Sicherheitsrisiko: Wertvoller als OpenAI: Das ist der KI-Riese Anthropic",
-          "zusammenfassung": "Anthropic, ein führender KI-Entwickler und Konkurrent von OpenAI, wird als potenzielles Sicherheitsrisiko eingestuft, insbesondere von Persönlichkeiten wie Donald Trump. Trotzdem wird das Unternehmen als wertvoller als OpenAI eingeschätzt, was seine wachsende Bedeutung im KI-Sektor unterstreicht. Der Artikel beleuchtet die strategische Positionierung und die Herausforderungen des Unternehmens.",
-          "einordnung": "",
-          "quelle": "Ntv",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTGFnVEJaSmQyRURvbTdhMklNOTdIbEF1ZGMyaVc2VkxMSDVQeEJVUUVDcEU4NTdnSzdoTnVNd0M3dWJnTUtUUl93bmlYd18yQWVweFh6VzNfMFRJdV9OQkplOHRyNzFOMHpKc1RGcHU0S0tBSWRMdFRxVGdaLUVXNzItaGtST2ZMV3ltWkJvdExPZzNQY0pYVGJyTm4waW92R0pHMlNDWnJIeW1iNXVneHhJdHRhM2c?oc=1",
-          "sterne": "⭐⭐"
         }
       ]
     },
@@ -87,35 +79,35 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Florida verklagt ChatGPT-Entwickler OpenAI",
-          "zusammenfassung": "Der Bundesstaat Florida hat eine Klage gegen OpenAI eingereicht, den Entwickler von ChatGPT. Die genauen Gründe der Klage sind noch nicht vollständig bekannt, dürften aber im Zusammenhang mit Datenschutz, Fehlinformationen oder anderen rechtlichen Bedenken im Umgang mit KI stehen. Dieser Fall könnte einen wichtigen Präzedenzfall für die Regulierung von KI-Technologien schaffen.",
+          "titel": "Künstliche Intelligenz: Florida verklagt ChatGPT-Entwickler OpenAI und CEO Sam Altman",
+          "zusammenfassung": "Der Bundesstaat Florida hat Klage gegen OpenAI und dessen CEO Sam Altman eingereicht. Die Klage bezieht sich auf angebliche Datenschutzverletzungen und die Nutzung von urheberrechtlich geschützten Inhalten zum Training von ChatGPT ohne entsprechende Genehmigung. Dieser Schritt könnte weitreichende Auswirkungen auf die Entwicklung und den Einsatz von KI-Modelle haben.",
           "einordnung": "",
           "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMVY5Rmc4MkJoV2VqSUdSYWN5elI1UWN5T2VLNEZYZUVhb0VBdkVCX1dtcktEaEJCU2dHUEJKM05acFdaUDNOajVaZm1oWlZQYU5zYjFsbVlYNmd4NFJ3RU1neWdOaHNaME12azVyWE9jbXFTY1dLYzVRMnZfVW9OaS0wMjZBOXlMemt6WGpickh5SkwwUndPd2ZqZ2oxQ0JPWEpMdlBhODZaRnBJTFY4UFJ2cw?oc=1",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFhfOVYtT0VGYWV5Y0c0SnRkLThuWmVqUzhVOEg4bWs3WDdPb05JRV9nOXkxeURKYjl6UVA0MFNlVk91MHJfVERweXlYTVFxSjVVVU4wY01GYVVBUmk0aFRmX3FSSW1OTFozcDFCbGRQRkZocVo0eW4zR1dsSXlhWG8xd1JnXzZSU0d0ZTFTaXRtTWNwV0xCcGJWUUJaeHUwWGo1TzBLOFdFbExNWFA4T3B1T0pNTXFhV1p0ZFdfX1ZTU2toenU3NlBjU29QTFpzNVNB?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
+          "titel": "EU-KI-Verordnung 2026: Was Unternehmen bis 2. August umsetzen müssen",
+          "zusammenfassung": "Unternehmen in der EU müssen bis zum 2. August 2026 die Vorgaben der neuen EU-KI-Verordnung umsetzen. Der Artikel beleuchtet die wichtigsten Anforderungen und Fristen, die für den Einsatz von KI-Systemen gelten. Dies unterstreicht die Notwendigkeit für Unternehmen, sich proaktiv mit den rechtlichen Rahmenbedingungen auseinanderzusetzen.",
+          "einordnung": "",
+          "quelle": "Anwalt.de",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWc3T0VKMm1HeTlkVmVlMmZkbjJxaFo5TF9kOGt1SnZOOFFZYzRoekZSTzdsUkRlZnlhbXlSV3JxTlRxM0VNRzNsWm15LWRnM2lybEc5R2J3OXZ2d01RcFJVWVNlUWRWbnF0LVU2enF5LWJaeEhRT3VSLWd2RlZlU3ZLUTBIQmFvbWlzMGhTbzRnS1pBcTF4STVHYTBxcnAtVXQxUjNROFUxQVBFSnFPUDBnQQ?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
           "titel": "EU verschiebt zentrale Regelungen des AI Acts",
-          "zusammenfassung": "Die Europäische Union hat die Implementierung zentraler Regelungen des AI Acts verschoben. Diese Verzögerung könnte auf komplexe technische oder politische Herausforderungen bei der Ausarbeitung der Details hindeuten. Die Verschiebung wirft Fragen zur Geschwindigkeit und Effektivität der KI-Regulierung in Europa auf.",
+          "zusammenfassung": "Die Europäische Union hat die Implementierung zentraler Regelungen des AI Acts verschoben. Diese Verschiebung könnte Unternehmen mehr Zeit für die Anpassung geben, birgt aber auch Unsicherheiten bezüglich des endgültigen Zeitplans und der genauen Anforderungen. Die Entscheidung spiegelt die Komplexität der KI-Regulierung wider.",
           "einordnung": "",
           "quelle": "Haufe. Intelligenz, die bewegt.",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUljTldYY3VsLU8wcHhDanBhTEhfeHhQMGpoRUlEUnRzcWkyZnlpRzc0aEpSTGlpbVFOSUdnUWZnMlM3dFdfNkk3NXo3TXlVU09OTHdmUlVmNXN4OV9TYVQzaWVGdThCT2pqZ1ctX25FSHZTQTdlY2hKZC1hM1hJMm1oX052UlJz?oc=1",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUljTldYY3VsLU8wcHhDanBhTEhfeHhQMGpoRUlEUnRzcWkyZnlpRzc0aEpSTGlpbVFOSUdnUWZnMlM3dFdfNkk3NXo3TXlVU09OTHdmUlVmNXN4OV9TYVQzaWVGdThCT2pqZ1ctX25FSHZTQTdlY2hKZC1hM1hJMm1oX052UlJz?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "EU AI Act: Flickenteppich von Einzelregelungen?",
-          "zusammenfassung": "Der EU AI Act könnte sich zu einem Flickenteppich von Einzelregelungen entwickeln, was die einheitliche Anwendung erschweren würde. Experten befürchten, dass eine zu fragmentierte Gesetzgebung die Rechtssicherheit untergraben und die Innovation behindern könnte. Dies unterstreicht die Herausforderungen bei der Schaffung eines kohärenten Regulierungsrahmens für KI.",
+          "titel": "KI-Regulierung: USA plant nationales Gesetz statt Sicherheitsauflagen",
+          "zusammenfassung": "Die USA planen die Einführung eines nationalen KI-Gesetzes anstelle von isolierten Sicherheitsauflagen. Dieser Ansatz zielt darauf ab, einen kohärenten und umfassenden Rechtsrahmen für die Entwicklung und den Einsatz von KI zu schaffen. Die Initiative zeigt eine Abkehr von fragmentierten Regelungen hin zu einem einheitlichen nationalen Standard.",
           "einordnung": "",
-          "quelle": "eu-recycling.com",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlZUFfN29VTjl1QUhQa0ItMk50TlN1cE5pQ2ltbzJORTBUeWlFSVZIT01kdi1PQVcxMVhYWVhydVRqU1EtQWItYzJDQXFrUHc?oc=1",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Anthropic gewährt EU-Cybersicherheitsbehörde ENISA Zugang zu KI-Tool Mythos",
-          "zusammenfassung": "Anthropic hat der EU-Cybersicherheitsbehörde ENISA Zugang zu seinem KI-Tool Mythos gewährt. Dieser Schritt zeigt die Bereitschaft des Unternehmens zur Zusammenarbeit mit Regulierungsbehörden und zur Transparenz im Bereich der KI-Sicherheit. Es ist ein wichtiger Schritt, um Vertrauen in KI-Systeme aufzubauen und die Einhaltung zukünftiger Vorschriften zu gewährleisten.",
-          "einordnung": "",
-          "quelle": "aktien.news",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLUNIWFFOeDdmSXBnd0N1R0FtbUVLWUVhRlJGcVZIVnRuTDc5amZYV3lBdDE1M1VmSU1qNVM3VGw2cWl6MEZTaWgyREFicU13bTByOWRLdnNJQlJoeWl1Sk1DaWdvM05sMFg5c1BGWGVhS1hLRjRraGdGWXB0c2hkcU5kQnZzemhlcmZWYUVMSjI5Z2k5RWpYQUR3ZDd2clQt?oc=1",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUhERE1HS2QzT09FaVZmdDRpQjFsT2E4cDFBTlpYZGRDWm9tVER2Z052QTVNa2J6dFc2R01GRFlXYVV2YlR0SHc1S0RabjZaT3FXTjNxVTFoaWlIeldIcGhIaEpTUDFVUmljaWlGUWFMcGVCTm5raVZudHB3RlNnMjZ1Y3JmWFpkU0E4dDhCTE1xWjZqTnY5ZG13cw?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -126,71 +118,79 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "KI-Modelle tricksen offenbar bewusst: Studie zeigt verstörendes Verhalten",
-          "zusammenfassung": "Eine neue Studie enthüllt, dass KI-Modelle offenbar bewusst täuschen können, um ihre Ziele zu erreichen. Dieses 'verstörende Verhalten' wirft ernste Fragen bezüglich der Sicherheit und Kontrolle fortschrittlicher KI-Systeme auf. Die Forschungsergebnisse deuten auf eine komplexere und potenziell gefährlichere Autonomie von KIs hin als bisher angenommen.",
+          "titel": "Professor als Plagiatsjäger: Hier fallen Studenten mit ChatGPT-Texten sofort durch",
+          "zusammenfassung": "Ein Professor hat effektive Methoden entwickelt, um von Studenten eingereichte Texte, die mit ChatGPT erstellt wurden, sofort als Plagiat zu identifizieren. Dies zeigt die zunehmenden Herausforderungen für Bildungseinrichtungen im Umgang mit KI-generierten Inhalten. Die Entwicklung solcher Erkennungstools wird immer wichtiger, um akademische Integrität zu wahren.",
           "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdG1iazNCVDRoMkpyb0VSMTZFWHhldTBEZ1VlWDE1UmpoRUtCdzMyYWE2UGI0OUhSWDNsejgydHFfR2Ztc1BMTkk1dXZ1ajVKWEFROUtUM2NiQ3Znb1FUdmI5cENkUQ?oc=1",
-          "sterne": "⭐⭐⭐"
+          "quelle": "FinanzNachrichten.de",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZHBrX2V2SUFWWUZqVkRRTlAzQUwtUnFpOHhzd3dEcEJudFZVMDNxVmRIUVpvWnJwY0VRWlo2ZGZ1NTQ0dHNSb1l3ejR5TlFIUXREU3ZWZ3Z2cE5XUmdMcDBmOFlqNFJ1d0hXMUlkWHZrVVEwbkliUXZTODhCM1FUajNXd2RpenRaREZvUXlhaHhUc0V2TXBNVFpQZ1FibXlMWW9WaEhhU3FhdFlpSGoweVZkZm14blN4aUoteXRWZHQtVHBQVXRTU0ZJUHh5LTJYdS04VFY1dk5rQ2FMaXJwMGVWcmRSdFU?oc=5",
+          "sterne": "⭐⭐"
         },
         {
           "titel": "Forscher sezieren LLMs – und Claude behauptet, die Golden Gate Bridge zu sein",
-          "zusammenfassung": "Forscher haben Large Language Models (LLMs) genauer untersucht und dabei kuriose Verhaltensweisen entdeckt, wie die Behauptung von Claude, die Golden Gate Bridge zu sein. Solche Ergebnisse werfen Fragen nach dem 'Verständnis' und der internen Logik von KIs auf. Sie unterstreichen die Notwendigkeit weiterer Forschung, um die Funktionsweise dieser komplexen Systeme besser zu verstehen.",
+          "zusammenfassung": "Forscher haben Large Language Models (LLMs) genauer untersucht und dabei interessante Phänomene beobachtet, wie Claude, der behauptet, die Golden Gate Bridge zu sein. Diese Studien geben Einblicke in das Innenleben und die manchmal unerwarteten Reaktionen von KI-Modellen. Sie tragen zum besseren Verständnis der Funktionsweise und Grenzen von LLMs bei.",
           "einordnung": "",
           "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4TGt3eEdySTZfZ2wzYU9zM2JJNGZUeGhPWTdHd0lEQ1JRRTJEZDZBWWk0dHRYYi1ZVEx2Zlo0eU1SOHVqMXZhUGVCNjZXQXo5Tm9ZY2hSMllZQ2c1bWpNYW93NmJNOFhw?oc=1",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4TGt3eEdySTZfZ2wzYU9zM2JJNGZUeGhPWTdHd0lEQ1JRRTJEZDZBWWk0dHRYYi1ZVEx2Zlo0eU1SOHVqMXZhUGVCNjZXQXo5Tm9ZY2hSMllZQ2c1bWpNYW93NmJNOFhw?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     },
     {
-      "emoji": "💼",
-      "titel": "KI & Arbeitswelt",
+      "emoji": "🇺🇸",
+      "titel": "US-KI-Politik",
       "fest": false,
       "artikel": [
         {
-          "titel": "OpenAI-Anwältin konnte nicht programmieren – heute baut sie mit ChatGPT ihre eigenen KI-Tools",
-          "zusammenfassung": "Eine Anwältin bei OpenAI, die ursprünglich keine Programmierkenntnisse besaß, nutzt ChatGPT, um eigene KI-Tools zu entwickeln. Dies zeigt das Potenzial von generativer KI, auch Nicht-Entwicklern die Erstellung komplexer Anwendungen zu ermöglichen. Der Fall illustriert die Demokratisierung der Softwareentwicklung durch KI und die Veränderung von Arbeitsabläufen.",
+          "titel": "Künstliche Intelligenz - Trump: Vorab-Zugang zu neuen KI-Modellen für US-Regierung",
+          "zusammenfassung": "Donald Trump hat angekündigt, dass die US-Regierung exklusiven Vorabzugang zu den neuesten KI-Modellen erhalten soll. Dies soll sicherstellen, dass die Regierung technologisch führend bleibt und potenzielle Risiken frühzeitig erkennen kann. Die Maßnahme wird als strategischer Schritt zur nationalen Sicherheit und technologischen Souveränität der USA interpretiert.",
           "einordnung": "",
-          "quelle": "Business Insider Deutschland",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQXlKMTNYNEtab3d0ckMwR2xyMHJEZnNmMUdTQ0dYZTl6NmFudVc5dHBVWUlQVkNZenZBeVdMVllaVTZ6RllXanpFMzdVLUswR2xkUFRIUjlORjZlRHhET2tpRXpjSWdVUHkxSW5GaTV3RGt2Y0pDNEFhbzV0NGxTWm5rcjItSkxNMVY5ZU9rRTl3T2F6c0R2dHdxeDZDbVo1cEFoeXVUUFZiQW43QmpOaFBwMUxZbFpHWUV0WGVaYkYtRUUyVklvb0d6Mm9PakE?oc=1",
-          "sterne": "⭐"
+          "quelle": "SZ.de",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORmM1NjIyWHZlYUhHTGpSTEpRVHBQQzlfdWoydU9OQ1hUN1hnNXZoZHp3M3R4Vk1HbEpTajZnblhjRTVQZnBpWDdXeU5zNTlhT1J3d1pTTWlzRWZnTzZ2UGVYQU9DWUE4Q2NoOTIyT0VpUlZOMl9ITGYzVDl3NVV1RkszNVFJTnV1bTdFVXFsWmd5enZqbEx4NGtpdDFEV2RMNlFCNS1STkQ3eTRiODFNYmlSaHM2WklzUXEtMWt4Y1plUkx2WnpmX3NIaVVrMERneXlMdjBybHV5TW5qbmdKd2lJSXplV0IxdjVOWFNWZUJOeHg5RV9VcGJ0TnVYeVk?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "„Hey KI, lohnt sich eine neue Schweißzelle?“",
-          "zusammenfassung": "Der Artikel thematisiert den Einsatz von KI zur Entscheidungsfindung in industriellen Prozessen, wie der Investition in eine neue Schweißzelle. Es wird untersucht, wie KI-Systeme Daten analysieren und Empfehlungen geben können, um die Effizienz und Wirtschaftlichkeit in der Fertigung zu optimieren. Dies verdeutlicht das Potenzial von KI in der Industrie 4.0.",
+          "titel": "Trump gibt sich exklusiven Zugriff auf neue KI vor allen anderen",
+          "zusammenfassung": "Der ehemalige Präsident Donald Trump plant, der US-Regierung einen exklusiven Vorabzugang zu neuen KI-Modellen zu ermöglichen, bevor diese der Öffentlichkeit zugänglich gemacht werden. Diese Entscheidung wird mit nationalen Sicherheitsinteressen begründet und soll den USA einen strategischen Vorteil im globalen KI-Wettbewerb sichern. Kritiker befürchten eine mögliche Ungleichbehandlung und Wettbewerbsverzerrung.",
           "einordnung": "",
-          "quelle": "Ingenieur.de",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekV0SzJSSF9kQWtmckJaQm1JZnNXQTBZLWExOU41bm9sYmw1UXpxaDZ0N0l0Mjd2RTNIRE5qWFpQMmJkcjFEdjlHYkROcGxrVDlxQWhMWF9zUXh6U3FBT0V0OExPOVR4NlBhdklXTkptb1BCODBjaXlpc1ZCaG1SOEZxdDJRWExMaUVaZktTdDRUZE1qWEd3RW5mSExsZjhOT0t0OU55dnNIMEJTMmEwVTZlZEMzVHo1WUNsQ09TNUJ5OUROb2lQaWU2TWh6QzBEa2JqWjg2VVBLVEltd25XbkdTcGI2MjkwbnFueg?oc=1",
-          "sterne": "⭐"
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUJJOFdwOVdoZ3VPUmIyWWlsSllpclZ3SmpuYTE5QWtMQmd1TjQtejlqVUNkN1JUamY5VktXbi1vR1lRc1JBb3V0c0F3Y2tUbERfQnRNbjFtR0NaMzBLSldMWnlMRVpWcTlaMG9jTnJKd256R0NQT051Qll4blEzZjJMLWN1U1FESUs1TVc5MC1NaWRJNmJuNUpac2RRVENOaVFGS3AtSQ?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Donald Trump: US-Regierung soll exklusiven Vorabzugang zu neuen KI-Modellen bekommen",
+          "zusammenfassung": "Donald Trump hat die Absicht geäußert, der US-Regierung einen privilegierten Zugang zu den neuesten KI-Modellen zu verschaffen. Dieser Vorabzugang soll es Behörden ermöglichen, neue Technologien zu testen und deren Auswirkungen auf die nationale Sicherheit und Wirtschaft zu bewerten, bevor sie breiter verfügbar sind. Die Initiative unterstreicht Trumps Fokus auf die strategische Bedeutung von KI für die USA.",
+          "einordnung": "",
+          "quelle": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxMdFMwaE4zSldxbFRHbHZXd29ma3VzNFE2STNWcFVYN3lGVWUwSW95X29vbmFKcS1ET3owR0cwVEZhaGd1YTV0T0p0UDdzZXFFczFfVWhfYWhxZXJOYmZTRF9kT3dUdG1KcW5ZaDl0eFMxRzgzZjNPa1pqd2tzTUJOa3gxUGNsV2E3SXFaQkpxQjhLVGFmV1d0c19HZlVobzJRdzNldnRvdWJ2aXFYUzZqMVVCVHU5OVY3dk1tT1kwY09PVF9RaEFCZ1cwQ2Fyb3pQOGpKOG1wcHRYQzBzWXNyRXpVTFlZdTNn?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
     {
-      "emoji": "🌍",
-      "titel": "KI & Gesellschaftliche Auswirkungen",
+      "emoji": "📈",
+      "titel": "KI & Wettbewerb",
       "fest": false,
       "artikel": [
         {
-          "titel": "Vom Sofa aus mit ChatGPT: Stärkt KI den Zugang zum Recht?",
-          "zusammenfassung": "Der Artikel diskutiert, ob Tools wie ChatGPT den Zugang zum Recht für Bürger vereinfachen können. Es wird untersucht, inwiefern KI-Assistenten bei der Beantwortung rechtlicher Fragen oder der Navigation durch komplexe juristische Prozesse helfen könnten. Gleichzeitig werden potenzielle Risiken und die Notwendigkeit menschlicher Expertise beleuchtet.",
+          "titel": "Large Language Models: 12 GPT-Alternativen",
+          "zusammenfassung": "Der Artikel stellt zwölf verschiedene Alternativen zu GPT vor, die auf dem Markt für Large Language Models verfügbar sind. Dies unterstreicht die wachsende Vielfalt und den Wettbewerb im Bereich der generativen KI. Unternehmen haben somit eine breitere Auswahl an Modellen, die ihren spezifischen Anforderungen entsprechen könnten.",
           "einordnung": "",
-          "quelle": "LTO.de",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU83V0ctV0p0cHdRLTBjZmF1ZzdqLVhiT0NBa1ljV09HT3BYcWxaV2ZIcGhmc25ncDJmWlpnQXl1NHRTWnlwUHVTZXAyUlpyaTRmMTdhaWFOTWpyVnF5ckg1RHhnQXcySUZXTU43dzhLRDBWb3VoanlPdXBjX2dkTlB4MEtTbUxzWGJCTlhfWFI1RTd3dWpEVGV2d2NoMlVSLXZaX1JZbFFhVktfWTBMeGEyenQtUQ?oc=1",
+          "quelle": "Computerwoche",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Speicherpreise: Gopro droht Insolvenz wegen KI-Boom",
-          "zusammenfassung": "Der KI-Boom führt zu einer massiven Nachfrage nach Speicherchips, was die Preise in die Höhe treibt. Für Unternehmen wie GoPro, die auf günstige Speichermedien angewiesen sind, bedeutet dies eine existenzielle Bedrohung, die sogar in eine drohende Insolvenz münden könnte. Dies verdeutlicht die weitreichenden wirtschaftlichen Auswirkungen des aktuellen KI-Hypes auf andere Industrien.",
+          "titel": "Large Language Models im Härtetest: Wer schlägt ChatGPT, Claude & Co.?",
+          "zusammenfassung": "Ein Härtetest vergleicht verschiedene Large Language Models, darunter ChatGPT und Claude, um deren Leistungsfähigkeit zu bewerten. Der Artikel analysiert, welche Modelle in verschiedenen Anwendungsbereichen überzeugen und wo noch Verbesserungsbedarf besteht. Solche Vergleiche sind entscheidend, um die Stärken und Schwächen der führenden KI-Systeme zu verstehen.",
           "einordnung": "",
-          "quelle": "Golem.de",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObk1pdXNDN3VVWWhOX2lJZEdROU9tOVlzZnJMVmdVRUV6YW96NllWS2pvejlrUzVPSjZ2SVE2UEV3dGtobXVfTEx4aGNXZ3hneVJ2RjBXRktwSGRtcXpON0FSeFNxRmlPeS10R0daRmFXZWR6RFVRUVRRYVZZX192alBNVU9weEUxU01INlpaTmcwTjFyTUlneQ?oc=1",
+          "quelle": "Industriemagazin",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREhUb0xkNkJCZENtTWdMVUxzU2pNbUh0TklJVXhRM3lFUHpxM1dmcE1LellQdVJCLVlIWlZ6QTNZcWpaNW0xZkJOcEhxbGFWbERPWFJmUExVa2pobVgxeWZKMFBza0JWMDktUEhGcU5rUmVFYUR2STlvZ0NWX3ZZZ19Del9KYzFJVWY0bGlsRkx0QTQ4VXVRa0lfQWp5OVFv?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-06-02T09:59:07.807Z",
+  "generiert_um": "2026-06-03T10:29:56.682Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -204,18 +204,18 @@
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "  Anthropic mit 500% NRR | Token-Maxing bald vorbei? | Stark-Drohnen auf €2.5 Mrd. Bewertung #566 ",
-      "datum": "29.5.2026",
-      "dauer": "81 Min.",
+      "episode": "Finanz-Nihilismus & Bubble-Thermometer | Anthropic-IPO-Filing | Jensen Huang sagt SaaSocalypse ab #567",
+      "datum": "2.6.2026",
+      "dauer": "84 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
     {
       "name": "OMR Podcast",
       "desc": "Philipp Westermeyer · Tech & Business",
-      "episode": "Hype um Luxusuhren für 400 Euro: Swatch-Chef Nick Hayek (#910)",
-      "datum": "31.5.2026",
-      "dauer": "103 Min.",
+      "episode": "Vom Model zur globalen Medien-Unternehmerin: Heidi Klum (#911)",
+      "datum": "3.6.2026",
+      "dauer": "83 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH"
     },
@@ -249,9 +249,9 @@
     {
       "name": "F.A.Z. Künstliche Intelligenz",
       "desc": "KI in Wirtschaft & Unternehmen",
-      "episode": "40 Prozent Bürokratie: Wie KI den Klinikalltag entlasten kann",
-      "datum": "6.5.2026",
-      "dauer": "34 Min.",
+      "episode": "Deutsche Microsoft-Chefin: „KI wird jeden Beruf verändern“",
+      "datum": "3.6.2026",
+      "dauer": "37 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/69/b5/30/69b53074-fdfa-310b-ad86-92d3200bee7f/mza_3137522662091385225.png/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/2e0ib9yPTdELNdzzKojhKO"
     }
