@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-06-02T11:23:12.233005+00:00",
+  "aktualisiert": "2026-06-03T12:00:01.254629+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Speech-to-Text auf Knopfdruck: Meine Blitztext App!",
+      "link": "https://www.youtube.com/watch?v=ygfqOmDWj94",
+      "video_id": "ygfqOmDWj94",
+      "thumbnail": "https://img.youtube.com/vi/ygfqOmDWj94/mqdefault.jpg",
+      "datum": "2026-06-02T16:00:37+00:00",
+      "datum_de": "02.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "MikesWorld",
+      "titel": "6 Gemini Updates zeigen, wohin KI wirklich geht 🤯 Gemini Spark, Omni &amp; Live - Google ist überall",
+      "link": "https://www.youtube.com/watch?v=OIMsDTpcC3U",
+      "video_id": "OIMsDTpcC3U",
+      "thumbnail": "https://img.youtube.com/vi/OIMsDTpcC3U/mqdefault.jpg",
+      "datum": "2026-06-02T16:00:08Z",
+      "datum_de": "02.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Die neue KI-Joblüge, Chinas Preissturz, Roboter-Durchbruch, Tokenproblem & die Agenten-Ökonomie",
+      "link": "https://www.youtube.com/watch?v=ui2418ZlUYM",
+      "video_id": "ui2418ZlUYM",
+      "thumbnail": "https://img.youtube.com/vi/ui2418ZlUYM/mqdefault.jpg",
+      "datum": "2026-06-02T15:15:07+00:00",
+      "datum_de": "02.06.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "ProduktWahrheit",
       "titel": "🤯 Die meisten nutzen Claude falsch – diese 8 Skills ändern alles",
@@ -19,6 +49,16 @@
       "video_id": "jqlqDDZrdxc",
       "thumbnail": "https://img.youtube.com/vi/jqlqDDZrdxc/mqdefault.jpg",
       "datum": "2026-06-01T13:47:23Z",
+      "datum_de": "01.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Unfairer Vorteil | KI",
+      "titel": "Die meisten Deutschen nutzen KI Tools falsch — so machst du es richtig… (Claude, ChatGPT, Gemini)",
+      "link": "https://www.youtube.com/watch?v=eT7nYe0liP4",
+      "video_id": "eT7nYe0liP4",
+      "thumbnail": "https://img.youtube.com/vi/eT7nYe0liP4/mqdefault.jpg",
+      "datum": "2026-06-01T12:59:54Z",
       "datum_de": "01.06.2026",
       "quelle": "suche"
     },
@@ -44,7 +84,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Remote Control ist mein NEUES Lieblings Claude Feature",
+      "titel": "Remote Control ist mein NEUES Lieblings Feature",
       "link": "https://www.youtube.com/watch?v=kwEPrELNILI",
       "video_id": "kwEPrELNILI",
       "thumbnail": "https://img.youtube.com/vi/kwEPrELNILI/mqdefault.jpg",
@@ -73,16 +113,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Marc De Fanti",
-      "titel": "OpenCode + Ollama: KI-Coding für 0 Euro im Monat (Setup)",
-      "link": "https://www.youtube.com/watch?v=NgDibn4zL_4",
-      "video_id": "NgDibn4zL_4",
-      "thumbnail": "https://img.youtube.com/vi/NgDibn4zL_4/mqdefault.jpg",
-      "datum": "2026-05-30T16:30:21Z",
-      "datum_de": "30.05.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Punktzehn",
       "titel": "Gemini Omni: Die besten Use Cases!",
       "link": "https://www.youtube.com/watch?v=0Kp1iJXS7JY",
@@ -103,53 +133,23 @@
       "quelle": "suche"
     },
     {
-      "kanal": "IchBinFabian",
-      "titel": "Claude Opus 4.8 getestet: 4x weniger Fehler, aber Mythos ist das Monster",
-      "link": "https://www.youtube.com/watch?v=BN83TtTrOQo",
-      "video_id": "BN83TtTrOQo",
-      "thumbnail": "https://img.youtube.com/vi/BN83TtTrOQo/mqdefault.jpg",
-      "datum": "2026-05-29T18:30:19Z",
+      "kanal": "ZELDOgiq",
+      "titel": "Claude Opus 4.8 ist da, das musst du wissen!",
+      "link": "https://www.youtube.com/watch?v=rbJdBxriTlo",
+      "video_id": "rbJdBxriTlo",
+      "thumbnail": "https://img.youtube.com/vi/rbJdBxriTlo/mqdefault.jpg",
+      "datum": "2026-05-29T09:31:12Z",
       "datum_de": "29.05.2026",
       "quelle": "suche"
     },
     {
-      "kanal": "Christian Brandstötter",
-      "titel": "Claude Cowork Geplante Aufgaben – KI auf Autopilot setzen (Scheduled Tasks Tutorial Deutsch)",
-      "link": "https://www.youtube.com/watch?v=YrUnK_qQoe0",
-      "video_id": "YrUnK_qQoe0",
-      "thumbnail": "https://img.youtube.com/vi/YrUnK_qQoe0/mqdefault.jpg",
-      "datum": "2026-05-28T22:00:07Z",
-      "datum_de": "28.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Qwen 3.7 schlägt Claude, Google baut Apps gratis - KI News",
-      "link": "https://www.youtube.com/watch?v=neXj90WHqv8",
-      "video_id": "neXj90WHqv8",
-      "thumbnail": "https://img.youtube.com/vi/neXj90WHqv8/mqdefault.jpg",
-      "datum": "2026-05-28T15:57:28Z",
-      "datum_de": "28.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Emanuel Böminghaus: „KI ist das ENDE von allem, was ich kenne!\" Unternehmen müssen endlich aufwachen",
-      "link": "https://www.youtube.com/watch?v=pFE9rmAFXLw",
-      "video_id": "pFE9rmAFXLw",
-      "thumbnail": "https://img.youtube.com/vi/pFE9rmAFXLw/mqdefault.jpg",
-      "datum": "2026-05-28T15:15:07+00:00",
-      "datum_de": "28.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Jonas Keil",
-      "titel": "6 Claude Code Tricks, die Beginner zu Profis machen!",
-      "link": "https://www.youtube.com/watch?v=9TCovOQbx0I",
-      "video_id": "9TCovOQbx0I",
-      "thumbnail": "https://img.youtube.com/vi/9TCovOQbx0I/mqdefault.jpg",
-      "datum": "2026-05-27T19:19:53Z",
-      "datum_de": "27.05.2026",
+      "kanal": "KI Einfach Erklärt",
+      "titel": "Krass  5 NEUE ChatGPT Funktionen, die du noch NICHT NUTZT! Neue ChatGPT Use Cases Deutsch",
+      "link": "https://www.youtube.com/watch?v=GDiPbMjAzwY",
+      "video_id": "GDiPbMjAzwY",
+      "thumbnail": "https://img.youtube.com/vi/GDiPbMjAzwY/mqdefault.jpg",
+      "datum": "2026-05-29T04:00:09Z",
+      "datum_de": "29.05.2026",
       "quelle": "suche"
     }
   ]
