@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-06-03T12:00:01.254629+00:00",
+  "aktualisiert": "2026-06-04T10:40:54.335559+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "The AI Circle",
+      "titel": "Der einfachste KI-Nebenjob 2026 – So verdienen Anfänger mit ChatGPT Geld",
+      "link": "https://www.youtube.com/watch?v=cMapa9rofdw",
+      "video_id": "cMapa9rofdw",
+      "thumbnail": "https://img.youtube.com/vi/cMapa9rofdw/mqdefault.jpg",
+      "datum": "2026-06-04T10:14:22Z",
+      "datum_de": "04.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "DAS ist alles erst der ANFANG! KI, Neuromorphe Chips & Quantencomputer (Prof. Dr. Klaus Mainzer)",
+      "link": "https://www.youtube.com/watch?v=3GCiIlEISqs",
+      "video_id": "3GCiIlEISqs",
+      "thumbnail": "https://img.youtube.com/vi/3GCiIlEISqs/mqdefault.jpg",
+      "datum": "2026-06-03T14:45:39+00:00",
+      "datum_de": "03.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Opus 4.8 ist da! Alle NEUEN Updates im Live Test",
+      "link": "https://www.youtube.com/watch?v=xw2b82dFmBY",
+      "video_id": "xw2b82dFmBY",
+      "thumbnail": "https://img.youtube.com/vi/xw2b82dFmBY/mqdefault.jpg",
+      "datum": "2026-06-03T14:15:31+00:00",
+      "datum_de": "03.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Der PREIS-Unterschied: Opus 4.8 & MiniMax M3 zum Coden",
+      "link": "https://www.youtube.com/watch?v=-f3-WUw-jsQ",
+      "video_id": "-f3-WUw-jsQ",
+      "thumbnail": "https://img.youtube.com/vi/-f3-WUw-jsQ/mqdefault.jpg",
+      "datum": "2026-06-03T13:34:16+00:00",
+      "datum_de": "03.06.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "Speech-to-Text auf Knopfdruck: Meine Blitztext App!",
@@ -24,7 +64,7 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "Die neue KI-Joblüge, Chinas Preissturz, Roboter-Durchbruch, Tokenproblem & die Agenten-Ökonomie",
+      "titel": "„Es ist hochgefährlich, was hier beginnt!\" Die neue KI-Joblüge, Claude Opus 4.8 & Chinas Roboter",
       "link": "https://www.youtube.com/watch?v=ui2418ZlUYM",
       "video_id": "ui2418ZlUYM",
       "thumbnail": "https://img.youtube.com/vi/ui2418ZlUYM/mqdefault.jpg",
@@ -111,46 +151,6 @@
       "datum": "2026-05-31T08:15:31+00:00",
       "datum_de": "31.05.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Punktzehn",
-      "titel": "Gemini Omni: Die besten Use Cases!",
-      "link": "https://www.youtube.com/watch?v=0Kp1iJXS7JY",
-      "video_id": "0Kp1iJXS7JY",
-      "thumbnail": "https://img.youtube.com/vi/0Kp1iJXS7JY/mqdefault.jpg",
-      "datum": "2026-05-30T12:24:47Z",
-      "datum_de": "30.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Kontextkern",
-      "titel": "Claude Opus 4.8 erklärt: Was wirklich neu ist – und für wen es sich lohnt",
-      "link": "https://www.youtube.com/watch?v=d24d7SZ-xdI",
-      "video_id": "d24d7SZ-xdI",
-      "thumbnail": "https://img.youtube.com/vi/d24d7SZ-xdI/mqdefault.jpg",
-      "datum": "2026-05-29T19:30:16Z",
-      "datum_de": "29.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Claude Opus 4.8 ist da, das musst du wissen!",
-      "link": "https://www.youtube.com/watch?v=rbJdBxriTlo",
-      "video_id": "rbJdBxriTlo",
-      "thumbnail": "https://img.youtube.com/vi/rbJdBxriTlo/mqdefault.jpg",
-      "datum": "2026-05-29T09:31:12Z",
-      "datum_de": "29.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Einfach Erklärt",
-      "titel": "Krass  5 NEUE ChatGPT Funktionen, die du noch NICHT NUTZT! Neue ChatGPT Use Cases Deutsch",
-      "link": "https://www.youtube.com/watch?v=GDiPbMjAzwY",
-      "video_id": "GDiPbMjAzwY",
-      "thumbnail": "https://img.youtube.com/vi/GDiPbMjAzwY/mqdefault.jpg",
-      "datum": "2026-05-29T04:00:09Z",
-      "datum_de": "29.05.2026",
-      "quelle": "suche"
     }
   ]
 }
