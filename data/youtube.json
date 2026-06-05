@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-06-04T10:40:54.335559+00:00",
+  "aktualisiert": "2026-06-05T10:52:03.107619+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "\"Just Ask Codex\": Inside OpenAI's Own Working Culture | Romain Huet, OpenAI",
+      "link": "https://www.youtube.com/watch?v=f6SIJDGGjuY",
+      "video_id": "f6SIJDGGjuY",
+      "thumbnail": "https://img.youtube.com/vi/f6SIJDGGjuY/mqdefault.jpg",
+      "datum": "2026-06-05T10:00:18+00:00",
+      "datum_de": "05.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "TechPuls",
+      "titel": "5 kostenlose KI Tools die du sofort nutzen kannst",
+      "link": "https://www.youtube.com/watch?v=KGCk9Le_Elk",
+      "video_id": "KGCk9Le_Elk",
+      "thumbnail": "https://img.youtube.com/vi/KGCk9Le_Elk/mqdefault.jpg",
+      "datum": "2026-06-05T02:10:54Z",
+      "datum_de": "05.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "NANCY | Projects To Profit",
+      "titel": "Vergiss ChatGPT – 3 Claude Büro-Tricks, die dich überraschen werden",
+      "link": "https://www.youtube.com/watch?v=Zx1lX-vFXP8",
+      "video_id": "Zx1lX-vFXP8",
+      "thumbnail": "https://img.youtube.com/vi/Zx1lX-vFXP8/mqdefault.jpg",
+      "datum": "2026-06-04T20:07:16Z",
+      "datum_de": "04.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Nr.1 Historiker: Dieses Mal könnte es ANDERS ausgehen! Ludditen, Kapitalismus & KI (Jürgen Kocka)",
+      "link": "https://www.youtube.com/watch?v=Egp_xk9fX0M",
+      "video_id": "Egp_xk9fX0M",
+      "thumbnail": "https://img.youtube.com/vi/Egp_xk9fX0M/mqdefault.jpg",
+      "datum": "2026-06-04T14:15:11+00:00",
+      "datum_de": "04.06.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "The AI Circle",
       "titel": "Der einfachste KI-Nebenjob 2026 – So verdienen Anfänger mit ChatGPT Geld",
@@ -94,7 +134,7 @@
     },
     {
       "kanal": "Unfairer Vorteil | KI",
-      "titel": "Die meisten Deutschen nutzen KI Tools falsch — so machst du es richtig… (Claude, ChatGPT, Gemini)",
+      "titel": "Die meisten Deutschen nutzen KI Tools falsch — so machst du es richtig…",
       "link": "https://www.youtube.com/watch?v=eT7nYe0liP4",
       "video_id": "eT7nYe0liP4",
       "thumbnail": "https://img.youtube.com/vi/eT7nYe0liP4/mqdefault.jpg",
@@ -111,46 +151,6 @@
       "datum": "2026-05-31T22:00:05Z",
       "datum_de": "31.05.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "IchBinFabian",
-      "titel": "Ich habe Claude durch Hermes + DeepSeek ersetzt - 5x günstiger",
-      "link": "https://www.youtube.com/watch?v=6hLALCqPiFw",
-      "video_id": "6hLALCqPiFw",
-      "thumbnail": "https://img.youtube.com/vi/6hLALCqPiFw/mqdefault.jpg",
-      "datum": "2026-05-31T19:30:14Z",
-      "datum_de": "31.05.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Remote Control ist mein NEUES Lieblings Feature",
-      "link": "https://www.youtube.com/watch?v=kwEPrELNILI",
-      "video_id": "kwEPrELNILI",
-      "thumbnail": "https://img.youtube.com/vi/kwEPrELNILI/mqdefault.jpg",
-      "datum": "2026-05-31T14:15:02+00:00",
-      "datum_de": "31.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Claude Cowork: 6 Use Cases, die dir jede Woche Stunden sparen",
-      "link": "https://www.youtube.com/watch?v=1At79cy-uiI",
-      "video_id": "1At79cy-uiI",
-      "thumbnail": "https://img.youtube.com/vi/1At79cy-uiI/mqdefault.jpg",
-      "datum": "2026-05-31T11:30:18+00:00",
-      "datum_de": "31.05.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Claude Opus 4.8: DIESE 7 Dinge ändern jetzt ALLES! (+ KI-Weltmodell Interview)",
-      "link": "https://www.youtube.com/watch?v=lHU6jFHWAkM",
-      "video_id": "lHU6jFHWAkM",
-      "thumbnail": "https://img.youtube.com/vi/lHU6jFHWAkM/mqdefault.jpg",
-      "datum": "2026-05-31T08:15:31+00:00",
-      "datum_de": "31.05.2026",
-      "quelle": "kanal"
     }
   ]
 }
