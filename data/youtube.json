@@ -1,7 +1,67 @@
 {
-  "aktualisiert": "2026-06-05T10:52:03.107619+00:00",
+  "aktualisiert": "2026-06-06T09:28:33.147178+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "TechPuls",
+      "titel": "DSGVO und ChatGPT: Was deutsche Unternehmen wissen muessen",
+      "link": "https://www.youtube.com/watch?v=BRZGo6i7Djk",
+      "video_id": "BRZGo6i7Djk",
+      "thumbnail": "https://img.youtube.com/vi/BRZGo6i7Djk/mqdefault.jpg",
+      "datum": "2026-06-06T07:06:02Z",
+      "datum_de": "06.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Nexora AI",
+      "titel": "Claude Code kostenlos nutzen – Unbegrenzt coden ohne starken PC",
+      "link": "https://www.youtube.com/watch?v=uIYa5pe_VK8",
+      "video_id": "uIYa5pe_VK8",
+      "thumbnail": "https://img.youtube.com/vi/uIYa5pe_VK8/mqdefault.jpg",
+      "datum": "2026-06-06T05:14:17Z",
+      "datum_de": "06.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Bossert WebConcept",
+      "titel": "Endlich! WordPress &amp; Elementor mit Claude Code. Schritt für Schritt in 10 Minuten – Deutsch",
+      "link": "https://www.youtube.com/watch?v=B_5hqlCYjHQ",
+      "video_id": "B_5hqlCYjHQ",
+      "thumbnail": "https://img.youtube.com/vi/B_5hqlCYjHQ/mqdefault.jpg",
+      "datum": "2026-06-05T22:24:07Z",
+      "datum_de": "05.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI Insider",
+      "titel": "Die 5 besten KOSTENLOSEN KI-Tools 2026 – Diese Tools musst du kennen!",
+      "link": "https://www.youtube.com/watch?v=UigGw06IEmw",
+      "video_id": "UigGw06IEmw",
+      "thumbnail": "https://img.youtube.com/vi/UigGw06IEmw/mqdefault.jpg",
+      "datum": "2026-06-05T15:33:18Z",
+      "datum_de": "05.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "NotebookLM erklärt für Anfänger - Alles was du wissen musst (in 5 Minuten)",
+      "link": "https://www.youtube.com/watch?v=9mGWMr_Xyj8",
+      "video_id": "9mGWMr_Xyj8",
+      "thumbnail": "https://img.youtube.com/vi/9mGWMr_Xyj8/mqdefault.jpg",
+      "datum": "2026-06-05T12:00:34+00:00",
+      "datum_de": "05.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KI Einfach Erklärt",
+      "titel": "Die 10 besten KI TOOLS, die du 2025 kennen MUSST! KI Tools Deutsch",
+      "link": "https://www.youtube.com/watch?v=sGm_Y7Saiig",
+      "video_id": "sGm_Y7Saiig",
+      "thumbnail": "https://img.youtube.com/vi/sGm_Y7Saiig/mqdefault.jpg",
+      "datum": "2026-06-05T12:00:25Z",
+      "datum_de": "05.06.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "\"Just Ask Codex\": Inside OpenAI's Own Working Culture | Romain Huet, OpenAI",
@@ -29,6 +89,16 @@
       "video_id": "Zx1lX-vFXP8",
       "thumbnail": "https://img.youtube.com/vi/Zx1lX-vFXP8/mqdefault.jpg",
       "datum": "2026-06-04T20:07:16Z",
+      "datum_de": "04.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Unfairer Vorteil | KI",
+      "titel": "Jede Claude Funktion erklärt (für normale Menschen)",
+      "link": "https://www.youtube.com/watch?v=B_OqkMRFonM",
+      "video_id": "B_OqkMRFonM",
+      "thumbnail": "https://img.youtube.com/vi/B_OqkMRFonM/mqdefault.jpg",
+      "datum": "2026-06-04T14:39:24Z",
       "datum_de": "04.06.2026",
       "quelle": "suche"
     },
@@ -81,76 +151,6 @@
       "datum": "2026-06-03T13:34:16+00:00",
       "datum_de": "03.06.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Speech-to-Text auf Knopfdruck: Meine Blitztext App!",
-      "link": "https://www.youtube.com/watch?v=ygfqOmDWj94",
-      "video_id": "ygfqOmDWj94",
-      "thumbnail": "https://img.youtube.com/vi/ygfqOmDWj94/mqdefault.jpg",
-      "datum": "2026-06-02T16:00:37+00:00",
-      "datum_de": "02.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "MikesWorld",
-      "titel": "6 Gemini Updates zeigen, wohin KI wirklich geht 🤯 Gemini Spark, Omni &amp; Live - Google ist überall",
-      "link": "https://www.youtube.com/watch?v=OIMsDTpcC3U",
-      "video_id": "OIMsDTpcC3U",
-      "thumbnail": "https://img.youtube.com/vi/OIMsDTpcC3U/mqdefault.jpg",
-      "datum": "2026-06-02T16:00:08Z",
-      "datum_de": "02.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "„Es ist hochgefährlich, was hier beginnt!\" Die neue KI-Joblüge, Claude Opus 4.8 & Chinas Roboter",
-      "link": "https://www.youtube.com/watch?v=ui2418ZlUYM",
-      "video_id": "ui2418ZlUYM",
-      "thumbnail": "https://img.youtube.com/vi/ui2418ZlUYM/mqdefault.jpg",
-      "datum": "2026-06-02T15:15:07+00:00",
-      "datum_de": "02.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "ProduktWahrheit",
-      "titel": "🤯 Die meisten nutzen Claude falsch – diese 8 Skills ändern alles",
-      "link": "https://www.youtube.com/watch?v=D1xr7ImYQwQ",
-      "video_id": "D1xr7ImYQwQ",
-      "thumbnail": "https://img.youtube.com/vi/D1xr7ImYQwQ/mqdefault.jpg",
-      "datum": "2026-06-02T10:59:34Z",
-      "datum_de": "02.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "GainDrop HQ",
-      "titel": "Ich nutze 7 KI-Tools – und genau das ist das Problem",
-      "link": "https://www.youtube.com/watch?v=jqlqDDZrdxc",
-      "video_id": "jqlqDDZrdxc",
-      "thumbnail": "https://img.youtube.com/vi/jqlqDDZrdxc/mqdefault.jpg",
-      "datum": "2026-06-01T13:47:23Z",
-      "datum_de": "01.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Unfairer Vorteil | KI",
-      "titel": "Die meisten Deutschen nutzen KI Tools falsch — so machst du es richtig…",
-      "link": "https://www.youtube.com/watch?v=eT7nYe0liP4",
-      "video_id": "eT7nYe0liP4",
-      "thumbnail": "https://img.youtube.com/vi/eT7nYe0liP4/mqdefault.jpg",
-      "datum": "2026-06-01T12:59:54Z",
-      "datum_de": "01.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christian Brandstötter",
-      "titel": "Claude Cowork Dispatch – Desktop-KI vom Smartphone steuern (Fernzugriff Tutorial Deutsch)",
-      "link": "https://www.youtube.com/watch?v=CuT-eyqgK2M",
-      "video_id": "CuT-eyqgK2M",
-      "thumbnail": "https://img.youtube.com/vi/CuT-eyqgK2M/mqdefault.jpg",
-      "datum": "2026-05-31T22:00:05Z",
-      "datum_de": "31.05.2026",
-      "quelle": "suche"
     }
   ]
 }
