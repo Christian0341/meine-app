@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-06-06T09:28:33.147178+00:00",
+  "aktualisiert": "2026-06-07T10:07:57.484462+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-News: RIESEN ChatGPT Update! Codex “Apps”, Neue Funktionen & Lokale KI holt auf",
+      "link": "https://www.youtube.com/watch?v=XAPDzR2Xvng",
+      "video_id": "XAPDzR2Xvng",
+      "thumbnail": "https://img.youtube.com/vi/XAPDzR2Xvng/mqdefault.jpg",
+      "datum": "2026-06-07T08:15:36+00:00",
+      "datum_de": "07.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KI Insider",
+      "titel": "Die 5 besten KI-Tools für Schüler &amp; Studenten 2026 – Lernen leicht gemacht!",
+      "link": "https://www.youtube.com/watch?v=H1aSfuWgqV8",
+      "video_id": "H1aSfuWgqV8",
+      "thumbnail": "https://img.youtube.com/vi/H1aSfuWgqV8/mqdefault.jpg",
+      "datum": "2026-06-06T20:41:06Z",
+      "datum_de": "06.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI Insider",
+      "titel": "Die 5 besten KI-Tools zum BILDER erstellen 2026 – Aus Text wird Kunst!",
+      "link": "https://www.youtube.com/watch?v=P06Ng1gKJik",
+      "video_id": "P06Ng1gKJik",
+      "thumbnail": "https://img.youtube.com/vi/P06Ng1gKJik/mqdefault.jpg",
+      "datum": "2026-06-06T20:21:54Z",
+      "datum_de": "06.06.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "TechPuls",
       "titel": "DSGVO und ChatGPT: Was deutsche Unternehmen wissen muessen",
@@ -53,16 +83,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "KI Einfach Erklärt",
-      "titel": "Die 10 besten KI TOOLS, die du 2025 kennen MUSST! KI Tools Deutsch",
-      "link": "https://www.youtube.com/watch?v=sGm_Y7Saiig",
-      "video_id": "sGm_Y7Saiig",
-      "thumbnail": "https://img.youtube.com/vi/sGm_Y7Saiig/mqdefault.jpg",
-      "datum": "2026-06-05T12:00:25Z",
-      "datum_de": "05.06.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Christoph Magnussen",
       "titel": "\"Just Ask Codex\": Inside OpenAI's Own Working Culture | Romain Huet, OpenAI",
       "link": "https://www.youtube.com/watch?v=f6SIJDGGjuY",
@@ -89,6 +109,16 @@
       "video_id": "Zx1lX-vFXP8",
       "thumbnail": "https://img.youtube.com/vi/Zx1lX-vFXP8/mqdefault.jpg",
       "datum": "2026-06-04T20:07:16Z",
+      "datum_de": "04.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "MikesWorld",
+      "titel": "Opus 4.8, GPT 5.5 und Gemini ohne Limits? Dieses Tool macht es möglich 🔥",
+      "link": "https://www.youtube.com/watch?v=-ECIcaReAlY",
+      "video_id": "-ECIcaReAlY",
+      "thumbnail": "https://img.youtube.com/vi/-ECIcaReAlY/mqdefault.jpg",
+      "datum": "2026-06-04T16:00:00Z",
       "datum_de": "04.06.2026",
       "quelle": "suche"
     },
@@ -121,36 +151,6 @@
       "datum": "2026-06-04T10:14:22Z",
       "datum_de": "04.06.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "DAS ist alles erst der ANFANG! KI, Neuromorphe Chips & Quantencomputer (Prof. Dr. Klaus Mainzer)",
-      "link": "https://www.youtube.com/watch?v=3GCiIlEISqs",
-      "video_id": "3GCiIlEISqs",
-      "thumbnail": "https://img.youtube.com/vi/3GCiIlEISqs/mqdefault.jpg",
-      "datum": "2026-06-03T14:45:39+00:00",
-      "datum_de": "03.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Opus 4.8 ist da! Alle NEUEN Updates im Live Test",
-      "link": "https://www.youtube.com/watch?v=xw2b82dFmBY",
-      "video_id": "xw2b82dFmBY",
-      "thumbnail": "https://img.youtube.com/vi/xw2b82dFmBY/mqdefault.jpg",
-      "datum": "2026-06-03T14:15:31+00:00",
-      "datum_de": "03.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Der PREIS-Unterschied: Opus 4.8 & MiniMax M3 zum Coden",
-      "link": "https://www.youtube.com/watch?v=-f3-WUw-jsQ",
-      "video_id": "-f3-WUw-jsQ",
-      "thumbnail": "https://img.youtube.com/vi/-f3-WUw-jsQ/mqdefault.jpg",
-      "datum": "2026-06-03T13:34:16+00:00",
-      "datum_de": "03.06.2026",
-      "quelle": "kanal"
     }
   ]
 }
