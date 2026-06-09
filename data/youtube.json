@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-06-08T12:03:29.152979+00:00",
+  "aktualisiert": "2026-06-09T10:38:01.290212+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "NextMind",
+      "titel": "Die 5 besten kostenlosen KI-Tools 2025 🚀",
+      "link": "https://www.youtube.com/watch?v=bZ4pTNTFUpo",
+      "video_id": "bZ4pTNTFUpo",
+      "thumbnail": "https://img.youtube.com/vi/bZ4pTNTFUpo/mqdefault.jpg",
+      "datum": "2026-06-08T22:36:46Z",
+      "datum_de": "08.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "NotebookLM + Canva: So machst du KI Grafiken editierbar (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=Cwhium1Qjsc",
+      "video_id": "Cwhium1Qjsc",
+      "thumbnail": "https://img.youtube.com/vi/Cwhium1Qjsc/mqdefault.jpg",
+      "datum": "2026-06-08T15:30:22Z",
+      "datum_de": "08.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "OpenAI CODEX ist die Super-App? Sites, Plugins & Skills Update!",
+      "link": "https://www.youtube.com/watch?v=eJ935L5WeDU",
+      "video_id": "eJ935L5WeDU",
+      "thumbnail": "https://img.youtube.com/vi/eJ935L5WeDU/mqdefault.jpg",
+      "datum": "2026-06-08T15:00:03+00:00",
+      "datum_de": "08.06.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Julian Ivanov | KI-Automatisierung",
       "titel": "So lässt du Claude jedes Video für dich anschauen",
@@ -53,6 +83,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "KI Insider",
+      "titel": "5 KI-Tools, mit denen du 2026 online GELD verdienen kannst!",
+      "link": "https://www.youtube.com/watch?v=VocvVp0iPd8",
+      "video_id": "VocvVp0iPd8",
+      "thumbnail": "https://img.youtube.com/vi/VocvVp0iPd8/mqdefault.jpg",
+      "datum": "2026-06-07T09:30:36Z",
+      "datum_de": "07.06.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Claude & KI | Reader Sentiment",
       "titel": "Zu dumm zum Zählen? Warum 2 von 3 KIs komplett versagen! 🤯 (ChatGPT, Gemini &amp; Claude im Test)",
       "link": "https://www.youtube.com/watch?v=H4qvdsx08VA",
@@ -71,26 +111,6 @@
       "datum": "2026-06-07T08:15:36+00:00",
       "datum_de": "07.06.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "KI Insider",
-      "titel": "Die 5 besten KI-Tools für Schüler &amp; Studenten 2026 – Lernen leicht gemacht!",
-      "link": "https://www.youtube.com/watch?v=H1aSfuWgqV8",
-      "video_id": "H1aSfuWgqV8",
-      "thumbnail": "https://img.youtube.com/vi/H1aSfuWgqV8/mqdefault.jpg",
-      "datum": "2026-06-06T20:41:06Z",
-      "datum_de": "06.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Insider",
-      "titel": "Die 5 besten KI-Tools zum BILDER erstellen 2026 – Aus Text wird Kunst!",
-      "link": "https://www.youtube.com/watch?v=P06Ng1gKJik",
-      "video_id": "P06Ng1gKJik",
-      "thumbnail": "https://img.youtube.com/vi/P06Ng1gKJik/mqdefault.jpg",
-      "datum": "2026-06-06T20:21:54Z",
-      "datum_de": "06.06.2026",
-      "quelle": "suche"
     },
     {
       "kanal": "TechPuls",
@@ -131,26 +151,6 @@
       "datum": "2026-06-05T15:33:18Z",
       "datum_de": "05.06.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "NotebookLM erklärt für Anfänger - Alles was du wissen musst (in 5 Minuten)",
-      "link": "https://www.youtube.com/watch?v=9mGWMr_Xyj8",
-      "video_id": "9mGWMr_Xyj8",
-      "thumbnail": "https://img.youtube.com/vi/9mGWMr_Xyj8/mqdefault.jpg",
-      "datum": "2026-06-05T12:00:34+00:00",
-      "datum_de": "05.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "\"Just Ask Codex\": Inside OpenAI's Own Working Culture | Romain Huet, OpenAI",
-      "link": "https://www.youtube.com/watch?v=f6SIJDGGjuY",
-      "video_id": "f6SIJDGGjuY",
-      "thumbnail": "https://img.youtube.com/vi/f6SIJDGGjuY/mqdefault.jpg",
-      "datum": "2026-06-05T10:00:18+00:00",
-      "datum_de": "05.06.2026",
-      "quelle": "kanal"
     }
   ]
 }
