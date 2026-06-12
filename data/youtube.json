@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-06-11T11:25:47.099902+00:00",
+  "aktualisiert": "2026-06-12T11:05:09.506894+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "MYTHOS Update von CLAUDE: Das neue Fable 5 Modell im Test!",
+      "link": "https://www.youtube.com/watch?v=MGnvfvq_VBQ",
+      "video_id": "MGnvfvq_VBQ",
+      "thumbnail": "https://img.youtube.com/vi/MGnvfvq_VBQ/mqdefault.jpg",
+      "datum": "2026-06-12T10:16:59+00:00",
+      "datum_de": "12.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Neuromorphe KI: DAS verändert ALLES! Warum 20 Watt genügen (Prof. Christoph von der Malsburg)",
+      "link": "https://www.youtube.com/watch?v=P7hoTfEZySs",
+      "video_id": "P7hoTfEZySs",
+      "thumbnail": "https://img.youtube.com/vi/P7hoTfEZySs/mqdefault.jpg",
+      "datum": "2026-06-11T15:15:15+00:00",
+      "datum_de": "11.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KI Insider",
+      "titel": "KI-Agenten bauen OHNE Code – Automatisiere alles mit diesen Tools!",
+      "link": "https://www.youtube.com/watch?v=Zuovo9yLNQ8",
+      "video_id": "Zuovo9yLNQ8",
+      "thumbnail": "https://img.youtube.com/vi/Zuovo9yLNQ8/mqdefault.jpg",
+      "datum": "2026-06-11T13:00:17Z",
+      "datum_de": "11.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "NANCY | Projects To Profit",
+      "titel": "Alle testen Claude Fable 5 falsch – das kann es WIRKLICH im Büro",
+      "link": "https://www.youtube.com/watch?v=68nmWSL1qmw",
+      "video_id": "68nmWSL1qmw",
+      "thumbnail": "https://img.youtube.com/vi/68nmWSL1qmw/mqdefault.jpg",
+      "datum": "2026-06-11T10:41:14Z",
+      "datum_de": "11.06.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "The AI Circle",
       "titel": "Wie ich mit Claude AI 10.000 € in 24 Stunden verdient habe (Schritt-für-Schritt)",
@@ -24,7 +64,7 @@
     },
     {
       "kanal": "Jonas Keil",
-      "titel": "Claude Fable 5 ist der WAHNSINN!!",
+      "titel": "Claude Fable 5 ist der absolute WAHNSINN!!",
       "link": "https://www.youtube.com/watch?v=7VJb3z5LReg",
       "video_id": "7VJb3z5LReg",
       "thumbnail": "https://img.youtube.com/vi/7VJb3z5LReg/mqdefault.jpg",
@@ -34,7 +74,7 @@
     },
     {
       "kanal": "Akademie4KI",
-      "titel": "Claude Mythos + Fable 5 sind da! Alles was du wissen musst (+Praxistest)",
+      "titel": "Claude Mythos Fable 5 sind da! Alles was du wissen musst (+Praxistest)",
       "link": "https://www.youtube.com/watch?v=tiTZKCQviuM",
       "video_id": "tiTZKCQviuM",
       "thumbnail": "https://img.youtube.com/vi/tiTZKCQviuM/mqdefault.jpg",
@@ -103,16 +143,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "MadeByBrain",
-      "titel": "Claude Fable 5: Das KI-Wettrennen eskaliert – fast 1 Billion Dollar Bewertung",
-      "link": "https://www.youtube.com/watch?v=90SzVPjXqP0",
-      "video_id": "90SzVPjXqP0",
-      "thumbnail": "https://img.youtube.com/vi/90SzVPjXqP0/mqdefault.jpg",
-      "datum": "2026-06-09T21:00:33Z",
-      "datum_de": "09.06.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Everlast AI",
       "titel": "20 KI-Tools, die 99% noch nie gehört haben (und dich allen voraus bringen)",
       "link": "https://www.youtube.com/watch?v=w2fVxiUPTv4",
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/w2fVxiUPTv4/mqdefault.jpg",
       "datum": "2026-06-09T15:15:07+00:00",
       "datum_de": "09.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KI Insider",
-      "titel": "ChatGPT Dreaming erklärt – So nutzt du das neue KI-Gedächtnis richtig!",
-      "link": "https://www.youtube.com/watch?v=WXhKXz_2WvM",
-      "video_id": "WXhKXz_2WvM",
-      "thumbnail": "https://img.youtube.com/vi/WXhKXz_2WvM/mqdefault.jpg",
-      "datum": "2026-06-09T13:00:16Z",
-      "datum_de": "09.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "NextMind",
-      "titel": "Die 5 besten kostenlosen KI-Tools 2025 🚀",
-      "link": "https://www.youtube.com/watch?v=bZ4pTNTFUpo",
-      "video_id": "bZ4pTNTFUpo",
-      "thumbnail": "https://img.youtube.com/vi/bZ4pTNTFUpo/mqdefault.jpg",
-      "datum": "2026-06-08T22:36:46Z",
-      "datum_de": "08.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "OpenAI CODEX ist die Super-App? Sites, Plugins & Skills Update!",
-      "link": "https://www.youtube.com/watch?v=eJ935L5WeDU",
-      "video_id": "eJ935L5WeDU",
-      "thumbnail": "https://img.youtube.com/vi/eJ935L5WeDU/mqdefault.jpg",
-      "datum": "2026-06-08T15:00:03+00:00",
-      "datum_de": "08.06.2026",
       "quelle": "kanal"
     }
   ]
