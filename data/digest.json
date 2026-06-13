@@ -1,7 +1,7 @@
 {
-  "datum": "Freitag, 12. Juni 2026",
-  "datumISO": "2026-06-12",
-  "tagesthema": "Der KI-Sektor steht heute im Zeichen verschärfter Regulierung, intensiven Wettbewerbs und weitreichender Auswirkungen auf den Arbeitsmarkt.",
+  "datum": "Samstag, 13. Juni 2026",
+  "datumISO": "2026-06-13",
+  "tagesthema": "Der heutige Tag ist geprägt von verschärfter KI-Regulierung und ethischen Debatten, während der Markt durch Preiskämpfe und beeindruckendes Nutzerwachstum in Bewegung bleibt.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,20 +9,20 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Das wird teuer: Anthropics Claude Mythos 5 erscheint als Fable 5 mit Schranken",
-          "zusammenfassung": "Anthropic hat sein neues KI-Modell, 'Fable 5' (ehemals Claude Mythos 5), veröffentlicht, das mit bestimmten Nutzungsbeschränkungen einhergeht und voraussichtlich teuer sein wird. Dieser Launch positioniert Anthropics Premium-Modell im High-End-Markt, trotz potenzieller Einschränkungen für Nutzer.",
+          "titel": "Gemini Update: KI-Abo wird günstiger, das kann Omni, Upgrade für NotebookLM, Live Translate und mehr",
+          "zusammenfassung": "Google hat ein umfassendes Update für Gemini angekündigt, das ein günstigeres KI-Abo, neue Funktionen für Omni und Upgrades für NotebookLM sowie Live Translate umfasst. Diese Neuerungen sollen die Attraktivität und Leistungsfähigkeit von Googles KI-Angeboten steigern.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGNheUY4aWFPUkFIMnFkUkNnYXBTNFh4dnlfOHNxTlBMeWN2TndVOXI2QVlSQ0Rzdk0tTU1GSENaeHBPemp6ZksxdzNsOEFnMHB6Skp0SDhaTlUzSGpTREhSVTV0Nnc5MWw0ZDRSMC1IekFTZU5zTTZFNXlMMndUYnB1Z3NrNVlCcVZaa1NNb3FmNlk2dEdEcEw1M1ZwQkVWZUlIZGk4MUxBTVltSXVJU0JjN3A?oc=5",
+          "quelle": "GoogleWatchBlog",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xZU5UR3ZFUHdzNjY5NGVfTF9hM0ZLR1JOaHQtUUI0MG4tWjhvdE1WeFBWS0ZWa0VmMllINkhuWjZtc0trYm9KNENjZHA4WFJvRmfSAXpBVV95cUxNeWtQd2R5NWx3YU4tR0R1VE5XWk5mXzJRU3lKU0ZsMHgyY0tvMkl4U2dOZGo0YU5sVGZTSlVDNjNlMk1RXzEwQkxYUlU2WUJWQXNsNURLSVRuU3Z3cEhMSmVwNDMwemFUUVBxUTVQbzBSNDVobWV2R081dw?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Ollama Tutorial: Lokale LLMs in 12 Schritten [2026]",
-          "zusammenfassung": "Dieses Tutorial bietet eine Schritt-für-Schritt-Anleitung, wie man Large Language Models (LLMs) lokal mit Ollama einrichtet und betreibt. Es demokratisiert den Zugang zu leistungsstarken KI-Tools und ermöglicht Entwicklern und Enthusiasten, LLMs auf ihrer eigenen Hardware zu experimentieren und einzusetzen.",
+          "titel": "Deployment of Large Language Models using Amazon SageMaker - AWS ML Fridays",
+          "zusammenfassung": "Amazon Web Services (AWS) bietet mit SageMaker neue Möglichkeiten für das Deployment von Large Language Models. Dies erleichtert Unternehmen die Integration und Skalierung von KI-Modellen in ihre Anwendungen und beschleunigt die Entwicklung KI-gestützter Lösungen.",
           "einordnung": "",
-          "quelle": "tech-insider.org",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96dFhjbnluaW5kU0JQTEdCQ0ZoMXVLN1BKbUpPcmpMUDEyRGNIc2dONUpCUVZaX2FaNDY5bmx2ZHBOWXFFUEZCNm0tcVdzTHh5TzRaSVpJUHp3UlZwcEJHYm9RNVdydkY5ZkVpdnZ5eFpZMXl6TzZLUUVtOGgxQQ?oc=5",
-          "sterne": "⭐"
+          "quelle": "Amazon Web Services (AWS)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpeGhYOU9pSzk1SzVESzRzNDdVTDBieGhJLWljWUV6Wnl4Z1p3RFNRTHhjQWlvel9MbjZFN1JVVU5DN0I0Z29kRmhQS3E1QUVhU3czbU9ILUQ5UFVOT3JZ?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     },
@@ -32,36 +32,20 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "OpenAI wählt Madrid: ChatGPT-Macher startet Spanien-Büro",
-          "zusammenfassung": "OpenAI, der Entwickler von ChatGPT, erweitert seine globale Präsenz durch die Eröffnung eines neuen Büros in Madrid, Spanien. Dieser strategische Schritt zielt darauf ab, die Stellung im europäischen Markt zu stärken und lokale Talente sowie Partnerschaften zu fördern.",
+          "titel": "Ona: Warum OpenAI ein Kieler KI-Start-up für Codex kauft",
+          "zusammenfassung": "OpenAI hat das Kieler KI-Start-up Ona erworben, um seine Codex-Fähigkeiten zu stärken und die Entwicklung im Bereich der Code-Generierung voranzutreiben. Diese Akquisition unterstreicht OpenAIs Strategie, durch Zukäufe innovative Technologien und Talente zu integrieren.",
           "einordnung": "",
-          "quelle": "Euronews",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMmtuRS1Wdnl2cS0xNE9xSVpjbmJBVVR1RXMtY2lVZ2w1UGppS3dWWG1IaWJpS0IxbU5YQWVnMlJJN0lodGNSaE13QURUMHBBWVRDZ2ZaNkU3Y3VDbTVxQWk1b1FQZ2pDbWhEM1c5MFhFMFhFSWdWdDVCazBjclRobGlLWDgwN0l5WGF6NDBnLTVpdFU5Z3pYdlhJZ3JUZkJ2cVp6ZTRFaFhTVVdrYlc1RGhFTWRweTdy?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Nach heftiger Kritik: Anthropic macht KI-Einschränkungen sichtbar",
-          "zusammenfassung": "Nach erheblicher Kritik hat Anthropic beschlossen, die Einschränkungen seiner KI-Modelle für Nutzer transparenter zu machen. Dieser Schritt soll Bedenken hinsichtlich KI-Sicherheit und ethischer Nutzung adressieren und so Vertrauen und Verständnis bei der Nutzerbasis fördern.",
-          "einordnung": "",
-          "quelle": "it-daily",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBISkI2SGl1SmF4NDBJY1BaenhsNnhvN3B2d2V5MXpqMktuek1sVkltMWxTVkF2ZGFaN2d1bTduOTk0OWE1VjNDXzZsRHNkTmc5NEQ1RVNUZkRYZC1ack12X2hfTDZlMUZ4bDVvRGYxS2VQRm15UXNXdXZ0MA?oc=5",
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMlBVZFBFM0Rfd09xTHp6UFhsdEtYVmJ2MkN3SlAzLTZrOTJ0a2U1dkdrdW9maU52QXNSbENwWms0SjFpNW9nRkdjSnF1TlNDaGM3RjhyRlIxam5MNmNrZGQyNlpmcnBySDFrNjhQVlEtNmtnY2hpb3d0aURyWGc3bnNBTXNmMlFkMjZMcTdvdG5lOFFlWEFOcWc3bnZ4eXU3ZjFNcFQ4S2ZoWEppTF90QXVNOENONHFwY1VoRU1Kcw?oc=5",
           "sterne": "⭐⭐"
         },
         {
           "titel": "Gemini-Ausfall: Google bestätigt Störung der KI-App",
-          "zusammenfassung": "Google hat eine Störung seiner Gemini KI-Anwendung bestätigt, die zu vorübergehenden Dienstausfällen für Nutzer führte. Das Unternehmen arbeitet aktiv daran, das Problem zu beheben und die volle Funktionalität wiederherzustellen, was die Herausforderungen beim Betrieb robuster KI-Infrastrukturen unterstreicht.",
+          "zusammenfassung": "Google hat eine Störung seiner KI-App Gemini bestätigt, die zu einem Ausfall führte und Nutzer beeinträchtigte. Solche Vorfälle unterstreichen die Herausforderungen bei der Skalierung und Wartung komplexer KI-Systeme für Millionen von Nutzern.",
           "einordnung": "",
           "quelle": "heise online",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORC1SQ0xWSU9odGpGWkNhMDJGdjlLMWdwdkQwV0xFVE1NZW45dWNCRmR3LTRPYjRIVGlCcS1FWlU3OHVoa2ptdkNNQkswanpSVzNxa2hUWDlCYS1MUVdUZDRFSVRNQXl1WFUzaURXWXFCRlRfdkVMcWlrcHRyR01oSWQyNlVEUjdjbC1PbWpzWm1IcDA?oc=5",
           "sterne": "⭐"
-        },
-        {
-          "titel": "Google macht sein günstigstes KI-Abo günstiger und stärker",
-          "zusammenfassung": "Google macht sein erschwinglichstes KI-Abonnement noch günstiger und leistungsfähiger, wodurch der Mehrwert für die Nutzer steigt. Diese strategische Preis- und Funktionsaktualisierung zielt darauf ab, ein breiteres Publikum anzuziehen und Googles Position im wettbewerbsintensiven KI-Abonnementmarkt zu stärken.",
-          "einordnung": "",
-          "quelle": "derStandard.de",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2llMUo4SmxiMHhrc0d3UGJOdEphNGoyR09EWE8wMG5uMlUyR1ZSWXJyTm9iYkhiMlM5Z2dHM2hsUjRTcUVNeEt0VlpNaW1sZ0I3N0duTnpzUHI0eEpTRGphc0tiUjVlc1Y4Zk5iWlJuXzhPd3Y0cW1LWGNWUmUxZVcyQ29DNnBaeWV0UGpjWkdDLXJyV0FSLU16MlJkR29RcGdIUEpCbmNjS3o5?oc=5",
-          "sterne": "⭐⭐"
         }
       ]
     },
@@ -71,36 +55,36 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Zwei Verlage hatten geklagt: Google haftet für seine KI-Übersicht",
-          "zusammenfassung": "Ein Gericht hat entschieden, dass Google für seine KI-generierten Übersichten haftbar ist, nachdem zwei Verlage Klage eingereicht hatten. Dieses wegweisende Urteil schafft einen Präzedenzfall für die Verantwortlichkeit von KI-Anbietern in Bezug auf von ihren Systemen generierte Inhalte, insbesondere im Hinblick auf Urheberrecht und geistiges Eigentum.",
+          "titel": "Anthropic schaltet modernste KI-Modelle nach US-Verbot für Ausländer ab",
+          "zusammenfassung": "Als Reaktion auf ein US-Verbot für ausländische Nutzer hat Anthropic seine modernsten KI-Modelle abgeschaltet. Diese Maßnahme zeigt die zunehmende geopolitische Dimension der KI-Regulierung und den Schutz nationaler Interessen im Technologiesektor.",
           "einordnung": "",
-          "quelle": "tagesspiegel.de",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaE4xbnI1ajZRdkVSUEpzWEFvVXM4blluTXU0NFZmTTBEdWJVSWRTeVpEQWdFLThkak5XV190MGx5T0tmS1BuSGNTTUhFd2Ixa2FFTmNMeklHUEQ2UF9uRENvTjhjeXNoc3lRWGFqU1NUaVJoMUpMZmE5dl9vRUtrRnlZWEd1d0JYb0U1NkVSSW1KajBpbjVkOWtaNldhYTR5US14NjdoRkhaNjNXc25Ka0YtWHR3YjAx?oc=5",
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOEpOTmUxREdRNlgzbERORFJwZmFKZmt3WFVGcVNSNktmcDY0Mm4zdXRDVFo1cjJpOEo1SEZ0Vi04V0NteW5UOHRBa1MxamdKc3RKcnhweEhtQ0dDSXRzZzJ6NWh1enlSaVBNdlk2Tnd2c3JMb2pKeDNmOFlKcEYtV0dKeFBhZDd6LVdweVZKTUlJSFhtSUJjWDN6TGRwbDBRYlFWRUlnUXFsR1dRajZzSWdqdGFLWGd4bjdTbk9ZWXpXai1YMS1JaWF3?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "KI-Regulierung: Bundestag beschließt nationale Marktüberwachung",
-          "zusammenfassung": "Der deutsche Bundestag hat ein Gesetz zur nationalen Marktüberwachung von KI-Systemen verabschiedet, was einen wichtigen Schritt in der KI-Regulierung darstellt. Ziel ist es, die Einhaltung von Sicherheits- und Ethikstandards für KI-Produkte und -Dienstleistungen innerhalb Deutschlands sicherzustellen.",
+          "titel": "Zwei Verlage hatten geklagt: Google haftet für seine KI-Übersicht",
+          "zusammenfassung": "Ein Gericht hat entschieden, dass Google für Inhalte seiner KI-Übersicht haftet, nachdem zwei Verlage geklagt hatten. Dieses Urteil setzt einen wichtigen Präzedenzfall für die Verantwortung von KI-Anbietern bei der Verbreitung von Informationen und generierten Inhalten.",
           "einordnung": "",
-          "quelle": "Börse Express",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnM5WmRxSlNuaE9xV3VpRFVTSGhJMFBkazlSbTQ5TzNMVm0zbWRoWjRJMFJaUDZaMXQ4T0YtT3lSb1Vqb1hhMFVxZ1U1QTVpMXVTemFkTTBQNUlXMFRtZG4xeG5EQlFaVXFhUmdRa2VOS2tnVWUybFdtZ0IwLVVpdU9BdTFKbVZlZC1OcU9aQ0xOdjMzT3J5ZE1aMVFlSGYwYUhSTkM1eldlQUQwaFVCVGVJcXRQdlk?oc=5",
+          "quelle": "Tagesspiegel",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaE4xbnI1ajZRdkVSUEpzWEFvVXM4blluTXU0NFZmTTBEdWJVSWRTeVpEQWdFLThkak5XV190MGx5T0tmS1BuSGNTTUhFd2Ixa2FFTmNMeklHUEQ2UF9uRENvTjhjeXNoc3lRWGFqU1NUaVJoMUpMZmE5dl9vRUtrRnlZWEd1d0JYb0U1NkVSSW1KajBpbjVkOWtaNldhYTR5US14NjdoWkhaNjNXc25Ka0YtWHR3YjAx?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "KI-Regulierung: Bundestag beschließt Gesetz mit bis zu 50.000 Euro Bußgeldern",
+          "zusammenfassung": "Der Bundestag hat ein neues KI-Regulierungsgesetz verabschiedet, das Bußgelder von bis zu 50.000 Euro für Verstöße vorsieht. Dieses Gesetz verschärft die Anforderungen an den Einsatz von KI in Deutschland und soll die Einhaltung ethischer Standards und den Schutz der Bürger sicherstellen.",
+          "einordnung": "",
+          "quelle": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHJ6aVFmNDczc2k4RGpvYXR0djNBR1JjamlKMEpyVV9FUU9VZW1xNWtsOEpXZ3VZSndwdDAwVTFhcE42c3JOa0pMSUtSR1NaQ1cyaUhEalBUbFVaTk1RNFNOTnpUeHhoZE5sZ2hHVFR5NV9GZGFwZ0NaSVJqRWNza2tVal92MF9SUUlERE1SR3FJeW51clJGQS1UbnRneW9rMzNLQ2hwbDRJTDN3bnk1UVJRYm1ydw?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
           "titel": "KI-Regulierung: USA und EU beschließen radikale Kontrollsysteme",
-          "zusammenfassung": "Die USA und die EU haben sich gemeinsam auf radikale Kontrollsysteme für die KI-Regulierung geeinigt, was einen konzertierten internationalen Versuch zur Steuerung künstlicher Intelligenz signalisiert. Diese Zusammenarbeit zielt darauf ab, umfassende Rahmenwerke für die Entwicklung und den Einsatz von KI zu etablieren und globale Bedenken hinsichtlich Sicherheit und Ethik zu adressieren.",
+          "zusammenfassung": "Die USA und die EU haben sich auf radikale Kontrollsysteme für die KI-Regulierung geeinigt, um die Entwicklung und den Einsatz von Künstlicher Intelligenz global zu steuern. Diese transatlantische Zusammenarbeit signalisiert einen globalen Trend zu strengeren Vorschriften für die Technologie.",
           "einordnung": "",
           "quelle": "BornCity",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeTNGNjNfLVZuTjh4eWNjbm9rRGFBUHVOVVFJUjhMVko3T095aEFLYXdTWGo5X0RYaVNOMk94UTE0UVVrUGxiQTVDUjExbVlsRWtLY2pGcGVyWDNuVjBPaXBVNGxIRG9QcjNRVVN1bERLQk04OGtJWWo5ak5GX01qTDJieVdGODVjUnlQbmdMdm8tMnFh?oc=5",
           "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "KI Regulierung - Bundesministerium für Digitales und Staatsmodernisierung",
-          "zusammenfassung": "Das Bundesministerium für Digitales und Staatsmodernisierung legt seine Position und Initiativen zur KI-Regulierung dar. Dies unterstreicht das Engagement der Regierung, Innovationen zu fördern und gleichzeitig eine verantwortungsvolle und vertrauenswürdige Entwicklung von KI-Technologien sicherzustellen.",
-          "einordnung": "",
-          "quelle": "Bundesministerium für Digitales und Staatsmodernisierung",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85ZWthc1dYejNfNGdqSEZfTjdhMDlGdnZkREFKVmtlU1Y0eW04c0JjdS1wXzU4U2RlaHZmakRTQkNsV3pwYy1DNEJpSG9xX0NoUFVOamZTUG5MektINmFpcFdoc3IyU1FSZmF2eWVpMzQyUTRE?oc=5",
-          "sterne": "⭐"
         }
       ]
     },
@@ -111,15 +95,15 @@
       "artikel": [
         {
           "titel": "An Exploratory Study of Strategic Domain-Driven Design with Large Language Models",
-          "zusammenfassung": "Diese explorative Studie untersucht die Anwendung strategischer Domain-Driven-Design-Prinzipien in Verbindung mit Large Language Models (LLMs). Sie erforscht, wie diese Methodologien die Entwicklung und Implementierung komplexer KI-Systeme verbessern und deren Kohärenz und Effektivität steigern können.",
+          "zusammenfassung": "Eine explorative Studie untersucht den strategischen Domain-Driven Design-Ansatz in Verbindung mit Large Language Models, um deren Anwendung in komplexen Softwaresystemen zu optimieren. Die Forschung beleuchtet, wie LLMs effektiv eingesetzt werden können, um Geschäftslogik besser abzubilden und die Systemarchitektur zu verbessern.",
           "einordnung": "",
           "quelle": "springerprofessional.de",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTVXV1NTRXRlMDVTWnRfemk2bkY4aXhqQ1NDMm1TelVaNkoxM3k4MDMzbFowcl9Tdld2b2ptdmRxWmlLbWVRT1B4T21CdWM3R1dvaU1hazVqbVJEdS1qT18zY2xLRjBqdkl6Q1RYbXBFZFJyRWI5QmpxS2ZfSGZTNXlwZlA3U2xGUEp4bDhNbEp5WThxYnRzRHhydzAzakhzTFBuZThtSWdlQWxTWWc?oc=5",
-          "sterne": "⭐⭐"
+          "sterne": "⭐"
         },
         {
           "titel": "Unisound AI Technology führt neues Large Language Model ein",
-          "zusammenfassung": "Unisound AI Technology hat ein neues Large Language Model (LLM) eingeführt und erweitert damit sein Portfolio an fortschrittlichen KI-Lösungen. Dieser Launch zielt darauf ab, verbesserte Fähigkeiten für verschiedene Anwendungen, von der Verarbeitung natürlicher Sprache bis zur Inhaltserstellung, bereitzustellen.",
+          "zusammenfassung": "Unisound AI Technology hat ein neues Large Language Model vorgestellt, das auf jahrelanger Forschung und Entwicklung basiert. Die Einführung erweitert das Portfolio des Unternehmens und trägt zur zunehmenden Vielfalt und Leistungsfähigkeit im Bereich der generativen KI bei.",
           "einordnung": "",
           "quelle": "MarketScreener Deutschland",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUGZucThaeWlBNTNYOHFxT0c0RWFra21pdEtyeTNJcjZ0Mm1yQXNMZGhsQzV4V1d6U1pzUmpkdUhLb1FIU3hWOXpIRDZER1JGWDdxWXdlZnp5eVo0a2phQm53SXlNbnhOVzlNU0gydFM2SnVvUEpyd0xSX0pFdzh1dmNQcHBhTFpmOGRZM2JXaWFiN2tlN05KT2M3SlRmTEttMnAxOGp0aXBKdkxqZ05XbGVnYlZMMF8tczZzakVscTNzLXJL?oc=5",
@@ -128,85 +112,85 @@
       ]
     },
     {
-      "emoji": "💼",
-      "titel": "KI & Arbeitsmarkt",
+      "emoji": "🛡️",
+      "titel": "KI & Sicherheit",
       "fest": false,
       "artikel": [
         {
-          "titel": "KI im Arbeitsmarkt: Deutschland braucht jetzt das Freiwillige Handwerksjahr",
-          "zusammenfassung": "Der Artikel diskutiert die Auswirkungen von KI auf den deutschen Arbeitsmarkt und betont die Notwendigkeit qualifizierter Handwerksberufe. Es wird ein 'Freiwilliges Handwerksjahr' vorgeschlagen, um dem Wandel der Nachfrage zu begegnen und die Arbeitskräfte auf eine Zukunft vorzubereiten, in der KI menschliche Fähigkeiten in bestimmten Sektoren ergänzt.",
+          "titel": "Bericht aus der Ukraine: KI soll erstmals eigenständig Soldaten getötet haben",
+          "zusammenfassung": "Ein Bericht aus der Ukraine deutet darauf hin, dass Künstliche Intelligenz erstmals eigenständig menschliche Soldaten getötet haben könnte. Dies wirft dringende Fragen bezüglich der autonomen Kriegsführung, der ethischen Grenzen des KI-Einsatzes im Militär und der globalen Sicherheit auf.",
           "einordnung": "",
-          "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlB3WXUwenZUVWdlR2lxbmZSQlVpdE8wTk9MZGE5anFkVTVVYVdCbjk3RGZ4d20takJjOUZYdld4emlGSGhYUldpblNPRVo0ZTZKTW8xOFhOUWJsa3kyRl8wLVNFckNnTEtVY1NvYXkzdk1NNGdDT1V3ckVSN1hHNWZsMkR2TnA4RE1pNmtKOU5uY1ppZHNLem9CeXg5ZXl3WWc?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "Ntv",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFdRMFRvdndTQkVja2JqOHREd05JaDROMm5QbXJXa19XWWU1SVJWNWZsYkZiZ3doV1FMcGZubVROUV9EcEVGdzBEUjZ4RTkybkhES3otLS1rejJvRkdyNVg3RjJ0ZWNRQ2o2TFhqQURrUE8tNmVsNGt0a25TeHp2dWUwdWRXOTQtbG1IR0t1REsyV1RnSTVKTFFvQnowdw?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "\"Schlechtes Handwerk\" - Was ein KI-Experte zum Fall Voigt sagt",
-          "zusammenfassung": "Ein KI-Experte äußert sich zum 'Fall Voigt' und kritisiert das 'schlechte Handwerk' bei der Anwendung oder dem Verständnis von KI. Dies unterstreicht die wachsende Bedeutung qualifizierter Expertise und einer sorgfältigen Implementierung von KI-Technologien, um Fallstricke zu vermeiden und einen effektiven, ethischen Einsatz zu gewährleisten.",
+          "titel": "Künstliche Intelligenz - Anthropic sperrt Top-KI-Modell nach Regierungs-Anordnung",
+          "zusammenfassung": "Anthropic hat auf Anordnung der Regierung sein Top-KI-Modell gesperrt, was auf Bedenken hinsichtlich Sicherheit oder nationaler Interessen hindeutet. Die Entscheidung unterstreicht die wachsende staatliche Kontrolle über fortschrittliche KI-Technologien und deren potenzielle Risiken für die Gesellschaft.",
           "einordnung": "",
-          "quelle": "MDR.de",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdEJGWmczSC1LODlKMUZsMWM4UmVReEg4RHdnc2J1RlhFMWk1Y3NzVFdJOXg1TjJDQkt4TVN6R2lINmRCMEtGZjVCaVNmaGIxcEpXNHJBLTdmaTVNWWwzbkZnTnpjX2lGZXl5RjM1ajlDaVRPeDdnd1pheDZyd0lGazdaQUZTZk0yREdVbEpNbzhOUVVpMG8xMXRsNWpiRmljNHJfRWs3MktNVE5O?oc=5",
-          "sterne": "⭐"
+          "quelle": "SZ.de",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQM2Y4LUUtYWlyeDRIWG15ckYyVTlGQ2JEemhVbFFRMVFiNlQzaV9NRk9lUkw3RXQwUHBwU1BkMEJmM0ZlOUZ0SVJLUV94Q3UyT3lqMzZQd3BSa05JcHVtOVpOZzk5anc3VWFYSTl3Z0h6aHNqNHlCYVhDVEFHc1FlWjhtNU9ZVk1HaFVaaWxrVmRjdzY5OTJkVlE4WnBrN1djQWMwLUo5Y2VpdHZ5WENPM0hGN2Z0ZmpXMVRJRHVMR3lIaDV6Um5LYVp6RHc0TElEYmxjZWh6R0hlb2pVYi03bWhwLTk4RktIcXNfVVBsTHIxNnpYQWdfRUlyS25HZw?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Künstliche Intelligenz: Jede fünfte Firma sieht KI als Ersatz für Hochschulabschluss",
-          "zusammenfassung": "Eine Umfrage zeigt, dass jedes fünfte Unternehmen KI-Fähigkeiten als Ersatz für einen Hochschulabschluss betrachtet. Dies deutet auf eine signifikante Verschiebung in den Einstellungspraktiken und der Bewertung praktischer KI-Kompetenzen gegenüber traditionellen akademischen Qualifikationen auf dem Arbeitsmarkt hin.",
+          "titel": "US-Regierung erzwingt Abschaltung von Anthropics KI Fable 5 und Mythos 5",
+          "zusammenfassung": "Die US-Regierung hat die Abschaltung von Anthropics KI-Modellen Fable 5 und Mythos 5 erzwungen, was auf ernste Sicherheitsbedenken hindeutet. Dies ist ein klares Zeichen für die Entschlossenheit der Behörden, bei der Regulierung fortschrittlicher KI-Systeme durchzugreifen, um potenzielle Gefahren abzuwenden.",
           "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSGIzLW5Pb2tibHJkampNZmR5Ml9FVWRPLWJ3RzV0eHZfMFU3eS1KOGVXZEFHOEFhY1hQMGMwTjlib291b0oxcW5qVURmRHEwcFF6amYzV3AtYWZkaEZfcC1Hd1hvWjBEVDhXVUNQUDYzSjNtRHk1OXhNVTM3Mjlud1MwT1hwcENTM3ozS3ktcmM3LWRFZXBfdTgyYnRoVmUyUjRhMjFETmJ2dENoa0pGTEkyRjZQaWx3SjJ6c1pMcW9SSWtMOGNTQ3VOc0lhTUhzeE40OTByUjBXUFJLMGVhcTVlUXYxNFdUWlBIc3Bn?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnJ2eUtuNm1SWXg3TW43Vk14b29ibzN0Y3Vnc0ltOXZvQVl5bDJCQl9YRDZKUkFwazRTV2kzejY4QjR0ZnlLTlV3Y2NWaUtuTTdoUE5tLUxTalc5ZXd0TC1iYjc5SjBRMmVMMkF3d19wWGp0NlZick52TUJOdVhyZWtqQ3oxM3RSYWRySEZHR2NOSGpJUWk0NGhsZWwtc1lJNVlYd1U5QjRiemg4RkpGZS1R?oc=5",
           "sterne": "⭐⭐⭐"
         }
       ]
     },
     {
       "emoji": "💰",
-      "titel": "KI & Markt & Wettbewerb",
+      "titel": "KI & Markt",
       "fest": false,
       "artikel": [
         {
           "titel": "KI-Preiskampf: OpenAI soll ChatGPT-Preise drastisch senken wollen – Anthropic könnte folgen",
-          "zusammenfassung": "OpenAI plant Berichten zufolge drastische Preissenkungen für ChatGPT, was einen breiteren Preiskampf unter führenden KI-Anbietern auslösen könnte. Dieser Schritt könnte Konkurrenten wie Anthropic zwingen, nachzuziehen, den Wettbewerb zu verschärfen und fortschrittliche KI-Modelle zugänglicher zu machen.",
+          "zusammenfassung": "Berichten zufolge plant OpenAI eine drastische Senkung der ChatGPT-Preise, was einen intensiven KI-Preiskampf auslösen könnte. Anthropic wird voraussichtlich diesem Trend folgen, um wettbewerbsfähig zu bleiben und Marktanteile im schnell wachsenden KI-Sektor zu sichern.",
           "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16WXZwc0NNMnBjR0x5RGhlUmlNa2h5S3JjakRqTVBnRVNDNmVBTk03a2ZRSkppeGpGRm5qMVpQbFd6Mzc4UVd5dXl4dGhueDNtcnAyaU05NWpEekRiV0dxeHFYNnRuLTRkQUdTUw?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Künstliche Intelligenz an der Börse: Erst Boom, dann Crash?",
-          "zusammenfassung": "Der Artikel beleuchtet die volatile Natur von KI-Investitionen an der Börse und stellt die Frage, ob der aktuelle Boom zu einem zukünftigen Crash führen könnte. Er analysiert die Faktoren, die die hohen Bewertungen von KI-Unternehmen antreiben, und potenzielle Risiken für Anleger.",
-          "einordnung": "",
-          "quelle": "ZDFheute",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWctRHFiSVN6RFFMaGJSajVQWnhHU3BGQmYzbmxGX3lEeUVHTG1zZFZKUS1RZnVZUE9GSGY4RTZlcjh5eHdLU1Z1V2YwbmFGNUx6N3ZJbjJGMmhudV9VV2UxZENHUFJKZmFRQ3lvejNlVktfT3k4U1BWaUpVNkl0WnZpVmRZcDJZTFNWMTFaR3VxeERzUktQbGVUVE1nbXRYMk04WkpZMHp5dnBzcUpF?oc=5",
+          "quelle": "T3N",
+          "url": "https://news.google.com/rss/articles/CBMibAFBVV95cUxNekl2cHNDTTJwY0dMeURoZVJpTWtoeUtyamRqTVBnRVNDNmVBTk03a2ZRSkppeGpGRm5qMVpQbFd6Mzc4UVd5dXl4dGhueDNtcnAyaU05NWpEekRiV0dxeHFYNnRuLTRkQUdTUw?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Anthropic-Aktie: Top-KI-Modell nun mit Einschränkungen verfügbar",
-          "zusammenfassung": "Die Anthropic-Aktie wird genau beobachtet, da ihr Top-KI-Modell nun mit sichtbaren Nutzungsbeschränkungen verfügbar ist. Diese Entwicklung könnte die Anlegerwahrnehmung und die Marktbewertung beeinflussen, da das Unternehmen fortschrittliche Funktionen mit einem verantwortungsvollen KI-Einsatz in Einklang bringt.",
+          "titel": "1.000.000.000 Nutzer: ChatGPT entfacht die Börsen-Fantasie",
+          "zusammenfassung": "ChatGPT hat die beeindruckende Marke von einer Milliarde Nutzern überschritten, was die Börsen-Fantasie beflügelt und den Wert von KI-Unternehmen in die Höhe treibt. Dieser Meilenstein verdeutlicht das immense Wachstum und das wirtschaftliche Potenzial von generativer KI auf globaler Ebene.",
           "einordnung": "",
-          "quelle": "Finanzen.net",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc21OcGk2ZVo4VHhTU2FuTEdNU05fTUE5MEhSQTdpU19iMU13dlpSOFpyRFkzVm9QU2xRNlVILUUtZ252MW5sT1R1ekhNRmwyQXBjOUNZMHJFWVFGa0E4RUlrRFJOeS1DbjR2dkRrMV92MWRvaEVHVHlWOV9NWHlQUGh0akZhai1vOVl2cmk3Ujh4a0F5elYtZ2dhb0ZmeTJqOUlVWElucEtMZXdObVdza01BY2d4ZVZvRjR4UG9SRXhUZm40Ml9TLS1Yb9IBugFBVV95cUxNbk01eFY5cUdYZHduM1pXRm50ZHRMeEZfRDFTcFhxaUEzWmR5d3hCTHA4ODNaaE1BQlJ4VGV3ajBpVHlpLU9DT0pSQ185M1pBRXhlZ2FTTk5tWGF3QllFcjhIQlNhRTk2Z0o4QnphX1JWVGs0azE2YTlQSkpoUG5faWMtN1JRazd0NWxYQXVlbGxSTnZWNnB1NnZtUzAyNzBWWlB1M2kwTkJya0ZTRG1sX3dPQjFNTE9pdlE?oc=5",
-          "sterne": "⭐"
+          "quelle": "Wallstreet Online",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGw3TjJET3pPbDJpYW1LQlR6eUpETDROOWd0SUZHdG4wSnI1MXowMUZ1UjhFdkRWejMxLVB1YWdlbmdQRzQwVnY3UXZYY041Z0wyTnM3c0pSaF9MRE5kb2VPME5FcmRfdndQeGEtbDJiaGw5M3N0MndjQXRfLUVaTEViMHJiYV8xUVIycWp2Y1V5S3c4XzhsdUtZVHRCMzBZNnVSUm00YWNkcmY1Y0l1Rl9yVU1OUFRHZ1U5S1I5SW1pTGs?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Der KI-Preiskrieg beginnt: ChatGPT wird wohl bald deutlich günstiger",
+          "zusammenfassung": "Ein bevorstehender Preiskrieg im KI-Sektor wird erwartet, da ChatGPT wohl bald deutlich günstiger angeboten wird. Dies könnte den Zugang zu fortschrittlicher KI demokratisieren, aber auch den Druck auf andere Anbieter erhöhen und die Wettbewerbslandschaft nachhaltig verändern.",
+          "einordnung": "",
+          "quelle": "WinFuture",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PN2hBVDY1cExLd29DdGFiR1FzdHRWRjhFRjE3ZTluUkdRdnFzeVNIQzl1TFlnZzR3bHZiTmxnN3NhYUZTSkdSWGtJcFVYZw?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-06-12T09:53:13.265Z",
+  "generiert_um": "2026-06-13T08:44:06.685Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
       "desc": "Mo, Mi, Fr · mit The Decoder",
-      "episode": "KI-Update kompakt: WWDC, Google soll haften, KI-Sicherheit, Mythos ist da, KI-Airhockey",
-      "datum": "10.6.2026",
-      "dauer": "20 Min.",
+      "episode": "KI-Update Deep-Dive: Vibecoding als Sicherheitsrisiko - feat. TTT",
+      "datum": "12.6.2026",
+      "dauer": "19 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/f1/22/9bf12286-42a8-2765-8a9d-91a07df6b535/mza_1407979254960059607.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp"
     },
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "Apple nimmt Anlauf | OpenAI reicht IPO ein | xAI trainierte Grok heimlich auf Claude #569",
-      "datum": "9.6.2026",
-      "dauer": "97 Min.",
+      "episode": "SpaceX-IPO & Anthropic Fable 5 | $14k Token für $200-Abo | OpenAI übernimmt ONA aus Kiel #570",
+      "datum": "12.6.2026",
+      "dauer": "78 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
@@ -240,9 +224,9 @@
     {
       "name": "Deep Minds · KI & Wissenschaft",
       "desc": "Experten-Interviews · tiefgründig",
-      "episode": "KI bei der BWI und der Bundeswehr | DEEP MINDS #16",
-      "datum": "5.8.2023",
-      "dauer": "87 Min.",
+      "episode": "",
+      "datum": "",
+      "dauer": "",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/42/5b/33/425b332f-9133-8ea4-4b0f-87cf36be5bfc/mza_3332432553733513187.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/6rmXt98jRHNziyG1ev3sAT"
     },
