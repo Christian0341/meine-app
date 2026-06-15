@@ -1,7 +1,67 @@
 {
-  "aktualisiert": "2026-06-14T10:28:32.181475+00:00",
+  "aktualisiert": "2026-06-15T13:21:31.942774+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "KIOrbit",
+      "titel": "ChatGPT &amp; Codex 2026: So baue ich Software ohne Vibe Coding",
+      "link": "https://www.youtube.com/watch?v=mLWKhsHhDjw",
+      "video_id": "mLWKhsHhDjw",
+      "thumbnail": "https://img.youtube.com/vi/mLWKhsHhDjw/mqdefault.jpg",
+      "datum": "2026-06-15T10:00:00Z",
+      "datum_de": "15.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "IchBinFabian",
+      "titel": "GLM 5.2: 10x billiger als Claude, aber wo ist der Haken?",
+      "link": "https://www.youtube.com/watch?v=bN1QJi26kco",
+      "video_id": "bN1QJi26kco",
+      "thumbnail": "https://img.youtube.com/vi/bN1QJi26kco/mqdefault.jpg",
+      "datum": "2026-06-15T06:30:40Z",
+      "datum_de": "15.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Neuland Pro",
+      "titel": "HEFTIGE KI NEWS: Chat ist TOT! Das stärkste KI-Modell aller Zeiten ist da! Anthropic warnt vor KI",
+      "link": "https://www.youtube.com/watch?v=AOyl4EOkg24",
+      "video_id": "AOyl4EOkg24",
+      "thumbnail": "https://img.youtube.com/vi/AOyl4EOkg24/mqdefault.jpg",
+      "datum": "2026-06-15T06:00:04+00:00",
+      "datum_de": "15.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "IchBinFabian",
+      "titel": "Open Source schlägt Claude? Kimi K2.7 Code live getestet",
+      "link": "https://www.youtube.com/watch?v=ACWiFXtQPfQ",
+      "video_id": "ACWiFXtQPfQ",
+      "thumbnail": "https://img.youtube.com/vi/ACWiFXtQPfQ/mqdefault.jpg",
+      "datum": "2026-06-14T17:45:02Z",
+      "datum_de": "14.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Claude Code ist JETZT noch einfacher geworden - Superpower für ALLE!",
+      "link": "https://www.youtube.com/watch?v=idxVAUs4VN0",
+      "video_id": "idxVAUs4VN0",
+      "thumbnail": "https://img.youtube.com/vi/idxVAUs4VN0/mqdefault.jpg",
+      "datum": "2026-06-14T14:15:14+00:00",
+      "datum_de": "14.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KI Insider",
+      "titel": "Perplexity AI – Besser als Google? Kompletter Guide auf Deutsch!",
+      "link": "https://www.youtube.com/watch?v=9xmjo56YGQw",
+      "video_id": "9xmjo56YGQw",
+      "thumbnail": "https://img.youtube.com/vi/9xmjo56YGQw/mqdefault.jpg",
+      "datum": "2026-06-14T11:12:11Z",
+      "datum_de": "14.06.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "DAS kann Claude „Fable 5” wirklich & DARUM ist es gesperrt! (Alles was du jetzt wissen musst)",
@@ -33,6 +93,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Marc De Fanti",
+      "titel": "Claude Fable 5 und Mythos 5: Beide jetzt weltweit offline",
+      "link": "https://www.youtube.com/watch?v=Z4xz3Af8YnE",
+      "video_id": "Z4xz3Af8YnE",
+      "thumbnail": "https://img.youtube.com/vi/Z4xz3Af8YnE/mqdefault.jpg",
+      "datum": "2026-06-13T11:00:39Z",
+      "datum_de": "13.06.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "klareabsicht",
       "titel": "7 Claude AI Tricks, die du kennen musst!",
       "link": "https://www.youtube.com/watch?v=dNIn_1c4mmU",
@@ -40,16 +110,6 @@
       "thumbnail": "https://img.youtube.com/vi/dNIn_1c4mmU/mqdefault.jpg",
       "datum": "2026-06-13T10:24:58Z",
       "datum_de": "13.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "The AI Circle",
-      "titel": "10.000 €-Websites in Minuten mit Claude Fable 5",
-      "link": "https://www.youtube.com/watch?v=teB8-ZWXZFw",
-      "video_id": "teB8-ZWXZFw",
-      "thumbnail": "https://img.youtube.com/vi/teB8-ZWXZFw/mqdefault.jpg",
-      "datum": "2026-06-12T20:30:29Z",
-      "datum_de": "12.06.2026",
       "quelle": "suche"
     },
     {
@@ -90,66 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/P7hoTfEZySs/mqdefault.jpg",
       "datum": "2026-06-11T15:15:15+00:00",
       "datum_de": "11.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Seedance 2 Spicy, Claude Fable schockiert, Codex überholt Claude Code - KI News",
-      "link": "https://www.youtube.com/watch?v=QvhxRu65dHk",
-      "video_id": "QvhxRu65dHk",
-      "thumbnail": "https://img.youtube.com/vi/QvhxRu65dHk/mqdefault.jpg",
-      "datum": "2026-06-11T13:53:28Z",
-      "datum_de": "11.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Insider",
-      "titel": "KI-Agenten bauen OHNE Code – Automatisiere alles mit diesen Tools!",
-      "link": "https://www.youtube.com/watch?v=Zuovo9yLNQ8",
-      "video_id": "Zuovo9yLNQ8",
-      "thumbnail": "https://img.youtube.com/vi/Zuovo9yLNQ8/mqdefault.jpg",
-      "datum": "2026-06-11T13:00:17Z",
-      "datum_de": "11.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Neax 24 Studio",
-      "titel": "Let&#39;s Play Jet Force Gemini #47 Hingeklatschtes Ende",
-      "link": "https://www.youtube.com/watch?v=y2UvIK34knc",
-      "video_id": "y2UvIK34knc",
-      "thumbnail": "https://img.youtube.com/vi/y2UvIK34knc/mqdefault.jpg",
-      "datum": "2026-06-11T04:43:33Z",
-      "datum_de": "11.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Claude Mythos Fable 5 sind da! Alles was du wissen musst (+Praxistest)",
-      "link": "https://www.youtube.com/watch?v=tiTZKCQviuM",
-      "video_id": "tiTZKCQviuM",
-      "thumbnail": "https://img.youtube.com/vi/tiTZKCQviuM/mqdefault.jpg",
-      "datum": "2026-06-10T15:46:27+00:00",
-      "datum_de": "10.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Jyotima Flak - Coachingbusiness mit Onlinekursen",
-      "titel": "Dieses KI Tool macht aus 1 Video 20 Reels Opus Clip Tutorial Deutsch",
-      "link": "https://www.youtube.com/watch?v=jAyME6IG8eQ",
-      "video_id": "jAyME6IG8eQ",
-      "thumbnail": "https://img.youtube.com/vi/jAyME6IG8eQ/mqdefault.jpg",
-      "datum": "2026-06-10T14:30:54Z",
-      "datum_de": "10.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Claude Fable 5: Die nächste Generation KI!",
-      "link": "https://www.youtube.com/watch?v=kkeW9oe_4UY",
-      "video_id": "kkeW9oe_4UY",
-      "thumbnail": "https://img.youtube.com/vi/kkeW9oe_4UY/mqdefault.jpg",
-      "datum": "2026-06-10T14:15:21+00:00",
-      "datum_de": "10.06.2026",
       "quelle": "kanal"
     }
   ]
