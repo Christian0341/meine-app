@@ -1,7 +1,7 @@
 {
-  "datum": "Montag, 15. Juni 2026",
-  "datumISO": "2026-06-15",
-  "tagesthema": "KI-Regulierung und Unternehmens-Herausforderungen dominieren die Nachrichten, während neue Modelle und ethische Fragen die Debatte prägen.",
+  "datum": "Dienstag, 16. Juni 2026",
+  "datumISO": "2026-06-16",
+  "tagesthema": "Die KI-Landschaft wird heute von weitreichenden Regulierungsentscheidungen und ethischen Debatten geprägt, während neue Modelle und Geschäftsmodelle die Branche weiterentwickeln.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,28 +9,36 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Gemini Update: KI-Abo wird günstiger, das kann Omni, Upgrade für NotebookLM, Live Translate und mehr",
-          "zusammenfassung": "Google kündigt ein umfassendes Update für Gemini an, das eine Preissenkung für das KI-Abo, die Einführung des neuen Modells Gemini Omni und ein Upgrade für NotebookLM umfasst. Des Weiteren werden neue Funktionen wie Live Translate und weitere Verbesserungen vorgestellt. Diese Neuerungen sollen Gemini zugänglicher und leistungsfähiger machen.",
+          "titel": "ChatGPT kauft jetzt eigenständig ein: Visa und OpenAI starten Partnerschaft",
+          "zusammenfassung": "OpenAI und Visa haben eine strategische Partnerschaft bekannt gegeben, die es ChatGPT ermöglicht, eigenständig Einkäufe zu tätigen. Nutzer können ihre Visa-Zahlungsdaten sicher hinterlegen, wodurch ChatGPT in der Lage ist, Produkte und Dienstleistungen basierend auf Konversationen und Präferenzen direkt zu bestellen. Diese Integration erweitert die Anwendungsbereiche von KI erheblich im E-Commerce.",
           "einordnung": "",
-          "quelle": "GoogleWatchBlog",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xZU5UR3ZFUHdzNjY5NGVfTF9hM0ZLR1JOaHQtUUI0MG4tWjhvdE1WeFBWS0ZWa0VmMllINkhuWjZtc0trYm9KNENjZHA4WFJvRmfSAXpBVV95cUxNeWtQd2R5NWx3YU4tR0R1VE5XWk5mXzJRU3lKU0ZsMHgyY0tvMkl4U2dOZGo0YU5sVGZTSlVDNjN0Mk1RXzEwQkxYUlU2WUJWQXNsNURLSVRuU3Z3cEhMSmVwNDMwemFUUVBxUTVQbzBSNDVobWV2R081dw?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Gemini Omni: Das ist Googles neuer Mediengenerator - erstellt beeindruckende Videos aus Fakten (+ Prompts)",
-          "zusammenfassung": "Google stellt Gemini Omni vor, einen innovativen Mediengenerator, der in der Lage ist, beeindruckende Videos basierend auf Fakten und spezifischen Prompts zu erstellen. Diese Technologie erweitert die kreativen Möglichkeiten von Gemini erheblich und verspricht neue Anwendungen in der Content-Erstellung. Der Artikel beleuchtet die Funktionsweise und das Potenzial von Omni.",
-          "einordnung": "",
-          "quelle": "GoogleWatchBlog",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHBaUXY1R0RsVG1LZmZnYTFSc1d3OFJ0d28ycExoVzdDVEJGc1ZWRjRWSWFrUUtGYS1sd2JONEJFTTZEcjh5akRJbnRBLXhOc1NkamNrV3A0OFFRWHA1dFFyYWlPa21MeFNucWF5Z0pZVkdrdUNFNTFKTW1wekhiY2NwSGN3aV91dl9RcmtuZ3lnUWM5T05xTDVuN08wWUtnNjhrM0NVSVN1ZExWMjZ2WmljZU5CRlI0MDlNLVJmTklET29YMTc5Z1NVN2h2NlQwM3hj0gHYAUFVX3lxTE1kb3UxU3ViZVFQWUVqdXJRbXZfNEJsaWJyYzF2S3hLeDFfdWlfdFpLcWtIT0xQUkEzVDhZdmx2c280WXhWemUyTF9TV1B5UmU2Wm40ZXpBN3k0dzE5MXh2bXV3UVNjRl9vWUxqaDYyZzFlT0RMb3dYQUU2d0dvbGx6RFptay13WUJHWVV0MXpaY09FS3MwVVdndGt0U0NXcXVmT2tRWjZMRXdIVmpnT3VRU2lpbVhuVER6T1ppdzRfR01GR3piWWtjc1E0V0N5b1p3Sm5EQWVELQ?oc=5",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVWp3M3M1VWVmSTJCZnNwR0JqTE5TSEJHX0xsYURxUlFxRXo3VEt6SzFCOC11UDFtbEFpTWx5ZlQzNXN5MWx4SmphQjYxTTZscFY4bG5DZUFYN0FVckZKazFtbzNwbmZtQ3ZPdGJ4enRhLVpmTkEtM0F6Wk1PenBhaDM0c21iRTNLWmNXRG1pRktualh4ZncybXdxV21OSVE4bS0tZA?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Pixel Drop Juni: Google bündelt KI-Offensive mit Gemini 3.1 Pro",
-          "zusammenfassung": "Im Rahmen des Juni Pixel Drops verstärkt Google seine KI-Offensive mit der Integration von Gemini 3.1 Pro in seine Produkte. Diese Bündelung zielt darauf ab, die KI-Fähigkeiten über das gesamte Ökosystem zu verbessern und Nutzern erweiterte Funktionen anzubieten. Die Strategie unterstreicht Googles Fokus auf die tiefe Verankerung von KI in seinen Geräten und Diensten.",
+          "titel": "Mehr Personalisierung: Gemini soll Abos aus Apps von Drittanbietern unter­stützen",
+          "zusammenfassung": "Google plant, seine Gemini-KI-Modelle stärker in das Ökosystem von Drittanbieter-Apps zu integrieren, um eine tiefere Personalisierung zu ermöglichen. Zukünftig soll Gemini in der Lage sein, auf Abo-Informationen aus verschiedenen Anwendungen zuzugreifen und diese für personalisierte Empfehlungen oder Aktionen zu nutzen. Dies verspricht eine nahtlosere und intelligentere Nutzererfahrung über verschiedene Dienste hinweg.",
           "einordnung": "",
-          "quelle": "Börse Express",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2FoQ3VnUlMtYURnUi1kdDI4NHRwNDlIMUo5bThNREhocUZLaGhlanRTZldSSTVEeWlmeXhZWEJBTGJaT0dBcVdfbENXQ1B0ZFBBbTQweHV5SkZVczVCV3BGMW5pWDRGbGJORFdPQUF3VHk0eWhSYVFXNkhrOTJVX0xmeUhlU1Vtb3VFdUlQRi1SaG1SdkNIYjI2WF8teUMxYUFWaWxvVW5yeFA1ak5Xa3NQbG8?oc=5",
+          "quelle": "ComputerBase",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2QxcHd4LWg0UTYtX0w0WWFJWHRiQjV0MjBoN21qcTFJS2ZwOGgyR1FOV2lkbDBKelNCWXBwMFBTVVJsdFdfRzRKSzA3eV9ocnktcGl6V041MzdpdmNlTVlPSTM5T1lqbmI4Y3Fhc2VuQjlvYms5LW9pMEFmSjVSVG4ybU5VMnVHdUJEVjRPNnNnTEZveS1lZEZOR1Y0eXNCdHlvVnBOV3hBcE42enJRRW5KZmRKUGpGdzJqZEhBM0RJWkE?oc=5",
           "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Gemini auf Android: Sprachsteuerung scheitert bei Alltagsbefehlen",
+          "zusammenfassung": "Ein aktueller Testbericht zeigt, dass die Sprachsteuerung von Google Gemini auf Android-Geräten noch Schwächen bei der Bewältigung alltäglicher Befehle aufweist. Obwohl Gemini bei komplexeren Aufgaben glänzt, hat es Schwierigkeiten, einfache Anfragen präzise zu verstehen und auszuführen. Dies deutet auf weiteren Optimierungsbedarf im Bereich der intuitiven Nutzerinteraktion hin.",
+          "einordnung": "",
+          "quelle": "SmartDroid",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOXlNX2R0UEFkT2NEUjFQdF8tMVFKdm9TeGZXOVJfbUNWRnU4cnF2bDJ5djJCcE14dWVWVmZBUTFhUnZvTE1IQnJIRFJuR2lUSWx5alYtek51NHJTSW0yMFNBQWFXd1lDb3o1YTk0Q3lUczUxVVNLSjJlbkcyVUVHemV5ZjJyV1M0dDZQUDY0SGZENlFraXc?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "Gemini Omni: Das ist Googles neuer Mediengenerator - erstellt beeindruckende Videos aus Fakten (+ Prompts)",
+          "zusammenfassung": "Google hat mit Gemini Omni einen neuen Mediengenerator vorgestellt, der in der Lage ist, beeindruckende Videos auf Basis von Fakten und Text-Prompts zu erstellen. Diese Technologie verspricht, die Produktion von Videoinhalten zu revolutionieren, indem sie komplexe visuelle Erzählungen automatisiert generiert. Die Fähigkeit, Fakten in dynamische Videos umzusetzen, eröffnet neue Möglichkeiten für Content Creator und Unternehmen.",
+          "einordnung": "",
+          "quelle": "GoogleWatchBlog",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHBaUXY1R0RsVG1LZmZnYTFSc1d3OFJ0d28ycExoVzdDVEJGc1ZWRjRWSWFrUUtGYS1sd2JONEJFTTZEcjh5akRJbnRBLXhOc1NkamNrV3A0OFFRWHA1dFFyYWlPa21MeFNucWF5Z0pZVkdrdUNFNTFKTW1wekhiY2NwSGN3aV91dl9RcmtuZ3lnUWM5T05xTDVuN08wWUtnNjhrM0NVSVN1ZExWMjZ2WmljZU5CRlI0MDlNLVJmTklET29YMTc5Z1NVN2h2NlQwM3hj0gHYAUFVX3lxTE1kb3UxU3ViZVFQWUVqdXJRbXZfNEJsaWJyYzF2S3hLeDFfdWlfdFpLcWtIT0xQUkEzVDhZdmx2c280WXhWemUyTF9TV1B5UmU2Wm40ZXpBN3k0dzE5MXh2bXV3UVNjRl9vWUxqaDYyZzFlT0RMb3dYQUU2d0dvbGx6RFptay13WUJHWVV0MXpaY09FS3MwVVdndGt0U0NXcXVmT2tRWjZMRXdIVmpnT3VRU2lpbVxuVER6T1ppdzRfR01GR3piWWtjc1E0V0N5b1p3Sm5EQWVELQ?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
@@ -40,27 +48,19 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "US-Staaten untersuchen OpenAI vor Börsengang wegen ChatGPT-Risiken",
-          "zusammenfassung": "Mehrere US-Bundesstaaten haben eine Untersuchung gegen OpenAI eingeleitet, kurz vor dem geplanten Börsengang des Unternehmens. Die Ermittlungen konzentrieren sich auf potenzielle Risiken im Zusammenhang mit ChatGPT, darunter Datenschutzbedenken und die Verbreitung von Fehlinformationen. Diese Entwicklung könnte erhebliche Auswirkungen auf die Bewertung und den Zeitplan des Börsengangs haben.",
+          "titel": "Ein 200-Dollar-Abo für ChatGPT könnte OpenAI 14.000 Dollar kosten",
+          "zusammenfassung": "Eine aktuelle Analyse zeigt, dass die Betriebskosten für ein monatliches ChatGPT-Abonnement von 200 US-Dollar für OpenAI bis zu 14.000 US-Dollar betragen könnten. Diese enorme Diskrepanz zwischen Einnahmen und Ausgaben wirft Fragen zur langfristigen Profitabilität und Skalierbarkeit des Geschäftsmodells auf. Die hohen Infrastruktur- und Rechenkosten stellen eine große Herausforderung für KI-Anbieter dar.",
           "einordnung": "",
-          "quelle": "Euronews",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSFMtTE00d2x3WFBvSVlURGNhbVBRQUtfeWhRUW05RVo3ZWt4bnlLc1NCbWVFQ1RPUk1NbEhOS1RnaXR1QkpGT3h6UEpEeTlOSEF5SnVOTnhyRlRrMEo2ZGxuZFFPQ1JvNGd0ZW9PQkp6amw5bVVNcUY0V2I4blh1dWNPbzZSZ3YyUjVLM09tRlNfZmFiRXFJSXpwdl81RVNSSGZPQ19xUFZKcUpXbnpRUkM4VVZMT1k?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "it-daily",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVV91WnZnSUpTUmpSbnhheGVCNER3NkF0VEFPNmQwT0dqdm9jZE00SEhrRGhuSDJVMnZlekFoeVhvaVR4RUgzNjJtLVNzZUdyOFJPYkJTUXBfWnJseE9CWllwZXE0Ny1fYWxlY3QtOUlvVGJYX2xpemFOX1R4T1JlREhYZk8?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "US-Regierung erzwingt Abschaltung von Anthropics KI Fable 5 und Mythos 5",
-          "zusammenfassung": "Die US-Regierung hat die Abschaltung von Anthropics KI-Modellen Fable 5 und Mythos 5 erzwungen, was auf ernste Bedenken hinsichtlich ihrer Sicherheit oder potenziellen Missbrauchs hindeutet. Dieser drastische Schritt markiert einen wichtigen Präzedenzfall in der staatlichen Regulierung von KI-Technologien. Die genauen Gründe für die Abschaltung werden derzeit noch untersucht und diskutiert.",
+          "titel": "Möglichkeiten übertrieben dargestellt: Anthropic wegen zu geringer Limits bei Claude Max ver­klagt",
+          "zusammenfassung": "Anthropic sieht sich einer Klage gegenüber, weil das Unternehmen die Möglichkeiten seines KI-Modells Claude Max übertrieben dargestellt haben soll. Kunden beklagen, dass die tatsächlichen Nutzungslimits und die Performance des Modells nicht den beworbenen Versprechen entsprechen. Dieser Rechtsstreit könnte weitreichende Folgen für die Transparenz und die Marketingpraktiken in der KI-Branche haben.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnJ2eUtuNm1SWXg3TW43Vk14b29ibzN0Y3Vnc0ltOXZvQVl5bDJCQl9YRDZKUkFwazRTV2kzejY4QjR0ZnlLTlV3Y2NWaUtuTTdoUE5tLUxTalc5ZXd0TC1iYjc5SjBRMmVMMkF3d19wWGp0NlZick52TUJOdVhyZWtqQ3oxM3RSYWRySEZHR2NOSGpJUWk0NGhsZWwtc1lJNVlYd1U5QjRiemg4RkpGZS1R?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Anthropic in Gesprächen, um Mythos-Modelle wieder freizugeben",
-          "zusammenfassung": "Nach der erzwungenen Abschaltung der Mythos-Modelle befindet sich Anthropic in Gesprächen mit den zuständigen Behörden, um eine Wiederfreigabe zu erwirken. Das Unternehmen arbeitet daran, die geäußerten Bedenken auszuräumen und die Einhaltung der regulatorischen Anforderungen sicherzustellen. Die Verhandlungen sind entscheidend für die Zukunft dieser spezifischen KI-Modelle und Anthropics Position am Markt.",
-          "einordnung": "",
-          "quelle": "OnlineMarketing.de",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLS11MzVhWWwtQnJ2MUlzcHU1N1JUSTZXOUlXS0cxcC1lbHJvUVJyNlo2VHl4amd0akZCcUp5MUFaS25wZFgtcGtuZlFmOEJrNGJtWlQ5WWlKZkY3cVhpYzM3V3Q3b0Zua0R3dmNYSEw5bGtkTEJHT24zS0Y2NEZ0dkVRaW1ReGRScVNROXd5bGNSUjlieVlGZHJGQQ?oc=5",
+          "quelle": "ComputerBase",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUjBIMTVZVWFSNjZWMlpaNDBfYy1PQkhud3ZMbDFzY3IySVBzZFk1cEtienFZTkRXcGdOV2pxVUdlaHltbjJ3UXdlcHhFOG5hdDhZR1BSanBTWExZUG0xbFRHcVNnb3F0Z0JXdmo3R0xZbndJZGVvd3I5WFYtWHh6N0Eyd0dHc3hZWFVpQ1lQMXhtY2VNcjU5MVFRb3VCUE5mQm9jd1k3Zk40VVZ1SzlPTEJIbXFOSHlfb0FHWVFZVVZQTTB3ZkdVcGl4eXBVakZJVVZ6X1RvVFBPSnM?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -71,27 +71,35 @@
       "fest": true,
       "artikel": [
         {
+          "titel": "US-Regierung erzwingt Abschaltung von Anthropics KI Fable 5 und Mythos 5",
+          "zusammenfassung": "Die US-Regierung hat die Abschaltung von Anthropics fortschrittlichen KI-Modellen Fable 5 und Mythos 5 erzwungen. Diese drastische Maßnahme erfolgte aufgrund ungenannter, aber offenbar schwerwiegender Sicherheitsbedenken. Der Vorfall markiert einen präzedenzlosen Eingriff staatlicher Behörden in die Entwicklung und den Betrieb von KI-Systemen.",
+          "einordnung": "",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnJ2eUtuNm1SWXg3TW43Vk14b29ibzN0Y3Vnc0ltOXZvQVl5bDJCQl9YRDZKUkFwazRTV2kzejY4QjR0ZnlLTlV3Y2NWaUtuTTdoUE5tLUxTalc5ZXd0TC1iYjc5SjBRMmVMMkF3d19wWGp0NlZick52TUJOdVhyZWtqQ3oxM3RSYWRySEZHR2NOSGpJUWk0NGhsZWwtc1lJNVlYd1U5QjRiemg4RkpGZS1R?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "KI-Regulierung: Bundestag beschließt Durchführungsgesetz zum EU AI Act",
+          "zusammenfassung": "Der Bundestag hat das nationale Durchführungsgesetz zum EU AI Act verabschiedet, womit die europäische KI-Verordnung in deutsches Recht überführt wird. Dies schafft einen verbindlichen Rechtsrahmen für die Entwicklung und den Einsatz von Künstlicher Intelligenz in Deutschland. Das Gesetz zielt darauf ab, Vertrauen in KI zu schaffen und gleichzeitig Risiken zu minimieren.",
+          "einordnung": "",
+          "quelle": "Börse Express",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnNZRGVxaXV5aVRkTFAwRjN3Z2lzWUNBcWJ6bmg3YnlzdkI5b1hrREs4R1NxLUk3N3BPQ1NpVXkySncwTWt0RUtueU83MU5vUVBjWUlwblJ5blgtSlN0MlhGWjc4NmpDQ3FuWHdNc09BUlM1ZHVpRUIxWldBVGdHcS1YWnB3cW9namtiLVh5VmJmdlJzRXRLbG9QRXU0U1hsWklTZGJkb2FmdEMtRGxnN3NQVG1GS1RfMEtUX0JMaUU?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "EU-Mercosur, KI und Datenschutz: Warum Marktzugang heute Compliance-Evidenz verlangt",
+          "zusammenfassung": "Der Artikel von Anwalt.de beleuchtet, wie die zunehmende Verflechtung von KI-Anwendungen, Datenschutzbestimmungen und internationalen Handelsabkommen wie EU-Mercosur die Anforderungen an die Compliance-Evidenz erhöht. Unternehmen müssen heute nachweisen, dass ihre KI-Produkte und -Dienstleistungen strengen rechtlichen und ethischen Standards genügen, um Marktzugang zu erhalten. Dies stellt eine wachsende Herausforderung für global agierende Unternehmen dar.",
+          "einordnung": "",
+          "quelle": "Anwalt.de",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWllmU2pPS1dvYncwRWRwN00yT1gzOWozNEVTT3ZSbFN2SnRtbzNnaVJYbWdkSFFYMkY3bnNralNMVFpYYWQ0UTM1VU5oOHNuT1dKYndaVms3MnJaS1h0OW9ZV2NkVlZFWEs5SDVjQWxONG44ZndwSVZWckVXMUQ5YWQwUVU1U1ppbGkxamNVaVRxTmNrWkhjdFZTSEstU0ZFWl9aYUktWHpkQ1drTDY2Smc0RTViTjVOOXEzQ0FSYmdOcm5SajhN?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
           "titel": "KI-Kennzeichnung: EU verpflichtet Wasserzeichen ab August 2026",
-          "zusammenfassung": "Die Europäische Union führt ab August 2026 eine verpflichtende Kennzeichnungspflicht für KI-generierte Inhalte ein, die sogenannte Wasserzeichen vorsieht. Diese Maßnahme des EU AI Act soll Transparenz schaffen und die Unterscheidung zwischen menschlich und maschinell erstellten Inhalten erleichtern. Die Regelung ist ein wichtiger Schritt zur Regulierung des KI-Einsatzes in Europa.",
+          "zusammenfassung": "Die Europäische Union führt ab August 2026 eine verpflichtende Kennzeichnung für KI-generierte Inhalte ein. Mittels digitaler Wasserzeichen sollen Nutzer künftig eindeutig erkennen können, ob Bilder, Texte oder Videos von einer Künstlichen Intelligenz erstellt wurden. Diese Maßnahme soll Transparenz schaffen und der Verbreitung von Desinformation entgegenwirken.",
           "einordnung": "",
           "quelle": "BornCity",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOTN4My1ZN3pTTkczVXVWeVFWZFlqX0tpQkppQmN6RHRpWEIxT3pyMFh5S0RVTFpvWFB5cXpwUi1UNUpRYjZSOWpiTUdGNXZ6RlV6NTNDSDB6cnJRSVlzSTdEdVYzbVJSb1lXV3FuYTZWN21weEUwOE1oQ2N5WXkwUjlyZFFGSVlULThVU0t5S0dJZw?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "KI-Regulierung: Bundesnetzagentur wird zentrale Überwachungsbehörde",
-          "zusammenfassung": "Die Bundesnetzagentur wird in Deutschland zur zentralen Überwachungsbehörde für die Einhaltung der KI-Regulierung ernannt. Diese Entscheidung stärkt ihre Rolle im digitalen Bereich und überträgt ihr die Verantwortung für die Durchsetzung des EU AI Act auf nationaler Ebene. Die Behörde soll sicherstellen, dass KI-Systeme sicher und ethisch korrekt eingesetzt werden.",
-          "einordnung": "",
-          "quelle": "Börse Express",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWnY0RlNUUmxOY0dqR1VpYlJxajhNSXV6bXJQZFBrTmtPOHBFdUFUazhwUi11dWhLLTFJdnZfVDdZRkMxb2hmVFlNV2VLbFZVZjRvUVRpbXBWejJydGU1N1E4Qm11bTN0Q1FINHdpY0F1TklEQWNwM1A5QUc5ZWNOX0Y2WHgyV19PbUw0d1AzUlEtR21nWFhqNDRHak5kS3Qxby12bXd2ZlhhRXBmQ3ZXcl9qR3FwWFctZjdIOA?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "KI Regulierung - Bundesministerium für Digitales und Staatsmodernisierung",
-          "zusammenfassung": "Das Bundesministerium für Digitales und Staatsmodernisierung bekräftigt sein Engagement für eine umfassende KI-Regulierung. Der Artikel beleuchtet die strategischen Ziele und Maßnahmen der Bundesregierung zur Gestaltung eines rechtlichen Rahmens für Künstliche Intelligenz. Dabei stehen Aspekte wie Innovation, Sicherheit und gesellschaftliche Akzeptanz im Vordergrund.",
-          "einordnung": "",
-          "quelle": "Bundesministerium für Digitales und Staatsmodernisierung",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85ZWthc1dYejNfNGdqSEZfTjdhMDlGdnZkREFKVmtlU1Y0eW04c0JjdS1wXzU4U2RlaHZmakRTQkNsV3pwYy1DNEJpSG9xX0NoUFVOamZTUG5MektINmFpcFdoc3IyU1FSZmF2eWVpMzQyUTRE?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -102,94 +110,94 @@
       "fest": true,
       "artikel": [
         {
+          "titel": "Was sind große Sprachmodelle (LLM)?",
+          "zusammenfassung": "Databricks erklärt die Grundlagen großer Sprachmodelle (LLM) und deren Funktionsweise. Der Artikel bietet eine verständliche Einführung in die Architektur, Trainingsmethoden und Anwendungsbereiche dieser leistungsstarken KI-Systeme. Er dient als wichtige Ressource für alle, die ein tieferes Verständnis von LLMs erlangen möchten.",
+          "einordnung": "",
+          "quelle": "Databricks",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUEZqZTJ5RTktZHViZVpiSFZjbHcwZUU1d25KX1JsU3pPODlPNlpLMXY3cDRMV1RFUHlzc1EwWFpLOVhQZTNxQTZWcVY4VmF0SkhuOThtUmtGc2NhTW1zNktReGZETG9jVjdUNjNFblM2cEE?oc=5",
+          "sterne": "⭐"
+        },
+        {
           "titel": "An Exploratory Study of Strategic Domain-Driven Design with Large Language Models",
-          "zusammenfassung": "Eine explorative Studie untersucht die Anwendung von Strategic Domain-Driven Design (DDD) in Kombination mit Large Language Models (LLMs). Die Forschung beleuchtet, wie LLMs zur Verbesserung der Softwarearchitektur und zur Modellierung komplexer Domänen eingesetzt werden können. Die Ergebnisse zeigen Potenziale für effizientere Entwicklungsprozesse und robustere Systeme auf.",
+          "zusammenfassung": "Eine explorative Studie untersucht die Anwendung von Strategic Domain-Driven Design (DDD) in Verbindung mit großen Sprachmodellen (LLMs). Die Forschung beleuchtet, wie LLMs bei der Modellierung komplexer Domänen und der Entwicklung robuster Softwaresysteme unterstützen können. Die Ergebnisse könnten neue Ansätze in der Softwareentwicklung mit KI aufzeigen.",
           "einordnung": "",
           "quelle": "springerprofessional.de",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTVXV1NTRXRlMDVTWnRfemk2bkY4aXhqQ1NDMm1TelVaNkoxM3k4MDMzbFowcl9Tdld2b2ptdmRxWmlLbWVRT1B4T21CdWM3R1dvaU1hazVqbVJEdS1qT18zY2xLRjBqdkl6Q1RYbXBFZFJyRWI5QmpxS2ZfSGZTNXlwZlA3U2xGUEp4bDhNbEp5WThxYnRzRHhydzAzakhzTFBuZThtSWdlQWxTWWc?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "LLM-Wissen erweitern mit RamaLama",
-          "zusammenfassung": "Der Artikel stellt \"RamaLama\" vor, ein Tool, das darauf abzielt, das Wissen von Large Language Models (LLMs) gezielt zu erweitern und zu aktualisieren. Es wird beschrieben, wie RamaLama Unternehmen dabei unterstützen kann, ihre LLMs mit spezifischen, aktuellen Daten zu versorgen, um deren Relevanz und Genauigkeit zu steigern. Dies ist besonders wichtig für Anwendungen in dynamischen Geschäftsumfeldern.",
-          "einordnung": "",
-          "quelle": "IT-Administrator",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnQ0WDl5c0tNRWtWTFE3TFNiZVVZZE96ZmZobm92Z2p6eFdnVURIdDdyV2lpaklpckZpdnoxV0doaEZwbHM3UTZ3SWFubkZsd2VpaHJFSXFObzllUTVMOExGX0VJX1J3eEtRRVBfSHJndmpqdTQ5Wko0eFU4c3NVdHMyY0pMMy1xcHc?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
           "titel": "Large Language Models: 12 GPT-Alternativen",
-          "zusammenfassung": "Dieser Artikel bietet einen Überblick über zwölf bedeutende Alternativen zu GPT-Modellen im Bereich der Large Language Models (LLMs). Er vergleicht verschiedene Architekturen und Anbieter, beleuchtet deren Stärken und Schwächen sowie deren Einsatzmöglichkeiten. Die Liste dient als Orientierungshilfe für Unternehmen und Entwickler, die nach passenden LLM-Lösungen suchen.",
+          "zusammenfassung": "Die Computerwoche präsentiert einen Überblick über zwölf vielversprechende Alternativen zu GPT-Modellen im Bereich der großen Sprachmodelle. Der Artikel vergleicht verschiedene LLMs hinsichtlich ihrer Leistungsfähigkeit, Spezialisierung und Lizenzmodelle. Er bietet Unternehmen und Entwicklern eine Orientierungshilfe bei der Auswahl des passenden Sprachmodells für ihre Anwendungen.",
           "einordnung": "",
           "quelle": "Computerwoche",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
-          "sterne": "⭐⭐"
+          "sterne": "⭐"
         }
       ]
     },
     {
-      "emoji": "🌍",
-      "titel": "KI & Gesellschaftliche Auswirkungen",
+      "emoji": "🗣️",
+      "titel": "KI & Gesellschaft & Ethik",
       "fest": false,
       "artikel": [
         {
           "titel": "Künstliche Intelligenz: Frankfurterin kämpft gegen Diskriminierung von Frauen",
-          "zusammenfassung": "Eine Frankfurterin engagiert sich aktiv gegen die Diskriminierung von Frauen durch Künstliche Intelligenz. Sie beleuchtet, wie algorithmische Verzerrungen bestehende Ungleichheiten verstärken können und fordert mehr Bewusstsein und Maßnahmen zur fairen Gestaltung von KI-Systemen. Ihr Kampf zielt darauf ab, eine gerechtere und inklusivere KI-Entwicklung zu fördern.",
+          "zusammenfassung": "Eine Frankfurterin engagiert sich aktiv im Kampf gegen die Diskriminierung von Frauen durch Künstliche Intelligenz. Sie macht auf die Gefahr von Bias in Algorithmen aufmerksam, die bestehende gesellschaftliche Ungleichheiten verstärken können. Ihr Einsatz zielt darauf ab, ethische Richtlinien und Bewusstsein für eine faire und inklusive KI-Entwicklung zu fördern.",
           "einordnung": "",
           "quelle": "hessenschau.de",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd29MUGxNMk5tdHBNSkNnYV94cXRka3l1WGZndW5IeEFtdGFHSUNSWS1mODM2RnI5ODVJLUtzYUlHd3EwUkRMRnpMVUtnSno4TVRsMVdUbEpvNW9EYzItVTZlclR4bndGU1BOM196SEUyWUduOG5VNVZscEIwYmx5M3VPTGpKaVN2QWNDUHFacGlDOThVd3kyTmxWb0I2LS1MdTRNcDNWcEdYX2EwQ2IzSm1jbkQ4Um93bGNRMUFncXZlaG94Z2NDLTlZWVNKYUs5YnFkRzh0Sk9wRllObDhnWUNiN3E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxMd29MUGxNMk5tdHBNSkNnYV94cXRka3l1WGZndW5IeEFtdGFHSUNSWS1mODM2RnI5ODVJLUtzYUlHd3EwUkRMRnpMVUtnSno4TVRsMVdUbEpvNW9EYzItVTZlclR4bndGU1BOM196SEUyWUduOG5VNVZscEIwYmx5M3VPTGpKaVN2QWNDUHFacGlDOThVd3kyTmxWb0I2LS1MdTRNcDNWcEdYX2EwQ2IzSm1jbkQ4Um93bGNRMUFncXZlaG94Z2NDLTlZWVNKYUs5YnFkRzh0Sk9wRllObDhnWUNiN3E?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "KI oder Ghostwriter: Macht das bei politischen Reden noch einen Unterschied?",
-          "zusammenfassung": "Der Artikel diskutiert die ethische Frage, ob der Einsatz von KI bei politischen Reden von einem menschlichen Ghostwriter zu unterscheiden ist. Er beleuchtet die Auswirkungen auf Authentizität und Glaubwürdigkeit von Politikern, wenn ihre Worte von Algorithmen generiert werden. Die Debatte um Transparenz und die Rolle menschlicher Urheberschaft in der Politik wird dabei in den Vordergrund gestellt.",
+          "titel": "KI in der Politik: Die Macht der Computer und die Ohnmacht der Politik",
+          "zusammenfassung": "DIE ZEIT analysiert das Spannungsfeld zwischen der wachsenden Macht der Künstlichen Intelligenz und der scheinbaren Ohnmacht der Politik, diese effektiv zu steuern. Der Artikel diskutiert, wie KI politische Prozesse beeinflusst und welche Herausforderungen sich für demokratische Institutionen ergeben, um die Kontrolle zu behalten und ethische Standards zu gewährleisten. Es wird die Notwendigkeit einer proaktiven politischen Gestaltung betont.",
           "einordnung": "",
-          "quelle": "Deutschlandfunk",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQjBleEN6UXJYbk1FZ0F4Rnl0VktEbUNCeTVJUlZfRGNNWjVDWUptUEs2NW5veGktN3BWM092Y0czZmZxbEpwY0lZQXNHcGJHZkVlYVhXZVp2Y1hQSHJoejlvdVVVUUZ2Vnh5YTNOLXZKNlYtb2NvMzFVWnFlcnZsS0J5RVRaVXh1aWpLSVlVcldFUEIxZUNpSXpB?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkh6RG81VU14cGVKZ25sLXJ3b2VmRHRtX1E0ejNVcHZ0am9Ka3RNbzRwc2dOMXpLOVpvaXQzelhKZ0FHNExHUlJ1QzM0UTRRZ0hUZmlVV1JLdGZhamlGS0YzUFlGV0dXNW5lM2JfR3I0QkhDTy10MEctdWdHQmRDc1ZCYkwtZVZBaG1vV3Y5ZnpXX3VPYUdBbTdGZXBTbktQZXhKamRCd2gtdGR4V05ZaEZEMEhSMEpRNHc?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "KI-Reden in der Politik: Nach dem Fall Mario Voigt - so halten es die anderen Länder-Chefs",
-          "zusammenfassung": "Nach dem aufsehenerregenden Fall um die mutmaßliche Nutzung von KI für eine Rede von Mario Voigt, untersucht dieser Bericht, wie andere Ministerpräsidenten und Länderchefs mit dem Thema umgehen. Es wird analysiert, inwieweit KI bereits in der politischen Kommunikation Einzug gehalten hat und welche Strategien zur Offenlegung oder Vermeidung verfolgt werden. Der Artikel beleuchtet die unterschiedlichen Ansichten und Praktiken im Umgang mit generierten Inhalten.",
+          "titel": "Digitalminister Wildberger ließ Reden und Gastbeiträge von KI schreiben",
+          "zusammenfassung": "Digitalminister Wildberger hat zugegeben, Künstliche Intelligenz für das Verfassen von Reden und Gastbeiträgen genutzt zu haben. Diese Offenbarung löst eine Debatte über Transparenz und Authentizität in der politischen Kommunikation aus. Kritiker fordern klare Richtlinien für den Einsatz von KI durch öffentliche Amtsträger, um das Vertrauen der Bürger nicht zu untergraben.",
           "einordnung": "",
-          "quelle": "ZDFheute",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWRxVnZkVnJpMGg2SWhHSFRnTDNoVWdGTmtCUG1EdVpEbXQ1TUh6dzFTVEhrcWdpYXpYTUhscENQR3lzUVRDcWcwanFwSndHczY5R3VibjBqWkRVbDFZbXFNQ1RKS1RzU3VRRk4taVA3OGQ0RXI2aXdyOXZna3pxcjl1aG9MQ001ald2eW5zSXBLUQ?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX20wcXRxMzNxbWdwNko4bHlyenVPNFdQeWRGWXlGS3hZV2U4aXIwSEJhaXM1OUJBRk5HV0c0N29JdjFDNTExVEUzcmMzc0N0bGw3bUZiQkh3Z1VUMHZGMmd4NDA2UXN0eU5wNGkwVHpLOEp0T2RkSW12TlU3ZjlZYzFmOUY1VjZRSFlXZDcxemIxZ2RjM2R4U2hGdDRWT0ktTmdDeGRTbWdjY2ZwMTZpaXAtUmM?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     },
     {
-      "emoji": "🚨",
-      "titel": "KI-Unternehmen & Herausforderungen",
+      "emoji": "⚠️",
+      "titel": "KI & Sicherheit & Risiken",
       "fest": false,
       "artikel": [
         {
-          "titel": "ChatGPT Plus gesperrt: Das steckt hinter der \"Zahlungsaufforderung\" von OpenAI",
-          "zusammenfassung": "Nutzer von ChatGPT Plus berichten über Sperrungen ihrer Konten und Zahlungsaufforderungen von OpenAI. Der Artikel erklärt die möglichen Ursachen für diese Probleme, die von technischen Fehlern bis hin zu Abrechnungsdiskrepanzen reichen könnten. Es werden Lösungsansätze und Empfehlungen für betroffene Abonnenten aufgezeigt.",
+          "titel": "„Zahlungsstreit eingereicht“: Wer ChatGPT nutzt, muss bei diesen Nachrichten aufpassen",
+          "zusammenfassung": "CHIP warnt ChatGPT-Nutzer vor betrügerischen Nachrichten, die einen angeblichen 'Zahlungsstreit' melden. Diese Phishing-Versuche zielen darauf ab, sensible Nutzerdaten abzugreifen. Der Artikel rät zur Vorsicht und zur Überprüfung der Absender, um sich vor finanziellen Schäden und Identitätsdiebstahl zu schützen.",
           "einordnung": "",
-          "quelle": "Netzwelt",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQm9PRGswdHVGSWZnd05zbC0tR0dNVmw5S3kyVFNicU5uZVJMU19xVVU0SW45OEs5SjE3NzBNWXN4eGdRblF3Mm5oTmgzVVBtS0FVZ2pMZW15QmRZa1BCdGNqdDN2SkV6eUtmWXZFeFNmOEpSaWszWGs4cElGaHhOTURIcVlKaUp3Y3l3Z0hGanB2V0w5RTVDOVc0U3UxUQ?oc=5",
-          "sterne": "⭐"
+          "quelle": "CHIP",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWmloRFJtcWpoaG83UjBKblc2ODQ2LXlHeW5uaU9fMW1FWXNVa1J3eTBLa1ZCZFJhblBFWkh2THNLV3F6dWZEckRYUzUxZjUtR2tHQ0NpRTVwaWFGbV93NVhfQ2hwdVlPdFJSWDdiTjZIV1RZaUdBZGRJV3V0QnBtUE5TU2RLWjluSU1jS2NpcXd5cEpVbFNKU2pNSVRXTG95Q25HTjlCeERSXy1DX09OY2Rob3JIX2JuLURQXzFTbDlTRktaYTBsM1pBOG9aa2Jtdk1CVkFzekwwclNrb2hiV1pJMU9wTTMxWHItSk9KeEt6M3ZidERJ?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "Insider: OpenAI gerät ins Visier mehrerer US-Bundesstaaten",
-          "zusammenfassung": "Insiderberichten zufolge steht OpenAI im Fokus von Untersuchungen durch verschiedene US-Bundesstaaten. Die Behörden prüfen die Praktiken des KI-Unternehmens, insbesondere im Hinblick auf die Sicherheit und ethische Aspekte seiner Produkte wie ChatGPT. Diese Entwicklung unterstreicht den zunehmenden regulatorischen Druck auf führende KI-Entwickler.",
+          "titel": "Künstliche Intelligenz - Warum die Sperrung der KI-Modelle von Anthropic so brisant ist",
+          "zusammenfassung": "Der Deutschlandfunk beleuchtet die Brisanz der behördlich erzwungenen Sperrung von Anthropics KI-Modellen Fable 5 und Mythos 5. Die Sperrung, die auf Sicherheitsbedenken der US-Regierung zurückgeht, wirft wichtige Fragen bezüglich der Kontrolle und der potenziellen Risiken fortschrittlicher KI-Systeme auf. Dieser Fall unterstreicht die wachsende Spannung zwischen Innovationsdrang und staatlicher Aufsicht.",
           "einordnung": "",
-          "quelle": "derStandard.de",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1YyZ281a2VLQ3VSeU8yajhCblYzdWNuODA2LV9Ya0RmUHMxQXIyU0tBSVl1UW9xSm10cUFDRm1yRWpXcFV3U2huQWdab2VneWlNVFpkNjJUMzVVLVU5NC1wUnBaVWEyckZkRFpVLThuWTNhQmlhangyUGpEY2VzTjJhcHRsdkhYU0VCNDJJVkJ6MHdPMWJITlZvMmJLUjQ0SGpYTmJNM042dw?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "Deutschlandfunk",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3k0UDFpX2ZzRW9PRDhQRXkwRDByLVQ3UEJtZVNORkpVTzRIVFY0eGpVTHlMVk1iUDUyTnVIVGFjVi1ZcWVINW55eEVSck45VktFM3VCTmRKU21yRGhiNTIyYThuVGRYTmUxR3pIeVM2WV9PWnhTZVVRY1Ixc0VpRENpNHJOcC01QUZPR2pNcXpFMy1pZnp3YkhWd19ZbVhqMHFwZw?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-06-15T11:40:47.243Z",
+  "generiert_um": "2026-06-16T10:49:55.805Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
       "desc": "Mo, Mi, Fr · mit The Decoder",
-      "episode": "KI-Update Deep-Dive: Vibecoding als Sicherheitsrisiko - feat. TTT",
-      "datum": "12.6.2026",
-      "dauer": "19 Min.",
+      "episode": "KI-Update kompakt: KI-Redenschreiber, Fable und Mythos gesperrt, KI-Ängste, Apple-KI",
+      "datum": "15.6.2026",
+      "dauer": "17 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/f1/22/9bf12286-42a8-2765-8a9d-91a07df6b535/mza_1407979254960059607.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp"
     },
@@ -232,9 +240,9 @@
     {
       "name": "Deep Minds · KI & Wissenschaft",
       "desc": "Experten-Interviews · tiefgründig",
-      "episode": "KI bei der BWI und der Bundeswehr | DEEP MINDS #16",
-      "datum": "5.8.2023",
-      "dauer": "87 Min.",
+      "episode": "",
+      "datum": "",
+      "dauer": "",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/42/5b/33/425b332f-9133-8ea4-4b0f-87cf36be5bfc/mza_3332432553733513187.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/6rmXt98jRHNziyG1ev3sAT"
     },
