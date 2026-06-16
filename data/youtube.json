@@ -1,7 +1,67 @@
 {
-  "aktualisiert": "2026-06-15T13:21:31.942774+00:00",
+  "aktualisiert": "2026-06-16T12:15:03.768055+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Akademie4KI",
+      "titel": "ChatGPT kostenlos in PowerPoint nutzen! - Schritt für Schritt-Anleitung",
+      "link": "https://www.youtube.com/watch?v=t_Ur2V1mdXY",
+      "video_id": "t_Ur2V1mdXY",
+      "thumbnail": "https://img.youtube.com/vi/t_Ur2V1mdXY/mqdefault.jpg",
+      "datum": "2026-06-16T11:38:20+00:00",
+      "datum_de": "16.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Fabian Stelzer",
+      "titel": "Lerne 97% von Claude in 18 Minuten - 14 Funktionen die du kennen solltest / Deutsch",
+      "link": "https://www.youtube.com/watch?v=bFySkLq9MGw",
+      "video_id": "bFySkLq9MGw",
+      "thumbnail": "https://img.youtube.com/vi/bFySkLq9MGw/mqdefault.jpg",
+      "datum": "2026-06-15T20:40:49Z",
+      "datum_de": "15.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KIOrbit",
+      "titel": "ChatGPT vs  Claude vs  Gemini: Wer baut Subway Surfers am besten",
+      "link": "https://www.youtube.com/watch?v=x_VV4_9H82k",
+      "video_id": "x_VV4_9H82k",
+      "thumbnail": "https://img.youtube.com/vi/x_VV4_9H82k/mqdefault.jpg",
+      "datum": "2026-06-15T16:00:27Z",
+      "datum_de": "15.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Ich hab Claude Code Remote getestet  - auf einem Server",
+      "link": "https://www.youtube.com/watch?v=-p0i4M4Z4Yo",
+      "video_id": "-p0i4M4Z4Yo",
+      "thumbnail": "https://img.youtube.com/vi/-p0i4M4Z4Yo/mqdefault.jpg",
+      "datum": "2026-06-15T15:54:16+00:00",
+      "datum_de": "15.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "NotebookLM + Claude, Gemini &amp; Perplexity: Die besten KI-Kombinationen (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=oMXkhK1xQMQ",
+      "video_id": "oMXkhK1xQMQ",
+      "thumbnail": "https://img.youtube.com/vi/oMXkhK1xQMQ/mqdefault.jpg",
+      "datum": "2026-06-15T15:45:32Z",
+      "datum_de": "15.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Felicia Simon",
+      "titel": "Claude Skills einfach erklärt: Die meisten nutzen die beste Funktion nicht!",
+      "link": "https://www.youtube.com/watch?v=xDC3euudZ5g",
+      "video_id": "xDC3euudZ5g",
+      "thumbnail": "https://img.youtube.com/vi/xDC3euudZ5g/mqdefault.jpg",
+      "datum": "2026-06-15T14:45:32Z",
+      "datum_de": "15.06.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "KIOrbit",
       "titel": "ChatGPT &amp; Codex 2026: So baue ich Software ohne Vibe Coding",
@@ -39,6 +99,16 @@
       "video_id": "ACWiFXtQPfQ",
       "thumbnail": "https://img.youtube.com/vi/ACWiFXtQPfQ/mqdefault.jpg",
       "datum": "2026-06-14T17:45:02Z",
+      "datum_de": "14.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Dennis Jan Vogt",
+      "titel": "Claude Code: 4 Schritte, die fast alle überspringen",
+      "link": "https://www.youtube.com/watch?v=Nhz5dMcXUZc",
+      "video_id": "Nhz5dMcXUZc",
+      "thumbnail": "https://img.youtube.com/vi/Nhz5dMcXUZc/mqdefault.jpg",
+      "datum": "2026-06-14T16:38:46Z",
       "datum_de": "14.06.2026",
       "quelle": "suche"
     },
@@ -81,76 +151,6 @@
       "datum": "2026-06-14T07:30:39Z",
       "datum_de": "14.06.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "KIOrbit",
-      "titel": "ChatGPT Grundkurs 2026: Komplette Anleitung für Anfänger",
-      "link": "https://www.youtube.com/watch?v=QrIXCxu-mvw",
-      "video_id": "QrIXCxu-mvw",
-      "thumbnail": "https://img.youtube.com/vi/QrIXCxu-mvw/mqdefault.jpg",
-      "datum": "2026-06-13T17:03:32Z",
-      "datum_de": "13.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Marc De Fanti",
-      "titel": "Claude Fable 5 und Mythos 5: Beide jetzt weltweit offline",
-      "link": "https://www.youtube.com/watch?v=Z4xz3Af8YnE",
-      "video_id": "Z4xz3Af8YnE",
-      "thumbnail": "https://img.youtube.com/vi/Z4xz3Af8YnE/mqdefault.jpg",
-      "datum": "2026-06-13T11:00:39Z",
-      "datum_de": "13.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "klareabsicht",
-      "titel": "7 Claude AI Tricks, die du kennen musst!",
-      "link": "https://www.youtube.com/watch?v=dNIn_1c4mmU",
-      "video_id": "dNIn_1c4mmU",
-      "thumbnail": "https://img.youtube.com/vi/dNIn_1c4mmU/mqdefault.jpg",
-      "datum": "2026-06-13T10:24:58Z",
-      "datum_de": "13.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Metics Media | Deutsch",
-      "titel": "So Erstellst du deinen Ersten KI-Agenten in 10 Minuten (Ohne Code)",
-      "link": "https://www.youtube.com/watch?v=MOtCtfFlqdU",
-      "video_id": "MOtCtfFlqdU",
-      "thumbnail": "https://img.youtube.com/vi/MOtCtfFlqdU/mqdefault.jpg",
-      "datum": "2026-06-12T15:30:27Z",
-      "datum_de": "12.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "MYTHOS Update von CLAUDE: Das neue Fable 5 Modell im Test!",
-      "link": "https://www.youtube.com/watch?v=MGnvfvq_VBQ",
-      "video_id": "MGnvfvq_VBQ",
-      "thumbnail": "https://img.youtube.com/vi/MGnvfvq_VBQ/mqdefault.jpg",
-      "datum": "2026-06-12T10:16:59+00:00",
-      "datum_de": "12.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sebastian Claes | N8N & KI-Agenten",
-      "titel": "Diese Claude Code Armee automatisiert ALLES!",
-      "link": "https://www.youtube.com/watch?v=pmVqaU1YcpY",
-      "video_id": "pmVqaU1YcpY",
-      "thumbnail": "https://img.youtube.com/vi/pmVqaU1YcpY/mqdefault.jpg",
-      "datum": "2026-06-11T18:44:44Z",
-      "datum_de": "11.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Neuromorphe KI: DAS verändert ALLES! Warum 20 Watt genügen (Prof. Christoph von der Malsburg)",
-      "link": "https://www.youtube.com/watch?v=P7hoTfEZySs",
-      "video_id": "P7hoTfEZySs",
-      "thumbnail": "https://img.youtube.com/vi/P7hoTfEZySs/mqdefault.jpg",
-      "datum": "2026-06-11T15:15:15+00:00",
-      "datum_de": "11.06.2026",
-      "quelle": "kanal"
     }
   ]
 }
