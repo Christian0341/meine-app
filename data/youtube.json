@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-06-16T12:15:03.768055+00:00",
+  "aktualisiert": "2026-06-17T11:54:40.009232+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "NextChapterLife",
+      "titel": "Vergiss Apps – Claude ist dein neues Betriebssystem",
+      "link": "https://www.youtube.com/watch?v=wIdaJ6DJcbo",
+      "video_id": "wIdaJ6DJcbo",
+      "thumbnail": "https://img.youtube.com/vi/wIdaJ6DJcbo/mqdefault.jpg",
+      "datum": "2026-06-16T16:07:47Z",
+      "datum_de": "16.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Lokale KI wird MASSIV unterschätzt! Alle Wege, KI komplett kostenlos & offline zu nutzen",
+      "link": "https://www.youtube.com/watch?v=qZRftXozT3M",
+      "video_id": "qZRftXozT3M",
+      "thumbnail": "https://img.youtube.com/vi/qZRftXozT3M/mqdefault.jpg",
+      "datum": "2026-06-16T15:15:35+00:00",
+      "datum_de": "16.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "NextChapterLife",
+      "titel": "Claude Skills meistern: Nie wieder Prompt-Chaos!",
+      "link": "https://www.youtube.com/watch?v=noUmp62hZvU",
+      "video_id": "noUmp62hZvU",
+      "thumbnail": "https://img.youtube.com/vi/noUmp62hZvU/mqdefault.jpg",
+      "datum": "2026-06-16T14:46:55Z",
+      "datum_de": "16.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "NextChapterLife",
+      "titel": "Dein KI-Team in Claude: Die Kraft der Skills endlich verstanden",
+      "link": "https://www.youtube.com/watch?v=TUngYR2eyGc",
+      "video_id": "TUngYR2eyGc",
+      "thumbnail": "https://img.youtube.com/vi/TUngYR2eyGc/mqdefault.jpg",
+      "datum": "2026-06-16T13:20:32Z",
+      "datum_de": "16.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI Insider",
+      "titel": "Claude Code für Einsteiger – KI programmiert für dich (auf Deutsch erklärt)",
+      "link": "https://www.youtube.com/watch?v=on_FEDaw8nQ",
+      "video_id": "on_FEDaw8nQ",
+      "thumbnail": "https://img.youtube.com/vi/on_FEDaw8nQ/mqdefault.jpg",
+      "datum": "2026-06-16T13:00:27Z",
+      "datum_de": "16.06.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Akademie4KI",
       "titel": "ChatGPT kostenlos in PowerPoint nutzen! - Schritt für Schritt-Anleitung",
@@ -53,32 +103,12 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Felicia Simon",
-      "titel": "Claude Skills einfach erklärt: Die meisten nutzen die beste Funktion nicht!",
-      "link": "https://www.youtube.com/watch?v=xDC3euudZ5g",
-      "video_id": "xDC3euudZ5g",
-      "thumbnail": "https://img.youtube.com/vi/xDC3euudZ5g/mqdefault.jpg",
-      "datum": "2026-06-15T14:45:32Z",
-      "datum_de": "15.06.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "KIOrbit",
       "titel": "ChatGPT &amp; Codex 2026: So baue ich Software ohne Vibe Coding",
       "link": "https://www.youtube.com/watch?v=mLWKhsHhDjw",
       "video_id": "mLWKhsHhDjw",
       "thumbnail": "https://img.youtube.com/vi/mLWKhsHhDjw/mqdefault.jpg",
       "datum": "2026-06-15T10:00:00Z",
-      "datum_de": "15.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "IchBinFabian",
-      "titel": "GLM 5.2: 10x billiger als Claude, aber wo ist der Haken?",
-      "link": "https://www.youtube.com/watch?v=bN1QJi26kco",
-      "video_id": "bN1QJi26kco",
-      "thumbnail": "https://img.youtube.com/vi/bN1QJi26kco/mqdefault.jpg",
-      "datum": "2026-06-15T06:30:40Z",
       "datum_de": "15.06.2026",
       "quelle": "suche"
     },
@@ -93,26 +123,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "IchBinFabian",
-      "titel": "Open Source schlägt Claude? Kimi K2.7 Code live getestet",
-      "link": "https://www.youtube.com/watch?v=ACWiFXtQPfQ",
-      "video_id": "ACWiFXtQPfQ",
-      "thumbnail": "https://img.youtube.com/vi/ACWiFXtQPfQ/mqdefault.jpg",
-      "datum": "2026-06-14T17:45:02Z",
-      "datum_de": "14.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Dennis Jan Vogt",
-      "titel": "Claude Code: 4 Schritte, die fast alle überspringen",
-      "link": "https://www.youtube.com/watch?v=Nhz5dMcXUZc",
-      "video_id": "Nhz5dMcXUZc",
-      "thumbnail": "https://img.youtube.com/vi/Nhz5dMcXUZc/mqdefault.jpg",
-      "datum": "2026-06-14T16:38:46Z",
-      "datum_de": "14.06.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Sascha Taschan",
       "titel": "Claude Code ist JETZT noch einfacher geworden - Superpower für ALLE!",
       "link": "https://www.youtube.com/watch?v=idxVAUs4VN0",
@@ -121,16 +131,6 @@
       "datum": "2026-06-14T14:15:14+00:00",
       "datum_de": "14.06.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "KI Insider",
-      "titel": "Perplexity AI – Besser als Google? Kompletter Guide auf Deutsch!",
-      "link": "https://www.youtube.com/watch?v=9xmjo56YGQw",
-      "video_id": "9xmjo56YGQw",
-      "thumbnail": "https://img.youtube.com/vi/9xmjo56YGQw/mqdefault.jpg",
-      "datum": "2026-06-14T11:12:11Z",
-      "datum_de": "14.06.2026",
-      "quelle": "suche"
     },
     {
       "kanal": "Everlast AI",
@@ -143,13 +143,13 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "AI Mentors",
-      "titel": "Die verbotene Claude KI hat mir 10.000€ Websites erstellt",
-      "link": "https://www.youtube.com/watch?v=a3ihJpz71dI",
-      "video_id": "a3ihJpz71dI",
-      "thumbnail": "https://img.youtube.com/vi/a3ihJpz71dI/mqdefault.jpg",
-      "datum": "2026-06-14T07:30:39Z",
-      "datum_de": "14.06.2026",
+      "kanal": "KIOrbit",
+      "titel": "ChatGPT Grundkurs 2026: Komplette Anleitung für Anfänger",
+      "link": "https://www.youtube.com/watch?v=QrIXCxu-mvw",
+      "video_id": "QrIXCxu-mvw",
+      "thumbnail": "https://img.youtube.com/vi/QrIXCxu-mvw/mqdefault.jpg",
+      "datum": "2026-06-13T17:03:32Z",
+      "datum_de": "13.06.2026",
       "quelle": "suche"
     }
   ]
