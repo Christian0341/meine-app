@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-06-17T11:54:40.009232+00:00",
+  "aktualisiert": "2026-06-18T11:14:53.035491+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "Prof. Maximilian Fichtner: Das KI-Energieproblem, Speicher-Lüge, Wasserstoff-Mythos, China & Zukunft",
+      "link": "https://www.youtube.com/watch?v=WVkDduNKkMc",
+      "video_id": "WVkDduNKkMc",
+      "thumbnail": "https://img.youtube.com/vi/WVkDduNKkMc/mqdefault.jpg",
+      "datum": "2026-06-17T15:15:30+00:00",
+      "datum_de": "17.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Claude Code vom Anfänger zum Profi - Das EINZIGE Video was du brauchst ",
+      "link": "https://www.youtube.com/watch?v=QEwqWbxKPho",
+      "video_id": "QEwqWbxKPho",
+      "thumbnail": "https://img.youtube.com/vi/QEwqWbxKPho/mqdefault.jpg",
+      "datum": "2026-06-17T14:15:39+00:00",
+      "datum_de": "17.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KI Insider",
+      "titel": "Was KI-Agenten jetzt schon für dich erledigen – und wie du das heute nutzt",
+      "link": "https://www.youtube.com/watch?v=aR2hSN8GO8M",
+      "video_id": "aR2hSN8GO8M",
+      "thumbnail": "https://img.youtube.com/vi/aR2hSN8GO8M/mqdefault.jpg",
+      "datum": "2026-06-17T13:00:04Z",
+      "datum_de": "17.06.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "NextChapterLife",
       "titel": "Vergiss Apps – Claude ist dein neues Betriebssystem",
@@ -121,36 +151,6 @@
       "datum": "2026-06-15T06:00:04+00:00",
       "datum_de": "15.06.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Claude Code ist JETZT noch einfacher geworden - Superpower für ALLE!",
-      "link": "https://www.youtube.com/watch?v=idxVAUs4VN0",
-      "video_id": "idxVAUs4VN0",
-      "thumbnail": "https://img.youtube.com/vi/idxVAUs4VN0/mqdefault.jpg",
-      "datum": "2026-06-14T14:15:14+00:00",
-      "datum_de": "14.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "DAS kann Claude „Fable 5” wirklich & DARUM ist es gesperrt! (Alles was du jetzt wissen musst)",
-      "link": "https://www.youtube.com/watch?v=liE2lp_5je0",
-      "video_id": "liE2lp_5je0",
-      "thumbnail": "https://img.youtube.com/vi/liE2lp_5je0/mqdefault.jpg",
-      "datum": "2026-06-14T08:15:38+00:00",
-      "datum_de": "14.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KIOrbit",
-      "titel": "ChatGPT Grundkurs 2026: Komplette Anleitung für Anfänger",
-      "link": "https://www.youtube.com/watch?v=QrIXCxu-mvw",
-      "video_id": "QrIXCxu-mvw",
-      "thumbnail": "https://img.youtube.com/vi/QrIXCxu-mvw/mqdefault.jpg",
-      "datum": "2026-06-13T17:03:32Z",
-      "datum_de": "13.06.2026",
-      "quelle": "suche"
     }
   ]
 }
