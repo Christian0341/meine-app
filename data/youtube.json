@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-06-18T11:14:53.035491+00:00",
+  "aktualisiert": "2026-06-19T11:39:13.601997+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Warum Wohlstand unser Innovationsproblem ist: Zwischen Angst und Aufbruch | Dr. Tina Klüwer",
+      "link": "https://www.youtube.com/watch?v=9sSm2P5S5Rk",
+      "video_id": "9sSm2P5S5Rk",
+      "thumbnail": "https://img.youtube.com/vi/9sSm2P5S5Rk/mqdefault.jpg",
+      "datum": "2026-06-19T10:00:14+00:00",
+      "datum_de": "19.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Fynn Röber",
+      "titel": "Wie ich 2026 mit Claude AI Geld verdienen würde (wenn ich von 0 starten müsste)",
+      "link": "https://www.youtube.com/watch?v=aNMYR8B23UQ",
+      "video_id": "aNMYR8B23UQ",
+      "thumbnail": "https://img.youtube.com/vi/aNMYR8B23UQ/mqdefault.jpg",
+      "datum": "2026-06-18T16:41:18Z",
+      "datum_de": "18.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KIOrbit",
+      "titel": "Diese KI erstellt Videos automatisch – Claude + Remotion Tutorial",
+      "link": "https://www.youtube.com/watch?v=LY8u5bGWpUY",
+      "video_id": "LY8u5bGWpUY",
+      "thumbnail": "https://img.youtube.com/vi/LY8u5bGWpUY/mqdefault.jpg",
+      "datum": "2026-06-18T16:00:28Z",
+      "datum_de": "18.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "„China bereitet sich DARAUF vor und niemand schaut hin!” DAS wird jetzt passieren (Wolfgang Hirn)",
+      "link": "https://www.youtube.com/watch?v=S3jvAS9JnOg",
+      "video_id": "S3jvAS9JnOg",
+      "thumbnail": "https://img.youtube.com/vi/S3jvAS9JnOg/mqdefault.jpg",
+      "datum": "2026-06-18T15:15:07+00:00",
+      "datum_de": "18.06.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "Prof. Maximilian Fichtner: Das KI-Energieproblem, Speicher-Lüge, Wasserstoff-Mythos, China & Zukunft",
@@ -14,7 +54,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Claude Code vom Anfänger zum Profi - Das EINZIGE Video was du brauchst ",
+      "titel": "Erste EIGENE App bauen mit Claude Code! Komplette Anleitung",
       "link": "https://www.youtube.com/watch?v=QEwqWbxKPho",
       "video_id": "QEwqWbxKPho",
       "thumbnail": "https://img.youtube.com/vi/QEwqWbxKPho/mqdefault.jpg",
@@ -30,6 +70,16 @@
       "thumbnail": "https://img.youtube.com/vi/aR2hSN8GO8M/mqdefault.jpg",
       "datum": "2026-06-17T13:00:04Z",
       "datum_de": "17.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Fabian Rappert | Data Science Institute",
+      "titel": "KI Agenten: Erklärt für komplette Anfänger (in 8 Min)",
+      "link": "https://www.youtube.com/watch?v=-WHuSUlAH8Q",
+      "video_id": "-WHuSUlAH8Q",
+      "thumbnail": "https://img.youtube.com/vi/-WHuSUlAH8Q/mqdefault.jpg",
+      "datum": "2026-06-16T17:54:55Z",
+      "datum_de": "16.06.2026",
       "quelle": "suche"
     },
     {
@@ -73,7 +123,7 @@
       "quelle": "suche"
     },
     {
-      "kanal": "KI Insider",
+      "kanal": "Ich bin der KI Insider",
       "titel": "Claude Code für Einsteiger – KI programmiert für dich (auf Deutsch erklärt)",
       "link": "https://www.youtube.com/watch?v=on_FEDaw8nQ",
       "video_id": "on_FEDaw8nQ",
@@ -93,16 +143,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Fabian Stelzer",
-      "titel": "Lerne 97% von Claude in 18 Minuten - 14 Funktionen die du kennen solltest / Deutsch",
-      "link": "https://www.youtube.com/watch?v=bFySkLq9MGw",
-      "video_id": "bFySkLq9MGw",
-      "thumbnail": "https://img.youtube.com/vi/bFySkLq9MGw/mqdefault.jpg",
-      "datum": "2026-06-15T20:40:49Z",
-      "datum_de": "15.06.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "KIOrbit",
       "titel": "ChatGPT vs  Claude vs  Gemini: Wer baut Subway Surfers am besten",
       "link": "https://www.youtube.com/watch?v=x_VV4_9H82k",
@@ -111,46 +151,6 @@
       "datum": "2026-06-15T16:00:27Z",
       "datum_de": "15.06.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Ich hab Claude Code Remote getestet  - auf einem Server",
-      "link": "https://www.youtube.com/watch?v=-p0i4M4Z4Yo",
-      "video_id": "-p0i4M4Z4Yo",
-      "thumbnail": "https://img.youtube.com/vi/-p0i4M4Z4Yo/mqdefault.jpg",
-      "datum": "2026-06-15T15:54:16+00:00",
-      "datum_de": "15.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Shakeela ZQ",
-      "titel": "NotebookLM + Claude, Gemini &amp; Perplexity: Die besten KI-Kombinationen (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=oMXkhK1xQMQ",
-      "video_id": "oMXkhK1xQMQ",
-      "thumbnail": "https://img.youtube.com/vi/oMXkhK1xQMQ/mqdefault.jpg",
-      "datum": "2026-06-15T15:45:32Z",
-      "datum_de": "15.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KIOrbit",
-      "titel": "ChatGPT &amp; Codex 2026: So baue ich Software ohne Vibe Coding",
-      "link": "https://www.youtube.com/watch?v=mLWKhsHhDjw",
-      "video_id": "mLWKhsHhDjw",
-      "thumbnail": "https://img.youtube.com/vi/mLWKhsHhDjw/mqdefault.jpg",
-      "datum": "2026-06-15T10:00:00Z",
-      "datum_de": "15.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "HEFTIGE KI NEWS: Chat ist TOT! Das stärkste KI-Modell aller Zeiten ist da! Anthropic warnt vor KI",
-      "link": "https://www.youtube.com/watch?v=AOyl4EOkg24",
-      "video_id": "AOyl4EOkg24",
-      "thumbnail": "https://img.youtube.com/vi/AOyl4EOkg24/mqdefault.jpg",
-      "datum": "2026-06-15T06:00:04+00:00",
-      "datum_de": "15.06.2026",
-      "quelle": "kanal"
     }
   ]
 }
