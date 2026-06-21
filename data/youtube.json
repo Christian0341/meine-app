@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-06-20T10:11:01.755019+00:00",
+  "aktualisiert": "2026-06-21T10:35:37.738597+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-News: SO leicht hackt man Claude Mythos! KI-Jailbreaks erklärt & Codex Updates (Florian Tramèr)",
+      "link": "https://www.youtube.com/watch?v=eg3GcZEnbHQ",
+      "video_id": "eg3GcZEnbHQ",
+      "thumbnail": "https://img.youtube.com/vi/eg3GcZEnbHQ/mqdefault.jpg",
+      "datum": "2026-06-21T08:15:12+00:00",
+      "datum_de": "21.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "NEURONEXI AI",
+      "titel": "Ich habe Claude Code das Sehen beigebracht – das verändert alles",
+      "link": "https://www.youtube.com/watch?v=SrH1DNOMl3k",
+      "video_id": "SrH1DNOMl3k",
+      "thumbnail": "https://img.youtube.com/vi/SrH1DNOMl3k/mqdefault.jpg",
+      "datum": "2026-06-21T01:22:01Z",
+      "datum_de": "21.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "WeLoveTech",
+      "titel": "Rokid Glasses Test 👓 KI Smart Glasses | smarte Brille mit ChatGPT / Gemini | Übersetzung und Navi",
+      "link": "https://www.youtube.com/watch?v=a2aW5GLc3oQ",
+      "video_id": "a2aW5GLc3oQ",
+      "thumbnail": "https://img.youtube.com/vi/a2aW5GLc3oQ/mqdefault.jpg",
+      "datum": "2026-06-20T16:00:05Z",
+      "datum_de": "20.06.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "200 Kunden reaktiviert & neue Vermietungen durch KI-Agent als Makler | Everlast AI Erfahrung",
@@ -113,43 +143,13 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "KI Insider",
+      "kanal": "Ich bin der KI Insider",
       "titel": "Was KI-Agenten jetzt schon für dich erledigen – und wie du das heute nutzt",
       "link": "https://www.youtube.com/watch?v=aR2hSN8GO8M",
       "video_id": "aR2hSN8GO8M",
       "thumbnail": "https://img.youtube.com/vi/aR2hSN8GO8M/mqdefault.jpg",
       "datum": "2026-06-17T13:00:04Z",
       "datum_de": "17.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Fabian Rappert | Data Science Institute",
-      "titel": "KI Agenten: Erklärt für komplette Anfänger (in 8 Min)",
-      "link": "https://www.youtube.com/watch?v=-WHuSUlAH8Q",
-      "video_id": "-WHuSUlAH8Q",
-      "thumbnail": "https://img.youtube.com/vi/-WHuSUlAH8Q/mqdefault.jpg",
-      "datum": "2026-06-16T17:54:55Z",
-      "datum_de": "16.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Florenz Erstling",
-      "titel": "Claude Code installieren Mac / Windows 11/10 | Step-by-Step Anleitung",
-      "link": "https://www.youtube.com/watch?v=jJX-T-Rt4zA",
-      "video_id": "jJX-T-Rt4zA",
-      "thumbnail": "https://img.youtube.com/vi/jJX-T-Rt4zA/mqdefault.jpg",
-      "datum": "2026-06-16T16:48:46Z",
-      "datum_de": "16.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "NextChapterLife",
-      "titel": "Vergiss Apps – Claude ist dein neues Betriebssystem",
-      "link": "https://www.youtube.com/watch?v=wIdaJ6DJcbo",
-      "video_id": "wIdaJ6DJcbo",
-      "thumbnail": "https://img.youtube.com/vi/wIdaJ6DJcbo/mqdefault.jpg",
-      "datum": "2026-06-16T16:07:47Z",
-      "datum_de": "16.06.2026",
       "quelle": "suche"
     }
   ]
