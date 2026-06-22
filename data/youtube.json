@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-06-21T10:35:37.738597+00:00",
+  "aktualisiert": "2026-06-22T12:53:57.001937+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "KIOrbit",
+      "titel": "Die KI Tools, die mein Leben verändert haben",
+      "link": "https://www.youtube.com/watch?v=wRw26FKFm-Q",
+      "video_id": "wRw26FKFm-Q",
+      "thumbnail": "https://img.youtube.com/vi/wRw26FKFm-Q/mqdefault.jpg",
+      "datum": "2026-06-22T10:00:07Z",
+      "datum_de": "22.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Kontextkern",
+      "titel": "Claude Cowork: Dieser KI Agent sortiert deinen Posteingang und plant deinen Tag",
+      "link": "https://www.youtube.com/watch?v=dX_v_S7M_lU",
+      "video_id": "dX_v_S7M_lU",
+      "thumbnail": "https://img.youtube.com/vi/dX_v_S7M_lU/mqdefault.jpg",
+      "datum": "2026-06-21T15:00:02Z",
+      "datum_de": "21.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Fable 5 gesperrt: Ich habe die BESTE Alternative getestet! ",
+      "link": "https://www.youtube.com/watch?v=7zopugTLE5k",
+      "video_id": "7zopugTLE5k",
+      "thumbnail": "https://img.youtube.com/vi/7zopugTLE5k/mqdefault.jpg",
+      "datum": "2026-06-21T14:15:08+00:00",
+      "datum_de": "21.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "NexxProzess",
+      "titel": "Dein eigener KI-Agent auf dem PC — steuer ihn per Telegram (Hermes Agent Tutorial)",
+      "link": "https://www.youtube.com/watch?v=DDTFWUAiR8o",
+      "video_id": "DDTFWUAiR8o",
+      "thumbnail": "https://img.youtube.com/vi/DDTFWUAiR8o/mqdefault.jpg",
+      "datum": "2026-06-21T10:00:25Z",
+      "datum_de": "21.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Unfairer Vorteil | KI",
+      "titel": "Hör auf Claude zu prompten. Benutze lieber Karpathy’s Methode.",
+      "link": "https://www.youtube.com/watch?v=idBrN4vU7Z4",
+      "video_id": "idBrN4vU7Z4",
+      "thumbnail": "https://img.youtube.com/vi/idBrN4vU7Z4/mqdefault.jpg",
+      "datum": "2026-06-21T09:00:27Z",
+      "datum_de": "21.06.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "KI-News: SO leicht hackt man Claude Mythos! KI-Jailbreaks erklärt & Codex Updates (Florian Tramèr)",
@@ -29,6 +79,16 @@
       "video_id": "a2aW5GLc3oQ",
       "thumbnail": "https://img.youtube.com/vi/a2aW5GLc3oQ/mqdefault.jpg",
       "datum": "2026-06-20T16:00:05Z",
+      "datum_de": "20.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AKIA Akademie für KI & Automation",
+      "titel": "Briefing → PDF-Angebot in 60 Sekunden (n8n Tutorial deutsch)",
+      "link": "https://www.youtube.com/watch?v=CPcqI08yQGA",
+      "video_id": "CPcqI08yQGA",
+      "thumbnail": "https://img.youtube.com/vi/CPcqI08yQGA/mqdefault.jpg",
+      "datum": "2026-06-20T07:30:37Z",
       "datum_de": "20.06.2026",
       "quelle": "suche"
     },
@@ -91,66 +151,6 @@
       "datum": "2026-06-18T15:15:07+00:00",
       "datum_de": "18.06.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "NANCY | Projects To Profit",
-      "titel": "NotebookLM Deutsch: 5 Funktionen, die dein Büro automatisieren (Tutorial 2026)",
-      "link": "https://www.youtube.com/watch?v=WvMOo5aV9VM",
-      "video_id": "WvMOo5aV9VM",
-      "thumbnail": "https://img.youtube.com/vi/WvMOo5aV9VM/mqdefault.jpg",
-      "datum": "2026-06-18T14:22:42Z",
-      "datum_de": "18.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Higgsfield AI",
-      "titel": "I Used Higgsfield AI + Claude to Build a $39,500/Month Faceless Channel",
-      "link": "https://www.youtube.com/watch?v=wU_bmWb6bhg",
-      "video_id": "wU_bmWb6bhg",
-      "thumbnail": "https://img.youtube.com/vi/wU_bmWb6bhg/mqdefault.jpg",
-      "datum": "2026-06-17T16:00:10Z",
-      "datum_de": "17.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Rob The AI Guy",
-      "titel": "BRAND NEW Secret Google Gemini Features You Didn&#39;t Know Existed 👀 (mind blowing)",
-      "link": "https://www.youtube.com/watch?v=jH7S3rroQ7Y",
-      "video_id": "jH7S3rroQ7Y",
-      "thumbnail": "https://img.youtube.com/vi/jH7S3rroQ7Y/mqdefault.jpg",
-      "datum": "2026-06-17T15:17:39Z",
-      "datum_de": "17.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Prof. Maximilian Fichtner: Das KI-Energieproblem, Speicher-Lüge, Wasserstoff-Mythos, China & Zukunft",
-      "link": "https://www.youtube.com/watch?v=WVkDduNKkMc",
-      "video_id": "WVkDduNKkMc",
-      "thumbnail": "https://img.youtube.com/vi/WVkDduNKkMc/mqdefault.jpg",
-      "datum": "2026-06-17T15:15:30+00:00",
-      "datum_de": "17.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Erste EIGENE App bauen mit Claude Code! Komplette Anleitung",
-      "link": "https://www.youtube.com/watch?v=QEwqWbxKPho",
-      "video_id": "QEwqWbxKPho",
-      "thumbnail": "https://img.youtube.com/vi/QEwqWbxKPho/mqdefault.jpg",
-      "datum": "2026-06-17T14:15:39+00:00",
-      "datum_de": "17.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Ich bin der KI Insider",
-      "titel": "Was KI-Agenten jetzt schon für dich erledigen – und wie du das heute nutzt",
-      "link": "https://www.youtube.com/watch?v=aR2hSN8GO8M",
-      "video_id": "aR2hSN8GO8M",
-      "thumbnail": "https://img.youtube.com/vi/aR2hSN8GO8M/mqdefault.jpg",
-      "datum": "2026-06-17T13:00:04Z",
-      "datum_de": "17.06.2026",
-      "quelle": "suche"
     }
   ]
 }
