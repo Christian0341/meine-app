@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-06-22T12:53:57.001937+00:00",
+  "aktualisiert": "2026-06-23T10:38:58.744929+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "ki_marketing_hub1",
+      "titel": "Claude Skills richtig einrichten – Das fehlende Tutorial",
+      "link": "https://www.youtube.com/watch?v=KUucxvdCP1o",
+      "video_id": "KUucxvdCP1o",
+      "thumbnail": "https://img.youtube.com/vi/KUucxvdCP1o/mqdefault.jpg",
+      "datum": "2026-06-23T09:42:04Z",
+      "datum_de": "23.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Fable 5 gesperrt! 3 Dinge, die du jetzt tun solltest",
+      "link": "https://www.youtube.com/watch?v=6LVB3mpPvB4",
+      "video_id": "6LVB3mpPvB4",
+      "thumbnail": "https://img.youtube.com/vi/6LVB3mpPvB4/mqdefault.jpg",
+      "datum": "2026-06-22T16:00:21+00:00",
+      "datum_de": "22.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Neuland Pro",
+      "titel": "DAS ÄNDERT ALLES: Mit Manus baust du Apps ohne zu programmieren",
+      "link": "https://www.youtube.com/watch?v=5ll531O_jg8",
+      "video_id": "5ll531O_jg8",
+      "thumbnail": "https://img.youtube.com/vi/5ll531O_jg8/mqdefault.jpg",
+      "datum": "2026-06-22T14:47:05+00:00",
+      "datum_de": "22.06.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "KIOrbit",
       "titel": "Die KI Tools, die mein Leben verändert haben",
@@ -24,7 +54,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Fable 5 gesperrt: Ich habe die BESTE Alternative getestet! ",
+      "titel": "Fable 5 wurde gesperrt: Ich habe die BESTE Alternative getestet! ",
       "link": "https://www.youtube.com/watch?v=7zopugTLE5k",
       "video_id": "7zopugTLE5k",
       "thumbnail": "https://img.youtube.com/vi/7zopugTLE5k/mqdefault.jpg",
@@ -54,7 +84,7 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "KI-News: SO leicht hackt man Claude Mythos! KI-Jailbreaks erklärt & Codex Updates (Florian Tramèr)",
+      "titel": "DAS steckt hinter dem Claude „Mythos\" JAILBREAK! Codex Updates, GLM 5.2 & weitere KI-News",
       "link": "https://www.youtube.com/watch?v=eg3GcZEnbHQ",
       "video_id": "eg3GcZEnbHQ",
       "thumbnail": "https://img.youtube.com/vi/eg3GcZEnbHQ/mqdefault.jpg",
@@ -103,6 +133,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "Sajad",
+      "titel": "Connect TradingView to Claude: Complete Guide (2026)",
+      "link": "https://www.youtube.com/watch?v=03i7zqq3faM",
+      "video_id": "03i7zqq3faM",
+      "thumbnail": "https://img.youtube.com/vi/03i7zqq3faM/mqdefault.jpg",
+      "datum": "2026-06-19T14:38:30Z",
+      "datum_de": "19.06.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Morpheus Tutorials",
       "titel": "Eine Open-Source KI soll's mit Claude Fable aufnehmen?",
       "link": "https://www.youtube.com/watch?v=HyDEzJztjpk",
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/HyDEzJztjpk/mqdefault.jpg",
       "datum": "2026-06-19T13:03:11+00:00",
       "datum_de": "19.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Warum Wohlstand unser Innovationsproblem ist: Zwischen Angst und Aufbruch | Dr. Tina Klüwer",
-      "link": "https://www.youtube.com/watch?v=9sSm2P5S5Rk",
-      "video_id": "9sSm2P5S5Rk",
-      "thumbnail": "https://img.youtube.com/vi/9sSm2P5S5Rk/mqdefault.jpg",
-      "datum": "2026-06-19T10:00:14+00:00",
-      "datum_de": "19.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Fynn Röber",
-      "titel": "Wie ich 2026 mit Claude AI Geld verdienen würde (wenn ich von 0 starten müsste)",
-      "link": "https://www.youtube.com/watch?v=aNMYR8B23UQ",
-      "video_id": "aNMYR8B23UQ",
-      "thumbnail": "https://img.youtube.com/vi/aNMYR8B23UQ/mqdefault.jpg",
-      "datum": "2026-06-18T16:41:18Z",
-      "datum_de": "18.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KIOrbit",
-      "titel": "Diese KI erstellt Videos automatisch – Claude + Remotion Tutorial",
-      "link": "https://www.youtube.com/watch?v=LY8u5bGWpUY",
-      "video_id": "LY8u5bGWpUY",
-      "thumbnail": "https://img.youtube.com/vi/LY8u5bGWpUY/mqdefault.jpg",
-      "datum": "2026-06-18T16:00:28Z",
-      "datum_de": "18.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "„China bereitet sich DARAUF vor und niemand schaut hin!” DAS wird jetzt passieren (Wolfgang Hirn)",
-      "link": "https://www.youtube.com/watch?v=S3jvAS9JnOg",
-      "video_id": "S3jvAS9JnOg",
-      "thumbnail": "https://img.youtube.com/vi/S3jvAS9JnOg/mqdefault.jpg",
-      "datum": "2026-06-18T15:15:07+00:00",
-      "datum_de": "18.06.2026",
       "quelle": "kanal"
     }
   ]
