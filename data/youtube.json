@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-06-23T10:38:58.744929+00:00",
+  "aktualisiert": "2026-06-24T10:25:47.591959+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "KIOrbit",
+      "titel": "Gemini 3 Pro komplett erklärt: Das einzige Tutorial, das du 2026 brauchst",
+      "link": "https://www.youtube.com/watch?v=Y43-lhM0QbE",
+      "video_id": "Y43-lhM0QbE",
+      "thumbnail": "https://img.youtube.com/vi/Y43-lhM0QbE/mqdefault.jpg",
+      "datum": "2026-06-24T10:00:26Z",
+      "datum_de": "24.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Massive KI-Durchbrüche: Claude Mythos, KI-Rechtsform, Humanoide, OpenSource & Superintelligenz",
+      "link": "https://www.youtube.com/watch?v=gxsa2xoLxGY",
+      "video_id": "gxsa2xoLxGY",
+      "thumbnail": "https://img.youtube.com/vi/gxsa2xoLxGY/mqdefault.jpg",
+      "datum": "2026-06-23T15:15:03+00:00",
+      "datum_de": "23.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Claude Code einfach erklärt - Tutorial für Anfänger 2026 (deutsch)",
+      "link": "https://www.youtube.com/watch?v=ZoEGvmOs9t0",
+      "video_id": "ZoEGvmOs9t0",
+      "thumbnail": "https://img.youtube.com/vi/ZoEGvmOs9t0/mqdefault.jpg",
+      "datum": "2026-06-23T13:30:22+00:00",
+      "datum_de": "23.06.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "ki_marketing_hub1",
       "titel": "Claude Skills richtig einrichten – Das fehlende Tutorial",
@@ -63,6 +93,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "AI Bunny",
+      "titel": "Seedance 2.0 Turned My Claude AI Storyboard Into a Full AI Video in Minutes",
+      "link": "https://www.youtube.com/watch?v=96q3KHK9KEE",
+      "video_id": "96q3KHK9KEE",
+      "thumbnail": "https://img.youtube.com/vi/96q3KHK9KEE/mqdefault.jpg",
+      "datum": "2026-06-21T12:39:09Z",
+      "datum_de": "21.06.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "NexxProzess",
       "titel": "Dein eigener KI-Agent auf dem PC — steuer ihn per Telegram (Hermes Agent Tutorial)",
       "link": "https://www.youtube.com/watch?v=DDTFWUAiR8o",
@@ -111,46 +151,6 @@
       "datum": "2026-06-20T16:00:05Z",
       "datum_de": "20.06.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "AKIA Akademie für KI & Automation",
-      "titel": "Briefing → PDF-Angebot in 60 Sekunden (n8n Tutorial deutsch)",
-      "link": "https://www.youtube.com/watch?v=CPcqI08yQGA",
-      "video_id": "CPcqI08yQGA",
-      "thumbnail": "https://img.youtube.com/vi/CPcqI08yQGA/mqdefault.jpg",
-      "datum": "2026-06-20T07:30:37Z",
-      "datum_de": "20.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "200 Kunden reaktiviert & neue Vermietungen durch KI-Agent als Makler | Everlast AI Erfahrung",
-      "link": "https://www.youtube.com/watch?v=77q5LaMRcm8",
-      "video_id": "77q5LaMRcm8",
-      "thumbnail": "https://img.youtube.com/vi/77q5LaMRcm8/mqdefault.jpg",
-      "datum": "2026-06-19T14:45:12+00:00",
-      "datum_de": "19.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sajad",
-      "titel": "Connect TradingView to Claude: Complete Guide (2026)",
-      "link": "https://www.youtube.com/watch?v=03i7zqq3faM",
-      "video_id": "03i7zqq3faM",
-      "thumbnail": "https://img.youtube.com/vi/03i7zqq3faM/mqdefault.jpg",
-      "datum": "2026-06-19T14:38:30Z",
-      "datum_de": "19.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Eine Open-Source KI soll's mit Claude Fable aufnehmen?",
-      "link": "https://www.youtube.com/watch?v=HyDEzJztjpk",
-      "video_id": "HyDEzJztjpk",
-      "thumbnail": "https://img.youtube.com/vi/HyDEzJztjpk/mqdefault.jpg",
-      "datum": "2026-06-19T13:03:11+00:00",
-      "datum_de": "19.06.2026",
-      "quelle": "kanal"
     }
   ]
 }
