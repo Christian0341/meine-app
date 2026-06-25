@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-06-24T10:25:47.591959+00:00",
+  "aktualisiert": "2026-06-25T10:17:53.697125+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "HÖR AUF mit Claude zu schreiben - mach stattdessen das!",
+      "link": "https://www.youtube.com/watch?v=Bl3IYpf2l5U",
+      "video_id": "Bl3IYpf2l5U",
+      "thumbnail": "https://img.youtube.com/vi/Bl3IYpf2l5U/mqdefault.jpg",
+      "datum": "2026-06-24T14:15:05+00:00",
+      "datum_de": "24.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Florenz Erstling",
+      "titel": "Gemini 3.1 Pro + Antigravity macht jeden Webdesigner arbeitslos",
+      "link": "https://www.youtube.com/watch?v=c8FbJ8jjUNc",
+      "video_id": "c8FbJ8jjUNc",
+      "thumbnail": "https://img.youtube.com/vi/c8FbJ8jjUNc/mqdefault.jpg",
+      "datum": "2026-06-24T14:00:15Z",
+      "datum_de": "24.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Ich habe PewDiePies KI-Plattform getestet...",
+      "link": "https://www.youtube.com/watch?v=GnyYICZ7gb8",
+      "video_id": "GnyYICZ7gb8",
+      "thumbnail": "https://img.youtube.com/vi/GnyYICZ7gb8/mqdefault.jpg",
+      "datum": "2026-06-24T13:29:59+00:00",
+      "datum_de": "24.06.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "KIOrbit",
       "titel": "Gemini 3 Pro komplett erklärt: Das einzige Tutorial, das du 2026 brauchst",
@@ -21,6 +51,16 @@
       "datum": "2026-06-23T15:15:03+00:00",
       "datum_de": "23.06.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "NANCY | Projects To Profit",
+      "titel": "Nutzt du Claude im Büro? Ab 2. August brauchst du diese 4 Schritte",
+      "link": "https://www.youtube.com/watch?v=NFt96bawxK8",
+      "video_id": "NFt96bawxK8",
+      "thumbnail": "https://img.youtube.com/vi/NFt96bawxK8/mqdefault.jpg",
+      "datum": "2026-06-23T15:00:18Z",
+      "datum_de": "23.06.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Akademie4KI",
@@ -53,6 +93,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "Felicia Simon",
+      "titel": "Claude Nutzungslimit erreicht 🚨 diese Fehler solltest du unbedingt vermeiden ⚠️",
+      "link": "https://www.youtube.com/watch?v=wAS7DyobddY",
+      "video_id": "wAS7DyobddY",
+      "thumbnail": "https://img.youtube.com/vi/wAS7DyobddY/mqdefault.jpg",
+      "datum": "2026-06-22T15:45:13Z",
+      "datum_de": "22.06.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Neuland Pro",
       "titel": "DAS ÄNDERT ALLES: Mit Manus baust du Apps ohne zu programmieren",
       "link": "https://www.youtube.com/watch?v=5ll531O_jg8",
@@ -73,8 +123,18 @@
       "quelle": "suche"
     },
     {
+      "kanal": "LOGIN TechBlog",
+      "titel": "Kauf keine KI-GPU! Lokale LLMs mit RunPod + n8n testen",
+      "link": "https://www.youtube.com/watch?v=UCTCh-FwIAs",
+      "video_id": "UCTCh-FwIAs",
+      "thumbnail": "https://img.youtube.com/vi/UCTCh-FwIAs/mqdefault.jpg",
+      "datum": "2026-06-21T18:00:38Z",
+      "datum_de": "21.06.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Kontextkern",
-      "titel": "Claude Cowork: Dieser KI Agent sortiert deinen Posteingang und plant deinen Tag",
+      "titel": "Claude Cowork: Dein KI-Agent ohne Programmieren",
       "link": "https://www.youtube.com/watch?v=dX_v_S7M_lU",
       "video_id": "dX_v_S7M_lU",
       "thumbnail": "https://img.youtube.com/vi/dX_v_S7M_lU/mqdefault.jpg",
@@ -91,66 +151,6 @@
       "datum": "2026-06-21T14:15:08+00:00",
       "datum_de": "21.06.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "AI Bunny",
-      "titel": "Seedance 2.0 Turned My Claude AI Storyboard Into a Full AI Video in Minutes",
-      "link": "https://www.youtube.com/watch?v=96q3KHK9KEE",
-      "video_id": "96q3KHK9KEE",
-      "thumbnail": "https://img.youtube.com/vi/96q3KHK9KEE/mqdefault.jpg",
-      "datum": "2026-06-21T12:39:09Z",
-      "datum_de": "21.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "NexxProzess",
-      "titel": "Dein eigener KI-Agent auf dem PC — steuer ihn per Telegram (Hermes Agent Tutorial)",
-      "link": "https://www.youtube.com/watch?v=DDTFWUAiR8o",
-      "video_id": "DDTFWUAiR8o",
-      "thumbnail": "https://img.youtube.com/vi/DDTFWUAiR8o/mqdefault.jpg",
-      "datum": "2026-06-21T10:00:25Z",
-      "datum_de": "21.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Unfairer Vorteil | KI",
-      "titel": "Hör auf Claude zu prompten. Benutze lieber Karpathy’s Methode.",
-      "link": "https://www.youtube.com/watch?v=idBrN4vU7Z4",
-      "video_id": "idBrN4vU7Z4",
-      "thumbnail": "https://img.youtube.com/vi/idBrN4vU7Z4/mqdefault.jpg",
-      "datum": "2026-06-21T09:00:27Z",
-      "datum_de": "21.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "DAS steckt hinter dem Claude „Mythos\" JAILBREAK! Codex Updates, GLM 5.2 & weitere KI-News",
-      "link": "https://www.youtube.com/watch?v=eg3GcZEnbHQ",
-      "video_id": "eg3GcZEnbHQ",
-      "thumbnail": "https://img.youtube.com/vi/eg3GcZEnbHQ/mqdefault.jpg",
-      "datum": "2026-06-21T08:15:12+00:00",
-      "datum_de": "21.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "NEURONEXI AI",
-      "titel": "Ich habe Claude Code das Sehen beigebracht – das verändert alles",
-      "link": "https://www.youtube.com/watch?v=SrH1DNOMl3k",
-      "video_id": "SrH1DNOMl3k",
-      "thumbnail": "https://img.youtube.com/vi/SrH1DNOMl3k/mqdefault.jpg",
-      "datum": "2026-06-21T01:22:01Z",
-      "datum_de": "21.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "WeLoveTech",
-      "titel": "Rokid Glasses Test 👓 KI Smart Glasses | smarte Brille mit ChatGPT / Gemini | Übersetzung und Navi",
-      "link": "https://www.youtube.com/watch?v=a2aW5GLc3oQ",
-      "video_id": "a2aW5GLc3oQ",
-      "thumbnail": "https://img.youtube.com/vi/a2aW5GLc3oQ/mqdefault.jpg",
-      "datum": "2026-06-20T16:00:05Z",
-      "datum_de": "20.06.2026",
-      "quelle": "suche"
     }
   ]
 }
