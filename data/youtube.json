@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-06-25T10:17:53.697125+00:00",
+  "aktualisiert": "2026-06-26T10:25:48.515078+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "Claude Fable 5 ist zurück, Seedance 2 Mini! ChatGPT muss warten KI News",
+      "link": "https://www.youtube.com/watch?v=5GNiN9U-piU",
+      "video_id": "5GNiN9U-piU",
+      "thumbnail": "https://img.youtube.com/vi/5GNiN9U-piU/mqdefault.jpg",
+      "datum": "2026-06-26T06:08:48Z",
+      "datum_de": "26.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "NextChapterLife",
+      "titel": "„Mit Claude Geld verdienen: Die Strategien, die fast niemand nutzt (2026)“*",
+      "link": "https://www.youtube.com/watch?v=5Vh7ZPgUlIE",
+      "video_id": "5Vh7ZPgUlIE",
+      "thumbnail": "https://img.youtube.com/vi/5Vh7ZPgUlIE/mqdefault.jpg",
+      "datum": "2026-06-25T17:14:52Z",
+      "datum_de": "25.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Robotik-Pionier: DAS ist der WAHRE Durchbruch bei Humanoiden & DIESE Entwicklungen kommen jetzt!",
+      "link": "https://www.youtube.com/watch?v=Om8hyIlX94w",
+      "video_id": "Om8hyIlX94w",
+      "thumbnail": "https://img.youtube.com/vi/Om8hyIlX94w/mqdefault.jpg",
+      "datum": "2026-06-25T15:15:22+00:00",
+      "datum_de": "25.06.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Sascha Taschan",
       "titel": "HÖR AUF mit Claude zu schreiben - mach stattdessen das!",
@@ -121,36 +151,6 @@
       "datum": "2026-06-22T10:00:07Z",
       "datum_de": "22.06.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "LOGIN TechBlog",
-      "titel": "Kauf keine KI-GPU! Lokale LLMs mit RunPod + n8n testen",
-      "link": "https://www.youtube.com/watch?v=UCTCh-FwIAs",
-      "video_id": "UCTCh-FwIAs",
-      "thumbnail": "https://img.youtube.com/vi/UCTCh-FwIAs/mqdefault.jpg",
-      "datum": "2026-06-21T18:00:38Z",
-      "datum_de": "21.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Kontextkern",
-      "titel": "Claude Cowork: Dein KI-Agent ohne Programmieren",
-      "link": "https://www.youtube.com/watch?v=dX_v_S7M_lU",
-      "video_id": "dX_v_S7M_lU",
-      "thumbnail": "https://img.youtube.com/vi/dX_v_S7M_lU/mqdefault.jpg",
-      "datum": "2026-06-21T15:00:02Z",
-      "datum_de": "21.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Fable 5 wurde gesperrt: Ich habe die BESTE Alternative getestet! ",
-      "link": "https://www.youtube.com/watch?v=7zopugTLE5k",
-      "video_id": "7zopugTLE5k",
-      "thumbnail": "https://img.youtube.com/vi/7zopugTLE5k/mqdefault.jpg",
-      "datum": "2026-06-21T14:15:08+00:00",
-      "datum_de": "21.06.2026",
-      "quelle": "kanal"
     }
   ]
 }
