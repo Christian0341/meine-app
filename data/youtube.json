@@ -1,10 +1,30 @@
 {
-  "aktualisiert": "2026-06-26T10:25:48.515078+00:00",
+  "aktualisiert": "2026-06-27T09:31:38.030662+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "NextChapterLife",
+      "titel": "GLM 5.2 – Der Claude-Killer aus China? (Oder doch nur Hype?)Ist Claude jetzt ernsthaft in Gefahr? 🤯",
+      "link": "https://www.youtube.com/watch?v=KMVvnCPwqHs",
+      "video_id": "KMVvnCPwqHs",
+      "thumbnail": "https://img.youtube.com/vi/KMVvnCPwqHs/mqdefault.jpg",
+      "datum": "2026-06-26T13:50:17Z",
+      "datum_de": "26.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "smartaffiliateflow",
+      "titel": "Claude Limit Analyse",
+      "link": "https://www.youtube.com/watch?v=mCzJNiFFDR4",
+      "video_id": "mCzJNiFFDR4",
+      "thumbnail": "https://img.youtube.com/vi/mCzJNiFFDR4/mqdefault.jpg",
+      "datum": "2026-06-26T12:10:15Z",
+      "datum_de": "26.06.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "ZELDOgiq",
-      "titel": "Claude Fable 5 ist zurück, Seedance 2 Mini! ChatGPT muss warten KI News",
+      "titel": "Claude Fable 5 in der EU, Seedance 2 Mini! ChatGPT muss warten KI News",
       "link": "https://www.youtube.com/watch?v=5GNiN9U-piU",
       "video_id": "5GNiN9U-piU",
       "thumbnail": "https://img.youtube.com/vi/5GNiN9U-piU/mqdefault.jpg",
@@ -24,7 +44,7 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "Robotik-Pionier: DAS ist der WAHRE Durchbruch bei Humanoiden & DIESE Entwicklungen kommen jetzt!",
+      "titel": "Humanoide Roboter: DIESE Durchbrüche ändern jetzt alles und DAS kommt danach (Prof. Wolfram Burgard)",
       "link": "https://www.youtube.com/watch?v=Om8hyIlX94w",
       "video_id": "Om8hyIlX94w",
       "thumbnail": "https://img.youtube.com/vi/Om8hyIlX94w/mqdefault.jpg",
@@ -103,16 +123,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "ki_marketing_hub1",
-      "titel": "Claude Skills richtig einrichten – Das fehlende Tutorial",
-      "link": "https://www.youtube.com/watch?v=KUucxvdCP1o",
-      "video_id": "KUucxvdCP1o",
-      "thumbnail": "https://img.youtube.com/vi/KUucxvdCP1o/mqdefault.jpg",
-      "datum": "2026-06-23T09:42:04Z",
-      "datum_de": "23.06.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Christoph Magnussen",
       "titel": "Fable 5 gesperrt! 3 Dinge, die du jetzt tun solltest",
       "link": "https://www.youtube.com/watch?v=6LVB3mpPvB4",
@@ -121,16 +131,6 @@
       "datum": "2026-06-22T16:00:21+00:00",
       "datum_de": "22.06.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Felicia Simon",
-      "titel": "Claude Nutzungslimit erreicht 🚨 diese Fehler solltest du unbedingt vermeiden ⚠️",
-      "link": "https://www.youtube.com/watch?v=wAS7DyobddY",
-      "video_id": "wAS7DyobddY",
-      "thumbnail": "https://img.youtube.com/vi/wAS7DyobddY/mqdefault.jpg",
-      "datum": "2026-06-22T15:45:13Z",
-      "datum_de": "22.06.2026",
-      "quelle": "suche"
     },
     {
       "kanal": "Neuland Pro",
@@ -143,12 +143,12 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "KIOrbit",
-      "titel": "Die KI Tools, die mein Leben verändert haben",
-      "link": "https://www.youtube.com/watch?v=wRw26FKFm-Q",
-      "video_id": "wRw26FKFm-Q",
-      "thumbnail": "https://img.youtube.com/vi/wRw26FKFm-Q/mqdefault.jpg",
-      "datum": "2026-06-22T10:00:07Z",
+      "kanal": "Tutorials by Manizha & Ryan",
+      "titel": "Obsidian + Gemini CLI Tutorial | Build One AI Brain for Everything",
+      "link": "https://www.youtube.com/watch?v=UzDxx6eirbo",
+      "video_id": "UzDxx6eirbo",
+      "thumbnail": "https://img.youtube.com/vi/UzDxx6eirbo/mqdefault.jpg",
+      "datum": "2026-06-22T04:23:51Z",
       "datum_de": "22.06.2026",
       "quelle": "suche"
     }
