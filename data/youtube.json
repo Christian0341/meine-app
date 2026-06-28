@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-06-27T09:31:38.030662+00:00",
+  "aktualisiert": "2026-06-28T10:06:48.214763+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-NEWS: Das können Claude “Entitäten”! Chinas “Mythos” für KI-Videos & Mistral OCR-4 im Test",
+      "link": "https://www.youtube.com/watch?v=ExXld8WtQz8",
+      "video_id": "ExXld8WtQz8",
+      "thumbnail": "https://img.youtube.com/vi/ExXld8WtQz8/mqdefault.jpg",
+      "datum": "2026-06-28T08:16:27+00:00",
+      "datum_de": "28.06.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "NextChapterLife",
       "titel": "GLM 5.2 – Der Claude-Killer aus China? (Oder doch nur Hype?)Ist Claude jetzt ernsthaft in Gefahr? 🤯",
@@ -103,16 +113,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "NANCY | Projects To Profit",
-      "titel": "Nutzt du Claude im Büro? Ab 2. August brauchst du diese 4 Schritte",
-      "link": "https://www.youtube.com/watch?v=NFt96bawxK8",
-      "video_id": "NFt96bawxK8",
-      "thumbnail": "https://img.youtube.com/vi/NFt96bawxK8/mqdefault.jpg",
-      "datum": "2026-06-23T15:00:18Z",
-      "datum_de": "23.06.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Akademie4KI",
       "titel": "Claude Code einfach erklärt - Tutorial für Anfänger 2026 (deutsch)",
       "link": "https://www.youtube.com/watch?v=ZoEGvmOs9t0",
@@ -121,6 +121,16 @@
       "datum": "2026-06-23T13:30:22+00:00",
       "datum_de": "23.06.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "ki_marketing_hub1",
+      "titel": "Claude Skills richtig einrichten – Das fehlende Tutorial",
+      "link": "https://www.youtube.com/watch?v=KUucxvdCP1o",
+      "video_id": "KUucxvdCP1o",
+      "thumbnail": "https://img.youtube.com/vi/KUucxvdCP1o/mqdefault.jpg",
+      "datum": "2026-06-23T09:42:04Z",
+      "datum_de": "23.06.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Christoph Magnussen",
@@ -141,16 +151,6 @@
       "datum": "2026-06-22T14:47:05+00:00",
       "datum_de": "22.06.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Tutorials by Manizha & Ryan",
-      "titel": "Obsidian + Gemini CLI Tutorial | Build One AI Brain for Everything",
-      "link": "https://www.youtube.com/watch?v=UzDxx6eirbo",
-      "video_id": "UzDxx6eirbo",
-      "thumbnail": "https://img.youtube.com/vi/UzDxx6eirbo/mqdefault.jpg",
-      "datum": "2026-06-22T04:23:51Z",
-      "datum_de": "22.06.2026",
-      "quelle": "suche"
     }
   ]
 }
