@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-06-28T10:06:48.214763+00:00",
+  "aktualisiert": "2026-06-29T12:03:35.958785+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Kevin Matyja - Aivelo",
+      "titel": "Lead-Generierung mit Claude Code selbst bauen!",
+      "link": "https://www.youtube.com/watch?v=uy0BMshsd_Y",
+      "video_id": "uy0BMshsd_Y",
+      "thumbnail": "https://img.youtube.com/vi/uy0BMshsd_Y/mqdefault.jpg",
+      "datum": "2026-06-28T18:43:29Z",
+      "datum_de": "28.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Neuland Pro",
+      "titel": "KRASSE KI NEWS: OpenAI stuft GPT-5.6 als HOCHRISKANT ein!",
+      "link": "https://www.youtube.com/watch?v=Z4Mxo6CgXkI",
+      "video_id": "Z4Mxo6CgXkI",
+      "thumbnail": "https://img.youtube.com/vi/Z4Mxo6CgXkI/mqdefault.jpg",
+      "datum": "2026-06-28T16:12:28+00:00",
+      "datum_de": "28.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Loops machen Claude und ChatGPT VERRÜCKT gut!",
+      "link": "https://www.youtube.com/watch?v=0Jk5ijUWt24",
+      "video_id": "0Jk5ijUWt24",
+      "thumbnail": "https://img.youtube.com/vi/0Jk5ijUWt24/mqdefault.jpg",
+      "datum": "2026-06-28T14:15:16+00:00",
+      "datum_de": "28.06.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "KI-NEWS: Das können Claude “Entitäten”! Chinas “Mythos” für KI-Videos & Mistral OCR-4 im Test",
@@ -11,6 +41,16 @@
       "datum": "2026-06-28T08:16:27+00:00",
       "datum_de": "28.06.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "IchBinFabian",
+      "titel": "Claude Fable 5 gesperrt, GPT-5.6 kommt - was jetzt?",
+      "link": "https://www.youtube.com/watch?v=jtW8xhEVYEA",
+      "video_id": "jtW8xhEVYEA",
+      "thumbnail": "https://img.youtube.com/vi/jtW8xhEVYEA/mqdefault.jpg",
+      "datum": "2026-06-27T18:30:04Z",
+      "datum_de": "27.06.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "NextChapterLife",
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/gxsa2xoLxGY/mqdefault.jpg",
       "datum": "2026-06-23T15:15:03+00:00",
       "datum_de": "23.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Claude Code einfach erklärt - Tutorial für Anfänger 2026 (deutsch)",
-      "link": "https://www.youtube.com/watch?v=ZoEGvmOs9t0",
-      "video_id": "ZoEGvmOs9t0",
-      "thumbnail": "https://img.youtube.com/vi/ZoEGvmOs9t0/mqdefault.jpg",
-      "datum": "2026-06-23T13:30:22+00:00",
-      "datum_de": "23.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "ki_marketing_hub1",
-      "titel": "Claude Skills richtig einrichten – Das fehlende Tutorial",
-      "link": "https://www.youtube.com/watch?v=KUucxvdCP1o",
-      "video_id": "KUucxvdCP1o",
-      "thumbnail": "https://img.youtube.com/vi/KUucxvdCP1o/mqdefault.jpg",
-      "datum": "2026-06-23T09:42:04Z",
-      "datum_de": "23.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Fable 5 gesperrt! 3 Dinge, die du jetzt tun solltest",
-      "link": "https://www.youtube.com/watch?v=6LVB3mpPvB4",
-      "video_id": "6LVB3mpPvB4",
-      "thumbnail": "https://img.youtube.com/vi/6LVB3mpPvB4/mqdefault.jpg",
-      "datum": "2026-06-22T16:00:21+00:00",
-      "datum_de": "22.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "DAS ÄNDERT ALLES: Mit Manus baust du Apps ohne zu programmieren",
-      "link": "https://www.youtube.com/watch?v=5ll531O_jg8",
-      "video_id": "5ll531O_jg8",
-      "thumbnail": "https://img.youtube.com/vi/5ll531O_jg8/mqdefault.jpg",
-      "datum": "2026-06-22T14:47:05+00:00",
-      "datum_de": "22.06.2026",
       "quelle": "kanal"
     }
   ]
