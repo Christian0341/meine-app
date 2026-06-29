@@ -1,7 +1,7 @@
 {
-  "datum": "Sonntag, 28. Juni 2026",
-  "datumISO": "2026-06-28",
-  "tagesthema": "Die KI-Welt ist geprägt von neuen Modellankündigungen, verschärften Zugangskontrollen durch Staaten und Unternehmen sowie weitreichenden rechtlichen Auseinandersetzungen und Regulierungsbestrebungen.",
+  "datum": "Montag, 29. Juni 2026",
+  "datumISO": "2026-06-29",
+  "tagesthema": "Der heutige KI-News-Digest zeigt eine Welt im Spannungsfeld zwischen rasanten Modellentwicklungen, verschärfter Regulierung und tiefgreifenden gesellschaftlichen Debatten über die Rolle der Künstlichen Intelligenz.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,28 +9,20 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "OpenAI: ChatGPT-Entwickler präsentiert neues KI-Modell – US-Regierung beschränkt Zugang",
-          "zusammenfassung": "OpenAI hat ein neues, fortschrittliches KI-Modell vorgestellt, dessen Zugang jedoch von der US-Regierung eingeschränkt wird. Diese Maßnahme unterstreicht die wachsende Besorgnis über die potenziellen Risiken und den Einfluss leistungsstarker KI-Systeme. Die genauen Gründe für die Beschränkung und deren Umfang sind Gegenstand weiterer Diskussionen.",
+          "titel": "ChatGPT 5.6: Drei Modellvarianten und schärfere Schutzmechanismen",
+          "zusammenfassung": "OpenAI hat ChatGPT 5.6 in drei verschiedenen Modellvarianten vorgestellt, die auf unterschiedliche Anwendungsfälle zugeschnitten sind. Die neue Version beinhaltet zudem deutlich schärfere Schutzmechanismen, um Missbrauch zu verhindern und die Sicherheit der Nutzer zu erhöhen. Diese Weiterentwicklung zielt darauf ab, die Flexibilität und Zuverlässigkeit des Modells zu verbessern.",
           "einordnung": "",
-          "quelle": "Manager Magazin",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTnEzbEVHVi1YdjQ3OU1ncktzTEJQd0VZOFpIX29VaS1qVU1NTTRQUm9BV212bmJuVzcyVG44c21uR2pGbWF1d09wdlhOSlhIeEF0cmhBV2x4bWxRR1JVOUZlZGIxX0liM3VpLXV2VUUwZVowRV9sS0RRdEh2eHpSd2lqRUNfUDUzd2JreGhaV1ZaTUJDQjNwN0xkVHRGQ3AyVVo1SzdRSnF0NVc2a0Y3NE50bFhVVWVUdW1FMXd2dUdJRE5uRkZLYk56VEM0amRIcGFYX3phQW5Zb3N6emZxUEI1RGFYSERUdmZKVWpESW56ZWR6ZWJhZ2ExcFc5ZWV0bktn?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "ifun.de",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLS1BVG1ZYTVSRi1EcFZ6ZWpKRkpQQ1FSekxGVXdsZkI0WnhNNGxMeFR1a0hrS0tWbFVyZ09HNjRfcGJNZ2JCd2NERWYwaG1Edm5MaFlHdU1WUGRHQ08wVU50TVhHbFBqMkdMbWpENHJGZHN0Zi1FcFZDNnBNSEpXWEU0SlhVbnhhMVBsTkJfTEUwMUo1bXRjTQ?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "Gemini 3.5 Flash: Google integriert Computersteuerung für KI-Agenten",
-          "zusammenfassung": "Google hat Gemini 3.5 Flash vorgestellt, eine neue Version seines KI-Modells, die die Steuerung von Computern durch KI-Agenten ermöglicht. Diese Entwicklung könnte die Interaktion mit digitalen Systemen revolutionieren und neue Anwendungsfelder für KI eröffnen. Die Integration von Computersteuerungsfähigkeiten markiert einen bedeutenden Schritt in der Entwicklung autonomer KI-Systeme.",
+          "titel": "Google Gemini kommt kostenlos per Update in alle Renault-Modelle",
+          "zusammenfassung": "Google integriert sein KI-Modell Gemini kostenlos in alle neuen Renault-Fahrzeuge über ein Software-Update. Dies ermöglicht den Fahrern den Zugriff auf erweiterte Sprachsteuerungsfunktionen und intelligente Assistenzsysteme direkt im Auto. Die Partnerschaft unterstreicht die zunehmende Verschmelzung von KI und Automobilindustrie.",
           "einordnung": "",
-          "quelle": "ComputerBase",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPXzdXZHBNSklQeFdaQzJFNlgxYUFFUW5zRkM3NEtwdHNFOXFDeU5RSno4YTdSeWNpbTFZRU9Ud283dVRNeXhHelNmSDdrT1dHZ19BTVh2dHJ6TmVUN05sOGNHQ0pNTExxVktRcDNWaEtBdjRZYS1ITmtqbEhYbFNMX0hJSFRSdlcxM3I5b3RqUkt0eW12dzFfeWZ1NzB0Z0Z4Rm5pNk9TUHFlX01OTFhyWHozTQ?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Keine Lust auf KI-Vorschläge? So wirst du Gemini in Google-Apps wieder los",
-          "zusammenfassung": "Für Nutzer, die die integrierten KI-Vorschläge von Gemini in Google-Apps als störend empfinden, bietet dieser Artikel eine Anleitung zum Deaktivieren. Er beleuchtet die Möglichkeiten, die Kontrolle über die KI-Integration in persönlichen Anwendungen zurückzugewinnen. Dies zeigt die wachsende Notwendigkeit für Benutzer, die Personalisierung ihrer digitalen Erfahrung selbst zu steuern.",
-          "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10TGM1SUZvUkNla0YycWVIUEF3T2RqelhiNzFEWUMtSFU3VUxDZG9acHV1NmRhLUgxdUtsYVh3ekk5MHZ1dkJGT0VMVDJJQUo3UXU5MlZVQWdxbkxTeVhfd3J5aVZzeVN5bkd4SnIzLU80VVVr?oc=5",
-          "sterne": "⭐"
+          "quelle": "InsideEVs.de",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTbS1FSmhQWkRPWDVxX2VNRktlekRCMm9GNmpuWk5XRm9mMlpUX0tNX3hIQ1JDSmtzeVFQQldpUnpYNlF0T1NHaTFzWl9PdGxyVzVSMXpwcy1Oc09ONXNBem9yREJLcEFiT2hZ?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     },
@@ -40,19 +32,35 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Künstliche Intelligenz: Google begrenzt offenbar Gemini-KI für Meta",
-          "zusammenfassung": "Google schränkt Berichten zufolge den Zugriff von Meta auf seine Gemini-KI-Modelle ein, was auf eine Verschärfung des Wettbewerbs im KI-Sektor hindeutet. Diese strategische Entscheidung könnte Metas Ambitionen im Bereich der generativen KI beeinflussen und die Dynamik zwischen den Tech-Giganten neu ordnen. Die Begrenzung des Zugangs zu Schlüsseltechnologien wird zu einem wichtigen Instrument im Kampf um Marktanteile.",
+          "titel": "OpenAI: ChatGPT-Entwickler präsentiert neues KI-Modell – US-Regierung beschränkt Zugang",
+          "zusammenfassung": "OpenAI hat ein neues, leistungsfähiges KI-Modell vorgestellt, dessen Zugang jedoch von der US-Regierung eingeschränkt wird. Diese Maßnahme spiegelt die wachsende Besorgnis der Behörden über die potenziellen Risiken fortschrittlicher KI-Technologien wider. Die Entwicklung zeigt das Spannungsfeld zwischen Innovationsdrang und staatlicher Kontrolle.",
           "einordnung": "",
-          "quelle": "WirtschaftsWoche",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc1NMQlJ4QXNEZUZNa2wwRzIxZ25LN0MzcDMyckNIRUZDY0s4ZGlIWFM4OHBvdU5ub1NwMUNDMTJpMkQ5QnZyWmFpb05PNF96N3V4em90d2haaXo4RmpWRVAtWHhzOFNOQ082LUJwdlk0UlNKZlNaZy0waXcxbHJQcmx1U1oyRGN6WTRfOWVxYWlGeFRKSFNKM04tOTZQN3dMd2tWZ0NhZGZTZmoycDVHdkZ5VTRrc3EzXzRlNXh3a05uazFpeE9DWQ?oc=5",
+          "quelle": "Manager Magazin",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTnEzbEVHVi1YdjQ3OU1ncktzTEJQd0VZOFpIX29VaS1qVU1NTTRQUm9BV212bmJuVzcyVG44c21uR2pGbWF1d09wdlhOSlhIeEF0cmhBV2x4bWxRR1JVOUZlZGIxX0liM3VpLXV2VUUwZVowRV9sS0RRdEh2eHpSd2lqRUNfUDUzd2JreGhaV1ZaTUJDQjNwN0xkVHRGQ3AyVVo1SzdRSnF0NVc2a0Y3NE50bFhVVWVUdW1FMXd2dUdJRE5uRkZLYk56VEM0amRIcGFYX3phQW5Zb3N6emZxUEI1RGFYSERUdmZKVWpESW56ZWR6ZWJhZ2ExcFc5ZWV0bktn?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Google-Tool Gemini: Google schränkt KI-Zugriff für Meta ein",
-          "zusammenfassung": "Der Spiegel bestätigt die Meldungen, dass Google den Zugriff auf sein Gemini-KI-Tool für den Konkurrenten Meta einschränkt. Diese Maßnahme wird als strategischer Schachzug im hart umkämpften KI-Markt interpretiert, um die eigene technologische Führungsposition zu sichern. Die Entscheidung könnte weitreichende Folgen für die Entwicklung von KI-Anwendungen bei Meta haben.",
+          "titel": "Per Brief: US-Regierung hebt Sperre von Claude Mythos auf",
+          "zusammenfassung": "Die US-Regierung hat die zuvor verhängte Sperre für Anthropic's KI-Modell Claude Mythos offiziell aufgehoben. Die Entscheidung erfolgte per Brief und ermöglicht Anthropic nun wieder den uneingeschränkten Betrieb und die Weiterentwicklung des Modells. Dies könnte ein Signal für eine flexiblere Haltung der Regierung gegenüber bestimmten KI-Entwicklungen sein.",
           "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmpQUExQRTNNV3A5bzZJLW1IYVZNVnYweFBlb3Z2QWo0NThXa3B0N282eHBmakdLLWFjMThvWFJDcUZxY2J4U29CUjZGYWxuVTByajd5TTR5UFQ3SkptaDQ5WTBFbkRVd3lOWWlpZDFfX0FsZE5aME1NZHBjT3BCM0Z2dEdBVUtld2d5czJkOFJtd2hBYVF0cEdibkxOQXRST085emV4ZHhPcDE3T2pUME1XS1Y3NUJoYUhlaFlhNVl5V0VzVHJXenRnbw?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZm9zWXdOeGtlV0JRb0tqTjRud19Va3lxYnnoZXJySm8yUVJCYXRxal81ckI3bllPZUdUZmNWQmJSSTl4TTQ1SE4yZXRkZDVfbk52YWlNel9PcGlWYnpqcWJoZkVOLWoxNUpEZ1gxMVFpTzhXYnNxcGdHT19ESWFpdl9UYmZ1Y0I4RVFHalM5c19fRXo2WkdCQWFGZy0?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Google begrenzt wohl Gemini-KI für Facebook-Mutter Meta",
+          "zusammenfassung": "Google hat Berichten zufolge den Zugang von Metas Facebook-Muttergesellschaft zu seinem Gemini-KI-Modell begrenzt. Diese strategische Entscheidung könnte auf Wettbewerbsbedenken oder Ressourcenengpässe zurückzuführen sein. Sie verdeutlicht die komplexen Beziehungen und Rivalitäten im KI-Sektor.",
+          "einordnung": "",
+          "quelle": "Manager Magazin",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRmlFSjhSUHZQSU56UDd2b0tvNmt1QXNBaW1kbUVlZGlkejA4QlFkTGduaFZyOW5GZDV4TkRIYjNkVVNJa2tOM0pGTFNHS0RFUkxtVHllM2FGN0dGT1JLaXQtQTBZbDhIT09CT29PX1lHRVhfTlNIRWhYUGhSTXI2TE56SFdjYldRQ0xTbW15Y3pzajl0b2cteFFYbzJGQ0FLU2kwX1QxcktEMzdnX0QtWHdoaXl4bC04YVdmVTFYQ1lDYUVJb0dnOXFHcDFuZ1hMcnFiX3JhNjlTcW8?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Engpässe bei Rechenkapazitäten: Google begrenzt Metas Zugriff auf Gemini",
+          "zusammenfassung": "Als Grund für die Begrenzung von Metas Zugriff auf Google Gemini werden Engpässe bei den Rechenkapazitäten genannt. Google priorisiert demnach die eigenen KI-Projekte und Partner. Dies unterstreicht die kritische Rolle von Infrastruktur und Ressourcen im Wettlauf um KI-Dominanz.",
+          "einordnung": "",
+          "quelle": "Golem",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeG0yaHV6dUVZWk5oc3hXT2tFNmpoM2FDVWZqdU00MkwtY3MyVTZ6a19GN2dfUThlQVY1UW9uMHJsYzJ0Q2JPMUh2di13cVpwS3VSSFNQWkpQYWZPelNpcHFKcFpoRGJWS290YXpjWHN4SkNNSXpsa09BX0d4VzdlVUMwRy1vejBLOW5ReFVURC0xbGQ1WUdFR20tZHlEeVY4RjhaTzhKNmZpRndRSWxJMXJWTlBsRVk?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -63,35 +71,35 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Per Brief: US-Regierung hebt Sperre von Claude Mythos auf",
-          "zusammenfassung": "Die US-Regierung hat die zuvor verhängte Sperre für das KI-Modell Claude Mythos aufgehoben, was eine Kehrtwende in ihrer Haltung zu bestimmten KI-Technologien darstellt. Diese Entscheidung könnte neue Möglichkeiten für die Entwicklung und den Einsatz von Claude Mythos in den USA eröffnen. Die Gründe für die Aufhebung der Sperre sind noch nicht vollständig bekannt, deuten aber auf eine Neubewertung der Risiken hin.",
+          "titel": "US-Regierung lässt Zugang zu ChatGPT-Version einschränken",
+          "zusammenfassung": "Die US-Regierung hat den Zugang zu einer bestimmten Version von ChatGPT eingeschränkt, um potenzielle Risiken im Zusammenhang mit nationaler Sicherheit oder kritischen Infrastrukturen zu minimieren. Diese Maßnahme zeigt die proaktive Haltung der USA bei der Kontrolle leistungsstarker KI-Systeme. Es ist ein Beispiel für staatliche Interventionen zum Schutz öffentlicher Interessen.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZm9zWXdOeGtlV0JRb0tqTjRud19Va3lxYnNoZXJySm8yUVJCYXRxal81ckI3bllPZUdUZmNWQmJSSTl4TTQ1SE4yZXRkZDVfbk52YWlNel9PcGlWYnpqcWJoZkVOLWoxNUpEZ1gxMVFpTzhXYnNxcGdHT19ESWFpdl9UYmZ1Y0I4RVFHalM5c19fRXo2WkdCQWFGZy0?oc=5",
+          "quelle": "Ntv",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFJhY0lpaXJuQ3FndmpLUmFzR1JEbkxWdWp1am5fRHhlNlN1U2R5TlA1YW5VZDBOdy1IcTdFZnRKMEtNYzFwZ0ZJR215X1duSVdzNktXMnZyQ0szZGFKNThSOUp4Qi1OU2ljWFVzdGloaFdENGs5T3RfcGtuZGExZXc1ZnFqT18xMThQWU9zRnVZQXpMbU9wR1FGQjRLR3BDWjZ4a1RnSjRfRUE2M3JZaGpQd0ExS2lN?oc=5",
           "sterne": "⭐⭐"
         },
         {
           "titel": "Europaparlament stimmt für Gesetze zur KI-Regulierung",
-          "zusammenfassung": "Das Europaparlament hat wegweisenden Gesetzen zur KI-Regulierung zugestimmt, die darauf abzielen, einen sicheren und ethischen Einsatz von Künstlicher Intelligenz zu gewährleisten. Diese Entscheidung markiert einen wichtigen Meilenstein im globalen Bestreben, KI-Technologien zu steuern und Vertrauen in ihre Entwicklung zu schaffen. Der EU AI Act wird voraussichtlich weltweit Maßstäbe setzen.",
+          "zusammenfassung": "Das Europaparlament hat mit großer Mehrheit für umfassende Gesetze zur Regulierung von Künstlicher Intelligenz gestimmt. Die Verordnung zielt darauf ab, einen rechtlichen Rahmen für die Entwicklung und Nutzung von KI in der EU zu schaffen, der Risiken minimiert und Innovation fördert. Dies ist ein wegweisender Schritt für die weltweite KI-Regulierung.",
           "einordnung": "",
           "quelle": "tagesschau.de",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zaWlZb29zUFJYSV81dnhTU0p0OVZIV2kwbERtVWJ1U3ByLUxXRnI3ZmNjbTdmQ1Rad0JQNW1ZRlNnWHppb0RLdVZtaDFpLWJCVmNEcG9odER0NVBsa0pnZXNwcThJbGZtUTlGb3lCd3o2bXAtNkFDSDRVQzlRZEE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zaWlZb29zUFJYSV81dnhTU0p0OVZIV2kwbERtVWJ1U3ByLUxXRnI3ZmNjbTdmQ1Rad0JQNW1ZRlNnWHppb0RLdVZtaDFpLWZCVmNEcG9odER0NVBsa0pnZXNwcThJbGZtUTlGb3lCd3o2bXAtNkFDSDRVQzlRZEE?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
           "titel": "KI-Regulierung: Italien setzt Maßstäbe mit 35-Millionen-Strafen",
-          "zusammenfassung": "Italien hat im Rahmen seiner KI-Regulierung hohe Strafen von bis zu 35 Millionen Euro für Verstöße eingeführt, was die Ernsthaftigkeit des Landes im Umgang mit KI-Risiken unterstreicht. Diese strengen Maßnahmen sollen Unternehmen zur Einhaltung ethischer Richtlinien und Datenschutzstandards anhalten. Italien positioniert sich damit als Vorreiter bei der Durchsetzung von KI-Gesetzen.",
+          "zusammenfassung": "Italien hat im Rahmen seiner KI-Regulierung hohe Strafen von bis zu 35 Millionen Euro für Verstöße eingeführt. Damit setzt das Land ein klares Zeichen für die Ernsthaftigkeit der Einhaltung von KI-Vorschriften. Diese Maßnahmen sollen sicherstellen, dass KI-Systeme verantwortungsvoll entwickelt und eingesetzt werden.",
           "einordnung": "",
           "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0NFaW1aSmpYd0RwSW5yRzdmaHFVc3VVQXBUX0NDTWItbjBtWGViT19Pd09fT2QyWTRWRWNZVlRZN2dCZktKS0JhMFhXM3Y0UDFBM0V6NmVTb3NtMnVYX2pvUFM5RlJDenlSMzN3S3RhT1pCak8ta2R4T2xlaDJ3dWV6ci1MMklPbjNDWGc4SGZMcmlCbmc?oc=5",
-          "sterne": "⭐⭐"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0NFaW1aSmpYd0RwSW5yRzdmaHFVc3VVQXBUX0NDTWItbjBtWGViT19Pd09fT2QyWTRWRWNZVlRZN2dCZktJS0JhMFhXM3Y0UDFBM0V6NmVTb3NtMnVYX2pvUFM5RlJDenlSMzN3S3RhT1pCak8ta2R4T2xlaDJ3dWV6ci1MMklPbjNDWGc4SGZMcmlCbmc?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "EU AI Act: Rechtsausschuss stimmt am 15. Juli über Kernregeln ab",
-          "zusammenfassung": "Der Rechtsausschuss des Europäischen Parlaments wird am 15. Juli über die Kernregeln des EU AI Act abstimmen, was einen weiteren entscheidenden Schritt im Gesetzgebungsprozess darstellt. Diese Abstimmung wird die endgültige Form der europäischen KI-Regulierung maßgeblich beeinflussen. Die Ergebnisse sind mit Spannung zu erwarten, da sie weitreichende Auswirkungen auf KI-Entwickler und -Anwender haben werden.",
+          "titel": "EU-KI-Verordnung 2026: Was Unternehmen bis 2. August umsetzen müssen",
+          "zusammenfassung": "Unternehmen in der EU müssen bis zum 2. August 2026 die Vorgaben der neuen EU-KI-Verordnung umsetzen. Der Artikel beleuchtet die wichtigsten Anforderungen und Fristen, die für die Entwicklung und den Einsatz von KI-Systemen gelten. Dies erfordert eine umfassende Anpassung der internen Prozesse und Compliance-Strategien.",
           "einordnung": "",
-          "quelle": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEV1WEF4bUV1WDMxMVprdHIxZkZuMEM2V3ZaMmNmcEJWVE9UNU1TX3hPUWVLSTAyQVVFbW80NXAtLVpZV0lSNm5JX1hZUlh0RTVXcEVwNEFHM2pUS1U4czVqZWp0bGNQQm1GQ3ZrcF9ma09wN2dLNklOQUU1blJOQ1h5VGdaYjJXbTlzLW9MdkN6ZENTclhSeUhzakZwTW5PWnJwdXpEXzM5eFY0bk1NeUVR?oc=5",
+          "quelle": "Anwalt.de",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWc3T0VKMm1HeTlkVmVlMmZkbjJxaFo5TF9kOGt1SnZOOFFZYzRoekZSTzdsUkRlZnlhbXlSV3JxTlRxM0VNRzNsWm15LWRnM2lybEc5R2J3OXZ2d01RcFJVWVNlUWRWbnF0LVU2enF5LWJaeEhRT3VSLWd2RlZlU3ZLUTBIQmFvbWlzMGhTbzRnS1pBcTF4STVHYTBxcnAtVXQxUjNROFUxQVBFSnFPUDBnQQ?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -102,32 +110,24 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Das sind die 10 intelligentesten KI-Modelle der Welt",
-          "zusammenfassung": "BASIC thinking präsentiert eine Liste der zehn intelligentesten KI-Modelle weltweit, basierend auf verschiedenen Leistungsindikatoren und Anwendungsbereichen. Der Artikel bietet einen Überblick über die aktuellen Spitzenreiter in der KI-Forschung und -Entwicklung. Er beleuchtet die Fortschritte und Fähigkeiten, die diese Modelle in Bereichen wie Sprachverarbeitung, Bilderkennung und Problemlösung aufweisen.",
-          "einordnung": "",
-          "quelle": "BASIC thinking",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWI4N3d2VHZIUDNPeTRmWkxYWXk2dTV1dHJlcTBuWnBqVjVmaV9NYV95N0c2empuaEtRTnJUTmVyR2Y2dzNZdjNBVkxjMlVNMWlPdFlnSTNNTE5rUklYWTNmOHVmS2dFbEpqaGxWVmQzaTVJVl9YcXFLRlBBVWYycWdMTzE1ZHpBZlE?oc=5",
-          "sterne": "⭐"
-        },
-        {
           "titel": "Model-Schau: Reasoning aus China, kleine Liquid-Modelle und neue Microsoft-Welt",
-          "zusammenfassung": "Heise online gibt einen Einblick in aktuelle KI-Forschungstrends, darunter Fortschritte im 'Reasoning' aus China und die Entwicklung kleinerer, effizienterer 'Liquid-Modelle'. Der Artikel beleuchtet zudem neue Entwicklungen in der Microsoft-KI-Landschaft. Diese Vielfalt zeigt die globale und breitgefächerte Natur der aktuellen KI-Forschung.",
+          "zusammenfassung": "Eine aktuelle \"Model-Schau\" präsentiert Fortschritte im Bereich des KI-Reasonings, insbesondere aus China, sowie die Entwicklung kleinerer, effizienterer \"Liquid-Modelle\". Zudem werden Einblicke in neue Forschungsansätze und Projekte aus der Microsoft-Forschung gegeben. Der Artikel beleuchtet die Vielfalt und Dynamik der globalen KI-Forschung.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGlXV0VDcm5Sa3o2ZDFMdkJ6MUV5cnh4QzlfcFd2dnJvRTktYjVGeTYwQmdlM1U3RmpvWThGaThvRERNNnNZbGhXWGJ3Q09ENTlwWEo1cW1YSlpGSC16ajN6bVFvTGduTW1KQ29nMkFzcV9TWXV1M1BTeVlrQnM5MFVBa0pfeGFza1pXXzhEcjczOUFsMm5TSGVYdGdzUGVNQ19jNFY2dy1sOGFzTTQxUDBqMjl2ZmExaWVRUnVaREdOZw?oc=5",
-          "sterne": "⭐"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGlXV0VDcm5Sa3o2ZDFMdkJ6MUV5cnh4QzlfcFd2dnJvRTktYjVGeTYwQmdlM1U3RmpvWThGaThvRERNNnNZbGhXWGJ3Q09ENTlwWEo1cW1YSlpGSC16ajN6aVFvTGduTW1KQ29nMkFzcV9TWXV1M1BTeVlrQnM5MFVBa0pfeGFza1pXXzhEcjczOUFsMm5TSGVYdGdzUGVNQ19jNFY2dy1sOGFzTTQxUDBqMjl2ZmExaWVRUnVaREdOZw?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "Was sind große Sprachmodelle (LLM)?",
-          "zusammenfassung": "Databricks bietet eine grundlegende Erklärung zu Large Language Models (LLM), ihrer Funktionsweise und ihren Anwendungsbereichen. Der Artikel dient als informative Einführung in eine der Schlüsseltechnologien der modernen KI. Er beleuchtet die Architektur und die Bedeutung von LLMs für die Verarbeitung und Generierung menschlicher Sprache.",
+          "titel": "LLM VRAM Calculator for Self-Hosting",
+          "zusammenfassung": "AIMultiple hat einen LLM VRAM Calculator veröffentlicht, der Nutzern hilft, den benötigten Grafikspeicher für das Selbst-Hosting von Large Language Models zu berechnen. Dieses Tool ist besonders nützlich für Forscher und Entwickler, die KI-Modelle lokal betreiben möchten. Es vereinfacht die Planung und Optimierung von Hardware-Ressourcen.",
           "einordnung": "",
-          "quelle": "Databricks",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUEZqZTJ5RTktZHViZVpiSFZjbHcwZUU1d25KX1JsU3pPODlPNlpLMXY3cDRMV1RFUHlzc1EwWFpLOVhQZTNxQTZWcVY4VmF0SkhuOThtUmtGc2NhTW1zNktReGZETG9jVjdUNjNFblM2cEE?oc=5",
+          "quelle": "AIMultiple",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XSm92NDJfaFhvVndtZ1dlTmhhMkRubUs1NGJFT01kWklqRUFOcXdLckJXa0cyNFlhdWo3N0Jhb256VjlGallSZU91c2l3M0x4cG5Z?oc=5",
           "sterne": "⭐"
         },
         {
           "titel": "KI-Forschung: LLMs glauben Lügen trotz expliziter Warnung",
-          "zusammenfassung": "Eine aktuelle Studie von Golem zeigt, dass große Sprachmodelle (LLMs) dazu neigen, Fehlinformationen zu glauben, selbst wenn sie explizit davor gewarnt wurden. Diese Erkenntnis beleuchtet eine kritische Schwäche aktueller KI-Systeme im Umgang mit der Wahrheit. Die Forschung unterstreicht die Notwendigkeit, Mechanismen zur Verbesserung der Faktenprüfung und des kritischen Denkens in LLMs zu entwickeln.",
+          "zusammenfassung": "Eine neue Studie in der KI-Forschung zeigt, dass Large Language Models (LLMs) dazu neigen, Fehlinformationen zu glauben, selbst wenn sie explizit davor gewarnt werden. Diese Erkenntnis unterstreicht die anhaltenden Herausforderungen bei der Entwicklung robuster und vertrauenswürdiger KI-Systeme. Sie ist entscheidend für die Verbesserung der Faktentreue von LLMs.",
           "einordnung": "",
           "quelle": "Golem",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHJob1BKNk9wY3lPNEVKbzhlLVF5MUN6dGw5R3NSSkkwa2VJT1FXWmFTRFYzLXlCQUZpVTBuT1lTMXh5N3Y2X3l5RUNib3Y4N1FtNUtkNnRtS3lvU1MzdGtwNDJWQm1JSWp2NlBRdi1rYi1NRlo0SVcwWHhoR1NZaWpvRkFSa2JsUjU0X2hhenhWTU1SZkNxWWo4VkFjUjBPcUE?oc=5",
@@ -136,61 +136,61 @@
       ]
     },
     {
-      "emoji": "⚖️",
-      "titel": "KI & Rechtliche Aspekte",
+      "emoji": "🌍",
+      "titel": "KI & Gesellschaft",
       "fest": false,
       "artikel": [
         {
-          "titel": "Heimlich ChatGPT im Büro? Warum das rechtliche Folgen haben kann",
-          "zusammenfassung": "Der heimliche Einsatz von ChatGPT oder anderen KI-Tools im Büro kann für Arbeitnehmer und Unternehmen erhebliche rechtliche Konsequenzen haben. Der Artikel von t3n beleuchtet Risiken wie Datenschutzverletzungen, Urheberrechtsfragen und die Weitergabe vertraulicher Informationen. Er warnt vor den potenziellen rechtlichen Fallstricken, die mit der unautorisierten Nutzung von KI am Arbeitsplatz verbunden sind.",
+          "titel": "Künstliche Intelligenz: Wir erleben die vierte Kränkung der Menschheit",
+          "zusammenfassung": "Der Artikel diskutiert, dass die Künstliche Intelligenz als \"vierte Kränkung der Menschheit\" nach Kopernikus, Darwin und Freud betrachtet werden kann. Er beleuchtet die philosophische und existenzielle Herausforderung, die KI für das menschliche Selbstverständnis darstellt. Die Debatte dreht sich um die Einzigartigkeit und Rolle des Menschen in einer KI-dominierten Welt.",
+          "einordnung": "",
+          "quelle": "WELT",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlNaU0k2el9zWlFmSnZOSW43Sk9LZTItWjZ0S2ZlNjdhcldUV1M3dzZGeWNXbE1NRi1Bb21hdndwd1dmYW5kQ3YxRW9yTGJOcnUwaXdWSDZxMTNKMHBSOUNtcmQ4RmdjSnprQUtwUEI3UHN3V2dJLTJpTFJSZkJvT3ZURmp2ako2d2JzelpxNWxQOTZBTEpfVUluT2N1M3JWRzZzLVM2VWtSeEpkWEliMFBkUnVYZGx2VkVxMnV1UkR2NEdLLU5MbUk4bHc?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "KI im Strafprozess: Wir brauchen dringend klare Regeln",
+          "zusammenfassung": "Der Einsatz von Künstlicher Intelligenz im Strafprozess wirft dringende Fragen nach Gerechtigkeit, Transparenz und Rechtsstaatlichkeit auf. Der Artikel fordert klare rechtliche Rahmenbedingungen, um den fairen Einsatz von KI in der Justiz zu gewährleisten. Es geht um die Abwägung zwischen Effizienzgewinnen und dem Schutz grundlegender Rechte.",
+          "einordnung": "",
+          "quelle": "Legal Tribune Online",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeFRyajI0QXUxby1FWkdXRlI5S3pZajVhWjZuWERlRk5QNV9YcjJuYlZ5R0ctYjVydUdKM2ZtbDkxN1d5aUxoNHFjLURjcjB6UEpDT2loUURpTDlBM1dGeXh4TTAtbmw2QXh5T0dkWE85aXpxaEhfNWttZ0hmbjNXRVVvVy0zZ083amZfR3FGUnNRQ1Z4ZlAtTmJZU2htZ1NBRXZxeVZmdlJMOFNTXzczaFpMT1piZm54dmxJaUZXdm1JY1k?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Claude will deinen Ausweis sehen – und ausgerechnet diese Firma prüft ihn",
+          "zusammenfassung": "Anthropic's KI-Modell Claude fordert von Nutzern die Vorlage eines Ausweises zur Verifizierung, wobei die Prüfung durch ein Drittunternehmen erfolgt. Diese Praxis wirft Fragen zum Datenschutz und zur Datensicherheit auf. Sie beleuchtet die zunehmende Notwendigkeit von Identitätsprüfungen im Umgang mit leistungsfähigen KI-Systemen.",
           "einordnung": "",
           "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXV0LTlSaExWLVg2dkNGTjd3TVIydXg1NDcyRjFzUld2b1pWN1pnanpIVk1rMFgyZnZiQXV2WUtNd1F0NTJPVF84QlJZVVVZVEVLM3lxM1hPcGdrR0JYcUlGOUZKZm1nQ0R2Q21YOXB4dGswSmtpcldtOVRXaDRuOXNXeVlwQmxGa25ET2J6bElyRkt5cXNpZm9uSGVRa00?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Anthropic wirft Alibaba KI-Diebstahl vor – Aktie fällt auf 16-Monats-Tief",
-          "zusammenfassung": "Anthropic, ein führendes KI-Unternehmen, wirft Alibaba massiven KI-Diebstahl vor, was zu einem starken Kursrückgang der Alibaba-Aktie auf ein 16-Monats-Tief führte. Dieser Vorwurf deutet auf eine ernste Verletzung von geistigem Eigentum im KI-Bereich hin und könnte weitreichende rechtliche und finanzielle Folgen haben. Der Fall unterstreicht die zunehmende Bedeutung des Schutzes von KI-Modellen und -Daten.",
-          "einordnung": "",
-          "quelle": "Wallstreet Online",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcDNBVU55QTVHME1Bc2xZR1pWNWlsVlRvRC1TR1NtTVJTRlRteXhjZDJReTBiTHcxRGROQTRwU29ic3FvRGg4WXVjd054NW1HRXVXMTZQX2I2YUlLdVlqV01zTWwtbW1CcFhEOVRsdEdFR0h1YzlPYzllOWlZdnhIbVFRbUswS3paN3dRTHFVRHA0dEVkbGx6ckpyelo5TG5RUGJVUkhKcW5MdXZDa2lSeWtTYVU0d2phbFY0Q2ZEXzRNSmVYcTJSZW1B?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Anthropic wirft Alibaba massiven KI-Angriff über Claude vor – so soll es abgelaufen sein",
-          "zusammenfassung": "Business Insider Deutschland liefert Details zu den Vorwürfen von Anthropic gegen Alibaba bezüglich eines massiven KI-Angriffs über das Modell Claude. Der Artikel beschreibt, wie der mutmaßliche Diebstahl von geistigem Eigentum abgelaufen sein soll und welche Methoden dabei zum Einsatz kamen. Dieser Fall könnte Präzedenzfälle für den Schutz von KI-Technologien schaffen.",
-          "einordnung": "",
-          "quelle": "Business Insider Deutschland",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeFVTX0RtNzllOVZNandWZEdTWGxaQTllN2xtWUFYaGhwSmtLQTR1cTdZUmpDZGZMVDkzWEtGT3N3VDRNN3ZJN2tSeUFWS1FJdndCVm03YUVOWnNNSFpMNGFtQVpVWF9zZTBlT2VENkdVSEtkWVB5Nmh1Um1RdjkzWkxPcFBpRHdWZm9INEh1WV9kTkoz?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fZ1JqYlotYzRiTGwwOHZhaks3X1VBWFNEek4zTDZJbTJQMkdlYzlzQm5vaTlvM1pabVgtR2F4LUlJekZNTmF2WHJ4dTNxSGxtTnRMVF85UDBsWDZ5RHM5TUJvZVQ2eDYxS3ctVzJYeXNrY016SHQ0eUM0UXI?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     },
     {
-      "emoji": "🏛️",
-      "titel": "KI & Staatliche Kontrolle",
+      "emoji": "💼",
+      "titel": "KI & Arbeitswelt",
       "fest": false,
       "artikel": [
         {
-          "titel": "OpenAI: US-Regierung lässt Zugang zu neuem KI-Modell von OpenAI beschränken",
-          "zusammenfassung": "Die US-Regierung hat den Zugang zu einem neuen KI-Modell von OpenAI beschränken lassen, wie DIE ZEIT berichtet. Diese Maßnahme spiegelt die zunehmende Sorge der Behörden vor den potenziellen Auswirkungen und Risiken fortschrittlicher KI-Systeme wider. Die Beschränkung könnte die Entwicklung und Verbreitung bestimmter KI-Technologien in den USA erheblich beeinflussen.",
+          "titel": "Japan: Diese Partei will Migranten durch KI ersetzen",
+          "zusammenfassung": "Eine politische Partei in Japan schlägt vor, den Mangel an Arbeitskräften durch den Einsatz von Künstlicher Intelligenz anstelle von Migranten zu beheben. Dieser kontroverse Vorschlag löst eine Debatte über die ethischen und sozialen Implikationen von KI als Ersatz für menschliche Arbeit aus. Er zeigt die potenziellen Auswirkungen von KI auf Arbeitsmärkte und Einwanderungspolitik.",
           "einordnung": "",
-          "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5McFNXTXVEakZWenYyQmRnTFQzOUlUamVrYmtVZnEzTEx2b29iRmNrdWh5UlNwZmE5YjFhaEptWFBZRUxIMDlBZlNhWmNzV1RKRWZzMjR6QlVNYW91NFFOYk11QVNnODZhUm5BWndCbGMyUHE4Q01n?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOC1nVGJmTlgyYks2TWJaYzJZNGJzVEVpQ1IxU2h2RjNDQzVkMzFWR2VSRjlEOWhqRUZZWWdKbjlTMGQ5c2w2cmdfdS1IeUpxRl96d3dNVG9ndUdNVGp1ZFhmOFh2R013eENmUHpoNVVWMURNZnFzNjFTM1FyUVdCNzU4aWRySW9pbVBMR1RROU5hRzJJanpYc0FuRXV6VklUOHFtakF4QlRkSGRlRkpjdGVMcmZnUQ?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "US-Regierung lässt Zugang zu ChatGPT-Version einschränken",
-          "zusammenfassung": "Ntv berichtet ebenfalls über die Entscheidung der US-Regierung, den Zugang zu einer bestimmten ChatGPT-Version einzuschränken. Diese Maßnahme könnte darauf abzielen, die Verbreitung von potenziell schädlichen oder missbräuchlichen KI-Anwendungen zu kontrollieren. Die staatliche Intervention signalisiert eine neue Ära der Überwachung und Regulierung von KI-Technologien.",
+          "titel": "Anthropic-Umfrage: Jeder zweite Claude-Nutzer sagt, dass KI schon die Hälfte seiner Arbeit erledigen kann",
+          "zusammenfassung": "Eine Umfrage von Anthropic unter Claude-Nutzern ergab, dass jeder zweite Befragte angibt, die KI könne bereits die Hälfte seiner beruflichen Aufgaben übernehmen. Dies deutet auf eine signifikante Produktivitätssteigerung und eine tiefgreifende Transformation der Arbeitswelt hin. Die Ergebnisse unterstreichen das enorme Potenzial von KI zur Automatisierung und Unterstützung menschlicher Arbeit.",
           "einordnung": "",
-          "quelle": "Ntv",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFJhY0lpaXJuQ3FndmpLUmFzR1JEbkxWdWp1am5fRHhlNlN1U2R5TlA1YW5VZDBOdy1IcTdFZnRKMEtNYzFwZ0ZJR215X1duSVdzNktXMnZyQ0szZGFKNThSOUp4Qi1OU2ljWFVzdGloaFdENGs5T3RfcGtuZGExZXc1ZnFqT18xMThQWU9zRnVZQXpMbU9wR1FGQjRLR3BDWjZ4a1RnSjRfRUE2M3JZaGpQd0ExS2lN?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "The Decoder",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQczBrZ0I1UGV6UnlLNktDcXh6QXJmanFFT2F3ZkpVWXp6cXJTMVRaaVdSUDBSUmItR0NVWG5JZ09jcGM4bE1ialJEU1BWQ2xIcjl0bFBkeUFZdkhzck1GdjJ1VXA5YTRIbTVHcmJJT3plOGlhWEk5V29raWxveXJYSG1obVBqblNRRG9aejA4aHRlQTFnUDNRRmVHcTlONlVDVmtQS2docVdfRDJKdTVZbVBrNjNMRE1GLWVRQjd3dURLUUNPNkpn?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-06-28T08:38:01.087Z",
+  "generiert_um": "2026-06-29T10:17:39.019Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
