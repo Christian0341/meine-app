@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-06-29T12:03:35.958785+00:00",
+  "aktualisiert": "2026-06-30T10:34:00.182665+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "LOOPS statt PROMPTS? SO arbeiten deine Agents richtig! 🤖",
+      "link": "https://www.youtube.com/watch?v=HASGvvp1M3E",
+      "video_id": "HASGvvp1M3E",
+      "thumbnail": "https://img.youtube.com/vi/HASGvvp1M3E/mqdefault.jpg",
+      "datum": "2026-06-29T16:45:37+00:00",
+      "datum_de": "29.06.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "ChatGPT in Excel verändert Alles! 10x produktiver",
+      "link": "https://www.youtube.com/watch?v=RmefSbwlG3w",
+      "video_id": "RmefSbwlG3w",
+      "thumbnail": "https://img.youtube.com/vi/RmefSbwlG3w/mqdefault.jpg",
+      "datum": "2026-06-29T13:30:33+00:00",
+      "datum_de": "29.06.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Kevin Matyja - Aivelo",
       "titel": "Lead-Generierung mit Claude Code selbst bauen!",
@@ -24,7 +44,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Loops machen Claude und ChatGPT VERRÜCKT gut!",
+      "titel": "Loop Engineering das NEUE Agent Framework verändert alles! ",
       "link": "https://www.youtube.com/watch?v=0Jk5ijUWt24",
       "video_id": "0Jk5ijUWt24",
       "thumbnail": "https://img.youtube.com/vi/0Jk5ijUWt24/mqdefault.jpg",
@@ -113,16 +133,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Florenz Erstling",
-      "titel": "Gemini 3.1 Pro + Antigravity macht jeden Webdesigner arbeitslos",
-      "link": "https://www.youtube.com/watch?v=c8FbJ8jjUNc",
-      "video_id": "c8FbJ8jjUNc",
-      "thumbnail": "https://img.youtube.com/vi/c8FbJ8jjUNc/mqdefault.jpg",
-      "datum": "2026-06-24T14:00:15Z",
-      "datum_de": "24.06.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Morpheus Tutorials",
       "titel": "Ich habe PewDiePies KI-Plattform getestet...",
       "link": "https://www.youtube.com/watch?v=GnyYICZ7gb8",
@@ -141,16 +151,6 @@
       "datum": "2026-06-24T10:00:26Z",
       "datum_de": "24.06.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Massive KI-Durchbrüche: Claude Mythos, KI-Rechtsform, Humanoide, OpenSource & Superintelligenz",
-      "link": "https://www.youtube.com/watch?v=gxsa2xoLxGY",
-      "video_id": "gxsa2xoLxGY",
-      "thumbnail": "https://img.youtube.com/vi/gxsa2xoLxGY/mqdefault.jpg",
-      "datum": "2026-06-23T15:15:03+00:00",
-      "datum_de": "23.06.2026",
-      "quelle": "kanal"
     }
   ]
 }
