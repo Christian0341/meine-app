@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-06-30T10:34:00.182665+00:00",
+  "aktualisiert": "2026-07-01T10:45:11.244997+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "KIOrbit",
+      "titel": "KI Mail Agent bauen: 1000+ personalisierte E-Mails/Tag mit n8n",
+      "link": "https://www.youtube.com/watch?v=m8JhRMsxZ3I",
+      "video_id": "m8JhRMsxZ3I",
+      "thumbnail": "https://img.youtube.com/vi/m8JhRMsxZ3I/mqdefault.jpg",
+      "datum": "2026-07-01T10:00:13Z",
+      "datum_de": "01.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "TechPuls",
+      "titel": "DSGVO und ChatGPT: Was deutsche Unternehmen wissen muessen",
+      "link": "https://www.youtube.com/watch?v=911niyxtCnE",
+      "video_id": "911niyxtCnE",
+      "thumbnail": "https://img.youtube.com/vi/911niyxtCnE/mqdefault.jpg",
+      "datum": "2026-07-01T07:13:39Z",
+      "datum_de": "01.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Dennis Jan Vogt",
+      "titel": "Claude Sonnet 5: Fast so gut wie Opus – für die Hälfte",
+      "link": "https://www.youtube.com/watch?v=12AhhgwIKpo",
+      "video_id": "12AhhgwIKpo",
+      "thumbnail": "https://img.youtube.com/vi/12AhhgwIKpo/mqdefault.jpg",
+      "datum": "2026-06-30T21:31:08Z",
+      "datum_de": "30.06.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Vergiss “Second Brains”! So baust du ECHTES KI-Wissensmanagement (KOMPLETTKURS)",
+      "link": "https://www.youtube.com/watch?v=S7yg98I6L7k",
+      "video_id": "S7yg98I6L7k",
+      "thumbnail": "https://img.youtube.com/vi/S7yg98I6L7k/mqdefault.jpg",
+      "datum": "2026-06-30T14:45:19+00:00",
+      "datum_de": "30.06.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "LOOPS statt PROMPTS? SO arbeiten deine Agents richtig! 🤖",
@@ -93,26 +133,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "ZELDOgiq",
-      "titel": "Claude Fable 5 in der EU, Seedance 2 Mini! ChatGPT muss warten KI News",
-      "link": "https://www.youtube.com/watch?v=5GNiN9U-piU",
-      "video_id": "5GNiN9U-piU",
-      "thumbnail": "https://img.youtube.com/vi/5GNiN9U-piU/mqdefault.jpg",
-      "datum": "2026-06-26T06:08:48Z",
-      "datum_de": "26.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "NextChapterLife",
-      "titel": "„Mit Claude Geld verdienen: Die Strategien, die fast niemand nutzt (2026)“*",
-      "link": "https://www.youtube.com/watch?v=5Vh7ZPgUlIE",
-      "video_id": "5Vh7ZPgUlIE",
-      "thumbnail": "https://img.youtube.com/vi/5Vh7ZPgUlIE/mqdefault.jpg",
-      "datum": "2026-06-25T17:14:52Z",
-      "datum_de": "25.06.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Everlast AI",
       "titel": "Humanoide Roboter: DIESE Durchbrüche ändern jetzt alles und DAS kommt danach (Prof. Wolfram Burgard)",
       "link": "https://www.youtube.com/watch?v=Om8hyIlX94w",
@@ -131,26 +151,6 @@
       "datum": "2026-06-24T14:15:05+00:00",
       "datum_de": "24.06.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Ich habe PewDiePies KI-Plattform getestet...",
-      "link": "https://www.youtube.com/watch?v=GnyYICZ7gb8",
-      "video_id": "GnyYICZ7gb8",
-      "thumbnail": "https://img.youtube.com/vi/GnyYICZ7gb8/mqdefault.jpg",
-      "datum": "2026-06-24T13:29:59+00:00",
-      "datum_de": "24.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KIOrbit",
-      "titel": "Gemini 3 Pro komplett erklärt: Das einzige Tutorial, das du 2026 brauchst",
-      "link": "https://www.youtube.com/watch?v=Y43-lhM0QbE",
-      "video_id": "Y43-lhM0QbE",
-      "thumbnail": "https://img.youtube.com/vi/Y43-lhM0QbE/mqdefault.jpg",
-      "datum": "2026-06-24T10:00:26Z",
-      "datum_de": "24.06.2026",
-      "quelle": "suche"
     }
   ]
 }
