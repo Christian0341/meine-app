@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-07-01T10:45:11.244997+00:00",
+  "aktualisiert": "2026-07-02T10:12:51.426759+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Claude KOSTENLOS und SICHER nutzen: Lokale KI ist die Zukunft!",
+      "link": "https://www.youtube.com/watch?v=lGvsAQcbLIk",
+      "video_id": "lGvsAQcbLIk",
+      "thumbnail": "https://img.youtube.com/vi/lGvsAQcbLIk/mqdefault.jpg",
+      "datum": "2026-07-01T14:15:07+00:00",
+      "datum_de": "01.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Seibert Group | Google Cloud",
+      "titel": "Google Workspace Updates (DE) Juni 2026 - 13 neue Features rund um Gemini, Meet und Vids",
+      "link": "https://www.youtube.com/watch?v=fWilG2mVwNQ",
+      "video_id": "fWilG2mVwNQ",
+      "thumbnail": "https://img.youtube.com/vi/fWilG2mVwNQ/mqdefault.jpg",
+      "datum": "2026-07-01T12:54:43Z",
+      "datum_de": "01.07.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "KIOrbit",
       "titel": "KI Mail Agent bauen: 1000+ personalisierte E-Mails/Tag mit n8n",
@@ -93,6 +113,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "Dominik Lebersorger",
+      "titel": "Lerne 98% von Claude in unter 16 Minuten",
+      "link": "https://www.youtube.com/watch?v=Q-gC5fP3OKQ",
+      "video_id": "Q-gC5fP3OKQ",
+      "thumbnail": "https://img.youtube.com/vi/Q-gC5fP3OKQ/mqdefault.jpg",
+      "datum": "2026-06-28T11:00:00Z",
+      "datum_de": "28.06.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Everlast AI",
       "titel": "KI-NEWS: Das können Claude “Entitäten”! Chinas “Mythos” für KI-Videos & Mistral OCR-4 im Test",
       "link": "https://www.youtube.com/watch?v=ExXld8WtQz8",
@@ -113,44 +143,14 @@
       "quelle": "suche"
     },
     {
-      "kanal": "NextChapterLife",
-      "titel": "GLM 5.2 – Der Claude-Killer aus China? (Oder doch nur Hype?)Ist Claude jetzt ernsthaft in Gefahr? 🤯",
-      "link": "https://www.youtube.com/watch?v=KMVvnCPwqHs",
-      "video_id": "KMVvnCPwqHs",
-      "thumbnail": "https://img.youtube.com/vi/KMVvnCPwqHs/mqdefault.jpg",
-      "datum": "2026-06-26T13:50:17Z",
-      "datum_de": "26.06.2026",
+      "kanal": "Calvin Hollywood (AI)",
+      "titel": "5 Dinge, die ich mit Claude erstellt habe",
+      "link": "https://www.youtube.com/watch?v=YGxsLj7IDII",
+      "video_id": "YGxsLj7IDII",
+      "thumbnail": "https://img.youtube.com/vi/YGxsLj7IDII/mqdefault.jpg",
+      "datum": "2026-06-27T12:16:38Z",
+      "datum_de": "27.06.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "smartaffiliateflow",
-      "titel": "Claude Limit Analyse",
-      "link": "https://www.youtube.com/watch?v=mCzJNiFFDR4",
-      "video_id": "mCzJNiFFDR4",
-      "thumbnail": "https://img.youtube.com/vi/mCzJNiFFDR4/mqdefault.jpg",
-      "datum": "2026-06-26T12:10:15Z",
-      "datum_de": "26.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Humanoide Roboter: DIESE Durchbrüche ändern jetzt alles und DAS kommt danach (Prof. Wolfram Burgard)",
-      "link": "https://www.youtube.com/watch?v=Om8hyIlX94w",
-      "video_id": "Om8hyIlX94w",
-      "thumbnail": "https://img.youtube.com/vi/Om8hyIlX94w/mqdefault.jpg",
-      "datum": "2026-06-25T15:15:22+00:00",
-      "datum_de": "25.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "HÖR AUF mit Claude zu schreiben - mach stattdessen das!",
-      "link": "https://www.youtube.com/watch?v=Bl3IYpf2l5U",
-      "video_id": "Bl3IYpf2l5U",
-      "thumbnail": "https://img.youtube.com/vi/Bl3IYpf2l5U/mqdefault.jpg",
-      "datum": "2026-06-24T14:15:05+00:00",
-      "datum_de": "24.06.2026",
-      "quelle": "kanal"
     }
   ]
 }
