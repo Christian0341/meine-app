@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-07-02T10:12:51.426759+00:00",
+  "aktualisiert": "2026-07-03T10:08:44.990949+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "5 Mrd. Bewertung, 30 Mitarbeiter: Die Wette auf sich selbst verbessernde KI | Dr. Richard Socher",
+      "link": "https://www.youtube.com/watch?v=O3OepM26tRo",
+      "video_id": "O3OepM26tRo",
+      "thumbnail": "https://img.youtube.com/vi/O3OepM26tRo/mqdefault.jpg",
+      "datum": "2026-07-03T10:00:33+00:00",
+      "datum_de": "03.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Branchenkreis",
+      "titel": "Die besten KI-Tools im Test: Claude vs. Perplexity vs. Gamma",
+      "link": "https://www.youtube.com/watch?v=zVIvuJywin4",
+      "video_id": "zVIvuJywin4",
+      "thumbnail": "https://img.youtube.com/vi/zVIvuJywin4/mqdefault.jpg",
+      "datum": "2026-07-02T15:30:29Z",
+      "datum_de": "02.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "dm-Chef: „Wir brauchen ein Grundeinkommen!\" KI, Roboter & wie sich Jobs verändern (Christoph Werner)",
+      "link": "https://www.youtube.com/watch?v=siW6Or_09aY",
+      "video_id": "siW6Or_09aY",
+      "thumbnail": "https://img.youtube.com/vi/siW6Or_09aY/mqdefault.jpg",
+      "datum": "2026-07-02T15:10:12+00:00",
+      "datum_de": "02.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KI Hebel",
+      "titel": "Ich habe 3 KI Tools 30 tage getestet 1 war reine Zeitverschwendung.",
+      "link": "https://www.youtube.com/watch?v=UfngfLq-6bA",
+      "video_id": "UfngfLq-6bA",
+      "thumbnail": "https://img.youtube.com/vi/UfngfLq-6bA/mqdefault.jpg",
+      "datum": "2026-07-02T10:28:28Z",
+      "datum_de": "02.07.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Sascha Taschan",
       "titel": "Claude KOSTENLOS und SICHER nutzen: Lokale KI ist die Zukunft!",
@@ -44,7 +84,7 @@
     },
     {
       "kanal": "Dennis Jan Vogt",
-      "titel": "Claude Sonnet 5: Fast so gut wie Opus – für die Hälfte",
+      "titel": "Claude Sonnet 5 schlägt Opus (und kostet fast nichts)",
       "link": "https://www.youtube.com/watch?v=12AhhgwIKpo",
       "video_id": "12AhhgwIKpo",
       "thumbnail": "https://img.youtube.com/vi/12AhhgwIKpo/mqdefault.jpg",
@@ -93,6 +133,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Kontextkern",
+      "titel": "Claude Connectors für Einsteiger: Gmail, Kalender &amp; Drive in einem Chat",
+      "link": "https://www.youtube.com/watch?v=8g7Zo2gSLwM",
+      "video_id": "8g7Zo2gSLwM",
+      "thumbnail": "https://img.youtube.com/vi/8g7Zo2gSLwM/mqdefault.jpg",
+      "datum": "2026-06-28T16:30:31Z",
+      "datum_de": "28.06.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Neuland Pro",
       "titel": "KRASSE KI NEWS: OpenAI stuft GPT-5.6 als HOCHRISKANT ein!",
       "link": "https://www.youtube.com/watch?v=Z4Mxo6CgXkI",
@@ -101,56 +151,6 @@
       "datum": "2026-06-28T16:12:28+00:00",
       "datum_de": "28.06.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Loop Engineering das NEUE Agent Framework verändert alles! ",
-      "link": "https://www.youtube.com/watch?v=0Jk5ijUWt24",
-      "video_id": "0Jk5ijUWt24",
-      "thumbnail": "https://img.youtube.com/vi/0Jk5ijUWt24/mqdefault.jpg",
-      "datum": "2026-06-28T14:15:16+00:00",
-      "datum_de": "28.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Dominik Lebersorger",
-      "titel": "Lerne 98% von Claude in unter 16 Minuten",
-      "link": "https://www.youtube.com/watch?v=Q-gC5fP3OKQ",
-      "video_id": "Q-gC5fP3OKQ",
-      "thumbnail": "https://img.youtube.com/vi/Q-gC5fP3OKQ/mqdefault.jpg",
-      "datum": "2026-06-28T11:00:00Z",
-      "datum_de": "28.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI-NEWS: Das können Claude “Entitäten”! Chinas “Mythos” für KI-Videos & Mistral OCR-4 im Test",
-      "link": "https://www.youtube.com/watch?v=ExXld8WtQz8",
-      "video_id": "ExXld8WtQz8",
-      "thumbnail": "https://img.youtube.com/vi/ExXld8WtQz8/mqdefault.jpg",
-      "datum": "2026-06-28T08:16:27+00:00",
-      "datum_de": "28.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "IchBinFabian",
-      "titel": "Claude Fable 5 gesperrt, GPT-5.6 kommt - was jetzt?",
-      "link": "https://www.youtube.com/watch?v=jtW8xhEVYEA",
-      "video_id": "jtW8xhEVYEA",
-      "thumbnail": "https://img.youtube.com/vi/jtW8xhEVYEA/mqdefault.jpg",
-      "datum": "2026-06-27T18:30:04Z",
-      "datum_de": "27.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Calvin Hollywood (AI)",
-      "titel": "5 Dinge, die ich mit Claude erstellt habe",
-      "link": "https://www.youtube.com/watch?v=YGxsLj7IDII",
-      "video_id": "YGxsLj7IDII",
-      "thumbnail": "https://img.youtube.com/vi/YGxsLj7IDII/mqdefault.jpg",
-      "datum": "2026-06-27T12:16:38Z",
-      "datum_de": "27.06.2026",
-      "quelle": "suche"
     }
   ]
 }
