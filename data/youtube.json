@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-07-03T10:08:44.990949+00:00",
+  "aktualisiert": "2026-07-04T09:27:13.144482+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "AiTelugulo",
+      "titel": "AIతో  3D యానిమేషన్ వీడియోస్ క్రియేట్ చేయండి. |   Claude + Google Flow తెలుగులో",
+      "link": "https://www.youtube.com/watch?v=F6e3EKjnQVk",
+      "video_id": "F6e3EKjnQVk",
+      "thumbnail": "https://img.youtube.com/vi/F6e3EKjnQVk/mqdefault.jpg",
+      "datum": "2026-07-03T16:01:31Z",
+      "datum_de": "03.07.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "5 Mrd. Bewertung, 30 Mitarbeiter: Die Wette auf sich selbst verbessernde KI | Dr. Richard Socher",
@@ -24,7 +34,7 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "dm-Chef: „Wir brauchen ein Grundeinkommen!\" KI, Roboter & wie sich Jobs verändern (Christoph Werner)",
+      "titel": "dm-Chef: KI, Roboter, Jobverluste, Grundeinkommen, Deutschland & Zukunft 2050 (Christoph Werner)",
       "link": "https://www.youtube.com/watch?v=siW6Or_09aY",
       "video_id": "siW6Or_09aY",
       "thumbnail": "https://img.youtube.com/vi/siW6Or_09aY/mqdefault.jpg",
@@ -141,16 +151,6 @@
       "datum": "2026-06-28T16:30:31Z",
       "datum_de": "28.06.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Neuland Pro",
-      "titel": "KRASSE KI NEWS: OpenAI stuft GPT-5.6 als HOCHRISKANT ein!",
-      "link": "https://www.youtube.com/watch?v=Z4Mxo6CgXkI",
-      "video_id": "Z4Mxo6CgXkI",
-      "thumbnail": "https://img.youtube.com/vi/Z4Mxo6CgXkI/mqdefault.jpg",
-      "datum": "2026-06-28T16:12:28+00:00",
-      "datum_de": "28.06.2026",
-      "quelle": "kanal"
     }
   ]
 }
