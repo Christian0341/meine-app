@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-07-04T09:27:13.144482+00:00",
+  "aktualisiert": "2026-07-05T09:45:03.955106+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-News: Chinas KI-Roboter werden ZU ECHT! + DAS kann das NEUE Fable 5 & Sonnet 5",
+      "link": "https://www.youtube.com/watch?v=-JCCcR9qtYQ",
+      "video_id": "-JCCcR9qtYQ",
+      "thumbnail": "https://img.youtube.com/vi/-JCCcR9qtYQ/mqdefault.jpg",
+      "datum": "2026-07-05T08:15:15+00:00",
+      "datum_de": "05.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KevCodeDesign",
+      "titel": "Einfaches Farming Script mit ChatGPT programmiert | Noob lernt Coden (free download)",
+      "link": "https://www.youtube.com/watch?v=6pceUHUEXj8",
+      "video_id": "6pceUHUEXj8",
+      "thumbnail": "https://img.youtube.com/vi/6pceUHUEXj8/mqdefault.jpg",
+      "datum": "2026-07-04T14:00:30Z",
+      "datum_de": "04.07.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "AiTelugulo",
       "titel": "AIతో  3D యానిమేషన్ వీడియోస్ క్రియేట్ చేయండి. |   Claude + Google Flow తెలుగులో",
@@ -63,16 +83,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Seibert Group | Google Cloud",
-      "titel": "Google Workspace Updates (DE) Juni 2026 - 13 neue Features rund um Gemini, Meet und Vids",
-      "link": "https://www.youtube.com/watch?v=fWilG2mVwNQ",
-      "video_id": "fWilG2mVwNQ",
-      "thumbnail": "https://img.youtube.com/vi/fWilG2mVwNQ/mqdefault.jpg",
-      "datum": "2026-07-01T12:54:43Z",
-      "datum_de": "01.07.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "KIOrbit",
       "titel": "KI Mail Agent bauen: 1000+ personalisierte E-Mails/Tag mit n8n",
       "link": "https://www.youtube.com/watch?v=m8JhRMsxZ3I",
@@ -113,6 +123,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "alleswasinteressiert",
+      "titel": "30 Claude Code Tricks, die kaum jemand nutzt (Stand Juni 2026)",
+      "link": "https://www.youtube.com/watch?v=X0FvALJ8pzk",
+      "video_id": "X0FvALJ8pzk",
+      "thumbnail": "https://img.youtube.com/vi/X0FvALJ8pzk/mqdefault.jpg",
+      "datum": "2026-06-29T18:20:54Z",
+      "datum_de": "29.06.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Christoph Magnussen",
       "titel": "LOOPS statt PROMPTS? SO arbeiten deine Agents richtig! 🤖",
       "link": "https://www.youtube.com/watch?v=HASGvvp1M3E",
@@ -123,33 +143,13 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Akademie4KI",
-      "titel": "ChatGPT in Excel verändert Alles! 10x produktiver",
-      "link": "https://www.youtube.com/watch?v=RmefSbwlG3w",
-      "video_id": "RmefSbwlG3w",
-      "thumbnail": "https://img.youtube.com/vi/RmefSbwlG3w/mqdefault.jpg",
-      "datum": "2026-06-29T13:30:33+00:00",
+      "kanal": "Felicia Simon",
+      "titel": "Das musst du über KI wissen 🤯 KI Agenten, AGI und Sicherheit",
+      "link": "https://www.youtube.com/watch?v=UM-3u8pwBTQ",
+      "video_id": "UM-3u8pwBTQ",
+      "thumbnail": "https://img.youtube.com/vi/UM-3u8pwBTQ/mqdefault.jpg",
+      "datum": "2026-06-29T15:41:13Z",
       "datum_de": "29.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Kevin Matyja - Aivelo",
-      "titel": "Lead-Generierung mit Claude Code selbst bauen!",
-      "link": "https://www.youtube.com/watch?v=uy0BMshsd_Y",
-      "video_id": "uy0BMshsd_Y",
-      "thumbnail": "https://img.youtube.com/vi/uy0BMshsd_Y/mqdefault.jpg",
-      "datum": "2026-06-28T18:43:29Z",
-      "datum_de": "28.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Kontextkern",
-      "titel": "Claude Connectors für Einsteiger: Gmail, Kalender &amp; Drive in einem Chat",
-      "link": "https://www.youtube.com/watch?v=8g7Zo2gSLwM",
-      "video_id": "8g7Zo2gSLwM",
-      "thumbnail": "https://img.youtube.com/vi/8g7Zo2gSLwM/mqdefault.jpg",
-      "datum": "2026-06-28T16:30:31Z",
-      "datum_de": "28.06.2026",
       "quelle": "suche"
     }
   ]
