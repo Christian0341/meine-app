@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-07-05T09:45:03.955106+00:00",
+  "aktualisiert": "2026-07-06T11:40:57.875427+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "RexGod",
+      "titel": "GEMINI vs CLAUDE: Sıfırdan Roblox&#39;ta FNAF Yapıyor!",
+      "link": "https://www.youtube.com/watch?v=SDMIBL2rBZ4",
+      "video_id": "SDMIBL2rBZ4",
+      "thumbnail": "https://img.youtube.com/vi/SDMIBL2rBZ4/mqdefault.jpg",
+      "datum": "2026-07-05T19:18:24Z",
+      "datum_de": "05.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Claude Sonnet 5 ist LIVE und es ist VERRÜCKT GUT!",
+      "link": "https://www.youtube.com/watch?v=o2pXqFB6pBc",
+      "video_id": "o2pXqFB6pBc",
+      "thumbnail": "https://img.youtube.com/vi/o2pXqFB6pBc/mqdefault.jpg",
+      "datum": "2026-07-05T14:15:09+00:00",
+      "datum_de": "05.07.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "KI-News: Chinas KI-Roboter werden ZU ECHT! + DAS kann das NEUE Fable 5 & Sonnet 5",
@@ -63,12 +83,52 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "NANCY | Projects To Profit",
+      "titel": "Claude Fable 5 im Büro-Test: Projekt-System aus 16 Dateien in 8 Minuten",
+      "link": "https://www.youtube.com/watch?v=V6DIJCBAWfk",
+      "video_id": "V6DIJCBAWfk",
+      "thumbnail": "https://img.youtube.com/vi/V6DIJCBAWfk/mqdefault.jpg",
+      "datum": "2026-07-02T14:59:18Z",
+      "datum_de": "02.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AI mit Arnie",
+      "titel": "Claude, was soll das?",
+      "link": "https://www.youtube.com/watch?v=ILe7DKTDAwc",
+      "video_id": "ILe7DKTDAwc",
+      "thumbnail": "https://img.youtube.com/vi/ILe7DKTDAwc/mqdefault.jpg",
+      "datum": "2026-07-02T11:42:34Z",
+      "datum_de": "02.07.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "KI Hebel",
       "titel": "Ich habe 3 KI Tools 30 tage getestet 1 war reine Zeitverschwendung.",
       "link": "https://www.youtube.com/watch?v=UfngfLq-6bA",
       "video_id": "UfngfLq-6bA",
       "thumbnail": "https://img.youtube.com/vi/UfngfLq-6bA/mqdefault.jpg",
       "datum": "2026-07-02T10:28:28Z",
+      "datum_de": "02.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Fantum",
+      "titel": "Claude Fable 5 ist GEISTESKRANK",
+      "link": "https://www.youtube.com/watch?v=GFrdID-w2jA",
+      "video_id": "GFrdID-w2jA",
+      "thumbnail": "https://img.youtube.com/vi/GFrdID-w2jA/mqdefault.jpg",
+      "datum": "2026-07-02T10:00:15Z",
+      "datum_de": "02.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Julian Goldie SEO",
+      "titel": "Google Gemini New Updates are INSANE!",
+      "link": "https://www.youtube.com/watch?v=Y5E3waBKdkQ",
+      "video_id": "Y5E3waBKdkQ",
+      "thumbnail": "https://img.youtube.com/vi/Y5E3waBKdkQ/mqdefault.jpg",
+      "datum": "2026-07-02T01:00:10Z",
       "datum_de": "02.07.2026",
       "quelle": "suche"
     },
@@ -90,66 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/m8JhRMsxZ3I/mqdefault.jpg",
       "datum": "2026-07-01T10:00:13Z",
       "datum_de": "01.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "TechPuls",
-      "titel": "DSGVO und ChatGPT: Was deutsche Unternehmen wissen muessen",
-      "link": "https://www.youtube.com/watch?v=911niyxtCnE",
-      "video_id": "911niyxtCnE",
-      "thumbnail": "https://img.youtube.com/vi/911niyxtCnE/mqdefault.jpg",
-      "datum": "2026-07-01T07:13:39Z",
-      "datum_de": "01.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Dennis Jan Vogt",
-      "titel": "Claude Sonnet 5 schlägt Opus (und kostet fast nichts)",
-      "link": "https://www.youtube.com/watch?v=12AhhgwIKpo",
-      "video_id": "12AhhgwIKpo",
-      "thumbnail": "https://img.youtube.com/vi/12AhhgwIKpo/mqdefault.jpg",
-      "datum": "2026-06-30T21:31:08Z",
-      "datum_de": "30.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Vergiss “Second Brains”! So baust du ECHTES KI-Wissensmanagement (KOMPLETTKURS)",
-      "link": "https://www.youtube.com/watch?v=S7yg98I6L7k",
-      "video_id": "S7yg98I6L7k",
-      "thumbnail": "https://img.youtube.com/vi/S7yg98I6L7k/mqdefault.jpg",
-      "datum": "2026-06-30T14:45:19+00:00",
-      "datum_de": "30.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "alleswasinteressiert",
-      "titel": "30 Claude Code Tricks, die kaum jemand nutzt (Stand Juni 2026)",
-      "link": "https://www.youtube.com/watch?v=X0FvALJ8pzk",
-      "video_id": "X0FvALJ8pzk",
-      "thumbnail": "https://img.youtube.com/vi/X0FvALJ8pzk/mqdefault.jpg",
-      "datum": "2026-06-29T18:20:54Z",
-      "datum_de": "29.06.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "LOOPS statt PROMPTS? SO arbeiten deine Agents richtig! 🤖",
-      "link": "https://www.youtube.com/watch?v=HASGvvp1M3E",
-      "video_id": "HASGvvp1M3E",
-      "thumbnail": "https://img.youtube.com/vi/HASGvvp1M3E/mqdefault.jpg",
-      "datum": "2026-06-29T16:45:37+00:00",
-      "datum_de": "29.06.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Felicia Simon",
-      "titel": "Das musst du über KI wissen 🤯 KI Agenten, AGI und Sicherheit",
-      "link": "https://www.youtube.com/watch?v=UM-3u8pwBTQ",
-      "video_id": "UM-3u8pwBTQ",
-      "thumbnail": "https://img.youtube.com/vi/UM-3u8pwBTQ/mqdefault.jpg",
-      "datum": "2026-06-29T15:41:13Z",
-      "datum_de": "29.06.2026",
       "quelle": "suche"
     }
   ]
