@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-07-06T11:40:57.875427+00:00",
+  "aktualisiert": "2026-07-07T10:29:00.399225+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Ich hab Claude Fable Hogwarts erstellen lassen",
+      "link": "https://www.youtube.com/watch?v=FqOZvBBPGm0",
+      "video_id": "FqOZvBBPGm0",
+      "thumbnail": "https://img.youtube.com/vi/FqOZvBBPGm0/mqdefault.jpg",
+      "datum": "2026-07-06T18:26:09+00:00",
+      "datum_de": "06.07.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "RexGod",
       "titel": "GEMINI vs CLAUDE: Sıfırdan Roblox&#39;ta FNAF Yapıyor!",
@@ -93,32 +103,12 @@
       "quelle": "suche"
     },
     {
-      "kanal": "AI mit Arnie",
-      "titel": "Claude, was soll das?",
-      "link": "https://www.youtube.com/watch?v=ILe7DKTDAwc",
-      "video_id": "ILe7DKTDAwc",
-      "thumbnail": "https://img.youtube.com/vi/ILe7DKTDAwc/mqdefault.jpg",
-      "datum": "2026-07-02T11:42:34Z",
-      "datum_de": "02.07.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "KI Hebel",
       "titel": "Ich habe 3 KI Tools 30 tage getestet 1 war reine Zeitverschwendung.",
       "link": "https://www.youtube.com/watch?v=UfngfLq-6bA",
       "video_id": "UfngfLq-6bA",
       "thumbnail": "https://img.youtube.com/vi/UfngfLq-6bA/mqdefault.jpg",
       "datum": "2026-07-02T10:28:28Z",
-      "datum_de": "02.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Fantum",
-      "titel": "Claude Fable 5 ist GEISTESKRANK",
-      "link": "https://www.youtube.com/watch?v=GFrdID-w2jA",
-      "video_id": "GFrdID-w2jA",
-      "thumbnail": "https://img.youtube.com/vi/GFrdID-w2jA/mqdefault.jpg",
-      "datum": "2026-07-02T10:00:15Z",
       "datum_de": "02.07.2026",
       "quelle": "suche"
     },
@@ -141,6 +131,16 @@
       "datum": "2026-07-01T14:15:07+00:00",
       "datum_de": "01.07.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Seibert Group | Google Cloud",
+      "titel": "Google Workspace Updates (DE) Juni 2026 - 13 neue Features rund um Gemini, Meet und Vids",
+      "link": "https://www.youtube.com/watch?v=fWilG2mVwNQ",
+      "video_id": "fWilG2mVwNQ",
+      "thumbnail": "https://img.youtube.com/vi/fWilG2mVwNQ/mqdefault.jpg",
+      "datum": "2026-07-01T12:54:43Z",
+      "datum_de": "01.07.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "KIOrbit",
