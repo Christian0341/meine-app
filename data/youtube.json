@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-07-07T10:29:00.399225+00:00",
+  "aktualisiert": "2026-07-08T09:29:28.666178+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "TechPuls",
+      "titel": "Microsoft Copilot Deutsch: Das kann er wirklich",
+      "link": "https://www.youtube.com/watch?v=SwWvZaJ3wwE",
+      "video_id": "SwWvZaJ3wwE",
+      "thumbnail": "https://img.youtube.com/vi/SwWvZaJ3wwE/mqdefault.jpg",
+      "datum": "2026-07-08T07:14:35Z",
+      "datum_de": "08.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KIOrbit",
+      "titel": "ChatGPT meistern in 30 Minuten: Die besten Prompts &amp; Tricks für Anfänger",
+      "link": "https://www.youtube.com/watch?v=QA4Cc5vpPkE",
+      "video_id": "QA4Cc5vpPkE",
+      "thumbnail": "https://img.youtube.com/vi/QA4Cc5vpPkE/mqdefault.jpg",
+      "datum": "2026-07-07T17:55:12Z",
+      "datum_de": "07.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Welche KI in 2026? Chatbots, Agents, Apps im Überblick!",
+      "link": "https://www.youtube.com/watch?v=zNuynCOm5Mc",
+      "video_id": "zNuynCOm5Mc",
+      "thumbnail": "https://img.youtube.com/vi/zNuynCOm5Mc/mqdefault.jpg",
+      "datum": "2026-07-07T17:15:55+00:00",
+      "datum_de": "07.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Hirnforscher: „DAS ist das ENDE der KI-Blase!\" Roboter, Bürojobs & die Wahrheit zur Singularität",
+      "link": "https://www.youtube.com/watch?v=lqwJza-EBiY",
+      "video_id": "lqwJza-EBiY",
+      "thumbnail": "https://img.youtube.com/vi/lqwJza-EBiY/mqdefault.jpg",
+      "datum": "2026-07-07T15:15:13+00:00",
+      "datum_de": "07.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Nils Harder",
+      "titel": "Der KI-Agent, der DIR gehört (und täglich besser wird) | Hermes",
+      "link": "https://www.youtube.com/watch?v=RkWjH4guzVw",
+      "video_id": "RkWjH4guzVw",
+      "thumbnail": "https://img.youtube.com/vi/RkWjH4guzVw/mqdefault.jpg",
+      "datum": "2026-07-07T15:14:07Z",
+      "datum_de": "07.07.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Morpheus Tutorials",
       "titel": "Ich hab Claude Fable Hogwarts erstellen lassen",
@@ -53,12 +103,32 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Mike Mildenberger",
+      "titel": "Wie KI-Agenten die Arbeit im Betrieb verändern werden",
+      "link": "https://www.youtube.com/watch?v=2rhzRRxwRjM",
+      "video_id": "2rhzRRxwRjM",
+      "thumbnail": "https://img.youtube.com/vi/2rhzRRxwRjM/mqdefault.jpg",
+      "datum": "2026-07-03T18:00:35Z",
+      "datum_de": "03.07.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "AiTelugulo",
       "titel": "AIతో  3D యానిమేషన్ వీడియోస్ క్రియేట్ చేయండి. |   Claude + Google Flow తెలుగులో",
       "link": "https://www.youtube.com/watch?v=F6e3EKjnQVk",
       "video_id": "F6e3EKjnQVk",
       "thumbnail": "https://img.youtube.com/vi/F6e3EKjnQVk/mqdefault.jpg",
       "datum": "2026-07-03T16:01:31Z",
+      "datum_de": "03.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "ChatGPT 5.6 weggesperrt, WAN lässt KI Tanzen, Nano Banana 2 lite ist da! KI News",
+      "link": "https://www.youtube.com/watch?v=hJN9zYHuecA",
+      "video_id": "hJN9zYHuecA",
+      "thumbnail": "https://img.youtube.com/vi/hJN9zYHuecA/mqdefault.jpg",
+      "datum": "2026-07-03T13:41:18Z",
       "datum_de": "03.07.2026",
       "quelle": "suche"
     },
@@ -80,76 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/zVIvuJywin4/mqdefault.jpg",
       "datum": "2026-07-02T15:30:29Z",
       "datum_de": "02.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "dm-Chef: KI, Roboter, Jobverluste, Grundeinkommen, Deutschland & Zukunft 2050 (Christoph Werner)",
-      "link": "https://www.youtube.com/watch?v=siW6Or_09aY",
-      "video_id": "siW6Or_09aY",
-      "thumbnail": "https://img.youtube.com/vi/siW6Or_09aY/mqdefault.jpg",
-      "datum": "2026-07-02T15:10:12+00:00",
-      "datum_de": "02.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "NANCY | Projects To Profit",
-      "titel": "Claude Fable 5 im Büro-Test: Projekt-System aus 16 Dateien in 8 Minuten",
-      "link": "https://www.youtube.com/watch?v=V6DIJCBAWfk",
-      "video_id": "V6DIJCBAWfk",
-      "thumbnail": "https://img.youtube.com/vi/V6DIJCBAWfk/mqdefault.jpg",
-      "datum": "2026-07-02T14:59:18Z",
-      "datum_de": "02.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Hebel",
-      "titel": "Ich habe 3 KI Tools 30 tage getestet 1 war reine Zeitverschwendung.",
-      "link": "https://www.youtube.com/watch?v=UfngfLq-6bA",
-      "video_id": "UfngfLq-6bA",
-      "thumbnail": "https://img.youtube.com/vi/UfngfLq-6bA/mqdefault.jpg",
-      "datum": "2026-07-02T10:28:28Z",
-      "datum_de": "02.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Julian Goldie SEO",
-      "titel": "Google Gemini New Updates are INSANE!",
-      "link": "https://www.youtube.com/watch?v=Y5E3waBKdkQ",
-      "video_id": "Y5E3waBKdkQ",
-      "thumbnail": "https://img.youtube.com/vi/Y5E3waBKdkQ/mqdefault.jpg",
-      "datum": "2026-07-02T01:00:10Z",
-      "datum_de": "02.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Claude KOSTENLOS und SICHER nutzen: Lokale KI ist die Zukunft!",
-      "link": "https://www.youtube.com/watch?v=lGvsAQcbLIk",
-      "video_id": "lGvsAQcbLIk",
-      "thumbnail": "https://img.youtube.com/vi/lGvsAQcbLIk/mqdefault.jpg",
-      "datum": "2026-07-01T14:15:07+00:00",
-      "datum_de": "01.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Seibert Group | Google Cloud",
-      "titel": "Google Workspace Updates (DE) Juni 2026 - 13 neue Features rund um Gemini, Meet und Vids",
-      "link": "https://www.youtube.com/watch?v=fWilG2mVwNQ",
-      "video_id": "fWilG2mVwNQ",
-      "thumbnail": "https://img.youtube.com/vi/fWilG2mVwNQ/mqdefault.jpg",
-      "datum": "2026-07-01T12:54:43Z",
-      "datum_de": "01.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KIOrbit",
-      "titel": "KI Mail Agent bauen: 1000+ personalisierte E-Mails/Tag mit n8n",
-      "link": "https://www.youtube.com/watch?v=m8JhRMsxZ3I",
-      "video_id": "m8JhRMsxZ3I",
-      "thumbnail": "https://img.youtube.com/vi/m8JhRMsxZ3I/mqdefault.jpg",
-      "datum": "2026-07-01T10:00:13Z",
-      "datum_de": "01.07.2026",
       "quelle": "suche"
     }
   ]
