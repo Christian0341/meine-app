@@ -1,7 +1,7 @@
 {
-  "datum": "Donnerstag, 9. Juli 2026",
-  "datumISO": "2026-07-09",
-  "tagesthema": "Der heutige KI-News Digest beleuchtet die Einführung neuer GPT-Modelle, Sicherheitsherausforderungen bei Claude, strategische KI-Investitionen der Deutschen Bahn und die fortschreitende Umsetzung des EU AI Act.",
+  "datum": "Freitag, 10. Juli 2026",
+  "datumISO": "2026-07-10",
+  "tagesthema": "Neue KI-Sprachmodelle revolutionieren die Kommunikation, während Sicherheitsbedenken und regulatorische Anforderungen den Diskurs prägen.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,35 +9,43 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "OpenAI: GPT‑5.6 Sol, Luna und Terra kommen heute",
-          "zusammenfassung": "OpenAI kündigt die heutige Veröffentlichung ihrer neuen GPT-Modelle 5.6 Sol, Luna und Terra an. Diese Modelle versprechen signifikante Verbesserungen in Leistung und Fähigkeiten gegenüber ihren Vorgängern. Die KI-Community blickt gespannt auf die neuen Möglichkeiten, die diese Generation eröffnen wird.",
+          "titel": "OpenAI stellt neues Feature vor: ChatGPT soll jetzt mit euch reden wie ein Mensch",
+          "zusammenfassung": "OpenAI hat ein bahnbrechendes neues Feature für ChatGPT vorgestellt, das dem Sprachmodell ermöglicht, Gespräche in einer noch menschlicheren und flüssigeren Weise zu führen. Diese Weiterentwicklung zielt darauf ab, die Interaktion mit der KI natürlicher und intuitiver zu gestalten. Es markiert einen wichtigen Schritt in Richtung einer noch immersiveren Konversations-KI.",
           "einordnung": "",
-          "quelle": "Hardwareluxx",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWHNLdlZoZTVxYzh5SmhpcHRtUnd1WktiRGlLS0JSSENfeGlxVFN1T3hPUVJvdzN5akcwV1JXcTRUTjJGeUVZeEZLTE1pZkljX3hIdnlNWHJUZTUzQzVMOWRVa1VpcU5MQ1hZRzdYVDMxekVpNUJTMFR6bVNyY2hCWVdVNU14cnppOHlHQUVKNVJ1NlRBVGZQdUtoclpNVlFCRExxTTdweVhfdU5QMXNIblBzejBxRUM5emRqQU5zaFNaWGtKTkxud0F5cmdhM3pFZHRPX0tvdUVwT0MwZkMtSg?oc=5",
+          "quelle": "Business Insider Deutschland",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT1ZUNE4yWjhjNUtvd1VEZk93V2p4MG82eTBBb0RneThUaGlnMEdMWnVJMFFvaTN0NE9Sa005SDk3LVJHak5oWk1aSU4zOXh1UGtGcGV6dTVPVVpBTmJ2cDN6ZmNSUXhRWHM4MU83eERSLXE5NzhkeTZMeEQ0SEtpR2lpVXZSOVliendMYlp5SGYxRXRzbmoxLXBYTEstb1VGMFJmSGZrYUlnYUhUNUo2QkdQSkY?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Vorschau auf GPT-5.6 Sol: ein Modell der nächsten Generation",
-          "zusammenfassung": "OpenAI gibt einen detaillierten Einblick in GPT-5.6 Sol, das als Modell der nächsten Generation positioniert wird. Die Vorschau hebt verbesserte Reasoning-Fähigkeiten und eine höhere Effizienz hervor. Entwickler und Unternehmen warten gespannt auf die offizielle Freigabe, um die neuen Funktionen zu testen.",
+          "titel": "Dank Full-Duplex-Architektur: ChatGPT Voice hört zu, während es spricht",
+          "zusammenfassung": "Heise online berichtet über die technische Grundlage des neuen ChatGPT Voice Features: eine Full-Duplex-Architektur. Diese ermöglicht es der KI, zuzuhören, während sie spricht, was eine nahtlosere und natürlichere Gesprächsführung imitiert. Die Technologie reduziert Wartezeiten und macht die Interaktion mit dem Sprachmodell dynamischer.",
           "einordnung": "",
-          "quelle": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyM2hlMy1wQ01EZlNmRUlmNGgwQzhWNWNsQjY0VTZYOF9Tc1c3Q1Q5TG8wOEt6U05QYU92Vkx0YkU4UVg5RU5lMzRtUU5EME5wXzFlOGVZMlprakpmV2ZBbU1vQ2E?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcThmV1UyTG54THNUaU1LX1ExdmlDVjBNamhpSXA2UGVZejAtX3FJWlBlZzF2c1J2VjFfRGVOWVhPQTRiaGdjbEhPWnJENnVmUzHRIMDV0c0VYVEo4MVo5cDI3MHFxejFyN2VENnhwSWYtVHEtbkl0Nk9BenZaaFRUdDVsMlI4aFNob1hDSEpXa0FGa25XN3VBLXFzcWNzS2R4dnZxMWhlQnlPT1NIZ2Z5UQ?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Nach Sicherheitsbedenken: OpenAI gibt neues KI-Modell für Öffentlichkeit frei",
-          "zusammenfassung": "Trotz anfänglicher Sicherheitsbedenken hat OpenAI ein neues KI-Modell für die breite Öffentlichkeit zugänglich gemacht. Das Unternehmen betont, umfangreiche Tests und Anpassungen vorgenommen zu haben, um potenzielle Risiken zu minimieren. Die Freigabe markiert einen wichtigen Schritt in der Demokratisierung fortschrittlicher KI-Technologien.",
+          "titel": "GPT-Live: OpenAI bringt Sprachmodell für echte Gespräche",
+          "zusammenfassung": "Golem bestätigt die Einführung von GPT-Live durch OpenAI, einem neuen Sprachmodell, das für echte und flüssige Gespräche konzipiert wurde. Dieses Update verbessert die Fähigkeit der KI, menschliche Interaktionen in Echtzeit zu simulieren. Die Neuerung verspricht eine revolutionäre Veränderung in der Art und Weise, wie Nutzer mit KI-Assistenten kommunizieren.",
           "einordnung": "",
-          "quelle": "n-tv.de",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQekozNktzYlhXaVJjeEZOakRmbHR3UjYwZ2xabFhnY2hKNWF2V0FWQW1SWl9HMVkyeXF5ZE8xM3hOclhoZGY3UHFRemNEYWlhYWJFVXJlNmZDdWZHNlJYRTE5ajRiWXV0aXRrRzhPQmlkS1lRODRhbzZVOFZKTDV2VDNNWkx0OW9NSElnS3lXZVVQMklFNGJqMWh2Sm9lQW1fNVE?oc=5",
+          "quelle": "Golem",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWhFcTQ2dzJ4STVqTnc4dGdZWXN1a1lIenVDZUJRUUhkT3JLN25MM1FHeVRiMW1xUnFrSkE4WUJFU2F1MVE0YmROY1psb1d1OGpHNWZZVTQ1VFhLdlZtUG5QWkFxejFZbERZVEtVTXYzcDN4Yk9XbXRBSnBQcVRzdUp2UFN1dk1yUFl0Rk1McHVEekNWVXMzQnBWMFpIWEp5Y3c?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Gemini 3.5 ab Juli: Google bringt Live-Übersetzung in 12 Sprachen",
+          "zusammenfassung": "Google kündigt die Verfügbarkeit von Gemini 3.5 ab Juli an, das eine Live-Übersetzungsfunktion in 12 Sprachen bietet. Diese Erweiterung soll die globale Kommunikation erleichtern und die Zugänglichkeit von Informationen verbessern. Die Integration in Gemini 3.5 unterstreicht Googles Bestreben, seine KI-Modelle vielseitiger und benutzerfreundlicher zu gestalten.",
+          "einordnung": "",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeVNIcGU1SXFabC1OOUJUWkMwZDlUUjVtUjRKbk9rNHM5ZDRKU21FUFh4a1FXa2ttbXlyX3V5blVDa2JGVGdydkQ5NUpWcUJYUlVKMkM4RG4xN3BTb1EyY25IdzlsclhJSDY2NTRRNU1NMFBSUXRNZmowVWpmc3hmSW1WMzF6RjlGeWVzWWFvOFl0QktuVWlJ?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "GMail Live & Gemini: Neue KI-Funktion durchsucht euren Posteingang nach konkreten Informationen (Video)",
-          "zusammenfassung": "Google führt eine neue KI-Funktion für GMail Live und Gemini ein, die den Posteingang nach spezifischen Informationen durchsuchen kann. Diese intelligente Suchfunktion soll Nutzern helfen, relevante Inhalte schneller zu finden und die E-Mail-Verwaltung zu optimieren. Das Feature verspricht eine erhebliche Zeitersparnis im Arbeitsalltag.",
+          "titel": "Gemini Nano Banana 2 Lite: Google startet brandneues KI-Modell für schnelle, effiziente Bildgenerierung...",
+          "zusammenfassung": "Google hat ein neues KI-Modell namens Gemini Nano Banana 2 Lite vorgestellt, das speziell für schnelle und effiziente Bildgenerierung entwickelt wurde. Dieses Modell zielt darauf ab, die Erstellung von visuellen Inhalten zu optimieren und zugänglicher zu machen. Es erweitert Googles Portfolio an spezialisierten KI-Tools und könnte neue Anwendungen in der Kreativbranche ermöglichen.",
           "einordnung": "",
           "quelle": "GoogleWatchBlog",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCYk1Pd0lBMjJCWUdTNkp3dGtWdjlNYzgzMnNWcHk2VG1MM3NUVjFMNHF3d2lpZ3RPSFByZWJYWTItRHJfdU9YRWx5T0F1Y0Q5QXfSAdoBQVVfeXFMTVF2bkJtb1NyLUp0ZW5WVXVDUnpZOGFzLUp4NHV2Q2FfRTRhdy0yTmFrRXhSd1FlNWdSZTdoQlc2bDRiLXFXZHlWTFNpWWVKbkJDVURVOFpKeXFPM3VnUGU5TVNuVlNNZF8xM1BYX1AyTHZQWFYyV0t4ckNuZzlLNnI3bHVueV9CY19lc2tVa3BTaXU1dVNtclc2T1JaYXdmVFRHSVVrWmU4eFAwWGVrc01hcHk3aFppTlVyX01fZGhEZTdEVnBwSy1SRzQtTHUxcUxIemo4OXVQb0E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUU1ySFY0Z2ozMHBweFVvSG1lcWxEUWY3T2NNaHdWQjN1NVlnSTA2YkhRcFlyRUpMT1FJMEw2SFc1eU5pa2RtZnV1ODdWRTR1YmY4ZG9QV2F5eUhYVXdwcl9Kb0liV2FnQzBKN2l1Q3plQy1PVDBqSUJtaGY5bUNzMnl4VElfTks2RFJMRnFlWWoyOU9BWlpiWmFja0gxWUUxRVEwYlJqVjNkNkIxc0s4VEhLY2djTUZQcTVxN1VxMTBFOW5STU5XZXBuQWptbFVUVXBwM3E5YmNYUFdBbngzQ0V5TW_SAeoBQVVfeXFMTkpqanBYMmxIc2ZBUjZaTXVBbnV0WldNT2VsYU94b2JxUmkxWlFzdkh1Mzc0eUNEQVhiTEVLdEo5b0sxVHBJVE1zS05BcGFQSEk0SEpGclJoSWhteU9QeElVM1pVdUlObEVtdF8tTTFSSEt2LThjZVJ2SkR0bURqWmJFaEE5c1EwaVpmNHNrT0dFSTlzcHdlNW5mOW16X24wRWUta2ZNcjhESTkyc1J6dmZnMXppaE0taHFwZUhVU0d4ejZiSGlxaHd2eHh2Wm05RGlhNTRfTE9lbHRIbGJab1BnS0p0R3Z2QThR?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -48,28 +56,20 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Anthropic: Claude Cowork verlässt den Schreibtisch",
-          "zusammenfassung": "Anthropic bringt 'Claude Cowork' auf den Markt, eine neue Anwendung, die darauf abzielt, die Zusammenarbeit in Unternehmen zu revolutionieren. Das Tool soll KI-gestützte Unterstützung für verschiedene Büroaufgaben bieten und die Produktivität steigern. Dies ist ein strategischer Schritt von Anthropic, um seine Präsenz im Unternehmenssektor auszubauen.",
+          "titel": "Studie: KI-Modell Claude zitiert russisches Desinformations-Netz als Nachrichtenquelle",
+          "zusammenfassung": "Eine aktuelle Studie deckt auf, dass das KI-Modell Claude von Anthropic russische Desinformationsnetzwerke als legitime Nachrichtenquellen zitiert hat. Dies wirft ernsthafte Fragen bezüglich der Zuverlässigkeit und der potenziellen Verbreitung von Falschinformationen durch fortschrittliche KI-Systeme auf. Es unterstreicht die Notwendigkeit robusterer Mechanismen zur Quellprüfung und Bias-Reduktion in Large Language Models und beeinflusst die Strategie von Anthropic.",
           "einordnung": "",
-          "quelle": "Golem",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRTZ5UFZIV0VJdG51TGtQQVNDRU1oMGlhdWEzcjRJZHdVOHRWWmY3eWRzMklHVElUQXdXRHZnNWZBeVJZWG9zUjBlVUVjNzBTd0k1WmJ1d0ZBM1ZXOHNoaXNCbGJpN0ZuOEhveC1FSElhLUpFQzBWMGJoT19INVJOVFV3U2lsclpJdkpFQ0NQZll1cWN0WHo1dw?oc=5",
+          "quelle": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUTBfZmJ5S1MtWVhIcEFKM1VFRDR6VWVEaEZoWkRsNHRfTWxybW9lWWVUNENnRDI3bm5xbDBOWmxtZ2xEYjhidDRzcUprN2E3ZnY0OFB4STVrcDlzSmtfWkFLU21aYjJ5WkF6ZWN4djZoQWNKVV9yLXlsSDMyUHdIal9PTzdxTTZIR2dXVlA3R2JEMkNTTHp5UnJncGlzVFVySUNKeWFkd1ZHZUgyeVROelVpbjh5a05INlhjM0dsRWxWY211UWtmTFVUOEJIZnIway12anpTUGtIcnJTRUl4S2c5cG1zVHdUbGFRQQ?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Claude Cowork kommt ins Web und aufs Smartphone",
-          "zusammenfassung": "Anthropic erweitert die Verfügbarkeit von Claude Cowork, indem es die Anwendung sowohl für Webbrowser als auch für Smartphones bereitstellt. Diese breite Zugänglichkeit soll die Nutzung des KI-Assistenten im Arbeitsalltag erleichtern und eine nahtlose Integration in verschiedene Arbeitsumgebungen ermöglichen. Die Veröffentlichung unterstreicht den Fokus auf Benutzerfreundlichkeit und Flexibilität.",
+          "titel": "Apple Siri AI vs. Google Gemini im Vergleichstest",
+          "zusammenfassung": "Ein Vergleichstest von Futurezone stellt die KI-Assistenten Apple Siri AI und Google Gemini gegenüber. Der Test beleuchtet die Stärken und Schwächen beider Systeme in verschiedenen Anwendungsbereichen. Solche Analysen sind entscheidend, um die Leistungsfähigkeit und Benutzerfreundlichkeit konkurrierender KI-Technologien besser zu verstehen und zukünftige Produktstrategien zu beeinflussen.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHk4a2g0SlJneWVXbndSMnNNNTFIUUZtZkgyMkZRSzk1T0VrM2JDVC1ZMUN0VjBud2NjUUtiVVBPTjFKSldYZmhIMzkyb1BYXzE2ekQxSjRpVlRfWTlNMlJndlZNTnVvcURhQzdzVWNHbURIdWdwZGI5RUlwTTVkOVdZV2l3aVBKM1NxUEFuZ0k?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "KI-Engpass: Google kann Metas Nachfrage nach Gemini nicht mehr decken",
-          "zusammenfassung": "Google steht vor einem Engpass bei der Bereitstellung seiner Gemini-KI-Modelle und kann die hohe Nachfrage von Meta nicht mehr vollständig bedienen. Dies deutet auf eine immense Popularität und gleichzeitig auf Herausforderungen in der Skalierung der KI-Infrastruktur hin. Der Vorfall könnte Auswirkungen auf die Entwicklungspläne von Meta haben.",
-          "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTjhxdUxXc0dMem94dXVJTFcwbzZWTHZteWZ2Y2dDRmNxTXY3aUZvWHpLUENmSmRXQ1VJRTEyVTU1dGdFTk54amh3aTVUNC00RkdIb0llMllFdFBmXzRZbUZBZFJ2TG1jdjEzLVAweVZldEowMDh6a1VHcjB1amN6Tk5SZ0VtWHNIMllGdVd3YjByY0djS0xCTkl5Q0o0bm1lWlE?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "Futurezone",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzN3Rnl1R2FNTlB6dEw2NWJqRmRNQkVuTlhJcGdPWC1WOFd1Y2N5RS1ZOW5LV3d1Si1xcUQtdkN6UWg5em5qRDZOLXFtZU5Xcm00SzlHbnJiZ3pERTFKV1F3OGMyTjdDdlV1T3BUVElObTRZZm5BZXZzSDh0aHNwaUIwcXJpZy1HZV9FcUtDSDZTOGI0d3JWbHZES19Na3ZZUVY5c1lWcmpsbVc3WW1hd1NwVVUzM25fbGYtUzVxc9IBxAFBVV95cUxPNlNjZjVmcE5RNmR0VmFES28zVzFpN2lWOWs5ZDE4cW1ZcFE2Zkd5VDZNWUFhd1RhS1hKX3wiY1VFOHhfaXlUOXdkYTByRkJwMmE5LVFfOWRQMS1fcXZ4OGlNMGpOS1N3N1pZNHNwaWhkd205ZGl1SkIyZ0c3VjY2R3VBMG5NNDlELWJpbzl5SXM1cTA4RklUUzBvcWk4Zzk3ZGFraEY0X3U0bVFtQ3hVWkZtRFZVb3RiMVY5VTRma2VCb2oy?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
@@ -79,24 +79,24 @@
       "fest": true,
       "artikel": [
         {
+          "titel": "KI-Beauftragte:r im Unternehmen: Jetzt praxisnah qualifizieren und die Anforderungen des EU AI Act erfüllen",
+          "zusammenfassung": "Unternehmen sind aufgerufen, sich praxisnah für die Rolle eines KI-Beauftragten zu qualifizieren, um den Anforderungen des EU AI Act gerecht zu werden. Diese Position wird entscheidend sein, um die Einhaltung der neuen KI-Regulierungen sicherzustellen und ethische sowie rechtliche Standards im Umgang mit KI zu gewährleisten. Die Notwendigkeit solcher Rollen unterstreicht die wachsende Bedeutung von Governance in der KI-Entwicklung und -Anwendung.",
+          "einordnung": "",
+          "quelle": "Aachener Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUVBpeTBZSHpzbzd5ZlZmYmNBak9Nd0xQN092OXA2NFBYZUh5ZHhTLU93YVhWZ1REelZ3U1JiXzFfY0FfVEhzLVJ3VVU5c1VRaE1VQ2hwTWtKdXlWSVZUbnBnUDZTa3c4VWdETXZscGtfNzdhNnJTS3ctUFNqM3VzV1lRWEFMS1dMdGgtc3Vub1VSVkpVbUl5RmVWc1pSUERHZy1BTFplZ0kwT01mMkJxQVAzU2diTVpJRzdoWjg2RzVwQ1l3M3VUMEhpODJubUo2T005SUk3dGRTUDU2RGU5Q1yelpOandLQVR3S3hySTEtVmxr?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
           "titel": "Europaparlament stimmt für Gesetze zur KI-Regulierung",
-          "zusammenfassung": "Das Europaparlament hat umfassenden Gesetzen zur Regulierung von Künstlicher Intelligenz zugestimmt. Diese Entscheidung ebnet den Weg für den EU AI Act, der strenge Regeln für den Einsatz und die Entwicklung von KI-Systemen festlegen wird. Die Verabschiedung unterstreicht Europas Vorreiterrolle bei der Schaffung eines rechtlichen Rahmens für KI.",
+          "zusammenfassung": "Das Europaparlament hat Gesetzen zur KI-Regulierung zugestimmt, ein entscheidender Schritt zur Schaffung eines umfassenden rechtlichen Rahmens für Künstliche Intelligenz in der EU. Diese Entscheidung ebnet den Weg für den EU AI Act, der darauf abzielt, Vertrauen in KI zu fördern und Risiken zu minimieren. Die Verabschiedung markiert einen Meilenstein in der globalen KI-Governance.",
           "einordnung": "",
           "quelle": "tagesschau.de",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zaWlZb29zUFJYSV81dnhTU0p0OVZIV2kwbERtVWJ1U3ByLUxXRnI3ZmNjbTdmQ1Rad0JQNW1ZRlNnWHppb0RLdVZtaDFpLWZCVmNEcG9odER0NVBsa0pnZXNwcThJbGZtUTlGb3lCd3o2bXAtNkFDSDRVQzlRZEE?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "EU AI Act: Neue Kennzeichnungspflicht für KI-Inhalte ab August",
-          "zusammenfassung": "Im Rahmen des EU AI Act wird ab August eine neue Kennzeichnungspflicht für KI-generierte Inhalte eingeführt. Diese Maßnahme soll Transparenz schaffen und Nutzer darüber informieren, wenn sie mit von KI erstellten Inhalten interagieren. Die Regelung ist ein wichtiger Schritt zur Bekämpfung von Desinformation und zur Stärkung des Vertrauens in digitale Medien.",
-          "einordnung": "",
-          "quelle": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkcxb0g1eUlqd0ZFZzg2dW5CMGJPNXlHX0FwTWJBWWtVUjd5YXFYYi1sajl0VFNqQnNCSXlBMmxBajFuU1UyLXpVTkFhcDA0YWNkOEFraWNmd0FGcEcxRUhIX2lmU0tmTTk5em9pQlZTT2ZuZGFVZVhFd0V2blNsWFh5MUtoV2NMdk8zQWNpMFU3Z3ZnVTIzbmxyN1dRVUpKSjZrcHd1R1ZrbUQtTnc?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
           "titel": "KI Regulierung - Bundesministerium für Digitales und Staatsmodernisierung",
-          "zusammenfassung": "Das Bundesministerium für Digitales und Staatsmodernisierung informiert über die aktuellen Entwicklungen und Positionen zur KI-Regulierung. Der Artikel beleuchtet die nationalen Bemühungen, einen verantwortungsvollen Rahmen für den Einsatz von Künstlicher Intelligenz zu schaffen. Dies umfasst ethische Richtlinien und rechtliche Vorgaben zur Förderung von Innovation bei gleichzeitiger Risikominimierung.",
+          "zusammenfassung": "Das Bundesministerium für Digitales und Staatsmodernisierung befasst sich mit der KI-Regulierung und betont die Notwendigkeit eines ausgewogenen Ansatzes. Ziel ist es, Innovationen zu fördern und gleichzeitig einen sicheren und ethischen Einsatz von KI zu gewährleisten. Die Positionierung des Ministeriums spiegelt die nationalen Bemühungen wider, auf die Herausforderungen und Chancen der KI-Entwicklung zu reagieren.",
           "einordnung": "",
           "quelle": "Bundesministerium für Digitales und Staatsmodernisierung",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85ZWthc1dYejNfNGdqSEZfTjdhMDlGdnZkREFKVmtlU1Y0eW04c0JjdS1wXzU4U2RlaHZmakRTQkNsV3pwYy1DNEJpSG9xX0NoUFVOamZTUG5MektINmFpcFdoc3IyU1FSZmF2eWVpMzQyUTRE?oc=5",
@@ -110,71 +110,87 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Apple Siri AI vs. Google Gemini im Vergleichstest",
-          "zusammenfassung": "Ein aktueller Vergleichstest stellt die KI-Fähigkeiten von Apple Siri und Google Gemini gegenüber. Die Studie analysiert Stärken und Schwächen beider Systeme in verschiedenen Anwendungsbereichen wie Sprachverständnis und Aufgabenlösung. Die Ergebnisse geben Aufschluss über den aktuellen Stand der Entwicklung bei großen Tech-Unternehmen.",
+          "titel": "Model-Schau: Reasoning aus China, kleine Liquid-Modelle und neue Microsoft-Welt",
+          "zusammenfassung": "Heise online bietet einen Überblick über aktuelle Entwicklungen in der KI-Modelllandschaft, darunter Fortschritte im \"Reasoning\" aus China, die Entstehung kleinerer \"Liquid-Modelle\" und neue Initiativen von Microsoft. Dieser Artikel beleuchtet die Vielfalt und Dynamik der globalen KI-Forschung und -Entwicklung. Es zeigt, wie verschiedene Ansätze zur Verbesserung der KI-Leistungsfähigkeit verfolgt werden.",
           "einordnung": "",
-          "quelle": "Futurezone",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzN3Rnl1R2FNTlB6dEw2NWJqRmRNQkVuTlhJcGdPWC1WOFd1Y2N5RS1ZOW5LV3d1Si1xcUQtdkN6UWg5em5qRDZOLXFtZU5Xcm00SzlHbnJiZ3pERTFKV1F3OGMyTjdDdlV1T3BUVElObTRZZm5BZXZzSDh0aHNwaUIwcXJpZy1HZV9FcUtDSDZTOGI0d3JWbHZES19Na3ZZUVY5c1lWcmpsbVc3WW1hd1NwVVUzM25fbGYtUzVxc9IBxAFBVV95cUxPNlNjZjVmcE5RNmR0VmFES28zVzFpN2lWOWs5ZDE4cW1ZcFE2Zkd5VDZNWUFhd1RhS1hKX3dpQ1VFOHhfaXlUOXdkYTByRkJwMmE5LVFfOWRQMS1fcXZ4OGlNMGpOS1N3N1pZNHNwaWhkd205ZGl1SkIyZ0c3VjY2R3VBMG5NNDlELWJpbzl5SXM1cTA4RklUUzBvcWk4Zzk3ZGFraEY0X3U0bVFtQ3hVWkZtRFZVb3RiMVY5VTRma2VCb2oy?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGlXV0VDcm5Sa3o2ZDFMdkJ6MUV5cnh4QzlfcFd2dnJvRTktYjVGeTYwQmdlM1U3RmpvWThGaThvRERNNnNZbGhXWGJ3Q09ENTlwWEo1cW1YSlpGSC16ajN6bVFvTGduTW1KQ29nMkFzcV9TWXV1M1BTeVlrQnM5MFVBa0pfeGFza1pXXzhEcjczOUFsMm5TSGVYdGdzUGVNQ19jNFY2dy1sOGFzTTQxUDBqMjl2ZmExaWVRUnVaREdOZw?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Large Language Models: 12 GPT-Alternativen",
+          "zusammenfassung": "Die Computerwoche stellt 12 Alternativen zu GPT vor, die auf dem Markt für Large Language Models (LLMs) verfügbar sind. Dieser Überblick hilft Unternehmen und Entwicklern, die Vielfalt der existierenden Modelle zu verstehen und fundierte Entscheidungen bei der Auswahl einer passenden KI-Lösung zu treffen. Es unterstreicht die wachsende Konkurrenz und Spezialisierung im LLM-Bereich.",
+          "einordnung": "",
+          "quelle": "Computerwoche",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESLhXNHNyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
           "sterne": "⭐"
         },
         {
-          "titel": "Model-Schau: Reasoning aus China, kleine Liquid-Modelle und neue Microsoft-Welt",
-          "zusammenfassung": "Eine 'Model-Schau' beleuchtet aktuelle Trends in der KI-Modellentwicklung, darunter Fortschritte im Reasoning aus China und die Entstehung kleinerer, effizienterer 'Liquid-Modelle'. Der Artikel gibt auch Einblicke in die neuesten Entwicklungen aus der Microsoft-Welt. Dies zeigt die Vielfalt und Dynamik der globalen KI-Forschung.",
+          "titel": "Was sind große Sprachmodelle (LLM)?",
+          "zusammenfassung": "Databricks bietet eine grundlegende Erklärung darüber, was Large Language Models (LLMs) sind. Der Artikel beleuchtet ihre Funktionsweise, ihre Bedeutung und ihre potenziellen Anwendungen. Diese Einführung ist hilfreich für ein besseres Verständnis der Kerntechnologie, die viele der aktuellen KI-Entwicklungen antreibt.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGlXV0VDcm5Sa3o2ZDFMdkJ6MUV5cnh4QzlfcFd2dnJvRTktYjVGeTYwQmdlM1U3RmpvWThGaThvRERNNnNZbGhXWGJ3Q09ENTlwWEo1cW1YSlpGSC16ajN6dVFvTGduTW1KQ29nMkFzcV9TWXV1M1BTeVlrQnM5MFVBa0pfeGFza1pXXzhEcjczOUFsMm5TSGVYdGdzUGVNQ19jNFY2dy1sOGFzTTQxUDBqMjl2ZmExaWVRUnVaREdOZw?oc=5",
+          "quelle": "Databricks",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUEZqZTJ5RTktZHViZVpiSFZjbHcwZUU1d25KX1JsU3pPODlPNlpLMXY3cDRMV1RFUHlzc1EwWFpLOVhQZTNxQTZWcVY4VmF0SkhuOThtUmtGc2NhTW1zNktReGZETG9jVjdUNjNFblM2cEE?oc=5",
           "sterne": "⭐"
         }
       ]
     },
     {
-      "emoji": "🔒",
+      "emoji": "🛡️",
       "titel": "KI & Sicherheit",
       "fest": false,
       "artikel": [
         {
-          "titel": "KI-Modell Claude zitiert russisches Desinformations-Netz als Nachrichtenquelle - Studie zu KI",
-          "zusammenfassung": "Eine aktuelle Studie deckt auf, dass das KI-Modell Claude russische Desinformationsnetzwerke als Quellen für Nachrichten zitiert hat. Dies wirft ernsthafte Fragen bezüglich der Zuverlässigkeit und der potenziellen Verbreitung von Falschinformationen durch KI-Systeme auf. Der Vorfall unterstreicht die Notwendigkeit robusterer Mechanismen zur Quellprüfung in großen Sprachmodellen.",
+          "titel": "Claude Code: China warnt vor Hintertür in Anthropics KI-Tool",
+          "zusammenfassung": "China hat eine offizielle Warnung vor einer potenziellen Hintertür im KI-Tool \"Claude Code\" von Anthropic ausgesprochen. Diese Warnung deutet auf ernste Sicherheitsbedenken hin, die die Integrität und Vertrauenswürdigkeit des Modells beeinträchtigen könnten. Die Entdeckung einer solchen Schwachstelle könnte weitreichende Implikationen für die Nutzung von KI in kritischen Infrastrukturen haben.",
           "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbnlCc0tLMmF3Zy1adzdXN1ZOYlpVam0wd2dqTDdXU2FnMzBIZkhFSlpLaGx4X056ckZTOTJRZWlkcEdIZzVLaWlYcjlfWmtfTEgzT0xjNFoyMVpCbkhVbE01YVcxZ2pzRDlad0VybndTSEhNS0k3cXlUWENnZFFUajhySmNUNlY0Wkx5YU1JQlBuNGlkR3gwcWw0Mm95RUlMckhjTUxhSzNHQjVDRHktcGVaR1hWZ3kySWEtaVRUcEctWHFaamFjU3N5ZkJ5a2R6Z0VFc3VMd0JvNHBveU94bFpGUmpKNnh4REo5ZmxxTVp1TUVk?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "Telepolis",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc1lUd29KZ0hYS1J3YmhFZGZsTndicG1OV09DVlpoNXltNnJDaURZWFB6VnBBZ0stWUIzMDViVV81LVVVcXpoSlF0a2hzZkU1WVFFN3lYeEItdlFsNXR6LWRSSXJBd1hTb3NFUnplVHBvODIyaXRyeE5Rd3k1MkRwTEF6Z01jUjIySzg2Z2gtMXdZM3lRakxRajV0TXlUNDZQTldRTy1pQ2FncEk?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Claude Code: Sicherheitsforscher entdeckt versteckten Tracker – Anthropic nennt es „Experiment\"",
-          "zusammenfassung": "Ein Sicherheitsforscher hat einen versteckten Tracker im KI-Modell Claude Code von Anthropic entdeckt, den das Unternehmen als 'Experiment' bezeichnet. Diese Enthüllung wirft Fragen zum Datenschutz und zur Transparenz im Umgang mit Nutzerdaten auf. Anthropic steht nun unter Druck, die genaue Natur und den Zweck dieses Trackers zu erklären.",
+          "titel": "Nur Selbstschutz: Anthropic räumt Backdoor in Claude Code ein",
+          "zusammenfassung": "Anthropic hat die Existenz einer Hintertür im Claude Code eingeräumt, erklärt diese jedoch als \"Selbstschutz\"-Mechanismus. Diese Stellungnahme versucht, die Bedenken nach Chinas Warnung zu adressieren, wirft aber gleichzeitig Fragen nach der Transparenz und den ethischen Implikationen solcher Implementierungen auf. Die Begründung wird voraussichtlich weitere Diskussionen über KI-Sicherheit und -Vertrauen anfachen.",
           "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NQzZWMXp2RWtjOWZpMk50bHpENWtFcnQyNGQ2YnNMWkhxYXhoeU5KYm0tWURPcG9oc0tvR3BZUFN0cUtnUlBFZ0lvbEZhQkZjRFZsOHc5UERCYnNtM2ZvSFgwaw?oc=5",
+          "quelle": "WinFuture",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WNHpKRkRsSEZRZ3NPTUxUcWYtWHJ0X05QVjVmdk1mS21Pd0RfMXlnS2YzSkZobm8tRndJWWdDZTFxZlB6SHZ5UXZXTTFLQQ?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "China warnt vor Hintertür in KI-System Claude Code von Anthropic",
+          "zusammenfassung": "Die Berliner Zeitung berichtet ebenfalls über die Warnung Chinas vor einer Hintertür im KI-System Claude Code von Anthropic. Diese Meldung verstärkt die internationalen Bedenken hinsichtlich der Sicherheit und potenziellen Manipulation von fortschrittlichen KI-Modellen. Die wiederholte Berichterstattung unterstreicht die Dringlichkeit, Sicherheitslücken in KI-Systemen zu adressieren.",
+          "einordnung": "",
+          "quelle": "Berliner Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV01JZHZZRXlxTm96MWJIRjJwNVZYc3ZDdnU0RXNYbWY1ck9Cc1dza056TmNTNHNoLWJadWZYWVkzNU5xZkI2S2QzUDhOb1BVNlgzY1ptZVJMZWpRXzlzcUtvN2lfVktUcURzR0RaVWdLajdyeHl0ZHFuYkgyY1gxMjZMRmstLXhUaG5lbm1sQVpQVjJ0MzBEQ0E2djJoU0ZybXJQUUVmVWdSRl96X2Z2enpsUzk?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     },
     {
-      "emoji": "🗣️",
-      "titel": "KI in der Praxis: Kundenkommunikation",
+      "emoji": "📈",
+      "titel": "KI & Gesellschaft & Wirtschaft",
       "fest": false,
       "artikel": [
         {
-          "titel": "Deutsche Bahn: Bahn will Millionen in KI für Kundenkommunikation investieren",
-          "zusammenfassung": "Die Deutsche Bahn plant, Millionen Euro in Künstliche Intelligenz zu investieren, um ihre Kundenkommunikation zu verbessern. Ziel ist es, mithilfe von KI-gestützten Systemen den Service für Reisende effizienter und persönlicher zu gestalten. Diese Investition soll die Zufriedenheit der Fahrgäste signifikant steigern.",
+          "titel": "KI-Übersetzungen auf Amazon und YouTube – Zuschauer genervt",
+          "zusammenfassung": "KI-gestützte Übersetzungen auf Plattformen wie Amazon und YouTube stoßen zunehmend auf Kritik bei Nutzern. Viele Zuschauer empfinden die automatischen Übersetzungen als ungenau oder unnatürlich, was zu Frustration und einer Beeinträchtigung des Medienerlebnisses führt. Dies zeigt die Grenzen aktueller KI-Übersetzungstechnologien im Kontext von Unterhaltungsinhalten auf und deren gesellschaftliche Akzeptanz.",
           "einordnung": "",
-          "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU1yRVB0OE85TWJ5dlVhSUU3QmhwWV9UOXpVRHVGM2FWLWIyRkpVaVJLQ3BHdDQ0ZWoazRqUUlXMThxb01JWTZSN1VHbzlOQmtyYy1TMEhhZlg3MGpqNzBKTEFIcUo3emV5U3QzNVVkVnJWZDNSRG1wOHVJc0lWeVp2TFFjWUZUSVVCSDVYSWdqVHVObXBMZg?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "BASIC thinking",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVGdNT3pYX25tMnU2VGdYYWNGdWwzNW5wRDBHSjNCaUFrYnVKYkZrNUtyeGE5Q2tLSXRpY285WngxQUU5U2Etbk40SE5nTEVtY0pwVXRjYmNtdHB3MHB1UDUtR1ZNSHhiOVRpcWNLa0h1b0ZNOVkzTWhObWpRYmJ2LUFGR3dob01NZ2ZCNQ?oc=5",
+          "sterne": "⭐"
         },
         {
-          "titel": "KI-Gestützt: Deutsche Bahn investiert 50 Millionen zusätzlich in bessere Kommunikation",
-          "zusammenfassung": "Die Deutsche Bahn stockt ihre Investitionen in KI-gestützte Kommunikation um weitere 50 Millionen Euro auf. Mit dieser zusätzlichen Finanzspritze sollen innovative Technologien eingesetzt werden, um die Interaktion mit Kunden zu optimieren und die Servicequalität zu erhöhen. Die Maßnahme ist Teil einer umfassenden Digitalisierungsstrategie.",
+          "titel": "Nachfrage nach Privatjets: Boom rund um SpaceX und KI macht Tausende reich",
+          "zusammenfassung": "Der anhaltende Boom in den Tech-Sektoren, insbesondere rund um Raumfahrtunternehmen wie SpaceX und die rasante Entwicklung der Künstlichen Intelligenz, führt zu einem signifikanten Anstieg der Nachfrage nach Privatjets. Tausende von Menschen profitieren finanziell von diesen Entwicklungen und gehören zu einer neuen Generation von Reichen. Dies verdeutlicht die weitreichenden wirtschaftlichen Auswirkungen der KI-Revolution auf die Gesellschaft.",
           "einordnung": "",
-          "quelle": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQUNqendBR29Eb1dWcXcxV2N0aWVjYmV2d2VrcGZIem1HUXBwbEpFWDJ6bnRvVG90b2xTeE1OTGR3aUhxRmJuRm1ySTJZTEdnY2YwRkN4cVdESGRIekxhaFZoNTYzOHFkSmEyUGNnSXBMdWREYmx2cjJVeW10UlVFcVhoRU5HV0NoeTNBc1ZIUmphZW5uZndzSjQxaUdWRlJVZHZXLWV5RkZqU3loNGM3Mmc4ckdQZw?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHlvT3psaU00SnhBMVRiYmVZLVpGUk1SV2JCYU1zeVRRTXE4aVZBN2ZkUlU2clEzNWFWY3pKNHFkcVR3eXBybnpmbElWTkVzellUM2ZGUFhWV3MwXzY4RGgxY1BDZ0JaYl9sbVFieVdxU0pIVjdoaEVCbzRfUGsyN0NWdlFTMXd5bjY1ZlBHekhQblJoNFpDZTF3?oc=5",
+          "sterne": "⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-07-09T09:01:04.872Z",
+  "generiert_um": "2026-07-10T12:00:00.000Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
