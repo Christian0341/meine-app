@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-07-09T10:28:13.673855+00:00",
+  "aktualisiert": "2026-07-10T10:26:51.466456+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "Prof. Alex Smola: Das Problem mit KI-Benchmarks, Digital Humans, Jobverluste & Zukunft der KI",
+      "link": "https://www.youtube.com/watch?v=6Ur1B4uXJ7Q",
+      "video_id": "6Ur1B4uXJ7Q",
+      "thumbnail": "https://img.youtube.com/vi/6Ur1B4uXJ7Q/mqdefault.jpg",
+      "datum": "2026-07-09T15:15:20+00:00",
+      "datum_de": "09.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Wird KI deinen Job ersetzen? Die ehrliche Antwort",
+      "link": "https://www.youtube.com/watch?v=IifSv7dZlRw",
+      "video_id": "IifSv7dZlRw",
+      "thumbnail": "https://img.youtube.com/vi/IifSv7dZlRw/mqdefault.jpg",
+      "datum": "2026-07-09T12:00:01+00:00",
+      "datum_de": "09.07.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "KIOrbit",
       "titel": "Ich automatisiere langweilige Büroarbeit mit KI – n8n, Make &amp; Power Automate 2026",
@@ -93,6 +113,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "Calvin Hollywood (AI)",
+      "titel": "Claude Code für pure Anfänger (super einfach)",
+      "link": "https://www.youtube.com/watch?v=QKvLhDrrFmM",
+      "video_id": "QKvLhDrrFmM",
+      "thumbnail": "https://img.youtube.com/vi/QKvLhDrrFmM/mqdefault.jpg",
+      "datum": "2026-07-06T11:37:42Z",
+      "datum_de": "06.07.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "RexGod",
       "titel": "GEMINI vs CLAUDE: Sıfırdan Roblox&#39;ta FNAF Yapıyor!",
       "link": "https://www.youtube.com/watch?v=SDMIBL2rBZ4",
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/EI6hqXAV2TM/mqdefault.jpg",
       "datum": "2026-07-05T12:00:12Z",
       "datum_de": "05.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI-News: Chinas KI-Roboter werden ZU ECHT! + DAS kann das NEUE Fable 5 & Sonnet 5",
-      "link": "https://www.youtube.com/watch?v=-JCCcR9qtYQ",
-      "video_id": "-JCCcR9qtYQ",
-      "thumbnail": "https://img.youtube.com/vi/-JCCcR9qtYQ/mqdefault.jpg",
-      "datum": "2026-07-05T08:15:15+00:00",
-      "datum_de": "05.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "AI Mentors",
-      "titel": "Dieses kostenlose KI-Tool baut dir ein komplettes Business (Atoms Tutorial)",
-      "link": "https://www.youtube.com/watch?v=1us9lIKGiEs",
-      "video_id": "1us9lIKGiEs",
-      "thumbnail": "https://img.youtube.com/vi/1us9lIKGiEs/mqdefault.jpg",
-      "datum": "2026-07-05T07:30:22Z",
-      "datum_de": "05.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Wo Klicke Ich",
-      "titel": "Google bringt NotebookLM und Gemini zusammen – Das steckt hinter dem Update!",
-      "link": "https://www.youtube.com/watch?v=KiCyD7DqbRI",
-      "video_id": "KiCyD7DqbRI",
-      "thumbnail": "https://img.youtube.com/vi/KiCyD7DqbRI/mqdefault.jpg",
-      "datum": "2026-07-04T16:00:16Z",
-      "datum_de": "04.07.2026",
       "quelle": "suche"
     }
   ]
