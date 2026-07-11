@@ -1,10 +1,70 @@
 {
-  "aktualisiert": "2026-07-10T10:26:51.466456+00:00",
+  "aktualisiert": "2026-07-11T08:52:23.383062+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "AKIA Akademie für KI & Automation",
+      "titel": "Diese n8n-Automation sortiert deine Leads – bevor du überhaupt reinschaust [n8n Tutorial]",
+      "link": "https://www.youtube.com/watch?v=5EcnTkJy5h4",
+      "video_id": "5EcnTkJy5h4",
+      "thumbnail": "https://img.youtube.com/vi/5EcnTkJy5h4/mqdefault.jpg",
+      "datum": "2026-07-10T18:12:45Z",
+      "datum_de": "10.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "NANCY | Projects To Profit",
+      "titel": "Claude AI: 7 Funktionen, die 90% übersehen!",
+      "link": "https://www.youtube.com/watch?v=ja7uAo4-WXk",
+      "video_id": "ja7uAo4-WXk",
+      "thumbnail": "https://img.youtube.com/vi/ja7uAo4-WXk/mqdefault.jpg",
+      "datum": "2026-07-10T17:38:58Z",
+      "datum_de": "10.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Julian Ivanov | KI-Automatisierung",
+      "titel": "Claude Design 2.0: Das große Update in 16 Minuten",
+      "link": "https://www.youtube.com/watch?v=6wfRnmxL2-c",
+      "video_id": "6wfRnmxL2-c",
+      "thumbnail": "https://img.youtube.com/vi/6wfRnmxL2-c/mqdefault.jpg",
+      "datum": "2026-07-10T12:20:56Z",
+      "datum_de": "10.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Latzerus",
+      "titel": "Excel-Formel per ChatGPT auf Deutsch erklären und reparieren",
+      "link": "https://www.youtube.com/watch?v=erfglPEM4B4",
+      "video_id": "erfglPEM4B4",
+      "thumbnail": "https://img.youtube.com/vi/erfglPEM4B4/mqdefault.jpg",
+      "datum": "2026-07-10T10:45:59Z",
+      "datum_de": "10.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "ChatGPT 5.6 und GPT Work sind da: das musst du jetzt wissen!",
+      "link": "https://www.youtube.com/watch?v=AAR68t80BYA",
+      "video_id": "AAR68t80BYA",
+      "thumbnail": "https://img.youtube.com/vi/AAR68t80BYA/mqdefault.jpg",
+      "datum": "2026-07-10T10:40:19Z",
+      "datum_de": "10.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "MikesWorld",
+      "titel": "ChatGPT 5.6 ist da: Codex stürzt ab, Sol fehlt und Terra muss Fable schlagen 🚨",
+      "link": "https://www.youtube.com/watch?v=l6AQFrt2nxs",
+      "video_id": "l6AQFrt2nxs",
+      "thumbnail": "https://img.youtube.com/vi/l6AQFrt2nxs/mqdefault.jpg",
+      "datum": "2026-07-09T22:15:24Z",
+      "datum_de": "09.07.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Everlast AI",
-      "titel": "Prof. Alex Smola: Das Problem mit KI-Benchmarks, Digital Humans, Jobverluste & Zukunft der KI",
+      "titel": "Vergiss alle KI-Benchmarks! Darum belügen sie dich & DAS kommt als nächstes (Prof. Alex Smola)",
       "link": "https://www.youtube.com/watch?v=6Ur1B4uXJ7Q",
       "video_id": "6Ur1B4uXJ7Q",
       "thumbnail": "https://img.youtube.com/vi/6Ur1B4uXJ7Q/mqdefault.jpg",
@@ -53,6 +113,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "Viktor Oddy",
+      "titel": "Fable 5 + Claude Code Builds Award-Winning Websites on Autopilot",
+      "link": "https://www.youtube.com/watch?v=bhietcNpXw8",
+      "video_id": "bhietcNpXw8",
+      "thumbnail": "https://img.youtube.com/vi/bhietcNpXw8/mqdefault.jpg",
+      "datum": "2026-07-08T10:46:44Z",
+      "datum_de": "08.07.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "TechPuls",
       "titel": "Microsoft Copilot Deutsch: Das kann er wirklich",
       "link": "https://www.youtube.com/watch?v=SwWvZaJ3wwE",
@@ -81,76 +151,6 @@
       "datum": "2026-07-07T17:15:55+00:00",
       "datum_de": "07.07.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Hirnforscher: „DAS ist das ENDE der KI-Blase!\" Roboter, Bürojobs & die Wahrheit zur Singularität",
-      "link": "https://www.youtube.com/watch?v=lqwJza-EBiY",
-      "video_id": "lqwJza-EBiY",
-      "thumbnail": "https://img.youtube.com/vi/lqwJza-EBiY/mqdefault.jpg",
-      "datum": "2026-07-07T15:15:13+00:00",
-      "datum_de": "07.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Nils Harder",
-      "titel": "HERMES: Der KI-Agent, der DIR gehört (und täglich besser wird)",
-      "link": "https://www.youtube.com/watch?v=RkWjH4guzVw",
-      "video_id": "RkWjH4guzVw",
-      "thumbnail": "https://img.youtube.com/vi/RkWjH4guzVw/mqdefault.jpg",
-      "datum": "2026-07-07T15:14:07Z",
-      "datum_de": "07.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Ich hab Claude Fable Hogwarts erstellen lassen",
-      "link": "https://www.youtube.com/watch?v=FqOZvBBPGm0",
-      "video_id": "FqOZvBBPGm0",
-      "thumbnail": "https://img.youtube.com/vi/FqOZvBBPGm0/mqdefault.jpg",
-      "datum": "2026-07-06T18:26:09+00:00",
-      "datum_de": "06.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Calvin Hollywood (AI)",
-      "titel": "Claude Code für pure Anfänger (super einfach)",
-      "link": "https://www.youtube.com/watch?v=QKvLhDrrFmM",
-      "video_id": "QKvLhDrrFmM",
-      "thumbnail": "https://img.youtube.com/vi/QKvLhDrrFmM/mqdefault.jpg",
-      "datum": "2026-07-06T11:37:42Z",
-      "datum_de": "06.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "RexGod",
-      "titel": "GEMINI vs CLAUDE: Sıfırdan Roblox&#39;ta FNAF Yapıyor!",
-      "link": "https://www.youtube.com/watch?v=SDMIBL2rBZ4",
-      "video_id": "SDMIBL2rBZ4",
-      "thumbnail": "https://img.youtube.com/vi/SDMIBL2rBZ4/mqdefault.jpg",
-      "datum": "2026-07-05T19:18:24Z",
-      "datum_de": "05.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Claude Sonnet 5 ist LIVE und es ist VERRÜCKT GUT!",
-      "link": "https://www.youtube.com/watch?v=o2pXqFB6pBc",
-      "video_id": "o2pXqFB6pBc",
-      "thumbnail": "https://img.youtube.com/vi/o2pXqFB6pBc/mqdefault.jpg",
-      "datum": "2026-07-05T14:15:09+00:00",
-      "datum_de": "05.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KI Einfach Erklärt",
-      "titel": "Gemini 2 5 Pro SCHLÄGT ChatGPT! Googles KI Modell GETESTET   So nutzt du Gemini 2 5 Pro Deutsch",
-      "link": "https://www.youtube.com/watch?v=EI6hqXAV2TM",
-      "video_id": "EI6hqXAV2TM",
-      "thumbnail": "https://img.youtube.com/vi/EI6hqXAV2TM/mqdefault.jpg",
-      "datum": "2026-07-05T12:00:12Z",
-      "datum_de": "05.07.2026",
-      "quelle": "suche"
     }
   ]
 }
