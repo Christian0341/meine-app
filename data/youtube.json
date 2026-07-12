@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-07-11T08:52:23.383062+00:00",
+  "aktualisiert": "2026-07-12T09:07:32.029360+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "Krass: Das kann GPT-5.6 “Sol”! Das neue ChatGPT erklärt + DIESE Humanoide baut China (UBTech Live)",
+      "link": "https://www.youtube.com/watch?v=RWDsx8KxtX8",
+      "video_id": "RWDsx8KxtX8",
+      "thumbnail": "https://img.youtube.com/vi/RWDsx8KxtX8/mqdefault.jpg",
+      "datum": "2026-07-12T08:15:04+00:00",
+      "datum_de": "12.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Kowol-Service",
+      "titel": "Der Maschinenraum: Wie KI-Automatisierung wirklich funktioniert (eigener Server, n8n, 11 Agenten)",
+      "link": "https://www.youtube.com/watch?v=qhc4c9cegXk",
+      "video_id": "qhc4c9cegXk",
+      "thumbnail": "https://img.youtube.com/vi/qhc4c9cegXk/mqdefault.jpg",
+      "datum": "2026-07-11T14:13:54Z",
+      "datum_de": "11.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "GPT-5.6 ist also auf \"Mythos-Niveau\"?",
+      "link": "https://www.youtube.com/watch?v=VrJP9hmh4NQ",
+      "video_id": "VrJP9hmh4NQ",
+      "thumbnail": "https://img.youtube.com/vi/VrJP9hmh4NQ/mqdefault.jpg",
+      "datum": "2026-07-11T10:54:27+00:00",
+      "datum_de": "11.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Calvin Hollywood (AI)",
+      "titel": "Das kann Claude Code (ohne Extratools) *heftig",
+      "link": "https://www.youtube.com/watch?v=-OsIGmaTgH0",
+      "video_id": "-OsIGmaTgH0",
+      "thumbnail": "https://img.youtube.com/vi/-OsIGmaTgH0/mqdefault.jpg",
+      "datum": "2026-07-11T07:40:36Z",
+      "datum_de": "11.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Rafael Zeier",
+      "titel": "Jetzt wird&#39;s wild! Apple verklagt OpenAI!",
+      "link": "https://www.youtube.com/watch?v=jZmgE9KcL4c",
+      "video_id": "jZmgE9KcL4c",
+      "thumbnail": "https://img.youtube.com/vi/jZmgE9KcL4c/mqdefault.jpg",
+      "datum": "2026-07-11T06:29:00Z",
+      "datum_de": "11.07.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "AKIA Akademie für KI & Automation",
       "titel": "Diese n8n-Automation sortiert deine Leads – bevor du überhaupt reinschaust [n8n Tutorial]",
@@ -24,7 +74,7 @@
     },
     {
       "kanal": "Julian Ivanov | KI-Automatisierung",
-      "titel": "Claude Design 2.0: Das große Update in 16 Minuten",
+      "titel": "Claude Design 2.0 ist ÜBERRAGEND! (Komplettes Tutorial)",
       "link": "https://www.youtube.com/watch?v=6wfRnmxL2-c",
       "video_id": "6wfRnmxL2-c",
       "thumbnail": "https://img.youtube.com/vi/6wfRnmxL2-c/mqdefault.jpg",
@@ -63,6 +113,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Digitale Profis",
+      "titel": "Meta macht aus deinen Instagram-Fotos KI-Fakes, OpenAI bringt GPT-5.6 &amp; neuen Sprachmodus | KI-News",
+      "link": "https://www.youtube.com/watch?v=zJG0EwD4Nw0",
+      "video_id": "zJG0EwD4Nw0",
+      "thumbnail": "https://img.youtube.com/vi/zJG0EwD4Nw0/mqdefault.jpg",
+      "datum": "2026-07-09T16:00:08Z",
+      "datum_de": "09.07.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Everlast AI",
       "titel": "Vergiss alle KI-Benchmarks! Darum belügen sie dich & DAS kommt als nächstes (Prof. Alex Smola)",
       "link": "https://www.youtube.com/watch?v=6Ur1B4uXJ7Q",
@@ -91,66 +151,6 @@
       "datum": "2026-07-08T17:00:05Z",
       "datum_de": "08.07.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Niklas AI",
-      "titel": "Dieses CLAUDE-System erstellt deinen Social Media Content automatisch!",
-      "link": "https://www.youtube.com/watch?v=Vopx1hjZBcE",
-      "video_id": "Vopx1hjZBcE",
-      "thumbnail": "https://img.youtube.com/vi/Vopx1hjZBcE/mqdefault.jpg",
-      "datum": "2026-07-08T15:18:46Z",
-      "datum_de": "08.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "HÖR AUF Tutorials zu schauen - So 10x du deine Claude Projekte",
-      "link": "https://www.youtube.com/watch?v=QUbDs1cZfVA",
-      "video_id": "QUbDs1cZfVA",
-      "thumbnail": "https://img.youtube.com/vi/QUbDs1cZfVA/mqdefault.jpg",
-      "datum": "2026-07-08T14:15:15+00:00",
-      "datum_de": "08.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Viktor Oddy",
-      "titel": "Fable 5 + Claude Code Builds Award-Winning Websites on Autopilot",
-      "link": "https://www.youtube.com/watch?v=bhietcNpXw8",
-      "video_id": "bhietcNpXw8",
-      "thumbnail": "https://img.youtube.com/vi/bhietcNpXw8/mqdefault.jpg",
-      "datum": "2026-07-08T10:46:44Z",
-      "datum_de": "08.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "TechPuls",
-      "titel": "Microsoft Copilot Deutsch: Das kann er wirklich",
-      "link": "https://www.youtube.com/watch?v=SwWvZaJ3wwE",
-      "video_id": "SwWvZaJ3wwE",
-      "thumbnail": "https://img.youtube.com/vi/SwWvZaJ3wwE/mqdefault.jpg",
-      "datum": "2026-07-08T07:14:35Z",
-      "datum_de": "08.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KIOrbit",
-      "titel": "ChatGPT meistern in 30 Minuten: Die besten Prompts &amp; Tricks für Anfänger",
-      "link": "https://www.youtube.com/watch?v=QA4Cc5vpPkE",
-      "video_id": "QA4Cc5vpPkE",
-      "thumbnail": "https://img.youtube.com/vi/QA4Cc5vpPkE/mqdefault.jpg",
-      "datum": "2026-07-07T17:55:12Z",
-      "datum_de": "07.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Welche KI in 2026? Chatbots, Agents, Apps im Überblick!",
-      "link": "https://www.youtube.com/watch?v=zNuynCOm5Mc",
-      "video_id": "zNuynCOm5Mc",
-      "thumbnail": "https://img.youtube.com/vi/zNuynCOm5Mc/mqdefault.jpg",
-      "datum": "2026-07-07T17:15:55+00:00",
-      "datum_de": "07.07.2026",
-      "quelle": "kanal"
     }
   ]
 }
