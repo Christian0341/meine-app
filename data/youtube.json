@@ -1,10 +1,20 @@
 {
-  "aktualisiert": "2026-07-12T09:07:32.029360+00:00",
+  "aktualisiert": "2026-07-13T10:32:18.076899+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "Sascha Taschan",
+      "titel": "Das BESTE ChatGPT Update: Besser als Fable 5?!",
+      "link": "https://www.youtube.com/watch?v=A9bGNKgfywQ",
+      "video_id": "A9bGNKgfywQ",
+      "thumbnail": "https://img.youtube.com/vi/A9bGNKgfywQ/mqdefault.jpg",
+      "datum": "2026-07-12T14:15:26+00:00",
+      "datum_de": "12.07.2026",
+      "quelle": "kanal"
+    },
+    {
       "kanal": "Everlast AI",
-      "titel": "Krass: Das kann GPT-5.6 “Sol”! Das neue ChatGPT erklärt + DIESE Humanoide baut China (UBTech Live)",
+      "titel": "Dieses ChatGPT Update ändert ALLES! Das musst du JETZT wissen + Humanoide Roboter LIVE in China",
       "link": "https://www.youtube.com/watch?v=RWDsx8KxtX8",
       "video_id": "RWDsx8KxtX8",
       "thumbnail": "https://img.youtube.com/vi/RWDsx8KxtX8/mqdefault.jpg",
@@ -103,6 +113,36 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Fantum",
+      "titel": "ChatGPT 5.6 ist GEISTESKRANK (Neue stärkste KI)",
+      "link": "https://www.youtube.com/watch?v=ZJ0RfzwODL4",
+      "video_id": "ZJ0RfzwODL4",
+      "thumbnail": "https://img.youtube.com/vi/ZJ0RfzwODL4/mqdefault.jpg",
+      "datum": "2026-07-10T10:00:30Z",
+      "datum_de": "10.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Alexander Führen",
+      "titel": "ChatGPT 5.6 - Die wichtigsten Neuerungen im Überblick!",
+      "link": "https://www.youtube.com/watch?v=wSBBCe9PAu0",
+      "video_id": "wSBBCe9PAu0",
+      "thumbnail": "https://img.youtube.com/vi/wSBBCe9PAu0/mqdefault.jpg",
+      "datum": "2026-07-10T09:59:37Z",
+      "datum_de": "10.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Rob The AI Guy",
+      "titel": "ChatGPT’s New Updates Are MIND BLOWING! (ChatGPT Work, Plugins &amp; GPT 5.6 Upgrade)",
+      "link": "https://www.youtube.com/watch?v=NLg8LomwLC8",
+      "video_id": "NLg8LomwLC8",
+      "thumbnail": "https://img.youtube.com/vi/NLg8LomwLC8/mqdefault.jpg",
+      "datum": "2026-07-09T22:23:01Z",
+      "datum_de": "09.07.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "MikesWorld",
       "titel": "ChatGPT 5.6 ist da: Codex stürzt ab, Sol fehlt und Terra muss Fable schlagen 🚨",
       "link": "https://www.youtube.com/watch?v=l6AQFrt2nxs",
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/l6AQFrt2nxs/mqdefault.jpg",
       "datum": "2026-07-09T22:15:24Z",
       "datum_de": "09.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Digitale Profis",
-      "titel": "Meta macht aus deinen Instagram-Fotos KI-Fakes, OpenAI bringt GPT-5.6 &amp; neuen Sprachmodus | KI-News",
-      "link": "https://www.youtube.com/watch?v=zJG0EwD4Nw0",
-      "video_id": "zJG0EwD4Nw0",
-      "thumbnail": "https://img.youtube.com/vi/zJG0EwD4Nw0/mqdefault.jpg",
-      "datum": "2026-07-09T16:00:08Z",
-      "datum_de": "09.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Vergiss alle KI-Benchmarks! Darum belügen sie dich & DAS kommt als nächstes (Prof. Alex Smola)",
-      "link": "https://www.youtube.com/watch?v=6Ur1B4uXJ7Q",
-      "video_id": "6Ur1B4uXJ7Q",
-      "thumbnail": "https://img.youtube.com/vi/6Ur1B4uXJ7Q/mqdefault.jpg",
-      "datum": "2026-07-09T15:15:20+00:00",
-      "datum_de": "09.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Wird KI deinen Job ersetzen? Die ehrliche Antwort",
-      "link": "https://www.youtube.com/watch?v=IifSv7dZlRw",
-      "video_id": "IifSv7dZlRw",
-      "thumbnail": "https://img.youtube.com/vi/IifSv7dZlRw/mqdefault.jpg",
-      "datum": "2026-07-09T12:00:01+00:00",
-      "datum_de": "09.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KIOrbit",
-      "titel": "Ich automatisiere langweilige Büroarbeit mit KI – n8n, Make &amp; Power Automate 2026",
-      "link": "https://www.youtube.com/watch?v=l1uPiuWz7_w",
-      "video_id": "l1uPiuWz7_w",
-      "thumbnail": "https://img.youtube.com/vi/l1uPiuWz7_w/mqdefault.jpg",
-      "datum": "2026-07-08T17:00:05Z",
-      "datum_de": "08.07.2026",
       "quelle": "suche"
     }
   ]
