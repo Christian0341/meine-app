@@ -1,10 +1,20 @@
 {
-  "aktualisiert": "2026-07-13T10:32:18.076899+00:00",
+  "aktualisiert": "2026-07-14T09:09:13.886434+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "Akademie4KI",
+      "titel": "ChatGPT 5.6 Sol ändert alles! OpenAI schlägt zurück",
+      "link": "https://www.youtube.com/watch?v=1DsJAwU7i8c",
+      "video_id": "1DsJAwU7i8c",
+      "thumbnail": "https://img.youtube.com/vi/1DsJAwU7i8c/mqdefault.jpg",
+      "datum": "2026-07-13T12:00:37+00:00",
+      "datum_de": "13.07.2026",
+      "quelle": "kanal"
+    },
+    {
       "kanal": "Sascha Taschan",
-      "titel": "Das BESTE ChatGPT Update: Besser als Fable 5?!",
+      "titel": "Ich habe das NEUE ChatGPT 5.6 gegen Fable 5 getestet!",
       "link": "https://www.youtube.com/watch?v=A9bGNKgfywQ",
       "video_id": "A9bGNKgfywQ",
       "thumbnail": "https://img.youtube.com/vi/A9bGNKgfywQ/mqdefault.jpg",
@@ -139,16 +149,6 @@
       "video_id": "NLg8LomwLC8",
       "thumbnail": "https://img.youtube.com/vi/NLg8LomwLC8/mqdefault.jpg",
       "datum": "2026-07-09T22:23:01Z",
-      "datum_de": "09.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "MikesWorld",
-      "titel": "ChatGPT 5.6 ist da: Codex stürzt ab, Sol fehlt und Terra muss Fable schlagen 🚨",
-      "link": "https://www.youtube.com/watch?v=l6AQFrt2nxs",
-      "video_id": "l6AQFrt2nxs",
-      "thumbnail": "https://img.youtube.com/vi/l6AQFrt2nxs/mqdefault.jpg",
-      "datum": "2026-07-09T22:15:24Z",
       "datum_de": "09.07.2026",
       "quelle": "suche"
     }
