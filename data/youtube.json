@@ -1,7 +1,67 @@
 {
-  "aktualisiert": "2026-07-15T09:14:21.695138+00:00",
+  "aktualisiert": "2026-07-16T09:20:10.661928+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Jonas Keil",
+      "titel": "ChatGPT Work ist GENIAL! So nutzt du es als Anfänger (in 20 min)",
+      "link": "https://www.youtube.com/watch?v=2x_-YgGMoZk",
+      "video_id": "2x_-YgGMoZk",
+      "thumbnail": "https://img.youtube.com/vi/2x_-YgGMoZk/mqdefault.jpg",
+      "datum": "2026-07-15T19:27:10Z",
+      "datum_de": "15.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "HardReset_info Deutsch",
+      "titel": "Dateien in Google AI Studio laden – Super‑Context mit Gemini einfach erklärt",
+      "link": "https://www.youtube.com/watch?v=Bp0CaUapm2I",
+      "video_id": "Bp0CaUapm2I",
+      "thumbnail": "https://img.youtube.com/vi/Bp0CaUapm2I/mqdefault.jpg",
+      "datum": "2026-07-15T16:51:16Z",
+      "datum_de": "15.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Wieso KI „Second Brains” SCHEITERN & was wirklich funktioniert (Vortrag Leonard Schmedding)",
+      "link": "https://www.youtube.com/watch?v=81pDusm5nZE",
+      "video_id": "81pDusm5nZE",
+      "thumbnail": "https://img.youtube.com/vi/81pDusm5nZE/mqdefault.jpg",
+      "datum": "2026-07-15T15:15:09+00:00",
+      "datum_de": "15.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Hör auf Claude OHNE ein Agentic Operating System zu nutzen!",
+      "link": "https://www.youtube.com/watch?v=a4cCacD84iM",
+      "video_id": "a4cCacD84iM",
+      "thumbnail": "https://img.youtube.com/vi/a4cCacD84iM/mqdefault.jpg",
+      "datum": "2026-07-15T14:15:17+00:00",
+      "datum_de": "15.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "explain it simple - Erklärvideos",
+      "titel": "KI-Video kostenlos erstellen: Schritt-für-Schritt-Anleitung mit ChatGPT, CapCut &amp; Canva",
+      "link": "https://www.youtube.com/watch?v=R0GVPEmYKWc",
+      "video_id": "R0GVPEmYKWc",
+      "thumbnail": "https://img.youtube.com/vi/R0GVPEmYKWc/mqdefault.jpg",
+      "datum": "2026-07-15T13:40:36Z",
+      "datum_de": "15.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Julian Ivanov | KI-Automatisierung",
+      "titel": "Der wichtigste Skill bei der Arbeit mit Claude Code",
+      "link": "https://www.youtube.com/watch?v=hsZFm-ywrBg",
+      "video_id": "hsZFm-ywrBg",
+      "thumbnail": "https://img.youtube.com/vi/hsZFm-ywrBg/mqdefault.jpg",
+      "datum": "2026-07-15T13:32:43Z",
+      "datum_de": "15.07.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "MikesWorld",
       "titel": "Hermes bekommt ein Kontrollzentrum: So steuerst du deinen KI-Agenten wie ein echtes Team 🤯",
@@ -90,66 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/YTa02tmn0wY/mqdefault.jpg",
       "datum": "2026-07-12T09:49:18Z",
       "datum_de": "12.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Dieses ChatGPT Update ändert ALLES! Das musst du JETZT wissen + Humanoide Roboter LIVE in China",
-      "link": "https://www.youtube.com/watch?v=RWDsx8KxtX8",
-      "video_id": "RWDsx8KxtX8",
-      "thumbnail": "https://img.youtube.com/vi/RWDsx8KxtX8/mqdefault.jpg",
-      "datum": "2026-07-12T08:15:04+00:00",
-      "datum_de": "12.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Kowol-Service",
-      "titel": "Der Maschinenraum: Wie KI-Automatisierung wirklich funktioniert (eigener Server, n8n, 11 Agenten)",
-      "link": "https://www.youtube.com/watch?v=qhc4c9cegXk",
-      "video_id": "qhc4c9cegXk",
-      "thumbnail": "https://img.youtube.com/vi/qhc4c9cegXk/mqdefault.jpg",
-      "datum": "2026-07-11T14:13:54Z",
-      "datum_de": "11.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "GPT-5.6 ist also auf \"Mythos-Niveau\"?",
-      "link": "https://www.youtube.com/watch?v=VrJP9hmh4NQ",
-      "video_id": "VrJP9hmh4NQ",
-      "thumbnail": "https://img.youtube.com/vi/VrJP9hmh4NQ/mqdefault.jpg",
-      "datum": "2026-07-11T10:54:27+00:00",
-      "datum_de": "11.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Calvin Hollywood (AI)",
-      "titel": "Das kann Claude Code (ohne Extratools) *heftig",
-      "link": "https://www.youtube.com/watch?v=-OsIGmaTgH0",
-      "video_id": "-OsIGmaTgH0",
-      "thumbnail": "https://img.youtube.com/vi/-OsIGmaTgH0/mqdefault.jpg",
-      "datum": "2026-07-11T07:40:36Z",
-      "datum_de": "11.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Rafael Zeier",
-      "titel": "Jetzt wird&#39;s wild! Apple verklagt OpenAI!",
-      "link": "https://www.youtube.com/watch?v=jZmgE9KcL4c",
-      "video_id": "jZmgE9KcL4c",
-      "thumbnail": "https://img.youtube.com/vi/jZmgE9KcL4c/mqdefault.jpg",
-      "datum": "2026-07-11T06:29:00Z",
-      "datum_de": "11.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "AKIA Akademie für KI & Automation",
-      "titel": "Diese n8n-Automation sortiert deine Leads – bevor du überhaupt reinschaust [n8n Tutorial]",
-      "link": "https://www.youtube.com/watch?v=5EcnTkJy5h4",
-      "video_id": "5EcnTkJy5h4",
-      "thumbnail": "https://img.youtube.com/vi/5EcnTkJy5h4/mqdefault.jpg",
-      "datum": "2026-07-10T18:12:45Z",
-      "datum_de": "10.07.2026",
       "quelle": "suche"
     }
   ]
