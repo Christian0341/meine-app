@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-07-16T09:20:10.661928+00:00",
+  "aktualisiert": "2026-07-17T09:14:34.296811+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-Forscher schlägt ALARM: „Wir haben noch 18 Monate!” Niemand sieht es kommen (Connor Leahy)",
+      "link": "https://www.youtube.com/watch?v=XhvLvqSd8VE",
+      "video_id": "XhvLvqSd8VE",
+      "thumbnail": "https://img.youtube.com/vi/XhvLvqSd8VE/mqdefault.jpg",
+      "datum": "2026-07-16T15:15:19+00:00",
+      "datum_de": "16.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Danny | KI einfach erklärt",
+      "titel": "Gemini und Datenschutz: Diese 7 Fehler solltest du vermeiden",
+      "link": "https://www.youtube.com/watch?v=MXXzFYrphn0",
+      "video_id": "MXXzFYrphn0",
+      "thumbnail": "https://img.youtube.com/vi/MXXzFYrphn0/mqdefault.jpg",
+      "datum": "2026-07-16T12:00:08Z",
+      "datum_de": "16.07.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Jonas Keil",
       "titel": "ChatGPT Work ist GENIAL! So nutzt du es als Anfänger (in 20 min)",
@@ -34,7 +54,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Hör auf Claude OHNE ein Agentic Operating System zu nutzen!",
+      "titel": "Nach diesem Video willst du Claude nie wieder ohne ein Agentic OS nutzen!",
       "link": "https://www.youtube.com/watch?v=a4cCacD84iM",
       "video_id": "a4cCacD84iM",
       "thumbnail": "https://img.youtube.com/vi/a4cCacD84iM/mqdefault.jpg",
@@ -43,18 +63,8 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "explain it simple - Erklärvideos",
-      "titel": "KI-Video kostenlos erstellen: Schritt-für-Schritt-Anleitung mit ChatGPT, CapCut &amp; Canva",
-      "link": "https://www.youtube.com/watch?v=R0GVPEmYKWc",
-      "video_id": "R0GVPEmYKWc",
-      "thumbnail": "https://img.youtube.com/vi/R0GVPEmYKWc/mqdefault.jpg",
-      "datum": "2026-07-15T13:40:36Z",
-      "datum_de": "15.07.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Julian Ivanov | KI-Automatisierung",
-      "titel": "Der wichtigste Skill bei der Arbeit mit Claude Code",
+      "titel": "Dieser Skill hat meine Arbeit mit Claude Code verändert",
       "link": "https://www.youtube.com/watch?v=hsZFm-ywrBg",
       "video_id": "hsZFm-ywrBg",
       "thumbnail": "https://img.youtube.com/vi/hsZFm-ywrBg/mqdefault.jpg",
@@ -139,16 +149,6 @@
       "video_id": "M4lTcz2t4_s",
       "thumbnail": "https://img.youtube.com/vi/M4lTcz2t4_s/mqdefault.jpg",
       "datum": "2026-07-12T12:55:12Z",
-      "datum_de": "12.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Digitale Profis",
-      "titel": "Das größte ChatGPT Update aller Zeiten: Neues Modell, neuer Agent, neue App, neuer Sprachmodus!",
-      "link": "https://www.youtube.com/watch?v=YTa02tmn0wY",
-      "video_id": "YTa02tmn0wY",
-      "thumbnail": "https://img.youtube.com/vi/YTa02tmn0wY/mqdefault.jpg",
-      "datum": "2026-07-12T09:49:18Z",
       "datum_de": "12.07.2026",
       "quelle": "suche"
     }
