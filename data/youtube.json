@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-07-19T09:08:21.348167+00:00",
+  "aktualisiert": "2026-07-20T10:17:30.630154+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "GameDevBase",
+      "titel": "2D Idle Animation mit Claude Code erstellen – Pixel Art animieren mit Aseprite &amp; Unity",
+      "link": "https://www.youtube.com/watch?v=iV6AQUG_rrc",
+      "video_id": "iV6AQUG_rrc",
+      "thumbnail": "https://img.youtube.com/vi/iV6AQUG_rrc/mqdefault.jpg",
+      "datum": "2026-07-19T16:00:23Z",
+      "datum_de": "19.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Ich habe das größte Problem beim Loop Engineering gelöst! ",
+      "link": "https://www.youtube.com/watch?v=dH978IvKSG8",
+      "video_id": "dH978IvKSG8",
+      "thumbnail": "https://img.youtube.com/vi/dH978IvKSG8/mqdefault.jpg",
+      "datum": "2026-07-19T14:15:29+00:00",
+      "datum_de": "19.07.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "China schockt die Welt: DAS ist der nächste DeepSeek Moment! + Neue Kampf-Roboter LIVE aus Shenzhen",
@@ -104,7 +124,7 @@
     },
     {
       "kanal": "Christoph Magnussen",
-      "titel": "Die Hälfte des Internets ist KI-Content und keiner will ihn lesen | Dr. Paul Elvers, FUNKE",
+      "titel": "Die Hälfte des Internets ist KI-CONTENT und KEINER will ihn lesen! 🌐❌",
       "link": "https://www.youtube.com/watch?v=Ba7LQS8XEgY",
       "video_id": "Ba7LQS8XEgY",
       "thumbnail": "https://img.youtube.com/vi/Ba7LQS8XEgY/mqdefault.jpg",
@@ -130,26 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/WINmmdJHxpU/mqdefault.jpg",
       "datum": "2026-07-17T07:23:06Z",
       "datum_de": "17.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI-Forscher schlägt ALARM: „Wir haben noch 18 Monate!” Niemand sieht es kommen (Connor Leahy)",
-      "link": "https://www.youtube.com/watch?v=XhvLvqSd8VE",
-      "video_id": "XhvLvqSd8VE",
-      "thumbnail": "https://img.youtube.com/vi/XhvLvqSd8VE/mqdefault.jpg",
-      "datum": "2026-07-16T15:15:19+00:00",
-      "datum_de": "16.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Jonas Keil",
-      "titel": "ChatGPT Work ist GENIAL! So nutzt du es als Anfänger (in 20 min)",
-      "link": "https://www.youtube.com/watch?v=2x_-YgGMoZk",
-      "video_id": "2x_-YgGMoZk",
-      "thumbnail": "https://img.youtube.com/vi/2x_-YgGMoZk/mqdefault.jpg",
-      "datum": "2026-07-15T19:27:10Z",
-      "datum_de": "15.07.2026",
       "quelle": "suche"
     }
   ]
