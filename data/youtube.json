@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-07-20T10:17:30.630154+00:00",
+  "aktualisiert": "2026-07-21T09:31:41.785531+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Mein ARBEITSTAG mit KI 2026: ChatGPT, Claude & Co.!",
+      "link": "https://www.youtube.com/watch?v=4m6qbh_aVY0",
+      "video_id": "4m6qbh_aVY0",
+      "thumbnail": "https://img.youtube.com/vi/4m6qbh_aVY0/mqdefault.jpg",
+      "datum": "2026-07-20T17:03:31+00:00",
+      "datum_de": "20.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Felicia Simon",
+      "titel": "Claude baut ganze Brand in unter 5 Minuten 🤯 mit Logo, Produktfotos, UGC Content &amp; KI Videos",
+      "link": "https://www.youtube.com/watch?v=0mfnvKuqmFI",
+      "video_id": "0mfnvKuqmFI",
+      "thumbnail": "https://img.youtube.com/vi/0mfnvKuqmFI/mqdefault.jpg",
+      "datum": "2026-07-20T15:41:25Z",
+      "datum_de": "20.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI Werkzeugkasten",
+      "titel": "ChatGPT löscht eigenmächtig Dateien — So schützt du dein Business vor KI-Pannen",
+      "link": "https://www.youtube.com/watch?v=UkOF25WXg5E",
+      "video_id": "UkOF25WXg5E",
+      "thumbnail": "https://img.youtube.com/vi/UkOF25WXg5E/mqdefault.jpg",
+      "datum": "2026-07-20T14:46:13Z",
+      "datum_de": "20.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Unfairer Vorteil | KI",
+      "titel": "Die beste kostenlose KI App ist jetzt NOCH besser (Gemini Notebook - in 3 Minuten)",
+      "link": "https://www.youtube.com/watch?v=FLdQdk5V3B4",
+      "video_id": "FLdQdk5V3B4",
+      "thumbnail": "https://img.youtube.com/vi/FLdQdk5V3B4/mqdefault.jpg",
+      "datum": "2026-07-20T11:32:27Z",
+      "datum_de": "20.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Marc De Fanti",
+      "titel": "Das ist die neue ChatGPT Work Funktion",
+      "link": "https://www.youtube.com/watch?v=Cts3EOxgg3c",
+      "video_id": "Cts3EOxgg3c",
+      "thumbnail": "https://img.youtube.com/vi/Cts3EOxgg3c/mqdefault.jpg",
+      "datum": "2026-07-20T09:00:37Z",
+      "datum_de": "20.07.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "GameDevBase",
       "titel": "2D Idle Animation mit Claude Code erstellen – Pixel Art animieren mit Aseprite &amp; Unity",
@@ -93,16 +143,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "IchBinFabian",
-      "titel": "ZCode im Test: GLM 5.2 gratis statt 200 Euro Claude Code? Wo ist der Haken",
-      "link": "https://www.youtube.com/watch?v=44m-8e7EwiA",
-      "video_id": "44m-8e7EwiA",
-      "thumbnail": "https://img.youtube.com/vi/44m-8e7EwiA/mqdefault.jpg",
-      "datum": "2026-07-17T12:45:23Z",
-      "datum_de": "17.07.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Akademie4KI",
       "titel": "Claude Design 2.0 ist der WAHNSINN! Alles wichtige in 10 Minuten erklärt",
       "link": "https://www.youtube.com/watch?v=NTDmPtrB4JY",
@@ -111,46 +151,6 @@
       "datum": "2026-07-17T12:00:39+00:00",
       "datum_de": "17.07.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Livestream KI ist da, OpenAIs erste Hardware, Kimi K3 | KI News",
-      "link": "https://www.youtube.com/watch?v=0V_PFIMEOQM",
-      "video_id": "0V_PFIMEOQM",
-      "thumbnail": "https://img.youtube.com/vi/0V_PFIMEOQM/mqdefault.jpg",
-      "datum": "2026-07-17T10:56:39Z",
-      "datum_de": "17.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Die Hälfte des Internets ist KI-CONTENT und KEINER will ihn lesen! 🌐❌",
-      "link": "https://www.youtube.com/watch?v=Ba7LQS8XEgY",
-      "video_id": "Ba7LQS8XEgY",
-      "thumbnail": "https://img.youtube.com/vi/Ba7LQS8XEgY/mqdefault.jpg",
-      "datum": "2026-07-17T10:00:06+00:00",
-      "datum_de": "17.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Patrick David ",
-      "titel": "ChatGPT Work – diese NEUE Funktionen verändern alles",
-      "link": "https://www.youtube.com/watch?v=FaZ6gtklqjM",
-      "video_id": "FaZ6gtklqjM",
-      "thumbnail": "https://img.youtube.com/vi/FaZ6gtklqjM/mqdefault.jpg",
-      "datum": "2026-07-17T09:49:24Z",
-      "datum_de": "17.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Unfairer Vorteil | KI",
-      "titel": "Claude in Gefahr? ChatGPT Work einfach erklärt (in 5 Minuten)",
-      "link": "https://www.youtube.com/watch?v=WINmmdJHxpU",
-      "video_id": "WINmmdJHxpU",
-      "thumbnail": "https://img.youtube.com/vi/WINmmdJHxpU/mqdefault.jpg",
-      "datum": "2026-07-17T07:23:06Z",
-      "datum_de": "17.07.2026",
-      "quelle": "suche"
     }
   ]
 }
