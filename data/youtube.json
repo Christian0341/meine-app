@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-07-21T09:31:41.785531+00:00",
+  "aktualisiert": "2026-07-22T09:31:24.952443+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "DAS kommt nach KI-Agenten: Die nächste Stufe der KI beginnt JETZT",
+      "link": "https://www.youtube.com/watch?v=qtte0zpnGks",
+      "video_id": "qtte0zpnGks",
+      "thumbnail": "https://img.youtube.com/vi/qtte0zpnGks/mqdefault.jpg",
+      "datum": "2026-07-21T15:15:34+00:00",
+      "datum_de": "21.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Das ist der Deepseek 2.0 Moment",
+      "link": "https://www.youtube.com/watch?v=vqNvkkhyEms",
+      "video_id": "vqNvkkhyEms",
+      "thumbnail": "https://img.youtube.com/vi/vqNvkkhyEms/mqdefault.jpg",
+      "datum": "2026-07-21T14:03:27+00:00",
+      "datum_de": "21.07.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "Mein ARBEITSTAG mit KI 2026: ChatGPT, Claude & Co.!",
@@ -131,26 +151,6 @@
       "datum": "2026-07-18T08:11:17Z",
       "datum_de": "18.07.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Ich bin der KI Insider",
-      "titel": "KI-Tools kostenlos: Diese 5 brauchst du 2026 nicht bezahlen",
-      "link": "https://www.youtube.com/watch?v=zObUkGBGhRI",
-      "video_id": "zObUkGBGhRI",
-      "thumbnail": "https://img.youtube.com/vi/zObUkGBGhRI/mqdefault.jpg",
-      "datum": "2026-07-17T17:10:20Z",
-      "datum_de": "17.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Claude Design 2.0 ist der WAHNSINN! Alles wichtige in 10 Minuten erklärt",
-      "link": "https://www.youtube.com/watch?v=NTDmPtrB4JY",
-      "video_id": "NTDmPtrB4JY",
-      "thumbnail": "https://img.youtube.com/vi/NTDmPtrB4JY/mqdefault.jpg",
-      "datum": "2026-07-17T12:00:39+00:00",
-      "datum_de": "17.07.2026",
-      "quelle": "kanal"
     }
   ]
 }
