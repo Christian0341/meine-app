@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-07-22T09:31:24.952443+00:00",
+  "aktualisiert": "2026-07-23T09:28:18.724837+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Hermes + Kimi K3: Hat gerade ChatGPT und Claude ersetzt!?",
+      "link": "https://www.youtube.com/watch?v=tvmsoSmJRwI",
+      "video_id": "tvmsoSmJRwI",
+      "thumbnail": "https://img.youtube.com/vi/tvmsoSmJRwI/mqdefault.jpg",
+      "datum": "2026-07-22T14:15:25+00:00",
+      "datum_de": "22.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "6 ChatGPT Fehler, die fast JEDER macht",
+      "link": "https://www.youtube.com/watch?v=R3ri9NCirYQ",
+      "video_id": "R3ri9NCirYQ",
+      "thumbnail": "https://img.youtube.com/vi/R3ri9NCirYQ/mqdefault.jpg",
+      "datum": "2026-07-22T12:00:03+00:00",
+      "datum_de": "22.07.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "DAS kommt nach KI-Agenten: Die nächste Stufe der KI beginnt JETZT",
@@ -21,6 +41,16 @@
       "datum": "2026-07-21T14:03:27+00:00",
       "datum_de": "21.07.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Latzerus",
+      "titel": "Schweizerdeutsch mit ChatGPT zusammenfassen: Anleitung in 5 Minuten",
+      "link": "https://www.youtube.com/watch?v=LTMiMyvtr7M",
+      "video_id": "LTMiMyvtr7M",
+      "thumbnail": "https://img.youtube.com/vi/LTMiMyvtr7M/mqdefault.jpg",
+      "datum": "2026-07-21T11:49:20Z",
+      "datum_de": "21.07.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Christoph Magnussen",
@@ -93,6 +123,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "Claude & KI | Reader Sentiment",
+      "titel": "5 Claude-Skills, die 90% nicht nutzen (macht ihn doppelt so schlau)",
+      "link": "https://www.youtube.com/watch?v=ceLM-0ypGOQ",
+      "video_id": "ceLM-0ypGOQ",
+      "thumbnail": "https://img.youtube.com/vi/ceLM-0ypGOQ/mqdefault.jpg",
+      "datum": "2026-07-19T09:00:17Z",
+      "datum_de": "19.07.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Everlast AI",
       "titel": "China schockt die Welt: DAS ist der nächste DeepSeek Moment! + Neue Kampf-Roboter LIVE aus Shenzhen",
       "link": "https://www.youtube.com/watch?v=JH_NRbnbC1s",
@@ -103,53 +143,13 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Neuland Pro",
-      "titel": "VERRÜCKTE KI NEWS: GPT-5.6 ist da, Apple-Klage & KI-Gesetz: EU zieht die Notbremse!",
-      "link": "https://www.youtube.com/watch?v=PbI63APi-Kc",
-      "video_id": "PbI63APi-Kc",
-      "thumbnail": "https://img.youtube.com/vi/PbI63APi-Kc/mqdefault.jpg",
-      "datum": "2026-07-19T07:34:36+00:00",
+      "kanal": "Digitale Profis",
+      "titel": "Perfekte Prompts für ChatGPT, Gemini, Claude und Co dank Prompt Generator | Der Mega Prompt #1 2026",
+      "link": "https://www.youtube.com/watch?v=rIqXebZ-Oow",
+      "video_id": "rIqXebZ-Oow",
+      "thumbnail": "https://img.youtube.com/vi/rIqXebZ-Oow/mqdefault.jpg",
+      "datum": "2026-07-19T08:00:25Z",
       "datum_de": "19.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Notion mit Fred",
-      "titel": "Notion AI vs ChatGPT vs Claude fürs Business 2026",
-      "link": "https://www.youtube.com/watch?v=_p-PRGayXSo",
-      "video_id": "_p-PRGayXSo",
-      "thumbnail": "https://img.youtube.com/vi/_p-PRGayXSo/mqdefault.jpg",
-      "datum": "2026-07-18T14:00:22Z",
-      "datum_de": "18.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Tool-Kompass",
-      "titel": "ChatGPT Tutorial Deutsch: 5 Prompts für Anfänger, die wirklich funktionieren",
-      "link": "https://www.youtube.com/watch?v=uL_ekcQPnM8",
-      "video_id": "uL_ekcQPnM8",
-      "thumbnail": "https://img.youtube.com/vi/uL_ekcQPnM8/mqdefault.jpg",
-      "datum": "2026-07-18T13:03:28Z",
-      "datum_de": "18.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Fynn Röber",
-      "titel": "Claude Fable 5 VERÄNDERT ALLES! So benutzt du es als Anfänger",
-      "link": "https://www.youtube.com/watch?v=aR65b-4B2BI",
-      "video_id": "aR65b-4B2BI",
-      "thumbnail": "https://img.youtube.com/vi/aR65b-4B2BI/mqdefault.jpg",
-      "datum": "2026-07-18T12:40:11Z",
-      "datum_de": "18.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Henry Hasselbach",
-      "titel": "Manus AI: Der KI-Agent, den gerade alle wollen (Komplett-Guide 2026)",
-      "link": "https://www.youtube.com/watch?v=RKI3uB5FBKA",
-      "video_id": "RKI3uB5FBKA",
-      "thumbnail": "https://img.youtube.com/vi/RKI3uB5FBKA/mqdefault.jpg",
-      "datum": "2026-07-18T08:11:17Z",
-      "datum_de": "18.07.2026",
       "quelle": "suche"
     }
   ]
