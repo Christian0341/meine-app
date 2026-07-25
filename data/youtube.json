@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-07-24T09:25:35.850836+00:00",
+  "aktualisiert": "2026-07-25T09:04:13.628269+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Fynn Röber",
+      "titel": "Claude Code + YouTube = 10.000€/Monat",
+      "link": "https://www.youtube.com/watch?v=KHYI2209kuA",
+      "video_id": "KHYI2209kuA",
+      "thumbnail": "https://img.youtube.com/vi/KHYI2209kuA/mqdefault.jpg",
+      "datum": "2026-07-24T17:07:06Z",
+      "datum_de": "24.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Toolfuchs",
+      "titel": "KI-Stimme Deutsch: Wie gut ist ElevenLabs 2026 wirklich?",
+      "link": "https://www.youtube.com/watch?v=z4xnRL8MhP8",
+      "video_id": "z4xnRL8MhP8",
+      "thumbnail": "https://img.youtube.com/vi/z4xnRL8MhP8/mqdefault.jpg",
+      "datum": "2026-07-24T15:33:48Z",
+      "datum_de": "24.07.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Darrel Wilson Auf Deutsch",
       "titel": "ChatGPT Sol + Claude Haben Webdesign Für Immer Verändert",
@@ -60,16 +80,6 @@
       "thumbnail": "https://img.youtube.com/vi/aC-uIfVOWsA/mqdefault.jpg",
       "datum": "2026-07-23T11:00:33Z",
       "datum_de": "23.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Werkzeugkasten",
-      "titel": "LM Studio Bionic — Lokaler KI-Agent für offene Modelle (kostenlos testen)",
-      "link": "https://www.youtube.com/watch?v=9FUWUJ6X-2o",
-      "video_id": "9FUWUJ6X-2o",
-      "thumbnail": "https://img.youtube.com/vi/9FUWUJ6X-2o/mqdefault.jpg",
-      "datum": "2026-07-22T22:33:53Z",
-      "datum_de": "22.07.2026",
       "quelle": "suche"
     },
     {
@@ -141,16 +151,6 @@
       "datum": "2026-07-20T17:03:31+00:00",
       "datum_de": "20.07.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Felicia Simon",
-      "titel": "Claude baut ganze Brand in unter 5 Minuten 🤯 mit Logo, Produktfotos, UGC Content &amp; KI Videos",
-      "link": "https://www.youtube.com/watch?v=0mfnvKuqmFI",
-      "video_id": "0mfnvKuqmFI",
-      "thumbnail": "https://img.youtube.com/vi/0mfnvKuqmFI/mqdefault.jpg",
-      "datum": "2026-07-20T15:41:25Z",
-      "datum_de": "20.07.2026",
-      "quelle": "suche"
     }
   ]
 }
