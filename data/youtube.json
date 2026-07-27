@@ -1,10 +1,40 @@
 {
-  "aktualisiert": "2026-07-26T09:19:08.673156+00:00",
+  "aktualisiert": "2026-07-27T10:48:43.720200+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Claude Opus 5 gefällt mir besser als Fable",
+      "link": "https://www.youtube.com/watch?v=1h6hyH_mHS4",
+      "video_id": "1h6hyH_mHS4",
+      "thumbnail": "https://img.youtube.com/vi/1h6hyH_mHS4/mqdefault.jpg",
+      "datum": "2026-07-26T18:07:56+00:00",
+      "datum_de": "26.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Claude + Higgsfield ist ab JETZT deine eigene Marketingagentur! ",
+      "link": "https://www.youtube.com/watch?v=POdnUe_OIls",
+      "video_id": "POdnUe_OIls",
+      "thumbnail": "https://img.youtube.com/vi/POdnUe_OIls/mqdefault.jpg",
+      "datum": "2026-07-26T15:15:03+00:00",
+      "datum_de": "26.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Kontextkern",
+      "titel": "Claude Design für Einsteiger: Prototypen &amp; Slides ohne Designer",
+      "link": "https://www.youtube.com/watch?v=ayKLdQNVqWk",
+      "video_id": "ayKLdQNVqWk",
+      "thumbnail": "https://img.youtube.com/vi/ayKLdQNVqWk/mqdefault.jpg",
+      "datum": "2026-07-26T15:00:40Z",
+      "datum_de": "26.07.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Everlast AI",
-      "titel": "Dieses ChatGPT Update wird KI für immer verändern! + DAS kann Claude Opus 5",
+      "titel": "Krass: Dieses ChatGPT Update hat soeben ALLES verändert! + Claude Opus 5 Praxistest",
       "link": "https://www.youtube.com/watch?v=aT3RDAQ5lLQ",
       "video_id": "aT3RDAQ5lLQ",
       "thumbnail": "https://img.youtube.com/vi/aT3RDAQ5lLQ/mqdefault.jpg",
@@ -49,6 +79,16 @@
       "video_id": "z4xnRL8MhP8",
       "thumbnail": "https://img.youtube.com/vi/z4xnRL8MhP8/mqdefault.jpg",
       "datum": "2026-07-24T15:33:48Z",
+      "datum_de": "24.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Designers Inn | Apps, KI, Automation fürs Business",
+      "titel": "Mit Claude Cowork dein KI Second Brain automatisch pflegen",
+      "link": "https://www.youtube.com/watch?v=nvhF1cedCSU",
+      "video_id": "nvhF1cedCSU",
+      "thumbnail": "https://img.youtube.com/vi/nvhF1cedCSU/mqdefault.jpg",
+      "datum": "2026-07-24T06:00:21Z",
       "datum_de": "24.07.2026",
       "quelle": "suche"
     },
@@ -111,46 +151,6 @@
       "datum": "2026-07-23T13:11:13Z",
       "datum_de": "23.07.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "HubSpot DACH",
-      "titel": "Die 6 besten KI Tools für den Videoschnitt (inkl. GUIDE)",
-      "link": "https://www.youtube.com/watch?v=aC-uIfVOWsA",
-      "video_id": "aC-uIfVOWsA",
-      "thumbnail": "https://img.youtube.com/vi/aC-uIfVOWsA/mqdefault.jpg",
-      "datum": "2026-07-23T11:00:33Z",
-      "datum_de": "23.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Wasserpuncher",
-      "titel": "OpenAI vs. Hugging Face: Das versteckte Hack-Experiment",
-      "link": "https://www.youtube.com/watch?v=_h_JdPSV4-w",
-      "video_id": "_h_JdPSV4-w",
-      "thumbnail": "https://img.youtube.com/vi/_h_JdPSV4-w/mqdefault.jpg",
-      "datum": "2026-07-22T16:00:34Z",
-      "datum_de": "22.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Hermes + Kimi K3: Hat gerade ChatGPT und Claude ersetzt!?",
-      "link": "https://www.youtube.com/watch?v=tvmsoSmJRwI",
-      "video_id": "tvmsoSmJRwI",
-      "thumbnail": "https://img.youtube.com/vi/tvmsoSmJRwI/mqdefault.jpg",
-      "datum": "2026-07-22T14:15:25+00:00",
-      "datum_de": "22.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "6 ChatGPT Fehler, die fast JEDER macht",
-      "link": "https://www.youtube.com/watch?v=R3ri9NCirYQ",
-      "video_id": "R3ri9NCirYQ",
-      "thumbnail": "https://img.youtube.com/vi/R3ri9NCirYQ/mqdefault.jpg",
-      "datum": "2026-07-22T12:00:03+00:00",
-      "datum_de": "22.07.2026",
-      "quelle": "kanal"
     }
   ]
 }
