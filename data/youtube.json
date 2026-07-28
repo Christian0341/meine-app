@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-07-27T10:48:43.720200+00:00",
+  "aktualisiert": "2026-07-28T09:39:45.127341+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "SO funktionieren KI-TOKENS: Kosten, Kontext und Modelle!",
+      "link": "https://www.youtube.com/watch?v=n7OtblOSh6M",
+      "video_id": "n7OtblOSh6M",
+      "thumbnail": "https://img.youtube.com/vi/n7OtblOSh6M/mqdefault.jpg",
+      "datum": "2026-07-27T16:33:09+00:00",
+      "datum_de": "27.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Felicia Simon",
+      "titel": "ChatGPT Work ist unglaublich 🤯 so funktioniert der neue KI-Agent von OpenAI",
+      "link": "https://www.youtube.com/watch?v=4Cr0_6clMuw",
+      "video_id": "4Cr0_6clMuw",
+      "thumbnail": "https://img.youtube.com/vi/4Cr0_6clMuw/mqdefault.jpg",
+      "datum": "2026-07-27T15:41:08Z",
+      "datum_de": "27.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "The Checklist",
+      "titel": "Hermes Agent Tutorial: In 5 Schritten zum 24/7 KI-Agenten [Schnell]",
+      "link": "https://www.youtube.com/watch?v=mM7tMXpekWc",
+      "video_id": "mM7tMXpekWc",
+      "thumbnail": "https://img.youtube.com/vi/mM7tMXpekWc/mqdefault.jpg",
+      "datum": "2026-07-27T14:54:46Z",
+      "datum_de": "27.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "ChatGPT Work vs Claude Cowork: Welches KI-Tool ist wirklich besser? (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=RFwCo_df7Mc",
+      "video_id": "RFwCo_df7Mc",
+      "thumbnail": "https://img.youtube.com/vi/RFwCo_df7Mc/mqdefault.jpg",
+      "datum": "2026-07-27T14:00:37Z",
+      "datum_de": "27.07.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Morpheus Tutorials",
       "titel": "Claude Opus 5 gefällt mir besser als Fable",
@@ -73,16 +113,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Toolfuchs",
-      "titel": "KI-Stimme Deutsch: Wie gut ist ElevenLabs 2026 wirklich?",
-      "link": "https://www.youtube.com/watch?v=z4xnRL8MhP8",
-      "video_id": "z4xnRL8MhP8",
-      "thumbnail": "https://img.youtube.com/vi/z4xnRL8MhP8/mqdefault.jpg",
-      "datum": "2026-07-24T15:33:48Z",
-      "datum_de": "24.07.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Designers Inn | Apps, KI, Automation fürs Business",
       "titel": "Mit Claude Cowork dein KI Second Brain automatisch pflegen",
       "link": "https://www.youtube.com/watch?v=nvhF1cedCSU",
@@ -90,16 +120,6 @@
       "thumbnail": "https://img.youtube.com/vi/nvhF1cedCSU/mqdefault.jpg",
       "datum": "2026-07-24T06:00:21Z",
       "datum_de": "24.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "AI Union | KI Automatisierung & Agenten",
-      "titel": "KI-Telefonassistent AUTOMATISIERT Wärmepumpen-Vertrieb - KI Tutorial",
-      "link": "https://www.youtube.com/watch?v=fDC_MhmXtmk",
-      "video_id": "fDC_MhmXtmk",
-      "thumbnail": "https://img.youtube.com/vi/fDC_MhmXtmk/mqdefault.jpg",
-      "datum": "2026-07-23T22:00:08Z",
-      "datum_de": "23.07.2026",
       "quelle": "suche"
     },
     {
@@ -131,26 +151,6 @@
       "datum": "2026-07-23T15:15:37+00:00",
       "datum_de": "23.07.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Lucien",
-      "titel": "Diese KI-Tools erledigen deinen Content in Minuten – du machst nur noch das Kreative",
-      "link": "https://www.youtube.com/watch?v=IlFTdZFcdSc",
-      "video_id": "IlFTdZFcdSc",
-      "thumbnail": "https://img.youtube.com/vi/IlFTdZFcdSc/mqdefault.jpg",
-      "datum": "2026-07-23T13:20:40Z",
-      "datum_de": "23.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Punktzehn",
-      "titel": "Google löscht NotebookLM! Das kann das neue Gemini Notebook",
-      "link": "https://www.youtube.com/watch?v=v1DV55X6eXk",
-      "video_id": "v1DV55X6eXk",
-      "thumbnail": "https://img.youtube.com/vi/v1DV55X6eXk/mqdefault.jpg",
-      "datum": "2026-07-23T13:11:13Z",
-      "datum_de": "23.07.2026",
-      "quelle": "suche"
     }
   ]
 }
