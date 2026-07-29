@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-07-28T09:39:45.127341+00:00",
+  "aktualisiert": "2026-07-29T09:42:13.178495+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI bricht AUS: GPT-6 hackt sich frei! Kimi-Bann, Chinas Plan & Mistral-Aus - KI-Experten reagieren",
+      "link": "https://www.youtube.com/watch?v=ny4c3xVwh1g",
+      "video_id": "ny4c3xVwh1g",
+      "thumbnail": "https://img.youtube.com/vi/ny4c3xVwh1g/mqdefault.jpg",
+      "datum": "2026-07-28T15:15:27+00:00",
+      "datum_de": "28.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "NANCY | KI-Workflows im Büro",
+      "titel": "NotebookLM ist jetzt Gemini Notebook: 17 Dateien, 1 Briefing, 8 Minuten",
+      "link": "https://www.youtube.com/watch?v=cIv0usQVe6U",
+      "video_id": "cIv0usQVe6U",
+      "thumbnail": "https://img.youtube.com/vi/cIv0usQVe6U/mqdefault.jpg",
+      "datum": "2026-07-28T14:00:31Z",
+      "datum_de": "28.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Was steckt hinter Prompts? #ki #tokens",
+      "link": "https://www.youtube.com/shorts/woDHTQMYwIM",
+      "video_id": "woDHTQMYwIM",
+      "thumbnail": "https://img.youtube.com/vi/woDHTQMYwIM/mqdefault.jpg",
+      "datum": "2026-07-28T13:23:18+00:00",
+      "datum_de": "28.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Learn German with News | LinguaWire",
+      "titel": "OpenAI says: Two models break out | German A1 lesson from today&#39;s news · LINGUAWIRE Nº014",
+      "link": "https://www.youtube.com/watch?v=XElvpmyg3Oo",
+      "video_id": "XElvpmyg3Oo",
+      "thumbnail": "https://img.youtube.com/vi/XElvpmyg3Oo/mqdefault.jpg",
+      "datum": "2026-07-28T10:43:26Z",
+      "datum_de": "28.07.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "SO funktionieren KI-TOKENS: Kosten, Kontext und Modelle!",
@@ -111,46 +151,6 @@
       "datum": "2026-07-24T17:07:06Z",
       "datum_de": "24.07.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Designers Inn | Apps, KI, Automation fürs Business",
-      "titel": "Mit Claude Cowork dein KI Second Brain automatisch pflegen",
-      "link": "https://www.youtube.com/watch?v=nvhF1cedCSU",
-      "video_id": "nvhF1cedCSU",
-      "thumbnail": "https://img.youtube.com/vi/nvhF1cedCSU/mqdefault.jpg",
-      "datum": "2026-07-24T06:00:21Z",
-      "datum_de": "24.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Darrel Wilson Auf Deutsch",
-      "titel": "ChatGPT Sol + Claude Haben Webdesign Für Immer Verändert",
-      "link": "https://www.youtube.com/watch?v=floIZryOTuU",
-      "video_id": "floIZryOTuU",
-      "thumbnail": "https://img.youtube.com/vi/floIZryOTuU/mqdefault.jpg",
-      "datum": "2026-07-23T19:56:55Z",
-      "datum_de": "23.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "OpenAI KI startet Hackerangriff?! #ki #openai",
-      "link": "https://www.youtube.com/shorts/3SyIerZD-2U",
-      "video_id": "3SyIerZD-2U",
-      "thumbnail": "https://img.youtube.com/vi/3SyIerZD-2U/mqdefault.jpg",
-      "datum": "2026-07-23T18:33:52+00:00",
-      "datum_de": "23.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Synthesia-Gründer: ChatGPT ist NICHTS zu dem, was JETZT kommt! Weltmodelle, Physical AI & Zukunft",
-      "link": "https://www.youtube.com/watch?v=KqlXvEP8wEk",
-      "video_id": "KqlXvEP8wEk",
-      "thumbnail": "https://img.youtube.com/vi/KqlXvEP8wEk/mqdefault.jpg",
-      "datum": "2026-07-23T15:15:37+00:00",
-      "datum_de": "23.07.2026",
-      "quelle": "kanal"
     }
   ]
 }
