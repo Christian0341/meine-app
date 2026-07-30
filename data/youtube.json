@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-07-29T09:42:13.178495+00:00",
+  "aktualisiert": "2026-07-30T09:34:30.115843+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Dr Tech Ai Deutsch",
+      "titel": "Google Avatar kostenlos erstellen | Realistische AI Fotos &amp; Videos mit Gemini",
+      "link": "https://www.youtube.com/watch?v=ivLdgqsS1h4",
+      "video_id": "ivLdgqsS1h4",
+      "thumbnail": "https://img.youtube.com/vi/ivLdgqsS1h4/mqdefault.jpg",
+      "datum": "2026-07-30T07:46:39Z",
+      "datum_de": "30.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Ein kompletter Guide, wie ich eine Agent-First-Softwarelösung baue zum Nachmachen!",
+      "link": "https://www.youtube.com/watch?v=pZXzxoGGgMc",
+      "video_id": "pZXzxoGGgMc",
+      "thumbnail": "https://img.youtube.com/vi/pZXzxoGGgMc/mqdefault.jpg",
+      "datum": "2026-07-29T20:38:23+00:00",
+      "datum_de": "29.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Genervt von KI?",
+      "link": "https://www.youtube.com/shorts/VwX6B7VQSUc",
+      "video_id": "VwX6B7VQSUc",
+      "thumbnail": "https://img.youtube.com/vi/VwX6B7VQSUc/mqdefault.jpg",
+      "datum": "2026-07-29T13:41:16+00:00",
+      "datum_de": "29.07.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Warum KI immer schlechter wird",
+      "link": "https://www.youtube.com/watch?v=sEGYxK0G1P8",
+      "video_id": "sEGYxK0G1P8",
+      "thumbnail": "https://img.youtube.com/vi/sEGYxK0G1P8/mqdefault.jpg",
+      "datum": "2026-07-29T13:00:37+00:00",
+      "datum_de": "29.07.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "KI bricht AUS: GPT-6 hackt sich frei! Kimi-Bann, Chinas Plan & Mistral-Aus - KI-Experten reagieren",
@@ -44,7 +84,7 @@
     },
     {
       "kanal": "Christoph Magnussen",
-      "titel": "SO funktionieren KI-TOKENS: Kosten, Kontext und Modelle!",
+      "titel": "Wie deine PROMPTS Geld verbennen! Tokens, Abos & API im Überblick!",
       "link": "https://www.youtube.com/watch?v=n7OtblOSh6M",
       "video_id": "n7OtblOSh6M",
       "thumbnail": "https://img.youtube.com/vi/n7OtblOSh6M/mqdefault.jpg",
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/ayKLdQNVqWk/mqdefault.jpg",
       "datum": "2026-07-26T15:00:40Z",
       "datum_de": "26.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Krass: Dieses ChatGPT Update hat soeben ALLES verändert! + Claude Opus 5 Praxistest",
-      "link": "https://www.youtube.com/watch?v=aT3RDAQ5lLQ",
-      "video_id": "aT3RDAQ5lLQ",
-      "thumbnail": "https://img.youtube.com/vi/aT3RDAQ5lLQ/mqdefault.jpg",
-      "datum": "2026-07-26T08:15:08+00:00",
-      "datum_de": "26.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Daniel Igl",
-      "titel": "Der einfachste Weg, mit ChatGPT Geld zu verdienen (den fast keiner kennt)",
-      "link": "https://www.youtube.com/watch?v=yFEwzCo9nZ4",
-      "video_id": "yFEwzCo9nZ4",
-      "thumbnail": "https://img.youtube.com/vi/yFEwzCo9nZ4/mqdefault.jpg",
-      "datum": "2026-07-25T15:59:24Z",
-      "datum_de": "25.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Dr Tech Ai Deutsch",
-      "titel": "Die 7 besten KOSTENLOSEN KI-Tools für realistische Text-to-Speech Stimmen (2026) ⭐",
-      "link": "https://www.youtube.com/watch?v=Q28LlfOaiF8",
-      "video_id": "Q28LlfOaiF8",
-      "thumbnail": "https://img.youtube.com/vi/Q28LlfOaiF8/mqdefault.jpg",
-      "datum": "2026-07-25T09:58:12Z",
-      "datum_de": "25.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Fynn Röber",
-      "titel": "Claude Code + YouTube = 10.000€/Monat",
-      "link": "https://www.youtube.com/watch?v=KHYI2209kuA",
-      "video_id": "KHYI2209kuA",
-      "thumbnail": "https://img.youtube.com/vi/KHYI2209kuA/mqdefault.jpg",
-      "datum": "2026-07-24T17:07:06Z",
-      "datum_de": "24.07.2026",
       "quelle": "suche"
     }
   ]
