@@ -1,7 +1,7 @@
 {
-  "datum": "Donnerstag, 30. Juli 2026",
-  "datumISO": "2026-07-30",
-  "tagesthema": "Die EU-Regulierung von KI-Inhalten tritt in Kraft, während Datenschutzbedenken durch Lecks bei KI-Chats zunehmen und neue Anwendungen sowie strategische Entwicklungen den Markt prägen.",
+  "datum": "Freitag, 31. Juli 2026",
+  "datumISO": "2026-07-31",
+  "tagesthema": "Der KI-Sektor steht unter verschärfter Beobachtung: Sicherheitsvorfälle bei führenden Anbietern und neue EU-Regulierungen prägen den Tag, während KI-Modelle gleichzeitig durch innovative Produktintegrationen und Anwendungsbereiche expandieren.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,18 +9,26 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "OpenAI startet Apple-Health-Anbindung für ChatGPT",
-          "zusammenfassung": "OpenAI erweitert die Funktionalität von ChatGPT durch eine direkte Anbindung an Apple Health. Nutzer können nun Gesundheitsdaten in ChatGPT integrieren, um personalisierte Analysen oder Empfehlungen zu erhalten. Diese Entwicklung zeigt das Potenzial von KI im Gesundheitsbereich, wirft aber auch Fragen zum Datenschutz auf.",
+          "titel": "Gemini für macOS: Bildschirmüberwachung und systemweites Diktat",
+          "zusammenfassung": "Google hat neue Funktionen für Gemini auf macOS vorgestellt, darunter die Möglichkeit zur Bildschirmüberwachung und ein systemweites Diktat. Diese Integration ermöglicht eine tiefere Interaktion der KI mit dem Betriebssystem und bietet Nutzern erweiterte Produktivitätswerkzeuge. Die Neuerungen positionieren Gemini als einen zentralen Assistenten im Mac-Ökosystem.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOFZFMk5PaXZ0dmJLa09CT2F5dDhuUEJRai1aendzLTlZSnVBRFFZOFdNNEJpeVdkWWpLWm83NUVRUlR5OXo4bEVYd3RIZ1FhY2M0TkpPd1dkZlZqaGp3Mk01bmhqeDZyT1pFSjdxUGR0WGdlWUltMEJuS0lCSHFvVE5pbDFjUTdTM2VUWHBvdF90U3Bx?oc=5",
-          "sterne": "⭐⭐⭐"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWEh4T3BDNHc5TkxKTHB5ZVhhSEo1WkpLbmJxTmN0QldaMEYxamFYbE0yN2F0Y0Z5a1JNblV6WkMxZjAxZ1J5clNfM0FRQXhUUjdseVROT0pEbGliM3Z2NWNqaWNPWkZ0cE5UTk1JYm4xMFlsQ2dXZ1NZaXQwRDlRSk9yczBsUmZ4S1YxbUhNVDBLTzRrRkRFZWRiT3VDa1EweFFmazFLNA?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Gemini für Mac bekommt zwei praktische Neuerungen: Was die KI für dich jetzt tun kann",
+          "zusammenfassung": "Google Gemini für Mac erhält zwei signifikante neue Funktionen, die die Benutzererfahrung erheblich verbessern sollen. Die KI kann nun noch nahtloser in den Arbeitsalltag integriert werden und bietet erweiterte Möglichkeiten zur Unterstützung bei alltäglichen Aufgaben. Diese Updates zeigen Googles Engagement, Gemini als vielseitigen Assistenten zu etablieren.",
+          "einordnung": "",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53OER5dGUyZzdXNUh2bGJ0X2RHMWpuejhHMnRaM3dFVExVRDlTdlVmWVFUWFBENXQ2SVRTNnlMOEFfOE93T0RyeXd2aWVoUktqeGRHczFQSzVwSERVdk1SbnJfRlRBdFd5M2h4ZEM1RVI4VnM?oc=5",
+          "sterne": "⭐⭐"
         },
         {
           "titel": "KI Gemini erstellt nun direkt Diagramme & Infografiken in Google Docs",
-          "zusammenfassung": "Google erweitert die Fähigkeiten seines KI-Modells Gemini, das nun direkt in Google Docs Diagramme und Infografiken erstellen kann. Diese Funktion soll die Produktivität und Kreativität der Nutzer erheblich steigern. Es ist ein weiterer Schritt in der Integration von KI in alltägliche Büroanwendungen.",
+          "zusammenfassung": "Google Gemini erweitert seine Fähigkeiten und kann jetzt direkt in Google Docs Diagramme und Infografiken erstellen. Diese Funktion vereinfacht die Visualisierung von Daten und die Erstellung professioneller Dokumente erheblich. Es integriert KI-gestützte Kreativität direkt in gängige Office-Anwendungen.",
           "einordnung": "",
-          "quelle": "WinFuture",
+          "quelle": "winfuture.de",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zNUdnNkJ0dC12cjlXSXNNS3NRM013LW9tWjJOdDNkallmajd5aXhxNlBfV3RsRW9OcVRHWnd4dE1hZHRDcmlCbUVOQy1qZw?oc=5",
           "sterne": "⭐⭐"
         }
@@ -32,36 +40,20 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "EQS-News: Revolut kooperiert mit OpenAI und bringt ChatGPT Go zu Millionen von Kunden",
-          "zusammenfassung": "Revolut, der Finanzdienstleister, gibt eine strategische Partnerschaft mit OpenAI bekannt, um seinen Millionen von Kunden Zugang zu ChatGPT Go zu ermöglichen. Diese Integration soll die Nutzererfahrung durch KI-gestützte Funktionen verbessern. Die Kooperation unterstreicht den Trend zur Einbindung von KI in alltägliche Finanzanwendungen.",
+          "titel": "Fonds liquidiert: In wenigen Wochen verlor er Milliarden – Der rasante Absturz des deutschen KI-Wunderkinds",
+          "zusammenfassung": "Ein ehemals gefeierter deutscher KI-Fonds hat innerhalb weniger Wochen Milliardenverluste erlitten und musste liquidiert werden. Der rasante Absturz des 'KI-Wunderkinds' wirft ein Schlaglicht auf die Volatilität und Risiken im schnelllebigen KI-Investmentmarkt. Dies könnte auch Auswirkungen auf das Vertrauen in andere europäische KI-Startups haben.",
           "einordnung": "",
-          "quelle": "boerse.de",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSUhHSnlWdFh0SVhWNmdFOC03SFhMd290SGZjTTJzcldTM0lYcGRENXJmcXVoZTF6X1FtS2VXNlFkaEdOUFFnMWRfazNtdHdrOFdpTXZidlJaUkpab0VSQzFCRGlJc196Z2dIU2ZvU1lQRmViTnN6RzgzWlcxSzd0dS1QMzNrR25qYUdiRTVTaVRIM3o5MkN4dXp1TV9tTFFBb2IwdnBfUWp3R0xuajRQU2w0cW5QdU5SZzdTNmNvMWt5dXYycUHSAcsBQVVfeXFMTUluSV9VV3BkWFVxNjlZYmxRczZVclRGZVZicUZIVHhCZjdsZ3YwTU1ReWw1QjZvSGJTMnhRWm5xSDFkS2d3R2VZNDFCWHhjU016OVM0aDdsSkRqd1FfajduQVpPNkZmbXh6eUhuRmR3YXpOZFVid2VSTFRDX2sxeVBHLTQwZllSb2tJYlcyOTI4QTVleGppZWFnRzlxYlJrZ0YwYUJ6V0dNbGxyQTdBX0pEY01KaXJxYXEwbllKazUwTFBlZXFVZE9FLW8?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Revolut und OpenAI: Kunden erhalten kostenlosen Zugriff auf ChatGPT Go",
-          "zusammenfassung": "Caschys Blog bestätigt die Zusammenarbeit zwischen Revolut und OpenAI, die den Nutzern von Revolut kostenlosen Zugang zu ChatGPT Go bietet. Der Artikel hebt hervor, wie diese Integration den Kunden neue Möglichkeiten eröffnet. Dies ist ein weiterer Schritt zur Demokratisierung von KI-Tools im Finanzsektor.",
-          "einordnung": "",
-          "quelle": "Caschys Blog",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOck1idXg4eWtPOHR5dWg0Y0NPdHRvQkk1WWV2ekNNaUNrTXZPWWwxNHhkUE1EMFY3YXRqVTBEWFhFbmQ5VzlLM2RlaUZGek1pZkZ2cUZCMnIzcEVWZkFBeHBBNTAyM0d2WS0xNUVndFRLcHVDSjFvbGxOaC1tTm1WbHpWYV9kOXV6QkRKam1rQkc3UFY3S3AwcjVTaFlhb2Z0?oc=5",
+          "quelle": "WELT",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVkdWVW02cDBCUEU3T0hCcGNzbUlvWV9iWFBMZE5jRkR6OHl2a3p4ckJtQXJLaWFlZi1mSmpKRmlCZ2pJZzBaZDZpdF9DamJUZG5mcHdWMXYyWkZLZEhRVG5VQnRKOEVRYW1PZlFMd0xodUl0YjFEMlZ0X2pDU3JWd0lIUkFfVHRMak9FY3ZPVTNINDlYYnFVQVBOaUhGQmg5bGgxTFVPRGphSkdvaV9FdjVuaHNhSVhHV3pZRk9fNUEwQWlPN3ZRVzlOQVJJY1pncUNNa1Nza21PNEhUZGs3cmN2UXpVR2lhREg1OU1lSGlNaHU5Qm5FUmVUTHhTQQ?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Gemini: Google will neue KI-Chips mit fest integriertem Gemini bauen; sollen Effizienz deutlich erhöhen...",
-          "zusammenfassung": "Google plant die Entwicklung eigener KI-Chips, die speziell für die feste Integration von Gemini konzipiert sind, um dessen Effizienz erheblich zu steigern. Diese strategische Hardware-Initiative zielt darauf ab, die Leistung und Geschwindigkeit der Gemini-Modelle zu optimieren. Der Schritt unterstreicht Googles Bestreben, die Kontrolle über die gesamte KI-Wertschöpfungskette zu gewinnen.",
+          "titel": "OpenAI: Eine Milliarde User verwenden ChatGPT",
+          "zusammenfassung": "OpenAI hat bekannt gegeben, dass ihr Flaggschiff-Produkt ChatGPT die Marke von einer Milliarde Nutzern überschritten hat. Diese beeindruckende Zahl unterstreicht die massive globale Akzeptanz und den Einfluss von generativer KI im Alltag. Es festigt OpenAIs Position als führender Anbieter in diesem Bereich.",
           "einordnung": "",
-          "quelle": "GoogleWatchBlog",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrZHBZdjRHb3NfSzVZUUwtRW1MdFNxRkhLTXVkN2E1WkRwYW9NYmVQVnZLWHFyVk1ldGZzWUVGR1Etcy1rWFVlMjNpNDVoYnJnMWfSAeoBQVVfeXFMT3BJWHhlSHRzNUY0YWtLUkthcTRDWlVOcUZ6Y3lBTUtJdGk2YXVTZXVHY1BUOUZZY1FxZDk1YmJFTjNpRHVpWGlQQVNmVWJrdGZiRng3OXotQ1p5eS1SRi1pLW9JMDlyV3NOUGJsWVN1SVVsUmUwdlVvaFo2Q2V1b0FubC1RblZ1MGIxR2VkTGxQSktjdXBTQ2ZqYktyTndpQTJQX28xZDkzcDZHWTNRU0Y0aXB4alhqa1dDTERWTjdKamZHMk5FRWNrcDB4NElvRVJxSFN6UWpYdFg2VHZzcVp1dEZ6a1RobjV3?oc=5",
+          "quelle": "Golem",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkhjQW4wbURLUnR3NzFJZjQ1aGFiWlpPeHR5ZFg5NFNTczNpWGpacTFjOVJ5TTVUU3l3eFN0ZHNuSkNNT0lBZHlDeFE4eC0xNWpRZjZQYlk5SVRZTEo5MmdsRXpUczBQejcyNEdkdXpUQWthdmJQeFNWdFV5M3U0VEp2V0lPVThGVmxtUUtXUlc?oc=5",
           "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "LLM Preisgestaltung: Top 15+ Anbieter im Vergleich",
-          "zusammenfassung": "AIMultiple bietet einen umfassenden Vergleich der Preisgestaltung von über 15 führenden Anbietern von Large Language Models (LLMs). Der Artikel analysiert verschiedene Preismodelle und hilft Unternehmen, die kosteneffizienteste Lösung für ihre Bedürfnisse zu finden. Dies ist eine wertvolle Ressource für Unternehmen, die LLMs in ihre Geschäftsabläufe integrieren möchten.",
-          "einordnung": "",
-          "quelle": "AIMultiple",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tWHN2Z3ZqbGJ0R2lGYWRGc3VqTW4tV1laX01ZMHdxbHZQTGhiY040QVVoSk01T0tFR3l2WTV0U3FvRjhJQ0VmYzMtV0d0dw?oc=5",
-          "sterne": "⭐"
         }
       ]
     },
@@ -71,36 +63,36 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "EU: Kennzeichnungspflicht für KI-Inhalte gilt ab Sonntag - zwei Ausnahmen",
-          "zusammenfassung": "Der Spiegel berichtet über den Start der EU-weiten Kennzeichnungspflicht für KI-generierte Inhalte, die ab Sonntag in Kraft tritt. Es werden auch zwei spezifische Ausnahmen von dieser Regelung genannt, die bestimmte Anwendungsfälle betreffen. Der Artikel gibt einen Überblick über die unmittelbaren Auswirkungen des neuen EU AI Acts.",
-          "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTFR4VmdvX1MwM3ZPdk1fM0cxRFlqTmtHbm94LUJjTWY5UzRkX2V6MmxpdnZfaWp6OXVrZkQ4ZVF2WE40NkdFOXJkY2d0aFVRNE9EREljLVdrTmpPeXdTUTdDRVM4M0pwOFNRSjU3SGpHS254bEJ1QmJjejFsaGpfbG1ZMllfckI3bDlJa1FqTk1YRWZ5dUNPQXRjR2JYR1dhOEdTYjVHaThIV3JzcTFUTkR6cmYyeDdhTm4xQXZYcG5xUlVKY04tVmJIcFBJZjl1dTFya3pB?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "KI-Musikflut: Warum die EU-Kennzeichnung ins Leere läuft",
-          "zusammenfassung": "heise online kritisiert, dass die neue EU-Kennzeichnungspflicht für KI-Inhalte im Bereich der Musik möglicherweise wirkungslos bleiben könnte. Der Artikel argumentiert, dass die schiere Masse an KI-generierter Musik und die Schwierigkeit der Nachverfolgung die Regulierung unterlaufen könnten. Es werden Bedenken hinsichtlich der Praktikabilität und Durchsetzbarkeit der Vorschriften geäußert.",
+          "titel": "Digital Services Act: EU will offenbar ChatGPT und Roblox strenger kontrollieren",
+          "zusammenfassung": "Die EU plant offenbar, große KI-Plattformen wie ChatGPT und Online-Spiele wie Roblox unter den Digital Services Act (DSA) strenger zu regulieren. Dies würde höhere Anforderungen an Transparenz, Moderation und den Schutz von Nutzern mit sich bringen. Die Maßnahme unterstreicht die Bestrebungen der EU, den Einfluss von Tech-Giganten stärker zu kontrollieren.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNejlMZGtQR0txR0p1QUhFT2JoTjdPalZzWm9KNllnQ3lpVFJEV1NfQzdVNE9hcXEzbEx6X2UxbjZqYUdjUXR5cElTSFdIbURITGVWblY5VlBXZ1NmdHZpalZHYVVoYVRwQlZtbEJDODJIZHZfMHFET1d6Y1E4MXJMVWFCNWFHU0pNQjN6bEw3RVBUV3NadzluQUppZTBiZ2Ewc0E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLU8yRFA0amZjWnA4X2dDS3IydDlPM3ZaNzRkdlVRRXFCQ1NNeDVka2QwOHRXeTYtOTBPOUZQbzMwMDRfckxBRzkzTFR2NWFUSXI2bHFIUzN2cDcxTGZDZTdTNlZaclgtbU5UYTJTZlE0ZkNubXJ0bG5tZlQ3eUNSal9reHFCcEUwQ3lBdWxWZlAzZE1jZGRKNGJ2ekFwVkRtUXJZNjVaa2pRM2xlb3JIWXF1d1hXdHRRSmpn?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Für Atomwaffen gibt es das rote Telefon. Und für die KI? Warum China für eine Regulierung ist",
-          "zusammenfassung": "SZ.de beleuchtet die globale Debatte um die Regulierung von Künstlicher Intelligenz und vergleicht sie mit der Notwendigkeit von Kommunikationskanälen für Atomwaffen. Der Artikel erklärt Chinas Position, das sich überraschenderweise für eine internationale Regulierung von KI ausspricht. Dies unterstreicht die wachsende Erkenntnis, dass KI globale Risiken birgt, die koordiniertes Handeln erfordern.",
-          "einordnung": "",
-          "quelle": "SZ.de",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdkNSTzVtdFo2ZGFUTmJSemxyazlFX3RmdVh2STI2Z1NoanJwVGU5TmFUbUhlWk9rcF9TWW84NlFqa04wUzJFNEJRa2JJa25EUG9SS2FQM3QySzJnQV9ON1JHWkMzeVd5cDRIN1dvZjEta0dJR1FMdHZkWHpuMUVJQV93MFZFeHM?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "EU AI Act: Kennzeichnungspflicht für KI-Inhalte ab 2. August",
-          "zusammenfassung": "BornCity berichtet über das Inkrafttreten der Kennzeichnungspflicht für KI-generierte Inhalte durch den EU AI Act ab dem 2. August. Der Artikel erläutert die Kernpunkte der neuen Verordnung und deren Bedeutung für Entwickler und Nutzer von KI-Systemen. Dies markiert einen wichtigen Meilenstein in der Regulierung von Künstlicher Intelligenz in Europa.",
+          "titel": "EU AI Act: Chatbots müssen ab 2. August Nutzer über KI aufklären",
+          "zusammenfassung": "Der EU AI Act tritt am 2. August in Kraft und verpflichtet Chatbots, Nutzer transparent über ihre KI-Natur aufzuklären. Diese Regelung zielt darauf ab, Missverständnisse zu vermeiden und die Interaktion mit KI-Systemen klarer zu gestalten. Es ist ein wichtiger Schritt zur Förderung von Vertrauen und Verantwortlichkeit im Umgang mit künstlicher Intelligenz.",
           "einordnung": "",
           "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMnJwS0tNT3RLdzhRRGw5MUhpZU9pYlFTa0E1OHF2T19qR3hNVFlZeEVFa2hrTUY3ZkJVZldmajc3bGZiQ3FlUUxpT0JHVHRNXzJvbzU1a05PUWJNd0VRRVhCY3h6emNlM2s1WWxNM2pZcEhOaUxzVE1TZGJZcjFpbWxzdmpjcGNjNlktUkpGVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSktMZU9kWjJzams3QVhraXZ4RmlRWWlhR1RZXzZIS1RSaUJvd0hZbFdnVG10cjZxWnUySWlMaVJyQkptTWZrbklTYnpGQUttZ1VuMFlnX3RSREdyVm5jRUxXQnJzTnRZSEpJNzVmYkpvRWxnUExiZmczcFlyM3hTeVc2d01sMHdzQUN5SjVUM2l5dWlvenVn?oc=5",
           "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "EU-Recht: Bafin beaufsichtigt KI-Tools von Finanzunternehmen",
+          "zusammenfassung": "Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bafin) wird künftig die Nutzung von KI-Tools in Finanzunternehmen überwachen. Diese Maßnahme soll sicherstellen, dass KI-Anwendungen im Finanzsektor den regulatorischen Anforderungen entsprechen und Risiken minimiert werden. Die Bafin reagiert damit auf die zunehmende Verbreitung von KI in kritischen Infrastrukturen.",
+          "einordnung": "",
+          "quelle": "das investment",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTTBWZUttRG1LYjFwQnZzdTNScVBQcDcxWTV5Q3BackRfS2hQOXc0MGxTNTJwaXd3NUZFWlFsM2lFdnlUMXlHOGtGX3BnYnNVN2VMeEZUNzgzZHp2WnVmWDFDNEtod1JuU2dIMkpabnNyekFlc0g5MzdxQ1NRRWctXzRzcTN6SUp6a25DbnQ1cWNqdzIzTmNFTTZ5UnMxUQ?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "KI-Regulierung: Bafin überwacht Banken ab sofort mit Rekordbußgeldern",
+          "zusammenfassung": "Die Bafin hat angekündigt, Banken und Finanzdienstleister im Rahmen der neuen KI-Regulierung streng zu überwachen und bei Verstößen Rekordbußgelder zu verhängen. Dies unterstreicht die Ernsthaftigkeit, mit der die Aufsichtsbehörde die Einhaltung der Vorschriften durchsetzen will. Ziel ist es, die Stabilität und Sicherheit des Finanzmarktes im Zeitalter der KI zu gewährleisten.",
+          "einordnung": "",
+          "quelle": "Börse Express",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTFVWExhTmpTTnBFbGtxR2dRbFgxTnFDdC1Yc0ptczZFNFZtWll6ZVY3UG9KOVR4UnN4SXFiU2luMXdsc0wwU09kYmlxWUo0UkxybXNBS0N2cGc0X2N0WmNXREV6LXpkaVNEOXRabWREVUNoS216RjBWSkhsZnY4Sl9ybjhQbTYzR0NiMlVtRUoxdExkRXpCRlZnc05BSnpwcTRmbmxCT1U5dUhJWGxsU0Z0NXFDQmo5YmdhNmF4dw?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     },
@@ -110,79 +102,87 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "„Das ist sozusagen das Geheimnis“: Dieses KI-Modell soll 56-mal schneller sein",
-          "zusammenfassung": "t3n stellt ein neues KI-Modell vor, das eine beeindruckende Geschwindigkeitssteigerung von 56-mal gegenüber bestehenden Systemen verspricht. Der Artikel geht auf die technologischen Innovationen ein, die diese Effizienz ermöglichen. Sollte sich dies bewahrheiten, könnte es weitreichende Auswirkungen auf die Entwicklung und Anwendung von KI haben.",
+          "titel": "Anthropics Claude entdeckt Schwachstelle in Krypto-Algorithmus",
+          "zusammenfassung": "Anthropics KI-Modell Claude hat eigenständig eine bisher unbekannte Schwachstelle in einem komplexen Krypto-Algorithmus identifiziert. Diese Entdeckung unterstreicht die fortschrittlichen analytischen Fähigkeiten von KI-Systemen im Bereich der Cybersicherheit. Es zeigt das Potenzial von KI, proaktiv Sicherheitslücken aufzudecken.",
           "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43VTY0bjR1bXVMQkcyclVWX2dGOUJjX3E5SFRIX0pRTTZaeVpLM0FhYWJPb3BTd0FPQnpCRjRxb0lMNTJDVUIwR0k1Znk3NXA5U0dXRU9nNnYxQjQwRU82dEVvcHQ3ZW53R0themFZdGV3WFdGMko0?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEdsY09XMEJKRVpOTWg1cGd2dXlFaWRFeFlZOGtvNTZ0UjV5RkJsQlVWTWo5cGtmcXR5emJVZFZKZC1yWWJFb0syNjJQOGFaRzh1Q3I1TWVobE9oQWdBX0JGZU96QlFDeUE5QUVZNUFsNWJDd0hnVHBZektmYWM3eUk3MHlVb2tSRTJnM1p2dUNxTG14cE1HbXZhRlJ1V2V4QWdHaw?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Was sind große Sprachmodelle (LLM)?",
+          "zusammenfassung": "Dieser Artikel erklärt die Grundlagen großer Sprachmodelle (LLM), ihre Funktionsweise und ihre Bedeutung für die Entwicklung künstlicher Intelligenz. Er beleuchtet die Architektur und die Trainingsmethoden, die diesen mächtigen KI-Systemen zugrunde liegen. Das Verständnis von LLMs ist entscheidend für die Bewertung aktueller KI-Fortschritte.",
+          "einordnung": "",
+          "quelle": "Databricks",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUEZqZTJ5RTktZHViZVpiSFZjbHcwZUU1d25KX1JsU3pPODlPNlpLMXY3cDRMV1RFUHlzc1EwWFpLOVhQZTNxQTZWcVY4VmF0SkhuOThtUmtGc2NhTW1zNktReGZETG9jVjdUNjNFblM2cEE?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "Large Language Model: Was ist das ?",
+          "zusammenfassung": "Der Artikel bietet eine grundlegende Einführung in Large Language Models (LLMs) und erklärt deren Definition und Funktionsweise. Er richtet sich an ein breiteres Publikum, um das Verständnis für diese Schlüsseltechnologie der künstlichen Intelligenz zu fördern. Ein besseres Verständnis von LLMs ist essenziell, um die aktuellen Entwicklungen in der KI-Welt einordnen zu können.",
+          "einordnung": "",
+          "quelle": "Liora",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNaDg5WHBNaUtxMGFGOXB2NnFVUm1fUFUwNGFqUjF5OWZsSjMxVXIyWUNzVkxRMVZKVnVQZmxUNXkzaFhwSVQySDgzQ1BWZlNFLUcwZmN4Qlp4c1NKR1BtYzhB?oc=5",
+          "sterne": "⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "🛡️",
+      "titel": "KI & Sicherheit",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "(S+) OpenAI-Vorfall mit Hugging Face: IT-Sicherheitsexperte sieht Versäumnisse bei OpenAI",
+          "zusammenfassung": "Ein IT-Sicherheitsexperte kritisiert OpenAI nach einem Vorfall mit Hugging Face, bei dem sensible Daten potenziell kompromittiert wurden. Er sieht deutliche Versäumnisse in den Sicherheitsmaßnahmen des KI-Unternehmens. Der Vorfall wirft ernste Fragen zur Robustheit der Sicherheitsarchitektur von führenden KI-Entwicklern auf.",
+          "einordnung": "",
+          "quelle": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaTRDcjgtMUQ0WDVDSnBJSVphcnFXbDBfS1BZMm9sZjVsY1g4NDdLcnJMUk5Ib096V3A4SDRFTGtoS19XVWNjLVBoSmxndmlQQzBIZWhXWFVCT2sxb1lBajNVMUhIOWxoOEFvbFlhWklZT3p1b0steWk2c1lQOXBjNmhVcG9SYW1uZ1pSREwtMDRXaTZOS1J4aWRHTkZrQ1p5d3BrTEdPTlA0Q3Y4QndqX0RZR0k3bl9ySVQwV1hlVDZrYUE3Z2oxVFpKSVJSVzFTWUNPUTREUFBtajAtbUd4R2k5VWJUUl9SblFz?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Künstliche Intelligenz: Anthropic gesteht ebenfalls Hackerangriff von KI-Modell Claude",
+          "zusammenfassung": "Nach OpenAI hat nun auch Anthropic, ein weiterer führender KI-Entwickler, einen Hackerangriff auf sein KI-Modell Claude eingeräumt. Der Vorfall wirft ernste Fragen zur Sicherheit von großen Sprachmodellen auf und zeigt, dass auch fortgeschrittene Systeme anfällig für Cyberangriffe sind. Dies könnte zu einem verstärkten Fokus auf KI-Sicherheitsprotokolle führen.",
+          "einordnung": "",
+          "quelle": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS2RQa0xkTXBjWUh0TVVQT2dtMDd5T3JiY0hOb0E4RHdmaklQbWRYckhUWWJKU05heEFZNUVmZERxSGUxMlJ3Uk1lZVoyS2VtTTJITjAweFNtcjdNeUpVMVc1d2NvZ0FNSGhaWUFDdG5RWEt6U3J5aklSbGpCWXhUdncxUGJJYzdUYUNJLVNiX2xhNVhCcFRnRmRR?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Nach OpenAI: Auch Anthropic griff echte Firmen an",
+          "zusammenfassung": "Ähnlich wie OpenAI wurde bekannt, dass auch Anthropic bei der Entwicklung und dem Training seiner KI-Modelle reale Unternehmensdaten ohne explizite Zustimmung verwendet hat. Dieser Vorwurf wirft ethische und rechtliche Fragen bezüglich der Datennutzung in der KI-Entwicklung auf. Die Praxis könnte weitreichende Konsequenzen für die Branche haben.",
+          "einordnung": "",
+          "quelle": "ZDFheute",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0ZsOXk2YWhUeGhZbEF2Z21FY2Via1BRRnIzVmZFakRYWF8wbmxxS2pYaktKcllGUGdOcnhId3pNdnRQWDdvQXhGS25KZ3JxbTVoQkVWZ2xTeTNNbXo4TGxtbWlWM3YtYkR3a0x4MnNfaEhGUUI3WUlCQ09TQk9SR2NsVXB1bURvTGc4YWJia2FMWlFjVVVOZWFTVGFTemtaZXlZZHRUSlF4QzlJcDhjcw?oc=5",
+          "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "🌐",
+      "titel": "KI & Branchenintegration",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "EQS-News: Revolut kooperiert mit OpenAI und bringt ChatGPT Go zu Millionen von Kunden",
+          "zusammenfassung": "Revolut, der Finanztechnologie-Gigant, hat eine strategische Partnerschaft mit OpenAI angekündigt, um ChatGPT Go direkt in seine Dienste zu integrieren. Millionen von Kunden erhalten damit Zugang zu KI-gestützten Funktionen, die Finanzmanagement und Interaktionen revolutionieren könnten. Diese Kooperation zeigt das wachsende Potenzial von KI in der Finanzbranche.",
+          "einordnung": "",
+          "quelle": "boerse.de",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSUhHSnlWdFh0SVhWNmdFOC03SFhMd290SGZjTTJzcldTM0lYcGRENXJmcXVoZTF6X1FtS2VXNlFkaEdOUFFnMWRfazNtdHdrOFdpTXZidlJaUkpab0VSQzFCRGlJc196Z2dIU2ZvU1lQRmViTnN6RzgzWlcxSzd0dS1QMzNrR25qYUdiRTVTaVRIM3o5MkN4dXp1TV9tTFFBb2IwdnBfUWp3R0xuajRQU2w0cW5QdU5SZzdTNmNvMWt5dXYycUHSAcsBQVVfeXFMTUluSV9VV3BkWFVxNjlZYmxRczZVclRGZVZicUZIVHhCZjdsZ3YwTU1ReWw1QjZvSGJTMnhRWm5xSDFkS2d3R2VZNDFCWHhjU016OVM0aDdsSkRqd1FfajduQVpPNkZmbXh6eUhuRmR3YXpOZFVid2VSTFRDX2sxeVBHLTQwZllSb2tJYlcyOTI4QTVleGppZWFnRzlxYlJrZ0YwYUJ6V0dNbGxyQTdBX0pEY01KaXJxYXEwbllKazUwTFBlZXFVZE9FLW8?oc=5",
           "sterne": "⭐⭐"
         },
         {
           "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
-          "zusammenfassung": "Der Artikel untersucht das vielversprechende Potenzial von Large Language Models (LLMs) in der Onkologie, etwa bei der Diagnoseunterstützung oder Therapieplanung. Gleichzeitig werden erhebliche Infrastrukturprobleme und Herausforderungen bei der Implementierung in klinischen Umgebungen aufgezeigt. Es wird deutlich, dass trotz des Potenzials noch Hürden zu überwinden sind, bevor LLMs ihren vollen Nutzen im Gesundheitswesen entfalten können.",
+          "zusammenfassung": "Der Einsatz von Large Language Models (LLMs) in der Onkologie birgt enormes Potenzial für Diagnostik und Therapieplanung. Der Artikel beleuchtet jedoch auch die erheblichen Infrastrukturprobleme, die einer breiten Implementierung noch im Wege stehen. Es wird diskutiert, wie diese Herausforderungen gemeistert werden können, um die Gesundheitsversorgung zu revolutionieren.",
           "einordnung": "",
           "quelle": "healthcare-in-europe.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
           "sterne": "⭐⭐"
         }
       ]
-    },
-    {
-      "emoji": "🚨",
-      "titel": "KI & Datenschutz",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "Claude-Datenleck: Tausende Chats in Suchmaschinen gelandet",
-          "zusammenfassung": "heise online berichtet über ein schwerwiegendes Datenleck bei Anthropic's KI-Modell Claude, bei dem Tausende private Chats in Suchmaschinen indiziert wurden. Dieses Vorkommnis offenbart erhebliche Sicherheitslücken und wirft ernste Fragen zum Schutz sensibler Nutzerdaten auf. Der Vorfall unterstreicht die Notwendigkeit robuster Datenschutzmaßnahmen bei KI-Anwendungen.",
-          "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM0lNVHJfYlJGSGMyNi01NEx3OFhDWW85SFk1VF9oRjg4c0o2RnN2WnYyRmZuSGE1WjRaOTctYmNBVFRrcGRVQjFoRXdoVjdMMEFuajYxUWpCVUVGR0V1UlZqLVdGZUpsU1dWMjhiLTJRdVJUbUQxQ3hiSEdjRkhGRzNqTnIzZjFrZmtqTkZhbE5weko1TEVzTDduYXZ0dw?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Anthropic Claude: Private KI-Chats tauchten in Google-Suchergebnissen auf",
-          "zusammenfassung": "Der Spiegel bestätigt das Datenleck bei Anthropic's KI Claude, bei dem private Konversationen in den Google-Suchergebnissen auffindbar waren. Der Artikel beleuchtet die Brisanz des Vorfalls, da sensible Informationen öffentlich zugänglich wurden. Dies verstärkt die Debatte über die Sicherheit und Vertraulichkeit von KI-Interaktionen.",
-          "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeS1KMTN6cG5ZaF9HN2RkWW5JQm4zMnJLc29YbkI0ZGY2Vzk5dmlnMEF2OXVpRDVwT2duUi05LXVqajNtQU9lSVRJMVVOTnV1NDNHQ05RbWcyVVlCdEYzQjJJd0J3UFU1NHJrV1N4bUsxYTFmcDhlRG1UYmJPbkhoRVpCTHp2NDFXWW8wdEl2NHFFYXNuZ1kxX0pRZHFDV2VVcTRBa2M4ekVSbXVYRUlzLUk3LW0zR2p3WjdzRkYycEV0d3RwNXFKc21hMGx5ZVhLWklnSnZFQUJPUDA?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Arztberichte und Geheimschlüssel: KI-Chats landen bei Google",
-          "zusammenfassung": "Blick liefert weitere Details zum Claude-Datenleck und berichtet, dass unter den öffentlich gewordenen KI-Chats sogar sensible Arztberichte und Geheimschlüssel waren. Dieser Umstand erhöht die Dringlichkeit der Debatte um Datensicherheit bei KI-Anwendungen. Der Artikel warnt vor den weitreichenden Konsequenzen solcher Lecks für die Privatsphäre der Nutzer.",
-          "einordnung": "",
-          "quelle": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS25ZcGwySTFWNk02WWNmMVh5a1p2T3RCUEN4ZE8zLXZPMHJCMkNIdUlrNDlhRUVUZXY3WFplNTdWNDI0YjE2US0xOG5nU0VvUFFzUWsySTJQMURnb1BYZzlWcmtvM2NodnVpX2dqQkd2aENlSXZ5ZXBJeC1LdFB4S0hmMkM0a0gtZTBaR0NialRnVnFLWW5XYThZU1J2RzRKV3NYSVBNN2k1ZjZiOV9pdkx1N1lqTDNVQWJmV0hyQjJwa0JBM24wdk53OUxwNlEwcE1HeQ?oc=5",
-          "sterne": "⭐⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "🌍",
-      "titel": "KI & Gesellschaft",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "Deepfake-Kennzeichnung per EU-Gesetz: Funktioniert das?",
-          "zusammenfassung": "Euronews diskutiert die Wirksamkeit der bevorstehenden EU-Gesetze zur Kennzeichnung von Deepfakes und hinterfragt, ob die neuen Vorschriften ausreichen, um die Verbreitung und Erkennung von manipulierten Inhalten effektiv einzudämmen. Der Artikel beleuchtet die Herausforderungen bei der technischen Umsetzung und Akzeptanz der Kennzeichnungspflicht in der Gesellschaft.",
-          "einordnung": "",
-          "quelle": "Euronews",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnB3ZTUwTnViTWEyVGY0OHpMM21NNGZqV1M4cTlpMF9uU3BQOUFlcVJobzRfMEhON1lZMndhcGRMZ29tQ0xLOE9aWkRSQjNCQndiQngyV2JFLWo1Wnh5R0w1Z3dXdlZtclFoLXdBbVpkMWFtYTRlc2dTVUdkODNXWjU2T0M5RElzaTdxa2MySER0dVA5a0JNOFJZdTJtaGtObThvbWc3UU1JbUlFanBvc0tIazVrOVpS?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "KI wird von Fans kritisch beäugt, aber Dragon Quest setzt trotzdem weiter darauf",
-          "zusammenfassung": "Trotz Skepsis und Kritik von Fans setzt die beliebte Spielreihe Dragon Quest weiterhin auf den Einsatz von Künstlicher Intelligenz in der Entwicklung. Der Artikel beleuchtet die Herausforderungen und Chancen, die sich aus der Integration von KI in Videospiele ergeben. Es wird diskutiert, wie Entwickler die Balance zwischen Innovation und Spielerakzeptanz finden.",
-          "einordnung": "",
-          "quelle": "jpgames.de",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjdJVHJ3YWhtMnBGQXpmbUtUMDJfc1ViblpOVjE3T3ZxMEZRWEk5WGVzU2NIdmNuaXNVMU9KYWxiZ25HR1k5S3ZNWGhVdTE3TkVjS2FhdTlIRFhCdHZaRGdkNTFIWXg5N3NENTkzT3lFOHlERUxmV2JYMC13XzZ0SmlwWlZlcEwzemdtUEFQS3NiZHpCZEhRVmxtbzFqQmJ6VjJRUFotY2RGUll4?oc=5",
-          "sterne": "⭐"
-        }
-      ]
     }
   ],
-  "generiert_um": "2026-07-30T08:03:33.288Z",
+  "generiert_um": "2026-07-31T08:29:44.275Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -205,9 +205,9 @@
     {
       "name": "OMR Podcast",
       "desc": "Philipp Westermeyer · Tech & Business",
-      "episode": "Mit Hautpflege zum Millionen-Business: Nø Cosmetics-Gründerin Caroline Kroll (#927)",
-      "datum": "29.7.2026",
-      "dauer": "65 Min.",
+      "episode": "OMR Classic: Brillen-König Marc Fielmann",
+      "datum": "31.7.2026",
+      "dauer": "76 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH"
     },
@@ -241,9 +241,9 @@
     {
       "name": "F.A.Z. Künstliche Intelligenz",
       "desc": "KI in Wirtschaft & Unternehmen",
-      "episode": "Neue Episode August 26",
-      "datum": "29.7.2026",
-      "dauer": "44 Min.",
+      "episode": "BSI-Präsidentin Claudia Plattner: „Wir stellen uns auf raues Wetter ein”",
+      "datum": "1.7.2026",
+      "dauer": "37 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/69/b5/30/69b53074-fdfa-310b-ad86-92d3200bee7f/mza_3137522662091385225.png/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/2e0ib9yPTdELNdzzKojhKO"
     }
