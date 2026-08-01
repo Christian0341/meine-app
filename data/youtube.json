@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-07-31T09:48:57.353292+00:00",
+  "aktualisiert": "2026-08-01T09:10:27.562262+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christian Steinscherer",
+      "titel": "Landingpage mit Gemini erstellen und kostenlos online stellen",
+      "link": "https://www.youtube.com/watch?v=-0BIahpDyeM",
+      "video_id": "-0BIahpDyeM",
+      "thumbnail": "https://img.youtube.com/vi/-0BIahpDyeM/mqdefault.jpg",
+      "datum": "2026-08-01T06:00:28Z",
+      "datum_de": "01.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Wie ANTHROPIC intern mit CLAUDE arbeitet und wie MCP zum Industriestandard wurde! 💬 🚀",
+      "link": "https://www.youtube.com/watch?v=1guudCDr0H4",
+      "video_id": "1guudCDr0H4",
+      "thumbnail": "https://img.youtube.com/vi/1guudCDr0H4/mqdefault.jpg",
+      "datum": "2026-07-31T10:00:32+00:00",
+      "datum_de": "31.07.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "Firma steuert 19 Glocken im Freiburger Dom - Jetzt kommt KI-Automatisierung | Everlast AI Erfahrung",
@@ -131,26 +151,6 @@
       "datum": "2026-07-28T13:23:18+00:00",
       "datum_de": "28.07.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Learn German with News | LinguaWire",
-      "titel": "OpenAI says: Two models break out | German A1 lesson from today&#39;s news · LINGUAWIRE Nº014",
-      "link": "https://www.youtube.com/watch?v=XElvpmyg3Oo",
-      "video_id": "XElvpmyg3Oo",
-      "thumbnail": "https://img.youtube.com/vi/XElvpmyg3Oo/mqdefault.jpg",
-      "datum": "2026-07-28T10:43:26Z",
-      "datum_de": "28.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Learn Languages with Daily News | LinguaWire",
-      "titel": "OpenAI says: Two models break out | German A1 lesson from today&#39;s news · LINGUAWIRE Nº014",
-      "link": "https://www.youtube.com/watch?v=wBPNFyPdZp0",
-      "video_id": "wBPNFyPdZp0",
-      "thumbnail": "https://img.youtube.com/vi/wBPNFyPdZp0/mqdefault.jpg",
-      "datum": "2026-07-28T10:43:18Z",
-      "datum_de": "28.07.2026",
-      "quelle": "suche"
     }
   ]
 }
