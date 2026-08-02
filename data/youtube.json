@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-08-01T09:10:27.562262+00:00",
+  "aktualisiert": "2026-08-02T09:13:49.671536+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-Videos haben eine GRENZE überschritten: DAS kann Seedance 2.5! + Claude Code & Codex Updates",
+      "link": "https://www.youtube.com/watch?v=IYzgxWs4sZ4",
+      "video_id": "IYzgxWs4sZ4",
+      "thumbnail": "https://img.youtube.com/vi/IYzgxWs4sZ4/mqdefault.jpg",
+      "datum": "2026-08-02T08:15:29+00:00",
+      "datum_de": "02.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Nils Harder",
+      "titel": "QWEN GEGEN GEMMA 4: welches lokale Modell dein KI-Agent wirklich braucht",
+      "link": "https://www.youtube.com/watch?v=bRLuEbCd1-A",
+      "video_id": "bRLuEbCd1-A",
+      "thumbnail": "https://img.youtube.com/vi/bRLuEbCd1-A/mqdefault.jpg",
+      "datum": "2026-08-01T16:06:06Z",
+      "datum_de": "01.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Cristian Gebauhr",
+      "titel": "Claude für Anfänger: Der KI-Agent Schritt für Schritt erklärt",
+      "link": "https://www.youtube.com/watch?v=7IJP13l7v3Q",
+      "video_id": "7IJP13l7v3Q",
+      "thumbnail": "https://img.youtube.com/vi/7IJP13l7v3Q/mqdefault.jpg",
+      "datum": "2026-08-01T15:00:13Z",
+      "datum_de": "01.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI TAKT",
+      "titel": "ChatGPT Work Diese Funktion aktiviert den Gottmodus",
+      "link": "https://www.youtube.com/watch?v=rjnZSrNmFeY",
+      "video_id": "rjnZSrNmFeY",
+      "thumbnail": "https://img.youtube.com/vi/rjnZSrNmFeY/mqdefault.jpg",
+      "datum": "2026-08-01T11:49:07Z",
+      "datum_de": "01.08.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christian Steinscherer",
       "titel": "Landingpage mit Gemini erstellen und kostenlos online stellen",
@@ -39,6 +79,16 @@
       "video_id": "gz0PBC2P9eg",
       "thumbnail": "https://img.youtube.com/vi/gz0PBC2P9eg/mqdefault.jpg",
       "datum": "2026-07-30T17:41:23Z",
+      "datum_de": "30.07.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Leon Chaudhari",
+      "titel": "Vergiss KI Videos! Der BESTE Weg mit CLAUDE AI ein KI Business aufzubauen",
+      "link": "https://www.youtube.com/watch?v=fmnxv3RwLzs",
+      "video_id": "fmnxv3RwLzs",
+      "thumbnail": "https://img.youtube.com/vi/fmnxv3RwLzs/mqdefault.jpg",
+      "datum": "2026-07-30T16:20:32Z",
       "datum_de": "30.07.2026",
       "quelle": "suche"
     },
@@ -100,56 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/VwX6B7VQSUc/mqdefault.jpg",
       "datum": "2026-07-29T13:41:16+00:00",
       "datum_de": "29.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Warum KI immer schlechter wird",
-      "link": "https://www.youtube.com/watch?v=sEGYxK0G1P8",
-      "video_id": "sEGYxK0G1P8",
-      "thumbnail": "https://img.youtube.com/vi/sEGYxK0G1P8/mqdefault.jpg",
-      "datum": "2026-07-29T13:00:37+00:00",
-      "datum_de": "29.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Damian",
-      "titel": "YouTube Videos auf Autopilot: Mein KI-Studio mit Claude &amp; OBS",
-      "link": "https://www.youtube.com/watch?v=YsjgHH7HJr8",
-      "video_id": "YsjgHH7HJr8",
-      "thumbnail": "https://img.youtube.com/vi/YsjgHH7HJr8/mqdefault.jpg",
-      "datum": "2026-07-28T17:01:50Z",
-      "datum_de": "28.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI bricht AUS: GPT-6 hackt sich frei! Kimi-Bann, Chinas Plan & Mistral-Aus - KI-Experten reagieren",
-      "link": "https://www.youtube.com/watch?v=ny4c3xVwh1g",
-      "video_id": "ny4c3xVwh1g",
-      "thumbnail": "https://img.youtube.com/vi/ny4c3xVwh1g/mqdefault.jpg",
-      "datum": "2026-07-28T15:15:27+00:00",
-      "datum_de": "28.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "NANCY | KI-Workflows im Büro",
-      "titel": "NotebookLM ist jetzt Gemini Notebook: 17 Dateien, 1 Briefing, 8 Minuten",
-      "link": "https://www.youtube.com/watch?v=cIv0usQVe6U",
-      "video_id": "cIv0usQVe6U",
-      "thumbnail": "https://img.youtube.com/vi/cIv0usQVe6U/mqdefault.jpg",
-      "datum": "2026-07-28T14:00:31Z",
-      "datum_de": "28.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Was steckt hinter Prompts? #ki #tokens",
-      "link": "https://www.youtube.com/shorts/woDHTQMYwIM",
-      "video_id": "woDHTQMYwIM",
-      "thumbnail": "https://img.youtube.com/vi/woDHTQMYwIM/mqdefault.jpg",
-      "datum": "2026-07-28T13:23:18+00:00",
-      "datum_de": "28.07.2026",
       "quelle": "kanal"
     }
   ]
