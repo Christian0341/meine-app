@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-08-03T10:48:58.302857+00:00",
+  "aktualisiert": "2026-08-04T09:41:56.367473+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "Du promptest Claude Opus 5 falsch, und zwar genau andersherum als du denkst (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=Lm93hhdhRxI",
+      "video_id": "Lm93hhdhRxI",
+      "thumbnail": "https://img.youtube.com/vi/Lm93hhdhRxI/mqdefault.jpg",
+      "datum": "2026-08-03T14:00:30Z",
+      "datum_de": "03.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "WIGA Digital - Verein für digitale Bildung & KI",
+      "titel": "Gemini Notebook Wissen und Recherche",
+      "link": "https://www.youtube.com/watch?v=WYN6PLoFjVI",
+      "video_id": "WYN6PLoFjVI",
+      "thumbnail": "https://img.youtube.com/vi/WYN6PLoFjVI/mqdefault.jpg",
+      "datum": "2026-08-03T12:21:30Z",
+      "datum_de": "03.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "WIGA Digital - Verein für digitale Bildung & KI",
+      "titel": "Gemini Notebook Tutorial Deutsch 01 – Basis",
+      "link": "https://www.youtube.com/watch?v=nfa4o1mHwCg",
+      "video_id": "nfa4o1mHwCg",
+      "thumbnail": "https://img.youtube.com/vi/nfa4o1mHwCg/mqdefault.jpg",
+      "datum": "2026-08-03T12:15:46Z",
+      "datum_de": "03.08.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Rayan Berangi",
       "titel": "Claude hat Online Geld Verdienen für immer verändert (Tutorial)",
@@ -24,13 +54,23 @@
     },
     {
       "kanal": "Neuland Pro",
-      "titel": "KRASSE KI-NEWS: Claude Opus 5 ist DA - OpenAI bestätigt spektakulären KI-HACK!",
+      "titel": "KI-NEWS: Es ist passiert - Kimi K3 löst Panik aus - ChatGPT lief Amok - Opus 5 ist da",
       "link": "https://www.youtube.com/watch?v=BuCuApae4GU",
       "video_id": "BuCuApae4GU",
       "thumbnail": "https://img.youtube.com/vi/BuCuApae4GU/mqdefault.jpg",
       "datum": "2026-08-02T14:00:44+00:00",
       "datum_de": "02.08.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Unfairer Vorteil | KI",
+      "titel": "Claude-Skills wurden komplett NEU erfunden… (keine Prompts nötig)",
+      "link": "https://www.youtube.com/watch?v=HcWpz-0YLRo",
+      "video_id": "HcWpz-0YLRo",
+      "thumbnail": "https://img.youtube.com/vi/HcWpz-0YLRo/mqdefault.jpg",
+      "datum": "2026-08-02T13:37:14Z",
+      "datum_de": "02.08.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Everlast AI",
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/uJAXiORp0z4/mqdefault.jpg",
       "datum": "2026-07-31T08:30:39+00:00",
       "datum_de": "31.07.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "UnderdoxAI",
-      "titel": "Claude Opus 5 im Ultra-Test: Baut KI jetzt ganze Spiele?",
-      "link": "https://www.youtube.com/watch?v=G9FC-L-qH2E",
-      "video_id": "G9FC-L-qH2E",
-      "thumbnail": "https://img.youtube.com/vi/G9FC-L-qH2E/mqdefault.jpg",
-      "datum": "2026-07-30T19:24:20Z",
-      "datum_de": "30.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Julian Ivanov | KI-Automatisierung",
-      "titel": "So erstellst du interaktive Schulungen mit Claude Code auf Knopfdruck",
-      "link": "https://www.youtube.com/watch?v=gz0PBC2P9eg",
-      "video_id": "gz0PBC2P9eg",
-      "thumbnail": "https://img.youtube.com/vi/gz0PBC2P9eg/mqdefault.jpg",
-      "datum": "2026-07-30T17:41:23Z",
-      "datum_de": "30.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Leon Chaudhari",
-      "titel": "Vergiss KI Videos! Der BESTE Weg mit CLAUDE AI ein KI Business aufzubauen",
-      "link": "https://www.youtube.com/watch?v=fmnxv3RwLzs",
-      "video_id": "fmnxv3RwLzs",
-      "thumbnail": "https://img.youtube.com/vi/fmnxv3RwLzs/mqdefault.jpg",
-      "datum": "2026-07-30T16:20:32Z",
-      "datum_de": "30.07.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "„Wir haben noch GAR NICHTS gesehen!\" Neuromorphe Chips & 2075 (Prof. Rainer Waser)",
-      "link": "https://www.youtube.com/watch?v=__MsXVljTH0",
-      "video_id": "__MsXVljTH0",
-      "thumbnail": "https://img.youtube.com/vi/__MsXVljTH0/mqdefault.jpg",
-      "datum": "2026-07-30T15:15:11+00:00",
-      "datum_de": "30.07.2026",
       "quelle": "kanal"
     }
   ]
