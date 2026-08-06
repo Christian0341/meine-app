@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-08-05T09:40:50.343287+00:00",
+  "aktualisiert": "2026-08-06T09:43:51.994781+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "UX by Chris",
+      "titel": "Figma MCP in Claude: Design, Prototyp und React-Code aus einem Prompt",
+      "link": "https://www.youtube.com/watch?v=STXa7nzENxk",
+      "video_id": "STXa7nzENxk",
+      "thumbnail": "https://img.youtube.com/vi/STXa7nzENxk/mqdefault.jpg",
+      "datum": "2026-08-05T16:13:05Z",
+      "datum_de": "05.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "IchBinFabian",
+      "titel": "Kimi K3 vs Claude Opus 5 im Code-Test: Wer findet die versteckten Fehler?",
+      "link": "https://www.youtube.com/watch?v=hEbXiB5oKg4",
+      "video_id": "hEbXiB5oKg4",
+      "thumbnail": "https://img.youtube.com/vi/hEbXiB5oKg4/mqdefault.jpg",
+      "datum": "2026-08-05T15:30:02Z",
+      "datum_de": "05.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "CHATGPT mit der STIMME steuern? Voice Mode im Test!",
+      "link": "https://www.youtube.com/watch?v=DP_sH7j-Cyk",
+      "video_id": "DP_sH7j-Cyk",
+      "thumbnail": "https://img.youtube.com/vi/DP_sH7j-Cyk/mqdefault.jpg",
+      "datum": "2026-08-05T14:53:45+00:00",
+      "datum_de": "05.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Jack Dorsey's NEUE Buzz AI macht mich sprachlos!",
+      "link": "https://www.youtube.com/watch?v=sdtzPTGhBDA",
+      "video_id": "sdtzPTGhBDA",
+      "thumbnail": "https://img.youtube.com/vi/sdtzPTGhBDA/mqdefault.jpg",
+      "datum": "2026-08-05T14:15:25+00:00",
+      "datum_de": "05.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Nigel Kretschmer | Swiss AI Automation",
+      "titel": "n8n Workflow: Finanzdaten automatisch in Sheets &amp; Datenbank",
+      "link": "https://www.youtube.com/watch?v=g541Y4gbPR4",
+      "video_id": "g541Y4gbPR4",
+      "thumbnail": "https://img.youtube.com/vi/g541Y4gbPR4/mqdefault.jpg",
+      "datum": "2026-08-05T11:00:25Z",
+      "datum_de": "05.08.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "BrokerChooser Deutsch",
       "titel": "Die Zwei Größten KI-Börsengänge Stehen Bevor: Anthropic oder OpenAI?",
@@ -101,56 +151,6 @@
       "datum": "2026-08-02T14:00:44+00:00",
       "datum_de": "02.08.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI-Videos haben eine GRENZE überschritten: DAS kann Seedance 2.5! + Claude Code & Codex Updates",
-      "link": "https://www.youtube.com/watch?v=IYzgxWs4sZ4",
-      "video_id": "IYzgxWs4sZ4",
-      "thumbnail": "https://img.youtube.com/vi/IYzgxWs4sZ4/mqdefault.jpg",
-      "datum": "2026-08-02T08:15:29+00:00",
-      "datum_de": "02.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Nils Harder",
-      "titel": "QWEN GEGEN GEMMA 4: welches lokale Modell dein KI-Agent wirklich braucht",
-      "link": "https://www.youtube.com/watch?v=bRLuEbCd1-A",
-      "video_id": "bRLuEbCd1-A",
-      "thumbnail": "https://img.youtube.com/vi/bRLuEbCd1-A/mqdefault.jpg",
-      "datum": "2026-08-01T16:06:06Z",
-      "datum_de": "01.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Schritt-für-Schritt",
-      "titel": "Claude für Anfänger: Der KI-Agent Schritt für Schritt erklärt",
-      "link": "https://www.youtube.com/watch?v=7IJP13l7v3Q",
-      "video_id": "7IJP13l7v3Q",
-      "thumbnail": "https://img.youtube.com/vi/7IJP13l7v3Q/mqdefault.jpg",
-      "datum": "2026-08-01T15:00:13Z",
-      "datum_de": "01.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI TAKT",
-      "titel": "ChatGPT Work Diese Funktion aktiviert den Gottmodus",
-      "link": "https://www.youtube.com/watch?v=rjnZSrNmFeY",
-      "video_id": "rjnZSrNmFeY",
-      "thumbnail": "https://img.youtube.com/vi/rjnZSrNmFeY/mqdefault.jpg",
-      "datum": "2026-08-01T11:49:07Z",
-      "datum_de": "01.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christian Steinscherer",
-      "titel": "Landingpage mit Gemini erstellen und kostenlos online stellen",
-      "link": "https://www.youtube.com/watch?v=-0BIahpDyeM",
-      "video_id": "-0BIahpDyeM",
-      "thumbnail": "https://img.youtube.com/vi/-0BIahpDyeM/mqdefault.jpg",
-      "datum": "2026-08-01T06:00:28Z",
-      "datum_de": "01.08.2026",
-      "quelle": "suche"
     }
   ]
 }
