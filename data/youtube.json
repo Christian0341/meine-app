@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-08-07T08:18:17.271987+00:00",
+  "aktualisiert": "2026-08-08T07:52:32.854460+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Die besten kostenlosen KI-Tools in 2026",
+      "link": "https://www.youtube.com/watch?v=DK-yy1Vp6EI",
+      "video_id": "DK-yy1Vp6EI",
+      "thumbnail": "https://img.youtube.com/vi/DK-yy1Vp6EI/mqdefault.jpg",
+      "datum": "2026-08-07T12:00:34+00:00",
+      "datum_de": "07.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "MikesWorld",
+      "titel": "Neue Google Gemini Features, die dich wirklich überraschen werden 🤯",
+      "link": "https://www.youtube.com/watch?v=2fAbsJiLEwo",
+      "video_id": "2fAbsJiLEwo",
+      "thumbnail": "https://img.youtube.com/vi/2fAbsJiLEwo/mqdefault.jpg",
+      "datum": "2026-08-06T16:00:34Z",
+      "datum_de": "06.08.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "Sie BELÜGEN dich über China! Was hier Realität ist, glaubt mir niemand - China-Insider Derksen",
@@ -73,6 +93,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Manuel Wagner",
+      "titel": "Leopold Aschenbrenner: Vom OpenAI-Genie zum 45-Milliarden-Absturz",
+      "link": "https://www.youtube.com/watch?v=euUwGM3c9UU",
+      "video_id": "euUwGM3c9UU",
+      "thumbnail": "https://img.youtube.com/vi/euUwGM3c9UU/mqdefault.jpg",
+      "datum": "2026-08-04T18:00:06Z",
+      "datum_de": "04.08.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "BrokerChooser Deutsch",
       "titel": "Die Zwei Größten KI-Börsengänge Stehen Bevor: Anthropic oder OpenAI?",
       "link": "https://www.youtube.com/watch?v=JcGz7fjq4lk",
@@ -121,36 +151,6 @@
       "datum": "2026-08-03T13:35:57Z",
       "datum_de": "03.08.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "WIGA Digital - Verein für digitale Bildung & KI",
-      "titel": "Gemini Notebook Tutorial Deutsch 01 – Basis",
-      "link": "https://www.youtube.com/watch?v=nfa4o1mHwCg",
-      "video_id": "nfa4o1mHwCg",
-      "thumbnail": "https://img.youtube.com/vi/nfa4o1mHwCg/mqdefault.jpg",
-      "datum": "2026-08-03T12:15:46Z",
-      "datum_de": "03.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Rayan Berangi",
-      "titel": "Claude hat Online Geld Verdienen für immer verändert (Tutorial)",
-      "link": "https://www.youtube.com/watch?v=_4mfCVZVrzI",
-      "video_id": "_4mfCVZVrzI",
-      "thumbnail": "https://img.youtube.com/vi/_4mfCVZVrzI/mqdefault.jpg",
-      "datum": "2026-08-02T16:00:12Z",
-      "datum_de": "02.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "300 Stunden Hermes Agent Wissen in 20 Minuten!",
-      "link": "https://www.youtube.com/watch?v=xS1UsGZUB6Q",
-      "video_id": "xS1UsGZUB6Q",
-      "thumbnail": "https://img.youtube.com/vi/xS1UsGZUB6Q/mqdefault.jpg",
-      "datum": "2026-08-02T14:15:21+00:00",
-      "datum_de": "02.08.2026",
-      "quelle": "kanal"
     }
   ]
 }
