@@ -1,7 +1,7 @@
 {
-  "datum": "Samstag, 8. August 2026",
-  "datumISO": "2026-08-08",
-  "tagesthema": "Sicherheitsbedenken bei OpenAI und die strategische Neuausrichtung von KI-Assistenten bei Google prägen die aktuellen KI-Nachrichten, während die EU ihre Regulierung vorantreibt.",
+  "datum": "Sonntag, 9. August 2026",
+  "datumISO": "2026-08-09",
+  "tagesthema": "Künstliche Intelligenz transformiert Wirtschaft und Alltag, während Unternehmen ihre Strategien anpassen und Regulierungen Gestalt annehmen.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -10,27 +10,35 @@
       "artikel": [
         {
           "titel": "ChatGPT knackt Milliardenmarke und hebt Chat-Limit für Gratisnutzer auf",
-          "zusammenfassung": "ChatGPT hat die beeindruckende Marke von einer Milliarde Nutzern überschritten, was seine immense Popularität unterstreicht. Gleichzeitig hat OpenAI das Chat-Limit für Gratisnutzer aufgehoben, um den Zugang zu erleichtern. Dies könnte die Nutzerbasis weiter vergrößern und die Dominanz von ChatGPT im KI-Bereich festigen.",
+          "zusammenfassung": "ChatGPT hat die Milliardenmarke bei den Nutzern überschritten, was OpenAI dazu veranlasst, das Chat-Limit für kostenlose Nutzer aufzuheben. Diese strategische Entscheidung zielt darauf ab, die Reichweite und Akzeptanz des führenden Sprachmodells weiter zu erhöhen. Der Schritt unterstreicht die aggressive Wachstumsstrategie von OpenAI im Wettbewerb um KI-Nutzer.",
           "einordnung": "",
           "quelle": "heise online",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWFIUllud3JVc0R5eDBwWmRFeGxyWk1KdjB2YTFMc2ItWlFmaTM1UUVhYmtnNnZVMzlabjRNR0psRmdPYU5XUnJXTkI5VXVwZzhiNjJrVjdHbWZqR0lJME9GdDMxTDQxdFZ6WEdMS1pQNlVQY1UtemVKdElEUGNxYlNiM0plX2Zpcm1r?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Claude Code 2.1.224: Anthropic verbindet KI-Sitzungen direkt",
-          "zusammenfassung": "Anthropic hat mit Claude Code 2.1.224 eine neue Funktion eingeführt, die KI-Sitzungen direkt miteinander verbindet. Dies ermöglicht eine nahtlosere und kontextübergreifende Interaktion mit dem Modell. Die Neuerung verbessert die Effizienz und Kohärenz bei komplexen Aufgaben und längeren Dialogen.",
+          "titel": "Claude Code: Anthropic aktiviert Auto Mode ab 14. August",
+          "zusammenfassung": "Anthropic wird ab dem 14. August den 'Auto Mode' für sein KI-Modell Claude Code aktivieren. Diese Funktion soll Entwicklern die Arbeit erleichtern und die Effizienz bei der Code-Generierung und -Analyse verbessern. Die Neuerung ist ein wichtiger Schritt zur Optimierung der Benutzerfreundlichkeit und Leistungsfähigkeit von Claude Code.",
           "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTcyQVhvb21DY2V1R0w1WUJMZFo1M1VaWGFOWkw4NS1ITHdJOFduc2lKS3BTWkFwVmt4ZU02UTlCcWtlMGpuOWdsU3dIMW0wclBCSE5odlZpcHNxUTNmRzBIZXBYZm9nblE0VENReVUyeDA3SFRYX0xJTnJkNV91SWJNRFAyM09KQ0RLUGJYNA?oc=5",
+          "quelle": "borncity.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHNhMHFPTTRuMUxPcm9oSlFWdjhPN0JTclRNallQZHN0c0loNDFCVFk1SmxsRjlObWdKcW9kZGVQUnRHampKUUV3aEphOHFTX0JUaGRIZUVqMEI0aXd6OTJja216cTViWGJDclY3OXM1S1FXWFUxNjdLS0NDaWh2N3dEM2psWmND?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Claude Fable 5: Anthropic senkt Sicherheits-Fallbacks um 85%",
-          "zusammenfassung": "Anthropic hat bei seinem neuesten Modell, Claude Fable 5, die Sicherheits-Fallbacks um 85% gesenkt. Diese Anpassung soll die Kreativität und Flexibilität des Modells erhöhen, birgt jedoch auch potenzielle Risiken. Das Unternehmen versichert, dass trotz der Reduzierung weiterhin strenge Sicherheitsstandards eingehalten werden.",
+          "titel": "Anthropic schaltet Claude Code standardmäßig auf Auto-Mode – zum Schutz der Entwickler",
+          "zusammenfassung": "Anthropic hat beschlossen, den Auto-Mode für Claude Code standardmäßig zu aktivieren, um Entwickler besser zu schützen und die Sicherheit bei der Nutzung des Modells zu erhöhen. Diese Maßnahme unterstreicht das Engagement des Unternehmens für verantwortungsvolle KI-Entwicklung. Der Fokus liegt auf der Minimierung potenzieller Risiken und der Schaffung einer sichereren Entwicklungsumgebung.",
           "einordnung": "",
-          "quelle": "Börse Express",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVdKMEpGQ01XeGRLYWlBeUFqXzl6cTV2Uk93dFFwREJZS0pseUktTWpNUC1ma1hzV3V1ZjJaaFJTczhYRTBWQ09KMjhUVWtTQkxYYXZEV2pVM25YLWl2SWw0eExSdkszbk5lUGExeHFIUElHT21DUUwwMHJGeUI2bm1oOVdITFNHdnpzUy15SmlNblZ1ME5jbmVBaThCUVRXTEYwanFHMktINW9RajJN?oc=5",
+          "quelle": "The Decoder",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNci12cXoyUXFSc3lobjREazNTLXZHR1lMT3Z3b0NMdHd2WFBzYUNlTDJ0QnJfSjdyMDZyaFltNlQ2Nnh5WFBrSWVQZDUxU203Zlg2ZjZVZ1pGbGY3NU5TQjIyRjUyQlVZdWtOekRQM2dHWFpSX2t1b2Y3all4ZjcydS1mdU9VVHhVZ0NvSXVQWVhUdUpTQjFGMy1SdmE1ZlZ1cXRQUzQ1aDFNSWRZV08w?oc=5",
           "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Claude Code v2.1.224: Anthropic führt Cross-Session-Messaging ein",
+          "zusammenfassung": "Mit der Version 2.1.224 führt Anthropic Cross-Session-Messaging für Claude Code ein. Diese neue Funktion ermöglicht eine verbesserte Kontinuität und Effizienz in der Interaktion mit dem KI-Modell über mehrere Arbeitssitzungen hinweg. Es erleichtert Entwicklern, an Projekten weiterzuarbeiten, ohne den Kontext zu verlieren.",
+          "einordnung": "",
+          "quelle": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUmZFcHZodGFabFdpR19MQ2VGeC0zZjJCbTJtdkxKdWkxelVpZ1hReWN4QmxGME5UV3dpdnBla0h5UFFCS3M3ZFlNWmJUY1d5VnJaSWdTRUt1eEZ0S3pTbEplY2VuWk8zM2xCQVdiWkx4T1RGbS04eFNIVXJFcW9uYmlKeXQ4SkVsOWRzaXlQQVNNNUJJczFqLWZQWllwMzBiOEo5ZXpQVk9YUGxrRTk1NUloZnA?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
@@ -40,20 +48,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "OpenAI: Sam Altman will 2027 ein eigenes Alexa auf den Markt bringen",
-          "zusammenfassung": "Sam Altman, CEO von OpenAI, plant die Einführung eines eigenen Sprachassistenten, der 2027 mit Amazons Alexa konkurrieren soll. Dieses Vorhaben deutet auf OpenAIs Ambitionen hin, den Markt für KI-gesteuerte Assistenten zu revolutionieren. Es wird erwartet, dass der neue Assistent fortschrittliche Konversationsfähigkeiten und Integrationen bieten wird.",
+          "titel": "OpenAI treibt sein Werbegeschäft mit ChatGPT voran – diese Funktionen kommen jetzt hinzu",
+          "zusammenfassung": "OpenAI plant, sein Werbegeschäft rund um ChatGPT signifikant auszubauen und führt dafür neue Funktionen ein. Der Artikel beleuchtet die Monetarisierungsstrategien des Unternehmens und die Erweiterung der Plattform für kommerzielle Zwecke. Dies zeigt OpenAIs Bestreben, aus dem Erfolg von ChatGPT Kapital zu schlagen und neue Einnahmequellen zu erschließen.",
           "einordnung": "",
-          "quelle": "Manager Magazin",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdnRhVG1WcUNMQklTSlJrVUlIamppQm1wVzNVOF9NTUVqYl9jZXM0TW9qUjUtb0RRakwyRzlnT3pxd1Ffb1B5OUo2V0ZFQVRXVzE3alpYYjNOV3ZjdWdvd2pNZ2s5Q3ZFUmNkNFAwblpINzdIUUFseTJCOHhOd1REdi1uQlRHYzJBMmhlNzdqWGl3dUpMaEtWTFM1QThiRHhEVzVzdFhHMlQ5UG5ReklDWU9IeFU1LWV6MGdxbWdvWDhmeWoxZU1fVHgxbkhIc1A3S1RTSHpaSW94R3lGcWdvLWRTazI0X2lPREE?oc=5",
+          "quelle": "businessinsider.de",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX215R0k0Vmo1ZUNwbFVVLUY4VGlRUlRBTkU2NncxQWNoS2M1NWREQTRMZ3lZaGoyN3BqaXJNVjlmNFlfRGdmOXAzdEFfeDVIb3pSNEU0ZWdBZHNWSmlZWkpKcjdaQ1FvN3dTS2x0X1RwT0FIQkMyUzVFcGlraVlFUHpSS18zZjhWemJqMnFOUk5JaDcyeDJXOHlWSmxuUHdJR1p3XzdvWmM3VjRmamdVT1pZMmRZX1RSTk1uMXlEMmUyaVlkaDU4RzhB?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Eigene Chips für Claude: Anthropic baut Hardware-Team auf",
-          "zusammenfassung": "Anthropic, der Entwickler des Claude-KI-Modells, baut ein eigenes Hardware-Team auf, um spezialisierte Chips zu entwickeln. Dieser Schritt zielt darauf ab, die Leistung und Effizienz der Claude-Modelle zu optimieren und die Abhängigkeit von externen Chip-Herstellern zu verringern. Die Investition in eigene Hardware unterstreicht die langfristige Strategie des Unternehmens im KI-Wettbewerb.",
+          "titel": "OpenAI: Das solltet ihr über den Tech-Giganten hinter ChatGPT wissen",
+          "zusammenfassung": "Dieser Artikel bietet einen umfassenden Überblick über OpenAI, das Unternehmen, das hinter dem bahnbrechenden Sprachmodell ChatGPT steht. Er beleuchtet die Geschichte, die Mission und die strategische Ausrichtung des Tech-Giganten, der eine führende Rolle in der globalen KI-Entwicklung spielt. Leser erhalten Einblicke in die Vision und die technologischen Fortschritte von OpenAI.",
           "einordnung": "",
-          "quelle": "ifun.de",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZmZseVRMSTY4TGw0amFmNTV5THJtMVJGclRBR001VzBiaUU4eDJZUkdMbm9DNVJUaUJiWnNvc1RJVlIxLW11cFYtYnlQZkRjM3NnVmdWcVJBVDJZSVc1XzgtX2Z4MFQyZTZ6anQ2OHctNlVrU3VmMU5EMjV3aU9OcHlNX3NCdVhfNkpOenRR?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "giga.de",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUdaRkVRcWJXbF9ZSkVkb3pSTVF2eUVlZVdXY0RUUnNZeGFVRVdfWnZYY0llVi1ONGpiS1ZSMzROQ0ROeEl6ckJwN0tOZFZRaDZKR0MwNzlTTUZZRXNadlBMb1RKdGNFTFVwdGhZblZfVnRVSXNEQXBDczM0UlE4ejRWMjc3dnozYXhWcnNzci1Mck5sejByRjFwSExsVF93bFRsdllucl9ENTFmd21QTzZzLTYtcEZmT2dGVERn?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "Ende des Google Assistant steht fest: Gemini-KI soll zum neuen Standard werden",
+          "zusammenfassung": "Google hat das bevorstehende Ende des Google Assistant offiziell bestätigt und plant, die Gemini-KI als neuen Standard für sein gesamtes Ökosystem zu etablieren. Diese strategische Neuausrichtung markiert einen entscheidenden Schritt in Googles Bemühungen, seine KI-Angebote zu konsolidieren und zu verbessern. Die Gemini-Integration soll eine leistungsfähigere und kohärentere Nutzererfahrung bieten.",
+          "einordnung": "",
+          "quelle": "Yahoo Nachrichten",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaVF5TVBtcVA1dVpxOGo5RFNZZGZTb0RBanA5NDJGREQxblo0eFV1b2ZmRmduaGI5amFxclJ4TWMtdUJDcnlnUmZxdFVudjJJaUUxcUlPZ1lwS3JHako1UjYybWljVmI5OWh5R0p4bHVQSV9Rb3BqOWJlRU41TXpfR1FfRUZ0SFk?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
@@ -64,27 +80,27 @@
       "artikel": [
         {
           "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Die Umsetzung des EU AI Act, Europas wegweisendem KI-Gesetz, gerät ins Stocken, was zu Verzögerungen bei der Regulierung führt. Interne Streitigkeiten und komplexe technische Herausforderungen bremsen den Gesetzgebungsprozess. Dies könnte die Einführung einheitlicher Standards für KI-Anwendungen in Europa weiter verzögern.",
+          "zusammenfassung": "Der Deutschlandfunk analysiert die Gründe, warum die Umsetzung des wegweisenden EU AI Act ins Stocken geraten könnte. Der Artikel beleuchtet die vielfältigen Herausforderungen und Widerstände bei der Finalisierung und Implementierung des europäischen KI-Gesetzes. Politische und technische Hürden verzögern eine schnelle Verabschiedung und praktische Anwendung.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "EU AI Act: 15-Millionen-Strafen für fehlende KI-Kennzeichnung",
-          "zusammenfassung": "Der EU AI Act sieht empfindliche Strafen von bis zu 15 Millionen Euro für Unternehmen vor, die KI-Systeme nicht ordnungsgemäß kennzeichnen. Diese Regelung soll Transparenz schaffen und Nutzer vor potenziell irreführenden KI-Inhalten schützen. Die hohen Bußgelder unterstreichen die Ernsthaftigkeit, mit der die EU die Einhaltung ihrer KI-Vorschriften durchsetzen will.",
-          "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFFIdXZtdHE4YzFPX3ExMXNIOXZnbFgza0Y4MlhhazFNazV6Zlc0T283WXJrRlV2UzJ6OFU0ajFfbGlxalJxYnRPekN4NFZUbko2ZUxvdWVsckRXVXFOUlBEalQxdkRYX2p1SXBWM2F0OXJHdzFfMDhiRmVYdlJtVy1KZnFRYWIyY0gwLTUyMm9zQQ?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
           "titel": "EU-KI-Verordnung im Unternehmen: Was Geschäftsführungen jetzt vorbereiten sollten",
-          "zusammenfassung": "Unternehmen müssen sich auf die bevorstehenden Anforderungen der EU-KI-Verordnung vorbereiten, um hohe Strafen zu vermeiden. Geschäftsführungen sollten jetzt interne Prozesse anpassen und Compliance-Strategien entwickeln. Der Artikel bietet konkrete Handlungsempfehlungen für die rechtzeitige Umsetzung der neuen KI-Gesetze.",
+          "zusammenfassung": "Wolters Kluwer gibt Geschäftsführungen konkrete Handlungsempfehlungen, wie sie ihre Unternehmen auf die bevorstehende EU-KI-Verordnung vorbereiten können. Der Artikel beleuchtet die rechtlichen Anforderungen und Compliance-Maßnahmen, die notwendig sind, um Bußgelder zu vermeiden und den Einsatz von KI gesetzeskonform zu gestalten. Eine frühzeitige Anpassung ist entscheidend für die Rechtssicherheit.",
           "einordnung": "",
           "quelle": "Wolters Kluwer",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkNaYVFQWmpobHEzdVAtUjY2REdDUjJEVnNSeTNsdkU4SGhLU2ZvbWxjX2lrQ0VKOWdleEpxQjkwX2lESmZRamdGQXljUlRHcVRVZlF0OEJ6RVo4dlVyMzZjR0s3dU9WYVFRaHZzVEN6TXN1bFcteElJR2lFU09yMHdEYVVKOWZnRjhVQWNKZ1V0ZUNUNG90WUdUbVNMNVk?oc=5",
           "sterne": "⭐⭐"
+        },
+        {
+          "titel": "EU AI Act: 15-Millionen-Strafen für fehlende KI-Kennzeichnung",
+          "zusammenfassung": "Borncity.com warnt vor den drastischen Strafen von bis zu 15 Millionen Euro, die Unternehmen bei fehlender oder falscher Kennzeichnung von KI-Systemen gemäß dem EU AI Act drohen. Der Artikel unterstreicht die Ernsthaftigkeit der neuen Regulierung und die Notwendigkeit für Unternehmen, Transparenz bei der Nutzung von Künstlicher Intelligenz zu gewährleisten. Compliance ist unerlässlich, um hohe Bußgelder zu vermeiden.",
+          "einordnung": "",
+          "quelle": "borncity.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFFIdXZtdHE4YzFPX3ExMXNIOXZnbFgza0Y4MlhhazFNazV6Zlc0T283WXJrRlV2UzJ6OFU0ajFfbGlxalJxYnRPekN4NFZUbko2ZUxvdWVsckRXVXFOUlBEalQxdkRYX2p1SXBWM2F0OXJHdzFfMDhiRmVYdlJtVy1KZnFRYWIyY0gwLTUyMm9zQQ?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
@@ -94,95 +110,87 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "KI-Modelle: Wie das Model Context Protocol die KI-Strategie verändert",
-          "zusammenfassung": "Das Model Context Protocol (MCP) revolutioniert die Art und Weise, wie Unternehmen ihre KI-Strategien entwickeln und implementieren. Es ermöglicht eine effizientere Verwaltung und Nutzung von KI-Modellen über verschiedene Anwendungen hinweg. MCP verspricht, die Skalierbarkeit und Anpassungsfähigkeit von KI-Lösungen erheblich zu verbessern.",
+          "titel": "Was sind große Sprachmodelle (LLM)?",
+          "zusammenfassung": "Databricks erklärt grundlegend, was Large Language Models (LLM) sind, wie sie funktionieren und welche Technologien dahinterstecken. Der Artikel dient als umfassende Einführung in die Konzepte und die Architektur dieser leistungsstarken KI-Systeme. Er richtet sich an Leser, die ein tieferes Verständnis für die Funktionsweise moderner KI-Sprachmodelle entwickeln möchten.",
           "einordnung": "",
-          "quelle": "digitalbusiness-magazin.de",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY1V1QzFxTnF0X0FvUU9TbG5yVUxROThmY20tNTBSWGdyMEs2amoyWF84SWtWSjJSazB6Q1ZnQ0l0LW5YQzlyanhxQWtmdFgxODZSZ1ZrTEQzWmdZVU1fMmF3aTczamMxOFN6SEJJaDBmX2xmaFU1Y3ByOUwtcUk1TEJYdzN3QnNsVUpmNk5tUUlwZUxQQXdYY19SaXk4RklQYWdCcmM1Y3NIX1F0VEFnS1NoUUJNVVhEVHhOaWpPZWw5UkpETzB5Z3kwTFQtZVVqbVpYdHlkQW1DUGpi?oc=5",
+          "quelle": "Databricks",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUEZqZTJ5RTktZHViZVpiSFZjbHcwZUU1d25KX1JsU3pPODlPNlpLMXY3cDRMV1RFUHlzc1EwWFpLOVhQZTNxQTZWcVY4VmF0SkhuOThtUmtGc2NhTW1zNktReGZETG9jVjdUNjNFblM2cEE?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "Large Language Model: Was ist das ?",
+          "zusammenfassung": "Liora bietet eine weitere grundlegende Erklärung des Konzepts von Large Language Models (LLM), deren Funktionsweise und Anwendungsbereiche. Der Artikel richtet sich an ein breiteres Publikum, um das Verständnis für diese Schlüsseltechnologie der Künstlichen Intelligenz zu fördern. Er beleuchtet die Bedeutung von LLMs in der heutigen digitalen Landschaft.",
+          "einordnung": "",
+          "quelle": "Liora",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNaDg5WHBNaUtxMGFGOXB2NnFVUm1fUFUwNGFqUjF5OWZsSjMxVXIyWUNzVkxRMVZKVnVQZmxUNXkzaFhwSVQySDgzQ1BWZlNFLUcwZmN4Qlp4c1NKR1BtYzhB?oc=5",
+          "sterne": "⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "titel": "KI & Gesellschaft",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "(S+) Künstliche Intelligenz: Killt KI den Kapitalismus?",
+          "zusammenfassung": "Der Spiegel diskutiert die potenziellen tiefgreifenden Auswirkungen von Künstlicher Intelligenz auf das Wirtschaftssystem und die Frage, ob KI den Kapitalismus in seiner heutigen Form bedrohen könnte. Der Artikel beleuchtet verschiedene Szenarien und Herausforderungen, die sich aus der zunehmenden Automatisierung und Effizienzsteigerung durch KI ergeben. Es werden fundamentale Fragen zur Zukunft der Arbeit und des Wohlstands aufgeworfen.",
+          "einordnung": "",
+          "quelle": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmNMODhRS0tUSUdVVTI4aU9lQ1FfSjg4RTF5VU5FZ0NkMHJsc1dzWHV5ZHk5WVVzbEUyaXEyM1N1U2hGRlE5M1hsUndHWC10c3VyZnRhTkpDbjk1T1h0b0d1SHhRbmRpOHEwWkxGYmhvTExrcDRPdXVXd1kxWVBOLURnRy1mMnh0QVVrOHlYNjhPMjRQeFhhbGp3MEhydnYxZEFUOWxyaVJLWEFZSDJjRkF0MzJFdEtqWU1yUFhEbw?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Kostenfaktor Künstliche Intelligenz",
+          "zusammenfassung": "ZDFheute beleuchtet die finanziellen Aspekte der Implementierung von Künstlicher Intelligenz in Unternehmen und Gesellschaft. Der Artikel thematisiert die hohen Investitionskosten für Entwicklung und Infrastruktur sowie die langfristigen ökonomischen Auswirkungen und den potenziellen Return on Investment. Es wird die Notwendigkeit einer sorgfältigen Kosten-Nutzen-Analyse hervorgehoben.",
+          "einordnung": "",
+          "quelle": "ZDFheute",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeGl3dFpYUk1oMzB5ODI0c3ZjWmJGUmt2Wl81MXdHR1d4WnZPdkdIM3JuMDhIcE1LbHlGaVNiUl8xaFo1a1RKZi1EMnBka2ZOM2cwQzBHX0V1UDNxZDd0YmxvVU4xWjFlZjhMWmxURDJPVGRCWGM0NjVaRWdDbFI4MTBlckt6QTA?oc=5",
           "sterne": "⭐⭐"
         },
         {
+          "titel": "Von Dönerladen bis Bestatter – wie KI Berlins Jobs verändert",
+          "zusammenfassung": "BZ Berlin zeigt anhand konkreter Beispiele aus der Hauptstadt, wie Künstliche Intelligenz bereits heute verschiedene Berufsfelder transformiert. Von kleinen Betrieben wie Dönerläden bis hin zu Bestattungsunternehmen illustriert der Artikel die Bandbreite der Veränderungen und die Anpassungsfähigkeit, die von Arbeitnehmern und Unternehmen gefordert ist. Es werden sowohl Chancen als auch Herausforderungen für den Arbeitsmarkt beleuchtet.",
+          "einordnung": "",
+          "quelle": "BZ Berlin",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaWoyV19mc1lRWjBlbmU1aHRENW9tWFA3QnliVnpQaUN0RVltcXU0UW9WZUcwaTJMZ0lwaDZMc2dnN1E0bnhpWGo2YnZpdU1yQzlub0t0QXNXcEJ1RVBmR0l6ZWdoVWNOOVRZNktWc28xQW9uQzREQ0pxNjhNTHBqU0V3WUxnLU9kU2RUZGZlX0xMbXVQeDAtNzNOellLSlF2WGNTWDRrbHUyU2dUc0NVd1piM1hydE0?oc=5",
+          "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "titel": "KI & Anwendungen",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "Runder Sound, smarte Features, einfache Bedienung: Eigentlich ist Googles Home Speaker perfekt – wäre Gemini nicht so stur",
+          "zusammenfassung": "GameStar bewertet Googles Home Speaker, der mit gutem Sound und smarten Features überzeugt, aber durch die 'Sturheit' der Gemini-KI in seiner Perfektion eingeschränkt wird. Der Artikel hebt das Potenzial des Geräts hervor, kritisiert aber die noch nicht optimale Integration und Flexibilität der KI-Steuerung. Es wird deutlich, dass die KI-Interaktion noch Verbesserungspotenzial hat.",
+          "einordnung": "",
+          "quelle": "GameStar",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU0NwTWJMaFZ5anZUQl9VRUxYRWJJMkhaRUJSaVNFc2sxNDdrWHpPZzVtSFY2MWNoZkR2MlRfOGlhMzhJM0d2TkFSSlJYLXYzMU14QkI5ajI5dVF4Y01haUdFd3F3aGVqYlkzNGtqQmxiTTh0NHpURHlBWFpPOTU5bDBfTWE0dw?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Gemini Update: Großes Smart Home-Update, Google Home Speaker, Earth-KI, Gemini Lyria und Assistant-Aus",
+          "zusammenfassung": "Das GoogleWatchBlog fasst ein umfassendes Gemini-Update zusammen, das ein großes Smart Home-Update, die Integration in Google Home Speaker, die Einführung der Earth-KI und Gemini Lyria sowie das endgültige Aus für den Google Assistant umfasst. Der Artikel zeigt die breite Expansion von Gemini in Googles Produktlandschaft. Dieses Update markiert einen strategischen Schritt zur Zentralisierung der KI-Dienste bei Google.",
+          "einordnung": "",
+          "quelle": "GoogleWatchBlog",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ydEg5RDlSNkpRYndlMVd5UmZNUjJaQmliV3RnZUxkWEJTRHp3SXdRNFl2YVZuUUdhYmx0Ul9oTzFyb2VNTkQ2SGlhWmZCa19YSGfSAXpBVV95cUxQaXZSMUtDQXdMUng0Z2dOV0ZVRjQxLXhYSjREYjljaG5CN2stWHR5TVp0aElWSUVLeldVWGxIRFdCUW5VYzFxMFBia09OVjNlNUtZcmNvNW8tcUtvelYyb0F2cVFCNFhFbGlQTklUTERLTHlNcy16ZHFlQQ?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
           "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
-          "zusammenfassung": "Large Language Models (LLMs) zeigen großes Potenzial in der Onkologie, etwa bei der Diagnoseunterstützung oder Therapieplanung. Allerdings stehen der breiten Anwendung noch erhebliche Infrastrukturprobleme entgegen, darunter Datenintegration und Rechenleistung. Um das volle Potenzial auszuschöpfen, sind weitere Investitionen in die technische Infrastruktur notwendig.",
+          "zusammenfassung": "Healthcare-in-Europe.com untersucht das immense Potenzial von Large Language Models (LLM) im Bereich der Onkologie, beispielsweise bei der Analyse medizinischer Daten oder der Unterstützung von Diagnosen. Gleichzeitig beleuchtet der Artikel die bestehenden Infrastrukturprobleme, die eine breite Implementierung noch behindern. Es wird deutlich, dass trotz vielversprechender Ansätze noch Hürden bei der praktischen Anwendung bestehen.",
           "einordnung": "",
           "quelle": "healthcare-in-europe.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
           "sterne": "⭐⭐"
         }
       ]
-    },
-    {
-      "emoji": "🛡️",
-      "titel": "KI & Sicherheit",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "OpenAI: Konzern stoppt KI-Modell Astra wegen Cyber-Sicherheitsbedenken",
-          "zusammenfassung": "OpenAI hat die Entwicklung seines neuen KI-Modells Astra vorübergehend eingestellt. Grund sind ernsthafte Bedenken hinsichtlich der Cybersicherheit, die während interner Tests aufkamen. Der Konzern priorisiert die Sicherheit, bevor das Modell der Öffentlichkeit zugänglich gemacht wird.",
-          "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQUNNMlp3aG84Z2Fza0E1Tkw4eHVlUXdadGxGUzcwUU4ycjFwU1ZlejlWVldfQ00wSThKbGZ2OGNrbHVJQ0xXVV9tdXNUYmgxaGZRcXZHR2s3ME9QNXR5LXNHSlgwSkdTeDlBOUlycnhKLTQ1Vkl0cUU3cTBQVDJHWXVadG40S3p1aEtEemstMTEwWW5HdnZFY1lNWG8yNzhXMklhZk5ZMG9KVnV1cEdtalNtYmxzR21NYUVwMk1QbW9tVFpfeGY4aGlPWVZyV0dPMkgyNnFyUQ?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Künstliche Intelligenz: OpenAI stoppt Entwicklung einer KI aus Sicherheitsgründen teilweise",
-          "zusammenfassung": "Aus Sicherheitsgründen hat OpenAI die Entwicklung des KI-Modells Astra teilweise gestoppt. Das Unternehmen reagiert damit auf potenzielle Schwachstellen, die eine Gefahr für Nutzer und Systeme darstellen könnten. Dieser Schritt unterstreicht OpenAIs vorsichtigen Ansatz bei der Einführung neuer, leistungsfähiger KI-Systeme.",
-          "einordnung": "",
-          "quelle": "zeit.de",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTBkVFhvTEFtbDl0SmxDR0ZMUVRDNXdJeThsN1pxdm1QazlYR1BEQnkxSmt0M0wyN01YZnFKQVR4VEhuS0NRMndJa0cwblBzVUx2NG5DemNVNmpzSDJtMUI1R25EQ1kxUlpIY21VXzNrZGtDZ0c5VWp4Z0pHZnEza2NFeXByaEdQYzBhVHdFRUJGOWM3a0dWLVJR?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Künstliche Intelligenz: OpenAI will neue KI nach Hacking-Vorfällen härter überwachen",
-          "zusammenfassung": "Nach jüngsten Hacking-Vorfällen plant OpenAI, seine neuen KI-Modelle strenger zu überwachen. Das Unternehmen reagiert damit auf wachsende Sicherheitsbedenken und will potenzielle Risiken proaktiv minimieren. Diese Maßnahmen sollen das Vertrauen in die Sicherheit der KI-Systeme wiederherstellen und zukünftige Angriffe verhindern.",
-          "einordnung": "",
-          "quelle": "Handelsblatt",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLU0zTlpDZmJIQjlwUEowN1FiLTlPd1JNczRtMUdncXhLMDI5MUlSTERYZUdSMjM2SFNTLVctbHhNNnlsTENMRHhLM2hlODh2cFhQVjJ2M2FQTnc0d0xKY1k1QUk0NnhkNjZkQ2NHWFB2VWZ3b0V5YTF2NmVBTFd6SGxJejU3VHJUNVlUdUdTcHYwU0c0eUhkWnBfaGkyX1YwbVFnamNPdUlUQ2lBTnVLQnJpN3lBTDdtaFduTGd6SlZob0tyRl9LdWpDbTlSeEpldkxJT3BYWGNzWkp4ekhySjBueWNVUQ?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Die dunkle Seite neuer KI-Sprachmodelle: Wie Large Language Models die Cybersicherheit herausfordern",
-          "zusammenfassung": "Neue KI-Sprachmodelle stellen eine wachsende Herausforderung für die Cybersicherheit dar, da sie für ausgeklügelte Angriffe missbraucht werden können. Der Artikel beleuchtet die 'dunkle Seite' von LLMs, wie Phishing-Kampagnen oder die Generierung von Malware. Es wird betont, dass dringend neue Sicherheitsstrategien entwickelt werden müssen, um diesen Bedrohungen zu begegnen.",
-          "einordnung": "",
-          "quelle": "PRIF Blog",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSDZVTGJGeEV1QnZhNWxCamJyOEI1V2tLVGkxRGoyOWtGc3hSa1NNM1ZaNmN2RUNjSDVrMGRZX3AzNkdPNEUzM2V6d2Z5Yy1LdDNranBOajRGYnlKRGp2SGdZbHRzbmJwS1BYYWQ2N2x1eWxXSXFZSXVjTFpURTJGNmlxby1DdGo3MEVpb3hJSjR6MTJZb1ZOMEs4MGFNdXVBSGl5dlluRFJ3WndqZy1saUt6dlIxSUprQm4xVEc5Wjh6MklzSFZRZW43UVluUQ?oc=5",
-          "sterne": "⭐⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "🗣️",
-      "titel": "KI-Assistenten & Anwendungen",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "Ende des Google Assistant steht fest: Gemini-KI soll zum neuen Standard werden",
-          "zusammenfassung": "Google hat das offizielle Ende des Google Assistant bekannt gegeben, der vollständig durch die Gemini-KI ersetzt werden soll. Gemini wird zum neuen Standard für Googles KI-gesteuerte Interaktionen auf allen Geräten. Dieser strategische Wechsel markiert einen bedeutenden Schritt in Googles KI-Integration und Nutzererfahrung.",
-          "einordnung": "",
-          "quelle": "CHIP",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNckt2QVd6cDlldGVCdG5fYkRpSWFtdTN5bk9wcVNuMGNGQ1FObUF5RzZVWUlHNWNvR284b0k4ZGdDSWxxXzh5OU1QRmdGamJIQVNxOU80dmFJMmVEWlhXYTlIbVNRY0lBU1Fnekc3U2VTTzlhYjZSZ0xRUVJoelFuY29ESlFFX1dHbWxCal9RZmJWbFYxVUZWSlVVQjdRaUZSbTNncWhxajUtYnF5MjA1eEpITlJValZ1M0o1bXYtaUtUM3gwYl9xRUJsR1BQUlVfQmtSVGVwNWJ0S3oxTDBlUlRVMlA?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Google Home Speaker mit Gemini: Was du für 120 Euro bekommst – und was nicht",
-          "zusammenfassung": "Der neue Google Home Speaker, ausgestattet mit der Gemini-KI, ist für 120 Euro erhältlich und bietet erweiterte intelligente Funktionen. Der Artikel beleuchtet die genauen Leistungsmerkmale und Einschränkungen des Geräts. Nutzer erhalten einen detaillierten Einblick, welche neuen Möglichkeiten die Gemini-Integration im Smart Home eröffnet.",
-          "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hT1VPTHVTYlc0bVYxOTVYcGtvLTJOd3BwczZPalBldy1pYUtnejhzWnlCMTQ3cmh2VDJlZll3Q3l5OTgwbEhFbjFTb0xZaGFlWWVyY2hhYUpMVXVXaXVLa201dkltYl8yRjY0WEd2STZoZUtIT3A2RF9mRmY?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Google Maps: Neue KI-Funktionen für Essensbestellung und Hotelsuche",
-          "zusammenfassung": "Google Maps wird um neue KI-Funktionen erweitert, die die Essensbestellung und Hotelsuche revolutionieren sollen. Nutzer können nun direkt über die App personalisierte Empfehlungen erhalten und Buchungen vornehmen. Diese Integration von KI soll die Benutzerfreundlichkeit und Effizienz der Reiseplanung deutlich verbessern.",
-          "einordnung": "",
-          "quelle": "connect.de",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQnhnSjRvRUg3UkFtU1V3LXk4eEdlLTdrMEtXaHc4OTh3OVJNcmRmU1hET0s5d25xMXo2YTBiaGJ6TzFUSGo3Y2gxZll6QVRVZy1iOGVMNFc0UE9oS3NSQ0VCSnRTNEZEV2ZuWGhPemFvUXo2UTRDa2ZkejJXRjdnZmJBZzB3REMtRjF6dWVLWEk5cXFoUmI3RGVYdzNGTW1nU3JBNUR5aEttMFNRX0dONHhFY0JvLWVwUzEtWFJ1aktIT3JaMU96RA?oc=5",
-          "sterne": "⭐⭐"
-        }
-      ]
     }
   ],
-  "generiert_um": "2026-08-08T06:30:36.200Z",
+  "generiert_um": "2026-08-09T06:34:46.659Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -197,7 +205,7 @@
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
       "episode": "Sprit umsonst, alle fahren im Kreis? Nie mehr weniger Token | AI-Legenden verlassen Google | Atlassian, Twilio, Cloudflare, Shopify Earnings #586",
-      "datum": "7.8.2026",
+      "datum": "8.8.2026",
       "dauer": "88 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
@@ -205,8 +213,8 @@
     {
       "name": "OMR Podcast",
       "desc": "Philipp Westermeyer · Tech & Business",
-      "episode": "Mit Akku-Angriff zum Milliarden-Umsatz: Einhell-CEO Andreas Kroiss (#929)",
-      "datum": "5.8.2026",
+      "episode": "Mit Beckham & Co aus der Krise? Hugo-Boss-CEO Daniel Grieder (#930)",
+      "datum": "9.8.2026",
       "dauer": "65 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH"
