@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-08-10T08:44:09.229546+00:00",
+  "aktualisiert": "2026-08-11T08:12:15.546340+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "The Checklist Review",
+      "titel": "So erstellst du eine echte Website mit Claude AI [2026]",
+      "link": "https://www.youtube.com/watch?v=0x1BbS8tM2o",
+      "video_id": "0x1BbS8tM2o",
+      "thumbnail": "https://img.youtube.com/vi/0x1BbS8tM2o/mqdefault.jpg",
+      "datum": "2026-08-10T08:04:28Z",
+      "datum_de": "10.08.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "KI Spart Zeit",
       "titel": "ChatGPT vs. Claude vs. Gemini — ehrlicher Vergleich 2026",
@@ -24,7 +34,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "1000 Stunden AI Agent Wissen - Der LETZTE Guide den du brauchst!",
+      "titel": "1000 Stunden Claude Wissen - Der EINZIGE Guide den du brauchst!",
       "link": "https://www.youtube.com/watch?v=uU9_HNU5JPU",
       "video_id": "uU9_HNU5JPU",
       "thumbnail": "https://img.youtube.com/vi/uU9_HNU5JPU/mqdefault.jpg",
@@ -140,16 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/o3DEqpFjLNQ/mqdefault.jpg",
       "datum": "2026-08-06T13:07:04+00:00",
       "datum_de": "06.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "CHATGPT mit der STIMME steuern? Voice Mode im Test!",
-      "link": "https://www.youtube.com/watch?v=DP_sH7j-Cyk",
-      "video_id": "DP_sH7j-Cyk",
-      "thumbnail": "https://img.youtube.com/vi/DP_sH7j-Cyk/mqdefault.jpg",
-      "datum": "2026-08-05T14:53:45+00:00",
-      "datum_de": "05.08.2026",
       "quelle": "kanal"
     }
   ]
