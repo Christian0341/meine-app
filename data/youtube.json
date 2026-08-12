@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-08-11T08:12:15.546340+00:00",
+  "aktualisiert": "2026-08-12T08:23:09.071077+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Bevor du KI-AGENTEN nutzt: Das musst du WIRKLICH wissen!",
+      "link": "https://www.youtube.com/watch?v=GgYBe6I4aHQ",
+      "video_id": "GgYBe6I4aHQ",
+      "thumbnail": "https://img.youtube.com/vi/GgYBe6I4aHQ/mqdefault.jpg",
+      "datum": "2026-08-11T16:00:14+00:00",
+      "datum_de": "11.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "99% lernen KI falsch: DAS musst du 2027 wirklich wissen",
+      "link": "https://www.youtube.com/watch?v=lKHUKXp-nOA",
+      "video_id": "lKHUKXp-nOA",
+      "thumbnail": "https://img.youtube.com/vi/lKHUKXp-nOA/mqdefault.jpg",
+      "datum": "2026-08-11T15:15:35+00:00",
+      "datum_de": "11.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Nils Harder",
+      "titel": "HERMES GEDÄCHTNIS IN OBSIDIAN: sieh, was dein KI-Agent über dich weiß",
+      "link": "https://www.youtube.com/watch?v=5I2iRjwJFOI",
+      "video_id": "5I2iRjwJFOI",
+      "thumbnail": "https://img.youtube.com/vi/5I2iRjwJFOI/mqdefault.jpg",
+      "datum": "2026-08-11T14:48:10Z",
+      "datum_de": "11.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Nils Harder",
+      "titel": "HERMES GEDÄCHTNIS: warum dein KI-Agent dich vergisst und was Erinnern kostet",
+      "link": "https://www.youtube.com/watch?v=VFr-8of4r1c",
+      "video_id": "VFr-8of4r1c",
+      "thumbnail": "https://img.youtube.com/vi/VFr-8of4r1c/mqdefault.jpg",
+      "datum": "2026-08-11T08:24:25Z",
+      "datum_de": "11.08.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "The Checklist Review",
       "titel": "So erstellst du eine echte Website mit Claude AI [2026]",
@@ -103,54 +143,14 @@
       "quelle": "suche"
     },
     {
-      "kanal": "KI BüroPro",
-      "titel": "|10 ChatGPT Prompts für den Büroalltag,| die täglich Zeit sparen (2026)",
-      "link": "https://www.youtube.com/watch?v=AKRL8LfbgGg",
-      "video_id": "AKRL8LfbgGg",
-      "thumbnail": "https://img.youtube.com/vi/AKRL8LfbgGg/mqdefault.jpg",
-      "datum": "2026-08-08T08:21:13Z",
+      "kanal": "AI News Today | Julian Goldie Podcast",
+      "titel": "OpenAI&#39;s Astra AI Is Too Dangerous To Release",
+      "link": "https://www.youtube.com/watch?v=cwhJM1mHJW0",
+      "video_id": "cwhJM1mHJW0",
+      "thumbnail": "https://img.youtube.com/vi/cwhJM1mHJW0/mqdefault.jpg",
+      "datum": "2026-08-08T08:57:20Z",
       "datum_de": "08.08.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Calvin Hollywood (AI)",
-      "titel": "Claude Code ist einfach (für Anfänger)",
-      "link": "https://www.youtube.com/watch?v=ni8EKhLHrIg",
-      "video_id": "ni8EKhLHrIg",
-      "thumbnail": "https://img.youtube.com/vi/ni8EKhLHrIg/mqdefault.jpg",
-      "datum": "2026-08-07T17:30:15Z",
-      "datum_de": "07.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Die besten kostenlosen KI-Tools in 2026",
-      "link": "https://www.youtube.com/watch?v=DK-yy1Vp6EI",
-      "video_id": "DK-yy1Vp6EI",
-      "thumbnail": "https://img.youtube.com/vi/DK-yy1Vp6EI/mqdefault.jpg",
-      "datum": "2026-08-07T12:00:34+00:00",
-      "datum_de": "07.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Sie BELÜGEN dich über China! Was hier Realität ist, glaubt mir niemand - China-Insider Derksen",
-      "link": "https://www.youtube.com/watch?v=8sHRBG2U8GI",
-      "video_id": "8sHRBG2U8GI",
-      "thumbnail": "https://img.youtube.com/vi/8sHRBG2U8GI/mqdefault.jpg",
-      "datum": "2026-08-06T15:15:15+00:00",
-      "datum_de": "06.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Günstiger und irgendwie.. gut genug?",
-      "link": "https://www.youtube.com/watch?v=o3DEqpFjLNQ",
-      "video_id": "o3DEqpFjLNQ",
-      "thumbnail": "https://img.youtube.com/vi/o3DEqpFjLNQ/mqdefault.jpg",
-      "datum": "2026-08-06T13:07:04+00:00",
-      "datum_de": "06.08.2026",
-      "quelle": "kanal"
     }
   ]
 }
