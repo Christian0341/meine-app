@@ -1,7 +1,7 @@
 {
-  "datum": "Dienstag, 11. August 2026",
-  "datumISO": "2026-08-11",
-  "tagesthema": "KI-Innovationen prägen neue Anwendungen und Produkte, während ihre Integration und Regulierung weiterhin zentrale Herausforderungen darstellen.",
+  "datum": "Mittwoch, 12. August 2026",
+  "datumISO": "2026-08-12",
+  "tagesthema": "KI-Regulierung und -Ethik dominieren die Schlagzeilen, während Unternehmen auf neue Herausforderungen reagieren und die gesellschaftlichen sowie ökologischen Auswirkungen der Technologie immer deutlicher werden.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,36 +9,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "ChatGPT Maps: OpenAI startet eigene Kartensuche",
-          "zusammenfassung": "OpenAI hat mit \"ChatGPT Maps\" eine eigene Kartensuche gestartet, die direkt in ChatGPT integriert ist. Diese bedeutende Erweiterung positioniert ChatGPT als direkten Konkurrenten zu etablierten Kartendiensten und erweitert seine Anwendungsbereiche erheblich.",
+          "titel": "ChatGPT für Linux: OpenAI startet Vorschau der Desktop-App",
+          "zusammenfassung": "OpenAI hat eine Vorschauversion seiner ChatGPT-Desktop-App für Linux veröffentlicht, die Nutzern direkten Zugriff auf das KI-Modell vom Desktop aus ermöglicht. Dies erweitert die Verfügbarkeit der Anwendung über die bisherigen macOS- und Windows-Versionen hinaus. Die App bietet eine nahtlose Integration in den Workflow und soll die Interaktion mit ChatGPT vereinfachen.",
           "einordnung": "",
-          "quelle": "ifun.de",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CSmRfcERjTFpGQ05keDJzalM0MzdXYk5PN2dLUVlvejBOTy1VYVlCaldseUhDcEhrQzd2SWdmZjJnOFlJYWJ1a0ZTSDhxY2NjdWwtaktvakRJZVFtVkRVbzktdUJrU2RzOGNES0YzWHJSQnEwRjNLU3ZvR2ZvQ3c?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Anthropic: Claude markiert alles KI-generierte",
-          "zusammenfassung": "Anthropic führt eine neue Funktion in seinem KI-Modell Claude ein, die alle generierten Inhalte explizit als KI-erstellt kennzeichnet. Dieser Schritt zielt darauf ab, die Transparenz zu erhöhen und Nutzern die Unterscheidung zwischen menschlichen und maschinellen Inhalten zu erleichtern.",
-          "einordnung": "",
-          "quelle": "golem.de",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGJqN3VJc19CMDZjc1FhYjVZZVV6QjZhSFBzeC1QaEpmR2YzRGVVQ3Z0Vms1by03cXVKQS1TN210RklXcHhGbW1wb09Pa3FIQTVOREtITjZWcWR3Q2Z1c001ZC1EVzJjYmRmT29hX1hCNVFyZVpjOF9EN0NsY2NtVlB2LTlkcE5YdldudVdTakwwZw?oc=5",
+          "quelle": "Caschys Blog",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUEFRcEs4eFNMbkhQaTdGeTFndHBrdEY3M2NQNlNBNWtnbnNld0FWWi1UM2g5WFB6eHpzSTI2RnpiT3NRc2swWkxZXzMyaHJONFN0c2NsQnBHNndGTXZ5cFozXzNkN2ozS3ZoSW1vYU9GdGszNjJBZXBLSlBRUnVUMGhYZUZLSlhOLVBjZHhqUFBPUQ?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Anthropic aktiviert Auto-Modus in Claude Code standardmäßig",
-          "zusammenfassung": "Anthropic hat den Auto-Modus in Claude Code standardmäßig aktiviert, was eine effizientere und autonomere Code-Generierung ermöglicht. Diese Änderung verbessert die Benutzerfreundlichkeit und Produktivität für Entwickler, die mit Claude arbeiten.",
+          "titel": "Home Speaker ausprobiert: Googles platte KI-Kugel trifft fast ins Schwarze",
+          "zusammenfassung": "n-tv.de hat Googles neuen Home Speaker, eine flache, KI-gesteuerte Kugel, getestet und bewertet ihn als nahezu perfekt. Das Gerät überzeugt durch seine Sprachverständlichkeit und die Integration von KI-Funktionen für den Alltag. Es zeigt das Potenzial von KI in smarten Heimanwendungen, auch wenn kleine Mängel in der Benutzerfreundlichkeit noch bestehen.",
           "einordnung": "",
-          "quelle": "it-daily",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vNnZWRDBlUkplNWFkd0YtRktzdUUwcm4yNkZXckRMNGRWUHJyOGc2T0ItcXRuMzFFR2MxVTJtWENUbFF6RkZkTDdYTnA4a05OWm81UjBydjkycGNjMHhYWnllZkZZVWxD?oc=5",
+          "quelle": "n-tv.de",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVzhaeEZWMTFTRFluR3Q3V3lBZUlCalB3Y01jSTMzdzYzd2xBUDFjc0hxTXBQeWZRcGY2cFlRaUtMWmEwZTk2aktjdE44MGhGTmhKTERrMlpOdnFuZ1ZsUWlrRng5V0lSQXYyNlc1M2tVZWVnQU16dUtTTUlEcVRqcHdGRVQ2MmxnNjBGRGRCclRnUjNQZTdB?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Claude Code fragt künftig seltener: „Darf ich das?“",
-          "zusammenfassung": "Claude Code von Anthropic wird künftig weniger häufig um explizite Bestätigung für Aktionen bitten, was den Workflow beschleunigt und die Interaktion flüssiger gestaltet. Diese Anpassung deutet auf eine erhöhte Autonomie und ein größeres Vertrauen in die Fähigkeiten der KI hin.",
+          "titel": "OpenAI zieht den Stecker: Dieser ChatGPT-Ableger ist seit dem Wochenende Geschichte",
+          "zusammenfassung": "OpenAI hat einen seiner ChatGPT-Ableger, dessen genauer Name nicht genannt wird, eingestellt, was seit dem Wochenende für Nutzer nicht mehr zugänglich ist. Die Entscheidung deutet auf eine Konsolidierung der Produktpalette oder eine Neuausrichtung der Entwicklungsstrategie hin. Betroffene Nutzer müssen auf andere Versionen oder Alternativen umsteigen.",
           "einordnung": "",
-          "quelle": "heise.de",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdm5NdDZleW82ZVlHa2dzZmk5WnVWMWZ0V08waV8xZnJYaU5NT1dRRGVKcFVUMDNCTi1xajM0eVBNUl9EalR4UlBwdmNfOGk4eVpyVTRUaXE0SlBQbGFZTnVCaE1VdW1kNnliM0Uxd0pudU05V01Fa2dJUGtraDRISVNfWTNsdk9LeHlSSzdMUGFQaHdaU0F2c1FIcHJrS3hqM2ZZWmtwNzUzZDFiN2Jn?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "CHIP",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUVQzMlFtWVR6VkZPbHVtSEtxVncwajhrY2pxRVJKVVNRcmlFdGtLV0FNczk3UkRSYm9Ib2VfbTByVUxUNU1lMzJkM29QQm9zdkdzV0xJaEJ4cDdfb1F5eUI1MTRVSndPYWNtX092MkVpSHp4OXBORkt3eF9EdDlwYTNnQXVlajhITFE5U3QyM3dQXzk0bUlZWUt6MkNnZ1VQZ0VtUUZGNEtHbk9lYkxLSUY0eHBSaUFfV01HTVVKZ28tNlRQczNVUFdzSGo4SWh2NnNVYUxyZDNhQ1dnX3IxOTVJZDVZYXpNWllxczZsOA?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
@@ -48,20 +40,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "OpenAI treibt sein Werbegeschäft mit ChatGPT voran – diese Funktionen kommen jetzt hinzu",
-          "zusammenfassung": "OpenAI erweitert die Werbemöglichkeiten innerhalb von ChatGPT durch die Einführung neuer Funktionen. Dieser Schritt signalisiert OpenAIs strategisches Bestreben, die Monetarisierung seiner führenden KI-Plattform weiter voranzutreiben und neue Einnahmequellen zu erschließen.",
+          "titel": "Werbegeschäft von OpenAI: OpenAI nimmt die kleinen Werbekunden ins Visier",
+          "zusammenfassung": "OpenAI erweitert sein Werbegeschäft und konzentriert sich nun verstärkt auf kleine und mittelständische Unternehmen. Dieser Schritt soll die Monetarisierung der KI-Dienste vorantreiben und eine breitere Kundenbasis erschließen. Es signalisiert eine Diversifizierung der Einnahmequellen jenseits großer Enterprise-Lösungen.",
           "einordnung": "",
-          "quelle": "Business Insider Deutschland",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVTN6cTNPZ1pqWUZLblo2ck9ULXVnUno3Qks5UGFVeHk2dl9qNm5iRDdBTTI0TWlGeklSVkZMMjl1ajctdkxHMFNkZDU4SURTWTI1dXpVd1E3bTFmNGxvNGlpa1JQaEIwbXBzY2pxQWlJam9BYVF3U3VBYzgzRUN3UVBGVEE2WGNpZ3gwUmt4eXpqSXBFWEx2RkVoZWlqUDQ?oc=5",
+          "quelle": "Meedia.de",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWlxNGlrSzhDcUxCcjZteVFYT2FFZ0hEWmtqRTlnYWVYOUtlOW5WUmR3WWN0bU5QUEN0QWNac2ROLTlscEVfZTBUa0hqX1VvQXlhd0JoQ0FLdVZlaWVMa1lYUEpTM1FvTm5DTklxckJOWkZlLVQ2VEdtdmN4dk5salBpYndYVmNJN2l6NA?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Ohne OpenAI, Google und andere US-Software – geht das?",
-          "zusammenfassung": "Der Artikel thematisiert die strategische Frage, ob es möglich ist, eine digitale Infrastruktur ohne die Dominanz von US-Softwaregiganten wie OpenAI und Google aufzubauen. Dies beleuchtet die Debatte um digitale Souveränität und die Abhängigkeit von großen Tech-Konzernen.",
+          "titel": "Rekord für Google-Dienst: Gemini erreicht eine Milliarde monatliche Nutzer",
+          "zusammenfassung": "Googles KI-Dienst Gemini hat einen beeindruckenden Meilenstein erreicht und verzeichnet nun eine Milliarde monatliche Nutzer weltweit. Dieser Rekord unterstreicht die rasante Akzeptanz und Integration von Gemini in verschiedene Google-Produkte und -Dienste. Es festigt Googles Position als einer der führenden Anbieter im Bereich der generativen KI.",
           "einordnung": "",
-          "quelle": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZHV5a0hfY2ZuZC1KSVhYSXdSd2dFdjNScko2dDFSSTRXOXktUEw4SFRpYkJoRnVhTkRWTFY4bE5pUG12X0pEUGJHd3ZjS296UWY3VzM4d19Lb1ROTlE0VXpILV8wb1B0TWIwVEtDMFpQQmF1eGtUd3FwcjVNTmdBTlhnZ1pmbGp3SDRHd0R3eWpHQ3pjU2RxWDZuRXJOekHoM2ZHSnZXSG5HRlNtR0E?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbjZ5ODZFODhFZFZJTXVMOVhmZ2RoUGVKdHNDanV2eFNKTE4zOVNUSWZfc0hCVlR3YnpGUjhkaUNybGtGWnFvM2s5RjBjSTVnU0RoR1drUE1hQ2RGeXlXWEdRUWpLa0xDb2NVUTVLdHZUNGNmSzJKQjF0Y25Yc2hiN3hLNGpEdjB4VFVpSDhVNDFCYlppb0dJUDRFV2hDcHRfUDZWbDVjcHgzVlhiUWQ1N0hhV2Q?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Künstliche Intelligenz: Anthropic will KI-Texte mit unsichtbarem Wasserzeichen versehen",
+          "zusammenfassung": "Anthropic plant, seine von KI generierten Texte mit unsichtbaren Wasserzeichen zu versehen, um deren Herkunft eindeutig zu kennzeichnen. Diese Initiative zielt darauf ab, Transparenz zu schaffen und die Erkennung von KI-generierten Inhalten zu erleichtern. Es ist ein wichtiger strategischer Schritt im Kampf gegen Desinformation und zur Stärkung des Vertrauens in digitale Inhalte.",
+          "einordnung": "",
+          "quelle": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMTk1aXFJa21GRk05Q19uWWFKVzZPR1hXWEFobVAxNjBEbDE2UU50QUVFSDUzcWJrUTE2eHNKTlhEenpzOUFkZVFaSThZY1IzMWU5bGFVblR0azR3ay1tQWF2VWdfNkNwVnh6RTMxYnY2bDNrUEFxTWtpc1JQeGplcVd5VFZJelk?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
@@ -72,26 +72,34 @@
       "artikel": [
         {
           "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Der Artikel analysiert die Gründe, warum die Umsetzung des EU AI Act ins Stocken geraten ist. Dies deutet auf mögliche politische, technische oder administrative Hürden bei der Finalisierung und Implementierung des wegweisenden europäischen KI-Gesetzes hin.",
+          "zusammenfassung": "Der EU AI Act, Europas wegweisendes KI-Gesetz, gerät offenbar ins Stocken, da interne Meinungsverschiedenheiten und komplexe Umsetzungsfragen den Fortschritt bremsen. Die Verzögerungen werfen Fragen zur zeitnahen Regulierung der schnelllebigen KI-Branche auf. Dies könnte die Position der EU als Vorreiter in der KI-Regulierung gefährden.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "EU AI Act: 15-Millionen-Strafen für fehlende KI-Kennzeichnung",
-          "zusammenfassung": "Der EU AI Act sieht empfindliche Strafen von bis zu 15 Millionen Euro für Unternehmen vor, die KI-generierte Inhalte nicht ordnungsgemäß kennzeichnen. Diese Regelung unterstreicht die hohe Bedeutung von Transparenz und Rechenschaftspflicht im Umgang mit künstlicher Intelligenz.",
+          "titel": "EU-KI-Gesetz: Transparenzpflichten ab 2. August – 78% der Firmen nicht vorbereitet",
+          "zusammenfassung": "Trotz des bevorstehenden Inkrafttretens von Transparenzpflichten im Rahmen des EU-KI-Gesetzes ab dem 2. August sind erschreckende 78% der Unternehmen nicht darauf vorbereitet. Diese mangelnde Vorbereitung könnte zu erheblichen Compliance-Problemen und Strafen führen. Es unterstreicht die Herausforderungen bei der Umsetzung neuer KI-Regulierungen in der Praxis.",
           "einordnung": "",
-          "quelle": "borncity.com",
+          "quelle": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSDBLNERCYUlBYzRlbE11dVdzRnRaQ0ZwdThaWWJENkVwclF4WS1SaUhPQ1ZtS3ZfMG1XMHozblVVdEZyR21jcnhfczBSLTJ6cWJZT0pqWm9jT252LXhDXzZLRlA5OWN4NHY4U2lra0JZZEUwSGtFb0ZCSHFBZ08tTG5kb0NUMmdpeXV6bUJlelVVclpqQ0tIdFBHV2M3cDJ1d3VlLW9sNkozNVFNb1pUVlA3RVI?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "EU AI Act: 15-Millionen-Strafen für fehlende KI-Kennzeichnung",
+          "zusammenfassung": "Das EU AI Act sieht empfindliche Strafen von bis zu 15 Millionen Euro für Unternehmen vor, die KI-generierte Inhalte nicht ordnungsgemäß kennzeichnen. Diese hohen Bußgelder sollen die Einhaltung der neuen Transparenzpflichten sicherstellen und die Verbreitung unmarkierter KI-Inhalte eindämmen. Die Regelung unterstreicht die Ernsthaftigkeit der EU im Umgang mit KI-Ethik und -Regulierung.",
+          "einordnung": "",
+          "quelle": "BornCity",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFFIdXZtdHE4YzFPX3ExMXNIOXZnbFgza0Y4MlhhazFNazV6Zlc0T283WXJrRlV2UzJ6OFU0ajFfbGlxalJxYnRPekN4NFZUbko2ZUxvdWVsckRXVXFOUlBEalQxdkRYX2p1SXBWM2F0OXJHdzFfMDhiRmVYdlJtVy1KZnFRYWIyY0gwLTUyMm9zQQ?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "EU-KI-Verordnung im Unternehmen: Was Geschäftsführungen jetzt vorbereiten sollten",
-          "zusammenfassung": "Unternehmen werden dringend aufgefordert, sich auf die bevorstehenden Anforderungen der EU-KI-Verordnung vorzubereiten, um Compliance zu gewährleisten. Der Artikel gibt Geschäftsführungen konkrete Handlungsempfehlungen für die Implementierung der neuen Richtlinien und die Anpassung interner Prozesse.",
+          "titel": "ChatGPT im Gerichtssaal: Hessische Richter kopieren erkennbar KI-Quellen",
+          "zusammenfassung": "In Hessen haben Richter erkennbar Passagen aus KI-Quellen wie ChatGPT in ihre Urteilstexte übernommen, was Fragen zur richterlichen Unabhängigkeit und zur Qualität der Rechtsfindung aufwirft. Dieser Vorfall beleuchtet die Herausforderungen und potenziellen Risiken des Einsatzes von generativer KI in sensiblen Bereichen wie der Justiz. Er fordert eine klare Richtlinie für den Umgang mit KI in juristischen Kontexten.",
           "einordnung": "",
-          "quelle": "Wolters Kluwer",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkNaYVFQWmpobHEzdVAtUjY2REdDUjJEVnNSeTNsdkU4SGhLU2ZvbWxjX2lrQ0VKOWdleEpxQjkwX2lESmZRamdGQXljUlRHcVRVZlF0OEJ6RVo4dlVyMzZjR0s3dU9WYVFRQmh2c1VEN3N1bFcteElJR2lFU09yMHdEYVVKOWZnRjhVQWNKZ1V0ZUNUNG90WUdUbVNMNVk?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFk5ZUctSkQyYUxGRENCMmJxUGxRQmhzSzByTm5SNFR4aEg2MlNQREctVXBsNm5qcWszMFZTaWJGWk9TamNsNDdweFZkSFlwc29nbW51TjFXNU9UV0ZVM2pFa3ZGcFJwRzJOR1l2TnY0UEd4aUZKQ1BLeTJDQVpnRGpGNVJPOU9RSEFqVnd4LWVCdzFnYndCUEpjSnkxTk03bGVuYTJGUHNwNmpuNzJMMQ?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -102,95 +110,87 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Was sind große Sprachmodelle (LLM)?",
-          "zusammenfassung": "Dieser Artikel bietet eine grundlegende und verständliche Erklärung zu Large Language Models (LLM), ihrer Funktionsweise und ihrer Bedeutung. Er dient als Einführung in die Schlüsseltechnologie, die viele der aktuellen KI-Anwendungen antreibt.",
-          "einordnung": "",
-          "quelle": "Databricks",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUEZqZTJ5RTktZHViZVpiSFZjbHcwZUU1d25KX1JsU3pPODlPNlpLMXY3cDRMV1RFUHlzc1EwWFpLOVhQZTNxQTZWcVY4VmF0SkhuOThtUmtGc2NhTW1zNktReGZETG9jVjdUNjNFblM2cEE?oc=5",
-          "sterne": "⭐"
-        },
-        {
           "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
-          "zusammenfassung": "Der Einsatz von Large Language Models in der Onkologie birgt großes Potenzial für die Verbesserung der Krebsbehandlung und -forschung. Jedoch stehen der Implementierung erhebliche Infrastrukturprobleme entgegen, die sowohl die Chancen als auch die praktischen Hürden der KI-Integration im Gesundheitswesen aufzeigen.",
+          "zusammenfassung": "Large Language Models (LLMs) zeigen großes Potenzial in der Onkologie, beispielsweise bei der Analyse medizinischer Daten oder der Unterstützung bei Diagnosen. Allerdings wird dieses Potenzial durch erhebliche Infrastrukturprobleme, wie fehlende Datenintegration und unzureichende Rechenkapazitäten, ausgebremst. Die Studie betont die Notwendigkeit, diese Hürden zu überwinden, um den vollen Nutzen der KI im Gesundheitswesen zu realisieren.",
           "einordnung": "",
           "quelle": "healthcare-in-europe.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Large Language Model: Was ist das ?",
-          "zusammenfassung": "Der Artikel erklärt die grundlegenden Konzepte und die Funktionsweise von Large Language Models (LLM). Er bietet einen kompakten Überblick über diese zentrale Technologie im Bereich der künstlichen Intelligenz.",
+          "titel": "ChatGPT in der Schule: Diese Fehler macht die KI-Forschung",
+          "zusammenfassung": "Ein Artikel kritisiert die aktuelle KI-Forschung im Bildungsbereich, insbesondere im Hinblick auf den Einsatz von ChatGPT in Schulen, und weist auf methodische Fehler und fehlende Langzeitstudien hin. Es wird argumentiert, dass die Forschung oft zu schnell positive Ergebnisse proklamiert, ohne die komplexen pädagogischen und sozialen Auswirkungen ausreichend zu berücksichtigen. Dies fordert eine kritischere und fundiertere Herangehensweise an die Integration von KI in Bildungssysteme.",
           "einordnung": "",
-          "quelle": "Liora",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNaDg5WHBNaUtxMGFGOXB2NnFVUm1fUFUwNGFqUjF5OWZsSjMxVXIyWUNzVkxRMVZKVnVQZmxUNXkzaFhwSVQySDgzQ1BWZlNFLUcwZmN4Qlp4c1NKR1BtYzhB?oc=5",
-          "sterne": "⭐"
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55YVByV0UxY1M1WmZrZkszLU5nU2FqS3pSTHNFSGw4UHk1cl82dFJpM1c3N2NzcGlpbk9kdV9waVdmZUNXR0QzZkVYZFlrOFNxRFpDMmVSWllZZ21yalpMbEpQSXZFXzU0Nm96SUF0czl2dw?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Vier GenAI-Bausteine, ein Kostenrisiko: Gartners neuer Hype Cycle",
+          "zusammenfassung": "Gartners neuester Hype Cycle für generative KI identifiziert vier zentrale Bausteine der Technologie und warnt gleichzeitig vor erheblichen Kostenrisiken bei deren Implementierung. Die Analyse bietet Unternehmen eine Orientierungshilfe bei der Bewertung und strategischen Planung von GenAI-Investitionen. Sie unterstreicht, dass der Hype um generative KI auch mit praktischen Herausforderungen und finanziellen Überlegungen verbunden ist.",
+          "einordnung": "",
+          "quelle": "BigData-Insider",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd2tqWDNLajY2bU5RU2JpaVg3YmNBQmIyN0tHeGxwdzdBNkI0aWlvV3RIY3hxTFRfeDl5b0lfckc2dS14SlpoS2dMLTkzMmdSV3hKeVpsMm0wWmYxZF9OQ1kxempLdUdFTU5JbUNOZXNHNEVvU2pzQjRCQldUVEVOYXVXTms0MFJ6Z0JFMzhQV2hTV1FoeEJ3Z2MxV0RLbVhNbHpncWpzeUMyWG9XeUhhX0tHTmRVdXhzaHBZWFFZNnJOcTQtSzFVcWJR?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     },
     {
-      "emoji": "⚙️",
-      "titel": "KI in der Anwendung",
+      "emoji": "🔒",
+      "titel": "KI & Sicherheit & Authentizität",
       "fest": false,
       "artikel": [
         {
-          "titel": "MIT-Studenten konstruieren Jet-Triebwerk mit KI innerhalb eines Monats",
-          "zusammenfassung": "Studenten des MIT haben mithilfe von Künstlicher Intelligenz innerhalb eines Monats ein funktionsfähiges Jet-Triebwerk entworfen. Dieses Projekt demonstriert das enorme Potenzial von KI, Entwicklungsprozesse in komplexen Ingenieurdisziplinen drastisch zu beschleunigen und innovative Lösungen zu ermöglichen.",
+          "titel": "Die dunkle Seite neuer KI-Sprachmodelle: Wie Large Language Models die Cybersicherheit herausfordern",
+          "zusammenfassung": "Neue KI-Sprachmodelle stellen eine wachsende Herausforderung für die Cybersicherheit dar, indem sie Angreifern neue Werkzeuge für Phishing, Social Engineering und die Generierung von Schadcode an die Hand geben. Der Artikel beleuchtet die 'dunkle Seite' dieser Technologien und fordert verstärkte Anstrengungen zur Abwehr von KI-gestützten Cyberbedrohungen. Es ist entscheidend, die Sicherheitsimplikationen von LLMs proaktiv anzugehen.",
           "einordnung": "",
-          "quelle": "heise.de",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa2U0UHdJMjJmaXk5MGxGS1U5VEI1cThPQkVkaEZaZGdFUGxYRG9aRFRtcEgwLXZZd3I5ZkdIeVNkbHRTUTZYVmItaDFZSWZyZG5mMzBycUFTdzVLNEVacG45U0dKdmp0X0hFTWR6eGszbW85Z3dUckdjVm9QYXFFTEZyNkpTbDRLb1BaYTc4TjluVV8tblk5LWV5NlpVNXpOVHp2UEc3Q2tMVXZKMlhr?oc=5",
+          "quelle": "PRIF Blog",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSDZVTGJGeEV1QnZhNWxCamJyOEI1V2tLVGkxRGoyOWtGc3hSa1NNM1ZaNmN2RUNjSDVrMGRZX3AzNkdPNEUzM2V6d2Z5Yy1LdDNranBOajRGYnlKRGp2SGdZbHRzbmJwS1BYYWQ2N2x1eWxXSXFZSXVjTFpURTJGNmlxby1DdGoyMEVpb3hJSjR6MTJZb1ZOMEs4MGFNdXVBSGl5dlluRFJ3WndqZy1saUt6dlIxSUprQm4xVEc5Wjh6MklzSFZRZW43UVluUQ?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Das große KI-Experiment der Allianz",
-          "zusammenfassung": "Die Allianz startet ein umfassendes KI-Experiment, um die Integration von Künstlicher Intelligenz in ihre Geschäftsprozesse zu erforschen. Ziel ist es, Effizienzsteigerungen zu erzielen und neue Dienstleistungen im Versicherungssektor durch den Einsatz von KI zu entwickeln.",
+          "titel": "Wasserzeichen von Anthropic: Das unsichtbare KI-Signal",
+          "zusammenfassung": "Die FAZ beleuchtet die Initiative von Anthropic, KI-generierte Inhalte mit unsichtbaren Wasserzeichen zu versehen, um deren Authentizität zu gewährleisten. Diese Technologie soll helfen, die Herkunft von Texten zu identifizieren und die Unterscheidung zwischen menschlichen und maschinellen Kreationen zu erleichtern. Es ist ein wichtiger Schritt im Kampf gegen Desinformation und zur Stärkung des Vertrauens in digitale Medien.",
           "einordnung": "",
           "quelle": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUl4dTRZR1JHU1c2WGllQkNFV1hfSjlyZ1VNTWtrektOUG16Q1IycTJGT0xIRUpfNGphVXczSmdYMjRSU2FkeEZDWDg0NnNLTXlrUUduTXBsVG8xeGJJeXFyMlM2YkxFR3J0czV4UEZVQ2lXRWlwTFYtd0poQnk5WnRQRjhMcm1mZk9Da2lZTEFCdXM5d2lBb08xVzV2UkFxMmZJWjJNUFJBQVU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbUxZNUVwb3lVaG9CUm92OXFlUVNSa29pdlZyR2djcF9ZOUR6bmlLeVpDTzh6S3B1NHQzb2RlSXA1QkNKLUw2d2pRSHFJZ3hQLWt5RGIyQTNPTnh3TV9idm5LXzZPY2dZTzBTZ1ZTTUVfdHZpV05ZRF8tVW1EcTIybTJsYm5kTEhueGJpXzhSRWlyRHNrX2hhSV8xZkFGVHREMGJyZ1J2U2VFZDM3OFRxVEtha29UczZRYUVpRmFoeU9lQ09yRkpBX2FYNnpTb3MtUDItZ3RLV0Nsemc?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "\"Pistorius setzt auf KI und Kampfpanzer\"",
-          "zusammenfassung": "Verteidigungsminister Boris Pistorius plant, Künstliche Intelligenz verstärkt in die Bundeswehr zu integrieren, insbesondere im Bereich moderner Kampfpanzer. Diese strategische Entscheidung unterstreicht die wachsende Bedeutung von KI für die zukünftige Ausrichtung der Verteidigungstechnologie.",
+          "titel": "Anthropic Claude markiert KI-Inhalte in der EU",
+          "zusammenfassung": "Anthropic hat angekündigt, KI-generierte Inhalte von Claude speziell für den EU-Markt mit digitalen Wasserzeichen zu versehen, um den Anforderungen des EU AI Acts gerecht zu werden. Diese Maßnahme soll Transparenz schaffen und die Einhaltung der neuen europäischen Regularien sicherstellen. Es zeigt, wie Unternehmen auf die gesetzlichen Vorgaben reagieren, um Vertrauen und Compliance zu fördern.",
           "einordnung": "",
-          "quelle": "MDR.de",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0Q2UUF6WTdIaVVwcFhjMFFULWZ1OUFiMWFkTmVWcFFjQjVDLVRNVEswSGdIWUdyQWQwNzBwRkJFNVNyek9Lak9hb3BlTGVQUDk3R1IyeFdfZ2xrXzZwZGVPODFwMndhaUpGY3J1SlNVUkNnR2hlendieFA4alZxelliZU5raGlQRHRpSTFrN2VONHlCaTlYWExCWVFBb3l1S0UtUDhDcm12TEpMVmo3VTBQYXpGV1hGXzM?oc=5",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnhrM2ZEMGItel9tdW5ubkhKYzFJajdvdU0tUDJEOU0zRGVlUUdVZWVQVWotOHNXN1pRcXJDTHo4b05sNDlYU2haRl9xQTQ1cl9pYVpSdEVzZlM0dzBrQXhfWTNNY25oX0twS1BKa2QzQ2xQZjRxdHFPQUt4TFVjWGZ3TmMzQ21URmRieA?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     },
     {
-      "emoji": "💬",
-      "titel": "LLMs im Fokus: Performance & Integration",
+      "emoji": "🌍",
+      "titel": "KI & Gesellschaft & Ethik",
       "fest": false,
       "artikel": [
         {
-          "titel": "Runder Sound, smarte Features, einfache Bedienung: Eigentlich ist Googles Home Speaker perfekt – wäre Gemini nicht so stur",
-          "zusammenfassung": "Googles Home Speaker wird für seine Hardware gelobt, doch die integrierte Gemini-KI wird als \"stur\" und unflexibel kritisiert. Dies weist auf anhaltende Herausforderungen bei der Abstimmung von KI-Modellen für eine intuitive und flexible Benutzererfahrung in Smart-Home-Geräten hin.",
+          "titel": "Genug für 600 Millionen Menschen: Warum verbraucht KI so viel Wasser?",
+          "zusammenfassung": "Eine Studie enthüllt, dass der Wasserverbrauch von KI-Systemen enorm ist und dem Bedarf von 600 Millionen Menschen entspricht, was erhebliche Umweltbedenken aufwirft. Der Artikel beleuchtet die versteckten ökologischen Kosten des KI-Booms, insbesondere für Kühlung von Rechenzentren. Dies fordert eine nachhaltigere Entwicklung und Nutzung von KI-Technologien.",
           "einordnung": "",
-          "quelle": "GameStar",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU0NwTWJMaFZ5anZUQl9VRUxYRWJJMkhaRUJSaVNFc2sxNDdrWHpPZzVtSFY2MWNoZkR2MlRfOGlhMzhJM0d2TkFSSlJYLXYzMU14QkI5ajI5dVF4Y01haUdFd3F3aGVqYlkzNGtqQmxiTTh0NHpURHlBWFpPOTU5bDBfTWE0dw?oc=5",
-          "sterne": "⭐"
+          "quelle": "Netzpolitik.org",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3haUER5WVVOOXcwS0hfTFBZNkwtR0dKa3BabmpWYmRJdWluUklfV3RwV3JkT0tTemN0S1BhVlI4d0syd1JiTFhfSlRwaWNTQTJXaU9KQ2x1T3hxTEt2TDZiTkJEa0ljaUc0cHBhTkczek9vWlJ5aElfNEVmbUJsM1l3Ni1rd0dPX2lpdGh5ZGRZeE9sejZ1OFRDRjkzTnM?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Android: Gemini-KI bringt neue Navigationsleiste in den Chrome-Browser - belegt unnötig Platz (Screenshots)",
-          "zusammenfassung": "Die Gemini-KI integriert eine neue Navigationsleiste in den Chrome-Browser auf Android, die jedoch von Nutzern als platzraubend und unnötig kritisiert wird. Diese Implementierung zeigt die Schwierigkeiten bei der nahtlosen Integration von KI-Funktionen in bestehende Benutzeroberflächen.",
+          "titel": "Unheimlicher Moment im Auto: Gemini mischt sich ungefragt in ein Gespräch ein",
+          "zusammenfassung": "Ein Nutzer berichtet von einem 'unheimlichen Moment', als Googles Gemini sich ungefragt in ein privates Gespräch im Auto einmischte, was Bedenken hinsichtlich Datenschutz und Autonomie aufwirft. Dieser Vorfall verdeutlicht die ethischen Herausforderungen und die Notwendigkeit klarer Grenzen für KI-Systeme im Alltag. Es unterstreicht die Bedeutung von Nutzerkontrolle und Transparenz bei KI-Interaktionen.",
           "einordnung": "",
-          "quelle": "GoogleWatchBlog",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWUdiejF1aWhiemNXR2M2cUJLNVhzOGNYY0dpZHR6VE9qQWhfVU9WS2JwSDZCOU9Mb0ZrcDBxTE9nYmk2MVVxSDREakhleENWdG8tQmlvWml2RnNmMWhUNHlUeWlIaEJwaDFKazAwS1htblpiMkdfNTAtQVFWbnd6U3o0bDFrczFTbHpNdDVqbDE5SFgwQ29SU1RTOGcxZ294eGdMNnN3VmpZeTFFZ3ZUek1pQmVzZUZ6MFhWQlZmaFhTLUd3QmFtYlh3RVdkaG1UaFdLdnlZRklTQzjSAeABQVVfeXFMTVoxUXl3N05la1A0QmdfZDdWdHRHUjlnWkxUMFRKeDRla2QxamtoUFdYVkk3WElMeTBJdUkxa2pfRll6TTM2djI1TE9tRk5PcC01aTNaRVJvZGdISm1nTEE4R0NTZzBiOXNHOTVYRGxObzBGRjlCZ1N6YWlKSVdrdWJuTXVMdWh2RkZ6R3RSOXJ5Q3d1czYxZEp4bG1xX0dIUXJGT2hkZncyLWlEZmVtcTVGRFVVeGd2ZWM4bDF6cGE4VXRYR0JBTlBUaUl2Y1V0WVJqNEVSOXlzMFJuYzF5bVo?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "Pixel Glow: Das HiLight der Pixel 11-Smartphones - alle Infos zur leuchtenden Rückseite mit Gemini-KI (Video)",
-          "zusammenfassung": "Die kommenden Pixel 11-Smartphones werden ein \"Pixel Glow\"-Feature mit einer leuchtenden Rückseite erhalten, das von der Gemini-KI gesteuert wird. Dies demonstriert die zunehmende Verschmelzung von innovativem Hardware-Design und intelligenter KI-Funktionalität in mobilen Geräten.",
-          "einordnung": "",
-          "quelle": "GoogleWatchBlog",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UWXI4Q0VXMm01ZWdQWFMxbVpQVmY3VGxQQ3R5UVhXV24wb0duUTZ0Tng5SlhXaXFmTldocjkxbHpUUW94MVZkR0tBZmdLa3J4VHfSAeMBQVVfeXFMTVVnaE5uVG9VNF95M0lYei1ydmFMRVNoOU5wbmZxOVRNNzVhRy1ldGV6eWxiMDFQa3NaRGp4Rk9oV3FpQU82TXlmdVVVWGs0RkNnZ3g4Vnh1SXFWY2RxTjVFQWphRFV1eDE4NGo3cTFJYWdIZ1BWY1NOaS1NRFozdWpZVG9PZ2M5YzZxRkRUaktJclhIdW5MeWUzZlJpa0RicEhrcGY2UjZDLUt4eVFXTF8tZ0NlMXdrYkJpS1Z5VmQ3ZlZOWkdPN2huV0tZVVFHcjlmcXdNRXZjdG9Yb2dLbHlVUEU?oc=5",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kcDhNNU9Ra0Z3SDliUGJSTUFzQ3FFLTYzbmNvRm9GRjFjbVNEMHRuMy14OGVidGp6MG1DZnZLRENWRlJRdnZEY2FJcFc4aEF6UGpjRU1CRUlkb1JxZExCMFhFcmFyZU45RkllbA?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-08-11T06:43:14.719Z",
+  "generiert_um": "2026-08-12T10:30:00.000Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -204,18 +204,18 @@
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "Sprit umsonst, alle fahren im Kreis? Nie mehr weniger Token | AI-Legenden verlassen Google | Atlassian, Twilio, Cloudflare, Shopify Earnings #586",
-      "datum": "8.8.2026",
-      "dauer": "88 Min.",
+      "episode": "Subprime Rechenzentren | Freigelaufene KI as a Service | Metas KI Geschäftsmodell #587",
+      "datum": "11.8.2026",
+      "dauer": "71 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
     {
       "name": "OMR Podcast",
       "desc": "Philipp Westermeyer · Tech & Business",
-      "episode": "Mit Beckham & Co aus der Krise? Hugo-Boss-CEO Daniel Grieder (#930)",
-      "datum": "9.8.2026",
-      "dauer": "65 Min.",
+      "episode": "Deutschlands größte Audio-Marke: Teufel-CEO Sascha Mallah (#931)",
+      "datum": "12.8.2026",
+      "dauer": "69 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH"
     },
