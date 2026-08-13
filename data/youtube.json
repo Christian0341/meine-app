@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-08-12T08:23:09.071077+00:00",
+  "aktualisiert": "2026-08-13T08:25:36.346883+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "tkay",
+      "titel": "Claude AI + TikTok Shop = 72.000€/Monat",
+      "link": "https://www.youtube.com/watch?v=vbkwHr6DoLE",
+      "video_id": "vbkwHr6DoLE",
+      "thumbnail": "https://img.youtube.com/vi/vbkwHr6DoLE/mqdefault.jpg",
+      "datum": "2026-08-12T16:00:24Z",
+      "datum_de": "12.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Techvico",
+      "titel": "JEDER braucht Claude Code auf seinem PC!",
+      "link": "https://www.youtube.com/watch?v=5z2kqdaiRZA",
+      "video_id": "5z2kqdaiRZA",
+      "thumbnail": "https://img.youtube.com/vi/5z2kqdaiRZA/mqdefault.jpg",
+      "datum": "2026-08-12T15:49:21Z",
+      "datum_de": "12.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "HÖR AUF Skills zu prompten: Das neue Claude Update verändert alles!",
+      "link": "https://www.youtube.com/watch?v=tK9C3Skskws",
+      "video_id": "tK9C3Skskws",
+      "thumbnail": "https://img.youtube.com/vi/tK9C3Skskws/mqdefault.jpg",
+      "datum": "2026-08-12T14:15:34+00:00",
+      "datum_de": "12.08.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "Bevor du KI-AGENTEN nutzt: Das musst du WIRKLICH wissen!",
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/VEBum-kAh3s/mqdefault.jpg",
       "datum": "2026-08-09T07:51:23Z",
       "datum_de": "09.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "NANCY | KI-Workflows im Büro",
-      "titel": "4 Claude Skills fürs Büro, die 2 Stunden Reporting ersetzen (zum Kopieren)",
-      "link": "https://www.youtube.com/watch?v=Jd0uE7-Mocs",
-      "video_id": "Jd0uE7-Mocs",
-      "thumbnail": "https://img.youtube.com/vi/Jd0uE7-Mocs/mqdefault.jpg",
-      "datum": "2026-08-08T14:00:10Z",
-      "datum_de": "08.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Kompakt – Cristian Gebauhr",
-      "titel": "Gemini Notebook ist echt krass! Das kann die KI in 5 Minuten",
-      "link": "https://www.youtube.com/watch?v=NwleKxXgK7s",
-      "video_id": "NwleKxXgK7s",
-      "thumbnail": "https://img.youtube.com/vi/NwleKxXgK7s/mqdefault.jpg",
-      "datum": "2026-08-08T09:00:13Z",
-      "datum_de": "08.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "AI News Today | Julian Goldie Podcast",
-      "titel": "OpenAI&#39;s Astra AI Is Too Dangerous To Release",
-      "link": "https://www.youtube.com/watch?v=cwhJM1mHJW0",
-      "video_id": "cwhJM1mHJW0",
-      "thumbnail": "https://img.youtube.com/vi/cwhJM1mHJW0/mqdefault.jpg",
-      "datum": "2026-08-08T08:57:20Z",
-      "datum_de": "08.08.2026",
       "quelle": "suche"
     }
   ]
