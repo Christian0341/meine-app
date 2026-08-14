@@ -1,7 +1,7 @@
 {
-  "datum": "Donnerstag, 13. August 2026",
-  "datumISO": "2026-08-13",
-  "tagesthema": "Unternehmen sehen in KI eine Chance zur Lohnsenkung, während Google mit Gemini einen Nutzerrekord feiert und die Diskussion um KI-Wasserzeichen und Regulierung an Fahrt gewinnt.",
+  "datum": "Freitag, 14. August 2026",
+  "datumISO": "2026-08-14",
+  "tagesthema": "Der Einfluss von KI auf den Arbeitsmarkt und die Nutzung im Alltag prägen die Diskussion, während neue Modelle und regulatorische Rahmenbedingungen weiterentwickelt werden.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,27 +9,27 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "ChatGPT: OpenAI bringt Desktop-App für Linux",
-          "zusammenfassung": "OpenAI hat eine native Desktop-Anwendung für ChatGPT für Linux-Nutzer veröffentlicht. Dies ermöglicht eine nahtlosere Integration des beliebten Chatbots in den Arbeitsalltag von Entwicklern und anderen Linux-Anwendern. Die App verspricht verbesserte Performance und direkten Zugriff auf die KI-Funktionen ohne Browser.",
+          "titel": "Gemini 3.7 Flash: Googles neues Modell für Programmierung und KI-Agenten",
+          "zusammenfassung": "Google hat Gemini 3.7 Flash vorgestellt, ein neues KI-Modell, das speziell für Programmieraufgaben und die Entwicklung von KI-Agenten optimiert wurde. Das Modell zeichnet sich durch hohe Geschwindigkeit und Effizienz aus, was es ideal für komplexe Entwicklungs-Workflows macht. Es verspricht, die Produktivität von Entwicklern erheblich zu steigern.",
+          "einordnung": "",
+          "quelle": "Caschys Blog",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDJELV96c01MY2JwUVpsYWpzSTN2YUk2ZUdjc1VacUszSnZ2eGxUaU03MmdDVE4zeThJcWxtcTFDWk1UM01pZ0phUHNYU2FhdzZjUnpfN2JvNjFzSnFJVENrcF9hMWE0Wk13YlY2aHM4YmZTRHZlNEdfTC1zOHhhSlRYOTBrLVg5cW12Q2JvNXhWaWtOakJuN2JtRk00VkpqLXpjTA?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Neue KI-Modelle: Gemini 3.7 Flash und DeepSeek V4-Pro im Vergleich",
+          "zusammenfassung": "Ein Vergleich der neuesten KI-Modelle Gemini 3.7 Flash und DeepSeek V4-Pro zeigt deren unterschiedliche Stärken und Anwendungsbereiche auf. Während Gemini Flash auf Geschwindigkeit und Agenten-Entwicklung abzielt, bietet DeepSeek V4-Pro möglicherweise andere Vorteile in Bezug auf Genauigkeit oder Kontextverständnis. Der Artikel hilft Anwendern bei der Auswahl des passenden Modells.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVozQ0p5alNLQnJvc2VJV1RNTUw5UnRWS185aTN6bm5ZZXp0SnpNWnpldE1VYlBYLU8ta2pxX2xybHBsbzlFZmt3cHFWOVExM01ua082SHFTQ3h4OXY0T01rTkhXZ29vRVpIZlJPOElwbVZGZ2MxM0ZPd00wUEF1SExQNjllaF85cFcwdQ?oc=5",
-          "sterne": "⭐"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQV9ySUFtZWRtQ0dqWlY5ZlRRZHk3bnh3R2lGRXJrRlpfZURMYzhWUTJJbVpBUVpmSjAtVE9KUFVfZzRvU3pFZ29QVklmMHF2LTV1LVpod09TWktmRG9HelowUk5MaDhVMGtIeUZoZG5tMnB6V2EwbDJLdTF2SGxnWWMtUUR4YUYwOE0td1lCclVRWWJfTUJMdmZPd3hDcTltQ25fOExB?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "ChatGPT bucht jetzt kostenlos Tische im Restaurant – für deutsche Nutzer mit Einschränkung",
-          "zusammenfassung": "ChatGPT erweitert seine Funktionalitäten und kann nun in Deutschland kostenlos Restauranttische buchen. Allerdings gibt es für deutsche Nutzer noch Einschränkungen bei der Verfügbarkeit und der Anzahl der unterstützten Restaurants. Diese Integration zeigt das Bestreben, KI-Assistenten stärker in alltägliche Dienstleistungen einzubinden.",
+          "titel": "Claude Code fragt künftig seltener: „Darf ich das?“",
+          "zusammenfassung": "Der Anthropic-Chatbot Claude wird in seiner Code-Generierung künftig seltener um Erlaubnis fragen, bevor er Vorschläge macht. Diese Anpassung soll die Effizienz und den Workflow für Entwickler verbessern, die Claude für die Programmierung nutzen. Es signalisiert eine Weiterentwicklung hin zu autonomeren und flüssigeren Interaktionen.",
           "einordnung": "",
-          "quelle": "T-Online",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM1BqTWEwdEo3Vjl6SzFyVGNKMTl6Q1MwOXFJM01oY3A0YXQ0czJpVzNpSlA2cTNJUWhRV1NmNzVPQ0ZDZWNrbG1sZHhOeDRfdXBwRjBfNTIya3p1Y3d5T04wUVBpbHg5a1U0LW1UQVhGZGg2MmVlNl82elNHd1E3WGRYY0tieTdVOHVnSVQwQ0hRQUIzSXlnQzhmcnAwUU1xTno0cTNGLV96amUxOXAyWlY4RGlZUzdLQTNITVhRSjVvTVBlX0RQWjNwTDZicTA?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "Home Speaker ausprobiert: Googles platte KI-Kugel trifft fast ins Schwarze",
-          "zusammenfassung": "N-tv.de hat Googles neuesten Home Speaker mit integrierter KI getestet, der als 'platte KI-Kugel' beschrieben wird. Der Testbericht lobt die Leistung des Geräts, weist aber auch auf kleinere Schwächen hin. Es zeigt Googles fortgesetzte Bemühungen, KI in Hardware für den Endverbraucher zu integrieren.",
-          "einordnung": "",
-          "quelle": "n-tv.de",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVzhaeEZWMTFTRFluR3Q3V3lBZUlCalB3Y01jSTMzdzYzd2xBUDFjc0hxTXBQeWZRcGY2cFlRaUtMWmEwZTk2aktjdE44MGhGTmhKTERrMlpOdnFuZ1ZsUWlrRng5V0lSQXYyNlc1M2tVZWVnQU16dUtTTUlEcVRqcHdGRVQ2MmxnNjBGRGRCclRnUjNQZTdB?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdm5NdDZleW82ZVlHa2dzZmk5WnVWMWZ0V08waV8xZnJYaU5NT1dRRGVKcFVUMDNCTi1xajM0eVBNUl9EalR4UlBwdmNfOGk4eVpyVTRUaXE0SlBQbGFZTnVCaE1VdW1kNnliM0Uxd0pudU05V01Fa2dJUGtraDRISVNfWTNsdk9LeHlSSzdMUGFQaHdaU0F2c1FIcHJrS3hqM2ZZWmtwNzUzZDFiN2Jn?oc=5",
           "sterne": "⭐"
         }
       ]
@@ -40,28 +40,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "OpenAI zieht den Stecker: Dieser ChatGPT-Ableger ist seit dem Wochenende Geschichte",
-          "zusammenfassung": "CHIP berichtet, dass OpenAI einen bestimmten Ableger oder eine spezialisierte Version von ChatGPT eingestellt hat. Die genauen Gründe sind nicht detailliert, aber es deutet auf eine Konsolidierung der Produktpalette oder eine Neuausrichtung der Entwicklungsstrategie hin. Solche Entscheidungen sind im schnelllebigen KI-Markt üblich.",
-          "einordnung": "",
-          "quelle": "CHIP",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUVQzMlFtWVR6VkZPbHVtSEtxVncwajhrY2pxRVJKVVNRcmlFdGtLV0FNczk3UkRSYm9Ib2VfbTByVUxUNU1lMzJkM29QQm9zdkdzV0xJaEJ4cDdfb1F5eUI1MTRVSndPYWNtX092MkVpSHp4OXBORkt3eF9EdDlwYTNnQXVlajhITFE5U3QyM3dQXzk0bUlZWUt6MkNnZ1VQZ0VtUUZGNEtHbk9lYkxLSUY0eHBSaUFfV01HTVVKZ28tNlRQczNVUFdzSGo4SWh2NnNVYUxyZDNhQ1dnX3IxOTVJZDVZYXpNWllxczZsOA?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "Rekord für Google-Dienst: Gemini erreicht eine Milliarde monatliche Nutzer",
-          "zusammenfassung": "Googles KI-Dienst Gemini hat einen beeindruckenden Meilenstein erreicht und zählt nun über eine Milliarde monatlich aktive Nutzer. Dieser Erfolg unterstreicht die rasante Verbreitung und Akzeptanz von Googles KI-Angeboten im globalen Markt. Es positioniert Gemini als einen der führenden KI-Assistenten weltweit.",
+          "titel": "Mistrals große Wette auf Europas KI-Infrastruktur",
+          "zusammenfassung": "Mistral AI, ein führendes europäisches KI-Unternehmen, setzt auf den Aufbau einer robusten KI-Infrastruktur in Europa, um die Abhängigkeit von US-Tech-Giganten zu verringern. Die Strategie zielt darauf ab, souveräne europäische KI-Lösungen zu fördern und die Wettbewerbsfähigkeit des Kontinents zu stärken. Dies könnte langfristig die Entwicklung und Nutzung von KI in der EU maßgeblich beeinflussen.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbjZ5ODZFODhFZFZJTXVMOVhmZ2RoUGVKdHNDanV2eFNKTE4zOVNUSWZfc0hCVlR3YnpGUjhkaUNybGtGWnFvM2s5RjBjSTVnU0RoR1drUE1hQ2RGeXlXWEdRUWpLa0xDb2NVUTVLdHZUNGNmSzJKQjF0Y25Yc2hiN3hLNGpEdjB4VFVpSDhVNDFCYlppb0dJUDRFV2hDcHRfUDZWbDVjcHgzVlhiUWQ1N0hhV2Q?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcF8xZXlmOWo3VDBiSHVBTGVCT09kMnFQOWhVRG9WanhqMW9SeFR2MmF6akMtMjVob0tDNFdSZV9KcjJ0Q3MwSnhDV2FiUzV0RmsxMTZ6Z2tNaEp2WWxKM21JYTN3eTlhUTUxYVFkMWNwOFFJMTZOR2RZcnBWb0MtbUlLZGRYSkFXYU94UGkyRGlSRDk1?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "KI-Zusammenfassungen nicht mitgezählt: Gemini erreicht über 1 Milliarde aktive Nutzer",
-          "zusammenfassung": "Golem.de bestätigt den Meilenstein von über einer Milliarde aktiver Gemini-Nutzer und betont, dass diese Zahl ohne die Nutzung von KI-Zusammenfassungen in anderen Google-Diensten erreicht wurde. Dies unterstreicht die organische und direkte Nutzung von Gemini als eigenständigem KI-Produkt. Es ist ein starkes Zeichen für Googles Position im KI-Wettbewerb.",
+          "titel": "Gemini: Die Google-KI hat erstmals mehr als eine Milliarde User",
+          "zusammenfassung": "Googles KI-Plattform Gemini hat einen Meilenstein erreicht und zählt nun über eine Milliarde Nutzer weltweit. Dieser Erfolg unterstreicht die massive Verbreitung und Akzeptanz von Googles KI-Angeboten. Es festigt Geminis Position als einer der führenden KI-Assistenten auf dem Markt.",
           "einordnung": "",
-          "quelle": "Golem.de",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcHlCa2RqampDWHpHcjdLV0RqdTdXc0dVZzhHc0Q5dXlSYW5IRXg4S2dIeTdYTTEwb0pEWDNHN21BRThCQkFBTEIyQjdobC1ITzQ4bXA2UjRPT2hxeTM1dEtpX19tTjRCWS1oa050ZThSYTlUX3JEckVrbkpmcE5EMmYzSHVyVHlNREpYY3VnWC1SSUQ4MlU1X3pLZ1YxZXN5dzlBbEJWNVNHNG1PQUtZZHFKU0Judy1MaWo0bk1LMEVlS09EQURySA?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "Der Standard",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGhCYmx6dUlfRDJ6XzhnQ2RKbllCVXBRdFZGWmFDejhqTWp6ME5DYkpsRkQxVFFGZGFsbXZlWHFUUl9hUWt1Rm83a3ROdTV5blFKUFlKWVRRVi0wSk5fMHBxb0lQVUxfUWFNWERwVFVEZ0pWTHp0c0c0bkdnUVdUQ2Fic2VvYkYxSE5DdXVCRGJoWUFKR3ozVmdKUjdvdzJsYkhNbm9OVml4aU1ZNVE?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Werbung in ChatGPT: OpenAI rechnet bereits pausierte Anzeigen ab",
+          "zusammenfassung": "OpenAI sieht sich mit Kritik konfrontiert, da das Unternehmen angeblich bereits pausierte Werbekampagnen in ChatGPT abrechnet. Dies führt zu Unmut bei Werbekunden und wirft Fragen bezüglich der Transparenz und Abrechnungspraktiken des KI-Riesen auf. Der Vorfall könnte das Vertrauen in die Werbeplattform von ChatGPT beeinträchtigen.",
+          "einordnung": "",
+          "quelle": "Golem",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0VJVFJaSnFhVjN2dGRDbFM5VEpzYlZxTWNORC1rR1FibzJhZ1hZRWVIa1MxVGYyOEFaa2NHTUhfN0pjNEhTVEdnSHVqMWpSM0g0MldqVHJwUlZCdFVqZjloOHg2M1FhWVM0N1F3M1NPcXB1QWhhOWxzaXVxMURaRkZyZURWZlRpU2NqZ2ZHd3NnNjRHeDdUSWZqb041dlNYeEwyOHJncVVfdw?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
@@ -72,26 +72,26 @@
       "artikel": [
         {
           "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Der Deutschlandfunk beleuchtet die aktuellen Schwierigkeiten und Verzögerungen bei der Umsetzung des EU AI Act. Es wird analysiert, welche politischen und technischen Hürden dazu führen, dass Europas wegweisendes KI-Gesetz ins Stocken gerät. Dies wirft Fragen nach der Geschwindigkeit und Effektivität der Regulierung im KI-Bereich auf.",
+          "zusammenfassung": "Die Umsetzung des EU AI Act, Europas wegweisendem KI-Gesetz, scheint ins Stocken zu geraten. Bürokratische Hürden und Uneinigkeiten zwischen den Mitgliedsstaaten verzögern die finale Implementierung. Dies könnte die Einführung einheitlicher Regeln für KI-Systeme in Europa weiter hinauszögern.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Neue EU-Regeln für KI: Für wen gilt die Kennzeichnungspflicht für Künstliche Intelligenz?",
-          "zusammenfassung": "ZDFheute erklärt die Details der neuen Kennzeichnungspflichten für Künstliche Intelligenz, die im Rahmen des EU AI Act vorgesehen sind. Der Artikel klärt auf, welche Arten von KI-Systemen und Anwendungen unter diese Pflicht fallen und welche Akteure – von Entwicklern bis zu Anwendern – betroffen sind. Es ist ein wichtiger Schritt zur Schaffung von Transparenz und Vertrauen.",
+          "titel": "KI-Verordnung: Neue Verbote für Überwachung am Arbeitsplatz ab August",
+          "zusammenfassung": "Im Rahmen der neuen KI-Verordnung treten ab August weitere Verbote für die KI-gestützte Überwachung am Arbeitsplatz in Kraft. Diese Regeln sollen den Schutz der Privatsphäre von Arbeitnehmern stärken und den ethischen Einsatz von KI in Unternehmen gewährleisten. Es ist ein wichtiger Schritt zur Regulierung des Einsatzes von KI in sensiblen Bereichen.",
           "einordnung": "",
-          "quelle": "ZDFheute",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWJTMzcxNnA2U1hRZjBrLUN2ZlJnUXAtMzFKVmxheVk2NWdsNkN4ckVIQnRic05JRDh3bm4zOVg5MWZxRnlLQVlZNUFOdXNCODN5LWUzUnU1WVBPS0otYzc3UkpEaTROZWhoVEFXaF9YMElGUnhLTFdCdURKQ2pyMmFGcUw?oc=5",
+          "quelle": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa3ktVjBJbG0weVZYaWcydVVWT0d3MkladE80c0UtNWlUX1g2Tl9EMzk3ZzJ1eHUybWhSbGFkQnFwUmFncXFuem0zTW9oSWpkYWltUHM4Y1kwRDg3eU9mc2JUR2U2TGdQdlBWazFiMFdsOXdlWkRhX2FjUWw3eWE3bkVCbUJ5enR2U3Fvc0p5d2RkcWx5VkxNX2hpNjBLT21RN2syNndpdDVxbXl3WUhxTGFDTnczMzdD?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "EU AI Act: 15-Millionen-Strafen für fehlende KI-Kennzeichnung",
-          "zusammenfassung": "BornCity informiert über die drastischen Strafen, die bei Nichteinhaltung der Kennzeichnungspflichten des EU AI Act drohen. Unternehmen, die KI-Systeme ohne die erforderliche Kennzeichnung in Verkehr bringen, müssen mit Bußgeldern von bis zu 15 Millionen Euro rechnen. Dies unterstreicht die Ernsthaftigkeit, mit der die EU die Einhaltung ihrer KI-Vorschriften durchsetzen will.",
+          "titel": "Neue EU-Regeln für KI: Für wen gilt die Kennzeichnungspflicht für Künstliche Intelligenz?",
+          "zusammenfassung": "Die neuen EU-Regeln für Künstliche Intelligenz führen eine Kennzeichnungspflicht für bestimmte KI-Systeme ein. Der Artikel erläutert, welche Anwendungen davon betroffen sind und welche Kriterien für die Offenlegung gelten. Ziel ist es, Transparenz für Nutzer zu schaffen und den verantwortungsvollen Umgang mit KI zu fördern.",
           "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFFIdXZtdHE4YzFPX3ExMXNIOXZnbFgza0Y4MlhhazFNazV6Zlc0T283WXJrRlV2UzJ6OFU0ajFfbGlxalJxYnRPekN4NFZUbko2ZUxvdWVsckRXVXFOUlBEalQxdkRYX2p1SXBWM2F0OXJHdzFfMDhiRmVYdlJtVy1KZnFRYWIyY0gwLTUyMm9zQQ?oc=5",
+          "quelle": "ZDFheute",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWJTMzcxNnA2U1hRZjBrLUN2ZlJnUXAtMzFKVmxheVk2NWdsNkN4ckVIQnRic05JRDh3bm4zOVg5MWZxRnlLQVlZNUFOdXNCODN5LWUzUnU1WVBPS0otYzc3UkpEaTROZWhoVEFXaF9YMElGUnhLTFdDdURKQ2pyMmFGcUw?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -103,94 +103,86 @@
       "artikel": [
         {
           "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
-          "zusammenfassung": "Der Artikel untersucht das vielversprechende Potenzial von Large Language Models in der Onkologie, beispielsweise bei der Diagnoseunterstützung oder der Personalisierung von Behandlungsplänen. Gleichzeitig werden erhebliche Infrastrukturprobleme und Datenherausforderungen aufgezeigt, die eine breite Implementierung noch behindern.",
+          "zusammenfassung": "Large Language Models zeigen großes Potenzial in der Onkologie, beispielsweise bei der Analyse medizinischer Daten oder der Unterstützung von Diagnosen. Allerdings stehen der breiten Anwendung noch erhebliche Infrastrukturprobleme entgegen, wie mangelnde Datenverfügbarkeit und Rechenkapazitäten. Die Forschung arbeitet an Lösungen, um dieses Potenzial voll auszuschöpfen.",
           "einordnung": "",
           "quelle": "healthcare-in-europe.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dmpiTWc?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Large Language Model: Was ist das ?",
+          "zusammenfassung": "Dieser Artikel erklärt grundlegend, was ein Large Language Model (LLM) ist und wie es funktioniert. Er beleuchtet die Architektur und die Trainingsprinzipien, die diesen leistungsstarken KI-Systemen zugrunde liegen. Für Einsteiger bietet er eine verständliche Einführung in die Technologie.",
+          "einordnung": "",
+          "quelle": "Liora",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNaDg5WHBNaUtxMGFGOXB2NnFVUm1fUFUwNGFqUjF5OWZsSjMxVXIyWUNzVkxRMVZKVnVQZmxUNXkzaFhwSVQySDgzQ1BWZlNFLUcwZmN4Qlp4c1NKR1BtYzhB?oc=5",
           "sterne": "⭐"
         },
         {
-          "titel": "Large Language Models im Härtetest: Wer schlägt ChatGPT, Claude & Co.?",
-          "zusammenfassung": "Das Industriemagazin berichtet über einen umfassenden Härtetest verschiedener Large Language Models, darunter ChatGPT und Claude. Der Test vergleicht deren Leistungsfähigkeit in unterschiedlichen Anwendungsbereichen und identifiziert Stärken und Schwächen der führenden KI-Modelle. Solche Benchmarks sind entscheidend für die Weiterentwicklung und Auswahl von KI-Lösungen.",
+          "titel": "Large Language Models: Die Mathematik hinter Transformers",
+          "zusammenfassung": "Der Artikel taucht tief in die mathematischen Grundlagen der Transformer-Architektur ein, die für die meisten modernen Large Language Models entscheidend ist. Er erklärt die komplexen Algorithmen und Konzepte, die es LLMs ermöglichen, Sprache zu verstehen und zu generieren. Dies ist eine detaillierte technische Analyse für Interessierte an der Funktionsweise von KI.",
           "einordnung": "",
-          "quelle": "Industriemagazin",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREhUb0xkNkJCZENtTWdMVUxzU2pNbUh0TklJVXhRM3lFUHpxM1dmcE1LellQdVJCLVlIWlZ6QTNZcWpaNW0xZkJOcEhxbGFWbERPWFJmUExVa2pobVgxeWZKMFBza0JWMDktUEhGcU5rUmVFYUR2STlvZ0NWX3ZZZ19Del9KYzFJVWY0bGlsRkx0QTQ4VXVRa0lfQWp5OVFv?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaDl4SHkwMlhOMjl2Um83UEFkbzM2aFVTQVgzS3BidDdLand2VE0tbjhjZ2NrNl9OWEdtWkVIX0ZXZ0lIZkNCY1RvM1ZmVVBXdTUxa1EtMXBKbklGU2YwSml3eVFvaFZWak1NRWxGY2wzelpPUlA3Y3N0VHYyNVhpdGVpdHdPYXlORlAwbTF3UjhPT1N3NnplcWxZb3c?oc=5",
           "sterne": "⭐"
         }
       ]
     },
     {
       "emoji": "💼",
-      "titel": "KI & Arbeitswelt",
+      "titel": "KI & Arbeit",
       "fest": false,
       "artikel": [
         {
           "titel": "Künstliche Intelligenz: Unternehmen sehen in KI Chance für Lohnsenkungen",
-          "zusammenfassung": "Eine aktuelle Umfrage zeigt, dass viele Unternehmen in Deutschland den Einsatz von Künstlicher Intelligenz als Möglichkeit betrachten, Personalkosten zu senken. Insbesondere in Bereichen mit repetitiven Aufgaben wird erwartet, dass KI zu sinkenden Löhnen oder einem geringeren Personalbedarf führen könnte. Dies löst Debatten über die sozialen Auswirkungen der Automatisierung aus.",
+          "zusammenfassung": "Eine aktuelle Studie zeigt, dass viele Unternehmen in der Einführung von Künstlicher Intelligenz eine Möglichkeit sehen, Personalkosten zu senken. Dies könnte zu einem Druck auf die Löhne in bestimmten Branchen führen, da KI-Systeme repetitive oder standardisierte Aufgaben übernehmen können. Die Entwicklung wirft Fragen nach der Zukunft der Arbeit und der sozialen Gerechtigkeit auf.",
           "einordnung": "",
-          "quelle": "zeit.de",
+          "quelle": "DIE ZEIT",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDVCZnN5ZGtfMlBtNndMYTlreG9jTzJwYmY3S0N1UlZsLVJBVWR6MG5Rd01WU191Q1NfWjEzcVhPX1RSaXJKTmNjRmpKVmdrY0xWdGc4Z21LRzM4a25kc0Q5Z0RiY3lqd1VlalNLN2hKcG9wNVdfV0VHWTczWll5SlJ1aVZpWkhuQnhKUHYxeEltZ0wyZTlOYk9KUjM?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Unternehmen erwarten eher sinkende Löhne durch KI-Einsatz",
-          "zusammenfassung": "Die Wirtschaftswoche berichtet über eine Studie, die aufzeigt, dass ein Großteil der deutschen Unternehmen mit einer Reduzierung der Lohnkosten durch den verstärkten Einsatz von KI rechnet. Diese Erwartungshaltung betrifft vor allem Tätigkeiten, die gut durch intelligente Systeme automatisiert werden können. Es wird diskutiert, wie sich dies auf den Arbeitsmarkt und die Verhandlungsposition von Arbeitnehmern auswirken wird.",
-          "einordnung": "",
-          "quelle": "WiWo",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWFtU2tSZkxRWmNvamJYbklQMHEzVExPTGJoaXYtZE15UDltWmp6S3hmdXJRbm9HdmtiMnpoUUdYZVNGdHo3TkRiSjJjQjE2RERfRnNpemtSbUNxY3FZQVR1WTJ1X0hId1NubnZTa3Nzbi15WU5VS0diRFRmTUU3Z09yYk9WbmVoSW40VkRhOWc5MjEwdTVKdDctSTlGeEV3ZHNta1hrQmpKQQ?oc=5",
-          "sterne": "⭐⭐"
+          "sterne": "⭐⭐⭐"
         },
         {
           "titel": "Wer wegen Kollege KI mit sinkenden Löhnen rechnen muss",
-          "zusammenfassung": "Capital.de beleuchtet, welche Berufsgruppen und Tätigkeitsfelder besonders anfällig für Lohnsenkungen durch den Einsatz von Künstlicher Intelligenz sind. Experten warnen, dass insbesondere standardisierte Büroarbeiten und administrative Aufgaben betroffen sein könnten, während kreative und komplexe Problemlösungsfähigkeiten an Wert gewinnen. Unternehmen sehen in der KI eine Effizienzsteigerung, die sich auch in der Lohnstruktur niederschlagen könnte.",
+          "zusammenfassung": "Der Einsatz von KI am Arbeitsplatz könnte für bestimmte Berufsgruppen zu sinkenden Löhnen führen, da die Produktivität durch KI steigt und menschliche Arbeitskraft weniger gefragt ist. Experten warnen vor einer Polarisierung des Arbeitsmarktes, bei der hochqualifizierte KI-Entwickler profitieren, während andere Arbeitnehmer unter Druck geraten. Es wird diskutiert, wie dieser Trend abgefedert werden kann.",
           "einordnung": "",
-          "quelle": "Capital.de",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHgzakdtNUlLb19TMG9TamRSb1FaUUJ1ZURkM0Q3aXBDc1dCU3BGTEJ5Y0dOLVRHWC1yNjZsTzlzeE9WTlJRVHRGZUpOdDlVemx4M0VkWmVsNjNJQ3BzUXZjM0RPRlJpRXJNeXVub1RCd0Y1Qk1wczVBV094Ty1sR2lHNmFtcFp2dF9GbktwalB1OVJUY0xaVnZIMnVjVDl6eHZLd20yUQ?oc=5",
+          "quelle": "STERN.de",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaUZvNGdvaTZ0SnZYb0plY1JQMnFNRDdMcnlza3hYTzZKYU1kRVZfSWkwY0xmM1JkZEx4bWxwQi05TFJyaWJaUWQ2bC1JMkRpcWJ5OGxESW00dlFEdGJRMEtreTRWbWlqRlA5bXV5VTRZNTJPcEhOdzJtQ1ltaXRoS3VjNDZmeGpwUzBLVmZsaUdnTWZWczZaM3VINHg5QVZacTZabXpDTUwzbWkt?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     },
     {
-      "emoji": "🛡️",
-      "titel": "KI & Ethik & Sicherheit",
+      "emoji": "💡",
+      "titel": "KI-Anwendungen & Alltag",
       "fest": false,
       "artikel": [
         {
-          "titel": "Claude: KI-Wasserzeichen – ein Bärendienst für die Wahrheit",
-          "zusammenfassung": "Heise online kritisiert die Einführung von KI-Wasserzeichen durch Anthropic als potenziellen 'Bärendienst für die Wahrheit'. Obwohl die Absicht ist, KI-generierte Inhalte zu kennzeichnen, wird befürchtet, dass dies zu einer falschen Sicherheit führen oder die Erkennung manipulativer Inhalte erschweren könnte, wenn die Wasserzeichen nicht robust genug sind oder umgangen werden.",
+          "titel": "ChatGPT: OpenAI bringt Desktop-App für Linux",
+          "zusammenfassung": "OpenAI hat eine native Desktop-Anwendung für ChatGPT für Linux-Nutzer veröffentlicht. Damit erweitert das Unternehmen die Zugänglichkeit seines beliebten Chatbots auf eine weitere wichtige Plattform. Die App soll eine nahtlosere Integration in den Arbeitsalltag von Entwicklern und Power-Usern ermöglichen.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYkphdkFpYzFtZDRLa3I0WDBiS0Fpcm5kSVJhVnpwb3NzZEhXMHdsbXZOODBkLUd0aGtpbm11RWFJb3NzeXBLUEwydXJoOUpIVGNLVGZBdm4yaHNqb05RSmlYN2cxN2dyZWVkMWJiem9WSlVHdDFvcXFLeW9zbGlXak1OZE1hZ3BsNm05RWM2bmtIVUdjdUhaeEFDLXpxaVRtVUNFXzhxWENTVmxBY0I4?oc=5",
-          "sterne": "⭐⭐"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVozQ0p5alNLQnJvc2VJV1RNTUw5UnRWS185aTN6bm5ZZXp0SnpNWnpldE1VYlBYLU8ta2pxX2xybHBsbzlFZmt3cHFWOVExM01ua082SHFTQ3h4OXY0T01rTkhXZ29vRVpIZlJPOElwbVZGZ2MxM0ZPd00wUEF1SExQNjllaF85cFcwdQ?oc=5",
+          "sterne": "⭐"
         },
         {
-          "titel": "Wasserzeichen von Anthropic: Das unsichtbare KI-Signal",
-          "zusammenfassung": "Die FAZ beleuchtet die Technologie hinter den unsichtbaren digitalen Wasserzeichen, die Anthropic in seine Claude-KI-Modelle integriert. Diese sollen helfen, von der KI generierte Texte zu identifizieren und somit Transparenz zu schaffen. Die Diskussion dreht sich um die Effektivität und die potenziellen Auswirkungen auf die Glaubwürdigkeit von Informationen.",
+          "titel": "ChatGPT bucht jetzt kostenlos Tische im Restaurant – für deutsche Nutzer mit Einschränkung",
+          "zusammenfassung": "ChatGPT bietet nun die kostenlose Möglichkeit, Restauranttische zu buchen, allerdings mit Einschränkungen für deutsche Nutzer. Die Funktion nutzt KI, um Reservierungen zu verwalten und den Prozess zu vereinfachen. Dies zeigt die zunehmende Integration von KI in alltägliche Dienstleistungen, auch wenn die volle Funktionalität noch nicht überall verfügbar ist.",
           "einordnung": "",
-          "quelle": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbUxZNUVwb3lVaG9CUm92OXFlUVNSa29pdlZyR2djcF9ZOUR6bmlLeVpDTzh6S3B1NHQzb2RlSXA1QkNKLUw2d2pRSHFJZ3hQLWt5RGIyQTNPTnh3TV9idm5LXzZPY2dZTzBTZ1ZTTUVfdHZpV05ZRF8tVW1EcTIybTJsYm5kTEhueGJpXzhSRWlyRHNrX2hhSV8xZkFGVHREMGJyZ1J2U2VFZDM3OFRxVEtha29UczZRYUVpRmFoeU9lQ09yWkpBX2FYNnpTb3MtUDItZ3RLV0Nsemc?oc=5",
+          "quelle": "T-Online",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM1BqTWEwdEo3Vjl6SzFyVGNKMTl6Q1MwOXFJM01oY3A0YXQ0czJpVzNpSlA2cTNJUWhRV1NmNzVPQ0ZDZWNrbG1sZHhOeDRfdXBwRjBfNTIya3p1Y3d5T04wUVBpbHg5a1U0LW1UQVhGZGg2MmVlNl82elNHd1E3WGRYY0tieTdVOHVnSVQwQ0hRQUIzSXlnQzhmcnAwUU1xTno0cTNGLV96amUxOXAyWlY4RGlZUzdLQTNITVhRSjVvTVBlX0RQWjNwTDZicTA?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Claude: Chatbot von Anthropic markiert KI-Texte künftiger Modelle mit digitalen Wasserzeichen",
-          "zusammenfassung": "Der Spiegel berichtet, dass Anthropic seine zukünftigen Claude-Chatbot-Modelle mit digitalen Wasserzeichen versehen wird, um KI-generierte Texte kenntlich zu machen. Diese Maßnahme soll der Verbreitung von Desinformation entgegenwirken und die Herkunft von Inhalten transparenter gestalten. Es ist ein wichtiger Schritt in der Debatte um die Authentizität digitaler Inhalte.",
+          "titel": "Claude: Chatbot von Anthropic markiert KI-Texte künftiger Modelle mit Wasserzeichen",
+          "zusammenfassung": "Anthropic plant, zukünftige KI-Modelle wie Claude mit digitalen Wasserzeichen zu versehen, um von der KI generierte Texte eindeutig zu kennzeichnen. Diese Maßnahme soll die Authentizität von Inhalten sicherstellen und die Verbreitung von Falschinformationen erschweren. Es ist ein wichtiger Schritt im Kampf gegen Missbrauch von generativer KI.",
           "einordnung": "",
           "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcFhjYlUzdDZoWE1DejJ6QkRPLUxpb3kxb0hSWWxBeWxFVDBqVVp2bFp4SXhVellHZXlMNW9Kb1BhenZzd3NvX3dIUnBfMXREMjNfZFpnUUo2SVBlUWZGVVpScmNOZWJJWFdLZ3JKSzVndzMxWDlwdmpwcDNKcXA2a0toUXlDTjZsa0oweXdycEFJTTF4RTZ0djVjMFVFSHZQSlJoVHRVd3dkTkdlOVd1QnB0Z2NpUm1vTEU5Sk5sU1ctT3ZIZ0NXSzFUaTlCc0tOWmZuZ2djSFc1Q1NLMjdxVnZOY1BJcmo1M1hfVzA0VzRBRzJTaFBBR0ZsR2I?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Die dunkle Seite neuer KI-Sprachmodelle: Wie Large Language Models die Cybersicherheit herausfordern",
-          "zusammenfassung": "Der PRIF Blog analysiert die potenziellen Risiken, die von Large Language Models (LLMs) für die Cybersicherheit ausgehen. Es wird erörtert, wie diese Modelle für Phishing, Social Engineering oder die Generierung von Schadcode missbraucht werden könnten. Der Artikel betont die Notwendigkeit robuster Sicherheitsmaßnahmen und ethischer Richtlinien.",
-          "einordnung": "",
-          "quelle": "PRIF Blog",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSDZVTGJGeEV1QnZhNWxCamJyOEI1V2tLVGkxRGoyOWtGc3hSa1NNM1ZaNmN2RUNjSDVrMGRZX3AzNkdPNEUzM2V6d2Z5Yy1LdDNranBOajRGYnlKRGp2SGdZbHRzbmJwS1BYYWQ2N2x1eWxXSXFZSXVjTFpURTJGNmlxby1DdGoyMEVpb3hJSjR6MTJZb1ZOMEs4MGFNdXVBSGl5dlluRFJ3WndqZy1saUt6dlIxSUprQm4xVEc5Wjh6MklzSFZRZW43UVluUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxON1hpck1FYWt1MHp5Sm5oUGRydTBLZDB1ZkFSc19aVEVFNjVmSkZIb3E2RzVneXVOM1dTdnY4QUJ2Ymh5MTFKSGxYdFJ3b2k5R0Fqa0FSYjV5Zmc5S3ZOYnBsRnI2eGpRLVdlclctYjR1Qll6YTBMTEVBZV9sX0FiV3AtcnVENTZocGM3SkNjQVhLSDVKOW5jUDFkcGVRbXZpQ1prbi1ORUdZdmxiYUJBZHFuVmgzS3dBeXVmcmp1YkEydFVRTzRVZDFjdS1SMHZzNUVCNmp4NW9zSUp1ZUhoOVdQRmc0aExNcTl4UW9CWQ?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-08-13T07:07:37.821Z",
+  "generiert_um": "2026-08-14T07:04:24.227Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
