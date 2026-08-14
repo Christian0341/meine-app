@@ -1,10 +1,20 @@
 {
-  "aktualisiert": "2026-08-13T08:25:36.346883+00:00",
+  "aktualisiert": "2026-08-14T08:21:11.426091+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "Everlast AI",
+      "titel": "„Uns fehlt nur noch EINE Idee!\" Niemand kann es stoppen: Superintelligenz steht kurz bevor",
+      "link": "https://www.youtube.com/watch?v=VNo8fQtdCeo",
+      "video_id": "VNo8fQtdCeo",
+      "thumbnail": "https://img.youtube.com/vi/VNo8fQtdCeo/mqdefault.jpg",
+      "datum": "2026-08-13T15:15:37+00:00",
+      "datum_de": "13.08.2026",
+      "quelle": "kanal"
+    },
+    {
       "kanal": "tkay",
-      "titel": "Claude AI + TikTok Shop = 72.000€/Monat",
+      "titel": "Claude AI + TikTok Shop = 72.000€ im Monat",
       "link": "https://www.youtube.com/watch?v=vbkwHr6DoLE",
       "video_id": "vbkwHr6DoLE",
       "thumbnail": "https://img.youtube.com/vi/vbkwHr6DoLE/mqdefault.jpg",
@@ -141,16 +151,6 @@
       "datum": "2026-08-09T08:07:01+00:00",
       "datum_de": "09.08.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "KI-Wissen | Automatisieren mit KI",
-      "titel": "LM Studio Bionic: Lokaler KI-Agent wie Claude Cowork – 100 % offline",
-      "link": "https://www.youtube.com/watch?v=VEBum-kAh3s",
-      "video_id": "VEBum-kAh3s",
-      "thumbnail": "https://img.youtube.com/vi/VEBum-kAh3s/mqdefault.jpg",
-      "datum": "2026-08-09T07:51:23Z",
-      "datum_de": "09.08.2026",
-      "quelle": "suche"
     }
   ]
 }
