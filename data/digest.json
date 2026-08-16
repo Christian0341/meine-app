@@ -1,7 +1,7 @@
 {
-  "datum": "Samstag, 15. August 2026",
-  "datumISO": "2026-08-15",
-  "tagesthema": "Neue KI-Modelle, regulatorische Meilensteine und hitzige Debatten über Ethik und Arbeitswelt prägen die aktuelle KI-Landschaft.",
+  "datum": "Sonntag, 16. August 2026",
+  "datumISO": "2026-08-16",
+  "tagesthema": "Der heutige KI-News Digest beleuchtet die strategische Expansion von KI-Unternehmen in Deutschland, die Herausforderungen der Regulierung und die breite gesellschaftliche Debatte um die Zukunft der KI, ergänzt durch neue Modelle und innovative Anwendungen.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,20 +9,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "ChatGPT bekommt ein Gedächtnis: Was hinter der neuen Funktion „Computer History“ steckt",
-          "zusammenfassung": "OpenAI stattet ChatGPT mit einer neuen 'Computer History'-Funktion aus, die es dem Modell ermöglicht, sich an frühere Interaktionen zu erinnern. Diese Gedächtnisfunktion soll die Nutzererfahrung personalisieren und die Kontinuität in Gesprächen verbessern. Sie wirft jedoch auch Fragen bezüglich Datenschutz und der Verwaltung persönlicher Informationen auf.",
+          "titel": "Neue KI-Modelle: Gemini 3.7 Flash und DeepSeek V4-Pro im Vergleich",
+          "zusammenfassung": "Dieser Artikel bietet einen detaillierten Vergleich der neuesten KI-Modelle Gemini 3.7 Flash und DeepSeek V4-Pro. Er analysiert deren Leistungsfähigkeit, neue Funktionen und potenzielle Einsatzgebiete, um Einblicke in die aktuelle Entwicklung von Large Language Models zu geben.",
           "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmtNbHpuejNfTE94aG1BU29YdVVnUi1WVTFURWZnS1JFRXpqakp1MTBUa21ZZVJqcm1FZ2xZaUduTTdfbEl3ejg5S2YwaTYyUkZqQ0ZzS0RFcm0xUzNmNGpYcEJpUWlxQXplUThSV1VZc3BRanlRRlRoU0V4R1J5azdBV21lQ0M5TTE4MFVTRklxdnpDTC0zRFFHYi15UDVCU2d2MlhVWHJOV1RHNVA0OTFxdG0?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQV9ySUFtZWRtQ0dqWlY5ZlRRZHk3bnh3R2lGRXJrRlpfZURMYzhWUTJJbVpBUVpmSjAtVE9KUFVfZzRvU3pFZ29QVklmMHF2LTV1LVpod09TWktmRG9HelowUk5MaDhVMGtIeUZoZG5tMnB6V2EwbDJLdTF2SGxnWWMtUUR4YUYwOE0td1lCclVRWWJfTUJMdmZPd3hDcTltQ25fOExB?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Gemini 3.7 Flash: Höhere Intelligenz für Agenten und Coding zum halben Preis",
-          "zusammenfassung": "Google hat Gemini 3.7 Flash vorgestellt, eine neue Version seines KI-Modells, die höhere Intelligenz für Agenten-Aufgaben und Coding-Fähigkeiten bietet. Besonders hervorzuheben ist der halbe Preis im Vergleich zu früheren Versionen, was die Zugänglichkeit und Wirtschaftlichkeit für Entwickler erhöht. Dies könnte die Adoption von KI-Agenten und automatisiertem Coding weiter beschleunigen.",
+          "titel": "Android: Gboard revolutioniert die Spracheingabe - neue Gemini-KI optimiert diktierte Texte vollständig...",
+          "zusammenfassung": "Google integriert die neue Gemini-KI in Gboard, um die Spracheingabe auf Android-Geräten grundlegend zu verbessern. Die KI optimiert diktierte Texte umfassend, was eine höhere Genauigkeit und ein flüssigeres Nutzererlebnis bei der mobilen Kommunikation verspricht.",
           "einordnung": "",
-          "quelle": "ComputerBase",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXRBSDQ0NHZ5cFN2YmdzMFVMcDZfblJBUnZ5MTk2RFFyWXBjVV9LVFFuRXAtZFExdW1HQnBScUM4cFZqaW52azRPa29qSUIzUzNjTkhic0U3R0d4NDR6OGhvbXM0MlhMdlV0cXBOelNBX2JtYmtET1pEeXpVRGZFZkJIcjl0UFBwandYTEVOckJ0WVRFRGlmVmhwbjh0QWQ0Q1F1VzFNYUZaeHhwdkw5UFpFLUJiTk5HY3RHU3FjSQ?oc=5",
+          "quelle": "googlewatchblog.de",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yeUc2UzRVczBsZlZSR01UZDNwU2p5T2xYU0F1dEJtU1hyNFpnYU5DNmtCbm85RGZMeFBKaHZRMXcwZGk5dmtRT1RXZ3dlUzhwMFHSAeYBQVVfeXFMTlg5Y09zckV6b1VsLVB4dWlsTkV3OUxNRjBuSlJNZUtrdnZFVTkxcEpXcGE0aVhNTGw0NkRHdXA4WW1Uc2pydzZMQjhfbkl4d3FSUjg2LVl1Nmx6T2tTRkxIZm1NdUFhWFVBZGF0QzFGdGo0LXRvcmlFSWVNSDVhZXVUSE0tTFhRelZuV3FtT1czWF8tTmxkQVlBVVpoRldDLThQOHUyd0h5cU56WkV3ek1heXFIYXpJeXQtX3hxaXRNd0tSUThoTG0tdElwZVFvcnhtLTlKcnFIVlNnT2hsbjB2a1dYYlE?oc=5",
           "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Gemini Update: Neue KI-Navigation, Gemini Gems wird eingestellt, FC Bayern München und Milliardengrenze",
+          "zusammenfassung": "Ein aktuelles Gemini-Update bringt eine verbesserte KI-Navigation und kündigt die Einstellung von 'Gemini Gems' an. Der Bericht beleuchtet zudem den Markteinfluss von Gemini, inklusive einer Erwähnung des FC Bayern München und des Erreichens einer Milliardengrenze.",
+          "einordnung": "",
+          "quelle": "googlewatchblog.de",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KRmJrSFAta3AwQXBzd20yZWE3eDJsS0FMRldCOXZrOVBSR0hha1pHLWMwV3puSXUyYVhZSzlESXFCcHJVZnY0eGU4OVA1MElZTVHSAXpBVV95cUxPWEw3WlVhdHR1TFBiY0ZlbmRveEg0MmM4alpGVHJWLXBMTTFqRDloTllnekZWd19aRkhMX094QnowVDJMWEhPS3pYTWNzMDFwRmctUU16NUZXWTFxS0x5eEJPdktodXk0V2liLXYtc0Z5YmdRdFJvdEgwUQ?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
@@ -32,27 +40,27 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Deutschland ist größter ChatGPT-Markt in Europa KI-Gigant OpenAI plant neues Büro in Berlin",
-          "zusammenfassung": "OpenAI, der Entwickler von ChatGPT, plant die Eröffnung eines neuen Büros in Berlin und unterstreicht damit die Bedeutung Deutschlands als größten ChatGPT-Markt in Europa. Dieser Schritt signalisiert eine verstärkte Präsenz und Investition in den europäischen Markt. Die Expansion soll die Entwicklung und Anpassung von KI-Lösungen vor Ort vorantreiben.",
+          "titel": "Christoph Winter: Was OpenAI in Deutschland vorhat",
+          "zusammenfassung": "Dieser Artikel gibt Einblicke in die strategischen Pläne von OpenAI für den deutschen Markt. Es wird beleuchtet, welche Ziele das Unternehmen in Bezug auf Expansion, Partnerschaften und die Entwicklung von KI-Lösungen in Deutschland verfolgt.",
           "einordnung": "",
-          "quelle": "Tagesspiegel",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcnAzN195cVRaSGpWbTAzc1RUQld2UFRQVXdFcTZQTEMzTDQyRUhOcm0wOGEwSmZjY1hCeFlBZl9OMEwtaG1YVkpRUnhJLVlKSmI2Y0FzNXJSMTFTdzVIOUJKWUZSazFIY0toR2RGYUhUUVBuNGZqd01OY0FCdHcxN1RjWHdYSDhmc1dTNnNOMk9VQjZiZW8yX2RGR0o5Mk5qVTYxUUJlMmNFVTFPU3duUlZ5OWthMjFtd0h1SC1XWDFvNHhFVzhQWVQyUlREQlhySEtUdXBCWm4?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "Capital.de",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOHhJVXZYNVF0bUd2UEJuMUVwOTNsU2k3aFhmbUV1QnVHQ05oeXljUEdNb1dxRlVvVWNRQmZYMWQwbGptUnN1eG5LWFpjZFVyT1FLY25QRmlQM2NIWmlFNlRvMHN0elBIOWw3OXRZMTV5Y21XVmdmWlp1czVNbFpLUzNUazJzYlNBV0gwWXhtR3duNk5saWN1Y0dkQ1ZrT28yUmZkMFE3TGdWZw?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "Gemini: Die Google-KI hat erstmals mehr als eine Milliarde User",
-          "zusammenfassung": "Googles KI-Modell Gemini hat einen Meilenstein erreicht und zählt nun über eine Milliarde Nutzer weltweit. Dieser Erfolg unterstreicht die rasante Verbreitung und Akzeptanz von Googles KI-Angeboten. Die enorme Nutzerbasis positioniert Gemini als einen der führenden Akteure im globalen KI-Wettbewerb.",
+          "titel": "OpenAI plant neues Büro in Berlin – KI-Ausbau in Deutschland",
+          "zusammenfassung": "OpenAI kündigt die Eröffnung eines neuen Büros in Berlin an, was einen bedeutenden Schritt im Ausbau seiner Präsenz in Deutschland darstellt. Diese Expansion unterstreicht die wachsende Bedeutung des deutschen Standorts für globale KI-Unternehmen.",
           "einordnung": "",
-          "quelle": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGhCYmx6dUlfRDJ6XzhnQ2RKbllCVXBRdFZGWmFDejhqTWp6ME5DYkpsRkQxVFFGZGFsbXZlWHFUUl9hUWt1Rm83a3ROdTV5blFKUFlKWVRRVi0wSk5fMHBxb0lQVUxfUWFNWERwVFVEZ0pWTHp0c0c0bkdnUVdUQ2Fic2VvYkYxSE5DdXVCRGJoWUFKR3ozVmdKUjdvdzJsYkhNbm9OVml4aU1ZNVE?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFNEcUstWnd4Y0dEM0pyanJFWVJKUTFYSnRUcktXQm94aDlJa0UwVjBDV3BjV2QyZ1F0MmN4cmppbTBKak1zTWNTdHRnUTVPcXlPdk01UzFrRnJhWXpQbHZoNkhpUVpNaDk2VkI5dThZUzV1NFdJSE8ydHUwWURwek1xRUZ4YkM4Z2pfQW1WTWNNZHltNEJUMkItNm02NWot?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "Ablatic AI: Linzer JKU-Spinoff mit eigenem KI-Sprachmodell und großen Plänen",
-          "zusammenfassung": "Das Linzer JKU-Spinoff Ablatic AI hat ein eigenes KI-Sprachmodell entwickelt und verfolgt ambitionierte Pläne im Bereich der Künstlichen Intelligenz. Das junge Unternehmen positioniert sich als neuer Akteur auf dem europäischen KI-Markt. Der Schritt zeigt die wachsende Innovationskraft im regionalen Tech-Sektor.",
+          "titel": "Werbung in ChatGPT: OpenAI rechnet bereits pausierte Anzeigen ab",
+          "zusammenfassung": "Golem berichtet über OpenAIs Abrechnungspraktiken für pausierte Anzeigen in ChatGPT, die bei Werbetreibenden für Unmut sorgen. Dies wirft Fragen bezüglich der Monetarisierungsstrategien von KI-Diensten und der Transparenz gegenüber Kunden auf.",
           "einordnung": "",
-          "quelle": "brutkasten",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNzFrUWlRTnZBdGU3cGhJUXdxZ3BKSldKS2UzbVJOT1Z3WE5BYVctcEt3RmRuRnJZT0hCamh0SU1TNmRoWkRJNWhXaURfWFZDeEpQdzFPM2w5QTBreDYtVmRKX01YcDFLYjhIZThVRHQtSUVseXVGcEFlZEZWQ3lNRnB5YkVobWRaSC1PZkVzNjdRQkZxZHFJLXp0aS1ta29Hc1l6R0thMXlOOEx3MlRr?oc=5",
+          "quelle": "Golem",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0VJVFJaSnFhVjN2dGRDbFM5VEpzYlZxTWNORC1rR1FibzJhZ1hZRWVIa1MxVGYyOEFaa2NHTUhfN0pjNEhTVEdnSHVqMWpSM0g0MldqVHJwUlZCdFVqZjloOHg2M1FhWVM0N1F3M1NPcXB1QWhhOWxzaXVxMURaRkZyZURWZlRpU2NqZ2ZHd3NnNjRHeDdUSWZqb041dlNYeEwyOHJncVVfdw?oc=5",
           "sterne": "⭐"
         }
       ]
@@ -63,27 +71,35 @@
       "fest": true,
       "artikel": [
         {
+          "titel": "Anthropic führt Wasserzeichen ein: Deshalb kündigen jetzt erste Claude-Nutzer ihre Abos",
+          "zusammenfassung": "Anthropic hat Wasserzeichen für seine Claude-KI eingeführt, was bei einigen Nutzern zu Kündigungen geführt hat. Dieser Schritt, vermutlich als Reaktion auf Transparenzanforderungen, zeigt die Herausforderungen bei der Balance zwischen Regulierung und Nutzerakzeptanz.",
+          "einordnung": "",
+          "quelle": "Business Insider Deutschland",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3paV0ZDYVQwc05OanNCbVFfdnR2NjNDbmxHdzFQN0hmQWRzUWJFX3g0XzMxTDVpWlFZZXZZOVZhVnR1V2RvUUdFLUpybTlqa2tRYzhNbl9DX25UdFZkZVZLSld4RVFDMUw3ZkxwYjZ0LTBZWDJtcHF4dl9iNmxPa2tzbk16NEZOeVp4N1NFQnF2ZDRzcWhIaHEta1V0Q2tHZFlkRThxcGJhMG1XYW5vQ2Jwc01EbzFqeGc?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
           "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Der EU AI Act, Europas wegweisendes KI-Gesetz, gerät Berichten zufolge ins Stocken, was Bedenken hinsichtlich seiner rechtzeitigen Umsetzung aufwirft. Interne Uneinigkeiten und Lobbying-Bemühungen könnten die Finalisierung verzögern. Die Entwicklung unterstreicht die Komplexität und die politischen Herausforderungen bei der Regulierung von KI.",
+          "zusammenfassung": "Der Deutschlandfunk beleuchtet, warum die Umsetzung des EU AI Act ins Stocken gerät und ob Europas wegweisendes KI-Gesetz an Schwung verliert. Der Artikel analysiert die Hürden und Herausforderungen bei der Etablierung eines umfassenden Regulierungsrahmens für KI.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "EU-KI-Verordnung: Bußgelder bis 35 Millionen Euro ab sofort",
-          "zusammenfassung": "Die EU-KI-Verordnung tritt mit sofortiger Wirkung in Kraft und sieht drastische Bußgelder von bis zu 35 Millionen Euro für Verstöße vor. Unternehmen, die KI-Systeme entwickeln oder nutzen, müssen sich nun an strenge Regeln halten. Dies markiert einen entscheidenden Schritt zur Etablierung eines rechtlichen Rahmens für Künstliche Intelligenz in Europa.",
-          "einordnung": "",
-          "quelle": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUFaU1BYNkNKNlVhakxMQ0ZrQU02WElBRXByT0pEZXBEZWNhdkVHNkVKRWhSeV9jUExVV0ktcUQ0NUVqMTZWRmc1OVBINW1QdWpfdlJnWnRSRTA1bWxvRkN5WjlGR1BqNkQtVjFPZ1hWdHlvUVExcVktdkVVY0JzM3Y1NGxoUzhMVnFJVVdoeGg5VFI4Qk8tZC1fUUNPaHlvakZ0d3lUQ2dXQQ?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
           "titel": "EU will einen KI-Stempel: Was bedeutet das für Claude und ChatGPT?",
-          "zusammenfassung": "Die EU plant die Einführung eines 'KI-Stempels', um KI-generierte Inhalte zu kennzeichnen und so Transparenz zu schaffen. Diese Maßnahme soll Nutzern helfen, zwischen menschlichen und maschinellen Kreationen zu unterscheiden. Die Auswirkungen auf Modelle wie Claude und ChatGPT könnten erheblich sein, da sie ihre Ausgaben entsprechend markieren müssten.",
+          "zusammenfassung": "Die Berliner Zeitung berichtet über die Pläne der EU, einen 'KI-Stempel' oder ein Wasserzeichen für KI-generierte Inhalte einzuführen. Der Artikel diskutiert die Auswirkungen dieser Kennzeichnungspflicht auf große Sprachmodelle wie Claude und ChatGPT und deren Transparenz.",
           "einordnung": "",
           "quelle": "Berliner Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN182bXFzUjMwX3ZmX0ZSRDQtQ3J0cFJoS0Q0bXgyUHJWcFFRUGFrdmZySnpVdXJFWWRjMXlNb3pBbVVRSzBqQ2Fwb1NBQklpdkRiSEJEY25KdHNXOUltWVZZU1Z1dUlvVDNRVXphemtvd2dvOHJCekNVN0gzM3RiUElwRllmekxrYkJ0OVlQTGpPa0xscERfREFEY0Y0ZHE4WEViOWNxVGJIcVU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN182bXFzUjMwX3ZmX0ZSRDQtQ3J0cFJoSzQzbXgyUHJWcFFRUGFrdmZySnpVdXJFWWRjMXlNb3pBbVVRSzBqQ2Fwb1NBQklpdkRiSEJEY25KdHNXOUltWVZZU1Z1dUlvVDNRVXphemtvd2dvOHJCekNVN0gzM3RiUElwRllmekxrYkJ0OVlQTGpPa0xscERfREFEY0Y0ZHE4WEViOWNxVGJIcVU?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "KI-Kennzeichnung: EU verpflichtet Wasserzeichen ab August 2026",
+          "zusammenfassung": "BornCity meldet, dass die EU ab August 2026 eine Verpflichtung zur Kennzeichnung von KI-generierten Inhalten mittels Wasserzeichen einführt. Diese Maßnahme soll die Herkunft von KI-Produkten transparent machen und der Verbreitung von Desinformation entgegenwirken.",
+          "einordnung": "",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOTN4My1ZN3pTTkczVXVWeVFWZFlqX0tpQkppQmN6RHRpWEIxT3pyMFh5S0RVTFpvWFB5cXpwUi1UNUpRYjZSOWpiTUdGNXZ6RlV6NTNDSDB6cnJRSVlzSTdEdVYzbVJSb1lXV3FuYTZWN21weEUwOE1oQ2N5WXkwUjlyZFFGSVlULThVU0t5S0dJZw?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -95,70 +111,70 @@
       "artikel": [
         {
           "titel": "Claude denkt heimlich: KI entwickelt spontan eigenen Arbeitsbereich für Gedanken",
-          "zusammenfassung": "Forscher haben beobachtet, wie das KI-Modell Claude spontan einen internen 'Arbeitsbereich für Gedanken' entwickelt, um komplexe Probleme zu lösen. Diese Fähigkeit deutet auf eine fortgeschrittene interne Denkstruktur hin, die über einfache Mustererkennung hinausgeht. Die Entdeckung liefert neue Einblicke in die Funktionsweise und das Potenzial großer Sprachmodelle.",
+          "zusammenfassung": "Ein Bericht von t3n enthüllt, dass die KI Claude eigenständig einen internen 'Arbeitsbereich für Gedanken' entwickelt hat. Diese bahnbrechende Entdeckung deutet auf fortgeschrittene Selbstorganisationsfähigkeiten hin und bietet neue Einblicke in die kognitiven Prozesse von KI-Modellen.",
           "einordnung": "",
           "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFhaTkp4TjlFaFBla1JGckZ3NUhqSTM0cjVldlNwajZNalZ0Y3FkTlNORUFGczU1RUcweXhXVmd1ckxuUWxERndERFFvemMxcEhidDJ6TVRlbnFzdGlfMW5uazZsMkc2NUhBaTdidVlKazZmUjhKWXhSMHR3eHRnYXF6N0pDWHBTMzNn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFhaTkp4TjlFaFBla1JGckZ3NUhqSTM0cjVldlNwajZNalZ0Y3FkTlNORUAFczU1RUcweXhXVmd1ckxuUWxERndERFFvemMxcEhidDJ6TVRlbnFzdGlfMW5uazZsMkc2NUhBaTdidVlKazZmUjhKWXhSMHR3eHRnYXF6N0pDWHBTMzNn?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Neue KI-Modelle: Gemini 3.7 Flash und DeepSeek V4-Pro im Vergleich",
-          "zusammenfassung": "Ein detaillierter Vergleich beleuchtet die Leistungsfähigkeit und Anwendungsbereiche der neuen KI-Modelle Gemini 3.7 Flash und DeepSeek V4-Pro. Die Analyse zeigt Stärken und Schwächen in Bereichen wie Agenten-Fähigkeiten und Coding-Effizienz auf. Der Artikel bietet Orientierung für Entwickler und Unternehmen bei der Auswahl des passenden Modells.",
+          "titel": "A Generative Large Language Model–based Approach for Sensitive Data Identification in Medical Speech",
+          "zusammenfassung": "Dieser wissenschaftliche Artikel von springerprofessional.de stellt einen Ansatz vor, der auf generativen Large Language Models basiert, um sensible Daten in medizinischer Sprache zu identifizieren. Die Forschung unterstreicht das Potenzial von KI im Gesundheitswesen für den Datenschutz und die Wahrung der Privatsphäre.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQV9ySUFtZWRtQ0dqWlY5ZlRRZHk3bnh3R2lGRXJrRlpfZURMYzhWUTJJbVpBUVpmSjAtVE9KUFVfZzRvU3pFZ29QVklmMHF2LTV1LVpod09TWktmRG9HelowUk5MaDhVMGtIeUZoZG5tMnB6V2EwbDJLdTF2SGxnWWMtUUR4YUYwOE0td1lCclVRWWJfTUJMdmZPd3hDcTltQ25fOExB?oc=5",
+          "quelle": "springerprofessional.de",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanVsVTlBcm9CMUVGS2tYbVNIdF9RWTF6eG5PUnpaV1VLV1lMWkIteWxvTHR3eG5kM0RqUUgtVm5CeWJuNDlmdGx6SjNvNWx5d0l1dUtnZmt2UENZUEh3bkwycVNvUVY0c29OSVlHbFl6LWRYX0kwWGJzMzNUczJpMElVS1RVM0RnWXNqWmh0c1BLX3YzelVtN2FraTZXZEh3V0hpVEg3WlpMVHhpT0E?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     },
     {
-      "emoji": "🗣️",
-      "titel": "KI & Gesellschaftliche Debatten",
+      "emoji": "🌍",
+      "titel": "KI & Gesellschaft & Ethik",
       "fest": false,
       "artikel": [
         {
           "titel": "»Deutschland spricht«: Ist künstliche Intelligenz eine Gefahr für die Menschheit?",
-          "zusammenfassung": "Eine öffentliche Debatte in Deutschland beleuchtet die potenziellen Gefahren künstlicher Intelligenz für die Menschheit. Experten und Bürger diskutieren ethische Implikationen, Kontrollverlust und die Notwendigkeit einer verantwortungsvollen Entwicklung. Die Diskussion unterstreicht die wachsende Besorgnis über die langfristigen Auswirkungen von KI.",
+          "zusammenfassung": "DIE ZEIT berichtet über die Debatte im Rahmen von »Deutschland spricht« zur Frage, ob künstliche Intelligenz eine Gefahr für die Menschheit darstellt. Der Artikel spiegelt die tiefgreifenden gesellschaftlichen Bedenken und ethischen Diskussionen wider, die mit dem rasanten Fortschritt der KI einhergehen.",
           "einordnung": "",
-          "quelle": "zeit.de",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV2VZZXd4SThWRW9UYW9JT3R0NVhOdmdJUnNFTUlMaVZOMHdURDdwSG5od3BwdENtZVRfWmxHazFkZlV6cFZRaGFCcHFUcmVlNnl6cmljbjVVX2lVMUxyQ053RTU4UVozMC1mQWg5TmRNOHlwenRqSlZnVWRIWm5JYzhLSElkTXBPWXpmX0szbjRETVI1NXd1Zm1rUzJHVDdsbXJ6OG5sd1d6UDQ1aTB5MUN1WGhJWDRV?oc=5",
+          "quelle": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV2VZZXd4SThWRW9UYW9JT3R0NVhOdmdJUnNFTUlMaVZOMHdURDdwSG5od3BwdENtZVRfWmxBazFkZlV6cFZRaGFCcHFUcmVlNnl6cmljbjVVX2lVMUxyQ053RTU4UVozMC1mQWg5TmRNOHlwenRqSlZnVWRIWm5JYzhLSElkTXBPWXpmX0szbjRETVI1NXd1Zm1rUzJHVDdsbXJ6OG5sd1d6UDQ1aTB5MUN1WGhJWDRV?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Meinung: Schmutziges Zukunftsgeschäft: Mit KI verkohlt",
-          "zusammenfassung": "Ein Meinungsartikel im Spiegel kritisiert die undurchsichtigen und potenziell unethischen Praktiken im schnell wachsenden KI-Sektor. Es wird die Sorge geäußert, dass Profitinteressen die Entwicklung verantwortungsvoller KI-Systeme überlagern könnten. Der Autor warnt vor einem 'schmutzigen Zukunftsgeschäft' auf Kosten von Ethik und Nachhaltigkeit.",
+          "titel": "Künstliche Intelligenz: Anthropic warnt vor »Revierkämpfen« zwischen KI-Assistenten",
+          "zusammenfassung": "Der Spiegel zitiert Anthropic, einen führenden KI-Entwickler, der vor potenziellen »Revierkämpfen« zwischen verschiedenen KI-Assistenten warnt. Diese Warnung beleuchtet zukünftige Herausforderungen in der KI-Governance, der Interoperabilität und den ethischen Aspekten des Wettbewerbs zwischen KI-Systemen.",
           "einordnung": "",
           "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVlgtejBEaTFHWmdYT2s0dGh6dHU4MUpSdFVlV3kxcmt1dkd5VGZMWFZ4WFRlNEs1UlNTaUZtUG10cy1ULVhUTTZkUkdwT0lvOEVjaEMzR3JvVm1GRk5hNGR0NEN4eTVQR05mVFVoa3R3T2FmWGZobkduV3ZmUGJlaTJ3dDJEa3l3dldMNkROSl9jZnNjNFNrTVFiWExaY0hxN2lHQ1lHRktaT1RkSHNLTDB2MDh1Vm5fR2hOV19iYXNobEEwMU5IZGJnM0pNekhzUGlVYmZCYk5CTE1pcVB1S2hZeUpmZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQTcwN3loVGpIcXp1eG9FUnpJQ3B1RkNtSUpsdk1ZbUllTUR2NlcyTlBPNEZHLUhka1YwXzF0S3IxSXotYTViVzRIbUtLdW1UbjJLYjljQVI5blBmdkFORDdoZUFmNDQ1RldnMTY1Zk9tQmNKNGRJMjVJWmNwQV93TS1IdXo5Zk9ibGpPYnNaM3VSblNHT0xkenNKTHo2SUtIYVRVZ3NrYmNLbVBJZE9LZV9yN3VhS2NRMG1zMC1YT1dkcFJEWEo4ejlzZE05QXdmTy1NYjlLZGJWWmNkbGdRWlh1REQ4dUNFNzcybjh3?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     },
     {
-      "emoji": "💰",
-      "titel": "KI, Transparenz & Wirtschaftliche Folgen",
+      "emoji": "💡",
+      "titel": "KI-Anwendungen & Innovation",
       "fest": false,
       "artikel": [
         {
-          "titel": "Durch KI-Einsatz: Unternehmen erwarten eher sinkende Löhne",
-          "zusammenfassung": "Eine aktuelle Umfrage zeigt, dass Unternehmen durch den verstärkten Einsatz von Künstlicher Intelligenz tendenziell sinkende Löhne erwarten. Dies betrifft insbesondere Bereiche, in denen KI menschliche Aufgaben automatisieren oder effizienter gestalten kann. Die Entwicklung wirft Fragen nach der Zukunft der Arbeitswelt und der Einkommensverteilung auf.",
+          "titel": "Lokale KI statt ChatGPT: Diese 4 Tools laufen komplett ohne Cloud",
+          "zusammenfassung": "t3n stellt vier KI-Tools vor, die vollständig lokal und ohne Cloud-Anbindung funktionieren. Dieser Ansatz bietet Nutzern mehr Kontrolle über ihre Daten, erhöht die Privatsphäre und reduziert die Abhängigkeit von externen Servern, was eine wichtige Innovation im Bereich der KI-Anwendungen darstellt.",
           "einordnung": "",
-          "quelle": "WiWo",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWFtU2tSZkxRWmNvamJYbklQMHEzVExPTGJoaXYtZE15UDltWmp6S3hmdXJRbm9HdmtiMnpoUUdYZVNGdHo3TkRiSjJjQjE2RERfRnNpemtSbUNxY3FZQVR1WTJ1X0hId1NubnZTa3Nzbi15WU5VS0diRFRmTUU3Z09yYk9WbmVoSW40VkRhOWc5MjEwdTVKdDctSTlGeEV3ZHNta1hrQmpKQQ?oc=5",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnF2dm9UenlUZjk4YXFxUVMyTHFXSko0NDZOUTFIcUhrRXpnazN2NV9TUndNRWd4dWthZGRreTNmNkM3RzV3SkZ1WU83SEl5RGdkWUlUV2hGbUFPMDZaMEdhb3Bva29rSlJySFRWelV5TnU0Mi1lT3kySEJkdEV3VEhLU2xMaVRW?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Claude: Nutzer äußern wegen des neuen Wasserzeichens Kritik an Anthropic",
-          "zusammenfassung": "Anthropic, der Entwickler von Claude, hat ein Wasserzeichen-System für KI-generierte Texte eingeführt, was bei Nutzern auf Kritik stößt. Während das Unternehmen Transparenz fördern will, befürchten Anwender Einschränkungen in der Nutzung und potenzielle Überwachung. Die Debatte zeigt die Herausforderungen bei der Balance zwischen Authentizität und Nutzerfreundlichkeit und den wirtschaftlichen Umgang mit Vertrauen.",
+          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
+          "zusammenfassung": "healthcare-in-europe.com beleuchtet das enorme Potenzial von Large Language Models in der Onkologie, etwa bei Diagnose und Behandlungsplanung. Gleichzeitig werden jedoch erhebliche Infrastrukturprobleme aufgezeigt, die eine breite Implementierung dieser innovativen KI-Anwendungen im Gesundheitswesen behindern.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3B4TXYyOF9zU21qMTUtUmZzUmo2NlBPTHNiQ3o1SnZkTnZBZjdpU2dkYmIxa3FYYUZkU05QZ21DWjkwM2I5TWlEcjNFcHJwekhsdl9rNGRYV3V1WEI5MEVhOHRFeWtaeWFvMUNvX051aGxwbXhiOTBpR3RlQmdfUU5zNkdWc0JrU3lQVWhhcDYzUXloc1BkWV9URXZMYkkwdlVSSjVpREdYVG5ySEN1dmpJMA?oc=5",
+          "quelle": "healthcare-in-europe.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-08-15T06:17:19.581Z",
+  "generiert_um": "2024-05-15T12:30:00.000Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -181,9 +197,9 @@
     {
       "name": "OMR Podcast",
       "desc": "Philipp Westermeyer · Tech & Business",
-      "episode": "Deutschlands größte Audio-Marke: Teufel-CEO Sascha Mallah (#931)",
-      "datum": "12.8.2026",
-      "dauer": "69 Min.",
+      "episode": "Inside Pacha: So funktioniert der Mega-Club auf Ibiza (#934) ",
+      "datum": "16.8.2026",
+      "dauer": "76 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH"
     },
