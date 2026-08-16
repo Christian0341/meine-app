@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-08-15T07:35:13.691614+00:00",
+  "aktualisiert": "2026-08-16T07:36:11.997341+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Die AI Bubble findet gerade Graphentheorie für sich",
+      "link": "https://www.youtube.com/watch?v=B_y-2GUs928",
+      "video_id": "B_y-2GUs928",
+      "thumbnail": "https://img.youtube.com/vi/B_y-2GUs928/mqdefault.jpg",
+      "datum": "2026-08-15T09:04:46+00:00",
+      "datum_de": "15.08.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "FlowDrift KI",
       "titel": "n8n und KI: Anfragen automatisch einordnen und beantworten",
@@ -140,16 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/0x1BbS8tM2o/mqdefault.jpg",
       "datum": "2026-08-10T08:04:28Z",
       "datum_de": "10.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Spart Zeit",
-      "titel": "ChatGPT vs. Claude vs. Gemini — ehrlicher Vergleich 2026",
-      "link": "https://www.youtube.com/watch?v=GP6kGLhqeMA",
-      "video_id": "GP6kGLhqeMA",
-      "thumbnail": "https://img.youtube.com/vi/GP6kGLhqeMA/mqdefault.jpg",
-      "datum": "2026-08-09T16:01:58Z",
-      "datum_de": "09.08.2026",
       "quelle": "suche"
     }
   ]
