@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-08-16T07:36:11.997341+00:00",
+  "aktualisiert": "2026-08-17T07:55:36.035907+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "tkay",
+      "titel": "Claude + ChatGPT = 53.369,54€ In 90 Tagen",
+      "link": "https://www.youtube.com/watch?v=CKz_MHOyUa8",
+      "video_id": "CKz_MHOyUa8",
+      "thumbnail": "https://img.youtube.com/vi/CKz_MHOyUa8/mqdefault.jpg",
+      "datum": "2026-08-16T16:00:32Z",
+      "datum_de": "16.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Hermes Agent + BUZZ AI ist der WAHNSINN!",
+      "link": "https://www.youtube.com/watch?v=GygE3xxcHls",
+      "video_id": "GygE3xxcHls",
+      "thumbnail": "https://img.youtube.com/vi/GygE3xxcHls/mqdefault.jpg",
+      "datum": "2026-08-16T14:15:10+00:00",
+      "datum_de": "16.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Niklas AI",
+      "titel": "Dieser CLAUDE SKILL baut dir fertige KI-TELEFONASSISTENTEN! (GRATIS VORLAGE)",
+      "link": "https://www.youtube.com/watch?v=yuVmsTHtTpA",
+      "video_id": "yuVmsTHtTpA",
+      "thumbnail": "https://img.youtube.com/vi/yuVmsTHtTpA/mqdefault.jpg",
+      "datum": "2026-08-16T13:58:15Z",
+      "datum_de": "16.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI Spart Zeit",
+      "titel": "NotebookLM Tutorial Deutsch: Alles, was Anfänger wissen müssen",
+      "link": "https://www.youtube.com/watch?v=SNXKmq5hp4c",
+      "video_id": "SNXKmq5hp4c",
+      "thumbnail": "https://img.youtube.com/vi/SNXKmq5hp4c/mqdefault.jpg",
+      "datum": "2026-08-16T12:51:56Z",
+      "datum_de": "16.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Krass: Claude markiert jetzt JEDEN Text mit Wasserzeichen! So wirst du es los | KI-NEWS",
+      "link": "https://www.youtube.com/watch?v=z8OocncaeEs",
+      "video_id": "z8OocncaeEs",
+      "thumbnail": "https://img.youtube.com/vi/z8OocncaeEs/mqdefault.jpg",
+      "datum": "2026-08-16T08:15:32+00:00",
+      "datum_de": "16.08.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Morpheus Tutorials",
       "titel": "Die AI Bubble findet gerade Graphentheorie für sich",
@@ -31,6 +81,16 @@
       "datum": "2026-08-14T15:30:01+00:00",
       "datum_de": "14.08.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Martin Dellwing | GoHighLevel Deutsch",
+      "titel": "Deutsche Stimmen in der Voice AI von HighLevel dank Gemini 3.1 Flash",
+      "link": "https://www.youtube.com/watch?v=HAl6lJ1FojM",
+      "video_id": "HAl6lJ1FojM",
+      "thumbnail": "https://img.youtube.com/vi/HAl6lJ1FojM/mqdefault.jpg",
+      "datum": "2026-08-14T12:00:07Z",
+      "datum_de": "14.08.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Christoph Magnussen",
@@ -90,66 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/5z2kqdaiRZA/mqdefault.jpg",
       "datum": "2026-08-12T15:49:21Z",
       "datum_de": "12.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "HÖR AUF Skills zu prompten: Das neue Claude Update verändert alles!",
-      "link": "https://www.youtube.com/watch?v=tK9C3Skskws",
-      "video_id": "tK9C3Skskws",
-      "thumbnail": "https://img.youtube.com/vi/tK9C3Skskws/mqdefault.jpg",
-      "datum": "2026-08-12T14:15:34+00:00",
-      "datum_de": "12.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "KI-AGENTEN richtig nutzen: Diese BASICS musst du kennen!",
-      "link": "https://www.youtube.com/watch?v=GgYBe6I4aHQ",
-      "video_id": "GgYBe6I4aHQ",
-      "thumbnail": "https://img.youtube.com/vi/GgYBe6I4aHQ/mqdefault.jpg",
-      "datum": "2026-08-11T16:00:14+00:00",
-      "datum_de": "11.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "99% lernen KI falsch: DAS musst du 2027 wirklich wissen",
-      "link": "https://www.youtube.com/watch?v=lKHUKXp-nOA",
-      "video_id": "lKHUKXp-nOA",
-      "thumbnail": "https://img.youtube.com/vi/lKHUKXp-nOA/mqdefault.jpg",
-      "datum": "2026-08-11T15:15:35+00:00",
-      "datum_de": "11.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Nils Harder",
-      "titel": "HERMES GEDÄCHTNIS IN OBSIDIAN: sieh, was dein KI-Agent über dich weiß",
-      "link": "https://www.youtube.com/watch?v=5I2iRjwJFOI",
-      "video_id": "5I2iRjwJFOI",
-      "thumbnail": "https://img.youtube.com/vi/5I2iRjwJFOI/mqdefault.jpg",
-      "datum": "2026-08-11T14:48:10Z",
-      "datum_de": "11.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Nils Harder",
-      "titel": "HERMES GEDÄCHTNIS: warum dein KI-Agent dich vergisst und was Erinnern kostet",
-      "link": "https://www.youtube.com/watch?v=VFr-8of4r1c",
-      "video_id": "VFr-8of4r1c",
-      "thumbnail": "https://img.youtube.com/vi/VFr-8of4r1c/mqdefault.jpg",
-      "datum": "2026-08-11T08:24:25Z",
-      "datum_de": "11.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "The Checklist Review",
-      "titel": "So erstellst du eine echte Website mit Claude AI [2026]",
-      "link": "https://www.youtube.com/watch?v=0x1BbS8tM2o",
-      "video_id": "0x1BbS8tM2o",
-      "thumbnail": "https://img.youtube.com/vi/0x1BbS8tM2o/mqdefault.jpg",
-      "datum": "2026-08-10T08:04:28Z",
-      "datum_de": "10.08.2026",
       "quelle": "suche"
     }
   ]
