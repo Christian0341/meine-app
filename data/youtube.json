@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-08-17T07:55:36.035907+00:00",
+  "aktualisiert": "2026-08-18T07:43:55.512004+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "KI für Studium &amp; Schule: 5 Workflows mit ChatGPT, NotebookLM, Claude &amp; Co. (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=viQp6Shv7I4",
+      "video_id": "viQp6Shv7I4",
+      "thumbnail": "https://img.youtube.com/vi/viQp6Shv7I4/mqdefault.jpg",
+      "datum": "2026-08-17T14:00:38Z",
+      "datum_de": "17.08.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "tkay",
       "titel": "Claude + ChatGPT = 53.369,54€ In 90 Tagen",
@@ -103,6 +113,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "AI WITH Rithesh",
+      "titel": "Gemini 3.7 Flash  Explained in 5 Minutes - Benchmarks , Cost, First Impressions",
+      "link": "https://www.youtube.com/watch?v=6WAReFHbnUQ",
+      "video_id": "6WAReFHbnUQ",
+      "thumbnail": "https://img.youtube.com/vi/6WAReFHbnUQ/mqdefault.jpg",
+      "datum": "2026-08-14T02:20:05Z",
+      "datum_de": "14.08.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "ZELDOgiq",
       "titel": "Gemini 3.7 ist da, Flux 3 kostenlos und Sunos radikaler Plan | KI News",
       "link": "https://www.youtube.com/watch?v=jAqudOupvIs",
@@ -123,33 +143,13 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Leon Chaudhari",
-      "titel": "Vergiss CLAUDE KI! Dieses Gemini KI Business kannst du in 1 STUNDE aufbauen",
-      "link": "https://www.youtube.com/watch?v=oQ5KtLh3x7Y",
-      "video_id": "oQ5KtLh3x7Y",
-      "thumbnail": "https://img.youtube.com/vi/oQ5KtLh3x7Y/mqdefault.jpg",
-      "datum": "2026-08-12T20:39:02Z",
-      "datum_de": "12.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "tkay",
-      "titel": "Claude AI + TikTok Shop = 72.000€ im Monat",
-      "link": "https://www.youtube.com/watch?v=vbkwHr6DoLE",
-      "video_id": "vbkwHr6DoLE",
-      "thumbnail": "https://img.youtube.com/vi/vbkwHr6DoLE/mqdefault.jpg",
-      "datum": "2026-08-12T16:00:24Z",
-      "datum_de": "12.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Techvico",
-      "titel": "JEDER braucht Claude Code auf seinem PC!",
-      "link": "https://www.youtube.com/watch?v=5z2kqdaiRZA",
-      "video_id": "5z2kqdaiRZA",
-      "thumbnail": "https://img.youtube.com/vi/5z2kqdaiRZA/mqdefault.jpg",
-      "datum": "2026-08-12T15:49:21Z",
-      "datum_de": "12.08.2026",
+      "kanal": "Md Al Mamun",
+      "titel": "OmniRoute + Claude Code Setup: Use FREE AI Models",
+      "link": "https://www.youtube.com/watch?v=NJEDqWBUnBI",
+      "video_id": "NJEDqWBUnBI",
+      "thumbnail": "https://img.youtube.com/vi/NJEDqWBUnBI/mqdefault.jpg",
+      "datum": "2026-08-13T09:56:51Z",
+      "datum_de": "13.08.2026",
       "quelle": "suche"
     }
   ]
