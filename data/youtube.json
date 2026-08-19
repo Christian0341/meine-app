@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-08-18T07:43:55.512004+00:00",
+  "aktualisiert": "2026-08-19T07:43:39.916565+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "nadja held",
+      "titel": "Canva Workbook als Video präsentieren | Produktvideo mit Canva und  Gemini KI erstellen | Tutorial",
+      "link": "https://www.youtube.com/watch?v=wrNElrlXH3g",
+      "video_id": "wrNElrlXH3g",
+      "thumbnail": "https://img.youtube.com/vi/wrNElrlXH3g/mqdefault.jpg",
+      "datum": "2026-08-18T20:05:49Z",
+      "datum_de": "18.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Hardware für KI Agents?! OpenAI Controller im Test!",
+      "link": "https://www.youtube.com/watch?v=xMYo66v3HIc",
+      "video_id": "xMYo66v3HIc",
+      "thumbnail": "https://img.youtube.com/vi/xMYo66v3HIc/mqdefault.jpg",
+      "datum": "2026-08-18T16:07:37+00:00",
+      "datum_de": "18.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-Experten reagieren: DAS wird alles zum KIPPEN bringen! Roboter-Bann, KI-Rechtsperson & EU Absturz",
+      "link": "https://www.youtube.com/watch?v=h0KKp3YX7hQ",
+      "video_id": "h0KKp3YX7hQ",
+      "thumbnail": "https://img.youtube.com/vi/h0KKp3YX7hQ/mqdefault.jpg",
+      "datum": "2026-08-18T15:15:19+00:00",
+      "datum_de": "18.08.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Shakeela ZQ",
       "titel": "KI für Studium &amp; Schule: 5 Workflows mit ChatGPT, NotebookLM, Claude &amp; Co. (Deutsch)",
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/6WAReFHbnUQ/mqdefault.jpg",
       "datum": "2026-08-14T02:20:05Z",
       "datum_de": "14.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Gemini 3.7 ist da, Flux 3 kostenlos und Sunos radikaler Plan | KI News",
-      "link": "https://www.youtube.com/watch?v=jAqudOupvIs",
-      "video_id": "jAqudOupvIs",
-      "thumbnail": "https://img.youtube.com/vi/jAqudOupvIs/mqdefault.jpg",
-      "datum": "2026-08-13T19:54:13Z",
-      "datum_de": "13.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "„Uns fehlt nur noch EINE Idee!\" Niemand kann es stoppen: Superintelligenz steht kurz bevor",
-      "link": "https://www.youtube.com/watch?v=VNo8fQtdCeo",
-      "video_id": "VNo8fQtdCeo",
-      "thumbnail": "https://img.youtube.com/vi/VNo8fQtdCeo/mqdefault.jpg",
-      "datum": "2026-08-13T15:15:37+00:00",
-      "datum_de": "13.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Md Al Mamun",
-      "titel": "OmniRoute + Claude Code Setup: Use FREE AI Models",
-      "link": "https://www.youtube.com/watch?v=NJEDqWBUnBI",
-      "video_id": "NJEDqWBUnBI",
-      "thumbnail": "https://img.youtube.com/vi/NJEDqWBUnBI/mqdefault.jpg",
-      "datum": "2026-08-13T09:56:51Z",
-      "datum_de": "13.08.2026",
       "quelle": "suche"
     }
   ]
