@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-08-19T07:43:39.916565+00:00",
+  "aktualisiert": "2026-08-20T07:47:09.219699+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Der Coding Agent, der meine Tests verfälschte... 🫠",
+      "link": "https://www.youtube.com/watch?v=sf8j7BhF2h4",
+      "video_id": "sf8j7BhF2h4",
+      "thumbnail": "https://img.youtube.com/vi/sf8j7BhF2h4/mqdefault.jpg",
+      "datum": "2026-08-19T19:25:04+00:00",
+      "datum_de": "19.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Verstehe Agent Harness, Loop und Graph Engineering und überhole 90%",
+      "link": "https://www.youtube.com/watch?v=4NqKZerJpk8",
+      "video_id": "4NqKZerJpk8",
+      "thumbnail": "https://img.youtube.com/vi/4NqKZerJpk8/mqdefault.jpg",
+      "datum": "2026-08-19T14:15:06+00:00",
+      "datum_de": "19.08.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "nadja held",
       "titel": "Canva Workbook als Video präsentieren | Produktvideo mit Canva und  Gemini KI erstellen | Tutorial",
@@ -31,6 +51,26 @@
       "datum": "2026-08-18T15:15:19+00:00",
       "datum_de": "18.08.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Anna",
+      "titel": "5 KOSTENLOSE KI Tools für den Büroalltag Zeit sparen!",
+      "link": "https://www.youtube.com/watch?v=D-5FlGpAPk0",
+      "video_id": "D-5FlGpAPk0",
+      "thumbnail": "https://img.youtube.com/vi/D-5FlGpAPk0/mqdefault.jpg",
+      "datum": "2026-08-18T13:00:35Z",
+      "datum_de": "18.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "NANCY | KI-Workflows im Büro",
+      "titel": "Ich lasse Claude Cowork jetzt die Arbeit machen, die ich hasse",
+      "link": "https://www.youtube.com/watch?v=BL5UNGO77HA",
+      "video_id": "BL5UNGO77HA",
+      "thumbnail": "https://img.youtube.com/vi/BL5UNGO77HA/mqdefault.jpg",
+      "datum": "2026-08-17T15:48:31Z",
+      "datum_de": "17.08.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Shakeela ZQ",
@@ -93,63 +133,23 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Die AI Bubble findet gerade Graphentheorie für sich",
-      "link": "https://www.youtube.com/watch?v=B_y-2GUs928",
-      "video_id": "B_y-2GUs928",
-      "thumbnail": "https://img.youtube.com/vi/B_y-2GUs928/mqdefault.jpg",
-      "datum": "2026-08-15T09:04:46+00:00",
-      "datum_de": "15.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "FlowDrift KI",
-      "titel": "n8n und KI: Anfragen automatisch einordnen und beantworten",
-      "link": "https://www.youtube.com/watch?v=MFP58mb5_cs",
-      "video_id": "MFP58mb5_cs",
-      "thumbnail": "https://img.youtube.com/vi/MFP58mb5_cs/mqdefault.jpg",
-      "datum": "2026-08-15T07:19:41Z",
-      "datum_de": "15.08.2026",
+      "kanal": "KI-Wissen | Automatisieren mit KI",
+      "titel": "Lokaler KI-Agent: Hermes + LM Bionic einrichten (Schritt für Schritt)",
+      "link": "https://www.youtube.com/watch?v=k5z2KRCno80",
+      "video_id": "k5z2KRCno80",
+      "thumbnail": "https://img.youtube.com/vi/k5z2KRCno80/mqdefault.jpg",
+      "datum": "2026-08-16T07:23:43Z",
+      "datum_de": "16.08.2026",
       "quelle": "suche"
     },
     {
-      "kanal": "Akademie4KI",
-      "titel": "6 Claude Fehler, die fast JEDER macht",
-      "link": "https://www.youtube.com/watch?v=wJM2895XEJw",
-      "video_id": "wJM2895XEJw",
-      "thumbnail": "https://img.youtube.com/vi/wJM2895XEJw/mqdefault.jpg",
-      "datum": "2026-08-14T15:30:01+00:00",
-      "datum_de": "14.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Martin Dellwing | GoHighLevel Deutsch",
-      "titel": "Deutsche Stimmen in der Voice AI von HighLevel dank Gemini 3.1 Flash",
-      "link": "https://www.youtube.com/watch?v=HAl6lJ1FojM",
-      "video_id": "HAl6lJ1FojM",
-      "thumbnail": "https://img.youtube.com/vi/HAl6lJ1FojM/mqdefault.jpg",
-      "datum": "2026-08-14T12:00:07Z",
-      "datum_de": "14.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Box CEO Aaron Levie: Why Most AI AGENTS Are Still 'Forgetful' 😮",
-      "link": "https://www.youtube.com/watch?v=UoasgyH3ZYU",
-      "video_id": "UoasgyH3ZYU",
-      "thumbnail": "https://img.youtube.com/vi/UoasgyH3ZYU/mqdefault.jpg",
-      "datum": "2026-08-14T10:00:39+00:00",
-      "datum_de": "14.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "AI WITH Rithesh",
-      "titel": "Gemini 3.7 Flash  Explained in 5 Minutes - Benchmarks , Cost, First Impressions",
-      "link": "https://www.youtube.com/watch?v=6WAReFHbnUQ",
-      "video_id": "6WAReFHbnUQ",
-      "thumbnail": "https://img.youtube.com/vi/6WAReFHbnUQ/mqdefault.jpg",
-      "datum": "2026-08-14T02:20:05Z",
-      "datum_de": "14.08.2026",
+      "kanal": "The Checklist Review",
+      "titel": "Wie man eine App mit Claude Code baut [GEHEIMER Schritt]",
+      "link": "https://www.youtube.com/watch?v=I0Ll0kF_EzY",
+      "video_id": "I0Ll0kF_EzY",
+      "thumbnail": "https://img.youtube.com/vi/I0Ll0kF_EzY/mqdefault.jpg",
+      "datum": "2026-08-15T11:41:20Z",
+      "datum_de": "15.08.2026",
       "quelle": "suche"
     }
   ]
