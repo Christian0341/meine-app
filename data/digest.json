@@ -1,7 +1,7 @@
 {
-  "datum": "Donnerstag, 20. August 2026",
-  "datumISO": "2026-08-20",
-  "tagesthema": "Der Arbeitsmarkt erlebt durch KI eine Umwälzung, während Unternehmen ihre Strategien anpassen und die Regulierung voranschreitet, begleitet von neuen Anwendungen in Bildung und kreativen Feldern.",
+  "datum": "Freitag, 21. August 2026",
+  "datumISO": "2026-08-21",
+  "tagesthema": "Der Kampf um Urheberrechte bei KI-generierten Inhalten spitzt sich zu, während Regulierungsbemühungen stocken und Tech-Giganten um Marktanteile ringen.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,19 +9,27 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Künstliche Intelligenz: OpenAI führt ChatGPT-Version für Jugendliche ein",
-          "zusammenfassung": "OpenAI erweitert sein Angebot um eine spezielle ChatGPT-Version, die auf die Bedürfnisse und Sicherheitsanforderungen von Jugendlichen zugeschnitten ist. Diese neue Iteration soll den Zugang zu KI-Technologien für eine jüngere Zielgruppe erleichtern und gleichzeitig altersgerechte Inhalte gewährleisten.",
+          "titel": "Google Gemini für Studenten ein Jahr kostenlos inklusive Lernwerkzeugen",
+          "zusammenfassung": "Google bietet sein KI-Modell Gemini für Studenten ein Jahr lang kostenlos an, inklusive spezieller Lernwerkzeuge. Diese Initiative zielt darauf ab, die Nutzung von KI in der Bildung zu fördern und Gemini als integralen Bestandteil des akademischen Alltags zu etablieren.",
           "einordnung": "",
-          "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmI4T2l3anFMcTZkdFg3blpDcEFsdlBWZkg4TVNkd1FNZlVzdlprWTZHM2VJR3pFWVZKUi1SSENYLWhvVkRDbWhaUnY5NF9uTVBlbjV2bjNsS3l1ZE4xQ2ViaXI1dHphM2VmNVRFYkcybk82WnZaMGJCSkducjdBSXQybl96eTVDTEdNZzF6VXozdw?oc=5",
+          "quelle": "Golem.de",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHhmMHpqMW5YLU9Nb3J3UEVYdGNWcldNU2R0b3pDTnJnVWMyUXFpeGJQVFBqSTc4cWE0S25IMGxoa2xKMHFBaDFOYndHZXhOY2J0YnFrUE9aX2Rpd09XV3R4WmZUM1VRZ2g0eFd1bG1oMTd6bjlmdHRxMlB4X1JvV0Y4Z2g4MUVHUm5EbHFBQnlNd2FRdEtBdzNSRXJtTkFONW5XdjBuY0YwZ2ZkSHF1bmNoREM1TFVJZFE?oc=1",
           "sterne": "⭐⭐"
         },
         {
           "titel": "Was macht der KI-Agent Gemini Spark bei der Arbeit?",
-          "zusammenfassung": "Google stellt seinen neuen KI-Agenten Gemini Spark vor, der speziell für den Einsatz in Arbeitsumgebungen konzipiert wurde. Der Artikel beleuchtet dessen Funktionen und potenzielle Anwendungsfälle, um die Produktivität und Effizienz in Unternehmen zu steigern.",
+          "zusammenfassung": "Der Artikel beleuchtet die Funktionen und Einsatzmöglichkeiten von Google Gemini Spark, einem spezialisierten KI-Agenten für den Arbeitsalltag. Es wird untersucht, wie dieser Agent Prozesse automatisieren, Informationen verwalten und die Produktivität in Unternehmen steigern kann.",
           "einordnung": "",
           "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY3JsV2hxUF8zM0tjd3h0VFpfQkcxbmdoUkxaSUlWQURPbEw2d1V1dG5TQ3FfcVdTQTBISFowSV93Y0xHdzZrRi1tNFdidkFCb25KUUJYT2JjQUozdFF4aEtGaWU5UHU2ZVVzVXRiU2FobVFKelRibm00cHlQVzlCcWRHMWJ3QQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY3JsV2hxUF8zM0tjd3h0VFpfQkcxbmdoUkxaSUlWQURPbEw2d1V1dG5TQ3FfcVdTQTBISFo0SV93Y0xHdzZrRi1tNFdidkFCb25KUUJYT2JjQUozdFF4aEtGaWU5UHU2ZVVzVXRiU2FobVFKelRibm00cHlQVzlCcWRHMWJ3QQ?oc=1",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "KI-Integration mit Google Gemini treibt Conduent Aktie an",
+          "zusammenfassung": "Die Aktie von Conduent verzeichnete einen deutlichen Anstieg, nachdem das Unternehmen eine tiefgreifende Integration von Google Gemini in seine Dienstleistungen bekannt gab. Dies zeigt das Vertrauen des Marktes in die Wertschöpfung durch fortschrittliche KI-Lösungen und Partnerschaften.",
+          "einordnung": "",
+          "quelle": "Investing.com Deutsch",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa1ZpVVRuS212eDJkRExXQ1lGcUtPY3NRb19aVFpNdkJwOTVEWlF2bVdVWlRpRl81b0IycU1hZlFCTE1Cb2ljdWdVYWJzS0prdTdkQ0dlSVBqSHVlUWpGckdDSmVVR0Q5Qmh3NHdGajRMcUNxeW5RUGNYcUx5SmwzWlZEeEtaWWRBeXZkNjMxUXVDRjc0WHFCUzFjSDNLQ08zNzdYTXBHUFJHcm5ucTVlM1BPM2xYSzRM?oc=1",
           "sterne": "⭐⭐"
         }
       ]
@@ -32,36 +40,36 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Werbung in ChatGPT: OpenAI startet Anzeigengeschäft Europa",
-          "zusammenfassung": "OpenAI beginnt mit der Einführung von Werbeanzeigen in ChatGPT in Europa, um neue Einnahmequellen zu erschließen. Dieser Schritt markiert eine wichtige strategische Neuausrichtung des Unternehmens zur Monetarisierung seiner populären KI-Plattform.",
+          "titel": "Duell der KI-Giganten: Wie China die USA herausfordert",
+          "zusammenfassung": "WiWo analysiert den globalen Wettbewerb um die Vorherrschaft in der KI-Entwicklung zwischen China und den USA. Der Artikel beleuchtet die strategischen Investitionen, Forschungsschwerpunkte und politischen Rahmenbedingungen beider Länder im Rennen um die technologische Führung.",
           "einordnung": "",
-          "quelle": "Golem.de",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVFYUE1TQUdDQkloaE0yZTdxTVBYenBBSnd4c0xxMndmNmlrcTFLRmNyeDZhSlk2MDlGSDg5TzNSTDNRQ09SdVhQYXhSczRUM0MyeWZ5dDkya2R3QzR1akVZaTRrYjJIdzZva25GZjdUZzVTQW9scGVsc05YaW44cFo1WU5obG0zbmhZMUstTFdwUUV6VEZMTXkxMVZEcVROU1Vn?oc=5",
+          "quelle": "WiWo",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVFjNkd1Vno4OWZoelh2bkhiTmN1V0Z1UzBJSGR6bm95ZEtMQ0I2YUllMkpxVEh4ajYyWHl2MGE3dUREWExYdVpydFdKUlI3V2hNZlNMV1RUeXhMV3FMbVRmbzd0RGZmd1JUVmI3b1pvbDE3clkzQjlVbFhGSVZMakVTZldDQnNjaGdPQkNqMm5OaDVkaUlQQWtfU3ZleWtSellibUFB?oc=1",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Anthropic führt Wasserzeichen ein: Deshalb kündigen jetzt erste Claude-Nutzer ihre Abos",
+          "zusammenfassung": "Anthropic hat Wasserzeichen für die von seinem KI-Modell Claude generierten Inhalte eingeführt, um die Herkunft zu kennzeichnen. Diese Maßnahme führt jedoch zu Unmut bei einigen Nutzern, die daraufhin ihre Abonnements kündigen, da sie die Nützlichkeit oder Ästhetik der KI-Ausgabe beeinträchtigt sehen.",
+          "einordnung": "",
+          "quelle": "Business Insider Deutschland",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEpNdDJWV0Vrdm9KVFVjUGpuaFh0a0wyOVVBNmQzcERHRk9zQVl3OXFydTBLQ1BRbkJGcXNHcDZHX1pfOHQ2bjAyNnpsa3dobzAwUWlFQkkyUDNOQ2hWSldPdE1kTUZMY05xNFlxb25ObzFNUEVscUxGN0pLYmFvdnY3SzA0aWM0c2pSX0J5STR0OExRSjhXa2FXNHhCdw?oc=1",
           "sterne": "⭐⭐"
         },
         {
           "titel": "Einfach nur nutzlos: Anthropic verwässert seine KI durch Wasserzeichen",
-          "zusammenfassung": "Anthropic hat Wasserzeichen in seine KI-Modelle integriert, was bei einigen Nutzern auf Kritik stößt, die die KI dadurch als 'verwässert' und weniger nützlich empfinden. Die Maßnahme soll die Herkunft von KI-generierten Inhalten kennzeichnen, führt aber zu Unmut in der Community.",
+          "zusammenfassung": "BASIC thinking kritisiert die Einführung von Wasserzeichen durch Anthropic für Claude-generierte Inhalte als nutzlos und als eine Verwässerung der KI-Leistung. Der Artikel argumentiert, dass solche Maßnahmen die Benutzerfreundlichkeit einschränken und die Akzeptanz von KI-Tools behindern könnten.",
           "einordnung": "",
           "quelle": "BASIC thinking",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlM1dTMU0zMTdUV2lHazlJLXpEbW9sN3hzRk9hTHZWYWFLdjl0N1JEaVhPR0Z0MTZMVldnZDdaZVJxVEkyaUE4SHdCODRQdzVjUDVkRmdWc3JEUW5MZVRSdGgxMW5IaHJFNWtMR2hxZ0d3OHZJWDRueENrQVc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlM1dTMU0zMTdUV2lHazlJLXpEbW9sN3hzRk9hTHZWYWFLdjl0N1JEaVhPR0Z0MTZMVldnZDdaZVJxVEkyaUE4SHdCODRQdzVjUDVkRmdWc3JEUW5MZVRSdGgxMW5IaHJFNWtMR2hxZ0d3OHZJWDRueENrQVc?oc=1",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Anthropic führt Wasserzeichen ein: Deshalb kündigen jetzt erste Claude-Nutzer ihre Abos",
-          "zusammenfassung": "Die Einführung von Wasserzeichen in Anthropic's Claude-Modellen hat zu ersten Abo-Kündigungen unter den Nutzern geführt. Viele sehen darin eine Einschränkung der KI-Funktionalität und befürchten negative Auswirkungen auf die Qualität der generierten Inhalte.",
+          "titel": "Claude-Wasserzeichen: Coder veröffentlicht Tool zum Entfernen nur vier Stunden nach Anthropics Ankündigung",
+          "zusammenfassung": "Kurz nach der Ankündigung von Anthropic, Wasserzeichen in Claude-Ausgaben zu integrieren, wurde bereits ein Tool zum Entfernen dieser Kennzeichnungen veröffentlicht. Dies unterstreicht die Herausforderungen bei der Implementierung von Schutzmechanismen für KI-Inhalte und die schnelle Reaktion der Entwickler-Community.",
           "einordnung": "",
-          "quelle": "Business Insider Deutschland",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3UxSEdpT0kzNGlkcUxlQmVualVrWW1fYl9yNlBDWnAzeWIwYXdjWVRrN2Jla0QzV1IyUm0zTzJpcDNaeWJMQ0tVcUdRQmppYmRhRDAtc2RVQWtQRUFMcVhEMVpOR2E2NHdXbGQ4OFRUQmJQVVROLVE2NDlBY3NSZmlub3BlVHpkSjNjZjJuZjdRVkVoX0hXaVlpQ24?oc=5",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jcFlrOGw1aXhtSWtmWm5qRU5HMkloOHFsNEFpN3FCVFlqWll1Ul9aa0pPMzdVWGtIVW5BWnprYm8xcUpwZnVjVlpXOGNBRGlnNEFwS19yb3QzMnpRYTBEM2Y2SXBobHI2SDVmY243aWxiUQ?oc=1",
           "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Auf über 65 Milliarden Dollar: Anthropic steigert Umsatzrate deutlich",
-          "zusammenfassung": "Anthropic verzeichnet einen signifikanten Anstieg seiner jährlichen Umsatzrate auf über 65 Milliarden Dollar, was das starke Wachstum und die kommerzielle Akzeptanz seiner KI-Produkte unterstreicht. Dieser Erfolg positioniert das Unternehmen als wichtigen Akteur im KI-Markt.",
-          "einordnung": "",
-          "quelle": "n-tv.de",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmpRT242N2NvMHBwQnVuSHdqZ2pwcnlRZGxYeXh4NmJmTW5yek4yWE9sZFFSU3N6XzZJQk5VaWM3RjBkUHl6NzI3SmdjODFXRlZhNjV3RHJNcGJ0dzJnMVM4M3JYTm5QdFViZE5GRUM4TUNaWmlON0JiQVZXY1A5VDk5aU5tbXVkUFg2aHp3?oc=5",
-          "sterne": "⭐⭐⭐"
         }
       ]
     },
@@ -72,27 +80,27 @@
       "artikel": [
         {
           "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Der EU AI Act, Europas wegweisendes Gesetz zur Regulierung künstlicher Intelligenz, stößt auf unerwartete Hürden und gerät in seiner Umsetzung ins Stocken. Der Artikel beleuchtet die Gründe für die Verzögerungen und die damit verbundenen politischen Herausforderungen.",
+          "zusammenfassung": "Der Deutschlandfunk berichtet über Verzögerungen und Schwierigkeiten bei der Umsetzung des EU AI Act, des wegweisenden europäischen KI-Gesetzes. Politische Differenzen und technische Komplexität bremsen den Fortschritt, was die Einführung einheitlicher Regeln für Künstliche Intelligenz erschwert.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=1",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "KI im Personalwesen: EU-KI-Verordnung 2026, Kündigung und Mitbestimmung",
-          "zusammenfassung": "Die EU-KI-Verordnung 2026 wird weitreichende Auswirkungen auf den Einsatz von KI im Personalwesen haben, insbesondere in Bezug auf Kündigungsprozesse und Arbeitnehmer-Mitbestimmung. Unternehmen müssen sich auf neue rechtliche Rahmenbedingungen einstellen, um Compliance zu gewährleisten.",
+          "titel": "EU-KI-Verordnung: Neue Pflichten für Unternehmen seit 2. August",
+          "zusammenfassung": "Seit dem 2. August gelten für Unternehmen in der EU neue Pflichten im Rahmen der EU-KI-Verordnung. Der Börse Express informiert über die konkreten Anforderungen, die sich aus dem Gesetz ergeben, insbesondere im Hinblick auf Transparenz, Risikomanagement und Datenverantwortung.",
           "einordnung": "",
-          "quelle": "Anwalt.de",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdkhKTUk5aGI5V242SVBkWDU2VTNBRDRFSEFiV2NFMVhZR1lSMHNFTEd4bUlfUGY2UjdTQUhmSmVMbVUtVERYbTZQX19ENG1LdjljNTFwdWoySEhFV3E4cjhUel9DVWFyRHNZN2s1eGJhRW9lMWQzUDNUT2Z3WmR0ZlE1Sm1CNWhsZVQxNnNOcEhza2M0cDJlbHFzWXFTbHUzaWpIUUpEUU1ldw?oc=5",
+          "quelle": "Börse Express",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbkRwMExKSmZzRlpiZGVfQXFwSTgzYjVCRXk4UFBrQVJzOUwyTjl6NUdFUndzZmdnN3F2TVpKQ2gzMERkVzlmeGE1TEFKUjJobThKaXVCa1VvNElsc2dZQkt2QnRDaHpPNHo1VEN1UVdpeGZzOS1xa0dMTXdDcEl2RTBvUGJFTEo1RlVvOGRkQU1CbWVpRjVpSjU2WjFBc3lJMDNyRHNfMVhscVVkdmRKci1jWHU?oc=1",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "EU AI Act: Transparenzregeln für KI-Anbieter seit August bindend",
-          "zusammenfassung": "Seit August sind die Transparenzregeln des EU AI Act für KI-Anbieter bindend, was eine neue Ära der Rechenschaftspflicht einläutet. Unternehmen müssen nun offenlegen, wie ihre KI-Systeme funktionieren und welche Daten sie verwenden, um Vertrauen und Sicherheit zu fördern.",
+          "titel": "Neue EU-Regeln für KI: Für wen gilt die Kennzeichnungspflicht für Künstliche Intelligenz?",
+          "zusammenfassung": "ZDFheute erklärt die neuen Kennzeichnungspflichten für Künstliche Intelligenz, die durch die EU-KI-Verordnung eingeführt wurden. Der Artikel präzisiert, welche KI-Systeme und Anwendungsfälle von diesen Regeln betroffen sind und welche Informationen für Nutzer bereitgestellt werden müssen.",
           "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaVlDZ3lLZ2pHX1E1Vlc4aWlRZFk4OU5oSzBHR0tvY1doaWM1WjRJcG1nODFtQlNTZ2dNbUxVZDBRSW5NdnpjRlQycGxtZk9QZUhvUHNZWTNycVpUZ1haMHBlX01hRmxUZnNFZVVpSUhKcTRoTm9ubkxBSWFSM0xUa1phOVhXSGExQ0lVdW5pd3EwRVhDS3c?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "ZDFheute",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWJTMzcxNnA2U1hRZjBrLUN2ZlJnUXAtMzFKVmxheVk2NWdsNkN4ckVIQnRic05JRDh3bm4zOVg5MWZxRnlLQVlZNUFOdXNCODN5LWUzUnU1WVBPS0otYzc3UkpEaTROZWhoVEFXaF9YMElGUnhLTFdDdURKQ2pyMmFGcUw?oc=1",
+          "sterne": "⭐⭐"
         }
       ]
     },
@@ -102,95 +110,87 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "A Theoretical Evaluation of Distributed Large Language Model Inference on a Raspberry Pi 5 Edge Cluster",
-          "zusammenfassung": "Eine theoretische Studie untersucht die Machbarkeit und Effizienz der verteilten Inferenz großer Sprachmodelle (LLMs) auf einem Edge-Cluster aus Raspberry Pi 5 Geräten. Die Forschung beleuchtet das Potenzial für dezentrale und ressourcenschonende KI-Anwendungen.",
+          "titel": "DATEE: An Adaptively Thresholded Early-Exit Framework for Large Language Model Inference Based on Confidence Trend Sampling",
+          "zusammenfassung": "Dieser Fachartikel stellt DATEE vor, ein neues Framework zur effizienteren Inferenz bei Large Language Models (LLMs) durch adaptives Early-Exit. Die Methode basiert auf der Analyse von Konfidenz-Trends und ermöglicht es, Rechenressourcen zu sparen, ohne die Genauigkeit signifikant zu beeinträchtigen.",
           "einordnung": "",
           "quelle": "springerprofessional.de",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxMajZlQndhY0NMdFNZWl8xbDJ1RWJVR3dzYkphanRwSFowSUFMcF8wcndidl8yakNwdG5UUEc1Mmd3Y1Q1Vkp4bnJKQU1aOGZWSkR5M2xYMmFwb3RKc0tjVDIybWt0TmdPdUM5SkRpRWFTQWFVN3gxTkdaa3ZIczNIeFdTWjZ1QmdFak9IbDFzelZadHM3RTNOa3Z3S1FfSU1MTFViZVItcFRzRVMxN3c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVW4tUU56VThHZEVLRW54SHA5cVNTQS1FQ0JMNG9mSFhnQnpWanpucTNYTC1Fby00d1E4NXAtWV9CSXlSdU9GMnExZWxUNDhoRHA4dnIwUk9OUngyVF9pTmtkZkZtMUVVQnM0WmcxSWhONkVkUDhvYlk3aVd6TFl3M1lOM3hfdVJPc21ibVc3bHpFMC03OFI5REl5WFExNmNrYTNLRHptYTRxUENBQUE?oc=1",
           "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "LLM-Preise: Top 15+ Anbieter im Vergleich",
+          "zusammenfassung": "AIMultiple bietet einen detaillierten Vergleich der Preise von über 15 führenden Anbietern von Large Language Models. Die Analyse hilft Unternehmen und Entwicklern, die kosteneffizienteste Lösung für ihre spezifischen Anwendungsfälle zu finden und die Marktlandschaft besser zu verstehen.",
+          "einordnung": "",
+          "quelle": "AIMultiple",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tWHN2Z3ZqbGJ0R2lGYWRGc3VqTW4tV1laX01ZMHdxbHZQTGhiY040QVVoSk01T0tFR3l2WTV0U3FvRjhJQ0VmYzMtV0d0dw?oc=1",
+          "sterne": "⭐"
         },
         {
           "titel": "Wissenschaft im Zeitalter ihrer technischen Reproduzierbarkeit",
-          "zusammenfassung": "Der Artikel diskutiert die Herausforderungen und Chancen für die Wissenschaft im Zeitalter der technischen Reproduzierbarkeit, insbesondere durch den Einfluss von KI. Es werden Fragen der Authentizität, Verifikation und der Rolle menschlicher Expertise in der Forschung aufgeworfen.",
+          "zusammenfassung": "Der Wiarda-Blog reflektiert über die Auswirkungen der technischen Reproduzierbarkeit, insbesondere durch KI, auf die Wissenschaft. Es werden Fragen nach der Authentizität, der Urheberschaft und der Bewertung wissenschaftlicher Arbeiten in einer zunehmend automatisierten Forschungsumgebung aufgeworfen.",
           "einordnung": "",
           "quelle": "Der Wiarda-Blog",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXQ0bGwydktnb3lHVkVuNGNNT1MtXzVyN3hhOUJieldGLWg4cE9rMDl1UlZ3UkY2d3g3VnNTSFZPNTV5MWItMEtwZWNnZ2VJbC1ZOHY3ajFMYXZCWmFMaE9ESkoxQjFQZ2hYbzlYd1FpUjlpYjRyOERlLTlVRy1faHQ3VWttTjNXU1FjR0xtR3dNTXpYeWRuZmd1VG5ueF80SHN1RQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXQ0bGwydktnb3lHVkVuNGNNT1MtXzVyN3hhOUJieldGLWg4cE9rMDl1UlZ3UkY2d3g3VnNTSFZPNTV5MWItMEtwZWNnZ2VJbC1ZOHY3ajFMYXZCWmFMaE9ESkoxQjFQZ2hYbzlYd1FpUjlpYjRyOERlLTlVRy1faHQ3VWttTjNXU1FjR0xtR3dNTXpYeWRuZmd1VG5ueF80SHN1RQ?oc=1",
           "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Was sind große Sprachmodelle (LLM)?",
-          "zusammenfassung": "Dieser grundlegende Artikel erklärt, was große Sprachmodelle (LLMs) sind, wie sie funktionieren und welche Bedeutung sie für die aktuelle KI-Entwicklung haben. Er bietet eine verständliche Einführung in die Technologie hinter vielen modernen KI-Anwendungen.",
-          "einordnung": "",
-          "quelle": "databricks.com",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUEZqZTJ5RTktZHViZVpiSFZjbHcwZUU1d25KX1JsU3pPODlPNlpLMXY3cDRMV1RFUHlzc1EwWFpLOVhQZTNxQTZWcVY4VmF0SkhuOThtUmtGc2NhTW1zNktReGZETG9jVjdUNjNFblM2cEE?oc=5",
-          "sterne": "⭐"
         }
       ]
     },
     {
-      "emoji": "💼",
-      "titel": "KI & Arbeitsmarkt",
+      "emoji": "🎨",
+      "titel": "KI & Urheberrecht",
       "fest": false,
       "artikel": [
         {
-          "titel": "Die Generation, die KI am besten beherrscht, findet keine Jobs mehr",
-          "zusammenfassung": "Paradoxerweise steht die Generation, die am besten mit KI umgehen kann, vor wachsenden Schwierigkeiten, passende Arbeitsplätze zu finden. Der Artikel untersucht, wie die Automatisierung durch KI den Arbeitsmarkt umgestaltet und traditionelle Jobprofile obsolet macht.",
-          "einordnung": "",
-          "quelle": "faz.net",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSEI3VFRXZEc1UGxOZTdvcFhyMTFLV2xtUlZ4LVVuMGRNMlpWZ0tVckcyU0pSdmRaSGRtdkpGZGtERjBlZjhka1I2Z2dmdF9kd2JIdWVpbGk4cGtDbnRWZ3lwVGVOX2xrWUh1OVBMdXhnNXFabV9LQlNfVDk1NHRIYkZ5RTE1MW80QUk0dDJVb2xZWGNmZzFLeVRjYTZ2QXY2NUpwRWtPbkhMUWZwUlA5b2lGazg3V04tRTYyNnNHWmJnYkZtRkVFTjhxWTVtZXBQRWc4YjVjOGRWWlZnQ2tyMXl1alhCd0VZbUxr?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "KI-Paradox am Arbeitsmarkt: Berufseinsteiger verlieren, Erfahrene gewinnen",
-          "zusammenfassung": "Eine aktuelle Analyse zeigt ein 'KI-Paradox' auf dem Arbeitsmarkt, bei dem Berufseinsteiger zunehmend Schwierigkeiten haben, während erfahrene Fachkräfte von KI-Integration profitieren. Dies deutet auf eine Verschiebung der Anforderungen und eine Polarisierung der Jobchancen hin.",
+          "titel": "Carlsen vs. OpenAI: ChatGPT erstellt ganze Druckvorlagen für „NEINhorn“-Plagiate",
+          "zusammenfassung": "Der Carlsen Verlag und Autor Marc-Uwe Kling sehen sich mit KI-generierten Plagiaten ihres beliebten Kinderbuchs „Das NEINhorn“ konfrontiert. ChatGPT soll in der Lage gewesen sein, vollständige Druckvorlagen für Nachahmungen zu erstellen, was die Dringlichkeit von Urheberrechtsfragen im Zeitalter der generativen KI unterstreicht.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTlITFRCLTdwcV9zTHp1d0RTU010a2NHYTlYSFhPb00wTWZwM2ZSVmFUazlkQWZFVmEtSnNZWDFrUzYxNGVybGJITE84MGNOVF9HMnZvWW0zWUk4ZE9GdUlwMno3UUhLT3c3MUJEVTZCNkhHN3pabkNGOE4wMEhMenR0R2w2aUlKbGV4MG80Yjg2OTNoOHFqR05tUm9MMFpwTi1pSUNFVHhkXzEwSGxZQ1FR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdTVGNFBpeDFmVjYzcUZpLUJvQmhhZjVGTnJwZXlHTEdkeTNvcjVpVmRTWEJ2ZnZFN0RzSzNmdXZoQU1zS01QZVNfMWlKcDRXQmNtbzhZUUp2WGxTajBLRURpT2lBSnlXNnd3M0RvZHI2ZU4tNmJkdzRQUWVHQnp6V2txWmY1LTVxa19mUlpkYzNWZXRjY1B6NHhTbVVaTlc3a3NDOTFWYw?oc=1",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "KI in Unternehmen: Was Mitarbeiter beim Einsatz zögern lässt",
-          "zusammenfassung": "Viele Mitarbeiter in Unternehmen zeigen Zögerlichkeit oder Skepsis beim Einsatz von KI-Tools, oft aus Angst vor Jobverlust oder mangelndem Verständnis. Der Artikel beleuchtet die psychologischen und praktischen Hürden bei der Adoption von KI am Arbeitsplatz.",
+          "titel": "»Neinhorn«: Verlag kämpft wegen Kinderbuchs gegen ChatGPT",
+          "zusammenfassung": "Der Spiegel berichtet über den juristischen Kampf des Carlsen Verlags gegen OpenAI, nachdem ChatGPT mutmaßliche Plagiate des Kinderbuchs „Das NEINhorn“ generiert hat. Der Fall verdeutlicht die Herausforderungen für Urheberrechtsinhaber, wenn KI-Modelle Inhalte reproduzieren oder imitieren.",
           "einordnung": "",
-          "quelle": "WELT",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeVpQTzdkc1lBNk9Wa0hHNHVJaHlLZzVnNmEyRGt5aW5UUzhZQ1cwbjVpcGh5MFlPaDlsSWE4bEcybWMxSGNfaWd2S3BOYjRMWERWTGMySTRpQWNjZG5xQ29NdzFCTG5hb0RDcW9faENQQlJxNnFEZGg2dm5ZRFo2ZG1fREhUQ3cyM08tbjlvTU00VV9oazdHbUJpZ0hIdVB1aVJUaWhadmJWME9wLU95X3h2YWZtTDdRcFNwUm5kczlwYi1L?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQanRNbi1ESE9GOTlKMnlWaWNpU2VBZVZwN2MyVlNUMU0yOGJ3SFczcGR4eEFYRmlKM3ladThDMW5MN3FmdGpkVkY5UDRBRHVtdGdwX1NESjhYYUoxd1JWdEdfUUYtQVVUSndfQnlBYUlzbmVLbGRfMFh6QlNLLWc1dE5iLXhwY1RCenZhRG1qeHlLOGZOdUt6VzZ0VEdaOTdSaERkQ0piNFVVa1FDR0FBUTV4V3RVWmRYNE1mX1I5al8ySndPU2RFSFpMTkczR21wYnZrUkYxbGpWZ0VTaUk4Q29JRGI?oc=1",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "„NEINhorn“ gegen ChatGPT: Carlsen und Marc-Uwe Kling verklagen Open AI",
+          "zusammenfassung": "Carlsen Verlag und Marc-Uwe Kling haben Klage gegen OpenAI eingereicht, da deren KI-Modell ChatGPT angeblich Plagiate des Kinderbuchs „Das NEINhorn“ erstellt hat. Dieser Fall markiert einen wichtigen Präzedenzfall im Bereich des Urheberrechts und der Haftung von KI-Entwicklern für generierte Inhalte.",
+          "einordnung": "",
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd1AyVTJHQTRxOGlIZmlnSHE4Z08tNm02b3lKazhSWnBEc0FxOGxzV2RHaVB5dnRyZHV5TlFya09qVmFObWpPZTF0dzhmMmFkLU1ZTHUxMVhiSzBnbzhqM0NFVGlVZ2FVcHFhVXVFR2VQMjRlempGXzBOcFNzTC10SzItcFkweUhBU3VMOVVYWE9lYjQ0cEcwTVpoZFdqZjZvUVV4czlYb3RTYXVBZUx5cWVMV25rcno2RE1jUmtjUkp4bXpxYkRzTHdYWkZ6WkNXV2dZMEM3TDk1OE5zWmpySlh4OFRyV3ZvTk81Uw?oc=1",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
     {
-      "emoji": "🎓",
-      "titel": "KI & Bildung & Kreativität",
+      "emoji": "🌍",
+      "titel": "KI & Gesellschaft",
       "fest": false,
       "artikel": [
         {
-          "titel": "»Neinhorn«: Verlag kämpft wegen Kinderbuchs gegen ChatGPT",
-          "zusammenfassung": "Ein Verlag sieht sich gezwungen, rechtliche Schritte gegen ChatGPT einzuleiten, da die KI ein Kinderbuch generiert haben soll, das dem populären 'Neinhorn' ähnelt. Dieser Fall wirft wichtige Fragen zum Urheberrecht und zur Originalität von KI-generierten Inhalten auf.",
+          "titel": "KI-erzeugte Schriftsätze, die zu nichts führen",
+          "zusammenfassung": "Der Artikel beleuchtet Fälle, in denen von Künstlicher Intelligenz generierte juristische Schriftsätze vor Gericht als unbrauchbar oder fehlerhaft befunden wurden. Dies wirft Fragen nach der Zuverlässigkeit und den Grenzen des Einsatzes von KI in sensiblen Bereichen wie der Rechtsprechung auf.",
           "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeklzVzBEdkUzbWhLblBvQVVMOHlBRm1aTjIyRHN4ZEpfUGFWX2ZNdmFrODYxb2hCMUFEMGdTajZ5ZW5ZQ2hOaVJUUGtEbWp3TjBfQjJDenlPM2FHWmk2MTl4WjAwYjZFWW5pSl81cVF3S291UDN2c1Zja1I5RHpjZC1leHJpUW8tLUxjblg1RkFCZVl2ZEdkRi1vZTU4SG1yZ1Y3SnpsRVN4UkpSTFdlY0RSX3dMT1ktWXcwX1FtM3prUkp5bkthMWF1YUVEUVFEMEdiUG5jTjFsdm1KTUVRWTBxbw?oc=5",
+          "quelle": "taz.de",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41R21yMG9IT3RiT0dkcjlXaUdFWnB2Yi1fUUxmRnJ4Rzg0bWR4dE5GWjBadjJRX2VpRmdjX2hQUnRodVRkMG1iamlUUjRnWHphMWYySk1FMFJCMkpmQV9QYzEtVm15WGljSTN6RA?oc=1",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Gemini für Schüler: Google bringt KI aufs Handy",
-          "zusammenfassung": "Google macht seine KI-Plattform Gemini für Schüler auf Mobiltelefonen zugänglich, um den Einsatz von KI im Bildungsbereich zu fördern. Die Initiative soll Lernprozesse unterstützen und Schülern den Umgang mit modernen Technologien näherbringen.",
+          "titel": "KI im Klassenzimmer: Warum Dänemark Prüfungen umkrempelt, während SH noch zögert",
+          "zusammenfassung": "Dänemark reagiert proaktiv auf den Einsatz von KI im Bildungsbereich und passt seine Prüfungssysteme an, um den neuen Realitäten Rechnung zu tragen. Schleswig-Holstein hingegen zeigt sich noch zögerlich, was die Integration von KI in den Schulalltag und die Anpassung von Bildungsstandards angeht.",
           "einordnung": "",
-          "quelle": "Teltarif",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6YkluaXl1a1RfVzlNTGxmeFEwLUs3eS1sR04yMmRzbmJmRDh0UC1HV2ZSMU5Fdjh5NUh4eGVmb0xnZkp3N0QydzQwS3d3WjhVeTlZdU5kRncyN2VHWWtOZHd4bDlabGtORUtTaGJB?oc=5",
+          "quelle": "NDR.de",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZnRUZmZ4dDNFT296SWFsc0lIdXp5TUw5YjUya2EyWmlnUVN2eG44eHRMSERreE5lRGp0cldxczlqYnJFWjdaZFByWE40YWoxLXZWaExNdGppTW9pTUVXQnZ0d21IRmhxT0Z2YjdGc040OGNFakVwRW56R2trNThndFhndDVkQV9WcklGbWhXX1A5MURORF8xVnIzSnUxTExUUkhNcFFET3NSY2NGV05idG1xdElFeE5LVGJaeVl5Tkc5Ry1sRHZB?oc=1",
           "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Google AI Plus Studentenangebot: KI-Abo 1 Jahr kostenlos",
-          "zusammenfassung": "Google bietet Studenten ein kostenloses Jahresabonnement für sein KI-Plus-Angebot an, um den Zugang zu fortschrittlichen KI-Tools zu erleichtern. Diese Maßnahme zielt darauf ab, die nächste Generation von KI-Nutzern und -Entwicklern zu fördern.",
-          "einordnung": "",
-          "quelle": "klamm.de",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFhZWXNlWm02ckhqWm1iX1c1b09qUV9WWWFQSUFtcmIxMi1TaFlINjRYdlQyUEhtZXFpUmk2VzFsLUlVVXdtQzlLZUZaLTQxMW9EbXVjaEFaclN2UktaMzltWEQ3RXZJclAyMWJ0aFUwX1ViQVdrV09mSjZFTTZEcUVHREpaY0xGY3plUFlEMFlNeVdvNnYyelpraDdsQQ?oc=5",
-          "sterne": "⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-08-20T06:22:56.576Z",
+  "generiert_um": "2026-08-21T06:23:45.017Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -231,9 +231,9 @@
     {
       "name": "KI verstehen · Deutschlandfunk",
       "desc": "Wöchentlich · verständlich erklärt",
-      "episode": "KI und Beziehungen - Eine Geschichte von Liebe und Trauer",
-      "datum": "13.8.2026",
-      "dauer": "38 Min.",
+      "episode": "KI kontrovers - Metas Manifest: Wie Zuckerberg die Zukunft sieht",
+      "datum": "20.8.2026",
+      "dauer": "35 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c6/e3/d6/c6e3d6bd-e018-153d-939e-0aa7c6916b21/0.jpg/100x100bb.jpg",
       "spotify": "https://open.spotify.com/show/0rktSeF3DOjOyk2f0VPFwO"
     },
