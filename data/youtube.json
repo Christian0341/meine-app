@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-08-21T07:48:51.362798+00:00",
+  "aktualisiert": "2026-08-22T07:36:38.541729+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Claude kann jetzt Animationen erstellen",
+      "link": "https://www.youtube.com/watch?v=hW_UzMupyrw",
+      "video_id": "hW_UzMupyrw",
+      "thumbnail": "https://img.youtube.com/vi/hW_UzMupyrw/mqdefault.jpg",
+      "datum": "2026-08-21T16:00:20+00:00",
+      "datum_de": "21.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "KI-Kennzeichnung ab SOFORT? Was der AI Act WIRKLICH verlangt! 👨🏻‍⚖️✅",
+      "link": "https://www.youtube.com/watch?v=WvtydI5-fDs",
+      "video_id": "WvtydI5-fDs",
+      "thumbnail": "https://img.youtube.com/vi/WvtydI5-fDs/mqdefault.jpg",
+      "datum": "2026-08-21T15:00:25+00:00",
+      "datum_de": "21.08.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Learn German with News | LinguaWire",
       "titel": "Learn German A1 | Slow German News with Subtitles: OpenAI Launches ChatGPT for Teens",
@@ -84,7 +104,7 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "KI-Experten reagieren: DAS wird alles zum KIPPEN bringen! Roboter-Bann, KI-Rechtsperson & EU Absturz",
+      "titel": "KI-Experten reagieren: DAS ist der finale Kipppunkt! Europas Absturz, Roboter-Schock & Justiz-KI",
       "link": "https://www.youtube.com/watch?v=h0KKp3YX7hQ",
       "video_id": "h0KKp3YX7hQ",
       "thumbnail": "https://img.youtube.com/vi/h0KKp3YX7hQ/mqdefault.jpg",
@@ -123,33 +143,13 @@
       "quelle": "suche"
     },
     {
-      "kanal": "tkay",
-      "titel": "Claude + ChatGPT = 53.369,54€ In 90 Tagen",
-      "link": "https://www.youtube.com/watch?v=CKz_MHOyUa8",
-      "video_id": "CKz_MHOyUa8",
-      "thumbnail": "https://img.youtube.com/vi/CKz_MHOyUa8/mqdefault.jpg",
-      "datum": "2026-08-16T16:00:32Z",
-      "datum_de": "16.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Hermes Agent + BUZZ AI ist der WAHNSINN!",
-      "link": "https://www.youtube.com/watch?v=GygE3xxcHls",
-      "video_id": "GygE3xxcHls",
-      "thumbnail": "https://img.youtube.com/vi/GygE3xxcHls/mqdefault.jpg",
-      "datum": "2026-08-16T14:15:10+00:00",
-      "datum_de": "16.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Niklas AI",
-      "titel": "Dieser CLAUDE SKILL baut dir fertige KI-TELEFONASSISTENTEN! (GRATIS VORLAGE)",
-      "link": "https://www.youtube.com/watch?v=yuVmsTHtTpA",
-      "video_id": "yuVmsTHtTpA",
-      "thumbnail": "https://img.youtube.com/vi/yuVmsTHtTpA/mqdefault.jpg",
-      "datum": "2026-08-16T13:58:15Z",
-      "datum_de": "16.08.2026",
+      "kanal": "Kevin Stratvert",
+      "titel": "Claude Cowork Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=YYr7hw5EAtk",
+      "video_id": "YYr7hw5EAtk",
+      "thumbnail": "https://img.youtube.com/vi/YYr7hw5EAtk/mqdefault.jpg",
+      "datum": "2026-08-17T07:00:06Z",
+      "datum_de": "17.08.2026",
       "quelle": "suche"
     }
   ]
