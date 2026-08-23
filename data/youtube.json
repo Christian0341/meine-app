@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-22T07:36:38.541729+00:00",
+  "aktualisiert": "2026-08-23T07:38:29.369589+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "KI-Forscher warnt: „Wir haben die Kontrolle bereits verloren!” Das passiert jetzt (Prof. Bläsius)",
+      "titel": "KI-Forscher warnt: „Wir haben die Kontrolle bereits verloren!” Das übersehen alle (Prof. Bläsius)",
       "link": "https://www.youtube.com/watch?v=tSoQ68EdALA",
       "video_id": "tSoQ68EdALA",
       "thumbnail": "https://img.youtube.com/vi/tSoQ68EdALA/mqdefault.jpg",
@@ -93,6 +93,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Roboverse",
+      "titel": "How I Automate My AI Videos with Claude + Higgsfield",
+      "link": "https://www.youtube.com/watch?v=Lj-PpzAlqek",
+      "video_id": "Lj-PpzAlqek",
+      "thumbnail": "https://img.youtube.com/vi/Lj-PpzAlqek/mqdefault.jpg",
+      "datum": "2026-08-18T16:17:05Z",
+      "datum_de": "18.08.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Christoph Magnussen",
       "titel": "Hardware für KI Agents?! OpenAI Controller im Test!",
       "link": "https://www.youtube.com/watch?v=xMYo66v3HIc",
@@ -101,6 +111,26 @@
       "datum": "2026-08-18T16:07:37+00:00",
       "datum_de": "18.08.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "MikesWorld",
+      "titel": "Google schockt mit Gemini 3.7 Flash: SO stark und SO günstig 🤯",
+      "link": "https://www.youtube.com/watch?v=y1sc_g8ZOlU",
+      "video_id": "y1sc_g8ZOlU",
+      "thumbnail": "https://img.youtube.com/vi/y1sc_g8ZOlU/mqdefault.jpg",
+      "datum": "2026-08-18T16:00:00Z",
+      "datum_de": "18.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AIIANER",
+      "titel": "Hermes Bot Mode ist da - Du und deine KI-Agenten seid ab jetzt ein Team",
+      "link": "https://www.youtube.com/watch?v=1Rxhxv9XqPk",
+      "video_id": "1Rxhxv9XqPk",
+      "thumbnail": "https://img.youtube.com/vi/1Rxhxv9XqPk/mqdefault.jpg",
+      "datum": "2026-08-18T15:58:41Z",
+      "datum_de": "18.08.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Everlast AI",
@@ -113,43 +143,13 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Anna",
-      "titel": "5 KOSTENLOSE KI Tools für den Büroalltag Zeit sparen!",
-      "link": "https://www.youtube.com/watch?v=D-5FlGpAPk0",
-      "video_id": "D-5FlGpAPk0",
-      "thumbnail": "https://img.youtube.com/vi/D-5FlGpAPk0/mqdefault.jpg",
-      "datum": "2026-08-18T13:00:35Z",
+      "kanal": "Digitale Profis",
+      "titel": "Claude markiert alle Texte als KI: Was bedeutet das und kann man das Wasserzeichen entfernen?",
+      "link": "https://www.youtube.com/watch?v=7iMxoMpXDUs",
+      "video_id": "7iMxoMpXDUs",
+      "thumbnail": "https://img.youtube.com/vi/7iMxoMpXDUs/mqdefault.jpg",
+      "datum": "2026-08-18T14:00:56Z",
       "datum_de": "18.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "NANCY | KI-Workflows im Büro",
-      "titel": "Ich lasse Claude Cowork jetzt die Arbeit machen, die ich hasse",
-      "link": "https://www.youtube.com/watch?v=BL5UNGO77HA",
-      "video_id": "BL5UNGO77HA",
-      "thumbnail": "https://img.youtube.com/vi/BL5UNGO77HA/mqdefault.jpg",
-      "datum": "2026-08-17T15:48:31Z",
-      "datum_de": "17.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Shakeela ZQ",
-      "titel": "KI für Studium &amp; Schule: 5 Workflows mit ChatGPT, NotebookLM, Claude &amp; Co. (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=viQp6Shv7I4",
-      "video_id": "viQp6Shv7I4",
-      "thumbnail": "https://img.youtube.com/vi/viQp6Shv7I4/mqdefault.jpg",
-      "datum": "2026-08-17T14:00:38Z",
-      "datum_de": "17.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Kevin Stratvert",
-      "titel": "Claude Cowork Tutorial for Beginners",
-      "link": "https://www.youtube.com/watch?v=YYr7hw5EAtk",
-      "video_id": "YYr7hw5EAtk",
-      "thumbnail": "https://img.youtube.com/vi/YYr7hw5EAtk/mqdefault.jpg",
-      "datum": "2026-08-17T07:00:06Z",
-      "datum_de": "17.08.2026",
       "quelle": "suche"
     }
   ]
