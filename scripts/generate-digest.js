@@ -255,7 +255,7 @@ async function sammleArtikel() {
 
 // ── Gemini Digest generieren ──────────────────────────────────────────────────
 async function generiereDigest(artikel) {
-  // FIX: Auf max. 18 Artikel begrenzen damit die JSON-Antwort nicht abgeschnitten wird
+  // Auf max. 18 Artikel begrenzen damit die JSON-Antwort nicht abgeschnitten wird
   const artikelBegrenzt = artikel.slice(0, 18);
   console.log(`  Verwende ${artikelBegrenzt.length} von ${artikel.length} Artikeln für Gemini`);
 
@@ -283,8 +283,9 @@ Wähle 2 aktuelle Trendthemen die heute besonders im Fokus stehen. Beispiele: KI
 Verwende NUR die URLs aus der obigen Liste — erfinde keine neuen URLs.
 Schreibe für jeden Artikel eine kurze Zusammenfassung (2-3 Sätze).
 
-Antworte AUSSCHLIESSLICH als valides JSON ohne Markdown-Backticks:
+Antworte AUSSCHLIESSLICH als valides JSON — keine Markdown-Backticks, keine Prosa vor oder nach dem JSON.
 
+Struktur:
 {
   "datum": "${datumLang}",
   "datumISO": "${datumISO}",
@@ -315,36 +316,70 @@ Regeln:
 - Alle Texte auf Deutsch
 - Sterne: ⭐⭐⭐ = bahnbrechend, ⭐⭐ = bedeutend, ⭐ = interessant
 - Nur Artikel aus der obigen Liste verwenden
-- WICHTIG: Das JSON muss vollständig und gültig sein`;
+- WICHTIG: Das JSON muss vollständig und gültig sein
+- Verwende keine unerlaubten Steuerzeichen (Zeilenumbrüche in Strings mit \\n escapen)`;
 
   const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
   const body = {
     contents: [{ parts: [{ text: prompt }] }],
-    // FIX: maxOutputTokens auf 32000 erhöht (vorher 16000 war zu wenig → JSON wurde abgeschnitten)
-    generationConfig: { temperature: 0.4, maxOutputTokens: 32000 }
+    generationConfig: {
+      temperature: 0.4,
+      maxOutputTokens: 32000,
+      // FIX: JSON-Modus erzwingt syntaktisch valides JSON von Gemini —
+      // vermeidet abgeschnittene Antworten & Parse-Fehler
+      responseMimeType: "application/json"
+    }
   };
 
-  // FIX: Retry-Mechanismus für 503/429 Fehler
+  // Retry-Mechanismus für 503/429 Fehler
   const resp = await geminiMitRetry(apiUrl, body, 4);
 
   const data = await resp.json();
-  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
-  if (!text) throw new Error('Keine Antwort von Gemini');
 
-  // FIX: Robusteres JSON-Parsing — versucht auch abgeschnittenes JSON zu retten
+  // FIX: finishReason prüfen — sagt uns WARUM Gemini gestoppt hat
+  const candidate = data?.candidates?.[0];
+  const finishReason = candidate?.finishReason;
+  console.log(`  Gemini finishReason: ${finishReason || 'unbekannt'}`);
+
+  if (finishReason && finishReason !== 'STOP') {
+    console.warn(`  ⚠️ Gemini stoppte nicht regulär: ${finishReason}`);
+    // MAX_TOKENS = Token-Limit erreicht (Prompt/Config anpassen)
+    // SAFETY    = Safety-Filter blockiert
+    // RECITATION = zu ähnlich zu Trainingsdaten
+    // OTHER     = unbekannt
+  }
+
+  const text = candidate?.content?.parts?.[0]?.text;
+  if (!text) {
+    console.error(`  ❌ Gemini-Antwort ohne Text. Volles Response:`, JSON.stringify(data).slice(0, 500));
+    throw new Error(`Keine Antwort von Gemini (finishReason: ${finishReason})`);
+  }
+
+  // JSON-Modus liefert bereits sauberes JSON — trotzdem für alle Fälle bereinigen
   let bereinigt = text.replace(/```json\n?|\n?```/g, '').trim();
 
   let digest;
   try {
     digest = JSON.parse(bereinigt);
   } catch (parseErr) {
-    // Letzter Versuch: JSON bis zur letzten vollständigen Klammer reparieren
-    console.warn(`  ⚠️ JSON-Parse Fehler, versuche Reparatur... (${parseErr.message})`);
+    // FIX: Bei Parse-Fehler → Rohantwort loggen (Anfang + Ende), damit man sieht was schief lief
+    console.error(`  ❌ JSON-Parse Fehler bei Position ${parseErr.message.match(/position (\d+)/)?.[1] || '?'}`);
+    console.error(`  ❌ Gemini finishReason war: ${finishReason}`);
+    console.error(`  📄 Antwort-Länge: ${bereinigt.length} Zeichen`);
+    console.error(`  📄 Antwort-Anfang (500 Zeichen):\n${bereinigt.slice(0, 500)}`);
+    console.error(`  📄 Antwort-Ende (500 Zeichen):\n${bereinigt.slice(-500)}`);
+
+    // Reparatur-Versuch: bis zur letzten vollständigen Klammer zurückschneiden
+    console.warn(`  ⚠️ Versuche Reparatur...`);
     const letzteKlammer = bereinigt.lastIndexOf('}\n]');
     if (letzteKlammer > 0) {
       bereinigt = bereinigt.slice(0, letzteKlammer + 3) + '\n}';
-      digest = JSON.parse(bereinigt);
-      console.log('  ✅ JSON erfolgreich repariert');
+      try {
+        digest = JSON.parse(bereinigt);
+        console.log('  ✅ JSON erfolgreich repariert');
+      } catch (e2) {
+        throw new Error(`JSON konnte nicht geparst werden: ${parseErr.message}`);
+      }
     } else {
       throw new Error(`JSON konnte nicht geparst werden: ${parseErr.message}`);
     }
