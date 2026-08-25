@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-08-24T08:00:10.470174+00:00",
+  "aktualisiert": "2026-08-25T07:49:29.634315+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "SmartSolution-4u KI & Automation",
+      "titel": "KI-Agent schleust Malware ein, Thomson Reuters baut eigenes Modell, Videos aus PDFs für 6 Dollar",
+      "link": "https://www.youtube.com/watch?v=hIguGItyQIc",
+      "video_id": "hIguGItyQIc",
+      "thumbnail": "https://img.youtube.com/vi/hIguGItyQIc/mqdefault.jpg",
+      "datum": "2026-08-25T06:29:23Z",
+      "datum_de": "25.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Was ist los bei GOOGLE? Gemini, Agents und die große KI-Wette",
+      "link": "https://www.youtube.com/watch?v=99FdWau_WJU",
+      "video_id": "99FdWau_WJU",
+      "thumbnail": "https://img.youtube.com/vi/99FdWau_WJU/mqdefault.jpg",
+      "datum": "2026-08-24T17:38:07+00:00",
+      "datum_de": "24.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "KI-News: Gemini ohne Wasserzeichen, Google Drive in ChatGPT, Claude Cowork für alle (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=NO-Jq85Jwcc",
+      "video_id": "NO-Jq85Jwcc",
+      "thumbnail": "https://img.youtube.com/vi/NO-Jq85Jwcc/mqdefault.jpg",
+      "datum": "2026-08-24T14:00:40Z",
+      "datum_de": "24.08.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "KI Spart Zeit",
       "titel": "ChatGPT, Claude oder Gemini? Welches Tool für welche E-Mail?",
@@ -93,6 +123,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Calvin Hollywood (AI)",
+      "titel": "7 versteckte Claude Funktionen (für Anfänger)",
+      "link": "https://www.youtube.com/watch?v=KzZHD50JZJc",
+      "video_id": "KzZHD50JZJc",
+      "thumbnail": "https://img.youtube.com/vi/KzZHD50JZJc/mqdefault.jpg",
+      "datum": "2026-08-20T17:00:34Z",
+      "datum_de": "20.08.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Digitale Profis",
       "titel": "Mistral gibt auf! Anthropic hält neues Modell zurück, OpenAI Astra &amp; ChatGPT for Teens| KI News",
       "link": "https://www.youtube.com/watch?v=9lyg9m8D3q0",
@@ -111,46 +151,6 @@
       "datum": "2026-08-20T15:27:57+00:00",
       "datum_de": "20.08.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI-Forscher warnt: „Wir haben die Kontrolle bereits verloren!” Das übersehen alle (Prof. Bläsius)",
-      "link": "https://www.youtube.com/watch?v=tSoQ68EdALA",
-      "video_id": "tSoQ68EdALA",
-      "thumbnail": "https://img.youtube.com/vi/tSoQ68EdALA/mqdefault.jpg",
-      "datum": "2026-08-20T15:15:08+00:00",
-      "datum_de": "20.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "KI-Deepdive mit Christoph Magnussen (August 2026) | LIVE-Aufzeichnung",
-      "link": "https://www.youtube.com/watch?v=8hBXDntBQaQ",
-      "video_id": "8hBXDntBQaQ",
-      "thumbnail": "https://img.youtube.com/vi/8hBXDntBQaQ/mqdefault.jpg",
-      "datum": "2026-08-20T11:17:24+00:00",
-      "datum_de": "20.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Der Coding Agent, der meine Tests verfälschte... 🫠",
-      "link": "https://www.youtube.com/watch?v=sf8j7BhF2h4",
-      "video_id": "sf8j7BhF2h4",
-      "thumbnail": "https://img.youtube.com/vi/sf8j7BhF2h4/mqdefault.jpg",
-      "datum": "2026-08-19T19:25:04+00:00",
-      "datum_de": "19.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "SmartSolution-4u KI & Automation",
-      "titel": "ChatGPT schaltet Werbung: und was KI-Agenten wirklich kosten",
-      "link": "https://www.youtube.com/watch?v=LRyxyGFarB4",
-      "video_id": "LRyxyGFarB4",
-      "thumbnail": "https://img.youtube.com/vi/LRyxyGFarB4/mqdefault.jpg",
-      "datum": "2026-08-19T18:05:46Z",
-      "datum_de": "19.08.2026",
-      "quelle": "suche"
     }
   ]
 }
