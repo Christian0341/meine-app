@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-08-25T07:49:29.634315+00:00",
+  "aktualisiert": "2026-08-26T07:51:12.334252+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "SmartSolution-4u KI & Automation",
+      "titel": "KI-Agent bricht aus, Google automatisiert Vertragsarbeit, Meta greift an",
+      "link": "https://www.youtube.com/watch?v=_VtvlJlNF78",
+      "video_id": "_VtvlJlNF78",
+      "thumbnail": "https://img.youtube.com/vi/_VtvlJlNF78/mqdefault.jpg",
+      "datum": "2026-08-26T03:16:58Z",
+      "datum_de": "26.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Nie wieder Claude-Limits: 12 Tipps für 20x mehr Leistung aus deinem Claude-Plan!",
+      "link": "https://www.youtube.com/watch?v=KZAJeq5n-m8",
+      "video_id": "KZAJeq5n-m8",
+      "thumbnail": "https://img.youtube.com/vi/KZAJeq5n-m8/mqdefault.jpg",
+      "datum": "2026-08-25T15:15:39+00:00",
+      "datum_de": "25.08.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "SmartSolution-4u KI & Automation",
       "titel": "KI-Agent schleust Malware ein, Thomson Reuters baut eigenes Modell, Videos aus PDFs für 6 Dollar",
@@ -93,6 +113,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "WorldofAI",
+      "titel": "HUGE Gemini 4.0 Leaks, DeepSeek V4 Flash Vision + V5 Leaks, Ox Alpha is Minimax? &amp; More! AI NEWS",
+      "link": "https://www.youtube.com/watch?v=pDIve2mdl4k",
+      "video_id": "pDIve2mdl4k",
+      "thumbnail": "https://img.youtube.com/vi/pDIve2mdl4k/mqdefault.jpg",
+      "datum": "2026-08-22T06:15:07Z",
+      "datum_de": "22.08.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Akademie4KI",
       "titel": "Claude kann jetzt Animationen erstellen",
       "link": "https://www.youtube.com/watch?v=hW_UzMupyrw",
@@ -113,44 +143,14 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Learn German with News | LinguaWire",
-      "titel": "Learn German A1 | Slow German News with Subtitles: OpenAI Launches ChatGPT for Teens",
-      "link": "https://www.youtube.com/watch?v=KWL8Ccj6Za4",
-      "video_id": "KWL8Ccj6Za4",
-      "thumbnail": "https://img.youtube.com/vi/KWL8Ccj6Za4/mqdefault.jpg",
-      "datum": "2026-08-21T03:48:54Z",
+      "kanal": "KI Kosmos | Felix",
+      "titel": "Die beste Sprachlernmethode 2026 [ChatGPT + Anki]",
+      "link": "https://www.youtube.com/watch?v=zEbL3dmPTK8",
+      "video_id": "zEbL3dmPTK8",
+      "thumbnail": "https://img.youtube.com/vi/zEbL3dmPTK8/mqdefault.jpg",
+      "datum": "2026-08-21T14:00:15Z",
       "datum_de": "21.08.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Calvin Hollywood (AI)",
-      "titel": "7 versteckte Claude Funktionen (für Anfänger)",
-      "link": "https://www.youtube.com/watch?v=KzZHD50JZJc",
-      "video_id": "KzZHD50JZJc",
-      "thumbnail": "https://img.youtube.com/vi/KzZHD50JZJc/mqdefault.jpg",
-      "datum": "2026-08-20T17:00:34Z",
-      "datum_de": "20.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Digitale Profis",
-      "titel": "Mistral gibt auf! Anthropic hält neues Modell zurück, OpenAI Astra &amp; ChatGPT for Teens| KI News",
-      "link": "https://www.youtube.com/watch?v=9lyg9m8D3q0",
-      "video_id": "9lyg9m8D3q0",
-      "thumbnail": "https://img.youtube.com/vi/9lyg9m8D3q0/mqdefault.jpg",
-      "datum": "2026-08-20T15:47:28Z",
-      "datum_de": "20.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Betting Everything on AI NATIVE: How Box Rewires Itself for the AGENTIC ERA 🤖 ⚒️",
-      "link": "https://www.youtube.com/watch?v=VwysmLUb7E4",
-      "video_id": "VwysmLUb7E4",
-      "thumbnail": "https://img.youtube.com/vi/VwysmLUb7E4/mqdefault.jpg",
-      "datum": "2026-08-20T15:27:57+00:00",
-      "datum_de": "20.08.2026",
-      "quelle": "kanal"
     }
   ]
 }
