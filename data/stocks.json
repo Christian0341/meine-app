@@ -1,24 +1,23 @@
 {
-  "aktualisiert": "2026-08-26T19:31:37.561717+00:00",
+  "aktualisiert": "2026-08-28T01:55:25.642591+00:00",
   "aktien": [
     {
       "wkn": "A1J84E",
       "name": "AbbVie",
       "ticker": "ABBV",
       "currency": "EUR",
-      "price": 224.62,
-      "change_1d_pct": -1.5,
-      "change_1w_pct": -1.57,
-      "change_1m_pct": -0.54,
-      "change_1y_pct": 29.54,
+      "price": 221.49,
+      "change_1d_pct": -1.81,
+      "change_1w_pct": -1.41,
+      "change_1m_pct": -1.96,
+      "change_1y_pct": 28.01,
       "week52_high": 229.49,
       "week52_low": 163.66,
       "div_yield": null,
       "div_rate": 5.94,
-      "market_cap": "462.6B",
-      "pe_ratio": 73.95,
+      "market_cap": "456.2B",
+      "pe_ratio": 72.72,
       "sparkline": [
-        218.2666,
         218.3524,
         217.4,
         219.7338,
@@ -47,39 +46,40 @@
         227.3357,
         226.9582,
         228.0478,
-        224.6115
+        225.5682,
+        221.4927
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 237.31,
       "analyst_count": 29,
       "news": [
         {
-          "titel": "Kann die Eli Lilly Aktie weiter steigen, während die Arzneimittelpreise fallen?",
-          "einordnung": "Dieser Titel hinterfragt die Nachhaltigkeit des Wachstums von Eli Lilly angesichts potenziell sinkender Arzneimittelpreise, was für Aktionäre von Pharmaunternehmen relevant ist.",
-          "url": "https://www.trefis.com/articles/613006/can-eli-lilly-stock-keep-surging-as-drug-prices-fall/2026-08-26",
+          "titel": "Amgen-Aktie signalisiert Vertrauen. Der Markt stimmt zu.",
+          "einordnung": "Dies könnte auf eine positive Marktstimmung für Amgen hindeuten, was indirekt Wettbewerber wie AbbVie beeinflussen könnte.",
+          "url": "https://www.trefis.com/articles/613276/amgen-stock-signals-its-confidence-the-market-agrees/2026-08-27",
           "quelle": "Trefis",
-          "datum": "26.08.2026"
+          "datum": "28.08.2026"
         },
         {
-          "titel": "Milliardär Ken Griffin erhöhte seinen Anteil an diesem Dividendenkönig im 2. Quartal um 547%. Die Wall Street hält ihn immer noch für einen Kauf.",
-          "einordnung": "Die massive Aufstockung durch einen bekannten Investor und die positive Einschätzung der Wall Street könnten auf ein starkes Vertrauen in die zukünftige Performance dieses Dividendenkönigs hindeuten.",
-          "url": "https://www.fool.com/investing/2026/08/26/billionaire-ken-griffin-increased-his-stake-in-thi/",
-          "quelle": "Motley Fool",
-          "datum": "26.08.2026"
+          "titel": "Slate Medicines startet Studie zur Migränebehandlung.",
+          "einordnung": "Neue Wettbewerber oder Behandlungen im Bereich Migräne könnten zukünftige Marktanteile von AbbVie beeinflussen.",
+          "url": "https://finance.yahoo.com/healthcare/articles/slate-medicines-starts-migraine-treatment-214925174.html",
+          "quelle": "Exec Edge",
+          "datum": "27.08.2026"
         },
         {
-          "titel": "Eli Lilly distanziert sich vom Rest des Gesundheitssektors.",
-          "einordnung": "Dieser Titel deutet auf eine überdurchschnittliche Performance von Eli Lilly im Vergleich zu anderen Unternehmen im Gesundheitswesen hin, was für Investoren ein positives Signal sein könnte.",
-          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-pulling-away-rest-193010576.html",
-          "quelle": "GuruFocus.com",
-          "datum": "25.08.2026"
-        },
-        {
-          "titel": "Eli Lilly hat einen neuen Gang eingelegt. Sie haben dafür bezahlt.",
-          "einordnung": "Dieser provokante Titel könnte auf staatliche Subventionen, Forschungsgelder oder hohe Arzneimittelpreise anspielen, die das Wachstum von Eli Lilly antreiben, und ist für Aktionäre relevant, die die Nachhaltigkeit des Geschäftsmodells bewerten.",
-          "url": "https://www.trefis.com/articles/612806/eli-lilly-found-a-new-gear-you-paid-for-it/2026-08-25",
+          "titel": "Erreicht die Merck-Aktie bei dem Sechsfachen des Umsatzes eine Bewertungs-Obergrenze?",
+          "einordnung": "Eine Bewertung von Wettbewerbern wie Merck kann Anhaltspunkte für die Bewertung von AbbVie und die allgemeine Branchenstimmung geben.",
+          "url": "https://www.trefis.com/articles/613355/is-merck-stock-reaching-a-valuation-ceiling-at-6x-sales/2026-08-27",
           "quelle": "Trefis",
-          "datum": "25.08.2026"
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "3 felsenfesten Dividenden, die Sie jeden Monat erhalten.",
+          "einordnung": "Dieser Titel ist generisch und nicht direkt auf AbbVie bezogen, könnte aber für dividendenorientierte Anleger relevant sein.",
+          "url": "https://247wallst.com/investing/2026/08/27/3-dividend-stocks-12-paychecks-a-year-how-to-get-paid-every-month/",
+          "quelle": "24/7 Wall St.",
+          "datum": "27.08.2026"
         }
       ],
       "fehler": null
@@ -89,19 +89,18 @@
       "name": "Ahold Delhaize",
       "ticker": "AD.AS",
       "currency": "EUR",
-      "price": 30.94,
-      "change_1d_pct": -0.8,
-      "change_1w_pct": -1.93,
-      "change_1m_pct": -10.1,
-      "change_1y_pct": -8.2,
+      "price": 30.56,
+      "change_1d_pct": -1.23,
+      "change_1w_pct": null,
+      "change_1m_pct": null,
+      "change_1y_pct": null,
       "week52_high": 42.54,
-      "week52_low": 30.82,
+      "week52_low": 30.34,
       "div_yield": null,
       "div_rate": 1.24,
-      "market_cap": "27.0B",
-      "pe_ratio": 12.33,
+      "market_cap": "26.7B",
+      "pe_ratio": 12.18,
       "sparkline": [
-        35.3807,
         35.755,
         35.4398,
         35.0951,
@@ -130,7 +129,8 @@
         31.04,
         31.38,
         31.19,
-        30.94
+        30.94,
+        null
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 38.58,
@@ -138,28 +138,28 @@
       "news": [
         {
           "titel": "Dividendenanalyse von Koninklijke Ahold Delhaize NV.",
-          "einordnung": "Eine Dividendenanalyse ist für Einkommensinvestoren von Ahold Delhaize entscheidend, um die Attraktivität und Nachhaltigkeit der Dividendenzahlungen zu bewerten.",
+          "einordnung": "Für Aktionäre ist dies eine direkte Information über die Attraktivität der Dividende von Ahold Delhaize.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/koninklijke-ahold-delhaize-nvs-dividend-110416713.html",
           "quelle": "GuruFocus.com",
           "datum": "17.08.2026"
         },
         {
-          "titel": "Koninklijke Ahold Delhaize (ENXTAM:AD) könnte 46% unter dem fairen Wert liegen, da KI-Gewinne landen.",
-          "einordnung": "Dieser Titel suggeriert, dass die Aktie von Ahold Delhaize unterbewertet sein könnte, insbesondere im Hinblick auf potenzielle Effizienzgewinne durch den Einsatz von Künstlicher Intelligenz.",
+          "titel": "Koninklijke Ahold Delhaize (ENXTAM:AD) könnte 46 % unter dem fairen Wert liegen, da KI an Bedeutung gewinnt.",
+          "einordnung": "Dies deutet auf ein erhebliches Aufwärtspotenzial der Aktie hin, möglicherweise durch die Nutzung von KI-Technologien.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/koninklijke-ahold-delhaize-enxtam-ad-043042026.html",
           "quelle": "Simply Wall St.",
           "datum": "14.08.2026"
         },
         {
-          "titel": "Die Ahold Delhaize (ENXTAM:AD) Aktie erscheint günstig auf Basis des Cashflows, aber fair auf Basis der Gewinne.",
-          "einordnung": "Dieser Titel weist auf eine gemischte Bewertung hin, bei der der Cashflow die Aktie als günstig erscheinen lässt, während die Gewinne eine faire Bewertung nahelegen, was für eine differenzierte Analyse wichtig ist.",
+          "titel": "Die Ahold Delhaize (ENXTAM:AD) Aktie erscheint günstig basierend auf dem Cashflow, aber fair basierend auf den Gewinnen.",
+          "einordnung": "Dies bietet eine differenzierte Bewertung der Aktie, die auf unterschiedliche Finanzkennzahlen hinweist.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ahold-delhaize-enxtam-ad-stock-111112927.html",
           "quelle": "Simply Wall St.",
           "datum": "13.08.2026"
         },
         {
-          "titel": "Wie nutzt Ahold Delhaize (ENXTAM:AD) KI, um eine Prognosegenauigkeit von 90% zu erreichen?",
-          "einordnung": "Die erfolgreiche Implementierung von KI zur Verbesserung der Prognosegenauigkeit könnte auf erhebliche operative Effizienzsteigerungen und Wettbewerbsvorteile für Ahold Delhaize hindeuten.",
+          "titel": "Wie nutzt Ahold Delhaize (ENXTAM:AD) KI, um eine Prognosegenauigkeit von 90 % zu erreichen?",
+          "einordnung": "Dies zeigt, wie das Unternehmen durch technologische Innovationen seine Effizienz und Wettbewerbsfähigkeit steigert.",
           "url": "https://finance.yahoo.com/technology/ai/articles/ahold-delhaize-enxtam-ad-using-051331715.html",
           "quelle": "Simply Wall St.",
           "datum": "13.08.2026"
@@ -172,19 +172,18 @@
       "name": "Allianz",
       "ticker": "ALV.DE",
       "currency": "EUR",
-      "price": 451.7,
-      "change_1d_pct": 0.38,
-      "change_1w_pct": 3.13,
-      "change_1m_pct": 4.46,
-      "change_1y_pct": 29.63,
+      "price": 445.2,
+      "change_1d_pct": -1.44,
+      "change_1w_pct": null,
+      "change_1m_pct": null,
+      "change_1y_pct": null,
       "week52_high": 452.9,
       "week52_low": 338.8,
       "div_yield": null,
       "div_rate": 17.1,
       "market_cap": null,
-      "pe_ratio": 14.8,
+      "pe_ratio": 14.6,
       "sparkline": [
-        419.6,
         422.9,
         422.8,
         422.8,
@@ -213,39 +212,40 @@
         440.8,
         445.4,
         450.0,
-        451.7
+        451.7,
+        null
       ],
       "analyst_rating": "Kaufen",
-      "analyst_target": 429.65,
+      "analyst_target": 433.14,
       "analyst_count": 16,
       "news": [
         {
+          "titel": "4. SER-Gipfel zur Erweiterung des einzigen Branchennetzwerks seiner Art.",
+          "einordnung": "Dies ist eine allgemeine Branchennachricht, die auf eine Stärkung von Netzwerken im Sektor hindeutet, was indirekt auch für Allianz von Vorteil sein kann.",
+          "url": "https://www.americanbanker.com/news/4th-ser-summit-to-expand-only-industry-network-of-its-kind",
+          "quelle": "American Banker",
+          "datum": "27.08.2026"
+        },
+        {
           "titel": "Französischer Showdown um den nächsten Haushalt wird Macrons riskantester bisher sein.",
-          "einordnung": "Politische Unsicherheiten und Haushaltsstreitigkeiten in Frankreich können Auswirkungen auf die europäische Wirtschaft und damit indirekt auf Finanzdienstleister wie die Allianz haben.",
+          "einordnung": "Politische Instabilität oder fiskalische Herausforderungen in wichtigen Märkten wie Frankreich können das Geschäftsumfeld für Versicherer wie Allianz beeinflussen.",
           "url": "https://finance.yahoo.com/economy/policy/articles/french-showdown-over-next-budget-040000530.html",
           "quelle": "Bloomberg",
           "datum": "26.08.2026"
         },
         {
-          "titel": "Ist die Allianz (XTRA:ALV) heute günstig oder bereits fair bewertet?",
-          "einordnung": "Diese Frage ist für potenzielle und bestehende Aktionäre der Allianz zentral, um zu beurteilen, ob der aktuelle Aktienkurs eine attraktive Einstiegs- oder Halteposition darstellt.",
+          "titel": "Ist Allianz (XTRA:ALV) günstig oder bereits fair bewertet?",
+          "einordnung": "Dies ist eine direkte Bewertungsfrage für Aktionäre, die über einen Kauf oder Verkauf der Allianz-Aktie nachdenken.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/allianz-xtra-alv-cheap-already-110723681.html",
           "quelle": "Simply Wall St.",
           "datum": "25.08.2026"
         },
         {
-          "titel": "Ist der Rückkauf von Staatsanleihen im Wert von 4 Mrd. $ ein politischer Fehler? Bessents Mentor meint ja, aber einige sagen 'Kämpfe nicht gegen das Finanzministerium'.",
-          "einordnung": "Diskussionen über die Geldpolitik und Staatsanleihenrückkäufe können die Zinsentwicklung und damit die Anlagestrategien von Versicherern wie der Allianz beeinflussen.",
+          "titel": "Ist der 4-Milliarden-Dollar-Rückkauf von Staatsanleihen ein politischer Fehler? Bessents Mentor meint ja, aber einige sagen: „Kämpfe nicht gegen das Finanzministerium.“",
+          "einordnung": "Diese makroökonomische Diskussion über Staatsanleihenrückkäufe kann die Zinsentwicklung und damit die Anlagestrategie von Versicherern wie Allianz beeinflussen.",
           "url": "https://stocktwits.com/news-articles/markets/equity/is-the-4-b-treasury-buyback-a-policy-mistake-bessent-s-mentor-thinks-yes-but-some-say-don-t-fight-the-treasury/cZYkgnMRJ8d",
           "quelle": "Stocktwits",
           "datum": "25.08.2026"
-        },
-        {
-          "titel": "US-Schulden erreichen Rekordwert von 40 Billionen Dollar, während Trump in den Anleihemarkt eingreift.",
-          "einordnung": "Ein steigender US-Schuldenstand und politische Eingriffe in den Anleihemarkt können globale Finanzmärkte und die Anlagestrategien großer institutioneller Investoren wie der Allianz beeinflussen.",
-          "url": "https://uk.finance.yahoo.com/news/trump-intervenes-bond-markets-calm-163804792.html",
-          "quelle": "The Telegraph",
-          "datum": "19.08.2026"
         }
       ],
       "fehler": null
@@ -255,19 +255,18 @@
       "name": "Boeing",
       "ticker": "BA",
       "currency": "EUR",
-      "price": 181.93,
-      "change_1d_pct": 0.45,
-      "change_1w_pct": -4.57,
-      "change_1m_pct": -4.29,
-      "change_1y_pct": -9.7,
+      "price": 180.09,
+      "change_1d_pct": -1.04,
+      "change_1w_pct": -2.42,
+      "change_1m_pct": -1.93,
+      "change_1y_pct": -11.12,
       "week52_high": 218.23,
       "week52_low": 151.67,
       "div_yield": null,
       "div_rate": null,
-      "market_cap": "167.6B",
-      "pe_ratio": 76.0,
+      "market_cap": "165.9B",
+      "pe_ratio": 75.5,
       "sparkline": [
-        183.9037,
         183.6377,
         179.7338,
         175.7184,
@@ -296,39 +295,40 @@
         183.7836,
         180.5747,
         181.1066,
-        181.9346
+        181.9732,
+        180.0856
       ],
       "analyst_rating": "Kaufen",
-      "analyst_target": 235.13,
-      "analyst_count": 25,
+      "analyst_target": 235.82,
+      "analyst_count": 26,
       "news": [
         {
-          "titel": "Auftragseingänge für langlebige Güter im Juli steigen stärker als erwartet dank ziviler Flugzeuge.",
-          "einordnung": "Ein starker Anstieg der Auftragseingänge für zivile Flugzeuge ist ein positives Signal für Boeing und deutet auf eine Erholung oder Stärke in der Luftfahrtindustrie hin.",
-          "url": "https://finance.yahoo.com/economy/articles/july-durable-goods-orders-rise-185045810.html",
-          "quelle": "MT Newswires",
-          "datum": "26.08.2026"
+          "titel": "Boeing vs. Joby Aviation: Welche Flugzeughersteller-Aktie verspricht hochfliegende Gewinne?",
+          "einordnung": "Dies ist ein direkter Vergleich von Boeing mit einem aufstrebenden Wettbewerber im Bereich der Luftfahrt, der für Anleger relevant ist.",
+          "url": "https://www.fool.com/coverage/better-buy/2026/08/27/boeing-vs-joby-aviation-which-airplane-manufacturing-stock-promises-high-flying-profits/",
+          "quelle": "Motley Fool",
+          "datum": "27.08.2026"
         },
         {
-          "titel": "Boeing und RTX gewinnen Aufträge über 766 Mio. $ für die B-52-Modernisierung, Northrop erhält Zuschlag für Tiefenraumradar.",
-          "einordnung": "Der Gewinn bedeutender Verteidigungsaufträge stärkt das Auftragsbuch von Boeing und sichert zukünftige Einnahmen im Militärsegment.",
-          "url": "https://www.investors.com/news/boeing-air-force-b52-program-rtx-766million-northrop-grumman-space-radar-defense-stocks/?src=A00220&yptr=yahoo",
-          "quelle": "Investor's Business Daily",
-          "datum": "26.08.2026"
+          "titel": "Archer Aviation vs. Space Exploration Technologies: Welche dieser hochfliegenden Aktien ist 2026 ein besserer Kauf?",
+          "einordnung": "Obwohl nicht direkt Boeing, betrifft dies den breiteren Luft- und Raumfahrtsektor und zeigt die Konkurrenz im Bereich neuer Flugtechnologien.",
+          "url": "https://www.fool.com/coverage/better-buy/2026/08/27/archer-aviation-vs-space-exploration-technologies-which-high-flying-stock-is-a-better-buy-in-2026/",
+          "quelle": "Motley Fool",
+          "datum": "27.08.2026"
         },
         {
-          "titel": "Disney vs. Boeing: Welcher Turnaround liefert tatsächlich Ergebnisse?",
-          "einordnung": "Dieser Vergleich fordert Aktionäre auf, kritisch zu prüfen, welches der beiden Unternehmen seine versprochene Trendwende effektiver umsetzt und nachhaltige Ergebnisse liefert.",
-          "url": "https://247wallst.com/investing/2026/08/26/disney-vs-boeing-which-turnaround-is-actually-delivering-results/",
+          "titel": "Boeing hat keinen Rivalen bei einem neuen 131-Milliarden-Dollar-F-15-Vertrag. Sollten Anleger die BA-Aktie jagen?",
+          "einordnung": "Ein solch großer, exklusiver Vertrag ist eine sehr positive Nachricht für Boeing und seine Aktionäre.",
+          "url": "https://247wallst.com/investing/2026/08/27/boeing-has-no-rival-on-a-new-131-billion-f-15-contract-should-investors-chase-ba-stock/",
           "quelle": "24/7 Wall St.",
-          "datum": "26.08.2026"
+          "datum": "27.08.2026"
         },
         {
-          "titel": "Ist die GE-Aktie für eine 40%ige Rally oder einen 30%igen Rückgang eingepreist?",
-          "einordnung": "Die Frage nach der extremen Volatilität und den potenziellen Kursbewegungen ist für Aktionäre in der Industrie, zu der auch Boeing gehört, relevant, um Risiken und Chancen abzuwägen.",
-          "url": "https://www.trefis.com/articles/613003/is-ge-stock-priced-for-a-40-rally-or-a-30-drop/2026-08-26",
-          "quelle": "Trefis",
-          "datum": "26.08.2026"
+          "titel": "Archer Aviation (ACHR) L.A. Live Vertiport-Nachrichten rücken seine Bewertungslücke wieder in den Fokus.",
+          "einordnung": "Dies ist eine Nachricht über einen Wettbewerber im Bereich der urbanen Luftmobilität, die die Dynamik des breiteren Luftfahrtmarktes widerspiegelt.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-achr-l-live-162604435.html",
+          "quelle": "Simply Wall St.",
+          "datum": "27.08.2026"
         }
       ],
       "fehler": null
@@ -338,19 +338,18 @@
       "name": "Bristol-Myers Squibb",
       "ticker": "BMY",
       "currency": "EUR",
-      "price": 58.13,
-      "change_1d_pct": -0.25,
-      "change_1w_pct": 0.21,
-      "change_1m_pct": 6.53,
-      "change_1y_pct": 50.4,
+      "price": 57.44,
+      "change_1d_pct": -0.92,
+      "change_1w_pct": 2.26,
+      "change_1m_pct": 6.1,
+      "change_1y_pct": 49.67,
       "week52_high": 58.89,
       "week52_low": 36.48,
       "div_yield": null,
       "div_rate": 2.16,
-      "market_cap": "138.4B",
-      "pe_ratio": 14.92,
+      "market_cap": "136.8B",
+      "pe_ratio": 14.75,
       "sparkline": [
-        51.9176,
         52.1149,
         51.6173,
         52.2779,
@@ -379,39 +378,40 @@
         57.4946,
         57.7262,
         58.2754,
-        58.1295
+        57.9751,
+        57.4431
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 56.81,
       "analyst_count": 24,
       "news": [
         {
-          "titel": "Merck-Aktie erreicht neues 52-Wochen-Hoch: Was treibt die Rally an?",
-          "einordnung": "Der Erfolg eines Konkurrenten wie Merck kann Einblicke in Branchentrends und Faktoren geben, die auch die Performance von Bristol Myers Squibb beeinflussen könnten.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/merck-stock-hits-52-week-134100530.html",
-          "quelle": "Zacks",
-          "datum": "26.08.2026"
+          "titel": "Der Ausstieg von Bristol-Myers Squibb (BMY) bei Cellares wirft Fragen zum Wachstum von Breyanzi auf.",
+          "einordnung": "Dies deutet auf potenzielle Herausforderungen oder Unsicherheiten bezüglich eines wichtigen Medikaments und einer Partnerschaft hin.",
+          "url": "https://finance.yahoo.com/healthcare/articles/bristol-myers-squibb-bmy-cellares-003638822.html",
+          "quelle": "Insider Monkey",
+          "datum": "28.08.2026"
         },
         {
-          "titel": "Was erwartet Bristol Myers Squibb (BMY) nach der ZENBEXUS-Zulassung und Patentklage?",
-          "einordnung": "Die Zulassung eines neuen Medikaments und gleichzeitig laufende Patentstreitigkeiten sind entscheidende Faktoren, die die zukünftige Umsatzentwicklung und Wettbewerbsposition von Bristol Myers Squibb maßgeblich beeinflussen.",
-          "url": "https://finance.yahoo.com/healthcare/articles/does-bristol-myers-squibb-bmy-090848568.html",
-          "quelle": "Simply Wall St.",
-          "datum": "26.08.2026"
-        },
-        {
-          "titel": "Der verborgene Motor, der die Walt Disney Aktie höher treiben könnte.",
-          "einordnung": "Obwohl es um Disney geht, ist die Idee eines 'verborgenen Motors' für Aktionäre relevant, um nach unterbewerteten Treibern in ihren eigenen Portfoliounternehmen zu suchen.",
-          "url": "https://www.trefis.com/articles/612781/the-hidden-engine-that-could-drive-walt-disney-stock-higher/2026-08-25",
+          "titel": "Amgen-Aktie signalisiert Vertrauen. Der Markt stimmt zu.",
+          "einordnung": "Eine positive Entwicklung bei einem großen Wettbewerber wie Amgen kann indirekt die Marktstimmung für die gesamte Pharmabranche, einschließlich Bristol-Myers Squibb, beeinflussen.",
+          "url": "https://www.trefis.com/articles/613276/amgen-stock-signals-its-confidence-the-market-agrees/2026-08-27",
           "quelle": "Trefis",
-          "datum": "25.08.2026"
+          "datum": "28.08.2026"
         },
         {
-          "titel": "3 Dividendenaktien, die man für die nächsten 10 Jahre halten sollte.",
-          "einordnung": "Dieser Titel bietet eine langfristige Perspektive für Dividendeninvestoren und könnte Bristol Myers Squibb als potenziellen Kandidaten für ein stabiles Langzeitinvestment hervorheben.",
-          "url": "https://www.fool.com/investing/2026/08/25/3-dividend-stocks-to-hold-for-the-next-10-years/",
-          "quelle": "Motley Fool",
-          "datum": "25.08.2026"
+          "titel": "Neue FDA-Zulassung verschafft Bristol-Myers Squibb (BMY) einen weiteren potenziellen Wachstumskatalysator in der Onkologie.",
+          "einordnung": "Eine neue FDA-Zulassung ist eine sehr positive Nachricht, die das Umsatzpotenzial und die Marktposition des Unternehmens stärkt.",
+          "url": "https://finance.yahoo.com/healthcare/articles/fda-approval-gives-bristol-myers-001145686.html",
+          "quelle": "Insider Monkey",
+          "datum": "28.08.2026"
+        },
+        {
+          "titel": "Erreicht die Merck-Aktie bei dem Sechsfachen des Umsatzes eine Bewertungs-Obergrenze?",
+          "einordnung": "Die Bewertung eines großen Wettbewerbers wie Merck kann Anhaltspunkte für die Bewertung von Bristol-Myers Squibb und die allgemeine Branchenstimmung geben.",
+          "url": "https://www.trefis.com/articles/613355/is-merck-stock-reaching-a-valuation-ceiling-at-6x-sales/2026-08-27",
+          "quelle": "Trefis",
+          "datum": "27.08.2026"
         }
       ],
       "fehler": null
@@ -421,19 +421,18 @@
       "name": "Brit. American Tobacco",
       "ticker": "BTI",
       "currency": "EUR",
-      "price": 49.32,
-      "change_1d_pct": 1.79,
-      "change_1w_pct": 2.68,
-      "change_1m_pct": -7.74,
-      "change_1y_pct": 6.02,
+      "price": 48.29,
+      "change_1d_pct": -2.02,
+      "change_1w_pct": -0.74,
+      "change_1m_pct": -10.77,
+      "change_1y_pct": 5.88,
       "week52_high": 57.74,
       "week52_low": 42.8,
       "div_yield": null,
       "div_rate": 2.87,
-      "market_cap": "123.8B",
-      "pe_ratio": 14.48,
+      "market_cap": "121.2B",
+      "pe_ratio": 14.21,
       "sparkline": [
-        54.1913,
         53.9167,
         53.6164,
         52.6984,
@@ -462,36 +461,37 @@
         48.2282,
         48.6572,
         48.4513,
-        49.3171
+        49.2835,
+        48.2882
       ],
       "analyst_rating": "none",
       "analyst_target": 60.23,
       "analyst_count": 6,
       "news": [
         {
-          "titel": "Europäische Aktien, die in den USA als American Depositary Receipts gehandelt werden, fallen im Mittwochshandel.",
-          "einordnung": "Dies deutet auf einen breiteren Abwärtstrend bei europäischen ADRs hin, der auch BAT betreffen könnte, und erfordert eine Beobachtung der allgemeinen Marktstimmung.",
+          "titel": "Johnson & Johnsons (JNJ) Medikament Imaavy expandiert in seltene Blutkrankheit: Was Anleger wissen sollten",
+          "einordnung": "Die Erweiterung der Indikation für Imaavy könnte neue Umsatzströme erschließen und das Wachstumspotenzial von JNJ stärken.",
           "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151348794.html",
           "quelle": "MT Newswires",
           "datum": "26.08.2026"
         },
         {
-          "titel": "AIR Globals erstklassige Performance im ersten Halbjahr trotz Störungen, Erholung im zweiten Halbjahr – Quartalsupdate-Bericht.",
-          "einordnung": "Dieser Bericht deutet auf eine starke Leistung in der ersten Jahreshälfte und eine erwartete Erholung im zweiten Halbjahr hin, was positive Implikationen für Unternehmen wie BAT haben könnte.",
+          "titel": "Amgen-Aktie signalisiert Vertrauen. Der Markt stimmt zu.",
+          "einordnung": "Dies deutet auf eine positive Marktstimmung und potenzielle Wertsteigerung für Amgen hin, was für JNJ-Aktionäre indirekt relevant sein könnte, wenn sie auch im Biotech-Sektor diversifiziert sind.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/air-global-best-class-1h-151615792.html",
           "quelle": "Exec Edge",
           "datum": "25.08.2026"
         },
         {
-          "titel": "Lohnt es sich, Altria-Aktien zu halten, da Preisanpassungen den Volumendruck ausgleichen?",
-          "einordnung": "Diese Frage ist entscheidend für Aktionäre, da sie die Fähigkeit des Unternehmens bewertet, sinkende Verkaufszahlen durch höhere Preise zu kompensieren und somit die Profitabilität zu sichern.",
+          "titel": "Kann die ISRG-Aktie ihre Bewertung von 131 Mrd. USD verteidigen?",
+          "einordnung": "Die Frage nach der Bewertung von Intuitive Surgical (ISRG) ist für JNJ-Aktionäre relevant, da beide Unternehmen im Medizintechniksektor konkurrieren oder sich ergänzen könnten.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/altria-stock-worth-holding-pricing-170600945.html",
           "quelle": "Zacks",
           "datum": "21.08.2026"
         },
         {
-          "titel": "Wie Altrias Q2-Ergebnisse und Prognosen den Gewinnpfad bis 2026 prägen.",
-          "einordnung": "Die Analyse der Quartalsergebnisse und des Ausblicks von Altria ist wichtig, um die langfristige Ertragskraft und die strategische Ausrichtung des Unternehmens zu verstehen.",
+          "titel": "Neue FDA-Zulassung verschafft Bristol-Myers Squibb (BMY) einen weiteren potenziellen Wachstumskatalysator in der Onkologie.",
+          "einordnung": "Eine neue Zulassung für einen Konkurrenten wie BMY zeigt die Dynamik im Pharmasektor und könnte den Wettbewerbsdruck für JNJ im Onkologiebereich erhöhen.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/altrias-q2-results-guidance-shape-165800376.html",
           "quelle": "Zacks",
           "datum": "21.08.2026"
@@ -504,19 +504,18 @@
       "name": "Cisco Systems",
       "ticker": "CSCO",
       "currency": "EUR",
-      "price": 96.82,
-      "change_1d_pct": 1.56,
-      "change_1w_pct": 2.07,
-      "change_1m_pct": -2.37,
-      "change_1y_pct": 68.41,
+      "price": 96.22,
+      "change_1d_pct": -0.19,
+      "change_1w_pct": 2.34,
+      "change_1m_pct": -0.29,
+      "change_1y_pct": 64.87,
       "week52_high": 111.86,
       "week52_low": 56.74,
       "div_yield": null,
       "div_rate": 1.44,
-      "market_cap": "444.8B",
-      "pe_ratio": 33.89,
+      "market_cap": "442.0B",
+      "pe_ratio": 33.68,
       "sparkline": [
-        94.0883,
         96.0445,
         94.9806,
         96.2504,
@@ -545,39 +544,40 @@
         95.2723,
         94.5773,
         95.3324,
-        96.8167
+        96.4049,
+        96.2247
       ],
       "analyst_rating": "Kaufen",
-      "analyst_target": 116.92,
-      "analyst_count": 22,
+      "analyst_target": 118.18,
+      "analyst_count": 23,
       "news": [
         {
-          "titel": "Die nächste Phase des Tech-Handels umfasst Software- und Cybersicherheitsunternehmen.",
-          "einordnung": "Dies signalisiert eine Verschiebung des Fokus im Technologiesektor, was für Cisco, das stark in diesen Bereichen engagiert ist, positive Wachstumschancen bedeuten könnte.",
-          "url": "https://finance.yahoo.com/video/tech-trades-next-phase-includes-213000067.html",
-          "quelle": "Yahoo Finance Video",
-          "datum": "25.08.2026"
-        },
-        {
-          "titel": "Palo Alto-Aktie reitet auf einer Welle der KI-Angst, aber was kommt als Nächstes?",
-          "einordnung": "Obwohl es um einen Konkurrenten geht, zeigt dies die aktuelle Marktdynamik im Cybersicherheitssektor, die auch Ciscos Bewertung und Strategie beeinflussen könnte.",
-          "url": "https://www.trefis.com/articles/612949/palo-alto-stock-is-riding-a-wave-of-ai-fear-but-what-happens-next/2026-08-26",
-          "quelle": "Trefis",
-          "datum": "26.08.2026"
-        },
-        {
-          "titel": "Super Micro legte nach einer Art Gütesiegel zu, nicht aufgrund der Nachfrage.",
-          "einordnung": "Dieser Titel beleuchtet, wie externe Validierungen oder Partnerschaften die Aktienkurse im Tech-Sektor beeinflussen können, was auch für Cisco relevant sein könnte.",
-          "url": "https://www.trefis.com/articles/613014/super-micro-rallied-on-a-stamp-of-approval-not-on-demand/2026-08-26",
-          "quelle": "Trefis",
-          "datum": "26.08.2026"
-        },
-        {
-          "titel": "Cisco hat gerade seine größte Hardware-Regel gebrochen, um den KI-Boom zu verfolgen.",
-          "einordnung": "Dies deutet auf eine signifikante strategische Neuausrichtung von Cisco hin, um vom KI-Wachstum zu profitieren, was langfristige Auswirkungen auf das Geschäftsmodell und die Erträge haben könnte.",
-          "url": "https://www.thestreet.com/technology/cisco-supermicro-ai-infrastructure-stock-analysis",
+          "titel": "Alibaba verkauft Gaming-Sparte für 1,5 Milliarden Dollar zur Stärkung der KI-Strategie.",
+          "einordnung": "Der Verkauf von Alibabas Gaming-Sparte könnte den Wettbewerb im Gaming-Sektor verändern und neue Investitionsmöglichkeiten für Unternehmen wie Koei Tecmo schaffen.",
+          "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-keeps-cisco-at-135-on-tsmc-supply-edge",
           "quelle": "TheStreet",
-          "datum": "26.08.2026"
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Koei Tecmo (TSE:3635): Bewertung nach neuem Verkauf eigener Aktien und Details zur Kapitalerhöhung.",
+          "einordnung": "Der Verkauf eigener Aktien und eine Kapitalerhöhung können die Aktienstruktur und die Bewertung von Koei Tecmo beeinflussen, was für bestehende und potenzielle Aktionäre wichtig ist.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-chips-making-liquid-213103744.html",
+          "quelle": "Benzinga",
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Waymo bringt Robotaxis in das Land, das das Auto erfunden hat.",
+          "einordnung": "Die Einführung von Robotaxis in Deutschland durch Waymo unterstreicht den Fortschritt im autonomen Fahren und könnte den Wettbewerb für traditionelle Autohersteller wie Mercedes-Benz verschärfen.",
+          "url": "https://www.fool.com/investing/2026/08/27/dan-ives-says-the-ai-trade-is-only-in-the-third-in/",
+          "quelle": "Motley Fool",
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Chef einer Schattenbank, dem Betrug in Höhe von 1,3 Mrd. Pfund vorgeworfen wird, war zuvor bankrott.",
+          "einordnung": "Dieser Vorfall betrifft den Finanzsektor und hat keine direkte Auswirkung auf Mercedes-Benz, könnte aber das allgemeine Investitionsklima beeinflussen.",
+          "url": "https://www.trefis.com/articles/613288/dells-multiple-falls-on-servers-it-cannot-build-fast-enough/2026-08-27",
+          "quelle": "Trefis",
+          "datum": "27.08.2026"
         }
       ],
       "fehler": null
@@ -587,19 +587,18 @@
       "name": "CME Group",
       "ticker": "CME",
       "currency": "EUR",
-      "price": 240.98,
-      "change_1d_pct": 1.28,
-      "change_1w_pct": 5.21,
-      "change_1m_pct": 8.02,
-      "change_1y_pct": 7.43,
+      "price": 241.05,
+      "change_1d_pct": -0.01,
+      "change_1w_pct": 3.72,
+      "change_1m_pct": 5.84,
+      "change_1y_pct": 9.41,
       "week52_high": 282.42,
       "week52_low": 187.31,
       "div_yield": null,
       "div_rate": 4.46,
       "market_cap": "101.0B",
-      "pe_ratio": 23.82,
+      "pe_ratio": 23.81,
       "sparkline": [
-        211.2997,
         210.2529,
         210.3044,
         203.672,
@@ -628,39 +627,40 @@
         235.9328,
         239.5279,
         237.9406,
-        240.9736
+        241.0808,
+        241.0465
       ],
       "analyst_rating": "Halten",
       "analyst_target": 242.87,
       "analyst_count": 15,
       "news": [
         {
-          "titel": "Was könnte die CME Group (CME) von ihren neuen US-Zink-Futures gewinnen?",
-          "einordnung": "Die Einführung neuer Finanzprodukte wie Zink-Futures kann für die CME Group neue Einnahmequellen erschließen und die Marktposition stärken.",
+          "titel": "Lego verwandelt Trends in eine 13-Milliarden-Dollar-Maschine.",
+          "einordnung": "Dieser Titel hat keine direkte Relevanz für Mercedes-Benz-Aktionäre, da er ein völlig anderes Geschäftsfeld betrifft.",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61471630/kalshi-teams-with-the-weather-company-expects-1-1b-weather-trading-volume-in-2026?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+          "quelle": "Benzinga Prediction Markets",
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Ferrari-Aktie setzt sich vom Feld ab. Warum sie um 15 % steigen könnte.",
+          "einordnung": "Der Erfolg von Ferrari könnte auf eine starke Nachfrage im Luxussegment hindeuten, was auch für Mercedes-Benz im Premium- und Luxussegment positive Implikationen haben könnte.",
+          "url": "https://stocktwits.com/news-articles/business/others/stocktwits-expands-cme-group-alliance-with-the-integration-of-single-stock-futures-data/cZY86PbRJp6",
+          "quelle": "Stocktwits",
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Prognose: Diese Hochdividendenaktie wird Realty Income in den nächsten 5 Jahren übertreffen.",
+          "einordnung": "Diese Prognose deutet auf einen potenziellen Wettbewerber für Realty Income hin und erfordert eine genaue Prüfung der eigenen Anlagestrategie.",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/precious-metals-set-rebound-060000001.html",
+          "quelle": "CME Group",
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Das Dividendenwachstum von Realty Income bleibt dauerhaft: Sollten Sie kaufen oder halten?",
+          "einordnung": "Die Beständigkeit des Dividendenwachstums ist ein positives Signal für Aktionäre, die auf regelmäßige Erträge setzen, und unterstützt die Attraktivität der Aktie.",
           "url": "https://finance.yahoo.com/markets/commodities/articles/could-cme-group-cme-gain-171048307.html",
           "quelle": "Simply Wall St.",
           "datum": "26.08.2026"
-        },
-        {
-          "titel": "Was Alphabets (GOOGL) Gemini-Enterprise-Vorstoß in regulierte Branchen für Aktionäre bedeutet.",
-          "einordnung": "Obwohl es um Alphabet geht, zeigt dies den Trend zur Digitalisierung und KI-Integration in regulierten Sektoren, was für die CME Group als Anbieter von Finanzmarktinfrastruktur relevant sein könnte.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-gemini-enterprise-push-161847634.html",
-          "quelle": "Simply Wall St.",
-          "datum": "26.08.2026"
-        },
-        {
-          "titel": "PCE-Inflationsdaten setzen hohe Messlatte für Warshs Jackson Hole Rede.",
-          "einordnung": "Makroökonomische Daten wie die PCE-Inflation und wichtige Reden von Zentralbankern beeinflussen die Zinspolitik und somit die Handelsvolumina und die Volatilität an den Märkten, was sich direkt auf die CME Group auswirkt.",
-          "url": "https://www.investors.com/news/pce-inflation-july-federal-reserve-warsh-jackson-hole/?src=A00220&yptr=yahoo",
-          "quelle": "Investor's Business Daily",
-          "datum": "26.08.2026"
-        },
-        {
-          "titel": "Sektor-Update: Finanzaktien legen am späten Nachmittag leicht zu.",
-          "einordnung": "Eine positive Entwicklung im Finanzsektor ist generell vorteilhaft für die CME Group, da sie von einer gesunden und aktiven Finanzbranche profitiert.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-edge-higher-200348530.html",
-          "quelle": "MT Newswires",
-          "datum": "25.08.2026"
         }
       ],
       "fehler": null
@@ -670,19 +670,18 @@
       "name": "CTS Eventim",
       "ticker": "EVD.DE",
       "currency": "EUR",
-      "price": 59.25,
-      "change_1d_pct": -0.25,
-      "change_1w_pct": 2.16,
-      "change_1m_pct": -3.97,
-      "change_1y_pct": -24.92,
+      "price": 60.3,
+      "change_1d_pct": 1.77,
+      "change_1w_pct": null,
+      "change_1m_pct": null,
+      "change_1y_pct": null,
       "week52_high": 89.65,
       "week52_low": 48.68,
       "div_yield": null,
       "div_rate": 1.44,
-      "market_cap": "5.7B",
-      "pe_ratio": 18.46,
+      "market_cap": "5.8B",
+      "pe_ratio": 18.79,
       "sparkline": [
-        56.75,
         57.05,
         57.9,
         57.85,
@@ -711,38 +710,39 @@
         59.65,
         60.8,
         59.4,
-        59.25
+        59.25,
+        null
       ],
       "analyst_rating": "Starker Kauf",
-      "analyst_target": 88.29,
+      "analyst_target": 88.21,
       "analyst_count": 12,
       "news": [
         {
-          "titel": "CTS Eventim AG & Co. KGaA (CEVMF) (Q2 2026) Earnings Call Highlights: Rekordumsatz im ersten Halbjahr und ...",
-          "einordnung": "Die Hervorhebung von Rekordumsätzen im ersten Halbjahr ist ein starkes positives Signal für Aktionäre und deutet auf eine ausgezeichnete Geschäftsentwicklung hin.",
+          "titel": "Sie brauchen kein 2-Millionen-Dollar-Portfolio, um monatlich 5.900 Dollar an Dividenden zu kassieren.",
+          "einordnung": "Dieser Titel hebt die Attraktivität von Dividendenaktien wie Realty Income hervor, die auch mit kleineren Portfolios signifikante passive Einkommen ermöglichen können.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/cts-eventim-ag-co-kgaa-010302623.html",
           "quelle": "GuruFocus.com",
           "datum": "22.08.2026"
         },
         {
-          "titel": "CTS Eventim AG & Co. KGaA Q2 Earnings Call Highlights.",
-          "einordnung": "Die Zusammenfassung der Quartalsergebnisse ist entscheidend, um die aktuelle finanzielle Gesundheit und die zukünftigen Aussichten des Unternehmens zu bewerten.",
+          "titel": "Ein 865.000-Dollar-Portfolio, das Ihnen monatlich 4.100 Dollar zahlt, ohne das Kapital anzutasten.",
+          "einordnung": "Dies illustriert das Potenzial von Dividendenstrategien, bei denen Realty Income eine Schlüsselrolle spielen könnte, um ein passives Einkommen zu generieren.",
           "url": "https://www.marketbeat.com/instant-alerts/cts-eventim-ag-co-kgaa-q2-earnings-call-highlights-2026-08-20/?utm_source=yahoofinance&utm_medium=yahoofinance",
           "quelle": "MarketBeat",
           "datum": "20.08.2026"
         },
         {
-          "titel": "Umsatz übertroffen: CTS Eventim AG & Co. KGaA übertraf Analystenschätzungen um 14%.",
-          "einordnung": "Das deutliche Übertreffen der Analystenschätzungen beim Umsatz ist ein sehr positives Zeichen für die operative Stärke und das Wachstum des Unternehmens.",
+          "titel": "Fortescue suspendiert Führungskraft wegen Vorwürfen sexueller Belästigung.",
+          "einordnung": "Obwohl es Fortescue betrifft, sind solche Vorfälle in der Bergbauindustrie ein branchenweites Thema, das auch die Reputation und Governance von Rio Tinto beeinflussen kann.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/revenue-beat-cts-eventim-ag-070015855.html",
           "quelle": "Simply Wall St.",
           "datum": "31.05.2026"
         },
         {
-          "titel": "CTS Eventim-Aktien springen nach US-Tourneen und Winterolympiade treiben Gewinne an.",
-          "einordnung": "Dies zeigt, dass Großveranstaltungen und internationale Expansion wesentliche Treiber für das Wachstum und die Profitabilität von CTS Eventim sind.",
-          "url": "https://www.wsj.com/business/cts-eventim-shares-jump-after-u-s-tours-winter-olympics-drive-earnings-5e4e932e?siteid=yhoof2&yptr=yahoo",
-          "quelle": "The Wall Street Journal",
+          "titel": "Morgan Stanley beginnt die Abdeckung der Rio Tinto ADRs mit \"Underweight\" und sieht 14 % Abwärtspotenzial.",
+          "einordnung": "Eine \"Underweight\"-Einstufung mit deutlichem Abwärtspotenzial durch eine große Bank ist ein Warnsignal für Rio Tinto-Aktionäre und erfordert eine Neubewertung der Position.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cts-eventim-ag-co-kgaa-010021245.html",
+          "quelle": "GuruFocus.com",
           "datum": "29.05.2026"
         }
       ],
@@ -753,19 +753,18 @@
       "name": "Fastenal",
       "ticker": "FAST",
       "currency": "EUR",
-      "price": 43.95,
-      "change_1d_pct": 1.81,
-      "change_1w_pct": -0.43,
-      "change_1m_pct": 6.49,
-      "change_1y_pct": 4.75,
+      "price": 43.87,
+      "change_1d_pct": -0.04,
+      "change_1w_pct": 0.94,
+      "change_1m_pct": 7.02,
+      "change_1y_pct": 4.12,
       "week52_high": 45.41,
       "week52_low": 33.44,
       "div_yield": null,
       "div_rate": 0.82,
-      "market_cap": "58.8B",
-      "pe_ratio": 43.78,
+      "market_cap": "58.7B",
+      "pe_ratio": 43.71,
       "sparkline": [
-        39.8243,
         38.8174,
         38.1945,
         38.4078,
@@ -794,39 +793,40 @@
         43.9811,
         43.9982,
         43.166,
-        43.9468
+        43.8867,
+        43.8738
       ],
       "analyst_rating": "Halten",
       "analyst_target": 41.64,
       "analyst_count": 13,
       "news": [
         {
-          "titel": "Kann Fastenals 44,6% FMI-Umsatzanteil mehr operativen Hebel freisetzen?",
-          "einordnung": "Diese Frage untersucht, ob der hohe Anteil des FMI-Geschäfts (Fastenal Managed Inventory) zu einer effizienteren Kostenstruktur und höheren Gewinnmargen führen kann.",
+          "titel": "Könnte Kanada die USA vollständig mit Aluminium versorgen?",
+          "einordnung": "Diese Frage zur Aluminiumversorgung ist für Rio Tinto relevant, da das Unternehmen ein großer Aluminiumproduzent ist und mögliche Verschiebungen in den Lieferketten die Marktposition beeinflussen könnten.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-high-flying-stocks-watchlist-163307429.html",
+          "quelle": "StockStory",
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Diese Kupferminen erreichen Top-Kaufpunkte inmitten von Angebots- und Nachfrageengpässen.",
+          "einordnung": "Da Rio Tinto auch ein bedeutender Kupferproduzent ist, deuten Engpässe auf dem Kupfermarkt auf potenzielle Preissteigerungen und höhere Gewinne für das Unternehmen hin.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fastenals-17-construction-growth-hold-151200247.html",
+          "quelle": "Zacks",
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Shells CEO warnte vor weiter steigenden Ölpreisen. Hormus-Gespräche stellen diese Aussage auf die Probe. Das bedeutet es für die SHEL-Aktie.",
+          "einordnung": "Die Entwicklung der Ölpreise und die geopolitische Lage in der Straße von Hormus sind entscheidend für die Profitabilität von Shell und die Performance der Aktie.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/fastenals-44-6-fmi-sales-161600052.html",
           "quelle": "Zacks",
           "datum": "21.08.2026"
         },
         {
-          "titel": "Fastenal (FAST) legt nach Update zum zweiten Quartal zu, ist die Aktie jetzt teuer?",
-          "einordnung": "Die Kursrallye nach den Quartalszahlen ist positiv, aber Aktionäre sollten prüfen, ob die aktuelle Bewertung noch ein attraktives Einstiegs- oder Halteniveau bietet.",
+          "titel": "Shell rutscht ab, da die Hoffnung auf Hormus die Kriegsrisikoprämie für Öl entfernt.",
+          "einordnung": "Eine Entspannung in der Straße von Hormus könnte zu sinkenden Ölpreisen führen, was kurzfristig den Gewinn von Shell belasten und den Aktienkurs drücken könnte.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/fastenal-fast-rallies-second-quarter-043606931.html",
           "quelle": "Simply Wall St.",
           "datum": "19.08.2026"
-        },
-        {
-          "titel": "Übertrifft Fastenal (FAST) dieses Jahr andere Aktien für Industrieprodukte?",
-          "einordnung": "Eine Outperformance gegenüber Wettbewerbern im Sektor ist ein starkes Indiz für die Wettbewerbsfähigkeit und die operative Stärke von Fastenal.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fastenal-fast-outperforming-other-industrial-134003080.html",
-          "quelle": "Zacks",
-          "datum": "18.08.2026"
-        },
-        {
-          "titel": "Fastenal (FAST) Aktie erscheint trotz 108% Anstieg in 5 Jahren voll bewertet.",
-          "einordnung": "Trotz der beeindruckenden Wertentwicklung in der Vergangenheit deutet die Einschätzung einer vollen Bewertung darauf hin, dass das zukünftige Aufwärtspotenzial begrenzt sein könnte.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fastenal-fast-stock-looks-fully-050840479.html",
-          "quelle": "Simply Wall St.",
-          "datum": "18.08.2026"
         }
       ],
       "fehler": null
@@ -836,19 +836,18 @@
       "name": "Johnson & Johnson",
       "ticker": "JNJ",
       "currency": "EUR",
-      "price": 231.88,
-      "change_1d_pct": -1.05,
-      "change_1w_pct": -0.66,
-      "change_1m_pct": 1.83,
-      "change_1y_pct": 56.58,
+      "price": 228.03,
+      "change_1d_pct": -1.57,
+      "change_1w_pct": -0.11,
+      "change_1m_pct": 0.58,
+      "change_1y_pct": 54.89,
       "week52_high": 237.21,
       "week52_low": 148.72,
       "div_yield": null,
       "div_rate": 4.6,
-      "market_cap": "651.3B",
-      "pe_ratio": 31.32,
+      "market_cap": "640.5B",
+      "pe_ratio": 30.87,
       "sparkline": [
-        213.4217,
         216.0428,
         212.4398,
         213.9681,
@@ -877,39 +876,40 @@
         230.728,
         233.1186,
         234.3541,
-        231.8874
+        231.66,
+        228.0307
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 233.81,
       "analyst_count": 22,
       "news": [
         {
-          "titel": "J&Js erste Anämie-Zulassung trifft auf eine 652-Milliarden-Dollar-Realität",
-          "einordnung": "Aktionäre sollten prüfen, ob die Marktgröße von 652 Milliarden Dollar das Potenzial des neuen Medikaments für J&J widerspiegelt und wie es sich auf zukünftige Einnahmen auswirken könnte.",
-          "url": "https://finance.yahoo.com/healthcare/articles/j-js-first-anemia-approval-185402251.html",
-          "quelle": "GuruFocus.com",
-          "datum": "26.08.2026"
+          "titel": "Apollo Global Management (APO): Warum erhält es jetzt neue Aufmerksamkeit?",
+          "einordnung": "Für Shell-Aktionäre ist dies relevant, da Apollo als potenzieller Käufer für Teile des Chemiegeschäfts von Shell gehandelt wird.",
+          "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-imaavy-expands-003350675.html",
+          "quelle": "Insider Monkey",
+          "datum": "28.08.2026"
         },
         {
-          "titel": "Dividenden vs. Annuität: Was verwandelt 840.000 Dollar in mehr monatliches Lebenseinkommen?",
-          "einordnung": "Dieser Artikel ist relevant für Aktionäre, die über die Optimierung ihres passiven Einkommens nachdenken und die Vor- und Nachteile von Dividendenanlagen gegenüber Rentenversicherungen abwägen.",
-          "url": "https://247wallst.com/personal-finance/2026/08/26/dividends-vs-an-annuity-which-turns-840000-into-more-monthly-income-for-life/",
-          "quelle": "24/7 Wall St.",
-          "datum": "26.08.2026"
-        },
-        {
-          "titel": "Kann die Eli Lilly Aktie weiter steigen, während die Arzneimittelpreise fallen?",
-          "einordnung": "Obwohl der Titel Eli Lilly nennt, ist die Frage nach fallenden Arzneimittelpreisen auch für J&J-Aktionäre relevant, da sie die gesamte Pharmabranche und somit auch J&Js zukünftige Profitabilität beeinflussen könnte.",
-          "url": "https://www.trefis.com/articles/613006/can-eli-lilly-stock-keep-surging-as-drug-prices-fall/2026-08-26",
+          "titel": "Shell (LSE:SHEL) könnte um 5 % unterbewertet sein, da das Interesse am Verkauf des Chemiegeschäfts steigt.",
+          "einordnung": "Dies deutet auf ein potenzielles Kurspotenzial für Shell-Aktionäre hin, falls der Verkauf des Chemiegeschäfts erfolgreich ist und die Bewertung korrigiert wird.",
+          "url": "https://www.trefis.com/articles/613276/amgen-stock-signals-its-confidence-the-market-agrees/2026-08-27",
           "quelle": "Trefis",
-          "datum": "26.08.2026"
+          "datum": "28.08.2026"
         },
         {
-          "titel": "Wie viel müssen Sie bis 55 investiert haben, um mit 65 von Dividenden leben zu können?",
-          "einordnung": "Dieser Titel bietet J&J-Aktionären, die auf Dividendenerträge setzen, eine Orientierungshilfe für ihre langfristige Finanzplanung und das Erreichen ihrer Ruhestandsziele.",
-          "url": "https://247wallst.com/personal-finance/2026/08/26/how-much-do-you-need-invested-by-55-to-retire-on-dividends-at-65/",
-          "quelle": "24/7 Wall St.",
-          "datum": "26.08.2026"
+          "titel": "Kaufen Sie Sixt SE (ETR:SIX2) nicht überstürzt, nur weil die Aktie ex-Dividende gehandelt wird.",
+          "einordnung": "Aktionäre sollten die Aktie nicht allein wegen der bevorstehenden Dividendenzahlung kaufen, da der Kurs typischerweise um den Dividendenbetrag fällt.",
+          "url": "https://www.trefis.com/articles/613275/can-isrg-stock-defend-its-131b-valuation/2026-08-27",
+          "quelle": "Trefis",
+          "datum": "28.08.2026"
+        },
+        {
+          "titel": "Ecos (India) Mobility & Hospitality Ltd (NSE:ECOSMOBLTY) Q4 2026 Earnings Call Highlights: ...",
+          "einordnung": "Dieser Titel ist für Sixt-Aktionäre irrelevant, da er sich auf ein anderes Unternehmen in Indien bezieht.",
+          "url": "https://finance.yahoo.com/healthcare/articles/fda-approval-gives-bristol-myers-001145686.html",
+          "quelle": "Insider Monkey",
+          "datum": "28.08.2026"
         }
       ],
       "fehler": null
@@ -920,62 +920,62 @@
       "ticker": "3635.T",
       "currency": "EUR",
       "price": 9.22,
-      "change_1d_pct": 0.44,
-      "change_1w_pct": null,
-      "change_1m_pct": null,
-      "change_1y_pct": null,
+      "change_1d_pct": 1.39,
+      "change_1w_pct": 2.39,
+      "change_1m_pct": 3.82,
+      "change_1y_pct": -9.57,
       "week52_high": 11.71,
       "week52_low": 7.63,
       "div_yield": null,
       "div_rate": 0.26,
-      "market_cap": "572.5B",
-      "pe_ratio": 13.01,
+      "market_cap": "572.2B",
+      "pe_ratio": 13.0,
       "sparkline": [
-        8.523,
-        8.3561,
-        8.3077,
-        8.4746,
-        8.2727,
-        8.1892,
-        8.0492,
-        8.0923,
-        8.593,
-        8.2377,
-        8.8784,
-        8.9968,
-        8.6657,
-        8.48,
-        8.375,
-        8.2969,
-        8.523,
-        8.7222,
-        8.8622,
-        8.9161,
-        8.8245,
-        8.9699,
-        8.9376,
-        8.9645,
-        8.9349,
-        9.1368,
-        9.0022,
-        9.1395,
-        9.1826,
-        null
+        8.3057,
+        8.4725,
+        8.2707,
+        8.1872,
+        8.0473,
+        8.0903,
+        8.5909,
+        8.2357,
+        8.8762,
+        8.9947,
+        8.6636,
+        8.4779,
+        8.3729,
+        8.2949,
+        8.521,
+        8.7201,
+        8.8601,
+        8.9139,
+        8.8224,
+        8.9677,
+        8.9354,
+        8.9624,
+        8.9328,
+        9.1346,
+        9.0,
+        9.1373,
+        9.1804,
+        9.2207,
+        9.0889,
+        9.2154
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 10.22,
       "analyst_count": 9,
       "news": [
         {
-          "titel": "Alibaba verkauft Gaming-Sparte für 1,5 Milliarden Dollar zur Stärkung der KI-Strategie",
-          "einordnung": "Für Koei Tecmo-Aktionäre ist dies ein Hinweis auf die Konsolidierung im Gaming-Sektor und Alibabas strategische Neuausrichtung, was indirekt den Wettbewerb oder potenzielle Partnerschaften beeinflussen könnte.",
+          "titel": "Sixt SE (ETR:SIX2) hat gerade die Ergebnisse des ersten Quartals veröffentlicht: Haben Analysten ihre Meinung zur Aktie geändert?",
+          "einordnung": "Aktionäre sollten prüfen, wie die jüngsten Quartalsergebnisse die Analystenmeinungen und damit die zukünftige Kursentwicklung beeinflussen könnten.",
           "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-sell-gaming-arm-1-010119129.html",
           "quelle": "Bloomberg",
           "datum": "17.08.2026"
         },
         {
-          "titel": "Koei Tecmo (TSE:3635): Bewertung nach neuem Verkauf eigener Aktien und Details zur Kapitalerhöhung",
-          "einordnung": "Aktionäre sollten die Auswirkungen des Verkaufs eigener Aktien und der Kapitalerhöhung auf die Unternehmensbewertung und den Aktienkurs von Koei Tecmo genau prüfen.",
+          "titel": "Eine Betrachtung der Sixt (XTRA:SIX2) Bewertung nach der jüngsten Kursvolatilität.",
+          "einordnung": "Aktionäre sollten die aktuelle Bewertung von Sixt im Kontext der jüngsten Kursschwankungen analysieren, um fundierte Entscheidungen zu treffen.",
           "url": "https://finance.yahoo.com/news/koei-tecmo-tse-3635-assessing-112338756.html",
           "quelle": "Simply Wall St.",
           "datum": "15.09.2025"
@@ -988,19 +988,18 @@
       "name": "Mercedes-Benz",
       "ticker": "MBG.DE",
       "currency": "EUR",
-      "price": 44.64,
-      "change_1d_pct": -0.62,
-      "change_1w_pct": -0.86,
-      "change_1m_pct": -4.25,
-      "change_1y_pct": -11.56,
+      "price": 45.59,
+      "change_1d_pct": 2.13,
+      "change_1w_pct": null,
+      "change_1m_pct": null,
+      "change_1y_pct": null,
       "week52_high": 62.34,
       "week52_low": 42.62,
       "div_yield": null,
       "div_rate": 3.5,
-      "market_cap": "42.7B",
-      "pe_ratio": 8.45,
+      "market_cap": "43.6B",
+      "pe_ratio": 8.64,
       "sparkline": [
-        45.86,
         45.51,
         45.135,
         44.905,
@@ -1029,39 +1028,40 @@
         45.215,
         45.05,
         44.92,
-        44.64
+        44.64,
+        null
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 57.15,
       "analyst_count": 22,
       "news": [
         {
-          "titel": "Chef einer Schattenbank, der des 1,3-Milliarden-Pfund-Betrugs beschuldigt wird, war bankrott",
-          "einordnung": "Dieser Titel ist für Mercedes-Benz-Aktionäre nur indirekt relevant, da er auf allgemeine Risiken im Finanzsystem hinweist, die die breitere Wirtschaft und somit auch die Automobilbranche beeinflussen könnten.",
+          "titel": "Warum Texas Instruments (TXN) heute den Aktienmarkt übertraf.",
+          "einordnung": "Für Aktionäre ist es wichtig zu verstehen, welche spezifischen Faktoren die überdurchschnittliche Performance von Texas Instruments an diesem Tag getrieben haben.",
+          "url": "https://www.thestreet.com/automotive/waymo-is-bringing-robotaxis-to-the-country-that-invented-cars",
+          "quelle": "TheStreet",
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Die Aktie von Texas Instruments (TXN) könnte aufgrund ihrer Erträge und ihres Cashflows einen Aufschlag erzielen.",
+          "einordnung": "Dies deutet darauf hin, dass Texas Instruments aufgrund starker Fundamentaldaten eine höhere Bewertung als der Markt rechtfertigen könnte, was positiv für Aktionäre ist.",
           "url": "https://uk.finance.yahoo.com/news/shadow-bank-boss-accused-1-153122256.html",
           "quelle": "The Telegraph",
           "datum": "26.08.2026"
         },
         {
-          "titel": "Lego verwandelt Trends in eine 13-Milliarden-Dollar-Maschine",
-          "einordnung": "Dieser Titel ist für Mercedes-Benz-Aktionäre nur peripher interessant, da er den Erfolg eines anderen Premium-Markenherstellers beleuchtet, was Einblicke in Markenführung und Marktwert schaffen kann.",
+          "titel": "Broadcom wirkt teuer, bis man das Auftragsbuch bewertet.",
+          "einordnung": "Dieser Titel ist für Texas Instruments-Aktionäre nur indirekt relevant, da er einen Wettbewerber im Halbleitersektor beleuchtet, dessen Bewertungsmethoden auch auf TXN anwendbar sein könnten.",
           "url": "https://app.moby.co/home/news/news-lego-is-turning-fads-into-a-13-billion-machine?utm_source=yahoo_finance&utm_medium=rss",
           "quelle": "Moby",
           "datum": "25.08.2026"
         },
         {
-          "titel": "Die Ferrari-Aktie setzt sich vom Feld ab. Warum sie um 15% steigen könnte.",
-          "einordnung": "Für Mercedes-Benz-Aktionäre ist dies relevant, da es die Performance eines direkten Wettbewerbers im Premium- und Luxussegment beleuchtet und Einblicke in Markttrends und Anlegerstimmung geben kann.",
+          "titel": "Qualcomms Kosten liegen innerhalb der Prognose, aber sein Ersatzwachstum nicht.",
+          "einordnung": "Dieser Titel ist für Texas Instruments-Aktionäre nur indirekt relevant, da er Einblicke in die Herausforderungen eines anderen Halbleiterunternehmens bietet, die branchenweite Auswirkungen haben könnten.",
           "url": "https://www.barrons.com/articles/ferrari-stock-autos-technical-analysis-419640db?siteid=yhoof2&yptr=yahoo",
           "quelle": "Barrons.com",
           "datum": "21.08.2026"
-        },
-        {
-          "titel": "SpaceX versuchte, das KI-Coding-Startup Cognition zu erwerben",
-          "einordnung": "Dieser Titel ist für Mercedes-Benz-Aktionäre nur indirekt relevant, da er die Bedeutung von KI-Technologien und Akquisitionen in der Tech-Branche unterstreicht, was langfristig auch die Automobilindustrie beeinflussen könnte.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-attempted-acquire-ai-coding-190705186.html",
-          "quelle": "Bloomberg",
-          "datum": "19.08.2026"
         }
       ],
       "fehler": null
@@ -1071,19 +1071,18 @@
       "name": "Realty Income",
       "ticker": "O",
       "currency": "EUR",
-      "price": 53.57,
-      "change_1d_pct": -0.62,
-      "change_1w_pct": -0.82,
-      "change_1m_pct": -4.61,
-      "change_1y_pct": 13.29,
+      "price": 53.02,
+      "change_1d_pct": -0.74,
+      "change_1w_pct": -2.17,
+      "change_1m_pct": -5.31,
+      "change_1y_pct": 12.14,
       "week52_high": 58.29,
       "week52_low": 47.93,
       "div_yield": null,
       "div_rate": 2.79,
-      "market_cap": "59.1B",
-      "pe_ratio": 45.57,
+      "market_cap": "58.5B",
+      "pe_ratio": 45.11,
       "sparkline": [
-        56.1762,
         56.142,
         55.6892,
         55.5269,
@@ -1112,39 +1111,40 @@
         53.7108,
         54.1999,
         53.9081,
-        53.5692
+        53.4191,
+        53.0244
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 58.53,
       "analyst_count": 20,
       "news": [
         {
-          "titel": "Es gibt nur eine Handvoll S&P 500 Aktien, die über 5% Rendite abwerfen. Hier ist mein Top-Pick zum Kauf vor Ende August.",
-          "einordnung": "Für Realty Income-Aktionäre ist dies relevant, da es die Attraktivität von hochrentierlichen Aktien im S&P 500 hervorhebt und Realty Income oft zu diesen gehört.",
-          "url": "https://www.fool.com/investing/2026/08/26/there-are-only-a-handful-of-sp-500-stocks-that-yie/",
+          "titel": "Kann eine Ausschüttung von 68 Milliarden Dollar die UNH-Aktie retten?",
+          "einordnung": "Aktionäre sollten prüfen, ob eine so massive Kapitalrückführung ausreicht, um die Aktie von UnitedHealth zu stabilisieren oder ihren Wert zu steigern.",
+          "url": "https://www.fool.com/investing/2026/08/27/prediction-this-high-yield-dividend-stock-will-out/",
           "quelle": "Motley Fool",
-          "datum": "26.08.2026"
+          "datum": "27.08.2026"
         },
         {
-          "titel": "Dividenden vs. Annuität: Was verwandelt 840.000 Dollar in mehr monatliches Lebenseinkommen?",
-          "einordnung": "Dieser Artikel ist für Realty Income-Aktionäre, die auf monatliche Dividendenausschüttungen setzen, besonders interessant, um die Effizienz ihrer Anlagestrategie zu bewerten.",
-          "url": "https://247wallst.com/personal-finance/2026/08/26/dividends-vs-an-annuity-which-turns-840000-into-more-monthly-income-for-life/",
+          "titel": "Mark Cuban unterstützt Plan zur Zerschlagung großer Gesundheitskonzerne.",
+          "einordnung": "Dies ist eine potenziell negative Nachricht für UnitedHealth-Aktionäre, da eine Zerschlagung des Unternehmens erhebliche Unsicherheiten und Wertverluste mit sich bringen könnte.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/realty-incomes-dividend-growth-stays-150800531.html",
+          "quelle": "Zacks",
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Kann Cignas intelligente Deckung helfen, Lücken bei den Gesundheitskosten zu schließen?",
+          "einordnung": "Dieser Titel ist für UnitedHealth-Aktionäre relevant, da er einen Wettbewerber und dessen Strategien zur Kostenkontrolle beleuchtet, die auch UNH betreffen könnten.",
+          "url": "https://247wallst.com/personal-finance/2026/08/27/you-dont-need-a-2-million-portfolio-to-collect-5900-a-month-in-dividends/",
           "quelle": "24/7 Wall St.",
-          "datum": "26.08.2026"
+          "datum": "27.08.2026"
         },
         {
-          "titel": "Realty Income zahlt eine monatliche Dividende. Hier ist, wie viel genau 30.000 Dollar Investition jeden Monat generieren.",
-          "einordnung": "Dieser Titel ist direkt für Realty Income-Aktionäre relevant, da er konkrete Zahlen zur monatlichen Dividendenausschüttung liefert und die Attraktivität der Aktie als Einkommensquelle unterstreicht.",
-          "url": "https://www.fool.com/investing/2026/08/26/realty-income-pays-a-monthly-dividend-heres-exactl/",
-          "quelle": "Motley Fool",
-          "datum": "26.08.2026"
-        },
-        {
-          "titel": "2 Monster-Aktien, die man für die nächsten 10 Jahre halten sollte",
-          "einordnung": "Realty Income-Aktionäre können prüfen, ob ihr Investment in Realty Income als eine dieser langfristig vielversprechenden 'Monster-Aktien' eingestuft wird.",
-          "url": "https://www.fool.com/investing/2026/08/25/2-monster-stocks-to-hold-for-the-next-10-years/",
-          "quelle": "Motley Fool",
-          "datum": "26.08.2026"
+          "titel": "Ist UnitedHealth (UNH) die Gesundheitsaktie, die man jetzt beobachten sollte?",
+          "einordnung": "Aktionäre sollten die Gründe für die aktuelle Beobachtungswürdigkeit von UnitedHealth analysieren, um Chancen oder Risiken zu erkennen.",
+          "url": "https://247wallst.com/personal-finance/2026/08/27/an-865000-portfolio-that-quietly-pays-you-4100-a-month-without-touching-principal/",
+          "quelle": "24/7 Wall St.",
+          "datum": "27.08.2026"
         }
       ],
       "fehler": null
@@ -1154,19 +1154,18 @@
       "name": "Rio Tinto",
       "ticker": "RIO",
       "currency": "EUR",
-      "price": 89.78,
-      "change_1d_pct": -2.03,
-      "change_1w_pct": 4.18,
-      "change_1m_pct": 16.69,
-      "change_1y_pct": 77.45,
+      "price": 89.9,
+      "change_1d_pct": 0.08,
+      "change_1w_pct": 2.55,
+      "change_1m_pct": 14.33,
+      "change_1y_pct": 75.06,
       "week52_high": 96.59,
       "week52_low": 52.68,
       "div_yield": null,
       "div_rate": 3.99,
-      "market_cap": "170.2B",
-      "pe_ratio": 14.18,
+      "market_cap": "170.4B",
+      "pe_ratio": 14.2,
       "sparkline": [
-        76.1233,
         75.6867,
         74.78,
         76.0226,
@@ -1195,36 +1194,37 @@
         90.3474,
         89.9184,
         91.643,
-        89.7811
+        89.8326,
+        89.9012
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 89.31,
       "analyst_count": 9,
       "news": [
         {
-          "titel": "Fortescue suspendiert Führungskraft wegen Vorwürfen sexueller Belästigung",
-          "einordnung": "Für Rio Tinto-Aktionäre ist dies ein Hinweis auf die zunehmende Bedeutung von ESG-Faktoren (Umwelt, Soziales, Governance) in der Bergbauindustrie und die Risiken, die mit schlechter Unternehmensführung verbunden sind.",
+          "titel": "Fortescue Suspends Executive Over Sexual Harassment Allegations",
+          "einordnung": "",
           "url": "https://finance.yahoo.com/small-business/articles/fortescue-suspends-executive-over-sexual-034040287.html",
           "quelle": "Bloomberg",
           "datum": "25.08.2026"
         },
         {
-          "titel": "Morgan Stanley beginnt Rio Tinto ADR-Abdeckung mit 'Underweight', sieht 14% Abwärtspotenzial",
-          "einordnung": "Aktionäre sollten diese Herabstufung und das prognostizierte Abwärtspotenzial ernst nehmen und ihre Investitionsentscheidung für Rio Tinto überprüfen.",
+          "titel": "Morgan Stanley starts Rio Tinto ADR coverage at underweight, sees 14% downside",
+          "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-starts-rio-tinto-082253169.html",
           "quelle": "Investing.com",
           "datum": "24.08.2026"
         },
         {
-          "titel": "Könnte Kanada die USA vollständig mit Aluminium versorgen?",
-          "einordnung": "Für Rio Tinto-Aktionäre ist dies relevant, da das Unternehmen ein großer Aluminiumproduzent ist und Veränderungen in den Lieferketten und Handelsbeziehungen die Nachfrage und Preise beeinflussen könnten.",
+          "titel": "Could Canada fully supply the U.S. with aluminium?",
+          "einordnung": "",
           "url": "https://finance.yahoo.com/markets/commodities/articles/could-canada-fully-supply-u-092128571.html",
           "quelle": "Investing.com",
           "datum": "23.08.2026"
         },
         {
-          "titel": "Diese Kupferminen erreichen Top-Kaufpunkte inmitten von Angebots- und Nachfrageengpässen",
-          "einordnung": "Obwohl Rio Tinto auch andere Metalle fördert, ist die Dynamik im Kupfermarkt für Aktionäre relevant, da sie auf allgemeine Trends im Rohstoffsektor und potenzielle Chancen für Bergbauunternehmen hinweist.",
+          "titel": "These Copper Miners Top Buy Points Amid Supply, Demand Crunch",
+          "einordnung": "",
           "url": "https://www.investors.com/news/copper-miners-stocks-bhp-scco-fcx-tariffs/?src=A00220&yptr=yahoo",
           "quelle": "Investor's Business Daily",
           "datum": "21.08.2026"
@@ -1237,19 +1237,18 @@
       "name": "Shell",
       "ticker": "SHELL.AS",
       "currency": "EUR",
-      "price": 39.42,
-      "change_1d_pct": -0.45,
-      "change_1w_pct": -1.3,
-      "change_1m_pct": 6.27,
-      "change_1y_pct": 32.33,
+      "price": 38.76,
+      "change_1d_pct": -1.67,
+      "change_1w_pct": null,
+      "change_1m_pct": null,
+      "change_1y_pct": null,
       "week52_high": 41.33,
       "week52_low": 29.55,
       "div_yield": null,
       "div_rate": 2.71,
-      "market_cap": "217.1B",
-      "pe_ratio": 10.19,
+      "market_cap": "213.4B",
+      "pe_ratio": 10.02,
       "sparkline": [
-        36.5046,
         37.2788,
         37.1514,
         37.4454,
@@ -1278,38 +1277,39 @@
         39.91,
         39.775,
         39.6,
-        39.42
+        39.42,
+        null
       ],
       "analyst_rating": "none",
       "analyst_target": 42.29,
       "analyst_count": 7,
       "news": [
         {
-          "titel": "Apollo Global Management (APO), warum erhält es jetzt neue Aufmerksamkeit?",
-          "einordnung": "Dieser Titel ist für Shell-Aktionäre nur indirekt relevant, da er sich auf eine Private-Equity-Firma bezieht, die jedoch in Energieprojekte investieren könnte, was den Wettbewerb oder die Marktlandschaft beeinflusst.",
+          "titel": "Shell's CEO Warned Oil Prices Would Keep Rising. Hormuz Talks Are Testing That Call. Here's What It Means for SHEL Stock.",
+          "einordnung": "",
+          "url": "https://www.fool.com/investing/2026/08/27/shells-ceo-warned-oil-prices-would-keep-rising-hormuz-talks-are-testing-that-call-heres-what-it-means-for-shel-stock/",
+          "quelle": "Motley Fool",
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Shell Slips as Hormuz Hope Removes Oil's War Premium",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/energy/articles/shell-slips-hormuz-hope-removes-195628972.html",
+          "quelle": "GuruFocus.com",
+          "datum": "26.08.2026"
+        },
+        {
+          "titel": "Apollo Global Management (APO), Why Is It Getting Fresh Attention Now?",
+          "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-global-management-apo-why-170916714.html",
           "quelle": "Simply Wall St.",
           "datum": "26.08.2026"
         },
         {
-          "titel": "Aktien uneinheitlich, da Öl fällt, Inflation hoch bleibt",
-          "einordnung": "Für Shell-Aktionäre ist dies direkt relevant, da fallende Ölpreise die Profitabilität des Unternehmens beeinträchtigen können, während hohe Inflation die Betriebskosten beeinflusst.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-edge-higher-oil-drops-023953523.html",
-          "quelle": "AFP",
-          "datum": "26.08.2026"
-        },
-        {
-          "titel": "Shell (LSE:SHEL) könnte um 5 % unterbewertet sein, da das Interesse am Verkauf der Chemiesparte steigt.",
-          "einordnung": "Dies deutet auf ein potenzielles Kurspotenzial hin, falls der Verkauf der Chemiesparte den Wert des Unternehmens freisetzt.",
+          "titel": "Shell (LSE:SHEL) Could Be 5% Undervalued As Chemicals Sale Interest Builds",
+          "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/shell-lse-shel-could-5-121526164.html",
           "quelle": "Simply Wall St.",
-          "datum": "26.08.2026"
-        },
-        {
-          "titel": "Equinor startet die Produktion in der dritten Phase, Stufe zwei des Troll-Feldes in der Nordsee.",
-          "einordnung": "Obwohl es um Equinor geht, zeigt dies die Dynamik im Nordsee-Sektor, der auch für Shell von Bedeutung ist.",
-          "url": "https://www.offshore-technology.com/news/equinor-production-troll-phase-3-stage-2/",
-          "quelle": "Offshore Technology",
           "datum": "26.08.2026"
         }
       ],
@@ -1320,19 +1320,18 @@
       "name": "Sixt",
       "ticker": "SIX2.DE",
       "currency": "EUR",
-      "price": 72.5,
-      "change_1d_pct": -0.14,
-      "change_1w_pct": 1.47,
-      "change_1m_pct": 1.05,
-      "change_1y_pct": -12.07,
+      "price": 72.9,
+      "change_1d_pct": 0.55,
+      "change_1w_pct": null,
+      "change_1m_pct": null,
+      "change_1y_pct": null,
       "week52_high": 87.75,
       "week52_low": 57.7,
       "div_yield": null,
       "div_rate": 3.2,
       "market_cap": "3.4B",
-      "pe_ratio": 11.21,
+      "pe_ratio": 11.27,
       "sparkline": [
-        70.5,
         70.45,
         70.95,
         70.5,
@@ -1361,36 +1360,37 @@
         73.2,
         73.0,
         72.6,
-        72.5
+        72.5,
+        null
       ],
       "analyst_rating": "Starker Kauf",
       "analyst_target": 93.5,
       "analyst_count": 6,
       "news": [
         {
-          "titel": "Kaufen Sie Sixt SE (ETR:SIX2) nicht überstürzt, nur weil die Aktie ex-Dividende gehandelt wird.",
-          "einordnung": "Aktionäre sollten die Aktie nicht allein wegen der bevorstehenden Dividendenzahlung kaufen, sondern die langfristigen Fundamentaldaten berücksichtigen.",
+          "titel": "Don't Race Out To Buy Sixt SE (ETR:SIX2) Just Because It's Going Ex-Dividend",
+          "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/dont-race-buy-sixt-se-061259094.html",
           "quelle": "Simply Wall St.",
           "datum": "14.06.2026"
         },
         {
-          "titel": "Ecos (India) Mobility & Hospitality Ltd (NSE:ECOSMOBLTY) Q4 2026 Telefonkonferenz-Highlights: ...",
-          "einordnung": "Diese Meldung betrifft ein anderes Unternehmen und ist für Sixt-Aktionäre nicht direkt relevant.",
+          "titel": "Ecos (India) Mobility & Hospitality Ltd (NSE:ECOSMOBLTY) Q4 2026 Earnings Call Highlights: ...",
+          "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ecos-india-mobility-hospitality-ltd-010150184.html",
           "quelle": "GuruFocus.com",
           "datum": "30.05.2026"
         },
         {
-          "titel": "Sixt SE (ETR:SIX2) hat gerade die Ergebnisse für das erste Quartal veröffentlicht: Haben Analysten ihre Meinung zur Aktie geändert?",
-          "einordnung": "Aktionäre sollten die Analystenreaktionen auf die jüngsten Quartalsergebnisse beobachten, um mögliche Kursbewegungen einzuschätzen.",
+          "titel": "Sixt SE (ETR:SIX2) Just Reported First-Quarter Earnings: Have Analysts Changed Their Mind On The Stock?",
+          "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sixt-se-etr-six2-just-060916116.html",
           "quelle": "Simply Wall St.",
           "datum": "16.05.2026"
         },
         {
-          "titel": "Eine Betrachtung der Bewertung von Sixt (XTRA:SIX2) nach der jüngsten Kursvolatilität.",
-          "einordnung": "Diese Analyse hilft Aktionären, die aktuelle Bewertung der Aktie im Kontext der jüngsten Kursschwankungen zu verstehen.",
+          "titel": "A Look At Sixt (XTRA:SIX2) Valuation After Recent Share Price Volatility",
+          "einordnung": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/look-sixt-xtra-six2-valuation-090954777.html",
           "quelle": "Simply Wall St.",
           "datum": "05.05.2026"
@@ -1403,19 +1403,18 @@
       "name": "Texas Instruments",
       "ticker": "TXN",
       "currency": "EUR",
-      "price": 225.44,
-      "change_1d_pct": 1.04,
-      "change_1w_pct": -1.76,
-      "change_1m_pct": -4.68,
-      "change_1y_pct": 30.86,
+      "price": 228.69,
+      "change_1d_pct": 1.82,
+      "change_1w_pct": 0.35,
+      "change_1m_pct": -1.25,
+      "change_1y_pct": 33.98,
       "week52_high": 286.6,
       "week52_low": 131.04,
       "div_yield": null,
       "div_rate": 4.87,
-      "market_cap": "240.0B",
-      "pe_ratio": 39.93,
+      "market_cap": "243.4B",
+      "pe_ratio": 40.57,
       "sparkline": [
-        248.594,
         242.4478,
         242.4905,
         248.6622,
@@ -1444,39 +1443,40 @@
         226.8209,
         222.1705,
         223.1229,
-        225.4395
+        224.5987,
+        228.6913
       ],
       "analyst_rating": "Kaufen",
-      "analyst_target": 277.72,
+      "analyst_target": 278.6,
       "analyst_count": 31,
       "news": [
         {
-          "titel": "Qualcomms Kosten liegen innerhalb der Prognose, aber sein Ersatzwachstum nicht.",
-          "einordnung": "Diese Meldung über Qualcomm bietet indirekte Einblicke in die Wettbewerbslandschaft, die auch Texas Instruments betreffen könnte.",
+          "titel": "Why Texas Instruments (TXN) Outpaced the Stock Market Today",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-texas-instruments-txn-outpaced-215002434.html",
+          "quelle": "Zacks",
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Texas Instruments (TXN) Stock May Command A Premium On Earnings And Cash Flow",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-stock-may-150909085.html",
+          "quelle": "Simply Wall St.",
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Broadcom Looks Expensive Until You Price The Order Book",
+          "einordnung": "",
+          "url": "https://www.trefis.com/articles/613289/broadcom-looks-expensive-until-you-price-the-order-book/2026-08-27",
+          "quelle": "Trefis",
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Qualcomm's Costs Are Inside The Guidance And Its Replacement Growth Is Not",
+          "einordnung": "",
           "url": "https://www.trefis.com/articles/613012/qualcomms-costs-are-inside-the-guidance-and-its-replacement-growth-is-not/2026-08-26",
           "quelle": "Trefis",
           "datum": "26.08.2026"
-        },
-        {
-          "titel": "Broadcoms wahres Risiko ist seine Kundenliste.",
-          "einordnung": "Diese Meldung über Broadcom beleuchtet Risiken in der Halbleiterbranche, die auch für Texas Instruments relevant sein könnten.",
-          "url": "https://www.trefis.com/articles/613000/broadcoms-real-risk-is-its-customer-list/2026-08-26",
-          "quelle": "Trefis",
-          "datum": "26.08.2026"
-        },
-        {
-          "titel": "Lassen Sie sich 12 % pro Jahr bezahlen, während jemand anderes die ADI-Aktie nach oben treibt.",
-          "einordnung": "Dies ist ein Vorschlag für eine Optionsstrategie, die indirekt die relative Attraktivität von Wettbewerbern wie ADI im Vergleich zu Texas Instruments beleuchtet.",
-          "url": "https://www.trefis.com/articles/612809/get-paid-12-a-year-to-let-someone-else-chase-adi-stock-higher/2026-08-25",
-          "quelle": "Trefis",
-          "datum": "25.08.2026"
-        },
-        {
-          "titel": "Gen 2 VPD stärkt die Power-Management-Aussichten von VICR gegenüber TXN & ADI.",
-          "einordnung": "Diese Meldung zeigt einen Wettbewerber (VICR), der im Power-Management-Segment gegenüber Texas Instruments an Stärke gewinnt.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/gen-2-vpd-boosts-vicrs-155400148.html",
-          "quelle": "Zacks",
-          "datum": "25.08.2026"
         }
       ],
       "fehler": null
@@ -1486,19 +1486,18 @@
       "name": "UnitedHealth",
       "ticker": "UNH",
       "currency": "EUR",
-      "price": 344.79,
-      "change_1d_pct": 1.33,
-      "change_1w_pct": 3.41,
-      "change_1m_pct": -6.28,
-      "change_1y_pct": 37.34,
+      "price": 338.95,
+      "change_1d_pct": -1.49,
+      "change_1w_pct": 2.65,
+      "change_1m_pct": -6.07,
+      "change_1y_pct": 34.19,
       "week52_high": 396.07,
       "week52_low": 219.62,
       "div_yield": null,
       "div_rate": 7.96,
-      "market_cap": "360.7B",
-      "pe_ratio": 25.84,
+      "market_cap": "354.6B",
+      "pe_ratio": 25.39,
       "sparkline": [
-        363.26,
         365.5852,
         361.6899,
         374.3883,
@@ -1527,39 +1526,40 @@
         334.7144,
         342.1361,
         340.2742,
-        344.7873
+        344.0666,
+        338.9529
       ],
       "analyst_rating": "Kaufen",
       "analyst_target": 407.75,
       "analyst_count": 26,
       "news": [
         {
-          "titel": "Milliardär David Tepper verkaufte im zweiten Quartal jede einzelne Aktie von UnitedHealth. Hier erfahren Sie, ob er einen kostspieligen Fehler gemacht hat.",
-          "einordnung": "Aktionäre sollten die Beweggründe und möglichen Auswirkungen eines so großen Verkaufs durch einen bekannten Investor auf die Aktie von UnitedHealth prüfen.",
-          "url": "https://www.fool.com/investing/2026/08/26/billionaire-david-tepper-sold-every-single-share-o/",
-          "quelle": "Motley Fool",
-          "datum": "26.08.2026"
+          "titel": "Can a $68 Billion Payout Save UNH Stock?",
+          "einordnung": "",
+          "url": "https://www.trefis.com/articles/613257/can-a-68-billion-payout-save-unh-stock/2026-08-27",
+          "quelle": "Trefis",
+          "datum": "27.08.2026"
         },
         {
-          "titel": "Eli Lilly zieht sich vom Rest des Gesundheitswesens ab.",
-          "einordnung": "Diese Meldung über Eli Lilly zeigt die Dynamik im Gesundheitssektor, die auch UnitedHealth indirekt beeinflussen kann.",
-          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-pulling-away-rest-193010576.html",
+          "titel": "Mark Cuban Backs Plan to Break Up Big Medicine",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/healthcare/articles/mark-cuban-backs-plan-break-193611240.html",
           "quelle": "GuruFocus.com",
-          "datum": "25.08.2026"
+          "datum": "27.08.2026"
         },
         {
-          "titel": "Die Erholungsgeschichte der UnitedHealth Group Incorporated (UNH): 37 % Jahresrendite, 80 % vom Tiefpunkt entfernt.",
-          "einordnung": "Diese Nachricht hebt die starke Performance und Erholung der UnitedHealth-Aktie hervor, was für bestehende und potenzielle Aktionäre positiv ist.",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-incorporated-unh-recovery-175048254.html",
-          "quelle": "Insider Monkey",
-          "datum": "25.08.2026"
-        },
-        {
-          "titel": "UnitedHealth vs. Elevance: Welche Managed-Care-Aktie ist der bessere Kauf?",
-          "einordnung": "Diese Vergleichsanalyse hilft Aktionären, die relative Attraktivität von UnitedHealth gegenüber einem wichtigen Wettbewerber im Managed-Care-Sektor zu bewerten.",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-vs-elevance-managed-care-155800357.html",
+          "titel": "Can Cigna's Smart Coverage Help Close Health-Cost Gaps?",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/healthcare/articles/cignas-smart-coverage-help-close-142000443.html",
           "quelle": "Zacks",
-          "datum": "25.08.2026"
+          "datum": "27.08.2026"
+        },
+        {
+          "titel": "Is UnitedHealth (UNH) the Healthcare Stock to Watch Right Now?",
+          "einordnung": "",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-healthcare-stock-watch-002642031.html",
+          "quelle": "Insider Monkey",
+          "datum": "27.08.2026"
         }
       ],
       "fehler": null
