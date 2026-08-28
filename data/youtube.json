@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-08-27T18:11:28.590732+00:00",
+  "aktualisiert": "2026-08-28T19:21:50.679707+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "NANCY | KI-Workflows im Büro",
+      "titel": "Claude Limit erreicht? 6 Fehler die dein Guthaben im Büro fressen",
+      "link": "https://www.youtube.com/watch?v=Fmx9yNtMKug",
+      "video_id": "Fmx9yNtMKug",
+      "thumbnail": "https://img.youtube.com/vi/Fmx9yNtMKug/mqdefault.jpg",
+      "datum": "2026-08-28T15:36:03Z",
+      "datum_de": "28.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Von Google-Traffic zu MCP-Servern: Als PERPLEXITY bei STATISTA anklopfte 🚀",
+      "link": "https://www.youtube.com/watch?v=jAobzuCNIR8",
+      "video_id": "jAobzuCNIR8",
+      "thumbnail": "https://img.youtube.com/vi/jAobzuCNIR8/mqdefault.jpg",
+      "datum": "2026-08-28T10:00:21+00:00",
+      "datum_de": "28.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "ai2roi",
+      "titel": "Grok Bot Tutorial (Deutsch) - xAI KI-Agent schreibt meine Angebote",
+      "link": "https://www.youtube.com/watch?v=M5bub74tCp4",
+      "video_id": "M5bub74tCp4",
+      "thumbnail": "https://img.youtube.com/vi/M5bub74tCp4/mqdefault.jpg",
+      "datum": "2026-08-28T06:09:52Z",
+      "datum_de": "28.08.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "ZELDOgiq",
       "titel": "Gemini Omni 1.1 ist da, WAN 3 Prime macht virale Shorts | KI News",
@@ -14,7 +44,7 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "SO verbessert sich KI selbst: Forscher erklärt wie KI sich jetzt selbst baut (Dr. Robert Lange)",
+      "titel": "Es beginnt: KI verbessert sich SELBST! DAS passiert jetzt wirklich (Sakana AI, Robert Lange)",
       "link": "https://www.youtube.com/watch?v=n_lYxc5WUlQ",
       "video_id": "n_lYxc5WUlQ",
       "thumbnail": "https://img.youtube.com/vi/n_lYxc5WUlQ/mqdefault.jpg",
@@ -34,7 +64,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "So hat mir Claude Code mir im 90 Tagen 5 echte Unternehmen gebaut!",
+      "titel": "So hat mir Claude Code mir in 90 Tagen 5 echte Unternehmen gebaut!",
       "link": "https://www.youtube.com/watch?v=FTQElWuH5O8",
       "video_id": "FTQElWuH5O8",
       "thumbnail": "https://img.youtube.com/vi/FTQElWuH5O8/mqdefault.jpg",
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/z5VCDVKOGo4/mqdefault.jpg",
       "datum": "2026-08-23T15:00:08Z",
       "datum_de": "23.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Hermes Bots ist LIVE und es ist der WAHNSINN",
-      "link": "https://www.youtube.com/watch?v=Iepj86oeTgI",
-      "video_id": "Iepj86oeTgI",
-      "thumbnail": "https://img.youtube.com/vi/Iepj86oeTgI/mqdefault.jpg",
-      "datum": "2026-08-23T14:15:14+00:00",
-      "datum_de": "23.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Chinas Roboter drehen frei: DAS passiert hier gerade wirklich + Geheimmodell schlägt Fable 5",
-      "link": "https://www.youtube.com/watch?v=kMuT8Uc7q6U",
-      "video_id": "kMuT8Uc7q6U",
-      "thumbnail": "https://img.youtube.com/vi/kMuT8Uc7q6U/mqdefault.jpg",
-      "datum": "2026-08-23T08:15:28+00:00",
-      "datum_de": "23.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Daloiso Digital Solutions",
-      "titel": "Dein KI-Agent bucht den Termin selbst — KI-Automatisierung für dein Unternehmen",
-      "link": "https://www.youtube.com/watch?v=OI-kO0bJ690",
-      "video_id": "OI-kO0bJ690",
-      "thumbnail": "https://img.youtube.com/vi/OI-kO0bJ690/mqdefault.jpg",
-      "datum": "2026-08-22T16:00:10Z",
-      "datum_de": "22.08.2026",
       "quelle": "suche"
     }
   ]
