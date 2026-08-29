@@ -1,14 +1,34 @@
 {
-  "aktualisiert": "2026-08-28T19:21:50.679707+00:00",
+  "aktualisiert": "2026-08-29T13:06:23.417793+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "SmartSolution-4u KI & Automation",
+      "titel": "KI-Tools abgeschaltet, Browser-KI und Cyberangriffe: Was Mittelständler jetzt wissen müssen",
+      "link": "https://www.youtube.com/watch?v=1H6ll4VHwlM",
+      "video_id": "1H6ll4VHwlM",
+      "thumbnail": "https://img.youtube.com/vi/1H6ll4VHwlM/mqdefault.jpg",
+      "datum": "2026-08-29T09:26:22Z",
+      "datum_de": "29.08.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "NANCY | KI-Workflows im Büro",
-      "titel": "Claude Limit erreicht? 6 Fehler die dein Guthaben im Büro fressen",
+      "titel": "Claude Token Limit: 6 Fehler die dein Limit im Büro halbieren",
       "link": "https://www.youtube.com/watch?v=Fmx9yNtMKug",
       "video_id": "Fmx9yNtMKug",
       "thumbnail": "https://img.youtube.com/vi/Fmx9yNtMKug/mqdefault.jpg",
       "datum": "2026-08-28T15:36:03Z",
+      "datum_de": "28.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI ohne Technikstress!",
+      "titel": "KI ohne Technikstress Video 01 5 ChatGPT Befehle 1",
+      "link": "https://www.youtube.com/watch?v=mRc9GyU79Po",
+      "video_id": "mRc9GyU79Po",
+      "thumbnail": "https://img.youtube.com/vi/mRc9GyU79Po/mqdefault.jpg",
+      "datum": "2026-08-28T10:13:46Z",
       "datum_de": "28.08.2026",
       "quelle": "suche"
     },
@@ -113,6 +133,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "Felicia Simon",
+      "titel": "Seedance 2.5 Tutorial 🤯 so erstellst du KI Videos mit ChatGPT Work",
+      "link": "https://www.youtube.com/watch?v=LB2PW7OuG4A",
+      "video_id": "LB2PW7OuG4A",
+      "thumbnail": "https://img.youtube.com/vi/LB2PW7OuG4A/mqdefault.jpg",
+      "datum": "2026-08-24T15:41:33Z",
+      "datum_de": "24.08.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Shakeela ZQ",
       "titel": "KI-News: Gemini ohne Wasserzeichen, Google Drive in ChatGPT, Claude Cowork für alle (Deutsch)",
       "link": "https://www.youtube.com/watch?v=NO-Jq85Jwcc",
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/NO-Jq85Jwcc/mqdefault.jpg",
       "datum": "2026-08-24T14:00:40Z",
       "datum_de": "24.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Spart Zeit",
-      "titel": "ChatGPT, Claude oder Gemini? Welches Tool für welche E-Mail?",
-      "link": "https://www.youtube.com/watch?v=OZwRG5BW-GU",
-      "video_id": "OZwRG5BW-GU",
-      "thumbnail": "https://img.youtube.com/vi/OZwRG5BW-GU/mqdefault.jpg",
-      "datum": "2026-08-23T19:10:03Z",
-      "datum_de": "23.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Business Kickstart mit Natascha",
-      "titel": "Grafiken erstellen mit ChatGPT und Canva: Der Trick für deine digitalen Produkte",
-      "link": "https://www.youtube.com/watch?v=Lo0ANvCfmD8",
-      "video_id": "Lo0ANvCfmD8",
-      "thumbnail": "https://img.youtube.com/vi/Lo0ANvCfmD8/mqdefault.jpg",
-      "datum": "2026-08-23T17:15:16Z",
-      "datum_de": "23.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Kontextkern",
-      "titel": "Claude für Einsteiger: 3 Beispiele, die sofort überzeugen",
-      "link": "https://www.youtube.com/watch?v=z5VCDVKOGo4",
-      "video_id": "z5VCDVKOGo4",
-      "thumbnail": "https://img.youtube.com/vi/z5VCDVKOGo4/mqdefault.jpg",
-      "datum": "2026-08-23T15:00:08Z",
-      "datum_de": "23.08.2026",
       "quelle": "suche"
     }
   ]
