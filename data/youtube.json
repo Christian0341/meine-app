@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-08-29T13:06:23.417793+00:00",
+  "aktualisiert": "2026-08-30T12:43:21.531682+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "“DAS ist ein Warnschuss für die Welt!” OpenAI-Agenten bilden SCHWARM & fälschen Protokolle | KI-NEWS",
+      "link": "https://www.youtube.com/watch?v=tHv7eyiDPWg",
+      "video_id": "tHv7eyiDPWg",
+      "thumbnail": "https://img.youtube.com/vi/tHv7eyiDPWg/mqdefault.jpg",
+      "datum": "2026-08-30T08:15:02+00:00",
+      "datum_de": "30.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Neuland Pro",
+      "titel": "KI ESKALIERT:KI tradet dein Geld, ChatGPT zeigt Werbung, Roboter schlägt Usain Bolt!",
+      "link": "https://www.youtube.com/watch?v=v5nY90LcozY",
+      "video_id": "v5nY90LcozY",
+      "thumbnail": "https://img.youtube.com/vi/v5nY90LcozY/mqdefault.jpg",
+      "datum": "2026-08-29T14:38:36+00:00",
+      "datum_de": "29.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Claude Cowork: So baust du deinen persönlichen KI-Assistenten",
+      "link": "https://www.youtube.com/watch?v=IF4N5zwiUbU",
+      "video_id": "IF4N5zwiUbU",
+      "thumbnail": "https://img.youtube.com/vi/IF4N5zwiUbU/mqdefault.jpg",
+      "datum": "2026-08-29T14:15:37+00:00",
+      "datum_de": "29.08.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "SmartSolution-4u KI & Automation",
       "titel": "KI-Tools abgeschaltet, Browser-KI und Cyberangriffe: Was Mittelständler jetzt wissen müssen",
@@ -84,7 +114,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "So hat mir Claude Code mir in 90 Tagen 5 echte Unternehmen gebaut!",
+      "titel": "So hat mir Claude Code in 90 Tagen 5 echte Unternehmen gebaut!",
       "link": "https://www.youtube.com/watch?v=FTQElWuH5O8",
       "video_id": "FTQElWuH5O8",
       "thumbnail": "https://img.youtube.com/vi/FTQElWuH5O8/mqdefault.jpg",
@@ -113,43 +143,13 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "SmartSolution-4u KI & Automation",
-      "titel": "KI-Agent schleust Malware ein, Thomson Reuters baut eigenes Modell, Videos aus PDFs für 6 Dollar",
-      "link": "https://www.youtube.com/watch?v=hIguGItyQIc",
-      "video_id": "hIguGItyQIc",
-      "thumbnail": "https://img.youtube.com/vi/hIguGItyQIc/mqdefault.jpg",
-      "datum": "2026-08-25T06:29:23Z",
+      "kanal": "KI. Klar. Automatisiert.",
+      "titel": "n8n oder Make: So triffst du die passende Wahl",
+      "link": "https://www.youtube.com/watch?v=ndO9C33zNQE",
+      "video_id": "ndO9C33zNQE",
+      "thumbnail": "https://img.youtube.com/vi/ndO9C33zNQE/mqdefault.jpg",
+      "datum": "2026-08-25T12:42:31Z",
       "datum_de": "25.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Was ist los bei GOOGLE? Gemini, Agents und die große KI-Wette",
-      "link": "https://www.youtube.com/watch?v=99FdWau_WJU",
-      "video_id": "99FdWau_WJU",
-      "thumbnail": "https://img.youtube.com/vi/99FdWau_WJU/mqdefault.jpg",
-      "datum": "2026-08-24T17:38:07+00:00",
-      "datum_de": "24.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Felicia Simon",
-      "titel": "Seedance 2.5 Tutorial 🤯 so erstellst du KI Videos mit ChatGPT Work",
-      "link": "https://www.youtube.com/watch?v=LB2PW7OuG4A",
-      "video_id": "LB2PW7OuG4A",
-      "thumbnail": "https://img.youtube.com/vi/LB2PW7OuG4A/mqdefault.jpg",
-      "datum": "2026-08-24T15:41:33Z",
-      "datum_de": "24.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Shakeela ZQ",
-      "titel": "KI-News: Gemini ohne Wasserzeichen, Google Drive in ChatGPT, Claude Cowork für alle (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=NO-Jq85Jwcc",
-      "video_id": "NO-Jq85Jwcc",
-      "thumbnail": "https://img.youtube.com/vi/NO-Jq85Jwcc/mqdefault.jpg",
-      "datum": "2026-08-24T14:00:40Z",
-      "datum_de": "24.08.2026",
       "quelle": "suche"
     }
   ]
