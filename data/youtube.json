@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-08-30T12:43:21.531682+00:00",
+  "aktualisiert": "2026-08-31T14:59:11.992784+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "tkay",
+      "titel": "Claude + Higgsfield = 93.482,30€ In 120 Tagen",
+      "link": "https://www.youtube.com/watch?v=lgGFdk_AdwQ",
+      "video_id": "lgGFdk_AdwQ",
+      "thumbnail": "https://img.youtube.com/vi/lgGFdk_AdwQ/mqdefault.jpg",
+      "datum": "2026-08-30T16:00:12Z",
+      "datum_de": "30.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sophirex AI",
+      "titel": "Claude Code Agenten einfach erklärt: Mein KI-Team arbeitet, während ich zuschaue",
+      "link": "https://www.youtube.com/watch?v=e4lXcm_Bip8",
+      "video_id": "e4lXcm_Bip8",
+      "thumbnail": "https://img.youtube.com/vi/e4lXcm_Bip8/mqdefault.jpg",
+      "datum": "2026-08-30T14:25:51Z",
+      "datum_de": "30.08.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Das EINFACHSTE Claude Cowork Setup - das mein Business steuert!",
+      "link": "https://www.youtube.com/watch?v=ZAM8OTDE-kE",
+      "video_id": "ZAM8OTDE-kE",
+      "thumbnail": "https://img.youtube.com/vi/ZAM8OTDE-kE/mqdefault.jpg",
+      "datum": "2026-08-30T14:15:25+00:00",
+      "datum_de": "30.08.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Unfairer Vorteil | KI",
+      "titel": "KI Agenten richtig nutzen - Alles was du wissen musst (in 15 Minuten)",
+      "link": "https://www.youtube.com/watch?v=JAszmnL5fyk",
+      "video_id": "JAszmnL5fyk",
+      "thumbnail": "https://img.youtube.com/vi/JAszmnL5fyk/mqdefault.jpg",
+      "datum": "2026-08-30T13:19:07Z",
+      "datum_de": "30.08.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "“DAS ist ein Warnschuss für die Welt!” OpenAI-Agenten bilden SCHWARM & fälschen Protokolle | KI-NEWS",
@@ -111,46 +151,6 @@
       "datum": "2026-08-27T15:06:59+00:00",
       "datum_de": "27.08.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "So hat mir Claude Code in 90 Tagen 5 echte Unternehmen gebaut!",
-      "link": "https://www.youtube.com/watch?v=FTQElWuH5O8",
-      "video_id": "FTQElWuH5O8",
-      "thumbnail": "https://img.youtube.com/vi/FTQElWuH5O8/mqdefault.jpg",
-      "datum": "2026-08-26T14:15:15+00:00",
-      "datum_de": "26.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "SmartSolution-4u KI & Automation",
-      "titel": "KI-Agent bricht aus, Google automatisiert Vertragsarbeit, Meta greift an",
-      "link": "https://www.youtube.com/watch?v=_VtvlJlNF78",
-      "video_id": "_VtvlJlNF78",
-      "thumbnail": "https://img.youtube.com/vi/_VtvlJlNF78/mqdefault.jpg",
-      "datum": "2026-08-26T03:16:58Z",
-      "datum_de": "26.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Nie wieder Claude-Limits: 12 Tipps für 20x mehr Leistung aus deinem Claude-Plan!",
-      "link": "https://www.youtube.com/watch?v=KZAJeq5n-m8",
-      "video_id": "KZAJeq5n-m8",
-      "thumbnail": "https://img.youtube.com/vi/KZAJeq5n-m8/mqdefault.jpg",
-      "datum": "2026-08-25T15:15:39+00:00",
-      "datum_de": "25.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KI. Klar. Automatisiert.",
-      "titel": "n8n oder Make: So triffst du die passende Wahl",
-      "link": "https://www.youtube.com/watch?v=ndO9C33zNQE",
-      "video_id": "ndO9C33zNQE",
-      "thumbnail": "https://img.youtube.com/vi/ndO9C33zNQE/mqdefault.jpg",
-      "datum": "2026-08-25T12:42:31Z",
-      "datum_de": "25.08.2026",
-      "quelle": "suche"
     }
   ]
 }
