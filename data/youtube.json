@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-08-31T14:59:11.992784+00:00",
+  "aktualisiert": "2026-09-01T12:29:28.437825+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Warum nutzt kaum jemand dieses ChatGPT Tool!?",
+      "link": "https://www.youtube.com/watch?v=v23C9Z9nr8Y",
+      "video_id": "v23C9Z9nr8Y",
+      "thumbnail": "https://img.youtube.com/vi/v23C9Z9nr8Y/mqdefault.jpg",
+      "datum": "2026-08-31T16:00:13+00:00",
+      "datum_de": "31.08.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "tkay",
       "titel": "Claude + Higgsfield = 93.482,30€ In 120 Tagen",
@@ -114,7 +124,7 @@
     },
     {
       "kanal": "ai2roi",
-      "titel": "Grok Bot Tutorial (Deutsch) - xAI KI-Agent schreibt meine Angebote",
+      "titel": "Grok Bot Tutorial (Deutsch) - KI-Agent schreibt meine Angebote",
       "link": "https://www.youtube.com/watch?v=M5bub74tCp4",
       "video_id": "M5bub74tCp4",
       "thumbnail": "https://img.youtube.com/vi/M5bub74tCp4/mqdefault.jpg",
@@ -139,16 +149,6 @@
       "video_id": "n_lYxc5WUlQ",
       "thumbnail": "https://img.youtube.com/vi/n_lYxc5WUlQ/mqdefault.jpg",
       "datum": "2026-08-27T15:15:14+00:00",
-      "datum_de": "27.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "So gut wie Opus 5 (low) für meine eigene Grafikkarte?",
-      "link": "https://www.youtube.com/watch?v=TH6lBEfSmfs",
-      "video_id": "TH6lBEfSmfs",
-      "thumbnail": "https://img.youtube.com/vi/TH6lBEfSmfs/mqdefault.jpg",
-      "datum": "2026-08-27T15:06:59+00:00",
       "datum_de": "27.08.2026",
       "quelle": "kanal"
     }
