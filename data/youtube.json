@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-09-01T12:29:28.437825+00:00",
+  "aktualisiert": "2026-09-02T12:02:50.627902+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Gleiches Modell, 3x der Preis: Welcher Coding-Agent lohnt? - Teil 1",
+      "link": "https://www.youtube.com/watch?v=M4Tw_3SmNXg",
+      "video_id": "M4Tw_3SmNXg",
+      "thumbnail": "https://img.youtube.com/vi/M4Tw_3SmNXg/mqdefault.jpg",
+      "datum": "2026-09-02T08:45:30+00:00",
+      "datum_de": "02.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Dr. Martin Krengel",
+      "titel": "Claude vs. ChatGPT: 🧞‍♂️ 3 Gründe, warum Claude mich persönlich überzeugt",
+      "link": "https://www.youtube.com/watch?v=uAjMvX7Ha_M",
+      "video_id": "uAjMvX7Ha_M",
+      "thumbnail": "https://img.youtube.com/vi/uAjMvX7Ha_M/mqdefault.jpg",
+      "datum": "2026-09-01T17:00:06Z",
+      "datum_de": "01.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "MAUTTEC",
+      "titel": "HubSpot Agent Hub: KI Agenten DIREKT in HubSpot",
+      "link": "https://www.youtube.com/watch?v=Z3OQpC79LCs",
+      "video_id": "Z3OQpC79LCs",
+      "thumbnail": "https://img.youtube.com/vi/Z3OQpC79LCs/mqdefault.jpg",
+      "datum": "2026-09-01T15:58:53Z",
+      "datum_de": "01.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "China hat soeben etwas gebaut, das alle für unmöglich gehalten haben",
+      "link": "https://www.youtube.com/watch?v=C_N-MopUigk",
+      "video_id": "C_N-MopUigk",
+      "thumbnail": "https://img.youtube.com/vi/C_N-MopUigk/mqdefault.jpg",
+      "datum": "2026-09-01T15:15:10+00:00",
+      "datum_de": "01.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "NANCY | KI-Workflows im Büro",
+      "titel": "NotebookLM Deutsch: Excel, Kalender &amp; Aufgaben automatisch mit Gemini Notebook",
+      "link": "https://www.youtube.com/watch?v=vCUtMO631Zw",
+      "video_id": "vCUtMO631Zw",
+      "thumbnail": "https://img.youtube.com/vi/vCUtMO631Zw/mqdefault.jpg",
+      "datum": "2026-09-01T14:14:48Z",
+      "datum_de": "01.09.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "Warum nutzt kaum jemand dieses ChatGPT Tool!?",
@@ -101,56 +151,6 @@
       "datum": "2026-08-28T15:36:03Z",
       "datum_de": "28.08.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "KI ohne Technikstress!",
-      "titel": "KI ohne Technikstress Video 01 5 ChatGPT Befehle 1",
-      "link": "https://www.youtube.com/watch?v=mRc9GyU79Po",
-      "video_id": "mRc9GyU79Po",
-      "thumbnail": "https://img.youtube.com/vi/mRc9GyU79Po/mqdefault.jpg",
-      "datum": "2026-08-28T10:13:46Z",
-      "datum_de": "28.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Von Google-Traffic zu MCP-Servern: Als PERPLEXITY bei STATISTA anklopfte 🚀",
-      "link": "https://www.youtube.com/watch?v=jAobzuCNIR8",
-      "video_id": "jAobzuCNIR8",
-      "thumbnail": "https://img.youtube.com/vi/jAobzuCNIR8/mqdefault.jpg",
-      "datum": "2026-08-28T10:00:21+00:00",
-      "datum_de": "28.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "ai2roi",
-      "titel": "Grok Bot Tutorial (Deutsch) - KI-Agent schreibt meine Angebote",
-      "link": "https://www.youtube.com/watch?v=M5bub74tCp4",
-      "video_id": "M5bub74tCp4",
-      "thumbnail": "https://img.youtube.com/vi/M5bub74tCp4/mqdefault.jpg",
-      "datum": "2026-08-28T06:09:52Z",
-      "datum_de": "28.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Gemini Omni 1.1 ist da, WAN 3 Prime macht virale Shorts | KI News",
-      "link": "https://www.youtube.com/watch?v=iUnubpd0akU",
-      "video_id": "iUnubpd0akU",
-      "thumbnail": "https://img.youtube.com/vi/iUnubpd0akU/mqdefault.jpg",
-      "datum": "2026-08-27T17:34:55Z",
-      "datum_de": "27.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Es beginnt: KI verbessert sich SELBST! DAS passiert jetzt wirklich (Sakana AI, Robert Lange)",
-      "link": "https://www.youtube.com/watch?v=n_lYxc5WUlQ",
-      "video_id": "n_lYxc5WUlQ",
-      "thumbnail": "https://img.youtube.com/vi/n_lYxc5WUlQ/mqdefault.jpg",
-      "datum": "2026-08-27T15:15:14+00:00",
-      "datum_de": "27.08.2026",
-      "quelle": "kanal"
     }
   ]
 }
