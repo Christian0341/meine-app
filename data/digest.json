@@ -1,7 +1,7 @@
 {
-  "datum": "Mittwoch, 2. September 2026",
-  "datumISO": "2026-09-02",
-  "tagesthema": "Der heutige KI-Digest beleuchtet bahnbrechende Fortschritte in der medizinischen Diagnostik, strategische Anpassungen großer Tech-Konzerne und die zunehmende Bedeutung von Regulierung und Sicherheit im globalen KI-Wettlauf.",
+  "datum": "Donnerstag, 3. September 2026",
+  "datumISO": "2026-09-03",
+  "tagesthema": "Der heutige KI-Digest beleuchtet die verschärfte Regulierung von KI-Modellen, neue Produktvorstellungen und anhaltende Debatten um Sicherheit und gesellschaftliche Auswirkungen.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,35 +9,27 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Anthropic legt bei Claude nach: Fable 5.1 übernimmt Benchmark-Führung",
-          "zusammenfassung": "Anthropic hat mit Fable 5.1 eine neue Version seines Claude-Modells vorgestellt, die in wichtigen Benchmarks die Führung übernimmt. Dies signalisiert einen weiteren Fortschritt in der Leistungsfähigkeit von großen Sprachmodellen und stärkt Anthropic's Position im Wettbewerb.",
+          "titel": "OpenClaw selbst gebaut: Agent Runtime, Channels und KI-Heartbeat - heise online",
+          "zusammenfassung": "Heise online beschreibt den Bau von OpenClaw, einer Agent Runtime mit Channels und KI-Heartbeat-Funktionen. Der Artikel bietet technische Einblicke in die Architektur und Implementierung solcher Systeme. Es werden die Komponenten und deren Zusammenspiel detailliert erläutert, was für Entwickler von KI-Agenten relevant ist.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFZpUUtRS3dCZ0xySHlzUzhUclI5bVNsVnZEY2FHYmZsbjFtSmg2b0VCdm1kTlBlb0toQTgwZUVUd1JVNEV2eEdqZThkeVVwMHBLdjlVcjdNUG1hWU90cFppR1gtUFB0YnZPVGE4dlc3QlZUV2N1M0MwOFg4VEpxUXp5bWZVcmFyX3VDcjl3N2V0TTFDNEg1VGJGR1paT0ZzRDZ2MXo5eWxmZ1Mxc3JB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcFl4cm9nQUZVTVpKNU92VlhTWWRQYUZwSzVqSHRQUTVTdjktZnByRl9lc1VJMWdzWjBVdU14Y2F6RXNJcGFZbmpTdktvU2ZyZy1DZ3pPZmpDdkx6OW9vby13UUF1QXZlUGVjUjRaNFBqSklVYmtMbVVLYXNJc1NNdUk4OHRXUlVlY0M5MFRSb04yZXJLdDV4UmFOQ29ydmtCQU5hdjNRbG1fQQ?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Warnung bei ChatGPT: OpenAI stuft neues KI-Modell „Astra“ als potenziell gefährlich ein - Tagesspiegel",
+          "zusammenfassung": "OpenAI hat sein neues KI-Modell \"Astra\" vorgestellt und gleichzeitig als potenziell gefährlich eingestuft. Der Tagesspiegel beleuchtet die Gründe für diese Warnung und die möglichen Risiken, die mit Astra verbunden sind. Dies wirft wichtige Fragen zur Sicherheit und ethischen Entwicklung von fortgeschrittenen KI-Systemen auf.",
+          "einordnung": "",
+          "quelle": "Tagesspiegel",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORG5VbEh0S1NKdWFpaUVkZnZUaFNHN2FWMHB6THV5QkRxcW5CN3ZBdy1nTGUxM1p6UmdNLXVDd3ZUSHMzQzdPSmx5b0gxYUZNTVZGZXU0QTgwaDJ4bWE3czN4TGZjSE9QRXZUMzc4MVF5M0ZuSTNCOXNaVkxDbjhlOWtRcjBQekN3bm9aSzc1dS1jTWpibDNFMU9TNk1QVXQtX1M5aTJ5bnpzU2IzRFoxZ0ZhQzFnNWlHR0d3dkk5ZmhBcGk0UXJZbE1obXVxY3lucVhn?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Anthropic stellt Fable 5.1 und Mythos 5.1 vor: Was du von den neuen Modellversionen erwartet kannst",
-          "zusammenfassung": "Anthropic hat die neuen Modellversionen Fable 5.1 und Mythos 5.1 präsentiert, die verbesserte Fähigkeiten und Funktionen bieten. Nutzer können von einer gesteigerten Performance und erweiterten Anwendungsmöglichkeiten dieser fortschrittlichen KI-Modelle profitieren.",
+          "titel": "Anthropic Aktie: Claude Fable 5.1 vorgestellt - Kapitalmarktexperten",
+          "zusammenfassung": "Anthropic hat Claude Fable 5.1 vorgestellt, was sich auch auf die Anthropic-Aktie auswirkt. Kapitalmarktexperten analysieren die Bedeutung dieser neuen Version für das Unternehmen und den Wettbewerb im KI-Markt. Der Release könnte neue Funktionen und Leistungsverbesserungen mit sich bringen.",
           "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblRtUnRFVnVla3piZUIwemlvZ010ZVFoLVFYWXJlTzV1OXhkazVhaHBJd1BzSktDZHFmaE9sVmt0aVVDMnBFa3lJNGVibWI0b2RrUGlSRnFhbkhPWWlYVm1NeDdVMXV6WURmTGc2TVBuS0xYRzhSUzlrb2ptX1d6ZEFuQmdlaERLOWt6Yk92TDdPTzdHQThkWTZzSXYxbG5hQmp6eERFWV81ZVVPbzEzSE1R?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Lernen mit Gemini: Neue Funktionen und kostenloses Plus-Abo",
-          "zusammenfassung": "Google erweitert die Funktionen von Gemini und bietet ein kostenloses Plus-Abo für Bildungszwecke an. Dies soll den Zugang zu fortschrittlicher KI-Technologie erleichtern und die Nutzung von Gemini im Lernkontext fördern.",
-          "einordnung": "",
-          "quelle": "blog.google",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHpGckFtREZVYlR3eGkybXlyc3RtMEx6WDhXeUN1akZLR2ExTWN5R2t6aXdzdkljMmNCTW11RklyS0hEdFRnbFFaSWtBQjhDUnZHQlFlbWZUS05WM1JZU1VwQmQtemNmcDlPN2VPNVJGVDVtX1VWRFlRRmhyNkdqeHZmd09rYlR5eDBlVGVka3RFYWxoMkNWN3dsSQ?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Google launcht Google Pics und agentisches Videoverständnis",
-          "zusammenfassung": "Google hat \"Google Pics\" und ein neues agentisches Videoverständnis eingeführt, was auf eine Erweiterung seiner KI-Fähigkeiten im Bereich Bild- und Videoverarbeitung hindeutet. Diese Neuerungen könnten die Art und Weise, wie Nutzer mit visuellen Medien interagieren, grundlegend verändern.",
-          "einordnung": "",
-          "quelle": "OnlineMarketing.de",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0VQZmN3RUZqZ2lrN3ROY1FiQnRDTWl4U0QyRll4UUVvVFpKMFM1VE91TmdHanNBTzBOOE9Pc0FvZjJEbFhYR29VenMydUJBU3BZU0VfVGdQbVl3TURmNVk0MTFVZGY1RVh5bWcwUXBJaVBfSlBDX2l4VWJwd0kxbmYzRkozVF9nYzFSY2I1MXdZMXlHeEhmQmZQYTZRUWRrYUpQd3hrRQ?oc=5",
+          "quelle": "Kapitalmarktexperten",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3F5cDh4MjgtdV9jbzhqc1B1WlVYYWRGSi1FZ1hXUzh0ME9kOHY1V2hDdGFGOElQZGg5clcxVUpXN2w3ZWtSSEdIRDVfQWJ4UlFuSXNzTkZVbWIwVVdJSnlHQ21JVTNyVldXWTN3cTlqLXdvWnNlekZlOHlBUm52Vm5xOWZWU1Rn?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -48,28 +40,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Was ist los bei ChatGPT? Einige Nutzer werden mit Verifikationscodes bombardiert",
-          "zusammenfassung": "Nutzer von ChatGPT berichten von einer Flut an Verifikationscodes, was auf technische Probleme oder Sicherheitsanpassungen bei OpenAI hindeutet. Dieses ungewöhnliche Verhalten sorgt für Verwirrung und Beeinträchtigungen bei der Nutzung des beliebten KI-Chatbots.",
+          "titel": "Milliardenklage von Sony Music und Warner gegen Anthropic - heise online",
+          "zusammenfassung": "Sony Music und Warner haben eine Milliardenklage gegen Anthropic eingereicht. Heise online berichtet über die Hintergründe und möglichen Auswirkungen dieses Rechtsstreits auf das KI-Unternehmen. Die Klage könnte Präzedenzfälle für Urheberrechtsfragen im Zusammenhang mit KI-Trainingsdaten schaffen.",
           "einordnung": "",
-          "quelle": "Caschys Blog",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbU1La29wMWxRalZxdXpDZm5SQ1F1SE5FV3Q0QWFfWFNRSGRsMTBTaHJGUGp3YjVmOUFBRWJuMnVidGdEdHVsQlNsODJqQy0tbnVrdDlfQllwQ0xOb2pJTWYzRUNrZHJXOFdKTXlKSzVNanFpNm14OXdYOE1FdjlJcHl3aWxZTjFJQjlzX1JrS0pKNGd1WlI3NU9jcVNlUl9ac3BIbmxWZ3p4c2doYkE?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNFZEeVB2QVljcnpvNl9sbEYxZlh6RFBvMG82UmlLSkR5RFlKWmlNMkF6aHRyNy1tQXRZNVNxMU43LUtXQkkyb3Qwb0RLQXZwdWVxaDhIbUR2RTZuVVlsSWlYNkRiNC11cjFmd2dabk1QTGRoUnZQNktvQi1xNHFoMGNmel9BQzhZaXY3VmVVZmVJTXFFbWZMel9rSnZKQQ?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Alphabet vor dem KI-Showdown: Google zieht Milliarden-Joker - jetzt muss Gemini liefern - n-tv.de",
+          "zusammenfassung": "Alphabet steht vor einem KI-Showdown und setzt Milliarden ein, um Gemini zum Erfolg zu führen. n-tv.de analysiert die Strategie von Google und den Druck, unter dem Gemini nun liefern muss. Dies unterstreicht die hohe Wettbewerbsintensität im Bereich der künstlichen Intelligenz.",
+          "einordnung": "",
+          "quelle": "n-tv.de",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS1R1M1JJZzR5QjRNNk4wU1ZyRVNLNVZjSmtLTUMxRHVIeEVLYUxMckhkVF9uSUhOVF8zOEVMZEtDeFFVV25sRE1fLVFycXJuYi01T1lRLXBZeVhUX1d6RWRGcW1lWHhxUVFmSUtYb3JfSE5HYU1EajNEVGtUMl83eDhic0JjdHV2cGJOaUZ2MTQ2b1JqRkRfYWhsVkxKSlRLN3ltWGYxcVdIVzBaU1pPVEV5X2ZobUpMeVM4?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "LLM Marktanteil: Vergleich von Nutzung & Akzeptanz - AIMultiple",
+          "zusammenfassung": "AIMultiple präsentiert einen Vergleich der Nutzung und Akzeptanz von Large Language Models auf dem Markt. Der Artikel analysiert die aktuellen Marktanteile verschiedener LLM-Anbieter und die Faktoren, die ihre Verbreitung beeinflussen. Dies bietet wertvolle Einblicke in die Dynamik des sich schnell entwickelnden KI-Marktes.",
+          "einordnung": "",
+          "quelle": "AIMultiple",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcVczaUlYel9RLUk1UjVOa1NJNUhDd19HbmJVSlZXVlJlQjlQMlZtelhLNk55QUFtVVd6d19nclV2VEtLRnZzeTluX2FvZnczaWo1OA?oc=5",
           "sterne": "⭐"
-        },
-        {
-          "titel": "Bei Anthropic soll Claude jetzt dabei helfen, andere KI-Modelle zu verbessern – das ist der Grund",
-          "zusammenfassung": "Anthropic setzt sein KI-Modell Claude strategisch ein, um die Entwicklung und Verbesserung anderer KI-Modelle zu unterstützen. Dieser Ansatz zielt darauf ab, die Leistungsfähigkeit und Sicherheit von KI-Systemen branchenweit zu erhöhen.",
-          "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzVSbnRON2ZILS1yNWRmLXpWSEZZTFNBZjJZOWJSd21QZU95N1REZ1JsdjkwZUxkcnpqUF9BZEpiNmdjaGR3Ni1lTUNTT1hiZG5ZUVE1S1JPWEFiUk5IMk9nZzRZR1dxQW9kWjFTQjRUNVdOSEl5OHd1MXBTWVRxVzZoa1hqdnY3M20weUdYU0ExSVdCS3JSb2lBRUJmemhic2ttZTBJSlNET0VvYXAzcFZFYmdaNFNvWGgxbHN3?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "WSJ: Google will mit Gemini 3.8 Flash Rückstand bei KI-Coding aufholen",
-          "zusammenfassung": "Laut Wall Street Journal plant Google, mit Gemini 3.8 Flash seinen Rückstand im Bereich KI-Coding aufzuholen. Dieser strategische Schritt zeigt Googles Ambitionen, eine führende Rolle in der Entwicklung von KI-gestützten Programmierwerkzeugen einzunehmen.",
-          "einordnung": "",
-          "quelle": "Investing.com Deutsch",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0pNYldtNXQzcEE0VmliNzFYWWloc2F5VE14dDhacW9ldEFDVmRXZ0UyYld0c3k0dnBlSHpjUXA1RGJxZnJhWThxbnVQRWd1SG1DMHBrOVNUMHV1WU0wREM2UWVDbjdReXlFN3JMcm1rTzBkUE9OLTBXeUlidUJMRkRzUnVKajRUMjNYSWFYN1BGa3FKeEJXcDlMZHVRN2ZTUmcwY2xXbEFpbjJtSDVCZzRPVm1ZaWg2TVd2a1l6aDc?oc=5",
-          "sterne": "⭐⭐"
         }
       ]
     },
@@ -79,36 +71,36 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Digital Services Act: ChatGPT, Reddit und Roblox müssen strenge EU-Auflagen erfüllen",
-          "zusammenfassung": "Im Rahmen des Digital Services Act (DSA) müssen große Plattformen wie ChatGPT, Reddit und Roblox strenge EU-Auflagen einhalten. Dies betrifft insbesondere Transparenzpflichten und Maßnahmen gegen illegale Inhalte, was die Verantwortung von KI-Anbietern in Europa erhöht.",
+          "titel": "ChatGPT: Strengere Auflagen der EU-Kommission - was jetzt gilt - ZDFheute",
+          "zusammenfassung": "Die EU-Kommission hat strengere Auflagen für ChatGPT erlassen, die nun in Kraft treten. Der Artikel erklärt, welche neuen Regeln und Anforderungen für den Betrieb und die Nutzung des KI-Modells gelten. Dies hat weitreichende Konsequenzen für OpenAI und andere Anbieter von Large Language Models in Europa.",
           "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQa1VZSzFqLUhLdnV2X0hPRlljYkdEYkpKSTVIeHEzMFdtR0tvTE45M2UyMjdNMnJFUFJFQjV1OGlaaW0yTVJueDc4aWswVFdiaXpCV2k4bkhFNkljY0NKOFI0RjVjQVVKVjVlTEpBRkE4aTBTZ0ZYbWJtaHNacWt1b2FLa3JfeEVmTjU5M09BaVdRLUl1OGc1Sy1jREpEd2tjcHZXZW5RdVpqYjA1WTVYTHpXdVh0QmotcGw0dXVZYjM3a3M5U3lJOVBpNlVUNTBxcFp6bDdhRlBRRVFvNW1rQmRXNG9vQnA4U2RxVTQ0V1hhZTlwNHRRZUlJNA?oc=5",
+          "quelle": "ZDFheute",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNlRmQ2dKRHh1Y08taHN2REduUGkzWVNjN1BZWGtWeHZTVnVQS3Z4MjhGVWk3bDRyRnNxSk43bWM0emF1eUItdG5kWmFod3ROUlA1MTJSZWU5ZDdaR3lIMV9KQy1VT1BvbHFLaEpKa1B6TS1qZ0ZJNTF0QUk4cHZNcXd0dFZlczktYUU0?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "KI-Regulierung: USA und China einigen sich auf Carolina Principles",
-          "zusammenfassung": "Die USA und China haben sich auf die \"Carolina Principles\" geeinigt, einen Rahmen für die internationale KI-Regulierung. Diese Einigung markiert einen wichtigen Schritt zur globalen Koordination im Umgang mit Künstlicher Intelligenz und ihren Herausforderungen.",
+          "titel": "Präzedenzfall: Die EU unterwirft ChatGPT von OpenAI einer strengen Kontrolle - FAZ",
+          "zusammenfassung": "Die FAZ berichtet über die strenge Kontrolle, der die EU ChatGPT von OpenAI unterwirft, und spricht von einem Präzedenzfall. Dieser Schritt der EU-Kommission setzt neue Maßstäbe für die Regulierung von KI-Systemen. Es wird erwartet, dass dies Auswirkungen auf die gesamte KI-Branche haben wird.",
           "einordnung": "",
-          "quelle": "Börse Express",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdU0wLVJjREl2QVZhLTI4bnc5TG1yR1VrckM5S2xOdTJPcXhRcWhuOVVQQVJMZUlETGpsNEllTURzSjJLcUhaWkpKbkViaFpHNDFZcGJqQnA0VXZUeFpnTjFtSHAzQ3NHamJyZTRQUzlzbnBoQkR5Wjg3N2hZREtaTlU5WXNjQnNia0pzNlg5UjZIMl9XZl96cFk2dU1JRHlQal91cGotXzNjQVdqQXZya2VOeGtvMEJC?oc=5",
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNTRVR1VNZVBsc3VtVVdEbUx1WmpicXBNeEFCajZORE9KMk1PMXZ4eFc3OHhEYkE5RFBEcWRJVXpKaUtkc3JmUTF6OHhTa0gzQno3WGZqTXpwdnFaOWlCODRkMTB2OHJ1R1k1VlYxZ2NSdFFfaUJLYXgzTFZZY0dMOXByWHI4di0yX1lacW42b2JyRlJWTjNnMmMwZWxTeElsN2o3MnJEdGpSazhGbW5SSFh6Y0RkN0Z5Sk96VUhSVGlIYTJ5VmpVQXNOQUUzUGhD?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Der EU AI Act scheint ins Stocken zu geraten, was Bedenken hinsichtlich der Implementierung und Wirksamkeit des europäischen KI-Gesetzes aufwirft. Verzögerungen könnten die Fähigkeit der EU beeinträchtigen, schnell auf die dynamische Entwicklung der KI zu reagieren.",
-          "einordnung": "",
-          "quelle": "Deutschlandfunk",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "EU AI Act: Transparenzpflichten greifen ab August 2026",
-          "zusammenfassung": "Ab August 2026 treten wichtige Transparenzpflichten des EU AI Act in Kraft, die KI-Anbieter zur Offenlegung bestimmter Informationen verpflichten. Dies soll die Nachvollziehbarkeit und Verantwortlichkeit von KI-Systemen in der Europäischen Union erhöhen.",
+          "titel": "EU AI Act: Transparenzpflichten greifen ab August 2026 - BornCity",
+          "zusammenfassung": "BornCity informiert darüber, dass die Transparenzpflichten des EU AI Act ab August 2026 in Kraft treten. Der Artikel erläutert, welche Anforderungen dies an KI-Entwickler und -Anbieter stellt. Dies ist ein wichtiger Schritt zur Stärkung der Rechenschaftspflicht und des Vertrauens in KI-Systeme.",
           "einordnung": "",
           "quelle": "BornCity",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNekZibmhYb1JvTXN3YTMxQ1hCblM5Q2I4ZncxT05mSnlMX3BIeWRGUHplVkdmS0ZQb3ZxYTR3RWJ2V3FiUWxkUWtJVUFGamFwMEVLejNveERjLV9YZXhnU0l6TlRQY3RZTjFlRWViSVIwMFg4eEVyU21PUGg1ZV8zVkJCcnpQc00?oc=5",
           "sterne": "⭐⭐"
+        },
+        {
+          "titel": "KI-Regulierung: USA und China einigen sich auf Carolina Principles - Börse Express",
+          "zusammenfassung": "USA und China haben sich auf die \"Carolina Principles\" zur KI-Regulierung geeinigt. Börse Express berichtet über dieses bedeutende internationale Abkommen, das globale Standards für die Entwicklung und den Einsatz von KI setzen könnte. Dies markiert einen wichtigen Schritt in der internationalen Zusammenarbeit bei der Governance von KI.",
+          "einordnung": "",
+          "quelle": "Börse Express",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdU0wLVJjREl2QVZhLTI4bnc5TG1yR1VrckM5S2xOdTJPcXhRcWhuOVVQQVJMZUlETGpsNEllTURzSjJLcUhaWkpKbkViaFpHNDFZcGJqQnA0VXZUeFpnTjFtSHAzQ3NHamJyZTRQUzlzbnBoQkR5Wjg3N2hZREtaTlU5WXNjQnNia0pzNlg5UjZIMl9XZl96cFk2dU1JRHlQal91cGotXzNjQVdqQXZya2VOeGtvMEJC?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
@@ -118,16 +110,55 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Übermenschliche\" Technologie: KI erkennt Herzleiden innerhalb von Sekunden",
-          "zusammenfassung": "Eine neue KI-Technologie zeigt sich \"übermenschlich\" in ihrer Fähigkeit, Herzleiden in Sekundenschnelle zu erkennen. Dies verspricht eine Revolution in der medizinischen Diagnostik und könnte die Früherkennung von Herzkrankheiten erheblich verbessern.",
+          "titel": "»Die Vierte Kränkung«: It’s the »Geist«, stupid! - Spektrum der Wissenschaft",
+          "zusammenfassung": "Spektrum der Wissenschaft reflektiert über die \"Vierte Kränkung\" des Menschen im Kontext der KI. Der Artikel diskutiert die philosophischen Implikationen der künstlichen Intelligenz auf das menschliche Selbstverständnis. Es wird die Frage aufgeworfen, wie KI unsere Wahrnehmung von Geist und Bewusstsein verändert.",
           "einordnung": "",
-          "quelle": "n-tv.de",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPclV0ZmttalprakZOSlN0RDNpZ1BoNk1oZTdCbE1lTVBRX2dRWklJX2loVFpfVlZ6RHpEaEN5cUY5MGm9ZGZoM1p3Qmg2cVVnVnY5el9Bc2ZRTjJZQ0szb1lERUdST0RDX19HMm0xZGhldi1QaGl2bzFDX2Z0d08zbjIwUUFPNGpwRkdfa0Z6Zkw?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "Spektrum der Wissenschaft",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2V0b3NUX3hOWGY4N2JSWlhzVjd5TjRxM0djblVrV2hud012eTZ2S0lzY0ltcUhZUnJDZmx5WHZhY0hQXzd4dGsyc0t3SzFKYmpGS0ZWMzdmZGRwZVp6NkM5S3haeFVVZk1seXQ2YXY3aDJoOFpJNDgtbXE5ZXFJYmZ3?oc=5",
+          "sterne": "⭐"
         },
         {
-          "titel": "Adversarial Attacks on Large Language Model Applications: Prompt Injection and Token Drain Exploitation",
-          "zusammenfassung": "Eine aktuelle Analyse beleuchtet Adversarial Attacks wie Prompt Injection und Token Drain Exploitation, die Large Language Model Anwendungen bedrohen. Die Studie zeigt kritische Schwachstellen auf und unterstreicht die Notwendigkeit robuster Sicherheitsmaßnahmen für LLMs.",
+          "titel": "Anthropic-Forscher entdecken: Claude hat einen geheimen Bereich für unausgesprochene Gedanken - t3n.de",
+          "zusammenfassung": "Forscher von Anthropic haben bei ihrem KI-Modell Claude einen \"geheimen Bereich für unausgesprochene Gedanken\" entdeckt. Der Artikel von t3n.de erklärt, was diese Entdeckung bedeutet und wie sie die Funktionsweise von Large Language Models besser verstehen lässt. Dies könnte neue Wege für die Erforschung des KI-Bewusstseins eröffnen.",
+          "einordnung": "",
+          "quelle": "t3n.de",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVWprNmp6ZHhsSy1MaEZKTkxHcjhDdm9OYjFhemZIbVVTY2dFMUZ6MlUtcjJ1LWNfOEs3RU1QYlhabzVwaEpLQVVFMzQzNlVMa09BY2pBSzhKQUZTNVRpM3kyYVRXVkRQTlRoY2RwMW41ckt2dno3c2dGVENtN0pRbnZfYw?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme - healthcare-in-europe.com",
+          "zusammenfassung": "Der Artikel untersucht das Potenzial von Large Language Models in der Onkologie und die damit verbundenen Infrastrukturprobleme. healthcare-in-europe.com beleuchtet, wie KI die Krebsforschung und -behandlung revolutionieren könnte, aber auch, welche Hürden bei der Implementierung bestehen. Es werden sowohl die Chancen als auch die Herausforderungen dieser Technologie im Gesundheitswesen diskutiert.",
+          "einordnung": "",
+          "quelle": "healthcare-in-europe.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
+          "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "🛡️",
+      "titel": "KI & Sicherheit",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "Open AI: Was beim Angriff auf Hugging Face wirklich geschah - Wissen - SZ.de - SZ.de",
+          "zusammenfassung": "Details zum Angriff auf Hugging Face, bei dem Open AI eine Rolle spielte. Der Artikel beleuchtet die genauen Umstände und die Auswirkungen dieses Sicherheitsvorfalls auf die KI-Plattform. Es wird analysiert, welche Schwachstellen ausgenutzt wurden und welche Lehren daraus gezogen werden können.",
+          "einordnung": "",
+          "quelle": "SZ.de",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0pXVDdsbVdFZGhmV2FOM1AtemFUUU1sMzNsM1c4R0haZ1pGbmhaaU5qWmNGeVNyVGV5YVVjZlBDOWxLVGY5dUw3TUFkSEJJc3hzdVdkVnlMaHVzR29RcEhRLVFxV3ZQd1hsal9CcTYzaXQ4QnBxMHNjVG5EVkplRXdtT2FLOWU2RDI4TXFadzAzMGk5aU54WQ?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Gmail & Co: So schalten Sie die KI-Funktionen aus - live.vodafone.de",
+          "zusammenfassung": "Vodafone zeigt, wie Nutzer KI-Funktionen in Diensten wie Gmail deaktivieren können. Der Artikel bietet eine Anleitung für Anwender, die mehr Kontrolle über ihre Daten und die Nutzung von KI wünschen. Dies adressiert Bedenken hinsichtlich Datenschutz und unerwünschter KI-Interventionen im Alltag.",
+          "einordnung": "",
+          "quelle": "live.vodafone.de",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWY1Mk9KeUpoakVjbmNDT3IyOWFVUVVpbHc0OERXVFlYa1lZaDBVeEJ3aWNWY0lILWJOZ1RqZGRlLXJCOEZMaVIwVnpkSGNQekpKcFRINE1xR0FSLVgtTWJMcW1mbUpfeUtWX0FXbXVCWG1aeHdNVE82N1lmWVllak9XY3dVamdsVmY5RTIzY0tISGF5azQ3alJEM183V0k?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "Adversarial Attacks on Large Language Model Applications: Prompt Injection and Token Drain Exploitation - springerprofessional.de",
+          "zusammenfassung": "Dieser Artikel von springerprofessional.de befasst sich mit Adversarial Attacks auf Large Language Model Anwendungen, insbesondere Prompt Injection und Token Drain Exploitation. Es werden die Mechanismen dieser Angriffe und deren potenzielle Auswirkungen auf die Sicherheit von LLMs detailliert beschrieben. Die Forschung ist entscheidend, um robuste KI-Systeme zu entwickeln.",
           "einordnung": "",
           "quelle": "springerprofessional.de",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1VSbWxtZUJUV2s5YmM0bnZWVzd0RkdhcTBJNzdoYmEwU0dFQjZnVjN6d2lxb1hBRmNtMDZGWlZMQzVFQkxJRVBxR3c0RVNnMkhvNnFDeDZpblJ2TEk3dFBuMXZvUVVMenZXR2RFRG4xVDlUY25nQU92NUtxa3k3U1AwQ1dRUEF3cWg4RFB5QnVGQWF1cEd5emx6UklBUHVPYnZwLU9FWEV6VUR1SVE?oc=5",
@@ -136,60 +167,37 @@
       ]
     },
     {
-      "emoji": "💰",
-      "titel": "KI & Wirtschaft",
+      "emoji": "🌍",
+      "titel": "KI & Gesellschaft",
       "fest": false,
       "artikel": [
         {
-          "titel": "Technikmesse IFA: KI-Boom treibt Preise für Smartphones und Konsolen nach oben",
-          "zusammenfassung": "Der anhaltende KI-Boom auf der IFA führt zu steigenden Preisen für Smartphones und Konsolen, da Hersteller innovative KI-Funktionen integrieren. Konsumenten müssen sich auf höhere Kosten für Geräte mit fortschrittlicher Künstlicher Intelligenz einstellen.",
+          "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät - Deutschlandfunk",
+          "zusammenfassung": "Der Deutschlandfunk fragt, warum Europas KI-Gesetz, der EU AI Act, ins Stocken gerät. Der Artikel beleuchtet die Herausforderungen und Widerstände bei der Implementierung und Durchsetzung der KI-Regulierung. Dies zeigt die Komplexität, die mit der Schaffung umfassender Gesetze für eine sich schnell entwickelnde Technologie verbunden ist.",
           "einordnung": "",
-          "quelle": "STERN.de",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYWpTNUJQNHVBWkV5Zm5mLVlMbzM4bEY3WF9BMklQQ0hhczhGNDVNZXMzSHBTNlRvZFNqTDlPX3Jid2UwSllfcmptbXlhOFpvczFjaW1RUkhJdVgwQkhBeENyR0RGeHd4Y3VzUTMxUjVPbFhuam9IS1NraFJ6Q2VnMkJGcFVuQTY5WjZ4Zkl0RE10R2NQTldRT2ZSZTFkbHJ5Nm9Ydzl4R1VsTFROaDZIa2JRVmNyVHlXU0EycmlDVQ?oc=5",
+          "quelle": "Deutschlandfunk",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "LLM Marktanteil: Vergleich von Nutzung & Akzeptanz",
-          "zusammenfassung": "Eine aktuelle Studie vergleicht die Nutzung und Akzeptanz von Large Language Models (LLMs) und analysiert deren Marktanteile. Die Ergebnisse geben Aufschluss über die Wettbewerbslandschaft und die Präferenzen der Anwender im schnell wachsenden LLM-Sektor.",
+          "titel": "Überlebenskampf per Prompt: Google-KI schickt MrBeast in die Wildnis - WinFuture",
+          "zusammenfassung": "Eine Google-KI hat den bekannten YouTuber MrBeast in ein Überlebensszenario in der Wildnis geschickt, gesteuert durch Prompts. WinFuture berichtet über dieses ungewöhnliche Experiment, das die kreativen Anwendungsmöglichkeiten von KI demonstriert. Es zeigt, wie KI für interaktive Unterhaltung und Herausforderungen genutzt werden kann.",
           "einordnung": "",
-          "quelle": "AIMultiple",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcVczaUlYel9RLUk1UjVOa1NJNUhDd19HbmJVSlZXVlJlQjlQMlZtelhLNk55QUFtVVd6d19nclV2VEtLRnZzeTluX2FvZnczaWo1OA?oc=5",
-          "sterne": "⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "🔒",
-      "titel": "KI & Sicherheit",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "Künstliche Intelligenz: OpenAI kündigt ChatGPT-Modell mit stärkeren Sicherheitsvorkehrungen an",
-          "zusammenfassung": "OpenAI hat ein neues ChatGPT-Modell angekündigt, das mit deutlich stärkeren Sicherheitsvorkehrungen ausgestattet sein soll. Dies unterstreicht das wachsende Bewusstsein für die Notwendigkeit robuster Schutzmechanismen in fortgeschrittenen KI-Systemen.",
-          "einordnung": "",
-          "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUtFdjFJLW82YWpFaUpPZlNNVThOOTNNSlZ3bmlER1pUOEtYS09qUVFjZy1QMm9XMENDR1RkNVpnbHhVUnRuODRydXRqdW5yX0FTZXV0bkNYcTJ3SS1TbXRGdF9vQ01TVW9ERy04OFlVX1RwMTVHR0s4cUZZWGlPV2V2WGlrdk9rTEcwXzhONWNHa2hZd2hXQkNralJjdzZITGVUYmlHYmE?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Drei Jahre neuronales Netz, zwei Tage mit LLM: Semperit dreht seine KI-Strategie",
-          "zusammenfassung": "Semperit hat seine KI-Strategie grundlegend überarbeitet und wechselt von dreijährigen neuronalen Netzprojekten zu einer schnellen Implementierung von LLMs. Dieser strategische Wandel impliziert auch eine Neubewertung der Sicherheitsarchitektur und -risiken im Umgang mit neuen KI-Modellen.",
-          "einordnung": "",
-          "quelle": "industriemagazin.at",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGkzX0hQU2M0cHlWeUtIanV3RjBRVXA5d0RJUFBaV1NEcDJWdDk4R0cwal9KV3ZOMnF5bUJrSkx1VDd3TFllQkNQMG9OTkFfUjFPQ1k5OUtENUtpdXhoVC1RT19SU0VnV3hwX19ZS25UQnp6aG1uOGg5S09HdjkzVFFYN0hCVG11NXdmMmlYZXZyM2szcXJuNl9zUDFrMjh5aGFsRjZzZkctZEUwclR6Vmt3?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "WinFuture",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfT1lvZHVPdXU3UnZzc25OTEVVMXRjcW5ZM2NJTkxPWGp5aXNhRUJzTzA2WmlQMmtxX2ZUUVFuSWxDTGY3WEJQam5SeE9lQQ?oc=5",
+          "sterne": "⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-09-02T10:04:44.945Z",
+  "generiert_um": "2026-09-03T10:15:14.857Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
       "desc": "Mo, Mi, Fr · mit The Decoder",
-      "episode": "KI-Update kompakt: Gemini Omni Flash, Wikiskill, Apple-Support, DLSS-5",
-      "datum": "31.8.2026",
-      "dauer": "22 Min.",
+      "episode": "KI-Update kompakt: ChatGPT als Suchmaschine, MHS, OpenClaw 2.0, git-Schadcode",
+      "datum": "2.9.2026",
+      "dauer": "21 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/f1/22/9bf12286-42a8-2765-8a9d-91a07df6b535/mza_1407979254960059607.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp"
     },
@@ -223,8 +231,8 @@
     {
       "name": "KI verstehen · Deutschlandfunk",
       "desc": "Wöchentlich · verständlich erklärt",
-      "episode": "KI im Gehirn - Brain-Computer-Interfaces lernen Gedanken lesen",
-      "datum": "27.8.2026",
+      "episode": "KI aus Europa - Wie Synthesia mit Avataren die Arbeitswelt verändert",
+      "datum": "3.9.2026",
       "dauer": "34 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c6/e3/d6/c6e3d6bd-e018-153d-939e-0aa7c6916b21/0.jpg/100x100bb.jpg",
       "spotify": "https://open.spotify.com/show/0rktSeF3DOjOyk2f0VPFwO"
