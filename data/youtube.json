@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-09-03T12:02:02.817906+00:00",
+  "aktualisiert": "2026-09-04T12:03:52.047636+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "ChatGPT 6 Astra ist da und OpenAI spricht zum ersten Mal offen über AGI!",
+      "link": "https://www.youtube.com/watch?v=LWgCa1L09mA",
+      "video_id": "LWgCa1L09mA",
+      "thumbnail": "https://img.youtube.com/vi/LWgCa1L09mA/mqdefault.jpg",
+      "datum": "2026-09-04T10:10:31Z",
+      "datum_de": "04.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Zukunftsforscher packt aus: „Wir haben noch 10 Jahre!” DAS kommt bis 2035",
+      "link": "https://www.youtube.com/watch?v=JtcLy_YRFs0",
+      "video_id": "JtcLy_YRFs0",
+      "thumbnail": "https://img.youtube.com/vi/JtcLy_YRFs0/mqdefault.jpg",
+      "datum": "2026-09-03T15:15:07+00:00",
+      "datum_de": "03.09.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Lucien",
       "titel": "Content Creator Zeitfalle: So sparst du Stunden mit KI-Tools",
@@ -24,7 +44,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "So habe ich 50% meiner Claude Token Kosten reduziert!",
+      "titel": "So habe ich 50% meiner Claude Kosten reduziert!",
       "link": "https://www.youtube.com/watch?v=0rtJZdxQ4cM",
       "video_id": "0rtJZdxQ4cM",
       "thumbnail": "https://img.youtube.com/vi/0rtJZdxQ4cM/mqdefault.jpg",
@@ -103,6 +123,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "Felicia Simon",
+      "titel": "ChatGPT, Claude &amp; Gemini ✅ das solltest du unbedingt vermeiden ⚠️",
+      "link": "https://www.youtube.com/watch?v=6HdWoCfwW8A",
+      "video_id": "6HdWoCfwW8A",
+      "thumbnail": "https://img.youtube.com/vi/6HdWoCfwW8A/mqdefault.jpg",
+      "datum": "2026-08-31T15:41:15Z",
+      "datum_de": "31.08.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "tkay",
       "titel": "Claude + Higgsfield = 93.482,30€ In 120 Tagen",
       "link": "https://www.youtube.com/watch?v=lgGFdk_AdwQ",
@@ -119,36 +149,6 @@
       "video_id": "celmpOMP_L4",
       "thumbnail": "https://img.youtube.com/vi/celmpOMP_L4/mqdefault.jpg",
       "datum": "2026-08-30T15:00:03Z",
-      "datum_de": "30.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sophirex AI",
-      "titel": "Claude Code Agenten einfach erklärt: Mein KI-Team arbeitet, während ich zuschaue",
-      "link": "https://www.youtube.com/watch?v=e4lXcm_Bip8",
-      "video_id": "e4lXcm_Bip8",
-      "thumbnail": "https://img.youtube.com/vi/e4lXcm_Bip8/mqdefault.jpg",
-      "datum": "2026-08-30T14:25:51Z",
-      "datum_de": "30.08.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Das EINFACHSTE Claude Cowork Setup - das mein Business steuert!",
-      "link": "https://www.youtube.com/watch?v=ZAM8OTDE-kE",
-      "video_id": "ZAM8OTDE-kE",
-      "thumbnail": "https://img.youtube.com/vi/ZAM8OTDE-kE/mqdefault.jpg",
-      "datum": "2026-08-30T14:15:25+00:00",
-      "datum_de": "30.08.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Unfairer Vorteil | KI",
-      "titel": "Du bist (noch) nicht abgehängt: Lerne KI-Agenten in 15 Minuten",
-      "link": "https://www.youtube.com/watch?v=JAszmnL5fyk",
-      "video_id": "JAszmnL5fyk",
-      "thumbnail": "https://img.youtube.com/vi/JAszmnL5fyk/mqdefault.jpg",
-      "datum": "2026-08-30T13:19:07Z",
       "datum_de": "30.08.2026",
       "quelle": "suche"
     }
