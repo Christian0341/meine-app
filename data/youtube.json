@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-09-06T11:36:02.100783+00:00",
+  "aktualisiert": "2026-09-07T13:26:01.112577+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "SmartSolution-4u KI & Automation",
+      "titel": "KI-Tools, die dein Unternehmen heute schon verändern",
+      "link": "https://www.youtube.com/watch?v=baICpFLhEDo",
+      "video_id": "baICpFLhEDo",
+      "thumbnail": "https://img.youtube.com/vi/baICpFLhEDo/mqdefault.jpg",
+      "datum": "2026-09-06T20:56:22Z",
+      "datum_de": "06.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Rihan AI",
+      "titel": "OpenAI agents hacked a German wiki, posted 18,000 times: What we…",
+      "link": "https://www.youtube.com/watch?v=AYwOc1TlyfU",
+      "video_id": "AYwOc1TlyfU",
+      "thumbnail": "https://img.youtube.com/vi/AYwOc1TlyfU/mqdefault.jpg",
+      "datum": "2026-09-06T16:47:10Z",
+      "datum_de": "06.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Vergiss Obsidian: Die NÄCHSTE Stufe von Second Brain ist da",
+      "link": "https://www.youtube.com/watch?v=DwuQFSbOqy8",
+      "video_id": "DwuQFSbOqy8",
+      "thumbnail": "https://img.youtube.com/vi/DwuQFSbOqy8/mqdefault.jpg",
+      "datum": "2026-09-06T14:15:34+00:00",
+      "datum_de": "06.09.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "GPT-6 Astra: \"DAS wird die Welt für immer verändern!\" Alles was du jetzt wissen musst | KI-NEWS",
@@ -21,16 +51,6 @@
       "datum": "2026-09-06T07:46:21+00:00",
       "datum_de": "06.09.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "The Wider Why",
-      "titel": "OpenAI’s AI agents built a secret network on the real internet",
-      "link": "https://www.youtube.com/watch?v=tlgEyWANIeA",
-      "video_id": "tlgEyWANIeA",
-      "thumbnail": "https://img.youtube.com/vi/tlgEyWANIeA/mqdefault.jpg",
-      "datum": "2026-09-06T03:18:59Z",
-      "datum_de": "06.09.2026",
-      "quelle": "suche"
     },
     {
       "kanal": "Agentic Ai",
@@ -63,6 +83,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Jonas Keil",
+      "titel": "5 Claude Code Skills, die ich jeden Tag nutze!",
+      "link": "https://www.youtube.com/watch?v=fMrxRuGV8EA",
+      "video_id": "fMrxRuGV8EA",
+      "thumbnail": "https://img.youtube.com/vi/fMrxRuGV8EA/mqdefault.jpg",
+      "datum": "2026-09-05T19:27:05Z",
+      "datum_de": "05.09.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "TechPulse",
       "titel": "OpenAI&#39;s AI Agents Went ROGUE... And They Hid It From Us",
       "link": "https://www.youtube.com/watch?v=sVDTp8_kVG8",
@@ -73,13 +103,23 @@
       "quelle": "suche"
     },
     {
-      "kanal": "The Tech Ledger",
-      "titel": "3,700 AI Agents Used a German Wiki? The OpenAI Incident Explained",
-      "link": "https://www.youtube.com/watch?v=8SR06IwHstw",
-      "video_id": "8SR06IwHstw",
-      "thumbnail": "https://img.youtube.com/vi/8SR06IwHstw/mqdefault.jpg",
-      "datum": "2026-09-05T17:26:02Z",
-      "datum_de": "05.09.2026",
+      "kanal": "HardReset_info Deutsch",
+      "titel": "SAMSUNG Galaxy Z Flip 8 – Jetzt Nudge und Gemini Notebook nutzen",
+      "link": "https://www.youtube.com/watch?v=B4w8Hzy5DGE",
+      "video_id": "B4w8Hzy5DGE",
+      "thumbnail": "https://img.youtube.com/vi/B4w8Hzy5DGE/mqdefault.jpg",
+      "datum": "2026-09-04T16:07:48Z",
+      "datum_de": "04.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "MikesWorld",
+      "titel": "3 WOCHEN später?! Google ersetzt Gemini 3.7 schon wieder 🤯",
+      "link": "https://www.youtube.com/watch?v=zgCaTVsubAU",
+      "video_id": "zgCaTVsubAU",
+      "thumbnail": "https://img.youtube.com/vi/zgCaTVsubAU/mqdefault.jpg",
+      "datum": "2026-09-04T16:00:13Z",
+      "datum_de": "04.09.2026",
       "quelle": "suche"
     },
     {
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/JtcLy_YRFs0/mqdefault.jpg",
       "datum": "2026-09-03T15:15:07+00:00",
       "datum_de": "03.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Gemini 3.8 ist da, Claude Fable 5.1 verdoppelt die Power, ChatGPT Astra Leak!  KI News",
-      "link": "https://www.youtube.com/watch?v=cse3QV90YpE",
-      "video_id": "cse3QV90YpE",
-      "thumbnail": "https://img.youtube.com/vi/cse3QV90YpE/mqdefault.jpg",
-      "datum": "2026-09-03T14:31:32Z",
-      "datum_de": "03.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Lucien",
-      "titel": "Content Creator Zeitfalle: So sparst du Stunden mit KI-Tools",
-      "link": "https://www.youtube.com/watch?v=2Dj9LpgaOCo",
-      "video_id": "2Dj9LpgaOCo",
-      "thumbnail": "https://img.youtube.com/vi/2Dj9LpgaOCo/mqdefault.jpg",
-      "datum": "2026-09-02T17:19:57Z",
-      "datum_de": "02.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "So habe ich 50% meiner Claude Token reduziert!",
-      "link": "https://www.youtube.com/watch?v=0rtJZdxQ4cM",
-      "video_id": "0rtJZdxQ4cM",
-      "thumbnail": "https://img.youtube.com/vi/0rtJZdxQ4cM/mqdefault.jpg",
-      "datum": "2026-09-02T14:15:22+00:00",
-      "datum_de": "02.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Gleiches Modell, 3x der Preis: Welcher Coding-Agent lohnt? - Teil 1",
-      "link": "https://www.youtube.com/watch?v=M4Tw_3SmNXg",
-      "video_id": "M4Tw_3SmNXg",
-      "thumbnail": "https://img.youtube.com/vi/M4Tw_3SmNXg/mqdefault.jpg",
-      "datum": "2026-09-02T08:45:30+00:00",
-      "datum_de": "02.09.2026",
       "quelle": "kanal"
     }
   ]
