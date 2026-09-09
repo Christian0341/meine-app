@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-09-08T12:04:37.156931+00:00",
+  "aktualisiert": "2026-09-09T12:15:13.299912+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Toshogu TV",
+      "titel": "3,700 OpenAI AIs Hijacked a Wiki to Cheat",
+      "link": "https://www.youtube.com/watch?v=dLQkj3csjlo",
+      "video_id": "dLQkj3csjlo",
+      "thumbnail": "https://img.youtube.com/vi/dLQkj3csjlo/mqdefault.jpg",
+      "datum": "2026-09-09T01:00:33Z",
+      "datum_de": "09.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "GPT-6 ist da! Alles was du über ASTRA wissen musst!",
+      "link": "https://www.youtube.com/watch?v=zQcatAdqjko",
+      "video_id": "zQcatAdqjko",
+      "thumbnail": "https://img.youtube.com/vi/zQcatAdqjko/mqdefault.jpg",
+      "datum": "2026-09-08T17:42:04+00:00",
+      "datum_de": "08.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "NANCY | KI-Workflows im Büro",
+      "titel": "NotebookLM Deutsch &amp; Gemini Notebook: Bearbeitbare PowerPoint aus 5 Quellen",
+      "link": "https://www.youtube.com/watch?v=0KmFHNou6T0",
+      "video_id": "0KmFHNou6T0",
+      "thumbnail": "https://img.youtube.com/vi/0KmFHNou6T0/mqdefault.jpg",
+      "datum": "2026-09-08T15:36:43Z",
+      "datum_de": "08.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Es beginnt: KI-Schwärme brechen aus und bilden \"Zivilisationen\"",
+      "link": "https://www.youtube.com/watch?v=kvy01SpQp8s",
+      "video_id": "kvy01SpQp8s",
+      "thumbnail": "https://img.youtube.com/vi/kvy01SpQp8s/mqdefault.jpg",
+      "datum": "2026-09-08T15:15:18+00:00",
+      "datum_de": "08.09.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Rihan AI",
       "titel": "OpenAI’s AI agents secretly used a German wiki website as a message…",
@@ -83,16 +123,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Shakeela ZQ",
-      "titel": "Claude + Onepage AI 2.0: Website erstellen mit KI, die nicht nach KI aussieht (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=M1uM9mWTDQc",
-      "video_id": "M1uM9mWTDQc",
-      "thumbnail": "https://img.youtube.com/vi/M1uM9mWTDQc/mqdefault.jpg",
-      "datum": "2026-09-07T14:00:23Z",
-      "datum_de": "07.09.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "SmartSolution-4u KI & Automation",
       "titel": "KI-Tools, die dein Unternehmen heute schon verändern",
       "link": "https://www.youtube.com/watch?v=baICpFLhEDo",
@@ -121,36 +151,6 @@
       "datum": "2026-09-06T08:15:15+00:00",
       "datum_de": "06.09.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "GPT 6 ist da! Was kann Astra?",
-      "link": "https://www.youtube.com/shorts/hpgNkOIgWsI",
-      "video_id": "hpgNkOIgWsI",
-      "thumbnail": "https://img.youtube.com/vi/hpgNkOIgWsI/mqdefault.jpg",
-      "datum": "2026-09-06T07:46:21+00:00",
-      "datum_de": "06.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Darrel Wilson Auf Deutsch",
-      "titel": "Claude AI HTML Website Veröffentlichen – Schritt für Schritt",
-      "link": "https://www.youtube.com/watch?v=yDCyY_v8ZZ4",
-      "video_id": "yDCyY_v8ZZ4",
-      "thumbnail": "https://img.youtube.com/vi/yDCyY_v8ZZ4/mqdefault.jpg",
-      "datum": "2026-09-05T19:34:06Z",
-      "datum_de": "05.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Jonas Keil",
-      "titel": "5 Claude Code Skills, die ich jeden Tag nutze!",
-      "link": "https://www.youtube.com/watch?v=fMrxRuGV8EA",
-      "video_id": "fMrxRuGV8EA",
-      "thumbnail": "https://img.youtube.com/vi/fMrxRuGV8EA/mqdefault.jpg",
-      "datum": "2026-09-05T19:27:05Z",
-      "datum_de": "05.09.2026",
-      "quelle": "suche"
     }
   ]
 }
