@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-09-09T12:15:13.299912+00:00",
+  "aktualisiert": "2026-09-10T12:09:58.373524+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "WonderSmith AI",
+      "titel": "Why Were OpenAI Agents Writing on a German Wiki?",
+      "link": "https://www.youtube.com/watch?v=1HM4mpFe-FU",
+      "video_id": "1HM4mpFe-FU",
+      "thumbnail": "https://img.youtube.com/vi/1HM4mpFe-FU/mqdefault.jpg",
+      "datum": "2026-09-09T19:30:06Z",
+      "datum_de": "09.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "HardReset_info Deutsch",
+      "titel": "GOOGLE Pixel 11 – Gemini nutzen und bedienen",
+      "link": "https://www.youtube.com/watch?v=jPOe45rxeOE",
+      "video_id": "jPOe45rxeOE",
+      "thumbnail": "https://img.youtube.com/vi/jPOe45rxeOE/mqdefault.jpg",
+      "datum": "2026-09-09T16:50:28Z",
+      "datum_de": "09.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ABs of Life",
+      "titel": "OpenAI&#39;s Agents Coordinated on a Dead Wiki  ·  Nvidia Is Sitting on a $99B Stock Pile  ·  Adobe&#39;s 18",
+      "link": "https://www.youtube.com/watch?v=0PAX24TrUnA",
+      "video_id": "0PAX24TrUnA",
+      "thumbnail": "https://img.youtube.com/vi/0PAX24TrUnA/mqdefault.jpg",
+      "datum": "2026-09-09T16:17:47Z",
+      "datum_de": "09.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "tkay",
+      "titel": "Claude + Gemini = 133.025,44€ in 60 Tagen",
+      "link": "https://www.youtube.com/watch?v=QDlbKLo-pbc",
+      "video_id": "QDlbKLo-pbc",
+      "thumbnail": "https://img.youtube.com/vi/QDlbKLo-pbc/mqdefault.jpg",
+      "datum": "2026-09-09T16:00:18Z",
+      "datum_de": "09.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "5000 Stunden AI AGENT Erfahrung: Das ist das BESTE Setup",
+      "link": "https://www.youtube.com/watch?v=HfbSSyi9Wxg",
+      "video_id": "HfbSSyi9Wxg",
+      "thumbnail": "https://img.youtube.com/vi/HfbSSyi9Wxg/mqdefault.jpg",
+      "datum": "2026-09-09T14:15:24+00:00",
+      "datum_de": "09.09.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Toshogu TV",
       "titel": "3,700 OpenAI AIs Hijacked a Wiki to Cheat",
@@ -24,7 +74,7 @@
     },
     {
       "kanal": "NANCY | KI-Workflows im Büro",
-      "titel": "NotebookLM Deutsch &amp; Gemini Notebook: Bearbeitbare PowerPoint aus 5 Quellen",
+      "titel": "KRASSES NotebookLM &amp; Gemini Notebook Update: Echte PowerPoint erstellen",
       "link": "https://www.youtube.com/watch?v=0KmFHNou6T0",
       "video_id": "0KmFHNou6T0",
       "thumbnail": "https://img.youtube.com/vi/0KmFHNou6T0/mqdefault.jpg",
@@ -63,22 +113,22 @@
       "quelle": "suche"
     },
     {
+      "kanal": "News with a Twist",
+      "titel": "OpenAI&#39;s AI agents hijacked a German website? What the demo hides",
+      "link": "https://www.youtube.com/watch?v=BBZgw9GxbrA",
+      "video_id": "BBZgw9GxbrA",
+      "thumbnail": "https://img.youtube.com/vi/BBZgw9GxbrA/mqdefault.jpg",
+      "datum": "2026-09-08T01:39:37Z",
+      "datum_de": "08.09.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "SHABI HOSH ",
       "titel": "Zoom-Gespräche automatisch ins CRM: KI-Agent übernimmt",
       "link": "https://www.youtube.com/watch?v=6YcAyMCNPMo",
       "video_id": "6YcAyMCNPMo",
       "thumbnail": "https://img.youtube.com/vi/6YcAyMCNPMo/mqdefault.jpg",
       "datum": "2026-09-07T18:00:18Z",
-      "datum_de": "07.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "JusProfi",
-      "titel": "Wenn KI-Agenten eigene Wege gehen: Ist das bereits illegal?",
-      "link": "https://www.youtube.com/watch?v=AWJwi_BLkg8",
-      "video_id": "AWJwi_BLkg8",
-      "thumbnail": "https://img.youtube.com/vi/AWJwi_BLkg8/mqdefault.jpg",
-      "datum": "2026-09-07T16:57:09Z",
       "datum_de": "07.09.2026",
       "quelle": "suche"
     },
@@ -101,56 +151,6 @@
       "datum": "2026-09-07T15:41:26Z",
       "datum_de": "07.09.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Currently Asked Questions",
-      "titel": "OpenAI&#39;s AI Agents Secretly Turned a German Wiki Into a Message Board",
-      "link": "https://www.youtube.com/watch?v=hYAqieUJa3I",
-      "video_id": "hYAqieUJa3I",
-      "thumbnail": "https://img.youtube.com/vi/hYAqieUJa3I/mqdefault.jpg",
-      "datum": "2026-09-07T15:31:53Z",
-      "datum_de": "07.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Das \"beste\" LLM, das sich niemand leisten kann",
-      "link": "https://www.youtube.com/watch?v=2WK50vGoCZY",
-      "video_id": "2WK50vGoCZY",
-      "thumbnail": "https://img.youtube.com/vi/2WK50vGoCZY/mqdefault.jpg",
-      "datum": "2026-09-07T15:17:41+00:00",
-      "datum_de": "07.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "SmartSolution-4u KI & Automation",
-      "titel": "KI-Tools, die dein Unternehmen heute schon verändern",
-      "link": "https://www.youtube.com/watch?v=baICpFLhEDo",
-      "video_id": "baICpFLhEDo",
-      "thumbnail": "https://img.youtube.com/vi/baICpFLhEDo/mqdefault.jpg",
-      "datum": "2026-09-06T20:56:22Z",
-      "datum_de": "06.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Vergiss Obsidian: Die NÄCHSTE Stufe von Second Brain ist da",
-      "link": "https://www.youtube.com/watch?v=DwuQFSbOqy8",
-      "video_id": "DwuQFSbOqy8",
-      "thumbnail": "https://img.youtube.com/vi/DwuQFSbOqy8/mqdefault.jpg",
-      "datum": "2026-09-06T14:15:34+00:00",
-      "datum_de": "06.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "GPT-6 Astra: \"DAS wird die Welt für immer verändern!\" Alles was du jetzt wissen musst | KI-NEWS",
-      "link": "https://www.youtube.com/watch?v=BSyes3ApU8c",
-      "video_id": "BSyes3ApU8c",
-      "thumbnail": "https://img.youtube.com/vi/BSyes3ApU8c/mqdefault.jpg",
-      "datum": "2026-09-06T08:15:15+00:00",
-      "datum_de": "06.09.2026",
-      "quelle": "kanal"
     }
   ]
 }
