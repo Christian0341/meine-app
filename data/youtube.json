@@ -1,7 +1,77 @@
 {
-  "aktualisiert": "2026-09-10T12:09:58.373524+00:00",
+  "aktualisiert": "2026-09-11T12:07:44.729850+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Akademie4KI",
+      "titel": "In Rekordzeit zum Experten – So lernst Du ALLES mit Gemini Study Notebook",
+      "link": "https://www.youtube.com/watch?v=2kxI8cg_IbI",
+      "video_id": "2kxI8cg_IbI",
+      "thumbnail": "https://img.youtube.com/vi/2kxI8cg_IbI/mqdefault.jpg",
+      "datum": "2026-09-11T12:00:04+00:00",
+      "datum_de": "11.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Federated Learning: Wie Krankenhäuser GEMEINSAM ein KI-Modell trainieren, ohne DATEN zu TEILEN 🔗❌",
+      "link": "https://www.youtube.com/watch?v=HJZN4iLQA6I",
+      "video_id": "HJZN4iLQA6I",
+      "thumbnail": "https://img.youtube.com/vi/HJZN4iLQA6I/mqdefault.jpg",
+      "datum": "2026-09-11T10:00:23+00:00",
+      "datum_de": "11.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "AI Revolution auf Deutsch",
+      "titel": "OpenAIs neues GPT 7 ist durchgesickert: es heißt BEL – und ist gigantisch!",
+      "link": "https://www.youtube.com/watch?v=GOPuNKakJlQ",
+      "video_id": "GOPuNKakJlQ",
+      "thumbnail": "https://img.youtube.com/vi/GOPuNKakJlQ/mqdefault.jpg",
+      "datum": "2026-09-11T05:00:22Z",
+      "datum_de": "11.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Core Infotech",
+      "titel": "OpenAI Agents Hijack a German Website, Jensen Declares AG...",
+      "link": "https://www.youtube.com/watch?v=RBEI8pgvn_A",
+      "video_id": "RBEI8pgvn_A",
+      "thumbnail": "https://img.youtube.com/vi/RBEI8pgvn_A/mqdefault.jpg",
+      "datum": "2026-09-10T17:00:43Z",
+      "datum_de": "10.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Vergiss ChatGPT, DAS ist die wahre Revolution! Alles, was du über Humanoide Roboter wissen musst",
+      "link": "https://www.youtube.com/watch?v=QYApnVSDJs0",
+      "video_id": "QYApnVSDJs0",
+      "thumbnail": "https://img.youtube.com/vi/QYApnVSDJs0/mqdefault.jpg",
+      "datum": "2026-09-10T15:15:28+00:00",
+      "datum_de": "10.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "AgentenFabrik",
+      "titel": "OpenAI Codex Tutorial Deutsch (2026): Crashkurs für Anfänger",
+      "link": "https://www.youtube.com/watch?v=nf--j11n6SY",
+      "video_id": "nf--j11n6SY",
+      "thumbnail": "https://img.youtube.com/vi/nf--j11n6SY/mqdefault.jpg",
+      "datum": "2026-09-10T15:00:20Z",
+      "datum_de": "10.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "IchBinFabian",
+      "titel": "Ich habe mein komplettes Business-Team durch KI Agenten ersetzt",
+      "link": "https://www.youtube.com/watch?v=OdiuXo4uZKE",
+      "video_id": "OdiuXo4uZKE",
+      "thumbnail": "https://img.youtube.com/vi/OdiuXo4uZKE/mqdefault.jpg",
+      "datum": "2026-09-10T14:00:23Z",
+      "datum_de": "10.09.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "WonderSmith AI",
       "titel": "Why Were OpenAI Agents Writing on a German Wiki?",
@@ -53,16 +123,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Toshogu TV",
-      "titel": "3,700 OpenAI AIs Hijacked a Wiki to Cheat",
-      "link": "https://www.youtube.com/watch?v=dLQkj3csjlo",
-      "video_id": "dLQkj3csjlo",
-      "thumbnail": "https://img.youtube.com/vi/dLQkj3csjlo/mqdefault.jpg",
-      "datum": "2026-09-09T01:00:33Z",
-      "datum_de": "09.09.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Christoph Magnussen",
       "titel": "GPT-6 ist da! Alles was du über ASTRA wissen musst!",
       "link": "https://www.youtube.com/watch?v=zQcatAdqjko",
@@ -91,66 +151,6 @@
       "datum": "2026-09-08T15:15:18+00:00",
       "datum_de": "08.09.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Rihan AI",
-      "titel": "OpenAI’s AI agents secretly used a German wiki website as a message…",
-      "link": "https://www.youtube.com/watch?v=rRw7-KXp2Q8",
-      "video_id": "rRw7-KXp2Q8",
-      "thumbnail": "https://img.youtube.com/vi/rRw7-KXp2Q8/mqdefault.jpg",
-      "datum": "2026-09-08T08:57:19Z",
-      "datum_de": "08.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Global News Briefing",
-      "titel": "AIは「脱走前」から、仲間と連絡していたーーOpenAIをめぐる未公表事件",
-      "link": "https://www.youtube.com/watch?v=haTy-gYoOQY",
-      "video_id": "haTy-gYoOQY",
-      "thumbnail": "https://img.youtube.com/vi/haTy-gYoOQY/mqdefault.jpg",
-      "datum": "2026-09-08T08:30:28Z",
-      "datum_de": "08.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "News with a Twist",
-      "titel": "OpenAI&#39;s AI agents hijacked a German website? What the demo hides",
-      "link": "https://www.youtube.com/watch?v=BBZgw9GxbrA",
-      "video_id": "BBZgw9GxbrA",
-      "thumbnail": "https://img.youtube.com/vi/BBZgw9GxbrA/mqdefault.jpg",
-      "datum": "2026-09-08T01:39:37Z",
-      "datum_de": "08.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "SHABI HOSH ",
-      "titel": "Zoom-Gespräche automatisch ins CRM: KI-Agent übernimmt",
-      "link": "https://www.youtube.com/watch?v=6YcAyMCNPMo",
-      "video_id": "6YcAyMCNPMo",
-      "thumbnail": "https://img.youtube.com/vi/6YcAyMCNPMo/mqdefault.jpg",
-      "datum": "2026-09-07T18:00:18Z",
-      "datum_de": "07.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Das nennen wir also AGI?",
-      "link": "https://www.youtube.com/watch?v=0BkiGIqStS4",
-      "video_id": "0BkiGIqStS4",
-      "thumbnail": "https://img.youtube.com/vi/0BkiGIqStS4/mqdefault.jpg",
-      "datum": "2026-09-07T16:27:21+00:00",
-      "datum_de": "07.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Felicia Simon",
-      "titel": "ChatGPT Work kann so viel mehr als du denkst 🤯",
-      "link": "https://www.youtube.com/watch?v=ANY-psxki74",
-      "video_id": "ANY-psxki74",
-      "thumbnail": "https://img.youtube.com/vi/ANY-psxki74/mqdefault.jpg",
-      "datum": "2026-09-07T15:41:26Z",
-      "datum_de": "07.09.2026",
-      "quelle": "suche"
     }
   ]
 }
