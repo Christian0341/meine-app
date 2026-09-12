@@ -1,7 +1,7 @@
 {
-  "datum": "Freitag, 11. September 2026",
-  "datumISO": "2026-09-11",
-  "tagesthema": "Sicherheitsbedenken und Missbrauchsvorwürfe von Anthropic dominieren die Schlagzeilen, während Google seine KI-Produkte erweitert und die Debatte um Regulierung und gesellschaftliches Verständnis anhält.",
+  "datum": "Samstag, 12. September 2026",
+  "datumISO": "2026-09-12",
+  "tagesthema": "Neue KI-Modelle wie GPT-6 Astra und Google Gemini prägen den Markt, während Anthropic mit Biowaffen-Warnungen und Plagiatsvorwürfen für Schlagzeilen sorgt und die KI-Regulierung in Europa vor Herausforderungen steht.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,28 +9,36 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "KI: Google bringt Gemini als eigene Desktop-App für Windows-Systeme - heise online",
-          "zusammenfassung": "Google hat Gemini als eigenständige Desktop-App für Windows-Systeme veröffentlicht. Dies ermöglicht Nutzern einen direkteren und integrierteren Zugang zu Googles KI-Funktionen auf ihrem PC. Die Veröffentlichung signalisiert Googles Bestreben, Gemini breiter in den Alltag der Nutzer zu integrieren.",
+          "titel": "GPT-6 Astra: eine neue Generation von Intelligenz",
+          "zusammenfassung": "OpenAI hat mit GPT-6 Astra eine neue Generation seines Sprachmodells vorgestellt, das als bahnbrechend in Bezug auf Intelligenz und Fähigkeiten gilt. Das Modell verspricht verbesserte Argumentationsfähigkeiten, Multimodalität und ein tieferes Kontextverständnis. Diese Veröffentlichung könnte die Grenzen dessen, was KI leisten kann, erneut verschieben und neue Anwendungsbereiche eröffnen.",
+          "einordnung": "",
+          "quelle": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JQkdpRmVHa0tPWThOVkhaTktSbFhvOHZySTdDQkF4bkgxRnlGM0FkUnZYTkJ2bnZPYWhFbXc4MUVDbkRCNUt0OHd4emdkU1NKOW52dGdn?oc=1",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Wegen wegen Run auf GPT-6 Astra: Open AI nimmt keine Neukunden für Pro an",
+          "zusammenfassung": "Aufgrund des überwältigenden Ansturms auf das neue GPT-6 Astra hat OpenAI vorübergehend die Annahme von Neukunden für seine Pro-Dienste gestoppt. Die hohe Nachfrage nach dem leistungsstarken Modell übersteigt die aktuellen Kapazitäten des Unternehmens. Dieser Schritt unterstreicht den enormen Hype und das Interesse an der neuesten KI-Technologie von OpenAI.",
+          "einordnung": "",
+          "quelle": "t3n.de",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNRXZwWG81V1J3SE9VbDltVUg4OHRlNFhtc2xhVVllWWZyenRCQlM0WlpQSHcycy1XSzBtakVFX1phYWVwSGFGdnpKZlVhdUdTclRZRXJBU09JQUVfMVkyaDNBOW5RaE9nQ0Naa1V3eHQ2TnJBcEJYV2VENkw5QQ?oc=1",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "KI: Google bringt Gemini als eigene Desktop-App für Windows-Systeme",
+          "zusammenfassung": "Google hat Gemini als eigenständige Desktop-Anwendung für Windows-Systeme veröffentlicht, was die Zugänglichkeit des KI-Assistenten erheblich erweitert. Nutzer können nun direkt vom Desktop aus auf Gemini zugreifen, um Aufgaben zu erledigen, Informationen zu erhalten oder kreative Inhalte zu generieren. Dieser Schritt integriert Gemini tiefer in den Arbeitsalltag vieler Nutzer.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZnJhZHpTY1B0QzVNdFFyYm83T3NKWk9ia0plR3o5RkFKRy1XSmEycFhSWlBuRWVlUUY0S2FxRGNiajlMNzJaZW9tajE1MkF5TmVyUEEyVktaRlhTT2Nvc25OS1NkeVNBNGk1NWk5bXRHalQtOS1TNjZid3VyWFBEMUtpaXBQMjVKOTJteDBSanN6aEtlYWpGbERmYTFoMlFNcmwzcnlGRWo0V3c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZnJhZHpTY1B0QzVNdFFyYm83T3NKWk9ia0plR3o5RkFKRy1XSmEycFhSWlBuRWVlUUY0S2FxRGNiajlMNzJaZW9tajE1MkF5TmVyUEEyVktaZVhTT2Nvc25OS1NkeVNBNGk1NWk5bXRHalQtOS1TNjZid3VyWFBEMUtpaXBQMjVKOTJteDBSanN6aEtlYWpGbERmYTFoMlFNcmwzcnlGRWo0V3c?oc=1",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Google AI: Starke neue Funktionen, neue Apps, Gemini-Erweiterungen und mehr für Abonnenten (Alle Infos) - GoogleWatchBlog",
-          "zusammenfassung": "Google kündigt eine Reihe neuer Funktionen, Apps und Gemini-Erweiterungen für seine Abonnenten an. Diese Updates sollen die Leistungsfähigkeit und Vielseitigkeit von Google AI weiter verbessern. Die Neuerungen zielen darauf ab, die Nutzererfahrung zu optimieren und den Wettbewerbsvorteil gegenüber anderen KI-Anbietern zu stärken.",
+          "titel": "Google bringt Gemini auf den Windows-PC: Was die neue App kann – und was nicht",
+          "zusammenfassung": "T-Online beleuchtet die Funktionen und Einschränkungen der neuen Gemini-Desktop-App für Windows-PCs. Der Artikel erklärt, welche Aufgaben die KI bereits übernehmen kann, wie etwa Textgenerierung oder Informationsbeschaffung, und wo noch Grenzen gesetzt sind. Dies gibt Nutzern einen detaillierten Einblick in die Möglichkeiten und den aktuellen Entwicklungsstand der Anwendung.",
           "einordnung": "",
-          "quelle": "GoogleWatchBlog",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSnRpQWFJa1VHcFNOY3RKZk9mRExSZVJZZm4ySlFMX1RoM2xUSjc0cFlOOGo1eEtDOEJTMFNPZ0tKTHR5SEYzQWRpTVB3UThJV0YyeVMtLTFBb3RmQ056ck5rQkJUZmp4WkVCQ1FMY0tZU2I5SjZtS2oxODVxYnEtSXFqVzE4NkFROG5qWXhJWDhXQnZYVmtCV20tendyWTNXaFpIZ1lQVWd1aEY1WUNSa0JTWVZGV1ZseUgyX3dFYU1NWnNpTW1oSzJFcGhERldSSGExcThR0gHbAUFVX3lxTFAzdFlEZmxqZThDMmZCajlueXFabmlnQVZRLVlON2d5RTlUX2h4b09DQnRwN2ctVnpKSFI3NjFLaVB2enE5S0JkcHkyQnFjdEN3WmRGUUhWUGhzMmlmelhjZXlwODJNbUNsRFducHVMRGtOaFR5RzhUSlVQaDBodVI2TllDTmpXTFdYeDJ1RGJWUk9XRnoxVnp5cUtrejFLSzIzWUZ5VDBjRHNMRWhwYmhTV3A0QUZicjZaWElBc0JRcWItTUxYbGZtTjZjbmJnZ3c0MmZ0eFFXd1lJNA?oc=5",
+          "quelle": "T-Online",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMXp0N0RZVHFvZ2QzSF9Mb1BnZW1tbTg0SS13UTd5ZUVfclkyLTZ6b28zTjdKcnpWemt1SkZFc0dMT25DV0NNUExpSnRBc3FSMkxSRGdxRlRJbGIxU3EyUWtaTkQwa2J6LVFOWjRRZ0xWWGd3aW55OExwb1N5OUdkUjg3WXR6bGN1eXVNTTVmRG41TGJVS2I2bVNMeUFzdkM2cDY1VXBBaWduWVFPVUlsdWIwZm1lVzVPWHY4X0tsX3A5N2xUWDRYTnhfaEY?oc=1",
           "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Large Language Models: 12 GPT-Alternativen - Computerwoche",
-          "zusammenfassung": "Die Computerwoche stellt zwölf Alternativen zu GPT vor, die auf dem Markt verfügbar sind. Der Artikel bietet einen Überblick über verschiedene Large Language Models und deren spezifische Anwendungsbereiche. Diese Übersicht hilft Unternehmen und Entwicklern bei der Auswahl des passenden Modells für ihre Bedürfnisse.",
-          "einordnung": "",
-          "quelle": "Computerwoche",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
-          "sterne": "⭐"
         }
       ]
     },
@@ -40,19 +48,35 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Künstliche Intelligenz: Anthropic wirft chinesischen KI-Rivalen Schummelei vor - Spiegel",
-          "zusammenfassung": "Anthropic wirft einem chinesischen KI-Rivalen vor, ihre Modelle missbräuchlich genutzt zu haben. Dies deutet auf wachsende Spannungen und den Wettbewerb im globalen KI-Markt hin. Der Vorwurf unterstreicht die Herausforderungen bei der Sicherung geistigen Eigentums in der KI-Entwicklung.",
+          "titel": "Künstliche Intelligenz: Anthropic wirft chinesischen KI-Rivalen Schummelei vor",
+          "zusammenfassung": "Anthropic hat schwere Vorwürfe gegen chinesische KI-Firmen erhoben, die angeblich ihre Modelle, insbesondere Claude, massiv und unerlaubt genutzt haben sollen. Es geht um Millionen von Anfragen, die ohne Lizenz oder Zustimmung verarbeitet wurden. Dieser Vorfall wirft Fragen bezüglich des geistigen Eigentums und der fairen Nutzung im globalen KI-Wettbewerb auf.",
           "einordnung": "",
           "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdDRaaUdIQUJiV25VXzNRZFZEa05IYUU1bDJzTWc2ZHVkZ1ZrcDdnQ1FGeWVkWVBzaE91UlFXdW9vVS1Ydjk5bk1aQTY5V0NDTENjV09HQ054VnVqM2V2elRoWklqWndaRzRqT1N1anNLaHREZl9LclFkeDhTVnVaRjhyekFnOUdJeGg1bDVNMld2UWp4OXpDQURtTW1DUHpBMnJzOExnX0JDS3JSaFkzVXZnSFNUOXM1bGtmRnJfUHg2VDlfQjNsenNjVEtnTTRkUHF3aUVfVW5FeFM0b2lXX1dPWQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdDRaaUdIQUJiV25VXzNRZFZEa05IYUU1bDJzTWc2ZHVkZ1ZrcDdnQ1FGeWVkWVBzaE91UlFXdW9vVS1Ydjk5bk1aQTY5V0NDTENjV09HQ054VnVqM2V2elRoWklqWndaRzRqT1N1anNLaHREZl9LclFkeDhTVnVaRjhyekFnOUdJeGg1bDVNMld2UWp4OXpDQURtTW1DUHpBMnJzOExnX0JDS3JSaFkzVXZnSFNUOXM1bGtmRnJfUHg2VDlfQjNsenNjVEtnTTRkUHF3aUVfVW5FeFM0b2lXX1dPWQ?oc=1",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Streit um KI-Beweise: Ein weiterer Mathematiker erhebt Vorwürfe gegen OpenAI - heise online",
-          "zusammenfassung": "Ein Mathematiker erhebt erneut Vorwürfe gegen OpenAI bezüglich der Verwendung von KI-generierten Beweisen in der Forschung. Der Streit beleuchtet die Debatte um die Verlässlichkeit und Transparenz von KI-generierten Inhalten, insbesondere in wissenschaftlichen Kontexten. Dies könnte weitreichende Implikationen für die Akzeptanz von KI in der Forschung haben.",
+          "titel": "Nvidia: Chipkonzern erwägt offenbar Milliardeneinstieg bei Anthropic-Börsengang",
+          "zusammenfassung": "Der Chiphersteller Nvidia, ein Schwergewicht in der KI-Hardware-Branche, zieht offenbar einen milliardenschweren Einstieg beim geplanten Börsengang von Anthropic in Betracht. Diese potenzielle Investition würde die strategische Bedeutung von Anthropic im KI-Markt unterstreichen und könnte die Entwicklung von Nvidias KI-Ökosystem weiter stärken. Es signalisiert ein starkes Vertrauen in das Wachstumspotenzial des KI-Unternehmens.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3hDU3VJbGNPcERSRl9lY3VRR2JyQzFteVBkLVliMDVENDNqS1BVZTNYeTJseDNWb3FxcUhLa1pSeDJiU1N3enRITWpzNzVKYTQ1STBYMzRtdFhGUzJ3Ui1Nd3hEd0Y1QnhsUG1VenZhV0tTWmdVbllEdWdEcW5NOWtidWh2aUljVlF6bmg0eGVLM0RTS0tTV0l3NUVhaEJscThiQjN5dWxSOEVPWWVHODhFUlMwUFE?oc=5",
+          "quelle": "Manager Magazin",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTDlDUnVCSTVxbHNXQzRTUzd6cWN3X19pNy1ydVJucVdBVGJUbnVjQ2RMWlROdTlmY0JrcDAxLUd3SkR5TlJuZ0JWRmRfUDJ5NTVrbkdSeE0tZFJ5NXNKQ3ZKcW1yY0xiQmx3MndtbDhFX2hTSjcxODM3aEFZVDM2X2laQUQ3OVE2eWl1WWVZU2k0R1VkMnVKcm1VcjNKZFB4eFdBekZnQjZ4R2FmVDFHN3I4bzFzN1BELXdvSmlyWnlLMnc5a3JBc3ZXYThtWWthTmw1Q0JKZzh1UUY2TmhSSVpkSmxLZVN2YU1Wal9adTNMQkd6UUxUX3pYUQ?oc=1",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "190 Millionen Claude-Anfragen: Anthropic erhebt Vorwürfe gegen chinesische KI-Firmen",
+          "zusammenfassung": "Anthropic beschuldigt chinesische KI-Unternehmen, über 190 Millionen Anfragen an ihr Claude-Modell ohne entsprechende Lizenzen gesendet zu haben. Diese massiven Zugriffe deuten auf eine systematische Verletzung der Nutzungsbedingungen und des geistigen Eigentums hin. Der Vorfall beleuchtet die Spannungen im internationalen KI-Wettbewerb und die Herausforderungen bei der Durchsetzung von Urheberrechten.",
+          "einordnung": "",
+          "quelle": "Business Insider Deutschland",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDhxeDZ2OWg0VWxHcEZpcEVkWVZVSy1TblBKRHZkbFd5LTBqYzA3cVdLNUt2YVJSQWo0cG9BZ19PWEJaNkZzUEtxandFXzFCNl90YzJYOHlFTUdINUcwaHpyd0ViaXpCQ1NrRUdyVkpHcG1fZjBsQk5hVm9rdkVDdVdhc2JhSUZBMk9aUTM3RDZEN2d2c0xvbnpjR0JCcnQ3VXh0YUJfSy1nak8wLVp0bEQtdkxaZw?oc=1",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Google AI: Starke neue Funktionen, neue Apps, Gemini-Erweiterungen und mehr für Abonnenten (Alle Infos)",
+          "zusammenfassung": "Google hat eine Reihe neuer Funktionen, Apps und Erweiterungen für seine Gemini-Abonnenten angekündigt, die das KI-Erlebnis weiter verbessern sollen. Dazu gehören verbesserte Integrationen in andere Google-Dienste und spezialisierte Tools. Diese Updates zeigen Googles Bestreben, Gemini als umfassende und vielseitige KI-Plattform zu etablieren.",
+          "einordnung": "",
+          "quelle": "GoogleWatchBlog",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSnRpQWFJa1VHcFNOY3RKZk9mRExSZVJZZk4ySlFMX1RoM2xUSjc0cFlOOGo1eEtDOEJTMFNPZ0tKTHR5SEYzQWRpTVB3UThJV0YyeVMtLTFBb3RmQ056ck5rQkJUZmp4WkVCQ1FMY0tZU2I5SjZtS2oxODVxYnEtSXFqVzE4NkFROG5qWXhJWDhXQnZYVmtCV20tendyWTNXaFpIZ1lQVWd1aEY1WUNSa0JTWVZGV1ZseUgyX3dFYU1NWnNpTW1oSzJFcGhERldSSGExcThR0gHbAUFVX3lxTFAzdFlEZmxqZThDMmZCajlueXFabmlnQVZRLVlON2d5RTlUX2h4b09DQnRwN2ctVnpKSFI3NjFLaVB2enE5S0JkcHkyQnFjdEN3WmRGUUhWUGhzMmlmelhjZXlwODJNbUNsRFducHVMRGtOaFR5RzhUSlVQaDBodVI2TllDTmpXTFdYeDJ1RGJWUk9XRnoxVnp5cUtrejFLSzIzWUZ5VDBjRHNMRWhwYmhTV3A0QUZicjZaWElBc0JRcWItTUxYbGZtTjZjbmJnZ3c0MmZ0eFFXd1lJNA?oc=1",
           "sterne": "⭐⭐"
         }
       ]
@@ -63,36 +87,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "OpenAI und KI-Training: Verlage fordern „Zerstörung“ von Daten und eingesetzten Sprachmodellen - FAZ",
-          "zusammenfassung": "Verlage fordern die \"Zerstörung\" von Daten und Sprachmodellen, die von OpenAI ohne Lizenz trainiert wurden. Diese Forderung unterstreicht die zunehmenden Spannungen zwischen KI-Entwicklern und Content-Erstellern bezüglich Urheberrecht und Datennutzung. Der Fall könnte Präzedenzfälle für die zukünftige KI-Regulierung schaffen.",
+          "titel": "EU AI Act: Kommission droht KI-Anbietern mit Bußgeldern bis 15 Mio. Euro",
+          "zusammenfassung": "Die EU-Kommission hat angekündigt, dass KI-Anbietern bei Verstößen gegen den EU AI Act empfindliche Bußgelder von bis zu 15 Millionen Euro drohen. Diese strikten Maßnahmen sollen die Einhaltung der neuen KI-Regulierungen sicherstellen und einen verantwortungsvollen Umgang mit KI-Technologien gewährleisten. Die EU unterstreicht damit ihre Rolle als Vorreiter in der KI-Regulierung.",
           "einordnung": "",
-          "quelle": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeEtSMG1kd3BDQTFncnFwQ0xnV3RGRlRfdmNYbnlrQnVvTkprZ0RLWXpzamxWTkNfYWxaZE9qOTBpdjltb1NnYk9sVVRmVVVzRWRHVVhfNGVyVDFCa0VPYmZSWUl1aXZodXFlMjNxdmtCb0tyUG95T3poNVpDQldINksyZUI4TC1BSlg1bnZaMVdiRk9GTk8teUZ1RlZnMHJ1VkJocWdvVk5GZUVkNXBCZm5jOGFfS3R6NUk5NDFaNUxyejhlWTh3NExRT2xQcm5ySGFianE5SEp1ZWJUOUJPVl9MWmYyS0NaRWgwXzhEbw?oc=5",
+          "quelle": "Börse Express",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdjVhWXY5ZXNuNE1LUEItc2xSQ1FjYlU3NzFIbVZkUHhvVkY0enZGV1U5Z2ZLMHpTcm1TZ2gxelJJb2RyZVMyMVQ1cjdjVzdISTVnTHNXMmkxb2lQWlZxZWRSUTFsN1hFMHZ2R3R5cEM1d3dubU9ReGFOZm41a1ZSeUJIcjN2cmZxdXNod3AyYW5YR3QxV0F6UFo2UG5laDRyLV84MjZJZ3BMVjFxUkJmanNJOHNLVUJTRWMxUTdqanM?oc=1",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät - Deutschlandfunk",
-          "zusammenfassung": "Der EU AI Act, Europas wegweisendes KI-Gesetz, scheint ins Stocken zu geraten. Berichte deuten auf Verzögerungen und Schwierigkeiten bei der finalen Umsetzung hin, was die Unsicherheit in der KI-Branche erhöht. Die Gründe dafür sind vielfältig und reichen von komplexen Verhandlungen bis zu unterschiedlichen nationalen Interessen.",
+          "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
+          "zusammenfassung": "Der Deutschlandfunk berichtet über die Herausforderungen und Verzögerungen bei der Implementierung des EU AI Act, Europas wegweisendem KI-Gesetz. Bürokratische Hürden, unterschiedliche Interessen der Mitgliedstaaten und technische Komplexität bremsen den Fortschritt. Dies wirft Fragen nach der Effektivität und dem Zeitplan der europäischen KI-Regulierung auf.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=1",
           "sterne": "⭐⭐"
         },
         {
           "titel": "KI Regulierung - Bundesministerium für Digitales und Staatsmodernisierung",
-          "zusammenfassung": "Das Bundesministerium für Digitales und Staatsmodernisierung informiert über den aktuellen Stand der KI-Regulierung in Deutschland. Es werden die Bemühungen der Regierung dargestellt, einen rechtlichen Rahmen für den verantwortungsvollen Einsatz von Künstlicher Intelligenz zu schaffen. Ziel ist es, Innovation zu fördern und gleichzeitig Risiken zu minimieren.",
+          "zusammenfassung": "Das Bundesministerium für Digitales und Staatsmodernisierung informiert über die aktuellen Bestrebungen zur Regulierung von Künstlicher Intelligenz auf nationaler Ebene. Es werden die Ziele und Prinzipien der deutschen KI-Politik dargelegt, die auf Innovation, Sicherheit und ethische Standards abzielen. Der Artikel bietet einen Überblick über die staatliche Haltung zur KI-Governance.",
           "einordnung": "",
           "quelle": "Bundesministerium für Digitales und Staatsmodernisierung",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85ZWthc1dYejNfNGdqSEZfTjdhMDlGdnZkREFKVmtlU1Y0eW04c0JjdS1wXzU4U2RlaHZmakRTQkNsV3pwYy1DNEJpSG9xX0NoUFVOamZTUG5MektINmFpcFdoc3IyU1FSZmF2eWVpMzQyUTRE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85ZWthc1dYejNfNGdqSEZfTjdhMDlGdnZkREFKVmtlU1Y0eW04c0JjdS1wXzU4U2RlaHZmakRTQkNsV3pwYy1DNEJpSG9xX0NoUFVOamZTUG5MektINmFpcFdoc3IyU1FSZmF2eWVpMzQyUTRE?oc=1",
           "sterne": "⭐"
-        },
-        {
-          "titel": "Neue EU-Regeln für KI: Für wen gilt die Kennzeichnungspflicht für Künstliche Intelligenz? - ZDFheute",
-          "zusammenfassung": "ZDFheute beleuchtet die neuen EU-Regeln zur Kennzeichnungspflicht für Künstliche Intelligenz. Der Artikel erklärt, welche KI-Anwendungen betroffen sind und welche Auswirkungen dies auf Entwickler und Nutzer hat. Die Kennzeichnungspflicht soll Transparenz schaffen und Verbraucher vor potenziellen Risiken schützen.",
-          "einordnung": "",
-          "quelle": "ZDFheute",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWJTMzcxNnA2U1hRZjBrLUN2ZlJnUXAtMzFKVmxheVk2NWdsNkN4ckVIQnRic05JRDh3bm4zOVg5MWZxRnlLQVlZNUFOdXNCODN5LWUzUnU1WVBPS0otYzc3UkpEaTROZWhoVEFXaF9YMElGUnhLTFdDdURKQ2pyMmFGcUw?oc=5",
-          "sterne": "⭐⭐"
         }
       ]
     },
@@ -102,95 +118,95 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme - healthcare-in-europe.com",
-          "zusammenfassung": "Large Language Models zeigen großes Potenzial in der Onkologie, stehen jedoch vor erheblichen Infrastrukturproblemen. Der Artikel diskutiert die Chancen und Herausforderungen beim Einsatz von LLMs in der medizinischen Forschung und Praxis. Es wird betont, dass Investitionen in die IT-Infrastruktur entscheidend für die volle Ausschöpfung des Potenzials sind.",
+          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
+          "zusammenfassung": "Der Einsatz von Large Language Models (LLMs) in der Onkologie birgt enormes Potenzial für Diagnostik, Therapieplanung und Forschung. Allerdings weist der Artikel auch auf erhebliche Infrastrukturprobleme hin, die eine flächendeckende Implementierung behindern. Es bedarf weiterer Investitionen und Anpassungen, um die Vorteile der KI im Gesundheitswesen voll auszuschöpfen.",
           "einordnung": "",
           "quelle": "healthcare-in-europe.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dmpiTWc?oc=1",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Was sind große Sprachmodelle (LLM)? - Databricks",
-          "zusammenfassung": "Databricks erklärt grundlegend, was Large Language Models (LLMs) sind und wie sie funktionieren. Der Artikel bietet eine Einführung in die Technologie hinter diesen mächtigen KI-Systemen. Er richtet sich an ein breiteres Publikum, das ein besseres Verständnis für die Funktionsweise von LLMs entwickeln möchte.",
+          "titel": "Large Language Models: 12 GPT-Alternativen",
+          "zusammenfassung": "Die Computerwoche stellt zwölf Alternativen zu OpenAIs GPT-Modellen vor, die Unternehmen und Entwicklern zur Verfügung stehen. Der Artikel beleuchtet verschiedene LLMs mit ihren jeweiligen Stärken und Anwendungsbereichen. Dies zeigt die Vielfalt und den Wettbewerb im Bereich der großen Sprachmodelle jenseits der bekannten Platzhirsche.",
+          "einordnung": "",
+          "quelle": "Computerwoche",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=1",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "Was sind große Sprachmodelle (LLM)?",
+          "zusammenfassung": "Databricks bietet eine grundlegende Erklärung zu Large Language Models (LLM), deren Funktionsweise und Bedeutung. Der Artikel erläutert die Kernkonzepte hinter diesen leistungsstarken KI-Systemen, die in der Lage sind, menschenähnliche Texte zu verstehen und zu generieren. Es dient als Einführung für alle, die ein besseres Verständnis von LLMs erlangen möchten.",
           "einordnung": "",
           "quelle": "Databricks",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUEZqZTJ5RTktZHViZVpiSFZjbHcwZUU1d25KX1JsU3pPODlPNlpLMXY3cDRMV1RFUHlzc1EwWFpLOVhQZTNxQTZWcVY4VmF0SkhuOThtUmtGc2NhTW1zNktReGZETG9jVjdUNjNFblM2cEE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUEZqZTJ5RTktZHViZVpiSFZjbHcwZUU1d25KX1JsU3pPODlPNlpLMXY3cDRMV1RFUHlzc1EwWFpLOVhQZTNxQTZWcVY4VmF0SkhuOThtUmtGc2NhTW1zNktReGZETG9jVjdUNjNFblM2cEE?oc=1",
           "sterne": "⭐"
         }
       ]
     },
     {
-      "emoji": "🛡️",
-      "titel": "KI & Sicherheit",
+      "emoji": "☣️",
+      "titel": "KI & Biowaffen-Prävention",
       "fest": false,
       "artikel": [
         {
-          "titel": "KI-Firma Anthropic: Russische Spione und chinesische Konzerne missbrauchen unser Modell - SZ.de",
-          "zusammenfassung": "Anthropic warnt, dass russische Spione und chinesische Konzerne ihre KI-Modelle missbrauchen könnten. Das Unternehmen betont die Notwendigkeit robuster Sicherheitsmaßnahmen und internationaler Zusammenarbeit, um solche Missbräuche zu verhindern. Diese Enthüllung wirft ernste Fragen zur nationalen Sicherheit und zum Schutz kritischer KI-Technologien auf.",
+          "titel": "Künstliche Intelligenz: Anthropic stoppt mögliche Versuche, KI zur Entwicklung von Biowaffen zu nutzen",
+          "zusammenfassung": "Anthropic hat proaktiv Maßnahmen ergriffen, um potenzielle Versuche zu unterbinden, ihre KI-Modelle für die Entwicklung von Biowaffen zu missbrauchen. Das Unternehmen betont seine Verpflichtung zur Sicherheit und Ethik und arbeitet daran, solche gefährlichen Anwendungen frühzeitig zu erkennen und zu blockieren. Dies unterstreicht die wachsenden Bedenken hinsichtlich des Missbrauchspotenzials leistungsstarker KI-Systeme.",
           "einordnung": "",
-          "quelle": "SZ.de",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVXBfNk9uZkVucDNaYXNBczZsbGdHUzZ1Q25hUE96bkoxeDd0NFE1ZUIyZEZTeUxUazVLVk1oR3d6R2FwNE5wbmdQV1htWUI2dlQ2enc5SWk3cW0zSmVVR0J1SFAtaFR3SWxlZUpyU1lOampWdUlZdGJFTGxqZWtYakdqanZrQUZhblRfbFoyN3R6bV8tZ3lUVGt2WG1jWHVMV1A0NGMyMTV0bXRK?oc=5",
+          "quelle": "WELT",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZ25vZnRKRGxFVGRZWHI3by1uM0Nkdm9hY25QUlFBM25hLUxMcHozOGltay01QW9RT19feU9DXzl1dUloak44YTdfSDlrRWw3LTlDdS13aXJjOGg1cjNva3BpZG1UWE1HbGxuZDZ0RWF4eGFpVGVfTDJ2ajlqWU1aVjlfRWVyUndCeno3Y2RBQmkxRm16SnVqNXFlbzljUkhmQ2VrdjAxVGF2a1FSRmNtblN0ZDg1R1NBVmJKYXNrdlB6Nzc4OWdEWWdLVVJhOEVIVERhTlFBaU85d2ZTNnp1dTZ6N29mVVRmMm1LXzNhbkNGX0FPbFh3M01sRmNuUVU?oc=1",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "KI von Anthropic: Anthropic warnt vor Nutzung von Claude für Biowaffen - DIE ZEIT",
-          "zusammenfassung": "Anthropic warnt eindringlich vor der möglichen Nutzung ihres KI-Modells Claude zur Entwicklung von Biowaffen. Diese Warnung unterstreicht die ethischen und sicherheitstechnischen Risiken fortschrittlicher KI-Systeme. Das Unternehmen fordert eine verantwortungsvolle Entwicklung und strenge Sicherheitsvorkehrungen, um Missbrauch zu verhindern.",
+          "titel": "KI von Anthropic: Anthropic warnt vor Nutzung von Claude für Biowaffen",
+          "zusammenfassung": "Anthropic hat eine eindringliche Warnung herausgegeben, dass ihr KI-Modell Claude nicht für die Entwicklung oder den Einsatz von Biowaffen missbraucht werden darf. Das Unternehmen betont die Notwendigkeit strenger Sicherheitsvorkehrungen und ethischer Richtlinien, um den potenziell gefährlichen Einsatz von KI-Technologien zu verhindern. Diese Warnung unterstreicht die ernsthaften Sicherheitsbedenken in der KI-Forschung.",
           "einordnung": "",
           "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWIxZ3NoWDBCTWtCdDEwQWx0d2F4eW1QWXhJcEtLa0ZlXzdjV0pwbWhWRHAxZnhxMzd3TXBORnJHVXN2d2pDVXRUMUVWa0c2RHB1WTdIc245dnU1WDlsczZSSktURkRoNFlyYkF0WUo1OGNOelRLTGZ4SU44cEgtcWEwdzc2TFdmeTZaSjg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjl4Vm1ZRDgzVzZEdUFRMlg2Y2JTNVBsVGN2OU03V1B4ZHJ5c1BtS2N5QW9HVFlpcmZKM0wxWWpJS3l4aFo5ZEROcWNhdzRlUDlyZkVFM0oydXpNT0ROWEMxVTdmbWs4d3FJVUNvWXNnaXFFY0N0czhmOWJweFBGVjlsUko0TTZSZGNBUkFOdXZFUQ?oc=1",
           "sterne": "⭐⭐⭐"
         }
       ]
     },
     {
-      "emoji": "🤔",
-      "titel": "KI & Kontroversen & Gesellschaft",
+      "emoji": "🚨",
+      "titel": "KI & Risikobewertung",
       "fest": false,
       "artikel": [
         {
-          "titel": "„Ein Teil versucht immer noch, den Begriff zu buchstabieren“ – Die große KI-Ratlosigkeit - welt.de",
-          "zusammenfassung": "Der Artikel beleuchtet die anhaltende Unsicherheit und Ratlosigkeit in Bezug auf die Definition und das Verständnis von Künstlicher Intelligenz in der Gesellschaft. Viele Akteure, von Politik bis Wirtschaft, ringen noch mit den grundlegenden Konzepten und Implikationen der Technologie. Dies erschwert eine kohärente Strategie und Kommunikation im Umgang mit KI.",
+          "titel": "ChatGPT und GPT-6 Astra: Warum Experten deutlich warnen",
+          "zusammenfassung": "Experten äußern deutliche Warnungen bezüglich der Risiken, die mit dem Einsatz von Modellen wie ChatGPT und dem neuen GPT-6 Astra verbunden sind. Sie weisen auf potenzielle Gefahren wie die Verbreitung von Falschinformationen, ethische Dilemmata und die Notwendigkeit einer verantwortungsvollen Entwicklung hin. Die rasante Entwicklung der KI erfordert eine kritische Auseinandersetzung mit ihren Auswirkungen.",
           "einordnung": "",
-          "quelle": "welt.de",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOUl5Sk1HWks4SUdacWZ4alhsX3gxWS1lMXhySWFPNWZJR3VxamxhSF91VjB1bjFBME9NWnRVbU5OV3BjQnR2djlBZzBtZ1VmeV8wWUtNaGdLTWR1UEMzdDl2UFNrcncwMTVreFZ6WUhvTHdORVRiR3pleGV1Y2Rlc092Ri00YVRPR3dEekx3b0NzMHBCNFhSWXB1cTVXYXRQUFQzb3lDNUlMcWEwQ1NzeVROVmpLMUtNQlVyQXp1blZGVHg5eUJYWHhEVHJteGRnRGlYT2JRa1F2SjM4R3JSQ2E1VnNpU01CVGNWRjRlZ0hxQldDNUNDSllIQ3drOFZ0cXNnY3FQMjZMUQ?oc=5",
-          "sterne": "⭐"
+          "quelle": "CHIP",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNWVqeWVmcVRVZG5ueFhPWTlNd2lSdkdEaURCclNXbVhGVmJtR0QwdG44UlI1ZV8wNGhwTFl0akpZMzFVQWZyT2JuV0hLRGZ1Y0hmWHBnNWhXM3VsTmV3TXlOWElEZ0FMUS1IWVZvaDFGSkJNejdMRC1xZllZbWp1OEtIckczUnF1WjdXazRjTTM5bTJKUDM1Mjg4bFBRbUZkeVlwNXV0M2w5YkFma0ZMemZ0TmtHWWlGTU84T3JVYWtTakVTOU5ORUx3?oc=1",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "Andrew Garfield nutzt nach Sam-Altman-Rolle kein ChatGPT mehr - Spiegel",
-          "zusammenfassung": "Schauspieler Andrew Garfield gibt an, nach seiner Rolle als Sam Altman kein ChatGPT mehr zu nutzen. Seine Erfahrungen während der Vorbereitung auf die Rolle haben ihn offenbar dazu bewogen, eine kritischere Haltung gegenüber der Technologie einzunehmen. Dies spiegelt eine wachsende Skepsis in der Öffentlichkeit wider, selbst bei Personen, die tief in das Thema eintauchen.",
+          "titel": "KI-Jugendschutz: Anthropic sperrt Claude für unter 18-Jährige",
+          "zusammenfassung": "Anthropic hat eine Altersbeschränkung für die Nutzung seines KI-Modells Claude eingeführt und sperrt den Zugang für Personen unter 18 Jahren. Diese Maßnahme dient dem Jugendschutz und soll Minderjährige vor potenziell unangemessenen Inhalten oder Risiken im Umgang mit leistungsstarker KI bewahren. Es ist ein Schritt zur verantwortungsvollen Gestaltung von KI-Produkten.",
           "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN2RNTllpbWk1cWRSYTk1QTRYdHFuVERFc2hRTUU1UFhMNUc5aVdPblF2ZC1RbmpfTExUMERmMFhzV1puN2F4NnV3Smh2TGNRWHR6NjBCZTk0c2ppb1Zjb0NocGxrZHJXQmJQeHIwOUlPNkJwSjAyTnJoU0M2ZE1nUnc0dHotazI2RDZyaFh0WWRONTNfV0REVkp4dGNsSExWMUFWdkZpRDNickZleEt4Q0dEd0lsb0VlMzBnYjlMNTliaVRJdEhuRVBhRzNqNU1CWGJNVWZEOVBsMDdPRURzUUtDMjFfelozakZieGE5MWhrVnpvZXh1UQ?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "Wanderroute mit Google Gemini geplant: Notrettung! - BILD",
-          "zusammenfassung": "Ein Vorfall, bei dem eine mit Google Gemini geplante Wanderroute zu einer Notrettung führte, sorgt für Aufsehen. Der Artikel hinterfragt die Verlässlichkeit von KI-Planungstools in kritischen Situationen und mahnt zur Vorsicht. Dies verdeutlicht die Grenzen aktueller KI-Anwendungen und die Notwendigkeit menschlicher Überprüfung.",
-          "einordnung": "",
-          "quelle": "BILD",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQlhQaElzNU0taTdvcXVnTDJSXzdVZVIyY1ZVbWs0a21lQUVTMnE4bXBBN3ZwNE9HTU9IMVJ1TjFwUTdzSW5KVXBvSDVzUDBPZlQxWlRBUE52YmxnQ0wtNVk1NE1KN1R0ZnVtWUZSQ1RhZl9EV2VRTUVsUTI2SXNiazBBOUZaWFJxazN6MnlhR3oxR0t5LS1YRzdsUzlCalJjcUFvOF9Qdl90QlFLVy1uS0pCdk0?oc=5",
-          "sterne": "⭐"
+          "quelle": "Börse Express",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTR3d2FtR3I3a0s1R2dEOXQ0WGNUeG9lTXE4QnNlbTdFYVVneXdWX0FWM0ozTnZMTERrUWw5bTBsSGRjaWdBcFF1T25naWRfTjdOZ3NjYTZzRzBzSVJKaWRXS3d1cnJTZGQ5ZTZYbm1yaEJ5d05nQ1NrbzA1VnNodVpmT1hHcFNmbzlTaVloTVRVT002RGVPc21vZ1FFSXdEcTJjcjdvSllrTTlUd0d3Z3p4VkE?oc=1",
+          "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-09-11T10:07:07.942Z",
+  "generiert_um": "2026-09-12T09:41:58.233Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
       "desc": "Mo, Mi, Fr · mit The Decoder",
-      "episode": "KI-Update kompakt: Schöne Neue KI-Welt, WeWorm, KI-Agenten, Tiersprache",
-      "datum": "9.9.2026",
-      "dauer": "23 Min.",
+      "episode": "KI-Update IFA-Spezial: KI in der Popkultur – zwischen Vision und Wunschdenken",
+      "datum": "11.9.2026",
+      "dauer": "55 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/f1/22/9bf12286-42a8-2765-8a9d-91a07df6b535/mza_1407979254960059607.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp"
     },
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "Kleine Modelle, leere Rechenzentren? | Vances satanische KI | Sheins schlechteste IPO-Woche #595",
-      "datum": "8.9.2026",
-      "dauer": "85 Min.",
+      "episode": "10% Risiko zu sterben, 10% mehr Wachstum | 200 Millionen Destillationsanfragen | Kapital schlägt Arbeit #596",
+      "datum": "11.9.2026",
+      "dauer": "87 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
