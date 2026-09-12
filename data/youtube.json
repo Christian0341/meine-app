@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-09-11T12:07:44.729850+00:00",
+  "aktualisiert": "2026-09-12T11:33:31.281090+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "LayerLens",
+      "titel": "OpenAI Agents Built a Secret Wiki. Evals Missed It.",
+      "link": "https://www.youtube.com/watch?v=fYU7nBo0ipM",
+      "video_id": "fYU7nBo0ipM",
+      "thumbnail": "https://img.youtube.com/vi/fYU7nBo0ipM/mqdefault.jpg",
+      "datum": "2026-09-11T13:55:08Z",
+      "datum_de": "11.09.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Akademie4KI",
       "titel": "In Rekordzeit zum Experten – So lernst Du ALLES mit Gemini Study Notebook",
@@ -30,6 +40,16 @@
       "thumbnail": "https://img.youtube.com/vi/GOPuNKakJlQ/mqdefault.jpg",
       "datum": "2026-09-11T05:00:22Z",
       "datum_de": "11.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "HardReset_info Deutsch",
+      "titel": "SAMSUNG Galaxy Z Fold 8 – Gemini Intelligence und App-Automatisierung nutzen",
+      "link": "https://www.youtube.com/watch?v=G2oSKV0viyY",
+      "video_id": "G2oSKV0viyY",
+      "thumbnail": "https://img.youtube.com/vi/G2oSKV0viyY/mqdefault.jpg",
+      "datum": "2026-09-10T18:49:24Z",
+      "datum_de": "10.09.2026",
       "quelle": "suche"
     },
     {
@@ -73,6 +93,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Us em Läbe",
+      "titel": "Lernapp Voci lernen mit KI Claude",
+      "link": "https://www.youtube.com/watch?v=X-lYewTMgMw",
+      "video_id": "X-lYewTMgMw",
+      "thumbnail": "https://img.youtube.com/vi/X-lYewTMgMw/mqdefault.jpg",
+      "datum": "2026-09-10T13:24:46Z",
+      "datum_de": "10.09.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "WonderSmith AI",
       "titel": "Why Were OpenAI Agents Writing on a German Wiki?",
       "link": "https://www.youtube.com/watch?v=1HM4mpFe-FU",
@@ -89,16 +119,6 @@
       "video_id": "jPOe45rxeOE",
       "thumbnail": "https://img.youtube.com/vi/jPOe45rxeOE/mqdefault.jpg",
       "datum": "2026-09-09T16:50:28Z",
-      "datum_de": "09.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ABs of Life",
-      "titel": "OpenAI&#39;s Agents Coordinated on a Dead Wiki  ·  Nvidia Is Sitting on a $99B Stock Pile  ·  Adobe&#39;s 18",
-      "link": "https://www.youtube.com/watch?v=0PAX24TrUnA",
-      "video_id": "0PAX24TrUnA",
-      "thumbnail": "https://img.youtube.com/vi/0PAX24TrUnA/mqdefault.jpg",
-      "datum": "2026-09-09T16:17:47Z",
       "datum_de": "09.09.2026",
       "quelle": "suche"
     },
@@ -129,26 +149,6 @@
       "video_id": "zQcatAdqjko",
       "thumbnail": "https://img.youtube.com/vi/zQcatAdqjko/mqdefault.jpg",
       "datum": "2026-09-08T17:42:04+00:00",
-      "datum_de": "08.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "NANCY | KI-Workflows im Büro",
-      "titel": "KRASSES NotebookLM &amp; Gemini Notebook Update: Echte PowerPoint erstellen",
-      "link": "https://www.youtube.com/watch?v=0KmFHNou6T0",
-      "video_id": "0KmFHNou6T0",
-      "thumbnail": "https://img.youtube.com/vi/0KmFHNou6T0/mqdefault.jpg",
-      "datum": "2026-09-08T15:36:43Z",
-      "datum_de": "08.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Es beginnt: KI-Schwärme brechen aus und bilden \"Zivilisationen\"",
-      "link": "https://www.youtube.com/watch?v=kvy01SpQp8s",
-      "video_id": "kvy01SpQp8s",
-      "thumbnail": "https://img.youtube.com/vi/kvy01SpQp8s/mqdefault.jpg",
-      "datum": "2026-09-08T15:15:18+00:00",
       "datum_de": "08.09.2026",
       "quelle": "kanal"
     }
