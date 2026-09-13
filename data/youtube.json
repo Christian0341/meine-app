@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-09-12T11:33:31.281090+00:00",
+  "aktualisiert": "2026-09-13T12:39:26.076261+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "RionBuilds",
+      "titel": "n8n Einrichtung: Alles was Du wissen musst (Schritt-für-Schritt)!",
+      "link": "https://www.youtube.com/watch?v=9M5ceMU9bzo",
+      "video_id": "9M5ceMU9bzo",
+      "thumbnail": "https://img.youtube.com/vi/9M5ceMU9bzo/mqdefault.jpg",
+      "datum": "2026-09-13T11:42:51Z",
+      "datum_de": "13.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Es ist passiert: KI löst ein Millenium-Problem! DAS bedeutet es jetzt wirklich + weitere KI-News",
+      "link": "https://www.youtube.com/watch?v=nV55rZLPPjc",
+      "video_id": "nV55rZLPPjc",
+      "thumbnail": "https://img.youtube.com/vi/nV55rZLPPjc/mqdefault.jpg",
+      "datum": "2026-09-13T08:15:37+00:00",
+      "datum_de": "13.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Michael Rolle Ungeschnitten",
+      "titel": "ChatGPT Ads Tutorial Deutsch - Erste Kampagne erstellen (in nur 10 Minuten)",
+      "link": "https://www.youtube.com/watch?v=7vVV96zAizg",
+      "video_id": "7vVV96zAizg",
+      "thumbnail": "https://img.youtube.com/vi/7vVV96zAizg/mqdefault.jpg",
+      "datum": "2026-09-12T18:00:42Z",
+      "datum_de": "12.09.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "LayerLens",
       "titel": "OpenAI Agents Built a Secret Wiki. Evals Missed It.",
@@ -40,6 +70,16 @@
       "thumbnail": "https://img.youtube.com/vi/GOPuNKakJlQ/mqdefault.jpg",
       "datum": "2026-09-11T05:00:22Z",
       "datum_de": "11.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "HardReset_info Deutsch",
+      "titel": "SAMSUNG Galaxy Z Fold 8 – Gemini Notebook auf dem großen Display nutzen",
+      "link": "https://www.youtube.com/watch?v=a4AKsxkTQqU",
+      "video_id": "a4AKsxkTQqU",
+      "thumbnail": "https://img.youtube.com/vi/a4AKsxkTQqU/mqdefault.jpg",
+      "datum": "2026-09-10T19:10:59Z",
+      "datum_de": "10.09.2026",
       "quelle": "suche"
     },
     {
@@ -93,32 +133,12 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Us em Läbe",
-      "titel": "Lernapp Voci lernen mit KI Claude",
-      "link": "https://www.youtube.com/watch?v=X-lYewTMgMw",
-      "video_id": "X-lYewTMgMw",
-      "thumbnail": "https://img.youtube.com/vi/X-lYewTMgMw/mqdefault.jpg",
-      "datum": "2026-09-10T13:24:46Z",
-      "datum_de": "10.09.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "WonderSmith AI",
       "titel": "Why Were OpenAI Agents Writing on a German Wiki?",
       "link": "https://www.youtube.com/watch?v=1HM4mpFe-FU",
       "video_id": "1HM4mpFe-FU",
       "thumbnail": "https://img.youtube.com/vi/1HM4mpFe-FU/mqdefault.jpg",
       "datum": "2026-09-09T19:30:06Z",
-      "datum_de": "09.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "HardReset_info Deutsch",
-      "titel": "GOOGLE Pixel 11 – Gemini nutzen und bedienen",
-      "link": "https://www.youtube.com/watch?v=jPOe45rxeOE",
-      "video_id": "jPOe45rxeOE",
-      "thumbnail": "https://img.youtube.com/vi/jPOe45rxeOE/mqdefault.jpg",
-      "datum": "2026-09-09T16:50:28Z",
       "datum_de": "09.09.2026",
       "quelle": "suche"
     },
@@ -131,26 +151,6 @@
       "datum": "2026-09-09T16:00:18Z",
       "datum_de": "09.09.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "5000 Stunden AI AGENT Erfahrung: Das ist das BESTE Setup",
-      "link": "https://www.youtube.com/watch?v=HfbSSyi9Wxg",
-      "video_id": "HfbSSyi9Wxg",
-      "thumbnail": "https://img.youtube.com/vi/HfbSSyi9Wxg/mqdefault.jpg",
-      "datum": "2026-09-09T14:15:24+00:00",
-      "datum_de": "09.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "GPT-6 ist da! Alles was du über ASTRA wissen musst!",
-      "link": "https://www.youtube.com/watch?v=zQcatAdqjko",
-      "video_id": "zQcatAdqjko",
-      "thumbnail": "https://img.youtube.com/vi/zQcatAdqjko/mqdefault.jpg",
-      "datum": "2026-09-08T17:42:04+00:00",
-      "datum_de": "08.09.2026",
-      "quelle": "kanal"
     }
   ]
 }
