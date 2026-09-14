@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-09-13T12:39:26.076261+00:00",
+  "aktualisiert": "2026-09-14T13:49:31.287479+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "KRASS AGI ist hier: ChatGPT Astra kann jetzt alles?!",
+      "link": "https://www.youtube.com/watch?v=PrGuMv7Qqqo",
+      "video_id": "PrGuMv7Qqqo",
+      "thumbnail": "https://img.youtube.com/vi/PrGuMv7Qqqo/mqdefault.jpg",
+      "datum": "2026-09-13T14:15:28+00:00",
+      "datum_de": "13.09.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "RionBuilds",
       "titel": "n8n Einrichtung: Alles was Du wissen musst (Schritt-für-Schritt)!",
@@ -123,6 +133,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Zinho Automates",
+      "titel": "ChatGPT-6 Astra + Higgsfield AI = 9 INSANE Use Cases",
+      "link": "https://www.youtube.com/watch?v=UehtPgmeBAw",
+      "video_id": "UehtPgmeBAw",
+      "thumbnail": "https://img.youtube.com/vi/UehtPgmeBAw/mqdefault.jpg",
+      "datum": "2026-09-10T14:28:28Z",
+      "datum_de": "10.09.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "IchBinFabian",
       "titel": "Ich habe mein komplettes Business-Team durch KI Agenten ersetzt",
       "link": "https://www.youtube.com/watch?v=OdiuXo4uZKE",
@@ -130,26 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/OdiuXo4uZKE/mqdefault.jpg",
       "datum": "2026-09-10T14:00:23Z",
       "datum_de": "10.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "WonderSmith AI",
-      "titel": "Why Were OpenAI Agents Writing on a German Wiki?",
-      "link": "https://www.youtube.com/watch?v=1HM4mpFe-FU",
-      "video_id": "1HM4mpFe-FU",
-      "thumbnail": "https://img.youtube.com/vi/1HM4mpFe-FU/mqdefault.jpg",
-      "datum": "2026-09-09T19:30:06Z",
-      "datum_de": "09.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "tkay",
-      "titel": "Claude + Gemini = 133.025,44€ in 60 Tagen",
-      "link": "https://www.youtube.com/watch?v=QDlbKLo-pbc",
-      "video_id": "QDlbKLo-pbc",
-      "thumbnail": "https://img.youtube.com/vi/QDlbKLo-pbc/mqdefault.jpg",
-      "datum": "2026-09-09T16:00:18Z",
-      "datum_de": "09.09.2026",
       "quelle": "suche"
     }
   ]
