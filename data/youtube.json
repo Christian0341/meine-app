@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-09-14T13:49:31.287479+00:00",
+  "aktualisiert": "2026-09-15T12:34:55.649736+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "MAUTTEC",
+      "titel": "HubSpot KI Agenten in Workflows nutzen! Anleitung 2026",
+      "link": "https://www.youtube.com/watch?v=YexnYWD13GU",
+      "video_id": "YexnYWD13GU",
+      "thumbnail": "https://img.youtube.com/vi/YexnYWD13GU/mqdefault.jpg",
+      "datum": "2026-09-14T14:21:01Z",
+      "datum_de": "14.09.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Sascha Taschan",
       "titel": "KRASS AGI ist hier: ChatGPT Astra kann jetzt alles?!",
@@ -139,16 +149,6 @@
       "video_id": "UehtPgmeBAw",
       "thumbnail": "https://img.youtube.com/vi/UehtPgmeBAw/mqdefault.jpg",
       "datum": "2026-09-10T14:28:28Z",
-      "datum_de": "10.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "IchBinFabian",
-      "titel": "Ich habe mein komplettes Business-Team durch KI Agenten ersetzt",
-      "link": "https://www.youtube.com/watch?v=OdiuXo4uZKE",
-      "video_id": "OdiuXo4uZKE",
-      "thumbnail": "https://img.youtube.com/vi/OdiuXo4uZKE/mqdefault.jpg",
-      "datum": "2026-09-10T14:00:23Z",
       "datum_de": "10.09.2026",
       "quelle": "suche"
     }
