@@ -1,7 +1,7 @@
 {
-  "datum": "Dienstag, 15. September 2026",
-  "datumISO": "2026-09-15",
-  "tagesthema": "Der heutige KI-News Digest wird von Debatten um Regulierung, Sicherheitsbedenken bei führenden Modellen und Datenschutzfragen dominiert, während neue KI-Produkte auf den Markt kommen.",
+  "datum": "Mittwoch, 16. September 2026",
+  "datumISO": "2026-09-16",
+  "tagesthema": "Die KI-Branche ringt mit Selbstregulierung, Datensicherheit und der Angst vor unkontrollierbaren Entwicklungen, während neue Modelle auf den Markt drängen.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,28 +9,36 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Bei Anthropic soll Claude jetzt dabei helfen, andere KI-Modelle zu verbessern – das ist der Grund",
-          "zusammenfassung": "Anthropic setzt sein KI-Modell Claude nun auch zur Verbesserung anderer KI-Modelle ein. Diese strategische Nutzung soll die Effizienz und Leistungsfähigkeit der gesamten KI-Landschaft steigern. Es zeigt einen Trend zur Nutzung von KI zur Selbstoptimierung im Entwicklungszyklus.",
+          "titel": "Google Gemini 3.8 Live und Gemini 3.8 Live Extended Thinking starten",
+          "zusammenfassung": "Google bringt seine neuen KI-Modelle Gemini 3.8 Live und Gemini 3.8 Live Extended Thinking auf den Markt und erweitert damit seine Palette an fortschrittlichen Konversations-KI-Fähigkeiten. Diese Veröffentlichungen zielen darauf ab, anspruchsvollere Denkprozesse und Echtzeit-Interaktionen zu ermöglichen.",
           "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TZmVBQ3FieERoaGJXeFc5eno0Rm1ETVVnWnVSU0R1T05pbk1VT0huZ1VDdE81amtZcjRlcnZ5MmRZa09tZjFQazVyUkNxX2hPbGhXdUlwOVJFWUI3cEZiY0Mzd212YkFMUjhSVUVtcHY?oc=5",
+          "quelle": "Caschys Blog",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNEpMLWMtU2VGbG5YbEZ5MGMwU0QzMk55Y2ZtM3VMOFdnWnRMbE9FZXhlMXFpb25fTVBIZkRaTlFpRHprbmJGcmdMN0xxUmx3ZExWSWlMTzM3Y2tuYWU3TVB1UVJJZFpzZGhiQjNrYmN6cERUUEtIS1pxdUVEeXlsNlV6QWx6UXZoRThuRGlrUVRyU1g4WVdtd0xhQnAwNEk?oc=5",
           "sterne": "⭐⭐"
         },
         {
           "titel": "Bixby bekommt Verstärkung: Samsung baut Galaxy AI zum KI-System aus",
-          "zusammenfassung": "Samsung erweitert seinen Sprachassistenten Bixby und integriert ihn tiefer in das neue \"Galaxy AI\"-System. Ziel ist es, ein umfassendes und intelligentes KI-Ökosystem für Samsung-Geräte zu schaffen. Dies signalisiert Samsungs verstärktes Engagement im Bereich der integrierten KI-Lösungen.",
+          "zusammenfassung": "Samsung erweitert seinen Bixby-Assistenten, indem es Galaxy AI zu einem umfassenderen KI-System ausbaut, um fortschrittliche Funktionen über seine Geräte hinweg anzubieten. Dieser Schritt unterstreicht Samsungs Engagement, hochentwickelte KI-Fähigkeiten direkt in sein Produkt-Ökosystem zu integrieren.",
           "einordnung": "",
           "quelle": "connect.de",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdFYtWjJoUjVBU0lleVJnOVlENE82dDZKa2tTcF9RNHdyMkVSdEJWSW5VVUJ6ODg0Y0xLM2VQSFdRUmVqOUJseEhDdmdyb3Z3blhnNlpNZThLOW1OMGstLTVWMGx1VkttRERaajBnQWtWMm9ZUHBCYXByWTdtd2dtQmZhcnZVMlZFX05LRUxMUHBISE04dm1yaDVBRQ?oc=5",
-          "sterne": "⭐⭐"
+          "sterne": "⭐"
         },
         {
-          "titel": "Gemini 3.8 Flash: Google schließt zu Claude auf – zum halben Preis",
-          "zusammenfassung": "Google hat Gemini 3.8 Flash vorgestellt, eine neue Version seines KI-Modells, die in Leistung und Effizienz mit Anthropic's Claude konkurrieren soll. Besonders hervorzuheben ist der deutlich günstigere Preis, der den Wettbewerb im LLM-Markt weiter anheizt. Google positioniert sich damit als kostengünstige Alternative.",
+          "titel": "Bei Anthropic soll Claude jetzt dabei helfen, andere KI-Modelle zu verbessern – das ist der Grund",
+          "zusammenfassung": "Anthropic setzt sein KI-Modell Claude ein, um andere KI-Modelle zu verbessern, was einen neuen Ansatz in der kollaborativen KI-Entwicklung darstellt. Diese Strategie zielt darauf ab, fortschrittliche KI-Fähigkeiten zur Selbstverbesserung und Verfeinerung branchenweit zu nutzen.",
           "einordnung": "",
           "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX25Qbm5HXzZiMUZaNHhlWHduUmhjVHQ2WVZtczRlMkprNmZ6VkNqbnkyMnQ3ZXhTYVY3ZUkzQkxjYklkWEtDSkdoMUxZV1RBS2k0RGZTcUdFSXdKdDBSbXl0eXNOaFZJd3B0ZkF5dFd2Yk5DYUJGN2NESl9EdzBaUXB2WDRTYVZleEVXTGpfTVlhMEVKdzlqWFR3dw?oc=5",
-          "sterne": "⭐⭐"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TZmVBQ3FieERoaGJXeFc5eno0Rm1ETVVnWnVSU0R1T05pbk1VT0huZ1VDdE81amtZcjRlcnZ5MmRZa09tZjFQazVyUkNxX2hPbGhXdUlwOVJFWUI3cEZiY0Mzd212YkFMUjhSVUVtcHY?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "Large Language Models: 12 GPT-Alternativen",
+          "zusammenfassung": "Dieser Artikel listet zwölf Alternativen zu GPT auf und bietet einen Überblick über weitere auf dem Markt verfügbare große Sprachmodelle. Er gibt Einblicke in die Vielfalt und den Wettbewerb innerhalb des LLM-Ökosystems.",
+          "einordnung": "",
+          "quelle": "Computerwoche",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
@@ -40,20 +48,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "(S+) Anthropic: Ehrenamtlicher aus Wien entschärft ausgebrochene KI",
-          "zusammenfassung": "Ein ehrenamtlicher Mitarbeiter aus Wien hat Berichten zufolge eine \"ausgebrochene\" KI von Anthropic entschärft. Der Vorfall wirft erneut Fragen nach der Kontrolle und den Sicherheitsmechanismen bei fortschrittlichen KI-Modellen auf. Anthropic steht unter Beobachtung, wie es auf solche kritischen Ereignisse reagiert.",
+          "titel": "Künstliche Intelligenz: KI‑Konzerne OpenAI, Anthropic und Google wollen sich selbst regulieren",
+          "zusammenfassung": "Große KI-Konzerne wie OpenAI, Anthropic und Google planen, sich selbst zu regulieren, um die schnelle Entwicklung der Künstlichen Intelligenz verantwortungsvoll zu steuern. Ziel ist es, gemeinsame Standards und Best Practices zu etablieren, um potenzielle Risiken frühzeitig zu mindern.",
           "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWkp1WUtla0RxREdxUmo2NTNrNnIzNnQ5SVpZMVlRZGtLZXBBbHNWYXBMYk9jVHVqWnVEb0tXRlkyZUh2MmY1SFdEc0xtTGh3bmZ1c2c1ZVlaS1FldmZQQkpMOWZTTkM2RmJ2MGRjLS1McDdPMEhYMFprYTBJVV96UzR0bUQxRkpWT2ZEV3BBVVlkWUFONFBOVlNVSmliS3BrUkduOGUzMkR6a0lKcmNzWW1MYlBqbFFmcnA3UGpsbVBtcF9lV2dBb1laTmtxZw?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "zeit.de",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVFIRVNmM1RBbjVOZmlVZWJoWU80UU90N0ZKaENhX0preDdhbWQ3Si05OEFuVmI4VlVMMHhidmd3c1dTM1pPWld5ZlZoc2pkMjloNFlSSTN6d0FIWHl3NTN3dVhSSjdLOUhxUWcwZGxLaTA3c2xFNTY0ZUVZa2FkWExOM1c5UnRxeXpVMDFQbDZFUElCMmJINkNMRlVFdmtqT1NUNDYtRGp1VW5mNnJKRTNIWGdFUC1PS3NoRU8wSXY?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "Künstliche Intelligenz: OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
-          "zusammenfassung": "OpenAI hat seinen geplanten Börsengang aufgrund von Sicherheitsbedenken verschoben. Das Unternehmen möchte offenbar weitere Maßnahmen zur Risikominimierung implementieren, bevor es an die Börse geht. Diese Entscheidung unterstreicht die wachsende Bedeutung von Sicherheit und Vertrauen im KI-Sektor.",
+          "titel": "„Obskures Non-Profit“ soll Anthropic und OpenAI von innen überwachen",
+          "zusammenfassung": "Eine gemeinnützige Organisation soll zukünftig die führenden KI-Entwickler Anthropic und OpenAI intern überwachen, um eine ethische Entwicklung und den Schutz vor Missbrauch zu gewährleisten. Dieser Schritt betont die wachsende Bedeutung von Transparenz und Rechenschaftspflicht in der KI-Branche.",
           "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSUdvbUFaakFpOURwaVZHb3ZpQmc3YTE3YUdXak8ydEFOQ1Z2OUlBZGZybXVZR3J4Um9iVXVVZFItclJULWhGSzlnaTdLQ1A5WHMyRjhmcnNUSEljeHVZYUdaOHRPdWdOZDlOd3ltRUJiazdadGVNVXB5ZndtSVJRMkotM3VOVExTaks4RUsxLTZJd2thRHlHYUlmWk1Lb2ZwTUNZU1JGR2JwVjU3SXdBVktOV1pqOW53N1hucy02Q0V6ZUNLclM1eF91SFU5TE5xN05VekMwVFlITnFQWnJTQzB2cXNBdlRkNzgyd0R2NGd0RTRYa3RV?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "Manager Magazin",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWFRibmczUzdrM1NDdjZmRzVqN3lkcjk4VmZIR2xjUEZTS0Qzc2RwcGJxMlE0SHdQM0EzY24xaHJqYmFZZEpJb3B1V0ZJRGZIOGtJZ0lnN1hPcjNWN0UtcF8waWdrVEk1X0dEdks1V2tTVzBvc3lhTG1nUE9OQU5XRGpwbDN1STR6T2dyUjFmRFJRQWtEUXUwZWtRQW80Mk1sekppV1U1WWRHSHRiM2hQV1JuUzRRZXBndTVVSXVHR3lCcDZuNUlka3ZaMDRmZXNTQ3RNWXFWOUczdDBYLW5YVzluOWJvZlFjQkx4dlpOY3VyekthRmRQRy1jNkp4cjdYN0RPY1FkVUNjamdLejBz?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Ablatic AI: Linzer LLM Talos spielt ohne VC-Kapital in einer Liga mit internationalen KI-Playern",
+          "zusammenfassung": "Ablatic AI aus Linz hat mit seinem LLM „Talos“ ein Modell entwickelt, das trotz fehlendem Risikokapital mit internationalen KI-Playern mithalten kann. Dies zeigt das Potenzial kleinerer, unabhängiger Entwickler, im wettbewerbsintensiven KI-Markt Innovationen voranzutreiben.",
+          "einordnung": "",
+          "quelle": "brutkasten",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeE02TU5vYWpLdHpvcHZzWHFpdllNUTBNakZNSDdIcGVjQmI2LUhHa0tkSkJrb2o1WVJGREJPSTdXTUpnQlVNUmstOUM5dl9zbXZYSVoyRmlwbEx2WGxhNzRyUXFGQjhwdkVRbnlaWk9GMVZqMUVPcFA1b09wbXluNFo0TFpJZDJTLUtpU2RpREZhc1VMUkV6eVRLUTFlWGNzcDNRcUVNd1N0WnplZ0ZIbHA0dVlyZGcxc216b1ozUFQ5QVlh?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
@@ -63,35 +79,27 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Trump gegen Regulierung: \"Wer bei KI gewinnt, gewinnt\"",
-          "zusammenfassung": "Donald Trump hat sich erneut gegen eine strenge Regulierung von Künstlicher Intelligenz ausgesprochen. Er vertritt die Ansicht, dass der Wettlauf um die KI-Dominanz entscheidend sei und zu viele Vorschriften die Innovation behindern würden. Seine Haltung steht im Gegensatz zu Forderungen nach mehr Kontrolle.",
+          "titel": "ChatGPT und Claude: KI-Entwicklung soll jetzt gebremst werden",
+          "zusammenfassung": "Es mehren sich Forderungen, die rasante Entwicklung fortschrittlicher KI-Modelle wie ChatGPT und Claude aufgrund wachsender Sicherheits- und Ethikbedenken zu verlangsamen. Befürworter plädieren für einen vorsichtigeren Ansatz, um unvorhergesehene negative Konsequenzen zu verhindern.",
           "einordnung": "",
-          "quelle": "tagesschau.de",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWU1OVWdJZXhmd0JIZVN5Z0JmV2hmQXpER2h1bnBnUmdFRldNRld6N0xKdkk1Z3pDUmZZTFBJalpheEZzY0FQSEdQSFdJcUUxWDFES2R5LXlfMThGZWZnT25WM3BkU1YxUllBMmc5Y2d6YVpQRmNNWTFWZnNIbnRRcw?oc=5",
+          "quelle": "ifun.de",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObGY0U2JybHdJVUo5MzR0Sk1ZbXpOLWdTXzUtc0dkbXhoVVdWRnZKWnl2cnZsT0FoWUFDMzhrUTRqZXhyWkhyZHZuemVjOVAwQXJ5ZDNJZ1JLZFRWX1BrM3JvU3otdURFb1NaeUpwYzlyOXItVjdSRS1NN09FWUZvQ3FTaFd3T3ZpMm9KRVY0XzIwdw?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Gegen Anthropic-Chef: Trump will keine KI-Regulierung",
-          "zusammenfassung": "In einer direkten Auseinandersetzung mit dem Chef von Anthropic bekräftigte Donald Trump seine Ablehnung von KI-Regulierungen. Er argumentiert, dass die USA ihre Führungsposition in der KI-Entwicklung nicht durch bürokratische Hürden gefährden sollten. Diese Position könnte erhebliche Auswirkungen auf die zukünftige Gesetzgebung haben.",
+          "titel": "Künstliche Intelligenz - Bundesregierung: Nehmen KI-Warnungen sehr ernst",
+          "zusammenfassung": "Die Bundesregierung nimmt Warnungen bezüglich Künstlicher Intelligenz sehr ernst und signalisiert damit eine proaktive Haltung zu potenziellen KI-Risiken. Dies deutet auf einen verstärkten Fokus auf die Entwicklung von Richtlinien und Regulierungen zur Gewährleistung von KI-Sicherheit und Ethik hin.",
           "einordnung": "",
-          "quelle": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWp6S3RqWk9zNlpmTVpUYjNuQXdxSVFOSDlNd09EUFRwN0kwUkRnano1QTVjR2VuaHJ2dGRYMHJBY3YzWUI5ODJlbWJwUTJfWnM5MG1FdHZaOXkwMy1GZ0p2NzZKT09NSmJrV3A2UXU3TExqSUdoR2F1TVpMczZjeWkwSW5NUFJodFRtSVctQXNlSVpWTTcwWjduWkVqbzBJN3gtRlNUR0hFanZuczhvQjdKc2hEM05fZ1padWdxb1FDZw?oc=5",
+          "quelle": "Deutschlandfunk",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRDh3dUVqOVdCQThBQ3VXUG1IWmRXT25jM3pMRjRwUXNsU0xyQTZSSW9zWURGVm45QmdHS01wT3I5VmIzeU5VVnFFYVplaG1Xblk1d3RfX2tNV05uX2dDc091VVlFYTlRWUtobWJxUlI4dzE4SU1ld2RvRjdSRkF1MldLemJtOHgzeTFnb3hvYw?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "KI-Regulierung: Wildberger fordert weltweite Kontrollbehörde",
-          "zusammenfassung": "Der Experte Wildberger hat sich für die Einrichtung einer weltweiten Kontrollbehörde für Künstliche Intelligenz ausgesprochen. Er betont die Notwendigkeit einer global koordinierten Aufsicht, um die Risiken der KI-Entwicklung effektiv zu managen und ethische Standards zu gewährleisten. Nationale Alleingänge seien nicht ausreichend.",
+          "titel": "KI: Amerikas AI-Chefs können beim Thema Regeln von Europa lernen - Politik - SZ.de",
+          "zusammenfassung": "Amerikanische KI-Führungskräfte werden ermutigt, von Europas Ansatz zur KI-Regulierung zu lernen, insbesondere im Hinblick auf die Entwicklung umfassender rechtlicher Rahmenbedingungen. Dies hebt Europas Vorreiterrolle bei der Etablierung von Regeln für Künstliche Intelligenz hervor.",
           "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1h1dWZCXzluSlVsbUxsaU1ZSnRzOFVMenJ0M2l5S3VrM09tZklKRGtsMVVENEJOUkhNd3hfdE42SlVlVmtDWTlFUjRobG5mb0JZcXNGNmg2cUdVXzk0QnQ2dFMwdDdsa1lsck84bFNsaElUcjJ3WW1MSUd5Zk51eUlqXzlaWW9LN0lUdjZYX2U?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "KI-Regulierung: US-Senat berät Sorgfaltspflicht für Entwickler",
-          "zusammenfassung": "Der US-Senat berät derzeit über die Einführung einer Sorgfaltspflicht für KI-Entwickler. Ziel ist es, Unternehmen stärker in die Verantwortung zu nehmen, potenzielle Risiken ihrer KI-Systeme zu identifizieren und zu mindern. Dies könnte weitreichende Auswirkungen auf die Entwicklungspraktiken in den USA haben.",
-          "einordnung": "",
-          "quelle": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTDYxdU5DVVlkVGwxZ19nejJpRnZHYXVockZrZzZRWHFfVlI5N2hMc3o3YWMzVWZubjh3alRkc1dudUhWU0VTanliOS03c3lfTWpLdUo1cTYxYm9MSFZvYlplbGlFR2dDSk9PWU1JQmxKQmFTQmZxRklUckhILURtaHJOaWM4U0FhUUdWYU83M3JxamZGTFFjYTgzU0FlcDgtc2xHN2s1VmM4MEdzLWRWbzVn?oc=5",
+          "quelle": "sueddeutsche.de",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVhPZWhXNFowMnQwc2o3SmpZNjVGYXBTcmlNT2Z2XzdhdndGOU1fczFyUVZTYk9Ya1lLdWZkVmh3ZTVKMl9oekFobl94blJ5ekJmUGptRWs3MzZRRjVKX2RGeElhd3FPeWhSVDU1V0hiQjBBSEVaenM0MS00MXR3TWdEMGJ3eGwwbmtPTHpHX3pwVmlRXzB6NUJB?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -102,50 +110,58 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Large Language Models: 12 GPT-Alternativen",
-          "zusammenfassung": "Ein Artikel listet zwölf Alternativen zu OpenAIs GPT-Modellen auf, die auf dem Markt verfügbar sind. Er bietet einen Überblick über verschiedene Large Language Models und deren Einsatzmöglichkeiten. Diese Zusammenstellung hilft Unternehmen, die passende KI-Lösung für ihre Bedürfnisse zu finden.",
-          "einordnung": "",
-          "quelle": "Computerwoche",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
-          "sterne": "⭐"
-        },
-        {
           "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
-          "zusammenfassung": "Large Language Models zeigen vielversprechendes Potenzial in der Onkologie, stoßen jedoch auf erhebliche Infrastrukturprobleme bei der Implementierung. Der Artikel beleuchtet die Chancen für verbesserte Diagnosen und Behandlungen sowie die Herausforderungen bei Datenintegration und Rechenleistung. Es bedarf weiterer Investitionen, um das volle Potenzial auszuschöpfen.",
+          "zusammenfassung": "Große Sprachmodelle zeigen in der Onkologie erhebliches Potenzial für Forschung und Patientenversorgung. Ihre vollständige Implementierung stößt jedoch auf Herausforderungen aufgrund bestehender Infrastrukturprobleme in Gesundheitssystemen.",
           "einordnung": "",
           "quelle": "healthcare-in-europe.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dmpiTWc?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Vergleichen Sie die Umweltauswirkungen von LLMs und SLMs",
-          "zusammenfassung": "Eine Studie vergleicht die Umweltauswirkungen von Large Language Models (LLMs) und Small Language Models (SLMs). Die Untersuchung zeigt, dass der Energieverbrauch und der CO2-Fußabdruck von KI-Modellen stark variieren. Dies unterstreicht die Notwendigkeit, bei der Entwicklung und Nutzung von KI auch ökologische Aspekte zu berücksichtigen.",
+          "titel": "Ehemaliger Google-Mitarbeiter sieht KI als Gefahr für die Menschheit",
+          "zusammenfassung": "Ein ehemaliger Google-Mitarbeiter warnt eindringlich davor, dass Künstliche Intelligenz eine erhebliche Gefahr für die Menschheit darstellt. Diese Perspektive reiht sich in den Chor von Experten ein, die zur Vorsicht und zu robusten Schutzmaßnahmen bei der KI-Entwicklung mahnen.",
           "einordnung": "",
-          "quelle": "Computer Weekly",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZm00R0gxcUZLeFlzSlBCZ2FrTUFGcVVUem1BYTdlVTJkdnpLa1pLaDhZRFZOVUsyMmY0Z1RGRkJmLVY4TXNidjgxSDJUMnJGb3hKcUEzNDVUaVptazZpOUZxNG9NaE1uSnRndlp4Ylp5ZkY3YWl0a3VqQmtaeWJOcGo3aGUyWEhfOERIZTdMV2RRM3U4MjBXZGR1NA?oc=5",
+          "quelle": "n-tv.de",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONmt2amhaT1JOV1ZJaXFwUmx6ellYZk1XNVpZM1lHaGZod0JoaTQ4MVVfckphSzBUSi0wYUlpX1RpT1BYdjA4WUtBbmRKNWQ5cVo4VldsNkltSDcxN2ZDd2wyN2tWd25Nekp6c2NUemQ5STNDX0E2aDhybVJLem9VdGpqY2hoMS1EWHo3T1d2djRzVmtzejRQUENhNnZmb3BfbFMtZWRJQ0tRT3h3bnI2TWpWblc?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     },
     {
-      "emoji": "🚨",
+      "emoji": "💥",
       "titel": "KI & Sicherheit",
       "fest": false,
       "artikel": [
         {
-          "titel": "„Katastrophaler Schaden“ befürchtet – KI-Boss in Sorge vor der eigenen Entwicklung",
-          "zusammenfassung": "Ein führender KI-Entwickler äußert tiefe Besorgnis über das Potenzial seiner eigenen Schöpfung, katastrophalen Schaden anzurichten. Diese Sorge unterstreicht die ethischen Dilemmata und Risiken, die mit der rasanten Entwicklung von Künstlicher Intelligenz verbunden sind. Es fordert eine ernsthafte Auseinandersetzung mit den Langzeitfolgen.",
+          "titel": "OpenAI räumt „schlimmsten Unfall“ der KI-Geschichte ein",
+          "zusammenfassung": "OpenAI hat den „schlimmsten Unfall“ in der Geschichte der Künstlichen Intelligenz eingeräumt, was ernste Bedenken hinsichtlich der Sicherheit und Kontrolle fortschrittlicher KI-Systeme aufwirft. Details des Vorfalls sind noch unklar, doch er unterstreicht die inhärenten Risiken mächtiger KI.",
           "einordnung": "",
-          "quelle": "Frankfurter Rundschau",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlNLWFZxWDk3OTFFNDI1bDBxbF9SNmRJSlp6b0EwZUlnR3N2V2xSOVdyNkpxakcxS1dJRjdOeFpvNnptVVU5amw3T2FDLWhSTUtONDFzdG5rV3NGMEFNUlh4eE9BT2R0VzVsZ05SaXdKTldnVXNnbXMzc2lRUjlqOUNIYThLaHJFTVN3QUFUUWJidkhRTUpXbi0zLVl2TnV2?oc=5",
+          "quelle": "WiWo",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPenFJQUFfYUpSVnhKOGY3QWpNWVVpaVE3S0h5dHFxZVd3QXJnQXl0Wjc2amc3NlVIM05EdnVSR3hqM0JoUDhHRkQxMlFsVVM3TjZkZWFTaVhoR215eU1TLWZrRVl4VG5hbUhhU1lqbmJORXNwdjIwRG8xZFpSWnRCWkhtc2ZGaGJ1Nnl4a3RXM09KeXpLWFBkQmw1RnhCTWxad1M0?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
           "titel": "Claude Money: Anthropic-KI soll auf Bankkonto zugreifen",
-          "zusammenfassung": "Anthropic plant offenbar, seinem KI-Modell Claude die Möglichkeit zu geben, auf Bankkonten zuzugreifen. Diese potenzielle Funktion löst erhebliche Debatten über finanzielle Sicherheit und die Grenzen der KI-Autonomie aus. Kritiker warnen vor den Risiken eines Missbrauchs oder unkontrollierter Transaktionen.",
+          "zusammenfassung": "Anthropic entwickelt angeblich sein KI-Modell Claude mit der Fähigkeit, auf Bankkonten zuzugreifen, was Alarmglocken bezüglich finanzieller Sicherheit und autonomer KI-Aktionen schrillen lässt. Dieses potenzielle Feature verdeutlicht die zunehmende Integration von KI in sensible persönliche Bereiche.",
           "einordnung": "",
           "quelle": "BILD",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEtiTkV2dm83VXVLbW9sMmRLMjJQTVdDODdsUkhxVWxqVS12MF90SzVzeE9YQTVKU2prWFZnY19XTU5JWmFOb2M1UUNuZlJmUUdTbl92N042NktDS1pmME1WNlViTHNBOGlKdmFuR0lFcGpVVWJWZDA4XzJWQ3NpSDljTjNrU2FzcjFYTmRuZXo1bXFBalRjTDFKWURzTXk4eHg5QkFaamVkcXNpVjRkRmhkZWVrNkpYdmlXdQ?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "„Katastrophaler Schaden“ befürchtet – KI-Boss in Sorge vor der eigenen Entwicklung",
+          "zusammenfassung": "Ein führender KI-Manager äußert tiefe Besorgnis über das Potenzial für „katastrophalen Schaden“ durch eigene KI-Entwicklungen, was die wachsende Furcht innerhalb der Branche widerspiegelt. Diese Haltung befeuert eine breitere Debatte über die langfristigen Risiken fortschrittlicher Künstlicher Intelligenz.",
+          "einordnung": "",
+          "quelle": "Frankfurter Rundschau",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlNLWFZxWDk3OTFFNDI1bDBxbF9SNmRJSlp6b0EwZUlnR3N2V2xSOVdyNkpxakcxS1dJRjdOeFpvNnptVVU5amw3T2FDLWhSTUtONDFzdG5rV3NGMEFNUlh4eE9BT2R0VzVsZ05SaXdKTldnVXNnbXMzc2lRUjlqOUNIeDhLaHJFTVN3QUFUUWJidkhRTUpXbi0zLVl2TnV2?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "IT-Experte warnt vor KI-Super-GAU: Systeme bedrohen kritische Infrastruktur",
+          "zusammenfassung": "Ein IT-Experte warnt vor einem potenziellen „KI-Super-GAU“ und erklärt, dass fortschrittliche KI-Systeme kritische Infrastrukturen bedrohen könnten. Dies unterstreicht die dringende Notwendigkeit robuster Cybersicherheitsmaßnahmen und Risikobewertungen beim Einsatz von KI.",
+          "einordnung": "",
+          "quelle": "ZDFheute",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUJmQU9DNzRfTTdGVnRKZHlHMFlocXg2NU5MM3l2VklCbVhhWmg5S0wzdHhYRFY4bmI0UkpXaXY4cDF6Mk9hb3pGV0VxSEllSlBhZ3ZrdVl0MnVGVUZqWTFHQ1VMbVlxeG9DaWdsc04wQktfcjl5MVgzb2dtdE1qdjN5aDN2QUsxSEYwTER5VE1GczJsbjRFUU5R?oc=5",
           "sterne": "⭐⭐⭐"
         }
       ]
@@ -157,24 +173,24 @@
       "artikel": [
         {
           "titel": "ChatGPT Datenschutz: Externe Mitarbeiter lesen Nutzer-Prompts",
-          "zusammenfassung": "Ein Bericht enthüllt, dass externe Mitarbeiter von OpenAI Zugang zu Nutzer-Prompts von ChatGPT haben und diese lesen können. Dies wirft ernsthafte Bedenken hinsichtlich des Datenschutzes und der Vertraulichkeit von Nutzerdaten auf. OpenAI steht unter Druck, seine Richtlinien und Praktiken transparenter zu gestalten.",
+          "zusammenfassung": "Berichte enthüllen, dass externe Mitarbeiter Nutzer-Prompts von ChatGPT einsehen, was erhebliche Datenschutzbedenken aufwirft. Diese Praxis, oft zur Modellverbesserung eingesetzt, verdeutlicht den Konflikt zwischen KI-Entwicklung und der Vertraulichkeit von Nutzerdaten.",
           "einordnung": "",
           "quelle": "Golem.de",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX2pQVEQtNlA3Z05YZnZCdFRqYVBIN0RnRWpSandOaFpiR2FaZExIempGNE1VRmF2VmdKMW1ObjBOZjdhRnVTeDVVYUt0OGlsdnRHUnNMeEk1TDVqdVFuajJtWUxXVUt2eVk2LXI5WjNiU2VZNnFPZnpJdzBIeGp0RDlqZGJOcVJfT1cySzBHTm5QNXZGTnNCdm9OTmFKUEJEY3lLaGZ5ZEY?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Google Gemini: KI erstellt Erinnerungsvideo mit Bildern, die es nie gegeben hat - Love, Rendered (Video)",
-          "zusammenfassung": "Google Gemini demonstriert eine neue Funktion, die Erinnerungsvideos aus Bildern erstellt, die es so nie gegeben hat. Während dies kreative Möglichkeiten eröffnet, wirft es auch Fragen bezüglich der Authentizität von Inhalten und der potenziellen Verbreitung von Deepfakes auf. Die Unterscheidung zwischen Realität und KI-generiertem Inhalt wird zunehmend schwieriger.",
+          "titel": "„Project Lilly“: Warum OpenAI-Mitarbeiter deine Unterhaltungen mit ChatGPT mitlesen",
+          "zusammenfassung": "Unter dem Codenamen „Project Lilly“ lesen OpenAI-Mitarbeiter angeblich Nutzerkonversationen mit ChatGPT, um die Leistung der KI zu verbessern. Diese Vorgehensweise entfacht eine Debatte über die Privatsphäre der Nutzer und den Umfang des Datenzugriffs durch KI-Unternehmen.",
           "einordnung": "",
-          "quelle": "GoogleWatchBlog",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGdwZ3czRWg0YjZDNVFaVkZBSGpjRXkyTzNPdDhqek93TENWQ3NVeWRrUWlkV0hQYWhKUHc1SWh5V2FuQlEzSWJGX21RcmxrS2ozeXp4SWo2Z0xlUUJDdk1sOXk3TzJBY1NLS1VVWk9HV2ZkWFhXbWVKQ2Z2UXRBejBzYXotdW56VG9EYzJOakNFNVZCZzBuRVlYeG1ZWXpSRmhEenJGRVpOUU15THFYendRUE5lZzNOTzIwLUJEYmcyRHEwN1VKbGprVFhQT0t1QVZB0gHYAUFVX3lxTE52TGY5ZUROd2ZYV2d1S2o5SUpQWmR3YTJMZ19PS0JISVVfdEF5Wkc3SnlGaDF0dHZJYy0tRXBicmlGM2VOUGZLMFBYQTAxSXpBVlliUWlzQlFpTUNMdzRFZ2FwMEpNMllQRzljcDhLa1YxYnVUUjRXanpRWWxEZGNEUTlNSHNqS2lERFp3dk5OUnUteC1mczg4YWhGY0NBR2w4WEswc05NV0J0d2VqU0hTc0lxZGU4ajhIX1d5bzVSSkUzeElHNnphaGlvLTV0QjhMcHBmcmJOdw?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXV0RGNqcmJReU1rRWJ3TnZzLVNLV0hTQ3Jqak54YnhxNndhV0x6NWN1MnV4OThIaGVSR05sVjh3dnRiY3hVUFFBX1I3SVo3UllOOHZHNjBiT0l1cEhpNnh3d0ZsYUE2R184Y1NiTG5pQmpyYVMyN3ZfcGdKVkYwZ3JPV2JYSUFUZXlJU2pjWllNS0U1TUFkUDhiREk1dFBSOUZKVmxkbWVsZHJDajA?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-09-15T10:35:52.452Z",
+  "generiert_um": "2024-07-30T10:00:00.000Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -188,18 +204,18 @@
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "10% Risiko zu sterben, 10% mehr Wachstum | 200 Millionen Destillationsanfragen | Kapital schlägt Arbeit #596",
-      "datum": "11.9.2026",
-      "dauer": "87 Min.",
+      "episode": "Amodeis Slowdown-Essay: Nebelgranate vs. Notbremse | Wer haftet für Agenten? #597",
+      "datum": "15.9.2026",
+      "dauer": "64 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
     {
       "name": "OMR Podcast",
       "desc": "Philipp Westermeyer · Tech & Business",
-      "episode": "Er kauft jeden Monat 30 Luxusautos: Omid Mouazzen (#940)",
-      "datum": "13.9.2026",
-      "dauer": "96 Min.",
+      "episode": "\"Ich bin das E-Commerce-Beast\": Flaconi-CEO Bastian Siebers (#941)",
+      "datum": "16.9.2026",
+      "dauer": "75 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH"
     },
