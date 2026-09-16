@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-09-15T12:34:55.649736+00:00",
+  "aktualisiert": "2026-09-16T12:31:29.498397+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Akademie4KI",
+      "titel": "In Rekordzeit zum Experten – So lernst Du ALLES mit Gemini Study Notebook",
+      "link": "https://www.youtube.com/watch?v=IDQ2NhEtMOM",
+      "video_id": "IDQ2NhEtMOM",
+      "thumbnail": "https://img.youtube.com/vi/IDQ2NhEtMOM/mqdefault.jpg",
+      "datum": "2026-09-16T10:17:26+00:00",
+      "datum_de": "16.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "„Sie töten uns alle bis 2030\" KI-Aussteiger warnt, Millennium-Problem gelöst & Chinas Reaktion",
+      "link": "https://www.youtube.com/watch?v=graIQP0-Q0U",
+      "video_id": "graIQP0-Q0U",
+      "thumbnail": "https://img.youtube.com/vi/graIQP0-Q0U/mqdefault.jpg",
+      "datum": "2026-09-15T19:32:33+00:00",
+      "datum_de": "15.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Digitale Profis",
+      "titel": "Wird KI zu mächtig? Die Wahrheit über den Trainingsstop bei ChatGPT und Co",
+      "link": "https://www.youtube.com/watch?v=Uv_7Kr0HBVE",
+      "video_id": "Uv_7Kr0HBVE",
+      "thumbnail": "https://img.youtube.com/vi/Uv_7Kr0HBVE/mqdefault.jpg",
+      "datum": "2026-09-15T14:01:34Z",
+      "datum_de": "15.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Quickchat AI",
+      "titel": "The OpenAI Wiki Incident: What Actually Happened",
+      "link": "https://www.youtube.com/watch?v=CZUyudBVEBQ",
+      "video_id": "CZUyudBVEBQ",
+      "thumbnail": "https://img.youtube.com/vi/CZUyudBVEBQ/mqdefault.jpg",
+      "datum": "2026-09-15T14:00:20Z",
+      "datum_de": "15.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "NANCY | KI-Workflows im Büro",
+      "titel": "NotebookLM &amp; Gemini Notebook: 3 Tricks aus 27 Seiten wird 1 Briefing",
+      "link": "https://www.youtube.com/watch?v=9cQQYwmS6TM",
+      "video_id": "9cQQYwmS6TM",
+      "thumbnail": "https://img.youtube.com/vi/9cQQYwmS6TM/mqdefault.jpg",
+      "datum": "2026-09-15T14:00:15Z",
+      "datum_de": "15.09.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "MAUTTEC",
       "titel": "HubSpot KI Agenten in Workflows nutzen! Anleitung 2026",
@@ -10,6 +60,16 @@
       "thumbnail": "https://img.youtube.com/vi/YexnYWD13GU/mqdefault.jpg",
       "datum": "2026-09-14T14:21:01Z",
       "datum_de": "14.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "IchBinFabian",
+      "titel": "Codex vs Claude Code: GPT-6 Astra bedient jetzt den ganzen Rechner",
+      "link": "https://www.youtube.com/watch?v=84ACCG3Nf3U",
+      "video_id": "84ACCG3Nf3U",
+      "thumbnail": "https://img.youtube.com/vi/84ACCG3Nf3U/mqdefault.jpg",
+      "datum": "2026-09-13T16:00:17Z",
+      "datum_de": "13.09.2026",
       "quelle": "suche"
     },
     {
@@ -53,6 +113,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Patrick David ",
+      "titel": "ChatGPT Astra 6 kann so viel mehr als du denkst!",
+      "link": "https://www.youtube.com/watch?v=8Ed4IbFrp5U",
+      "video_id": "8Ed4IbFrp5U",
+      "thumbnail": "https://img.youtube.com/vi/8Ed4IbFrp5U/mqdefault.jpg",
+      "datum": "2026-09-12T07:56:44Z",
+      "datum_de": "12.09.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "LayerLens",
       "titel": "OpenAI Agents Built a Secret Wiki. Evals Missed It.",
       "link": "https://www.youtube.com/watch?v=fYU7nBo0ipM",
@@ -63,14 +133,14 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Akademie4KI",
-      "titel": "In Rekordzeit zum Experten – So lernst Du ALLES mit Gemini Study Notebook",
-      "link": "https://www.youtube.com/watch?v=2kxI8cg_IbI",
-      "video_id": "2kxI8cg_IbI",
-      "thumbnail": "https://img.youtube.com/vi/2kxI8cg_IbI/mqdefault.jpg",
-      "datum": "2026-09-11T12:00:04+00:00",
+      "kanal": "Julian Ivanov | KI-Automatisierung",
+      "titel": "So machst du deine KI-Videos besser &amp; günstiger (GPT-6 Astra + Blender)",
+      "link": "https://www.youtube.com/watch?v=oGHv8qz8nVg",
+      "video_id": "oGHv8qz8nVg",
+      "thumbnail": "https://img.youtube.com/vi/oGHv8qz8nVg/mqdefault.jpg",
+      "datum": "2026-09-11T11:59:30Z",
       "datum_de": "11.09.2026",
-      "quelle": "kanal"
+      "quelle": "suche"
     },
     {
       "kanal": "Christoph Magnussen",
@@ -81,76 +151,6 @@
       "datum": "2026-09-11T10:00:23+00:00",
       "datum_de": "11.09.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "AI Revolution auf Deutsch",
-      "titel": "OpenAIs neues GPT 7 ist durchgesickert: es heißt BEL – und ist gigantisch!",
-      "link": "https://www.youtube.com/watch?v=GOPuNKakJlQ",
-      "video_id": "GOPuNKakJlQ",
-      "thumbnail": "https://img.youtube.com/vi/GOPuNKakJlQ/mqdefault.jpg",
-      "datum": "2026-09-11T05:00:22Z",
-      "datum_de": "11.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "HardReset_info Deutsch",
-      "titel": "SAMSUNG Galaxy Z Fold 8 – Gemini Notebook auf dem großen Display nutzen",
-      "link": "https://www.youtube.com/watch?v=a4AKsxkTQqU",
-      "video_id": "a4AKsxkTQqU",
-      "thumbnail": "https://img.youtube.com/vi/a4AKsxkTQqU/mqdefault.jpg",
-      "datum": "2026-09-10T19:10:59Z",
-      "datum_de": "10.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "HardReset_info Deutsch",
-      "titel": "SAMSUNG Galaxy Z Fold 8 – Gemini Intelligence und App-Automatisierung nutzen",
-      "link": "https://www.youtube.com/watch?v=G2oSKV0viyY",
-      "video_id": "G2oSKV0viyY",
-      "thumbnail": "https://img.youtube.com/vi/G2oSKV0viyY/mqdefault.jpg",
-      "datum": "2026-09-10T18:49:24Z",
-      "datum_de": "10.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Core Infotech",
-      "titel": "OpenAI Agents Hijack a German Website, Jensen Declares AG...",
-      "link": "https://www.youtube.com/watch?v=RBEI8pgvn_A",
-      "video_id": "RBEI8pgvn_A",
-      "thumbnail": "https://img.youtube.com/vi/RBEI8pgvn_A/mqdefault.jpg",
-      "datum": "2026-09-10T17:00:43Z",
-      "datum_de": "10.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Vergiss ChatGPT, DAS ist die wahre Revolution! Alles, was du über Humanoide Roboter wissen musst",
-      "link": "https://www.youtube.com/watch?v=QYApnVSDJs0",
-      "video_id": "QYApnVSDJs0",
-      "thumbnail": "https://img.youtube.com/vi/QYApnVSDJs0/mqdefault.jpg",
-      "datum": "2026-09-10T15:15:28+00:00",
-      "datum_de": "10.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "AgentenFabrik",
-      "titel": "OpenAI Codex Tutorial Deutsch (2026): Crashkurs für Anfänger",
-      "link": "https://www.youtube.com/watch?v=nf--j11n6SY",
-      "video_id": "nf--j11n6SY",
-      "thumbnail": "https://img.youtube.com/vi/nf--j11n6SY/mqdefault.jpg",
-      "datum": "2026-09-10T15:00:20Z",
-      "datum_de": "10.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Zinho Automates",
-      "titel": "ChatGPT-6 Astra + Higgsfield AI = 9 INSANE Use Cases",
-      "link": "https://www.youtube.com/watch?v=UehtPgmeBAw",
-      "video_id": "UehtPgmeBAw",
-      "thumbnail": "https://img.youtube.com/vi/UehtPgmeBAw/mqdefault.jpg",
-      "datum": "2026-09-10T14:28:28Z",
-      "datum_de": "10.09.2026",
-      "quelle": "suche"
     }
   ]
 }
