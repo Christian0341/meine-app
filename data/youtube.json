@@ -1,14 +1,54 @@
 {
-  "aktualisiert": "2026-09-17T12:31:46.225762+00:00",
+  "aktualisiert": "2026-09-18T12:09:56.764881+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "Everlast AI",
+      "titel": "Jenseits des KI-Hypes: Wo wir wirklich stehen und was 2027 kommt - Dr. Sebastian Raschka",
+      "link": "https://www.youtube.com/watch?v=fpYG6OBKEZw",
+      "video_id": "fpYG6OBKEZw",
+      "thumbnail": "https://img.youtube.com/vi/fpYG6OBKEZw/mqdefault.jpg",
+      "datum": "2026-09-17T15:15:00+00:00",
+      "datum_de": "17.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "Gemini 3.8 Live ist da, kostenloser Suno v6 Killer! KI-News",
+      "link": "https://www.youtube.com/watch?v=dyofnYSUR8k",
+      "video_id": "dyofnYSUR8k",
+      "thumbnail": "https://img.youtube.com/vi/dyofnYSUR8k/mqdefault.jpg",
+      "datum": "2026-09-17T15:06:03Z",
+      "datum_de": "17.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AgentenFabrik",
+      "titel": "ChatGPT Sites: So baust du beeindruckende 3D-Websites",
+      "link": "https://www.youtube.com/watch?v=DKfnuiDCaco",
+      "video_id": "DKfnuiDCaco",
+      "thumbnail": "https://img.youtube.com/vi/DKfnuiDCaco/mqdefault.jpg",
+      "datum": "2026-09-17T14:30:36Z",
+      "datum_de": "17.09.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "TechBreaking",
-      "titel": "Hugging Face Wasn&#39;t The First. OpenAI&#39;s AI Flooded A Wiki.",
+      "titel": "Hugging Face Wasn&#39;t The First.",
       "link": "https://www.youtube.com/watch?v=XrbDnKIo2Ok",
       "video_id": "XrbDnKIo2Ok",
       "thumbnail": "https://img.youtube.com/vi/XrbDnKIo2Ok/mqdefault.jpg",
       "datum": "2026-09-17T09:00:02Z",
+      "datum_de": "17.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AI Revolution auf Deutsch",
+      "titel": "OpenAI enthüllt: Das ist noch gefährlicher als AGI!",
+      "link": "https://www.youtube.com/watch?v=BCOzoiZ_qJA",
+      "video_id": "BCOzoiZ_qJA",
+      "thumbnail": "https://img.youtube.com/vi/BCOzoiZ_qJA/mqdefault.jpg",
+      "datum": "2026-09-17T05:00:06Z",
       "datum_de": "17.09.2026",
       "quelle": "suche"
     },
@@ -44,7 +84,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "ChatGPT 6 Astra vs. Claude Fable 5: Damit habe ich nicht gerechnet…",
+      "titel": "ChatGPT Astra vs. Claude Fable 5: Damit habe ich nicht gerechnet…",
       "link": "https://www.youtube.com/watch?v=NPKTYU52MuY",
       "video_id": "NPKTYU52MuY",
       "thumbnail": "https://img.youtube.com/vi/NPKTYU52MuY/mqdefault.jpg",
@@ -71,6 +111,16 @@
       "datum": "2026-09-16T10:17:26+00:00",
       "datum_de": "16.09.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Pascal Schildknecht - SalesAngels",
+      "titel": "F2 Context Hints ChatGPT Ads &amp; Kampagnen-Aufbau / Deutsch / Jetzt erfolgreich ChatGPT Ads schalten",
+      "link": "https://www.youtube.com/watch?v=qB-4Wun0fvI",
+      "video_id": "qB-4Wun0fvI",
+      "thumbnail": "https://img.youtube.com/vi/qB-4Wun0fvI/mqdefault.jpg",
+      "datum": "2026-09-16T01:05:09Z",
+      "datum_de": "16.09.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "KI für Normalos",
@@ -100,56 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/CZUyudBVEBQ/mqdefault.jpg",
       "datum": "2026-09-15T14:00:20Z",
       "datum_de": "15.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "NANCY | KI-Workflows im Büro",
-      "titel": "NotebookLM Deutsch: 3 Gemini Notebook Tricks die deinen Büroalltag rettet",
-      "link": "https://www.youtube.com/watch?v=9cQQYwmS6TM",
-      "video_id": "9cQQYwmS6TM",
-      "thumbnail": "https://img.youtube.com/vi/9cQQYwmS6TM/mqdefault.jpg",
-      "datum": "2026-09-15T14:00:15Z",
-      "datum_de": "15.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "MAUTTEC",
-      "titel": "HubSpot KI Agenten in Workflows nutzen! Anleitung 2026",
-      "link": "https://www.youtube.com/watch?v=YexnYWD13GU",
-      "video_id": "YexnYWD13GU",
-      "thumbnail": "https://img.youtube.com/vi/YexnYWD13GU/mqdefault.jpg",
-      "datum": "2026-09-14T14:21:01Z",
-      "datum_de": "14.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "IchBinFabian",
-      "titel": "Codex vs Claude Code: GPT-6 Astra bedient jetzt den ganzen Rechner",
-      "link": "https://www.youtube.com/watch?v=84ACCG3Nf3U",
-      "video_id": "84ACCG3Nf3U",
-      "thumbnail": "https://img.youtube.com/vi/84ACCG3Nf3U/mqdefault.jpg",
-      "datum": "2026-09-13T16:00:17Z",
-      "datum_de": "13.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "KRASS AGI ist hier: ChatGPT Astra kann jetzt alles?!",
-      "link": "https://www.youtube.com/watch?v=PrGuMv7Qqqo",
-      "video_id": "PrGuMv7Qqqo",
-      "thumbnail": "https://img.youtube.com/vi/PrGuMv7Qqqo/mqdefault.jpg",
-      "datum": "2026-09-13T14:15:28+00:00",
-      "datum_de": "13.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "RionBuilds",
-      "titel": "n8n Einrichtung: Alles was Du wissen musst (Schritt-für-Schritt)!",
-      "link": "https://www.youtube.com/watch?v=9M5ceMU9bzo",
-      "video_id": "9M5ceMU9bzo",
-      "thumbnail": "https://img.youtube.com/vi/9M5ceMU9bzo/mqdefault.jpg",
-      "datum": "2026-09-13T11:42:51Z",
-      "datum_de": "13.09.2026",
       "quelle": "suche"
     }
   ]
