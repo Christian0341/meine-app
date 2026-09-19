@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-09-18T12:09:56.764881+00:00",
+  "aktualisiert": "2026-09-19T11:52:35.604388+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Das mit Abstand beste KI-Bildmodell! - ChatGPT Images 2.5 ist da",
+      "link": "https://www.youtube.com/watch?v=tXZNOiHDKls",
+      "video_id": "tXZNOiHDKls",
+      "thumbnail": "https://img.youtube.com/vi/tXZNOiHDKls/mqdefault.jpg",
+      "datum": "2026-09-18T12:30:18+00:00",
+      "datum_de": "18.09.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "Jenseits des KI-Hypes: Wo wir wirklich stehen und was 2027 kommt - Dr. Sebastian Raschka",
@@ -141,16 +151,6 @@
       "datum": "2026-09-15T19:32:33+00:00",
       "datum_de": "15.09.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Quickchat AI",
-      "titel": "The OpenAI Wiki Incident: What Actually Happened",
-      "link": "https://www.youtube.com/watch?v=CZUyudBVEBQ",
-      "video_id": "CZUyudBVEBQ",
-      "thumbnail": "https://img.youtube.com/vi/CZUyudBVEBQ/mqdefault.jpg",
-      "datum": "2026-09-15T14:00:20Z",
-      "datum_de": "15.09.2026",
-      "quelle": "suche"
     }
   ]
 }
