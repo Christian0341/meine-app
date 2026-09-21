@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-09-20T12:11:04.295626+00:00",
+  "aktualisiert": "2026-09-21T13:50:44.413568+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Kontextkern",
+      "titel": "Claude richtig nutzen: 7 Funktionen, die fast niemand kennt",
+      "link": "https://www.youtube.com/watch?v=Mcfj8rn3bEA",
+      "video_id": "Mcfj8rn3bEA",
+      "thumbnail": "https://img.youtube.com/vi/Mcfj8rn3bEA/mqdefault.jpg",
+      "datum": "2026-09-20T15:00:02Z",
+      "datum_de": "20.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "DIE KI BLASE WIRD PLATZEN - das solltest du als Nutzer jetzt machen",
+      "link": "https://www.youtube.com/watch?v=5r88uUhqkTw",
+      "video_id": "5r88uUhqkTw",
+      "thumbnail": "https://img.youtube.com/vi/5r88uUhqkTw/mqdefault.jpg",
+      "datum": "2026-09-20T14:15:07+00:00",
+      "datum_de": "20.09.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "KI-Notbremse: DAS steckt wirklich dahinter! Es ist NICHT, was die dir erzählen | KI-NEWS",
@@ -129,26 +149,6 @@
       "video_id": "DezvBzge3Cs",
       "thumbnail": "https://img.youtube.com/vi/DezvBzge3Cs/mqdefault.jpg",
       "datum": "2026-09-16T15:09:30+00:00",
-      "datum_de": "16.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Edited by Nick",
-      "titel": "Videos mit KI bearbeiten: Einfach per Text mit Gemini?!",
-      "link": "https://www.youtube.com/watch?v=9VJHdS5WWlA",
-      "video_id": "9VJHdS5WWlA",
-      "thumbnail": "https://img.youtube.com/vi/9VJHdS5WWlA/mqdefault.jpg",
-      "datum": "2026-09-16T15:00:14Z",
-      "datum_de": "16.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "ChatGPT Astra vs. Claude Fable 5: Damit habe ich nicht gerechnet…",
-      "link": "https://www.youtube.com/watch?v=NPKTYU52MuY",
-      "video_id": "NPKTYU52MuY",
-      "thumbnail": "https://img.youtube.com/vi/NPKTYU52MuY/mqdefault.jpg",
-      "datum": "2026-09-16T14:15:09+00:00",
       "datum_de": "16.09.2026",
       "quelle": "kanal"
     }
