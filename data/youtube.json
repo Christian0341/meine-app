@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-09-21T13:50:44.413568+00:00",
+  "aktualisiert": "2026-09-22T12:30:34.875629+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Anthropic vs. OpenAI! Wer hat die bessere KI?",
+      "link": "https://www.youtube.com/watch?v=K5KI6qfj1Do",
+      "video_id": "K5KI6qfj1Do",
+      "thumbnail": "https://img.youtube.com/vi/K5KI6qfj1Do/mqdefault.jpg",
+      "datum": "2026-09-21T16:00:19+00:00",
+      "datum_de": "21.09.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Kontextkern",
       "titel": "Claude richtig nutzen: 7 Funktionen, die fast niemand kennt",
@@ -14,7 +24,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "DIE KI BLASE WIRD PLATZEN - das solltest du als Nutzer jetzt machen",
+      "titel": "DIE KI BLASE PLATZT - das solltest du als User jetzt beachten",
       "link": "https://www.youtube.com/watch?v=5r88uUhqkTw",
       "video_id": "5r88uUhqkTw",
       "thumbnail": "https://img.youtube.com/vi/5r88uUhqkTw/mqdefault.jpg",
@@ -43,6 +53,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Daniel Igl",
+      "titel": "5 einfache Wege, um mit Claude KI online Geld zu verdienen (Ohne Gesicht / 2026)",
+      "link": "https://www.youtube.com/watch?v=xQf5RQp70GQ",
+      "video_id": "xQf5RQp70GQ",
+      "thumbnail": "https://img.youtube.com/vi/xQf5RQp70GQ/mqdefault.jpg",
+      "datum": "2026-09-19T15:59:07Z",
+      "datum_de": "19.09.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Flenski",
       "titel": "Claude Code Tutorial Deutsch: So ziehst du deinen Kurs in Minuten zu Flenski",
       "link": "https://www.youtube.com/watch?v=0qVNMf98idM",
@@ -63,6 +83,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Atlas KI",
+      "titel": "Gemini: 7 Funktionen, die fast keiner kennt (eine kann ChatGPT nicht)",
+      "link": "https://www.youtube.com/watch?v=DQtFHI_qHYo",
+      "video_id": "DQtFHI_qHYo",
+      "thumbnail": "https://img.youtube.com/vi/DQtFHI_qHYo/mqdefault.jpg",
+      "datum": "2026-09-18T15:16:22Z",
+      "datum_de": "18.09.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Akademie4KI",
       "titel": "Das mit Abstand beste KI-Bildmodell! - ChatGPT Images 2.5 ist da",
       "link": "https://www.youtube.com/watch?v=tXZNOiHDKls",
@@ -71,6 +101,26 @@
       "datum": "2026-09-18T12:30:18+00:00",
       "datum_de": "18.09.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "brainX",
+      "titel": "Ein Schritt mehr, 25 % teurer: n8n, Make oder Zapier",
+      "link": "https://www.youtube.com/watch?v=jVBP9DBFs5s",
+      "video_id": "jVBP9DBFs5s",
+      "thumbnail": "https://img.youtube.com/vi/jVBP9DBFs5s/mqdefault.jpg",
+      "datum": "2026-09-18T10:00:11Z",
+      "datum_de": "18.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Ray Fu",
+      "titel": "Complete Guide to building an AI Trading Bot with Claude for Beginners",
+      "link": "https://www.youtube.com/watch?v=oQdkFPhqaGk",
+      "video_id": "oQdkFPhqaGk",
+      "thumbnail": "https://img.youtube.com/vi/oQdkFPhqaGk/mqdefault.jpg",
+      "datum": "2026-09-17T23:10:49Z",
+      "datum_de": "17.09.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Universe of AI",
@@ -84,7 +134,7 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "Jenseits des KI-Hypes: Wo wir wirklich stehen und was 2027 kommt - Dr. Sebastian Raschka",
+      "titel": "Der wahre Stand der KI und was uns 2027 erwartet - Dr. Sebastian Raschka",
       "link": "https://www.youtube.com/watch?v=fpYG6OBKEZw",
       "video_id": "fpYG6OBKEZw",
       "thumbnail": "https://img.youtube.com/vi/fpYG6OBKEZw/mqdefault.jpg",
@@ -101,56 +151,6 @@
       "datum": "2026-09-17T15:06:03Z",
       "datum_de": "17.09.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "AgentenFabrik",
-      "titel": "ChatGPT Sites: So baust du beeindruckende 3D-Websites",
-      "link": "https://www.youtube.com/watch?v=DKfnuiDCaco",
-      "video_id": "DKfnuiDCaco",
-      "thumbnail": "https://img.youtube.com/vi/DKfnuiDCaco/mqdefault.jpg",
-      "datum": "2026-09-17T14:30:36Z",
-      "datum_de": "17.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "TechBreaking",
-      "titel": "Hugging Face Wasn&#39;t The First.",
-      "link": "https://www.youtube.com/watch?v=XrbDnKIo2Ok",
-      "video_id": "XrbDnKIo2Ok",
-      "thumbnail": "https://img.youtube.com/vi/XrbDnKIo2Ok/mqdefault.jpg",
-      "datum": "2026-09-17T09:00:02Z",
-      "datum_de": "17.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "AI Revolution auf Deutsch",
-      "titel": "OpenAI enthüllt: Das ist noch gefährlicher als AGI!",
-      "link": "https://www.youtube.com/watch?v=BCOzoiZ_qJA",
-      "video_id": "BCOzoiZ_qJA",
-      "thumbnail": "https://img.youtube.com/vi/BCOzoiZ_qJA/mqdefault.jpg",
-      "datum": "2026-09-17T05:00:06Z",
-      "datum_de": "17.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Vilius",
-      "titel": "Der langweiligste Weg, mit Claude AI 7.837 € / Monat zu verdienen",
-      "link": "https://www.youtube.com/watch?v=VqW1C-Amg1w",
-      "video_id": "VqW1C-Amg1w",
-      "thumbnail": "https://img.youtube.com/vi/VqW1C-Amg1w/mqdefault.jpg",
-      "datum": "2026-09-16T16:00:35Z",
-      "datum_de": "16.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Video-KI-Modelle im Mega-Test!",
-      "link": "https://www.youtube.com/watch?v=DezvBzge3Cs",
-      "video_id": "DezvBzge3Cs",
-      "thumbnail": "https://img.youtube.com/vi/DezvBzge3Cs/mqdefault.jpg",
-      "datum": "2026-09-16T15:09:30+00:00",
-      "datum_de": "16.09.2026",
-      "quelle": "kanal"
     }
   ]
 }
