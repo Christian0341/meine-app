@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-09-22T12:30:34.875629+00:00",
+  "aktualisiert": "2026-09-23T12:41:04.753100+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Thümmler AI",
+      "titel": "Claude Opus 5.5: Fable-Niveau für 40 % weniger | KI-News 22.09.",
+      "link": "https://www.youtube.com/watch?v=ZPFchpvs8O8",
+      "video_id": "ZPFchpvs8O8",
+      "thumbnail": "https://img.youtube.com/vi/ZPFchpvs8O8/mqdefault.jpg",
+      "datum": "2026-09-22T18:49:46Z",
+      "datum_de": "22.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI 2035: Das letzte Jahr der Menschheit (Szenario eines UN-Beraters)",
+      "link": "https://www.youtube.com/watch?v=fmMCg6dyWpQ",
+      "video_id": "fmMCg6dyWpQ",
+      "thumbnail": "https://img.youtube.com/vi/fmMCg6dyWpQ/mqdefault.jpg",
+      "datum": "2026-09-22T15:15:23+00:00",
+      "datum_de": "22.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KI in Minuten",
+      "titel": "7 KI-Tools, die dir jede Woche Stunden sparen",
+      "link": "https://www.youtube.com/watch?v=Ew7uEOd2sOs",
+      "video_id": "Ew7uEOd2sOs",
+      "thumbnail": "https://img.youtube.com/vi/Ew7uEOd2sOs/mqdefault.jpg",
+      "datum": "2026-09-22T13:36:22Z",
+      "datum_de": "22.09.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "Anthropic vs. OpenAI! Wer hat die bessere KI?",
@@ -24,7 +54,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "DIE KI BLASE PLATZT - das solltest du als User jetzt beachten",
+      "titel": "DIE KI BLASE PLATZT - das solltest du als Nutzer jetzt beachten...",
       "link": "https://www.youtube.com/watch?v=5r88uUhqkTw",
       "video_id": "5r88uUhqkTw",
       "thumbnail": "https://img.youtube.com/vi/5r88uUhqkTw/mqdefault.jpg",
@@ -119,36 +149,6 @@
       "video_id": "oQdkFPhqaGk",
       "thumbnail": "https://img.youtube.com/vi/oQdkFPhqaGk/mqdefault.jpg",
       "datum": "2026-09-17T23:10:49Z",
-      "datum_de": "17.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Universe of AI",
-      "titel": "Gemini 4 Pro Coming SOON! Google is BACK...",
-      "link": "https://www.youtube.com/watch?v=lOevBcccCck",
-      "video_id": "lOevBcccCck",
-      "thumbnail": "https://img.youtube.com/vi/lOevBcccCck/mqdefault.jpg",
-      "datum": "2026-09-17T22:30:39Z",
-      "datum_de": "17.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Der wahre Stand der KI und was uns 2027 erwartet - Dr. Sebastian Raschka",
-      "link": "https://www.youtube.com/watch?v=fpYG6OBKEZw",
-      "video_id": "fpYG6OBKEZw",
-      "thumbnail": "https://img.youtube.com/vi/fpYG6OBKEZw/mqdefault.jpg",
-      "datum": "2026-09-17T15:15:00+00:00",
-      "datum_de": "17.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Gemini 3.8 Live ist da, kostenloser Suno v6 Killer! KI-News",
-      "link": "https://www.youtube.com/watch?v=dyofnYSUR8k",
-      "video_id": "dyofnYSUR8k",
-      "thumbnail": "https://img.youtube.com/vi/dyofnYSUR8k/mqdefault.jpg",
-      "datum": "2026-09-17T15:06:03Z",
       "datum_de": "17.09.2026",
       "quelle": "suche"
     }
