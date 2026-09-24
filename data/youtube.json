@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-09-23T12:41:04.753100+00:00",
+  "aktualisiert": "2026-09-24T12:39:22.165246+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "KI-Praxis 40+",
+      "titel": "Behörden-E-Mails in Sekunden beantworten (Google Gemini Tutorial Bilderbuch)",
+      "link": "https://www.youtube.com/watch?v=zKm_6uPR-84",
+      "video_id": "zKm_6uPR-84",
+      "thumbnail": "https://img.youtube.com/vi/zKm_6uPR-84/mqdefault.jpg",
+      "datum": "2026-09-24T10:11:12Z",
+      "datum_de": "24.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Learn Languages with Daily News | LinguaWire",
+      "titel": "Learn German A1 | Slow German News with Subtitles: OpenAI helps Ukraine defend against cyberattacks",
+      "link": "https://www.youtube.com/watch?v=Q0G2JkaKLdc",
+      "video_id": "Q0G2JkaKLdc",
+      "thumbnail": "https://img.youtube.com/vi/Q0G2JkaKLdc/mqdefault.jpg",
+      "datum": "2026-09-24T02:06:21Z",
+      "datum_de": "24.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "CLAUDE + JEV AI: Die nächste Stufe von KI ist da",
+      "link": "https://www.youtube.com/watch?v=S2KO8Wqzf20",
+      "video_id": "S2KO8Wqzf20",
+      "thumbnail": "https://img.youtube.com/vi/S2KO8Wqzf20/mqdefault.jpg",
+      "datum": "2026-09-23T14:15:23+00:00",
+      "datum_de": "23.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "NANCY | KI-Workflows im Büro",
+      "titel": "Notebooklm Deutsch: Gemini Notebook erstellt Tool-Vergleiche fürs Büro | Eps.3",
+      "link": "https://www.youtube.com/watch?v=qIxxsj174iw",
+      "video_id": "qIxxsj174iw",
+      "thumbnail": "https://img.youtube.com/vi/qIxxsj174iw/mqdefault.jpg",
+      "datum": "2026-09-23T14:00:38Z",
+      "datum_de": "23.09.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Thümmler AI",
       "titel": "Claude Opus 5.5: Fable-Niveau für 40 % weniger | KI-News 22.09.",
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/TYePQmngNyo/mqdefault.jpg",
       "datum": "2026-09-19T10:22:19Z",
       "datum_de": "19.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Atlas KI",
-      "titel": "Gemini: 7 Funktionen, die fast keiner kennt (eine kann ChatGPT nicht)",
-      "link": "https://www.youtube.com/watch?v=DQtFHI_qHYo",
-      "video_id": "DQtFHI_qHYo",
-      "thumbnail": "https://img.youtube.com/vi/DQtFHI_qHYo/mqdefault.jpg",
-      "datum": "2026-09-18T15:16:22Z",
-      "datum_de": "18.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Das mit Abstand beste KI-Bildmodell! - ChatGPT Images 2.5 ist da",
-      "link": "https://www.youtube.com/watch?v=tXZNOiHDKls",
-      "video_id": "tXZNOiHDKls",
-      "thumbnail": "https://img.youtube.com/vi/tXZNOiHDKls/mqdefault.jpg",
-      "datum": "2026-09-18T12:30:18+00:00",
-      "datum_de": "18.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "brainX",
-      "titel": "Ein Schritt mehr, 25 % teurer: n8n, Make oder Zapier",
-      "link": "https://www.youtube.com/watch?v=jVBP9DBFs5s",
-      "video_id": "jVBP9DBFs5s",
-      "thumbnail": "https://img.youtube.com/vi/jVBP9DBFs5s/mqdefault.jpg",
-      "datum": "2026-09-18T10:00:11Z",
-      "datum_de": "18.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Ray Fu",
-      "titel": "Complete Guide to building an AI Trading Bot with Claude for Beginners",
-      "link": "https://www.youtube.com/watch?v=oQdkFPhqaGk",
-      "video_id": "oQdkFPhqaGk",
-      "thumbnail": "https://img.youtube.com/vi/oQdkFPhqaGk/mqdefault.jpg",
-      "datum": "2026-09-17T23:10:49Z",
-      "datum_de": "17.09.2026",
       "quelle": "suche"
     }
   ]
