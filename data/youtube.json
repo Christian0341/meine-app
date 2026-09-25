@@ -1,7 +1,77 @@
 {
-  "aktualisiert": "2026-09-24T12:39:22.165246+00:00",
+  "aktualisiert": "2026-09-25T12:41:03.468864+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Fast niemand nutzt dieses neue ChatGPT Feature!",
+      "link": "https://www.youtube.com/watch?v=nNeRHR3A7e8",
+      "video_id": "nNeRHR3A7e8",
+      "thumbnail": "https://img.youtube.com/vi/nNeRHR3A7e8/mqdefault.jpg",
+      "datum": "2026-09-25T12:00:37+00:00",
+      "datum_de": "25.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "ALLE bauen mit KI – aber WER versteht noch den Code? 🤖 | Florian Baader, CEO meinGPT",
+      "link": "https://www.youtube.com/watch?v=QYRFYCBYmqc",
+      "video_id": "QYRFYCBYmqc",
+      "thumbnail": "https://img.youtube.com/vi/QYRFYCBYmqc/mqdefault.jpg",
+      "datum": "2026-09-25T10:00:08+00:00",
+      "datum_de": "25.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Ai World Brief",
+      "titel": "OpenAI&#39;s GPT-6 Astra Decodes 83-Year Secret Code in Hours",
+      "link": "https://www.youtube.com/watch?v=YlyShg1NG4k",
+      "video_id": "YlyShg1NG4k",
+      "thumbnail": "https://img.youtube.com/vi/YlyShg1NG4k/mqdefault.jpg",
+      "datum": "2026-09-24T18:00:35Z",
+      "datum_de": "24.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Niklas AI",
+      "titel": "GPT-6 Astra baut jetzt KI-Telefonassistenten! (Anleitung)",
+      "link": "https://www.youtube.com/watch?v=b1P41TkS61M",
+      "video_id": "b1P41TkS61M",
+      "thumbnail": "https://img.youtube.com/vi/b1P41TkS61M/mqdefault.jpg",
+      "datum": "2026-09-24T15:34:29Z",
+      "datum_de": "24.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "„Die neue Krone der Schöpfung!\" Humanoide Roboter, KI & Zukunft (Prof. Gunter Dueck)",
+      "link": "https://www.youtube.com/watch?v=0zj46VLkRXw",
+      "video_id": "0zj46VLkRXw",
+      "thumbnail": "https://img.youtube.com/vi/0zj46VLkRXw/mqdefault.jpg",
+      "datum": "2026-09-24T15:15:03+00:00",
+      "datum_de": "24.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "Gemini 3.8 TTS ist da: Kostenlos &amp; viel zu echt + Gemini 4 Gerüchte! KI News",
+      "link": "https://www.youtube.com/watch?v=lVaiC7kfm9U",
+      "video_id": "lVaiC7kfm9U",
+      "thumbnail": "https://img.youtube.com/vi/lVaiC7kfm9U/mqdefault.jpg",
+      "datum": "2026-09-24T14:36:50Z",
+      "datum_de": "24.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Digitale Profis",
+      "titel": "Claude Opus 5.5, GPT-6 Sol &amp; Luna, neue Funktionen in Gemini Notebook &amp; Xiaomi Open Models | KI-News",
+      "link": "https://www.youtube.com/watch?v=ewabonoMzH4",
+      "video_id": "ewabonoMzH4",
+      "thumbnail": "https://img.youtube.com/vi/ewabonoMzH4/mqdefault.jpg",
+      "datum": "2026-09-24T14:00:10Z",
+      "datum_de": "24.09.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "KI-Praxis 40+",
       "titel": "Behörden-E-Mails in Sekunden beantworten (Google Gemini Tutorial Bilderbuch)",
@@ -9,6 +79,16 @@
       "video_id": "zKm_6uPR-84",
       "thumbnail": "https://img.youtube.com/vi/zKm_6uPR-84/mqdefault.jpg",
       "datum": "2026-09-24T10:11:12Z",
+      "datum_de": "24.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Alex Sprogis",
+      "titel": "Deshalb solltest du Jev und Claude kombinieren!",
+      "link": "https://www.youtube.com/watch?v=7ICJDgK7mrA",
+      "video_id": "7ICJDgK7mrA",
+      "thumbnail": "https://img.youtube.com/vi/7ICJDgK7mrA/mqdefault.jpg",
+      "datum": "2026-09-24T09:37:41Z",
       "datum_de": "24.09.2026",
       "quelle": "suche"
     },
@@ -70,86 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/Ew7uEOd2sOs/mqdefault.jpg",
       "datum": "2026-09-22T13:36:22Z",
       "datum_de": "22.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Anthropic vs. OpenAI! Wer hat die bessere KI?",
-      "link": "https://www.youtube.com/watch?v=K5KI6qfj1Do",
-      "video_id": "K5KI6qfj1Do",
-      "thumbnail": "https://img.youtube.com/vi/K5KI6qfj1Do/mqdefault.jpg",
-      "datum": "2026-09-21T16:00:19+00:00",
-      "datum_de": "21.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Kontextkern",
-      "titel": "Claude richtig nutzen: 7 Funktionen, die fast niemand kennt",
-      "link": "https://www.youtube.com/watch?v=Mcfj8rn3bEA",
-      "video_id": "Mcfj8rn3bEA",
-      "thumbnail": "https://img.youtube.com/vi/Mcfj8rn3bEA/mqdefault.jpg",
-      "datum": "2026-09-20T15:00:02Z",
-      "datum_de": "20.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "DIE KI BLASE PLATZT - das solltest du als Nutzer jetzt beachten...",
-      "link": "https://www.youtube.com/watch?v=5r88uUhqkTw",
-      "video_id": "5r88uUhqkTw",
-      "thumbnail": "https://img.youtube.com/vi/5r88uUhqkTw/mqdefault.jpg",
-      "datum": "2026-09-20T14:15:07+00:00",
-      "datum_de": "20.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI-Notbremse: DAS steckt wirklich dahinter! Es ist NICHT, was die dir erzählen | KI-NEWS",
-      "link": "https://www.youtube.com/watch?v=38qNMuPd0eo",
-      "video_id": "38qNMuPd0eo",
-      "thumbnail": "https://img.youtube.com/vi/38qNMuPd0eo/mqdefault.jpg",
-      "datum": "2026-09-20T08:15:33+00:00",
-      "datum_de": "20.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Tobinator",
-      "titel": "GTA 5 Legacy FiveM: KI-NPC Script jetzt verfügbar! | Installation + Gemini API",
-      "link": "https://www.youtube.com/watch?v=u2k4tAl5aG0",
-      "video_id": "u2k4tAl5aG0",
-      "thumbnail": "https://img.youtube.com/vi/u2k4tAl5aG0/mqdefault.jpg",
-      "datum": "2026-09-19T20:48:46Z",
-      "datum_de": "19.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Daniel Igl",
-      "titel": "5 einfache Wege, um mit Claude KI online Geld zu verdienen (Ohne Gesicht / 2026)",
-      "link": "https://www.youtube.com/watch?v=xQf5RQp70GQ",
-      "video_id": "xQf5RQp70GQ",
-      "thumbnail": "https://img.youtube.com/vi/xQf5RQp70GQ/mqdefault.jpg",
-      "datum": "2026-09-19T15:59:07Z",
-      "datum_de": "19.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Flenski",
-      "titel": "Claude Code Tutorial Deutsch: So ziehst du deinen Kurs in Minuten zu Flenski",
-      "link": "https://www.youtube.com/watch?v=0qVNMf98idM",
-      "video_id": "0qVNMf98idM",
-      "thumbnail": "https://img.youtube.com/vi/0qVNMf98idM/mqdefault.jpg",
-      "datum": "2026-09-19T13:12:06Z",
-      "datum_de": "19.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Unfairer Vorteil | KI",
-      "titel": "Apple öffnet Siri für Claude &amp; ChatGPT…",
-      "link": "https://www.youtube.com/watch?v=TYePQmngNyo",
-      "video_id": "TYePQmngNyo",
-      "thumbnail": "https://img.youtube.com/vi/TYePQmngNyo/mqdefault.jpg",
-      "datum": "2026-09-19T10:22:19Z",
-      "datum_de": "19.09.2026",
       "quelle": "suche"
     }
   ]
