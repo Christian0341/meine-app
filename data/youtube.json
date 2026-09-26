@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-09-25T12:41:03.468864+00:00",
+  "aktualisiert": "2026-09-26T12:08:56.270159+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Dominik Lebersorger",
+      "titel": "1000+ Stunden Claude Wissen in 17 Minuten",
+      "link": "https://www.youtube.com/watch?v=pyDPACni7SY",
+      "video_id": "pyDPACni7SY",
+      "thumbnail": "https://img.youtube.com/vi/pyDPACni7SY/mqdefault.jpg",
+      "datum": "2026-09-25T16:00:35Z",
+      "datum_de": "25.09.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Akademie4KI",
       "titel": "Fast niemand nutzt dieses neue ChatGPT Feature!",
@@ -104,7 +114,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "CLAUDE + JEV AI: Die nächste Stufe von KI ist da",
+      "titel": "CLAUDE + JEV: Die nächste Stufe von KI ist da",
       "link": "https://www.youtube.com/watch?v=S2KO8Wqzf20",
       "video_id": "S2KO8Wqzf20",
       "thumbnail": "https://img.youtube.com/vi/S2KO8Wqzf20/mqdefault.jpg",
@@ -123,32 +133,22 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Future Signal Docs",
+      "titel": "GPT-6 Cracked a 1941 Enigma No One Could Break",
+      "link": "https://www.youtube.com/watch?v=--dY8VPQRjE",
+      "video_id": "--dY8VPQRjE",
+      "thumbnail": "https://img.youtube.com/vi/--dY8VPQRjE/mqdefault.jpg",
+      "datum": "2026-09-22T23:30:39Z",
+      "datum_de": "22.09.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Thümmler AI",
       "titel": "Claude Opus 5.5: Fable-Niveau für 40 % weniger | KI-News 22.09.",
       "link": "https://www.youtube.com/watch?v=ZPFchpvs8O8",
       "video_id": "ZPFchpvs8O8",
       "thumbnail": "https://img.youtube.com/vi/ZPFchpvs8O8/mqdefault.jpg",
       "datum": "2026-09-22T18:49:46Z",
-      "datum_de": "22.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI 2035: Das letzte Jahr der Menschheit (Szenario eines UN-Beraters)",
-      "link": "https://www.youtube.com/watch?v=fmMCg6dyWpQ",
-      "video_id": "fmMCg6dyWpQ",
-      "thumbnail": "https://img.youtube.com/vi/fmMCg6dyWpQ/mqdefault.jpg",
-      "datum": "2026-09-22T15:15:23+00:00",
-      "datum_de": "22.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KI in Minuten",
-      "titel": "7 KI-Tools, die dir jede Woche Stunden sparen",
-      "link": "https://www.youtube.com/watch?v=Ew7uEOd2sOs",
-      "video_id": "Ew7uEOd2sOs",
-      "thumbnail": "https://img.youtube.com/vi/Ew7uEOd2sOs/mqdefault.jpg",
-      "datum": "2026-09-22T13:36:22Z",
       "datum_de": "22.09.2026",
       "quelle": "suche"
     }
