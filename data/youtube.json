@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-09-26T12:08:56.270159+00:00",
+  "aktualisiert": "2026-09-27T12:54:13.551483+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "Claude Opus 5.5 ist unfassbar! Alles was du jetzt wissen musst | KI-NEWS",
+      "link": "https://www.youtube.com/watch?v=3xksVVtssjY",
+      "video_id": "3xksVVtssjY",
+      "thumbnail": "https://img.youtube.com/vi/3xksVVtssjY/mqdefault.jpg",
+      "datum": "2026-09-27T08:15:09+00:00",
+      "datum_de": "27.09.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Dominik Lebersorger",
       "titel": "1000+ Stunden Claude Wissen in 17 Minuten",
@@ -133,23 +143,13 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Future Signal Docs",
-      "titel": "GPT-6 Cracked a 1941 Enigma No One Could Break",
-      "link": "https://www.youtube.com/watch?v=--dY8VPQRjE",
-      "video_id": "--dY8VPQRjE",
-      "thumbnail": "https://img.youtube.com/vi/--dY8VPQRjE/mqdefault.jpg",
-      "datum": "2026-09-22T23:30:39Z",
-      "datum_de": "22.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Thümmler AI",
-      "titel": "Claude Opus 5.5: Fable-Niveau für 40 % weniger | KI-News 22.09.",
-      "link": "https://www.youtube.com/watch?v=ZPFchpvs8O8",
-      "video_id": "ZPFchpvs8O8",
-      "thumbnail": "https://img.youtube.com/vi/ZPFchpvs8O8/mqdefault.jpg",
-      "datum": "2026-09-22T18:49:46Z",
-      "datum_de": "22.09.2026",
+      "kanal": "ZELDOgiq",
+      "titel": "Opus 5.5 ist da, ChatGPT 6 Sol und Luna kontern: das musst du wissen!",
+      "link": "https://www.youtube.com/watch?v=2DTd_1lyNRE",
+      "video_id": "2DTd_1lyNRE",
+      "thumbnail": "https://img.youtube.com/vi/2DTd_1lyNRE/mqdefault.jpg",
+      "datum": "2026-09-23T11:15:58Z",
+      "datum_de": "23.09.2026",
       "quelle": "suche"
     }
   ]
