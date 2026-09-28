@@ -1,7 +1,67 @@
 {
-  "aktualisiert": "2026-09-27T12:54:13.551483+00:00",
+  "aktualisiert": "2026-09-28T15:14:18.898016+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Niklas AI",
+      "titel": "Dieses Video hat Claude geschnitten (So geht&#39;s)",
+      "link": "https://www.youtube.com/watch?v=qUOM4iGBuIA",
+      "video_id": "qUOM4iGBuIA",
+      "thumbnail": "https://img.youtube.com/vi/qUOM4iGBuIA/mqdefault.jpg",
+      "datum": "2026-09-28T15:13:35Z",
+      "datum_de": "28.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Claude wurde umgebaut - diese Updates musst du kennen",
+      "link": "https://www.youtube.com/watch?v=-tn1V7yWUWg",
+      "video_id": "-tn1V7yWUWg",
+      "thumbnail": "https://img.youtube.com/vi/-tn1V7yWUWg/mqdefault.jpg",
+      "datum": "2026-09-28T13:00:30+00:00",
+      "datum_de": "28.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "AIIANER",
+      "titel": "KI News heute (28.09.): Zweite Trainingspause bei OpenAI, Trump und Amodei am Tisch | AIIANER",
+      "link": "https://www.youtube.com/watch?v=3NHXXObY02I",
+      "video_id": "3NHXXObY02I",
+      "thumbnail": "https://img.youtube.com/vi/3NHXXObY02I/mqdefault.jpg",
+      "datum": "2026-09-28T08:18:48Z",
+      "datum_de": "28.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AI Revolution auf Deutsch",
+      "titel": "OpenAIs neuer Agent O: Revolutioniert ChatGPT für immer",
+      "link": "https://www.youtube.com/watch?v=zVE0ku-pWlw",
+      "video_id": "zVE0ku-pWlw",
+      "thumbnail": "https://img.youtube.com/vi/zVE0ku-pWlw/mqdefault.jpg",
+      "datum": "2026-09-28T05:00:28Z",
+      "datum_de": "28.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "WELT Nachrichtensender",
+      "titel": "OPENAI: &quot;Trotz fehlenden Internetzugangs!&quot; Krasser Fall! KI völlig außer Kontrolle! Was wir wissen!",
+      "link": "https://www.youtube.com/watch?v=vIAW8e50dqk",
+      "video_id": "vIAW8e50dqk",
+      "thumbnail": "https://img.youtube.com/vi/vIAW8e50dqk/mqdefault.jpg",
+      "datum": "2026-09-27T16:30:24Z",
+      "datum_de": "27.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Grok Bot: Das EINFACHSTE Agent-System 2026?!",
+      "link": "https://www.youtube.com/watch?v=nYVbUH0GAW0",
+      "video_id": "nYVbUH0GAW0",
+      "thumbnail": "https://img.youtube.com/vi/nYVbUH0GAW0/mqdefault.jpg",
+      "datum": "2026-09-27T14:15:01+00:00",
+      "datum_de": "27.09.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "Claude Opus 5.5 ist unfassbar! Alles was du jetzt wissen musst | KI-NEWS",
@@ -43,12 +103,42 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "WPerfolg - KI & Online Marketing meistern",
+      "titel": "ChatGPT Work Tutorial (2026): So steuert ChatGPT deinen PC (VERRÜCKT)!",
+      "link": "https://www.youtube.com/watch?v=iegCqPIrwKU",
+      "video_id": "iegCqPIrwKU",
+      "thumbnail": "https://img.youtube.com/vi/iegCqPIrwKU/mqdefault.jpg",
+      "datum": "2026-09-25T07:15:35Z",
+      "datum_de": "25.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Kai Weissmann",
+      "titel": "Dein erster KI-Agent in 15 Minuten (Copilot Studio für Einsteiger)",
+      "link": "https://www.youtube.com/watch?v=TbrTTt0mIxU",
+      "video_id": "TbrTTt0mIxU",
+      "thumbnail": "https://img.youtube.com/vi/TbrTTt0mIxU/mqdefault.jpg",
+      "datum": "2026-09-25T05:00:36Z",
+      "datum_de": "25.09.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Ai World Brief",
       "titel": "OpenAI&#39;s GPT-6 Astra Decodes 83-Year Secret Code in Hours",
       "link": "https://www.youtube.com/watch?v=YlyShg1NG4k",
       "video_id": "YlyShg1NG4k",
       "thumbnail": "https://img.youtube.com/vi/YlyShg1NG4k/mqdefault.jpg",
       "datum": "2026-09-24T18:00:35Z",
+      "datum_de": "24.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sam Witteveen",
+      "titel": "Gemini 3.8 Flash TTS  with Voice Cloning",
+      "link": "https://www.youtube.com/watch?v=GDUBXR-ql78",
+      "video_id": "GDUBXR-ql78",
+      "thumbnail": "https://img.youtube.com/vi/GDUBXR-ql78/mqdefault.jpg",
+      "datum": "2026-09-24T17:15:13Z",
       "datum_de": "24.09.2026",
       "quelle": "suche"
     },
@@ -60,96 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/b1P41TkS61M/mqdefault.jpg",
       "datum": "2026-09-24T15:34:29Z",
       "datum_de": "24.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "„Die neue Krone der Schöpfung!\" Humanoide Roboter, KI & Zukunft (Prof. Gunter Dueck)",
-      "link": "https://www.youtube.com/watch?v=0zj46VLkRXw",
-      "video_id": "0zj46VLkRXw",
-      "thumbnail": "https://img.youtube.com/vi/0zj46VLkRXw/mqdefault.jpg",
-      "datum": "2026-09-24T15:15:03+00:00",
-      "datum_de": "24.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Gemini 3.8 TTS ist da: Kostenlos &amp; viel zu echt + Gemini 4 Gerüchte! KI News",
-      "link": "https://www.youtube.com/watch?v=lVaiC7kfm9U",
-      "video_id": "lVaiC7kfm9U",
-      "thumbnail": "https://img.youtube.com/vi/lVaiC7kfm9U/mqdefault.jpg",
-      "datum": "2026-09-24T14:36:50Z",
-      "datum_de": "24.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Digitale Profis",
-      "titel": "Claude Opus 5.5, GPT-6 Sol &amp; Luna, neue Funktionen in Gemini Notebook &amp; Xiaomi Open Models | KI-News",
-      "link": "https://www.youtube.com/watch?v=ewabonoMzH4",
-      "video_id": "ewabonoMzH4",
-      "thumbnail": "https://img.youtube.com/vi/ewabonoMzH4/mqdefault.jpg",
-      "datum": "2026-09-24T14:00:10Z",
-      "datum_de": "24.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI-Praxis 40+",
-      "titel": "Behörden-E-Mails in Sekunden beantworten (Google Gemini Tutorial Bilderbuch)",
-      "link": "https://www.youtube.com/watch?v=zKm_6uPR-84",
-      "video_id": "zKm_6uPR-84",
-      "thumbnail": "https://img.youtube.com/vi/zKm_6uPR-84/mqdefault.jpg",
-      "datum": "2026-09-24T10:11:12Z",
-      "datum_de": "24.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Alex Sprogis",
-      "titel": "Deshalb solltest du Jev und Claude kombinieren!",
-      "link": "https://www.youtube.com/watch?v=7ICJDgK7mrA",
-      "video_id": "7ICJDgK7mrA",
-      "thumbnail": "https://img.youtube.com/vi/7ICJDgK7mrA/mqdefault.jpg",
-      "datum": "2026-09-24T09:37:41Z",
-      "datum_de": "24.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Learn Languages with Daily News | LinguaWire",
-      "titel": "Learn German A1 | Slow German News with Subtitles: OpenAI helps Ukraine defend against cyberattacks",
-      "link": "https://www.youtube.com/watch?v=Q0G2JkaKLdc",
-      "video_id": "Q0G2JkaKLdc",
-      "thumbnail": "https://img.youtube.com/vi/Q0G2JkaKLdc/mqdefault.jpg",
-      "datum": "2026-09-24T02:06:21Z",
-      "datum_de": "24.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "CLAUDE + JEV: Die nächste Stufe von KI ist da",
-      "link": "https://www.youtube.com/watch?v=S2KO8Wqzf20",
-      "video_id": "S2KO8Wqzf20",
-      "thumbnail": "https://img.youtube.com/vi/S2KO8Wqzf20/mqdefault.jpg",
-      "datum": "2026-09-23T14:15:23+00:00",
-      "datum_de": "23.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "NANCY | KI-Workflows im Büro",
-      "titel": "Notebooklm Deutsch: Gemini Notebook erstellt Tool-Vergleiche fürs Büro | Eps.3",
-      "link": "https://www.youtube.com/watch?v=qIxxsj174iw",
-      "video_id": "qIxxsj174iw",
-      "thumbnail": "https://img.youtube.com/vi/qIxxsj174iw/mqdefault.jpg",
-      "datum": "2026-09-23T14:00:38Z",
-      "datum_de": "23.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Opus 5.5 ist da, ChatGPT 6 Sol und Luna kontern: das musst du wissen!",
-      "link": "https://www.youtube.com/watch?v=2DTd_1lyNRE",
-      "video_id": "2DTd_1lyNRE",
-      "thumbnail": "https://img.youtube.com/vi/2DTd_1lyNRE/mqdefault.jpg",
-      "datum": "2026-09-23T11:15:58Z",
-      "datum_de": "23.09.2026",
       "quelle": "suche"
     }
   ]
