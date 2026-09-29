@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-09-28T15:14:18.898016+00:00",
+  "aktualisiert": "2026-09-29T13:55:21.632693+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Selbst meine neuen Tests sind nicht schwer genug...",
+      "link": "https://www.youtube.com/watch?v=pPtrMoBfduQ",
+      "video_id": "pPtrMoBfduQ",
+      "thumbnail": "https://img.youtube.com/vi/pPtrMoBfduQ/mqdefault.jpg",
+      "datum": "2026-09-29T07:36:51+00:00",
+      "datum_de": "29.09.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Learn Languages with Daily News | LinguaWire",
+      "titel": "OpenAI stops a new model because of safety pro… | German A0-A1 lesson from today&#39;s news · LINGUAWIRE",
+      "link": "https://www.youtube.com/watch?v=nO6OH_Rec4o",
+      "video_id": "nO6OH_Rec4o",
+      "thumbnail": "https://img.youtube.com/vi/nO6OH_Rec4o/mqdefault.jpg",
+      "datum": "2026-09-29T04:25:01Z",
+      "datum_de": "29.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Welche KI für welche AUFGABE? ChatGPT, Gemini & Claude richtig einsetzen!",
+      "link": "https://www.youtube.com/watch?v=DIyP8OgV8o4",
+      "video_id": "DIyP8OgV8o4",
+      "thumbnail": "https://img.youtube.com/vi/DIyP8OgV8o4/mqdefault.jpg",
+      "datum": "2026-09-28T16:00:08+00:00",
+      "datum_de": "28.09.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Niklas AI",
       "titel": "Dieses Video hat Claude geschnitten (So geht&#39;s)",
@@ -40,16 +70,6 @@
       "thumbnail": "https://img.youtube.com/vi/zVE0ku-pWlw/mqdefault.jpg",
       "datum": "2026-09-28T05:00:28Z",
       "datum_de": "28.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "WELT Nachrichtensender",
-      "titel": "OPENAI: &quot;Trotz fehlenden Internetzugangs!&quot; Krasser Fall! KI völlig außer Kontrolle! Was wir wissen!",
-      "link": "https://www.youtube.com/watch?v=vIAW8e50dqk",
-      "video_id": "vIAW8e50dqk",
-      "thumbnail": "https://img.youtube.com/vi/vIAW8e50dqk/mqdefault.jpg",
-      "datum": "2026-09-27T16:30:24Z",
-      "datum_de": "27.09.2026",
       "quelle": "suche"
     },
     {
@@ -129,26 +149,6 @@
       "video_id": "YlyShg1NG4k",
       "thumbnail": "https://img.youtube.com/vi/YlyShg1NG4k/mqdefault.jpg",
       "datum": "2026-09-24T18:00:35Z",
-      "datum_de": "24.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sam Witteveen",
-      "titel": "Gemini 3.8 Flash TTS  with Voice Cloning",
-      "link": "https://www.youtube.com/watch?v=GDUBXR-ql78",
-      "video_id": "GDUBXR-ql78",
-      "thumbnail": "https://img.youtube.com/vi/GDUBXR-ql78/mqdefault.jpg",
-      "datum": "2026-09-24T17:15:13Z",
-      "datum_de": "24.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Niklas AI",
-      "titel": "GPT-6 Astra baut jetzt KI-Telefonassistenten! (Anleitung)",
-      "link": "https://www.youtube.com/watch?v=b1P41TkS61M",
-      "video_id": "b1P41TkS61M",
-      "thumbnail": "https://img.youtube.com/vi/b1P41TkS61M/mqdefault.jpg",
-      "datum": "2026-09-24T15:34:29Z",
       "datum_de": "24.09.2026",
       "quelle": "suche"
     }
