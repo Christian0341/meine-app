@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-09-30T13:32:09.408275+00:00",
+  "aktualisiert": "2026-10-01T14:22:14.861479+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Warum ist das BESSER (und teurer!) als Opus 5.5?!",
+      "link": "https://www.youtube.com/watch?v=BFC_kQVpK1I",
+      "video_id": "BFC_kQVpK1I",
+      "thumbnail": "https://img.youtube.com/vi/BFC_kQVpK1I/mqdefault.jpg",
+      "datum": "2026-10-01T09:05:05+00:00",
+      "datum_de": "01.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "WPerfolg - KI & Online Marketing meistern",
+      "titel": "ChatGPT Dots verändern ALLES: Test, A-Z Tutorial &amp; Erklärung (Deutsch 2026)",
+      "link": "https://www.youtube.com/watch?v=jO2W2tnVDQg",
+      "video_id": "jO2W2tnVDQg",
+      "thumbnail": "https://img.youtube.com/vi/jO2W2tnVDQg/mqdefault.jpg",
+      "datum": "2026-09-30T17:17:37Z",
+      "datum_de": "30.09.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Produkte mit Claude bauen und verkaufen: Das EINFACHSTE Setup",
+      "link": "https://www.youtube.com/watch?v=LMOsBmUvYWw",
+      "video_id": "LMOsBmUvYWw",
+      "thumbnail": "https://img.youtube.com/vi/LMOsBmUvYWw/mqdefault.jpg",
+      "datum": "2026-09-30T14:15:23+00:00",
+      "datum_de": "30.09.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "HardReset_info Deutsch",
       "titel": "Gemini – KI-Bilder in der Gemini Mobile App generieren (Prompt-Tutorial)",
@@ -121,36 +151,6 @@
       "datum": "2026-09-28T08:18:48Z",
       "datum_de": "28.09.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "AI Revolution auf Deutsch",
-      "titel": "OpenAIs neuer Agent O: Revolutioniert ChatGPT für immer",
-      "link": "https://www.youtube.com/watch?v=zVE0ku-pWlw",
-      "video_id": "zVE0ku-pWlw",
-      "thumbnail": "https://img.youtube.com/vi/zVE0ku-pWlw/mqdefault.jpg",
-      "datum": "2026-09-28T05:00:28Z",
-      "datum_de": "28.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Grok Bot: Das EINFACHSTE Agent-System 2026?!",
-      "link": "https://www.youtube.com/watch?v=nYVbUH0GAW0",
-      "video_id": "nYVbUH0GAW0",
-      "thumbnail": "https://img.youtube.com/vi/nYVbUH0GAW0/mqdefault.jpg",
-      "datum": "2026-09-27T14:15:01+00:00",
-      "datum_de": "27.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Claude Opus 5.5 ist unfassbar! Alles was du jetzt wissen musst | KI-NEWS",
-      "link": "https://www.youtube.com/watch?v=3xksVVtssjY",
-      "video_id": "3xksVVtssjY",
-      "thumbnail": "https://img.youtube.com/vi/3xksVVtssjY/mqdefault.jpg",
-      "datum": "2026-09-27T08:15:09+00:00",
-      "datum_de": "27.09.2026",
-      "quelle": "kanal"
     }
   ]
 }
