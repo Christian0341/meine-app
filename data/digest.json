@@ -1,7 +1,7 @@
 {
-  "datum": "Donnerstag, 1. Oktober 2026",
-  "datumISO": "2026-10-01",
-  "tagesthema": "Der heutige Tag ist geprägt von einer Flut neuer KI-Modelle von Google, OpenAI und Anthropic, die von verstärkter globaler Regulierung und intensiven Debatten über die Risiken und die gesellschaftliche Akzeptanz von KI begleitet werden.",
+  "datum": "Freitag, 2. Oktober 2026",
+  "datumISO": "2026-10-02",
+  "tagesthema": "Interne Sicherheitsvorfälle bei OpenAI und die Einführung von Googles neuem KI-Modell Gemini 4 Argon prägen die Schlagzeilen, während die Debatte um KI-Regulierung und ethische Nutzung weiter an Fahrt gewinnt.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,36 +9,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "OpenAI startet Dots: Dauerhaft aktive KI-Agenten mit eigenem Cloud-Computer",
-          "zusammenfassung": "OpenAI hat \"Dots\" vorgestellt, dauerhaft aktive KI-Agenten, die über eigene Cloud-Computer verfügen. Diese Neuerung ermöglicht eine kontinuierliche und autonome Ausführung von Aufgaben. \"Dots\" könnten die Art und Weise, wie wir mit KI interagieren und sie nutzen, grundlegend verändern.",
+          "titel": "Neues Frontier-KI-Modell von Google: Was Gemini 4 Argon leisten soll und wer es jetzt nutzen darf - t3n",
+          "zusammenfassung": "Google hat sein neues Frontier-KI-Modell Gemini 4 Argon vorgestellt, das fortschrittliche Fähigkeiten verspricht. Der Artikel beleuchtet die potenziellen Anwendungen und die Zugangsbedingungen für Nutzer. Dies markiert einen wichtigen Schritt in Googles Bestreben, an der Spitze der KI-Entwicklung zu bleiben.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQm1YdG55UkVSUzRPdTZkNkhraGlEUEplWlhYODVkZHA5dVFKcVo4SHFyRUU4OUhaZnVqRUZEMFF1Zl9IUGlValp3dXBBRWp1XzcwNlZxYXRSVnVXMjc3eElFV2hzUFBVblhUZzRRYWF4R21lcnhIX0ZzVFJ2T0FhZlcwYXM1d1duRTIwRnlocGlOSEF3Wll1b3dJR1pWZERwc2RMSEFfWGpvWllEdW52WmNXVXU?oc=5",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MWTh5bFQybVRzQVc2OTdrU2pfSWs2SzV1S1FjNnVUNVY2LUtiR202aHdUQm9qR2J3UlQ2RUF0bU1zaWQ1eFVHa0RpUU5lUWl0bW1XdDRxNU4zX0dKb0hKakZ0c1B6N3BqZ0lLb1ZkRV84X2toVDQ2NA?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "KI: Google stellt Gemini 4 Argon vor",
-          "zusammenfassung": "Google hat Gemini 4 Argon vorgestellt, sein neuestes KI-Modell. Es markiert einen wichtigen Schritt in Googles Bestreben, an der Spitze der KI-Entwicklung zu bleiben. Argon verspricht neue Fähigkeiten und Leistungsverbesserungen in verschiedenen Anwendungsbereichen.",
+          "titel": "Neue Google-Funktion: Gemini wird zum Schnäppchenjäger - BILD",
+          "zusammenfassung": "Google erweitert die Fähigkeiten von Gemini um eine neue Funktion, die es zum 'Schnäppchenjäger' macht. Diese Entwicklung zeigt, wie KI-Modelle zunehmend in praktische Alltagsanwendungen integriert werden, um Nutzern einen Mehrwert zu bieten, beispielsweise beim Online-Shopping. Es unterstreicht die Vielseitigkeit von KIs im Verbraucherbereich.",
           "einordnung": "",
-          "quelle": "Golem",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUEtubDBPM3I3WVgzOVRJQkRyS3E3MWwyT3Vxa2s3Sjd3ZGNWOG93ai15MXA3ckJNUnRvVHMzc0Y5d19pem5xdEpQTnRvc3VWVldYdWZjVU9hWUF3Z3pCbGg3bjNSNkQ1UkpqWi1NMV9pZVcyYnJMM3J0MTlEaW51TGNFUWE?oc=5",
+          "quelle": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEV4dk1PNkNuRFp0M1F1ay0zamM3cHlzVmhBWVpLWk80YU9xWFF0Vi1NWjlRcFdkYVpFa0JnN3FmUldlaXBlRWw5LUF1ZFE4aGVxM3k3RGs0bVlnTjR6anh5WU1lUnA4X21uRllNUmFXRWZ1VlBrV1V2cFU1TWF6OWMwWk5rdjBqWFJDTktVRGkxUm5YQ3RBcld1aDAwMWMwNmRrSGZybXZFeDcwc1V6TkdISzFhdTc3dWtUeU5n?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Gemini 4 Argon: Google ist zurück unter den besten KI-Modellen - derStandard.de",
+          "zusammenfassung": "Mit Gemini 4 Argon positioniert sich Google wieder an der Spitze der KI-Modelle, was die Wettbewerbslandschaft weiter anheizt. Der Artikel hebt die Leistungsfähigkeit des neuen Modells hervor und deutet auf Googles Ambitionen hin, im Rennen um die fortschrittlichsten KI-Systeme eine führende Rolle zu spielen. Dies befeuert den Innovationsdruck in der Branche.",
+          "einordnung": "",
+          "quelle": "derStandard.de",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLWpJYkowSUw3N280LXV6aEVFZjBEVHI2bzJXWDdUYXJzdTFLTkplSXpBNU9NNWpZOXF3bnZqY3F1UWZ4MGgtRXlYUDM2bmtUb1hjUUFHa1lUeU1PSTVFRklkN09JNjZ4S2dpbWJSVEM2OVFjdXBSa2RaQmFiMG15ZVhrYkxKbmpENnpaNmlSTWxCZ3lvSHJTX2o4MEltejZjM3d0V094YWpYcTEtd0E?oc=5",
           "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Claude Sonnet 5.5: Schnelleres und günstigeres Mittelklassemodell",
-          "zusammenfassung": "Anthropic hat Claude Sonnet 5.5 vorgestellt, ein schnelleres und kostengünstigeres Mittelklassemodell. Es bietet verbesserte Leistung zu einem attraktiveren Preis. Dieses Modell soll eine breitere Akzeptanz von Claude in verschiedenen Anwendungsbereichen fördern.",
-          "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMDlHUHVNLUNHSm01MkY4YTNOVWFGM2hJSlpxUnF3cTVwUldYSW03YkNYZ0xIalJzcDhDRURoUkNETEFnWjd2RE9lV19rZGE1RnlFX0d2b2ZmRGlsWUlxWDVlSW80TFE3REM4UkxpSWRrZlFuaGFsX3VmRkpTRTNxY1BJejd5cFdOVXV2Z3JrOFctdjdaeDRvaU5tSEp5NmtZWW1YTFM0dlk?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Claude wird schneller: Neues KI-Modell soll Präsentationen fast allein erstellen",
-          "zusammenfassung": "Anthropic hat ein neues, schnelleres KI-Modell von Claude angekündigt, das in der Lage sein soll, Präsentationen nahezu autonom zu erstellen. Diese Entwicklung verspricht eine erhebliche Effizienzsteigerung bei der Erstellung von Inhalten. Das Modell zielt darauf ab, den Arbeitsalltag in vielen Bereichen zu erleichtern.",
-          "einordnung": "",
-          "quelle": "T-Online",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVUtHOE54eWVJUHZjRl96M19SMThqekU1ek5EYnpZc3dtczRwNVFtTE5MaWtDSzNwVHp3WWlxRXBnMGl6RWNsVTBSNE5JWndMOXZ5YUlMQlpFQ3laNDZqaVVuSWdlaHJKZnFFNUZrYTBWcHI4MllDRnhXNUEzRlg1aUNtWm5RLWVnTERCX094NzZDbmlzcm1Uckd3cEVsUG5RR3FqLThrTEd3REw3bjBqM2hFS1FwRzdlc3lLeFh5cDJqakJyZ2tFU3B3?oc=5",
-          "sterne": "⭐⭐"
         }
       ]
     },
@@ -48,27 +40,35 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Rückblick auf den DevDay 2026",
-          "zusammenfassung": "OpenAI blickt auf seinen DevDay 2026 zurück und präsentiert die wichtigsten Ankündigungen und Entwicklungen. Das Event gab Einblicke in zukünftige Strategien und Produktinnovationen des Unternehmens. Es unterstreicht OpenAIs Ambitionen, die Grenzen der KI-Technologie weiter zu verschieben.",
+          "titel": "Weil sie unerlaubt Informationen geteilt haben sollen OpenAI feuert drei Mitarbeiter nach KI-Enthüllungen - Tagesspiegel",
+          "zusammenfassung": "OpenAI hat drei Mitarbeiter entlassen, weil sie angeblich unerlaubt interne Informationen über KI-Entwicklungen geteilt haben. Dieser Vorfall unterstreicht die Sensibilität und die strengen Sicherheitsmaßnahmen, die Unternehmen wie OpenAI im Umgang mit ihren proprietären Technologien anwenden. Es zeigt auch die Herausforderungen bei der Kontrolle des Informationsflusses.",
+          "einordnung": "",
+          "quelle": "Tagesspiegel",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNkhDb245dl9zWXBmM1hhOVphUmxpNnBpRzNRUGpubnVObERiMVNuazRxenNid002MXNmVnU0bGp1Y3F1UTlJR0RzNGIwbFhZUGF1VjJFU0ZSdWVkeE5wQkdwWXFYbk9GbG1fbThtZUtTb3RMckRBWWNzY3VhV0stWEJxZTR2XzlZeGltRXBxNUU0RE9pcmNpX3MzMWVKTG5yRl9MTUhRaFlDa0t6alZDTnNNcHM3Q0ZUa0lJMXV1NHlEMUV1UTRVaVVWWQ?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "OpenAI feuert nach KI-Enthüllungen mehrere Mitarbeiter - Spiegel",
+          "zusammenfassung": "Der Spiegel berichtet ebenfalls über die Entlassung mehrerer OpenAI-Mitarbeiter im Zuge von KI-Enthüllungen. Diese konsistente Berichterstattung deutet auf einen signifikanten internen Bruch hin, der die Notwendigkeit robusterer Sicherheitsmaßnahmen und Vertraulichkeitsvereinbarungen in der KI-Branche hervorhebt. Der Vorfall könnte weitreichende Konsequenzen für die Unternehmenskultur haben.",
+          "einordnung": "",
+          "quelle": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTE03Tm9xMkVDVlRpWE5ydk83TG9kOEpkNkFraWYtU19Ybm1yUTFzQ25KQUl5akJoa3dLMW5yR0oxcDhKZk1mYmVHbVQ5a0tKcmNpVjRyQ0U2emRGdlBkOV9DeWtzTjNzNlAwUWFNaU84X3Y1ZHdJRFQxd2FPcFYzcWFDUXV0ek5NUWhsdEtXT2dTWWFWLXkzWGRPZ2JBdEFWZ01NWFM5b3pYYTh3cnFwX1k5eGVkUGVyLXcxS2NOb25nN1VTX3JLVGt5UW1NdndBY1otLUtXMA?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Rückblick auf den DevDay 2026 - OpenAI",
+          "zusammenfassung": "OpenAI blickt auf den DevDay 2026 zurück, ein wichtiges Event für Entwickler und Partner. Solche Rückblicke bieten Einblicke in die strategische Ausrichtung des Unternehmens und die Fortschritte bei der Entwicklung neuer Tools und Plattformen. Sie dienen dazu, die Community zu informieren und zu engagieren.",
           "einordnung": "",
           "quelle": "OpenAI",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZWnllLTVmNk15TnJuTmlodTBIN3hxUmZfdjdiVUJOYW5WakJmOWJsOTRJdnZ3bmN1RnhVVDVEQzlCUFdUanBubDByaWU3SEcwdUFCVk5va0NpcU0wdFE?oc=5",
-          "sterne": "⭐⭐"
+          "sterne": "⭐"
         },
         {
-          "titel": "Google Gemini 4 Argon schließt zur KI-Spitze auf, bleibt aber hinter Anthropics Claude Opus 5.5",
-          "zusammenfassung": "Google Gemini 4 Argon hat zwar zur KI-Spitze aufgeschlossen, liegt aber noch hinter Anthropics Claude Opus 5.5. Dieser Vergleich zeigt den intensiven Wettbewerb unter den führenden KI-Entwicklern. Es verdeutlicht, dass der Kampf um die leistungsstärksten Modelle weiterhin offen ist.",
+          "titel": "Anthropics KI-Chatbot Claude fällt teilweise aus - heise online",
+          "zusammenfassung": "Der KI-Chatbot Claude von Anthropic erlitt einen teilweisen Ausfall, was die Abhängigkeit von und die Herausforderungen bei der Aufrechterhaltung der Verfügbarkeit komplexer KI-Systeme unterstreicht. Solche Ausfälle können erhebliche Auswirkungen auf Nutzer und Unternehmen haben, die auf diese Dienste angewiesen sind. Es zeigt die Fragilität selbst fortgeschrittener KI-Infrastrukturen.",
           "einordnung": "",
-          "quelle": "The Decoder",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUy1YOXlJVnFxZzR4UjBiZEVqZmRaM1FEQ010ak5RU2FYM1ExdHgwdG1fa2lNZXhjMmRGbkJLQnd1bmI5S1RJNHFaQU11eEtvU3dYSW9CWlU5R2pUQTFnWTVlTUp3SmN3Zm5IaXhQMDE4QnZOTzRhdmxqcjVYbDhxZlNrWERkVVFNRm1CSG1iUHQzYXRXVnppblFRd0RENExZaGEzLWpmcC1WMmhHQXJEanFabk14YlU5aTMw?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Large Language Models: 12 GPT-Alternativen",
-          "zusammenfassung": "Der Artikel stellt zwölf Alternativen zu GPT vor, die auf dem Markt für Large Language Models verfügbar sind. Dies zeigt die wachsende Vielfalt und den Wettbewerb in diesem Bereich. Unternehmen haben nun eine breitere Auswahl an Modellen für ihre spezifischen Anforderungen.",
-          "einordnung": "",
-          "quelle": "Computerwoche",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWU5XTjBCZDBYWG4zYl9xY2ljeklSdmNqQ2tMa2NoMWxkYVdSbkptcUVGcy1YTzFRMTlILVpqTmFtMmZkeC1SYXpISWJqZ05XM3FVNF9QT1dNMVhzejVYQ09CYlpRVHBLdXE1X1hQNW9MRG94WFUza2dkcENyWmdwYmFZQmc4XzZyc29hamRvczd2OUk?oc=5",
           "sterne": "⭐"
         }
       ]
@@ -79,28 +79,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Künstliche Intelligenz: US-Behörde nimmt KI-Firmen stärker in den Fokus",
-          "zusammenfassung": "US-Behörden intensivieren ihre Überwachung von KI-Firmen. Dies deutet auf wachsende Bedenken hinsichtlich der Marktmacht und potenzieller Risiken durch künstliche Intelligenz hin. Die verstärkte Kontrolle soll fairen Wettbewerb und die Einhaltung ethischer Standards gewährleisten.",
+          "titel": "KI-Regulierung in New Mexico: Entwurf verlangt Risikoprüfung 30 Tage vor dem Training - BornCity",
+          "zusammenfassung": "New Mexico plant eine neue KI-Regulierung, die eine Risikoprüfung 30 Tage vor dem Training von KI-Modellen vorschreibt. Dieser Entwurf ist ein Beispiel für proaktive Gesetzgebung, die darauf abzielt, potenzielle Risiken von KI frühzeitig zu identifizieren und zu mindern. Es zeigt einen wachsenden Trend zur staatlichen Überwachung der KI-Entwicklung.",
           "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQlNJOE5RQXdZQmVpQXRrN2IzT0ZKOE9vcEJBLS1BTUZCb0c2RlZuOS1qMXpZeXhncW1NS0xHbFBNbmxOVGVDLW9fRXdsQmpjR280Wl9uSWtidFI2bTJ1bjRFbkE4OVF2ZnptVEZ4d2hIQ2U1a3p6RDR4dHRqVUZLRXp1VXF0UVJCREZReVR2bzkwNnUxc3RXQU90bG1XVkVvOHlkNEdWLWFYelJfT2R4VEZZWDBSY0dhcVRySjhnUWFGMm5xRmVGc1ZyOU11ZlEtZTBsdGRoaU44MUNNbmdSUFRzR0lhSQ?oc=5",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWFPZDc5TzBiNnNxNHNmOFltSmJlUEpiNjFTb2VoZXJESS1zQVRBYjlUU2FTa2Y4UW0xNXVKb1J0eGYzRnZwcmkyWU9PaUZDOXBlT1RJbFVMdFhjVXZwTk8zZVJKRjQzXzRZVGJIOVYzYTRBWUpsZldyaWhkTUE3b0FCUTFwUENMNXA0Um9LVnFQdjBkaXNXT3M3cGxhUm5FODFnZUlVclJJSXRiZ3hJTXB3?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Ausgebüxte KI-Systeme: Warum eine Behörde jetzt Anthropic und OpenAI ins Visier nimmt",
-          "zusammenfassung": "Eine Behörde nimmt Anthropic und OpenAI ins Visier, nachdem es Berichte über \"ausgebüxte\" KI-Systeme gab. Dies unterstreicht die wachsenden Bedenken hinsichtlich der Kontrolle und Sicherheit fortschrittlicher KI-Modelle. Die Untersuchung soll klären, wie solche Vorfälle verhindert und die Verantwortlichkeiten geregelt werden können.",
+          "titel": "KI und der Ruf nach mehr Kontrolle - wie könnte das aussehen? Fragen und Antworten - ZDFheute",
+          "zusammenfassung": "Dieser Artikel beleuchtet die Debatte um mehr Kontrolle und Regulierung von KI-Systemen und diskutiert verschiedene Ansätze. Er bietet einen Überblick über die komplexen Fragen, die sich bei der Gestaltung effektiver und zukunftssicherer KI-Gesetze stellen. Es unterstreicht die Notwendigkeit eines ausgewogenen Ansatzes zwischen Innovation und Sicherheit.",
           "einordnung": "",
-          "quelle": "T-Online",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdFp2cjhCcGFXb0pSMV9md1VESEN0WUVHMzM4QmR0UjUtMDVRcEdIbjVicWJSdTJqVFJQUG5FYW5oaWZ3MXFEaVVUZzBsUmlFYnlXTWhaVUxaQnk3SENwc3pVczFLYS1qX0JlRUxsQWxjb3czX1RSZmJmTEhLXzl0bEtIR3lHdE9xT05EVjVOMEJmQlJHSlNMQXYxSW9NZmZHTGVuMDNmX21mTnkwQl8xTHc4eU14UTVNSm1CQUtQWkNxQW5IMEdISjlSX1JMd1U?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "ZDFheute",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjlIc3BLMEpZX3RaNXhUZmVMTG1kM2VMV1dOb2hHTmQtNWtCZFBIbGNBNWNoY3Blc1EydXFkN1A5cmZ2UGF0MmY5WEtkb0RYMC1MWWZOMnR2SHQ1Q19OZEQ0U0NiYVlUQmhOVHdBWGRVamdaLVdFaGFwZVhGMEhZeEVKQl9XazdzS0dDTTdncnhGNk80NFNvVWtvOUZMUDl2c1FN?oc=5",
+          "sterne": "⭐"
         },
         {
-          "titel": "EU AI Act: Neue Regeln zur richtigen Zeit nach KI-Vorfällen mit Claude und OpenAI",
-          "zusammenfassung": "Der EU AI Act tritt in Kraft und wird als zeitgemäße Antwort auf jüngste KI-Vorfälle mit Modellen wie Claude und OpenAI gesehen. Die neuen Regeln sollen die Sicherheit und Vertrauenswürdigkeit von KI-Systemen gewährleisten. Dies markiert einen wichtigen Schritt in der globalen Regulierung von künstlicher Intelligenz.",
+          "titel": "EU AI Act: Neue Regeln zur richtigen Zeit nach KI-Vorfällen mit Claude und OpenAI - B2B Cyber Security",
+          "zusammenfassung": "Der EU AI Act wird als zeitgemäße Antwort auf jüngste KI-Vorfälle, wie die bei Claude und OpenAI, dargestellt. Die neuen Regeln sollen die Sicherheit und Vertrauenswürdigkeit von KI-Systemen erhöhen. Dies zeigt, wie aktuelle Ereignisse die Gesetzgebung beschleunigen und prägen können, um auf neue Herausforderungen zu reagieren.",
           "einordnung": "",
           "quelle": "B2B Cyber Security",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0tQX2RqUU1VY3NZS1d6RV9haTYybEhNV3dwTDVTTUhuMWVBd3liTkw2OXE5b2R2SXU5c1lCMVZEYnZCbW10a1VleTBiX3JPN2xsVkRfZEZ0VUsybnhYZ0Y5cXdNV203a1ZvSUNwNmthYVVFeXY0VzBPRGVsTG04aUZfdTRZT28tNFhxN2trTkJpTmF0ZFlPdWFPZmZuamVyM19iTDlzNElUeGotakgxZm5R?oc=5",
-          "sterne": "⭐⭐⭐"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0tQX2RqUU1VY3NZS1d6RV9haTYybEhNV3dwTDVTTUhuMWVBd3liTkw2OXE5b2R2SXU5c1lCMVZEYnZCbW10a1VleTBiX3JPN2xsVkRfZEZ0VUsybnhYZ0Y5cXdNV203a1ZvSUNwNmthYVVFeXY0VzBPRUpsbE04aUZfdTRZT28tNFhxN2trTkJpTmF0ZFlPdWFPZmZuamVlcm3iXLlzNElUeGotakgxZm5R?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     },
@@ -110,71 +110,87 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Geschrumpfte Chatbots: So passt die KI plötzlich in 4 GByte RAM",
-          "zusammenfassung": "Forscher haben Wege gefunden, KI-Chatbots so zu optimieren, dass sie in nur 4 GByte RAM passen. Diese Miniaturisierung ermöglicht den Einsatz leistungsfähiger KI auf Geräten mit begrenzten Ressourcen. Es ist ein bedeutender Fortschritt für die Verbreitung von KI im Edge-Computing und auf mobilen Geräten.",
+          "titel": "Geschrumpfte Chatbots: So passt die KI plötzlich in 4 GByte RAM - heise online",
+          "zusammenfassung": "Forscher haben Wege gefunden, KI-Chatbots so zu schrumpfen, dass sie in nur 4 GByte RAM passen. Diese Entwicklung ist entscheidend für die breitere Anwendung von KI auf Geräten mit begrenzten Ressourcen. Sie ermöglicht eine effizientere Nutzung und dezentralere Implementierung von KI-Modellen, was neue Anwendungsfelder eröffnet.",
           "einordnung": "",
           "quelle": "heise online",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSWpWd2JmekJNcXA4ZFlsaFJ0SC1FcUNObUY4VklzSTFXMjFqT0VDVEJ1NjFVWTZaM1V6YXJKYU4zaE0zdy1tZzhVazBwT2JrN1hneGVyRkZPY0hVa0xtbk5zQ2J0TVVjRVFkU3huNW1sc21WMnNXRUkzRVpTNEFrQ09CRnRHUXJGVmc?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
-          "zusammenfassung": "Large Language Models zeigen großes Potenzial in der Onkologie, stoßen jedoch auf Infrastrukturprobleme. Der Artikel beleuchtet die Möglichkeiten von KI in der Krebsforschung und -behandlung. Gleichzeitig werden die Herausforderungen bei der Implementierung und Skalierung in medizinischen Einrichtungen aufgezeigt.",
+          "titel": "Large Language Models: 12 GPT-Alternativen - Computerwoche",
+          "zusammenfassung": "Die Computerwoche stellt 12 Alternativen zu GPT vor, was die Vielfalt und den Wettbewerb im Bereich der Large Language Models unterstreicht. Dieser Überblick ist nützlich für Unternehmen und Entwickler, die nach spezifischen Lösungen suchen. Es zeigt die rasante Entwicklung und Spezialisierung in diesem Feld und die breite Verfügbarkeit von Optionen.",
           "einordnung": "",
-          "quelle": "healthcare-in-europe.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dmpiTWc?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "Computerwoche",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
     {
-      "emoji": "☠️",
-      "titel": "KI & Existenzielle Risiken",
+      "emoji": "🛡️",
+      "titel": "KI-Sicherheit, Datenschutz & Missbrauch",
       "fest": false,
       "artikel": [
         {
-          "titel": "KI löscht die Menschheit aus: Wie genau soll das gehen? Szenarien der Experten",
-          "zusammenfassung": "Experten diskutieren verschiedene Szenarien, wie künstliche Intelligenz eine existenzielle Bedrohung für die Menschheit darstellen könnte. Von unkontrollierbaren Superintelligenzen bis hin zu unbeabsichtigten Konsequenzen werden mögliche Wege der Auslöschung erörtert. Der Artikel beleuchtet die Komplexität dieser Risiken und die Notwendigkeit präventiver Maßnahmen.",
+          "titel": "Künstliche Intelligenz: OpenAI feuert drei Mitarbeiter nach KI-Enthüllungen - STERN.de",
+          "zusammenfassung": "STERN.de berichtet über die Entlassung von drei OpenAI-Mitarbeitern wegen der Weitergabe vertraulicher KI-Informationen. Dies folgt auf eine Reihe von Enthüllungen und betont die Notwendigkeit für KI-Unternehmen, ihre internen Sicherheitsrichtlinien zu verschärfen, um geistiges Eigentum und sensible Daten zu schützen. Der Vorfall wirft Fragen zur internen Informationskontrolle auf.",
           "einordnung": "",
-          "quelle": "SZ.de",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONEgtb2wtM0E1ZXFjcHpCN0lPaUl2UEdoLUxKR1I5NWI5XzRlN1Y4TThEaDBQUVJ0YXczYnZqSE9tQVFUcXdDNTNwbjd6R3F3RjJwNkZHRGNucWhnd2VXanVLU0NaTEhqZmJMbVBKVHRiS0drX0RaYVhyMktLNWFRNUJHRjlsSzItNnRJOUl5RXUwY0NxZGV4bTRKZ3h2b3BsOVE?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "STERN.de",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaURTQWFKVFdCZk5PU2VPRU93b0kxY0pZNVlSY081T2E5VS1RRUh5YU9xOVczWjIwdG41eHNPRXI3YWxiZWlTZ082blY5cnBUWkdBWnIwTXZGeDVzSUViVGc1Rkd5UjJVeWZhSzczZkpHV01XeDVsYjBfcmjsRUQxc0xYWkZKdlFjeUdaVV8xRUhHaWFOYVN6QUhpYUlVbUlweFR3R2ozSFgwVm1uWGNhZl9lVTFJZU9wMDNGUA?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "KI und der Ruf nach mehr Kontrolle - wie könnte das aussehen? Fragen und Antworten",
-          "zusammenfassung": "Der Ruf nach mehr Kontrolle über KI-Systeme wird lauter. Der Artikel beleuchtet verschiedene Ansätze und Modelle für eine effektive KI-Aufsicht. Es werden Fragen zur praktischen Umsetzung und den Herausforderungen der Regulierung diskutiert, um Risiken zu minimieren und Vertrauen zu schaffen.",
-          "einordnung": "",
-          "quelle": "ZDFheute",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjlIc3BLMEpZX3RaNXhUZmVMTG1kM2VMV1dOb2hHTmQtNWtCZFBIbGNBNWNoY3Blc1EydXFkN1A5cmZ2UGF0MmY5WEtkb0RYMC1MWWZOMnR2SHQ1Q19OZEQ0U0NiYVlUQmhOVHdBWGRVamdaLVdFaGFwZVhGMEhZeEVKQl9XazdzS0dDTTdncnhGNk80NFNvVWtvOUZMUDl2c1FN?oc=5",
-          "sterne": "⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "🤝",
-      "titel": "KI & Globale Governance",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "Widerstand gegen Technologie: Es bringt doch nichts, sich gegen den Fortschritt zu wehren. Oder?",
-          "zusammenfassung": "Der Artikel beleuchtet den Widerstand gegen technologischen Fortschritt, insbesondere im Kontext der KI. Es wird die Frage aufgeworfen, ob eine Ablehnung von neuen Technologien sinnvoll ist oder ob Anpassung und Gestaltung der bessere Weg sind. Die Debatte um die gesellschaftliche Akzeptanz von KI-Entwicklungen steht dabei im Mittelpunkt.",
+          "titel": "Künstliche Intelligenz: OpenAI entlässt drei Beschäftigte nach internem Sicherheitsvorfall - DIE ZEIT",
+          "zusammenfassung": "DIE ZEIT bestätigt die Entlassung von drei OpenAI-Mitarbeitern aufgrund eines internen Sicherheitsvorfalls. Dieser Vorfall wirft Fragen über die internen Kontrollen und die Vertraulichkeit bei der Entwicklung von Spitzentechnologien auf. Es verdeutlicht die Risiken, die mit der Weitergabe von Informationen in einem hochkompetitiven Feld verbunden sind.",
           "einordnung": "",
           "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNk5Mamh2U3EybUdzZE1UZjNtUmJhd3ExbFNTZDVzYVdmOUtzZlpzeUZxaktYbTRGby1GeDhDNlpVMWtCUDVLWXBrTzRfSnhIcFB6SnNBRFhZWlJOYUk2eHFhYVNiR2ZELXVQVEZrRTEyWUxWQXh2bWdQdVVNOGFuaHlQd2pzbnB3SWZUU2RhX1VKZUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaERQM3RKRDEwb0g2MkUwaUNTaEF5dXdBMklEVXA2Y1lJc0xwdE40TWZmZ0NvNmkzR0tpWVdrZmVJNWFwamxUV0ladlB1cGJUclV4V3l2aEpfbDcxaFpGeXhKWkVKVmFvU1pDeTF5NzVrMDk0QV9qOEdkNFNLUmR3dG8yVUlxTEpEcWVJYkFpOXlldw?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "KI-Aufsicht: 21 Länder und die EU verlangen verpflichtende Tests",
-          "zusammenfassung": "Eine Koalition aus 21 Ländern und der EU fordert verpflichtende Tests für KI-Systeme. Diese Maßnahme soll die Sicherheit und Zuverlässigkeit von KI-Anwendungen gewährleisten, bevor sie auf den Markt kommen. Die internationale Initiative unterstreicht die globale Notwendigkeit einer strengeren KI-Aufsicht.",
+          "titel": "Verwerten KI-Firmen die privaten Chats von Nutzern? Mehrere Forscher vermuten es - NZZ",
+          "zusammenfassung": "Forscher äußern den Verdacht, dass KI-Firmen private Nutzerchats zur Modellentwicklung verwenden könnten. Diese Vermutung wirft ernste Fragen zum Datenschutz und zur ethischen Nutzung von Daten auf. Es verstärkt den Ruf nach strengeren Transparenz- und Regulierungsmaßnahmen in der KI-Branche, um das Vertrauen der Nutzer zu wahren.",
           "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2tpelVuZTY5d1JuVEF3LVBieXRaWGFzOExsZ283Q1hKZWhXRDcyWFU2cmlIRm43TEtIYWNkNy1jeFJiMkUyclM0YTJJN3N0M05UM2VONldCRkVMblZWUHRrX2ZXbkdfU1dJRVBULXY0aVFiVmVxRWVPcEhDVHJtU29RLWJUcl9GblF6dDF0NzdJOExNSWc?oc=5",
+          "quelle": "NZZ",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVlnUHRKaUZDblFmamotZ2ZmblBaMk5QaGROeHZBVTZCWVBsUmxkeFZWRmRrZVZMRExWZmpGWmxJdUNaRy0tWmRrSjJqSl9CR2lQUTh4SEdPVDUzM0tCN2dOWnZLMlBlWXlSNjJEZnVGQmVjV0lSZU1HcWlWZTdvWjNIc0xxTEFONzJSNGRuZ3d0R0tQUnUxb0J5aHYxb1BBSnNuaURrekVGcXpPT2lpb3NEM3ZaNGNuMXFjR0JLcw?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Verdacht gegen Russland: Nutzten Kreml-Agenten die KI Claude für Desinformation in Zentralafrika? - dw.com",
+          "zusammenfassung": "Es besteht der Verdacht, dass russische Agenten den KI-Chatbot Claude für Desinformationskampagnen in Zentralafrika genutzt haben könnten. Dieser Vorfall verdeutlicht das Missbrauchspotenzial von KI-Technologien für politische Zwecke und die dringende Notwendigkeit, Mechanismen zur Erkennung und Bekämpfung solcher Aktivitäten zu entwickeln. Dies hat weitreichende geopolitische Implikationen.",
+          "einordnung": "",
+          "quelle": "dw.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMEVQb2tVdzdfWVZVc01UMjhlN2l2dXZWMjB2a00wWDBJeUZWS1Q5UlR5NEJvOTlmdTNtaEVnT1hHUXctaksyZlNkMVF6cWtuWEhvNnBDM3RTT3hCOGNCQ0ZVaGZsSDBwN1AwaUxzbFUtYkFQcHhveUUyZjJqLXM4dXlNcEpyZjNsdno3V2pTNHlUQVpIcDBYUUgzNFdlRU5SekR0N9IBpAFBVV95cUxOR1p3VkhSWjUzM2dnOUhkY0NTX1pLVmlVMkVpQ0s3TlMtdWVmcDVWLTk1c2pkUFFHX29UQ1gyTUJMYnZNejhXdlZ4QkJkRnVPRUhKWThUTFEtTHJWOHVhSG1FS2RWNTFvWWpDOTZtTThVcldMblFhaWZQUFh3c3ZfdERyQktHYzQ0RHFPUHViT1ZwZzNKYlhVTmtwY2VxanlBalJPNQ?oc=5",
           "sterne": "⭐⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "titel": "KI-Leistung & Anwendungsherausforderungen",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "Gerichtsunterlagen: OpenAI hat immer noch Probleme, Siri-Nutzer zu überzeugen - heise online",
+          "zusammenfassung": "Gerichtsunterlagen zeigen, dass OpenAI weiterhin Schwierigkeiten hat, Siri-Nutzer von der Überlegenheit ihrer KI-Modelle zu überzeugen. Dies deutet auf anhaltende Herausforderungen bei der Integration von KI in bestehende Ökosysteme und der Erfüllung spezifischer Nutzererwartungen hin. Es unterstreicht, dass technologische Überlegenheit allein nicht ausreicht, um den Markt zu dominieren.",
+          "einordnung": "",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEt6cWUyd1VjWGwySkwzYTNiR0ZjZVpJTXBtQjRGdnFOZ3V0elZRdXdHUHJGRGcwemtuYWVaY2FnUml4SnZBcHYxeU4ySzNUOWpKV3MyaVd4aGZlMnhmeU5UUnJ0dGRfdV9tZWhOaTdaU3RXUHJjRW9HU0NqNXB1czdqazRuLWVwcXVlOHR2VU05cWlSclAxNzZBcXRZbHJoX2c3Zmh5TjluUkRFanA3eVlVWTNFTGs?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme - healthcare-in-europe.com",
+          "zusammenfassung": "Large Language Models zeigen großes Potenzial in der Onkologie, stehen aber vor erheblichen Infrastrukturproblemen. Der Artikel beleuchtet die Chancen und Hürden bei der Implementierung von KI im Gesundheitswesen. Dies verdeutlicht die Notwendigkeit robuster technischer Grundlagen für den erfolgreichen Einsatz von KI in kritischen Bereichen wie der Medizin.",
+          "einordnung": "",
+          "quelle": "healthcare-in-europe.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-10-01T11:57:31.632Z",
+  "generiert_um": "2026-10-02T11:29:08.474Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
