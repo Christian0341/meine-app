@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-10-01T14:22:14.861479+00:00",
+  "aktualisiert": "2026-10-02T13:44:48.401002+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Anks",
+      "titel": "OpenAI&#39;s AI Went Missing.",
+      "link": "https://www.youtube.com/watch?v=V7F16cBH78Q",
+      "video_id": "V7F16cBH78Q",
+      "thumbnail": "https://img.youtube.com/vi/V7F16cBH78Q/mqdefault.jpg",
+      "datum": "2026-10-02T12:52:46Z",
+      "datum_de": "02.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "KI-WELTUNTERGANG oder ANGST-MARKETING? Was steckt dahinter?",
+      "link": "https://www.youtube.com/watch?v=GfhwDvqTZII",
+      "video_id": "GfhwDvqTZII",
+      "thumbnail": "https://img.youtube.com/vi/GfhwDvqTZII/mqdefault.jpg",
+      "datum": "2026-10-01T19:20:12+00:00",
+      "datum_de": "01.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "„In 5 Jahren sind ALLE Bürojobs weg!\" DAS passiert danach (Prof. Marcus Hutter)",
+      "link": "https://www.youtube.com/watch?v=b8SU4cqAWTk",
+      "video_id": "b8SU4cqAWTk",
+      "thumbnail": "https://img.youtube.com/vi/b8SU4cqAWTk/mqdefault.jpg",
+      "datum": "2026-10-01T15:15:05+00:00",
+      "datum_de": "01.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "Gemini 4 ist da und ich glaube nicht, was damit möglich ist! KI-News",
+      "link": "https://www.youtube.com/watch?v=zbKhWvT6vTk",
+      "video_id": "zbKhWvT6vTk",
+      "thumbnail": "https://img.youtube.com/vi/zbKhWvT6vTk/mqdefault.jpg",
+      "datum": "2026-10-01T14:59:53Z",
+      "datum_de": "01.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Morpheus Tutorials",
       "titel": "Warum ist das BESSER (und teurer!) als Opus 5.5?!",
@@ -24,7 +64,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Produkte mit Claude bauen und verkaufen: Das EINFACHSTE Setup",
+      "titel": "Mit Claude Produkte bauen und verkaufen: Das EINFACHSTE Setup",
       "link": "https://www.youtube.com/watch?v=LMOsBmUvYWw",
       "video_id": "LMOsBmUvYWw",
       "thumbnail": "https://img.youtube.com/vi/LMOsBmUvYWw/mqdefault.jpg",
@@ -83,6 +123,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "WPerfolg - KI & Online Marketing meistern",
+      "titel": "Ich habe Claude Sonnet 5.5 gegen Opus 5.5 getestet - ich war schockiert!",
+      "link": "https://www.youtube.com/watch?v=sJFCFPgk4O4",
+      "video_id": "sJFCFPgk4O4",
+      "thumbnail": "https://img.youtube.com/vi/sJFCFPgk4O4/mqdefault.jpg",
+      "datum": "2026-09-29T18:19:18Z",
+      "datum_de": "29.09.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Everlast AI",
       "titel": "Es beginnt: KI verbessert sich jetzt selbst",
       "link": "https://www.youtube.com/watch?v=SRvVdEoRnew",
@@ -101,56 +151,6 @@
       "datum": "2026-09-29T07:36:51+00:00",
       "datum_de": "29.09.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Learn Languages with Daily News | LinguaWire",
-      "titel": "OpenAI stops a new model because of safety pro… | German A0-A1 lesson from today&#39;s news · LINGUAWIRE",
-      "link": "https://www.youtube.com/watch?v=nO6OH_Rec4o",
-      "video_id": "nO6OH_Rec4o",
-      "thumbnail": "https://img.youtube.com/vi/nO6OH_Rec4o/mqdefault.jpg",
-      "datum": "2026-09-29T04:25:01Z",
-      "datum_de": "29.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Welche KI für welche AUFGABE? ChatGPT, Gemini & Claude richtig einsetzen!",
-      "link": "https://www.youtube.com/watch?v=DIyP8OgV8o4",
-      "video_id": "DIyP8OgV8o4",
-      "thumbnail": "https://img.youtube.com/vi/DIyP8OgV8o4/mqdefault.jpg",
-      "datum": "2026-09-28T16:00:08+00:00",
-      "datum_de": "28.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Niklas AI",
-      "titel": "Dieses Video hat Claude geschnitten (So geht&#39;s)",
-      "link": "https://www.youtube.com/watch?v=qUOM4iGBuIA",
-      "video_id": "qUOM4iGBuIA",
-      "thumbnail": "https://img.youtube.com/vi/qUOM4iGBuIA/mqdefault.jpg",
-      "datum": "2026-09-28T15:13:35Z",
-      "datum_de": "28.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Claude wurde umgebaut - diese Updates musst du kennen",
-      "link": "https://www.youtube.com/watch?v=-tn1V7yWUWg",
-      "video_id": "-tn1V7yWUWg",
-      "thumbnail": "https://img.youtube.com/vi/-tn1V7yWUWg/mqdefault.jpg",
-      "datum": "2026-09-28T13:00:30+00:00",
-      "datum_de": "28.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "AIIANER",
-      "titel": "KI News heute (28.09.): Zweite Trainingspause bei OpenAI, Trump und Amodei am Tisch | AIIANER",
-      "link": "https://www.youtube.com/watch?v=3NHXXObY02I",
-      "video_id": "3NHXXObY02I",
-      "thumbnail": "https://img.youtube.com/vi/3NHXXObY02I/mqdefault.jpg",
-      "datum": "2026-09-28T08:18:48Z",
-      "datum_de": "28.09.2026",
-      "quelle": "suche"
     }
   ]
 }
