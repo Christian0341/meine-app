@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-10-02T13:44:48.401002+00:00",
+  "aktualisiert": "2026-10-03T12:23:51.126632+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "ZÜRICH AI LAB",
+      "titel": "NUR 3 TOOLS statt 100 KI-APPS?! - Make, OpusClip &amp; ElevenLabs im Test",
+      "link": "https://www.youtube.com/watch?v=0fQ-3iMz2mE",
+      "video_id": "0fQ-3iMz2mE",
+      "thumbnail": "https://img.youtube.com/vi/0fQ-3iMz2mE/mqdefault.jpg",
+      "datum": "2026-10-02T16:00:03Z",
+      "datum_de": "02.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Anks",
       "titel": "OpenAI&#39;s AI Went Missing.",
@@ -13,8 +23,18 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Calvin Hollywood (AI)",
+      "titel": "Neue Claude-Funktion: Claude baut sich jetzt selbst um (Claude Code Mods)",
+      "link": "https://www.youtube.com/watch?v=eUfK8Eh9bTo",
+      "video_id": "eUfK8Eh9bTo",
+      "thumbnail": "https://img.youtube.com/vi/eUfK8Eh9bTo/mqdefault.jpg",
+      "datum": "2026-10-02T09:45:50Z",
+      "datum_de": "02.10.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Christoph Magnussen",
-      "titel": "KI-WELTUNTERGANG oder ANGST-MARKETING? Was steckt dahinter?",
+      "titel": "KI außer KONTROLLE? Warum ich sie trotzdem jeden Tag nutze!",
       "link": "https://www.youtube.com/watch?v=GfhwDvqTZII",
       "video_id": "GfhwDvqTZII",
       "thumbnail": "https://img.youtube.com/vi/GfhwDvqTZII/mqdefault.jpg",
@@ -64,7 +84,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Mit Claude Produkte bauen und verkaufen: Das EINFACHSTE Setup",
+      "titel": "Der EINFACHSTE Tech Stack 2026 ohne Code",
       "link": "https://www.youtube.com/watch?v=LMOsBmUvYWw",
       "video_id": "LMOsBmUvYWw",
       "thumbnail": "https://img.youtube.com/vi/LMOsBmUvYWw/mqdefault.jpg",
@@ -103,6 +123,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Skill Leap AI",
+      "titel": "The Biggest ChatGPT Update Yet: Meet dots",
+      "link": "https://www.youtube.com/watch?v=gfh6l3DxHK0",
+      "video_id": "gfh6l3DxHK0",
+      "thumbnail": "https://img.youtube.com/vi/gfh6l3DxHK0/mqdefault.jpg",
+      "datum": "2026-09-29T22:34:13Z",
+      "datum_de": "29.09.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "AgentenFabrik",
       "titel": "OpenAI DevDay 2026 zusammengefasst: 20 Updates in 6 Minuten",
       "link": "https://www.youtube.com/watch?v=_l6rwfqm1IA",
@@ -121,36 +151,6 @@
       "datum": "2026-09-29T19:04:08Z",
       "datum_de": "29.09.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "WPerfolg - KI & Online Marketing meistern",
-      "titel": "Ich habe Claude Sonnet 5.5 gegen Opus 5.5 getestet - ich war schockiert!",
-      "link": "https://www.youtube.com/watch?v=sJFCFPgk4O4",
-      "video_id": "sJFCFPgk4O4",
-      "thumbnail": "https://img.youtube.com/vi/sJFCFPgk4O4/mqdefault.jpg",
-      "datum": "2026-09-29T18:19:18Z",
-      "datum_de": "29.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Es beginnt: KI verbessert sich jetzt selbst",
-      "link": "https://www.youtube.com/watch?v=SRvVdEoRnew",
-      "video_id": "SRvVdEoRnew",
-      "thumbnail": "https://img.youtube.com/vi/SRvVdEoRnew/mqdefault.jpg",
-      "datum": "2026-09-29T15:15:17+00:00",
-      "datum_de": "29.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Selbst meine neuen Tests sind nicht schwer genug...",
-      "link": "https://www.youtube.com/watch?v=pPtrMoBfduQ",
-      "video_id": "pPtrMoBfduQ",
-      "thumbnail": "https://img.youtube.com/vi/pPtrMoBfduQ/mqdefault.jpg",
-      "datum": "2026-09-29T07:36:51+00:00",
-      "datum_de": "29.09.2026",
-      "quelle": "kanal"
     }
   ]
 }
