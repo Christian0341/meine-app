@@ -1,7 +1,107 @@
 {
-  "aktualisiert": "2026-10-03T12:23:51.126632+00:00",
+  "aktualisiert": "2026-10-04T13:06:48.343617+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Tuto Money",
+      "titel": "ChatGPT Tutorial für Anfänger (2026) | Account erstellen &amp; richtig nutzen",
+      "link": "https://www.youtube.com/watch?v=vSsHv7BCyWM",
+      "video_id": "vSsHv7BCyWM",
+      "thumbnail": "https://img.youtube.com/vi/vSsHv7BCyWM/mqdefault.jpg",
+      "datum": "2026-10-04T13:00:13Z",
+      "datum_de": "04.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "OpenAI hält Astra zurück – und gibt uns das",
+      "link": "https://www.youtube.com/watch?v=EzITc3CSwLU",
+      "video_id": "EzITc3CSwLU",
+      "thumbnail": "https://img.youtube.com/vi/EzITc3CSwLU/mqdefault.jpg",
+      "datum": "2026-10-04T10:22:35+00:00",
+      "datum_de": "04.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Das neue ChatGPT ist da: DAS ändert sich jetzt für dich! Alle 20+ Updates | KI-NEWS",
+      "link": "https://www.youtube.com/watch?v=1ID_VcwzIo8",
+      "video_id": "1ID_VcwzIo8",
+      "thumbnail": "https://img.youtube.com/vi/1ID_VcwzIo8/mqdefault.jpg",
+      "datum": "2026-10-04T08:15:35+00:00",
+      "datum_de": "04.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "WPerfolg - KI & Online Marketing meistern",
+      "titel": "ChatGPT Plugins Sofort-Tutorial (2026): Plugins installieren + eigene Plugins erstellen...",
+      "link": "https://www.youtube.com/watch?v=ubH8_NhfGFY",
+      "video_id": "ubH8_NhfGFY",
+      "thumbnail": "https://img.youtube.com/vi/ubH8_NhfGFY/mqdefault.jpg",
+      "datum": "2026-10-04T07:30:08Z",
+      "datum_de": "04.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Learn Languages with Daily News | LinguaWire",
+      "titel": "Learn German B1 | Slow German News with Subtitles: Warum prüft OpenAI 50 Petabyte an Daten",
+      "link": "https://www.youtube.com/watch?v=k664PgdRtVo",
+      "video_id": "k664PgdRtVo",
+      "thumbnail": "https://img.youtube.com/vi/k664PgdRtVo/mqdefault.jpg",
+      "datum": "2026-10-04T03:19:45Z",
+      "datum_de": "04.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "The Agent Workshop",
+      "titel": "Google Gemini Omni: 4 Ultra-Realistic AI Clips From 4 Prompts (Honest Test)",
+      "link": "https://www.youtube.com/watch?v=IZzMtJ-ZfoI",
+      "video_id": "IZzMtJ-ZfoI",
+      "thumbnail": "https://img.youtube.com/vi/IZzMtJ-ZfoI/mqdefault.jpg",
+      "datum": "2026-10-03T20:29:47Z",
+      "datum_de": "03.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "SmartAffiliateFlow",
+      "titel": "Claude AI für Anfänger: Was es kann und wie du startest – einfach erklärt auf Deutsch",
+      "link": "https://www.youtube.com/watch?v=BpVBU2PF634",
+      "video_id": "BpVBU2PF634",
+      "thumbnail": "https://img.youtube.com/vi/BpVBU2PF634/mqdefault.jpg",
+      "datum": "2026-10-03T19:59:19Z",
+      "datum_de": "03.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "3 Dinge um KI-Überblick zu halten!",
+      "link": "https://www.youtube.com/shorts/4mcMZKMwjcU",
+      "video_id": "4mcMZKMwjcU",
+      "thumbnail": "https://img.youtube.com/vi/4mcMZKMwjcU/mqdefault.jpg",
+      "datum": "2026-10-03T16:58:34+00:00",
+      "datum_de": "03.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Notion mit Fred",
+      "titel": "Claude ist genial.. mit diesem Trick machst du es in 5 Minuten zu DEINEM System",
+      "link": "https://www.youtube.com/watch?v=l3SpxeWsIgI",
+      "video_id": "l3SpxeWsIgI",
+      "thumbnail": "https://img.youtube.com/vi/l3SpxeWsIgI/mqdefault.jpg",
+      "datum": "2026-10-03T14:00:30Z",
+      "datum_de": "03.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Jonas Keil",
+      "titel": "GPT-6 + Blender ist GENIAL! So steuerst du KI-Videos",
+      "link": "https://www.youtube.com/watch?v=LnPDIoWpZVk",
+      "video_id": "LnPDIoWpZVk",
+      "thumbnail": "https://img.youtube.com/vi/LnPDIoWpZVk/mqdefault.jpg",
+      "datum": "2026-10-02T18:31:00Z",
+      "datum_de": "02.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "ZÜRICH AI LAB",
       "titel": "NUR 3 TOOLS statt 100 KI-APPS?! - Make, OpusClip &amp; ElevenLabs im Test",
@@ -19,16 +119,6 @@
       "video_id": "V7F16cBH78Q",
       "thumbnail": "https://img.youtube.com/vi/V7F16cBH78Q/mqdefault.jpg",
       "datum": "2026-10-02T12:52:46Z",
-      "datum_de": "02.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Calvin Hollywood (AI)",
-      "titel": "Neue Claude-Funktion: Claude baut sich jetzt selbst um (Claude Code Mods)",
-      "link": "https://www.youtube.com/watch?v=eUfK8Eh9bTo",
-      "video_id": "eUfK8Eh9bTo",
-      "thumbnail": "https://img.youtube.com/vi/eUfK8Eh9bTo/mqdefault.jpg",
-      "datum": "2026-10-02T09:45:50Z",
       "datum_de": "02.10.2026",
       "quelle": "suche"
     },
@@ -53,16 +143,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "ZELDOgiq",
-      "titel": "Gemini 4 ist da und ich glaube nicht, was damit möglich ist! KI-News",
-      "link": "https://www.youtube.com/watch?v=zbKhWvT6vTk",
-      "video_id": "zbKhWvT6vTk",
-      "thumbnail": "https://img.youtube.com/vi/zbKhWvT6vTk/mqdefault.jpg",
-      "datum": "2026-10-01T14:59:53Z",
-      "datum_de": "01.10.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Morpheus Tutorials",
       "titel": "Warum ist das BESSER (und teurer!) als Opus 5.5?!",
       "link": "https://www.youtube.com/watch?v=BFC_kQVpK1I",
@@ -71,86 +151,6 @@
       "datum": "2026-10-01T09:05:05+00:00",
       "datum_de": "01.10.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "WPerfolg - KI & Online Marketing meistern",
-      "titel": "ChatGPT Dots verändern ALLES: Test, A-Z Tutorial &amp; Erklärung (Deutsch 2026)",
-      "link": "https://www.youtube.com/watch?v=jO2W2tnVDQg",
-      "video_id": "jO2W2tnVDQg",
-      "thumbnail": "https://img.youtube.com/vi/jO2W2tnVDQg/mqdefault.jpg",
-      "datum": "2026-09-30T17:17:37Z",
-      "datum_de": "30.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Der EINFACHSTE Tech Stack 2026 ohne Code",
-      "link": "https://www.youtube.com/watch?v=LMOsBmUvYWw",
-      "video_id": "LMOsBmUvYWw",
-      "thumbnail": "https://img.youtube.com/vi/LMOsBmUvYWw/mqdefault.jpg",
-      "datum": "2026-09-30T14:15:23+00:00",
-      "datum_de": "30.09.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "HardReset_info Deutsch",
-      "titel": "Gemini – KI-Bilder in der Gemini Mobile App generieren (Prompt-Tutorial)",
-      "link": "https://www.youtube.com/watch?v=nxEuwpKOtyo",
-      "video_id": "nxEuwpKOtyo",
-      "thumbnail": "https://img.youtube.com/vi/nxEuwpKOtyo/mqdefault.jpg",
-      "datum": "2026-09-30T11:34:02Z",
-      "datum_de": "30.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Jannik Reinhard",
-      "titel": "Microsoft Agent 365 im Überblick: KI-Agenten zentral verwalten",
-      "link": "https://www.youtube.com/watch?v=jMJfzB6ztBo",
-      "video_id": "jMJfzB6ztBo",
-      "thumbnail": "https://img.youtube.com/vi/jMJfzB6ztBo/mqdefault.jpg",
-      "datum": "2026-09-30T06:00:20Z",
-      "datum_de": "30.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "AI Revolution auf Deutsch",
-      "titel": "Manus 2.0 jetzt vollautonom, Sonnet 5.5 schlägt Opus, Tencent-KI-Begleiter &amp; mehr KI-News",
-      "link": "https://www.youtube.com/watch?v=qxBwO0vxB8M",
-      "video_id": "qxBwO0vxB8M",
-      "thumbnail": "https://img.youtube.com/vi/qxBwO0vxB8M/mqdefault.jpg",
-      "datum": "2026-09-30T05:00:13Z",
-      "datum_de": "30.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Skill Leap AI",
-      "titel": "The Biggest ChatGPT Update Yet: Meet dots",
-      "link": "https://www.youtube.com/watch?v=gfh6l3DxHK0",
-      "video_id": "gfh6l3DxHK0",
-      "thumbnail": "https://img.youtube.com/vi/gfh6l3DxHK0/mqdefault.jpg",
-      "datum": "2026-09-29T22:34:13Z",
-      "datum_de": "29.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "AgentenFabrik",
-      "titel": "OpenAI DevDay 2026 zusammengefasst: 20 Updates in 6 Minuten",
-      "link": "https://www.youtube.com/watch?v=_l6rwfqm1IA",
-      "video_id": "_l6rwfqm1IA",
-      "thumbnail": "https://img.youtube.com/vi/_l6rwfqm1IA/mqdefault.jpg",
-      "datum": "2026-09-29T20:25:51Z",
-      "datum_de": "29.09.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "ChatGPT dots sind da und verändern, wie wir mit ChatGPT arbeiten!",
-      "link": "https://www.youtube.com/watch?v=e1cq6TXmrdI",
-      "video_id": "e1cq6TXmrdI",
-      "thumbnail": "https://img.youtube.com/vi/e1cq6TXmrdI/mqdefault.jpg",
-      "datum": "2026-09-29T19:04:08Z",
-      "datum_de": "29.09.2026",
-      "quelle": "suche"
     }
   ]
 }
