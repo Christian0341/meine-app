@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-10-04T13:06:48.343617+00:00",
+  "aktualisiert": "2026-10-05T15:47:53.786679+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "So viele UPDATES wie noch nie? Meine OpenAI DevDay TOP 5!",
+      "link": "https://www.youtube.com/watch?v=jvaVkBXbqiI",
+      "video_id": "jvaVkBXbqiI",
+      "thumbnail": "https://img.youtube.com/vi/jvaVkBXbqiI/mqdefault.jpg",
+      "datum": "2026-10-05T15:05:45+00:00",
+      "datum_de": "05.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Diese 5 genialen ChatGPT-6 Astra UseCases musst du kennen",
+      "link": "https://www.youtube.com/watch?v=F3MT8S1VF68",
+      "video_id": "F3MT8S1VF68",
+      "thumbnail": "https://img.youtube.com/vi/F3MT8S1VF68/mqdefault.jpg",
+      "datum": "2026-10-05T14:30:22+00:00",
+      "datum_de": "05.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "ChatGPT 6 Astra + Higgsfield = 10.000€ Websites",
+      "link": "https://www.youtube.com/watch?v=EqgAm6HkG6A",
+      "video_id": "EqgAm6HkG6A",
+      "thumbnail": "https://img.youtube.com/vi/EqgAm6HkG6A/mqdefault.jpg",
+      "datum": "2026-10-04T14:15:15+00:00",
+      "datum_de": "04.10.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Tuto Money",
       "titel": "ChatGPT Tutorial für Anfänger (2026) | Account erstellen &amp; richtig nutzen",
@@ -93,16 +123,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Jonas Keil",
-      "titel": "GPT-6 + Blender ist GENIAL! So steuerst du KI-Videos",
-      "link": "https://www.youtube.com/watch?v=LnPDIoWpZVk",
-      "video_id": "LnPDIoWpZVk",
-      "thumbnail": "https://img.youtube.com/vi/LnPDIoWpZVk/mqdefault.jpg",
-      "datum": "2026-10-02T18:31:00Z",
-      "datum_de": "02.10.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "ZÜRICH AI LAB",
       "titel": "NUR 3 TOOLS statt 100 KI-APPS?! - Make, OpusClip &amp; ElevenLabs im Test",
       "link": "https://www.youtube.com/watch?v=0fQ-3iMz2mE",
@@ -123,34 +143,14 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Christoph Magnussen",
-      "titel": "KI außer KONTROLLE? Warum ich sie trotzdem jeden Tag nutze!",
-      "link": "https://www.youtube.com/watch?v=GfhwDvqTZII",
-      "video_id": "GfhwDvqTZII",
-      "thumbnail": "https://img.youtube.com/vi/GfhwDvqTZII/mqdefault.jpg",
-      "datum": "2026-10-01T19:20:12+00:00",
+      "kanal": "Ismajl Pukaj | KI Agentur",
+      "titel": "ChatGPT Dots hat gerade Grokbot &amp; Co. zerstört",
+      "link": "https://www.youtube.com/watch?v=tmTSWbd1EY4",
+      "video_id": "tmTSWbd1EY4",
+      "thumbnail": "https://img.youtube.com/vi/tmTSWbd1EY4/mqdefault.jpg",
+      "datum": "2026-10-01T21:17:00Z",
       "datum_de": "01.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "„In 5 Jahren sind ALLE Bürojobs weg!\" DAS passiert danach (Prof. Marcus Hutter)",
-      "link": "https://www.youtube.com/watch?v=b8SU4cqAWTk",
-      "video_id": "b8SU4cqAWTk",
-      "thumbnail": "https://img.youtube.com/vi/b8SU4cqAWTk/mqdefault.jpg",
-      "datum": "2026-10-01T15:15:05+00:00",
-      "datum_de": "01.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Warum ist das BESSER (und teurer!) als Opus 5.5?!",
-      "link": "https://www.youtube.com/watch?v=BFC_kQVpK1I",
-      "video_id": "BFC_kQVpK1I",
-      "thumbnail": "https://img.youtube.com/vi/BFC_kQVpK1I/mqdefault.jpg",
-      "datum": "2026-10-01T09:05:05+00:00",
-      "datum_de": "01.10.2026",
-      "quelle": "kanal"
+      "quelle": "suche"
     }
   ]
 }
