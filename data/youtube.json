@@ -1,10 +1,10 @@
 {
-  "aktualisiert": "2026-10-05T15:47:53.786679+00:00",
+  "aktualisiert": "2026-10-06T14:04:50.684696+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
       "kanal": "Christoph Magnussen",
-      "titel": "So viele UPDATES wie noch nie? Meine OpenAI DevDay TOP 5!",
+      "titel": "ChatGPT bekommt ein MEGA UPDATE! Meine TOP 5 vom DevDay 26",
       "link": "https://www.youtube.com/watch?v=jvaVkBXbqiI",
       "video_id": "jvaVkBXbqiI",
       "thumbnail": "https://img.youtube.com/vi/jvaVkBXbqiI/mqdefault.jpg",
@@ -21,6 +21,16 @@
       "datum": "2026-10-05T14:30:22+00:00",
       "datum_de": "05.10.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "OpenAI Dots ist nur der Anfang | Harness Engineering einfach erklärt | KI-Agenten 2026",
+      "link": "https://www.youtube.com/watch?v=zhXQ4H9-utc",
+      "video_id": "zhXQ4H9-utc",
+      "thumbnail": "https://img.youtube.com/vi/zhXQ4H9-utc/mqdefault.jpg",
+      "datum": "2026-10-04T15:00:18Z",
+      "datum_de": "04.10.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Sascha Taschan",
@@ -123,6 +133,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Futurepedia",
+      "titel": "Gemini Skills Are Finally Here (Master in 9 Minutes)",
+      "link": "https://www.youtube.com/watch?v=OiP0YBHLjqo",
+      "video_id": "OiP0YBHLjqo",
+      "thumbnail": "https://img.youtube.com/vi/OiP0YBHLjqo/mqdefault.jpg",
+      "datum": "2026-10-02T16:51:07Z",
+      "datum_de": "02.10.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "ZÜRICH AI LAB",
       "titel": "NUR 3 TOOLS statt 100 KI-APPS?! - Make, OpusClip &amp; ElevenLabs im Test",
       "link": "https://www.youtube.com/watch?v=0fQ-3iMz2mE",
@@ -130,26 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/0fQ-3iMz2mE/mqdefault.jpg",
       "datum": "2026-10-02T16:00:03Z",
       "datum_de": "02.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Anks",
-      "titel": "OpenAI&#39;s AI Went Missing.",
-      "link": "https://www.youtube.com/watch?v=V7F16cBH78Q",
-      "video_id": "V7F16cBH78Q",
-      "thumbnail": "https://img.youtube.com/vi/V7F16cBH78Q/mqdefault.jpg",
-      "datum": "2026-10-02T12:52:46Z",
-      "datum_de": "02.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Ismajl Pukaj | KI Agentur",
-      "titel": "ChatGPT Dots hat gerade Grokbot &amp; Co. zerstört",
-      "link": "https://www.youtube.com/watch?v=tmTSWbd1EY4",
-      "video_id": "tmTSWbd1EY4",
-      "thumbnail": "https://img.youtube.com/vi/tmTSWbd1EY4/mqdefault.jpg",
-      "datum": "2026-10-01T21:17:00Z",
-      "datum_de": "01.10.2026",
       "quelle": "suche"
     }
   ]
