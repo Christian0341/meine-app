@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-10-06T14:04:50.684696+00:00",
+  "aktualisiert": "2026-10-07T14:22:11.584934+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Diese App hat mein Leben 10x einfacher gemacht! (Plaud AI)",
+      "link": "https://www.youtube.com/watch?v=4YVXDef57UM",
+      "video_id": "4YVXDef57UM",
+      "thumbnail": "https://img.youtube.com/vi/4YVXDef57UM/mqdefault.jpg",
+      "datum": "2026-10-07T14:15:15+00:00",
+      "datum_de": "07.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Dirk Winiecki | Lokale KI",
+      "titel": "Lokale KI: Eigener KI-Agent auf Windows mit 1 Installer (Hermes)",
+      "link": "https://www.youtube.com/watch?v=dEomlvkQDK0",
+      "video_id": "dEomlvkQDK0",
+      "thumbnail": "https://img.youtube.com/vi/dEomlvkQDK0/mqdefault.jpg",
+      "datum": "2026-10-07T04:34:37Z",
+      "datum_de": "07.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI führt jetzt ganze Unternehmen allein: Fast niemand hat davon mitbekommen",
+      "link": "https://www.youtube.com/watch?v=phcZVAmT8j8",
+      "video_id": "phcZVAmT8j8",
+      "thumbnail": "https://img.youtube.com/vi/phcZVAmT8j8/mqdefault.jpg",
+      "datum": "2026-10-06T15:15:29+00:00",
+      "datum_de": "06.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "ChatGPT 6.1 Sol getestet: Damit hat die Gaming-Welt nicht gerechnet!",
+      "link": "https://www.youtube.com/watch?v=-pBbY1b0FSQ",
+      "video_id": "-pBbY1b0FSQ",
+      "thumbnail": "https://img.youtube.com/vi/-pBbY1b0FSQ/mqdefault.jpg",
+      "datum": "2026-10-06T14:12:09Z",
+      "datum_de": "06.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "ChatGPT bekommt ein MEGA UPDATE! Meine TOP 5 vom DevDay 26",
@@ -21,6 +61,26 @@
       "datum": "2026-10-05T14:30:22+00:00",
       "datum_de": "05.10.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Niklas Hansen",
+      "titel": "Claude Code Mods: Das größte Upgrade seit Skills (so nutze ich sie)",
+      "link": "https://www.youtube.com/watch?v=LBUU8dkx8ZI",
+      "video_id": "LBUU8dkx8ZI",
+      "thumbnail": "https://img.youtube.com/vi/LBUU8dkx8ZI/mqdefault.jpg",
+      "datum": "2026-10-05T14:21:24Z",
+      "datum_de": "05.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Technik Sam",
+      "titel": "Google Gemini 4 Argon ist da! 🚨 Neues Flaggschiff-Modell",
+      "link": "https://www.youtube.com/watch?v=iwsDDp4Zzm8",
+      "video_id": "iwsDDp4Zzm8",
+      "thumbnail": "https://img.youtube.com/vi/iwsDDp4Zzm8/mqdefault.jpg",
+      "datum": "2026-10-04T20:11:37Z",
+      "datum_de": "04.10.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Shakeela ZQ",
@@ -90,66 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/k664PgdRtVo/mqdefault.jpg",
       "datum": "2026-10-04T03:19:45Z",
       "datum_de": "04.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "The Agent Workshop",
-      "titel": "Google Gemini Omni: 4 Ultra-Realistic AI Clips From 4 Prompts (Honest Test)",
-      "link": "https://www.youtube.com/watch?v=IZzMtJ-ZfoI",
-      "video_id": "IZzMtJ-ZfoI",
-      "thumbnail": "https://img.youtube.com/vi/IZzMtJ-ZfoI/mqdefault.jpg",
-      "datum": "2026-10-03T20:29:47Z",
-      "datum_de": "03.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "SmartAffiliateFlow",
-      "titel": "Claude AI für Anfänger: Was es kann und wie du startest – einfach erklärt auf Deutsch",
-      "link": "https://www.youtube.com/watch?v=BpVBU2PF634",
-      "video_id": "BpVBU2PF634",
-      "thumbnail": "https://img.youtube.com/vi/BpVBU2PF634/mqdefault.jpg",
-      "datum": "2026-10-03T19:59:19Z",
-      "datum_de": "03.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "3 Dinge um KI-Überblick zu halten!",
-      "link": "https://www.youtube.com/shorts/4mcMZKMwjcU",
-      "video_id": "4mcMZKMwjcU",
-      "thumbnail": "https://img.youtube.com/vi/4mcMZKMwjcU/mqdefault.jpg",
-      "datum": "2026-10-03T16:58:34+00:00",
-      "datum_de": "03.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Notion mit Fred",
-      "titel": "Claude ist genial.. mit diesem Trick machst du es in 5 Minuten zu DEINEM System",
-      "link": "https://www.youtube.com/watch?v=l3SpxeWsIgI",
-      "video_id": "l3SpxeWsIgI",
-      "thumbnail": "https://img.youtube.com/vi/l3SpxeWsIgI/mqdefault.jpg",
-      "datum": "2026-10-03T14:00:30Z",
-      "datum_de": "03.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Futurepedia",
-      "titel": "Gemini Skills Are Finally Here (Master in 9 Minutes)",
-      "link": "https://www.youtube.com/watch?v=OiP0YBHLjqo",
-      "video_id": "OiP0YBHLjqo",
-      "thumbnail": "https://img.youtube.com/vi/OiP0YBHLjqo/mqdefault.jpg",
-      "datum": "2026-10-02T16:51:07Z",
-      "datum_de": "02.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZÜRICH AI LAB",
-      "titel": "NUR 3 TOOLS statt 100 KI-APPS?! - Make, OpusClip &amp; ElevenLabs im Test",
-      "link": "https://www.youtube.com/watch?v=0fQ-3iMz2mE",
-      "video_id": "0fQ-3iMz2mE",
-      "thumbnail": "https://img.youtube.com/vi/0fQ-3iMz2mE/mqdefault.jpg",
-      "datum": "2026-10-02T16:00:03Z",
-      "datum_de": "02.10.2026",
       "quelle": "suche"
     }
   ]
