@@ -1,7 +1,7 @@
 {
-  "datum": "Dienstag, 6. Oktober 2026",
-  "datumISO": "2026-10-06",
-  "tagesthema": "Der heutige Tag ist geprägt von Diskussionen um die Monetarisierung und Wirtschaftlichkeit von KI-Lösungen sowie verstärkten Bemühungen um Transparenz und ethische Richtlinien.",
+  "datum": "Mittwoch, 7. Oktober 2026",
+  "datumISO": "2026-10-07",
+  "tagesthema": "Der heutige KI-News Digest beleuchtet bahnbrechende Fortschritte in der KI-Forschung, die zunehmende Monetarisierung von KI-Diensten und kritische Debatten um Sicherheit und gesellschaftliche Rolle von Künstlicher Intelligenz.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,11 +9,19 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Large Language Models: 12 GPT-Alternativen",
-          "zusammenfassung": "Computerwoche.de stellt 12 Alternativen zu GPT-Modellen vor, die auf dem Markt verfügbar sind. Der Artikel bietet einen Überblick über die Vielfalt der Large Language Models und deren spezifische Anwendungsbereiche. Dies zeigt die zunehmende Wettbewerbsintensität und Innovation im Bereich der generativen KI.",
+          "titel": "Geschrumpfte Chatbots: So passt die KI plötzlich in 4 GByte RAM",
+          "zusammenfassung": "Forscher haben neue Methoden entwickelt, um große Sprachmodelle (LLMs) so zu komprimieren, dass sie auch auf Geräten mit begrenztem Arbeitsspeicher, wie 4 GByte RAM, effizient laufen können. Dies ermöglicht eine breitere lokale Nutzung von KI-Anwendungen und reduziert die Abhängigkeit von Cloud-Diensten.",
           "einordnung": "",
-          "quelle": "computerwoche.de",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSWpWd2JmekJNcXA4ZFlsaFJ0SC1FcUNObUY4VklzSTFXMjFqT0VDVEJ1NjFVWTZaM1V6YXJKYU4zaE0zdy1tZzhVazBwT2JrN1hneGVyRkZPY0hVa0xtbk5zQ2J0TVVjRVFkU3huNW1sc21WMnNXRUkzRVpTNEFrQ09CRnRHUXJGVmc?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Large Language Models: 12 GPT-Alternativen",
+          "zusammenfassung": "Dieser Artikel bietet einen Überblick über zwölf vielversprechende Alternativen zu OpenAIs GPT-Modellen. Er beleuchtet verschiedene große Sprachmodelle, ihre Stärken und Anwendungsbereiche, und hilft Unternehmen bei der Auswahl der passenden KI-Lösung für ihre Bedürfnisse.",
+          "einordnung": "",
+          "quelle": "Computerwoche",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9qamtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
           "sterne": "⭐"
         }
       ]
@@ -24,27 +32,27 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Meta und Microsoft: 30.000 Nutzer weniger für Claude – was jetzt?",
-          "zusammenfassung": "Meta und Microsoft haben die interne Nutzung von Anthropic's KI-Modell Claude um 30.000 Nutzer reduziert. Dies könnte auf eine strategische Neuausrichtung oder eine Bewertung der Effizienz und Kosten der externen KI-Lösung hindeuten. Der Rückgang wirft Fragen über die zukünftige Zusammenarbeit und die Präferenzen großer Tech-Konzerne auf.",
+          "titel": "Mehr Werbung in ChatGPT: OpenAI platziert visuelle Anzeigen in seine Bild-KI / ChatGPT Ads: OpenAI baut Messung und Werbeformate aus",
+          "zusammenfassung": "OpenAI intensiviert seine Monetarisierungsstrategie durch die Integration visueller Anzeigen in seine Bild-KI und den Ausbau von Mess- und Werbeformaten in ChatGPT. Diese Schritte sollen neue Einnahmequellen erschließen und die Kommerzialisierung der KI-Produkte vorantreiben.",
           "einordnung": "",
-          "quelle": "deraktionaer.de",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSDhwV0NicFhsUl9hcVdpeWRkejgteG5jdkZEc2ZXX2o3TndsZEZZYWwySkZ2X3JQX29EUDQtclRIdGVldEFidmdYa1BTYzNXWjVqNndKRHBkdXc2R0UtclBLaElvMFpSa2JBTE5wME1hRXVMc1h0S1hGSmpGMm8xWWpmcEhWZ2xhREtYM0UtcktVc1lnNGhEeFktTjdJV1NoZFJjRzQzR0FDRl9pdUZackY4dWVTTjUtNkRvd0ZZamhtY1RIeHNrZ052TncteU15?oc=5",
+          "quelle": "t3n / meedia.de",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8wQWRTUVpldk9pbURCb0V5T0xnaG1tcE51R2V2MHk2SERsbDZ0VVRGQkhrcF95VFhNTGJQc3o0aEhtdC1X?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "Anthropic vor Börsengang: Meta und Microsoft drehen Claude ab",
+          "zusammenfassung": "Im Vorfeld seines geplanten Börsengangs sieht sich Anthropic, Entwickler des KI-Modells Claude, mit strategischen Veränderungen konfrontiert. Berichten zufolge ziehen sich wichtige Partner wie Meta und Microsoft aus der Unterstützung von Claude zurück, was die Wettbewerbslandschaft neu ordnen könnte.",
+          "einordnung": "",
+          "quelle": "Business Punk",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3RkQjVjdXpEX25HUXUycE82TDFMZEhwSnZaU2hKUi1KaHdzUVlDTjdvZDFvYll4SlBfY2EwMHdud3JCYTBlYXJXTmgxTnQ3WHlvTElVN1d5aFRPbUlMT2QtdF91N1pDcW9QN284WFp5T2thSUdRdldiT3FSOTAyTXRKQ1ZXZGw4aF95ZEZyWFBhU01HT3BZ?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Claude: Anthropic bittet um Sprachdaten für KI-Training",
-          "zusammenfassung": "Anthropic, der Entwickler des KI-Modells Claude, bittet Nutzer aktiv um die Bereitstellung von Sprachdaten für das weitere Training seiner KI. Diese Datensammlung ist entscheidend für die Verbesserung der Modellleistung und -genauigkeit. Der Ansatz unterstreicht die Notwendigkeit großer Datenmengen für die Entwicklung leistungsfähiger Large Language Models.",
+          "titel": "Google: Gemini-Pro-Modelle erfordern ab Oktober ein AI-Pro-Abo / Gratis gibt’s nur noch das Minimum: Google macht Gemini-KI kostenpflichtig",
+          "zusammenfassung": "Google führt für seine leistungsstärkeren Gemini-Pro-Modelle ab Oktober ein kostenpflichtiges AI-Pro-Abonnement ein. Damit werden erweiterte KI-Funktionen für Nutzer kostenpflichtig, während die kostenlose Version auf ein Minimum reduziert wird, was eine klare Kommerzialisierungsstrategie signalisiert.",
           "einordnung": "",
-          "quelle": "it-daily.net",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5LWJUTlVxcGNmUEo4djFST2tlZG0wWW9Vd1FGMEN0bHlsVWxhTnNqdUloQldhNXhjRXpob1AyandmT1gtS2paaVVIbEgwMldRN05kTnNFUHdrMHF5UmdUOVotNm9PbnlFeXRhamVuR3NkU00?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Microsoft und Meta reduzieren interne Nutzung von Anthropic-KI",
-          "zusammenfassung": "WinFuture.de bestätigt, dass Microsoft und Meta die interne Nutzung der Anthropic-KI Claude zurückfahren. Diese Entscheidung könnte auf eine Überprüfung der Kosten-Nutzen-Relation oder die Entwicklung eigener, konkurrierender KI-Lösungen zurückzuführen sein. Es signalisiert eine dynamische Wettbewerbslandschaft im Bereich der KI-Modelle.",
-          "einordnung": "",
-          "quelle": "WinFuture.de",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15cUoxNy1YUGtLYTZHQzl6cGNKX2ZwTVNmd2VhREpTZFlPbFI3a09hZFBMdlYxcUFQdkFFMXc4bGJkY1N1V0VFUkRhb1pTQQ?oc=5",
+          "quelle": "heise online / BILD",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2NHemo4T0oxTjItOWxfRHFQc1lfaEl1TWo4MVBnZVVUVEZwRjNWaW9YUS05NGZpOWg0Ym9iZkE2ZE03QmswbDFrMU9YY2tWVmszYkJ1a2IzdDhPYmEzczc4YlU1dXUtc0lXcGlidmdVTVpQTjFNT1BZdTZJX0hGRG10cjJzbk1PSlo0SDgzRlh5ZFpFVWpfdXJjTUFwdTFnN3gw?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -55,27 +63,19 @@
       "fest": true,
       "artikel": [
         {
+          "titel": "KI-Regulierung bei der UN: 20 Länder und EU-Kommission fordern Prüfregeln",
+          "zusammenfassung": "Die Vereinten Nationen werden zum Schauplatz internationaler Bemühungen um KI-Regulierung: 20 Länder und die EU-Kommission fordern gemeinsam die Einführung verbindlicher Prüfregeln für Künstliche Intelligenz. Ziel ist es, globale Standards für die Entwicklung und den Einsatz von KI zu etablieren und Risiken zu minimieren.",
+          "einordnung": "",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORExYVTZlaWp2ckhUNmVMZk50QWl1azBCQkxPejFtMl9KOGd0WFhrWnljZXJiYWViVEJfdWk2aFJLb29kQzY3SjMwRDVsZGxsZVFCOGVTTmlONUZhUzdkQmlFXzhpZ2pVRUJTR0JFSFEwX19wYUdaX0FJY1QzRldTbmZKZlh2OGxJVjVPTWlZZXhBZlMybmluOUZZSGlNVFFXT3dv?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
           "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Der Deutschlandfunk beleuchtet die Schwierigkeiten und Verzögerungen bei der Implementierung des EU AI Act. Das ambitionierte europäische KI-Gesetz stößt auf Hürden, die seine Verabschiedung und Umsetzung verlangsamen. Dies wirft Fragen nach der Geschwindigkeit und Effektivität der KI-Regulierung in Europa auf.",
+          "zusammenfassung": "Europas ambitioniertes KI-Gesetz, der EU AI Act, scheint ins Stocken zu geraten. Der Artikel beleuchtet die Gründe für die Verzögerungen, darunter komplexe Verhandlungen und unterschiedliche Interessen der Mitgliedstaaten, die die Verabschiedung des wegweisenden Regelwerks behindern.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "KI-Regulierung bei der UN: 20 Länder und EU-Kommission fordern Prüfregeln",
-          "zusammenfassung": "Bei den Vereinten Nationen fordern 20 Länder und die EU-Kommission die Einführung globaler Prüfregeln für Künstliche Intelligenz. Ziel ist es, internationale Standards für die Entwicklung und den Einsatz von KI zu etablieren. Diese Initiative zeigt den wachsenden globalen Konsens über die Notwendigkeit einer umfassenden KI-Regulierung.",
-          "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORExYVTZlaWp2ckhUNmVMZfN0QWl1azBCQkxPejFtMl9KOGd0WFhrWnljZXJiYWViVEJfdWk2aFJLb29kQzY3SjMwRDVsZGxsZVFCOGVTTmlONUZhUzdkQmlFXzhpZ2pVRUJTR0JFSFEwX19wYUdaX0FJY1QzRldTbmZKZlh2OGxJVjVPTWlZZXhBZlMybmluOUZZSGlNVFFXT3dv?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "KI und der Ruf nach mehr Kontrolle - wie könnte das aussehen? Fragen und Antworten",
-          "zusammenfassung": "ZDFheute diskutiert die Forderung nach stärkerer Kontrolle von Künstlicher Intelligenz und mögliche Ausgestaltungen solcher Regulierungen. Der Artikel beleuchtet verschiedene Ansätze und Herausforderungen bei der Schaffung eines rechtlichen Rahmens für KI. Dies spiegelt die öffentliche Debatte über die sichere und ethische Nutzung von KI wider.",
-          "einordnung": "",
-          "quelle": "ZDFheute",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjlIc3BLMEpZX3RaNXhUZmVMTG1kM2VMV1dOb2hHTmQtNWtCZFBIbGNBNWNoY3Blc1EydXFkN1A5cmZ2UGF0MmY5WEtkb0RYMC1MWWZOMnR2SHQ1Q19OZEQ0U0NiYVlUQmhOVHdBWGRVamdaLVdFaGFwZVhGMEhYeEVKQl9XazdzS0dDTTdncnhGNk80NFNvVWtvOUZMUDl2c1FN?oc=5",
           "sterne": "⭐"
         }
       ]
@@ -86,111 +86,87 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Geschrumpfte Chatbots: So passt die KI plötzlich in 4 GByte RAM",
-          "zusammenfassung": "Heise.de berichtet über Fortschritte in der KI-Optimierung, die es ermöglichen, leistungsstarke Chatbots in nur 4 GByte RAM zu betreiben. Diese Entwicklung macht KI-Modelle zugänglicher und effizienter für den Einsatz auf kleineren Geräten. Es ist ein bedeutender Schritt in Richtung Edge AI und breiterer Anwendbarkeit.",
+          "titel": "Künstliche Intelligenz: OpenAI soll Hunderte mathematische Probleme gelöst haben / KI von OpenAI löst wohl Hunderte weitere Mathematikprobleme",
+          "zusammenfassung": "OpenAI hat einen signifikanten Durchbruch erzielt: Ihre Künstliche Intelligenz soll Hunderte komplexer mathematischer Probleme gelöst haben. Dies unterstreicht die fortschreitenden Fähigkeiten von KI in logischem Denken und Problembewältigung, die weit über bisherige Leistungen hinausgehen.",
           "einordnung": "",
-          "quelle": "heise.de",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSWpWd2JmekJNcXA4ZFlsaFJ0SC1FcUNObUY4VklzSTFXMjFqT0VDVEJ1NjFVWTZaM1V6YXJKYU4zaE0zdy1tZzhVazBwT2JrN1hneGVyRkZPY0hVa0xtbk5zQ2J0TVVjRVFkU3huNW1sc21WMnNXRUkzRVpTNEFrQ09CRnRHUXJGVmc?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "DIE ZEIT / FAZ",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOUxqQjc2aXZfZVd3NkxoSk9IdTh1QUFOOXpJdDBIQ25QaWZfbzV6VFN5OFpxeU1GRWcwQ0NKWGR0TC10LWQzYmtOWjhGdnNLNWJ0ZjhHb2lreTVOVWZlUTgtY2pnWEV4VV9UcS1obFh0Q2tmaU5SMmRJaGFNWGVqZDA5UFJMVk1fTGhmR09KRk5pQQ?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
-          "zusammenfassung": "Healthcare-in-europe.com beleuchtet das große Potenzial von Large Language Models in der Onkologie, weist aber auch auf bestehende Infrastrukturprobleme hin. Während LLMs die Diagnose und Behandlungsplanung revolutionieren könnten, fehlen oft die nötigen Daten und technischen Voraussetzungen. Die Studie zeigt die Herausforderungen bei der praktischen Anwendung von KI im Gesundheitswesen auf.",
+          "titel": "Hat Anthropics KI eine biologische Entdeckung gemacht?",
+          "zusammenfassung": "Anthropics KI-Modell Claude könnte eine bahnbrechende biologische Entdeckung gemacht haben, was die Potenziale von Künstlicher Intelligenz in der wissenschaftlichen Forschung unterstreicht. Diese Entwicklung deutet darauf hin, dass KI nicht nur Daten analysiert, sondern auch neue Hypothesen generieren und zur Wissenserweiterung beitragen kann.",
           "einordnung": "",
-          "quelle": "healthcare-in-europe.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQVFsaTFWRGthQV84bjRLUURFMWxNN1duaGUzbFVzOGRFVzl2RlBuWlBKcE5sQS1QUUU2OEpweFhyU041eFREeDUzWlFLUnZ1QlR0Z3pUV3pUT011T0ozSHE3N3NZbmFlRnVja0RLdUFYZ0pGb1VRS3FOb0kyS2h1RUpMVEk4VkpVSDhvdW9EbUlUbk92SzZJeGJNVVFKQmpjOG42bW1idnVmS1htYk8xdmZhVWNVMjUtc1lYQ0lWQ1NBaXRLQ1h6aHBselBUdkl6cWJEaVRZejBOUUk?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
     {
-      "emoji": "💰",
-      "titel": "KI & Wirtschaftlichkeit",
+      "emoji": "🔒",
+      "titel": "KI & Sicherheit",
       "fest": false,
       "artikel": [
-        {
-          "titel": "Nordrhein-Westfalen: Milliarden-Einsparung mit künstlicher Intelligenz",
-          "zusammenfassung": "Nordrhein-Westfalen plant durch den Einsatz von Künstlicher Intelligenz erhebliche Einsparungen im Milliardenbereich. Die Landesregierung setzt auf KI-Lösungen, um Verwaltungsprozesse zu optimieren und die Effizienz öffentlicher Dienste zu steigern. Dies unterstreicht das wachsende Potenzial von KI im öffentlichen Sektor zur Kostenreduktion.",
-          "einordnung": "",
-          "quelle": "tagesschau.de",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb21KTUNyRzJCNU14TzB6SmZ1Yk5oVGIxcUkzUXJUQ1Z4bzkybHUwY3Z2YVhnaWtXbllIZ3l4Z18yQlhSdFFIeVhncTAta3ctT0Y3ck5mQTRLYkk4VFFzNnotZU1MUVZmMmpJb0cwVUppeVlxY1BVVkk1MWdWNVRhdWJlcVF1YkdybnNfUjdoVGdOZk1LNUNoUjc2MXpmTlJQd0lXTmxmTjI5Slo5dDNIdXByVGxidW13cWpEWnU4YnN0M1VIQ3pCeHZhc2NMNDFjdXNXcmtzcmNFMnVLX3B3?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Deutsche Telekom will durch KI-Einsatz Milliarden sparen",
-          "zusammenfassung": "Die Deutsche Telekom strebt durch den massiven Einsatz von Künstlicher Intelligenz Einsparungen in Milliardenhöhe an. Der Fokus liegt auf der Automatisierung von Prozessen und der Optimierung von Abläufen, um die Wettbewerbsfähigkeit zu erhöhen. Diese Strategie zeigt den Trend großer Unternehmen, KI als zentralen Hebel zur Kostenreduktion zu nutzen.",
-          "einordnung": "",
-          "quelle": "heise.de",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOEV3ZmRSWVVVc0YyU0p6cmNYMTJLeF9MUWp5bnhCaUhkUTQ5Ym5fU3dWWlI0MU15dEFrUU8zVFRNX0Y5UVBWbFIzb01EUGZYVnRfcDl6ZGFNcTRJTjhydFZVMGVXRF9SbU55cXZOeEtiYVQ3UkZEbUhEb2kwdW9jR3VxQms0Nkt3VHdEb0U3WW9IVm4tUE1NcTQ2Yi0?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Google: Gemini-Pro-Modelle erfordern ab Oktober ein AI-Pro-Abo",
-          "zusammenfassung": "Google macht seine leistungsstärkeren Gemini-Pro-Modelle ab Oktober kostenpflichtig und erfordert ein spezielles AI-Pro-Abonnement. Diese Strategie markiert einen Schritt zur Monetarisierung fortgeschrittener KI-Dienste. Nutzer müssen nun für erweiterte Funktionen und höhere Leistung bezahlen.",
-          "einordnung": "",
-          "quelle": "heise.de",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2NHemo4T0oxTjItOWxfRHFQc1lfaEl1TWo4MVBnZVVUVEZwRjNWaW9YUS05NGZpOWg0Ym9iZkE2ZE03QmswbDFrMU9YY2tWVmszYkJ1a2IzdDhPYmEzczc4YlU1dXUtc0lXcGlidmdVTVpQTjFNT1BZdTZJX0hGRG10cjJzbk1PSlo0SDgzRlh5ZFpFVWpfdXJjTUFwdTFnN3gw?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Gratis gibt’s nur noch das Minimum: Google macht Gemini-KI kostenpflichtig",
-          "zusammenfassung": "BILD berichtet, dass Google seine Gemini-KI-Dienste kostenpflichtig macht, wobei nur noch eine Basisversion gratis verfügbar ist. Für den Zugang zu den fortschrittlicheren Gemini-Pro-Modellen ist nun ein Abo erforderlich. Diese Entwicklung spiegelt den Trend wider, dass hochwertige KI-Dienste zunehmend monetarisiert werden.",
-          "einordnung": "",
-          "quelle": "BILD",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZy1sMGp5aDlNWVJyUHBwQUIwUEZBU094aHN4bWJWQi1pNUtxbWx5S09lYlFCanIxZTFBQnNMS3R5ZFZLMk5LdVNaRkRSYjZCTkU0LTZwTDJ1V0RDaXJlclB4Q3ctVUpyWEdFbFBka296XzZlNEtOcTlYbjBxQllyNEx3Zlltd3lKU25xOFFvRXl4UzVGTFNDTFpMbEhVTlk0RWZRUjFpOWFLRDFLVXhpYWw1UFB6QlJyeXpn?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Gemini wird zur Sparversion – und viele Google-Kunden verlieren Pro",
-          "zusammenfassung": "Elektroniknet analysiert, wie Google seine Gemini-KI-Angebote umstrukturiert, wodurch viele bisherige Pro-Funktionen kostenpflichtig werden. Die kostenlose Version wird auf ein Minimum reduziert, was für viele Bestandskunden eine Umstellung bedeutet. Dies unterstreicht Googles Bestreben, aus seinen KI-Investitionen Einnahmen zu generieren.",
-          "einordnung": "",
-          "quelle": "elektroniknet",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUFNETm1MOGVVeFpob2JLWWRBcHpsOGZVeXl5MkYydUkyM0pjbzFDVUJJcXJ5bnBkeW9jQ3JmZ05ZTUEzWWlfV1RDRE1veXFGWjFfaVdlUDJWWE5FcWZVYW80aEdLZkctLUZPTVdDWWZUSi1aZ3pxbUN2MllhdGVoMzZLVVpWaFZaOXYtTUJvd1ROTzFURHJXZnlTQm5uQVJtdkJERk5xcEMya3RUdDlnc3FCaTlXb3JieVQ5bnBRbnRaX3VpOUVLOVo2TFFxV0pPR1pvemRtRk94Mk4wWVZnSA?oc=5",
-          "sterne": "⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "👁️",
-      "titel": "KI & Transparenz & Ethik",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "Telekom: Müssen die Mitarbeiter den KI-Agenten weichen?",
-          "zusammenfassung": "Die Deutsche Telekom prüft den verstärkten Einsatz von KI-Agenten im Kundenservice und in anderen Bereichen. Dies wirft Fragen nach den Auswirkungen auf die Belegschaft auf, da befürchtet wird, dass menschliche Arbeitsplätze durch KI ersetzt werden könnten. Das Unternehmen steht vor der Herausforderung, Effizienzsteigerungen durch KI mit sozialer Verantwortung zu vereinbaren.",
-          "einordnung": "",
-          "quelle": "WiWo",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFZ5ajgxUUpqVk1oYTlJcDZWZjBZcUNkakRSc3lkN0Y5NGZNbUJ3WlBxeU5mdFNwT0pEaGUwcVJnRW9vVUxzTjBNY2hhdE1jbHhrS1h1dVFaOTl0REhwMTM5ekpLSTcwMFFBdW1tc3pQcy0xWlNfTzN6SUhNZGt2VHBKR19XbE83VlYzYUVhR2FQcmVPUVUtWFJ5dDFlSDdJN2dWbnAtYThlaVQwTlZCQkYtWG5DZw?oc=5",
-          "sterne": "⭐⭐"
-        },
         {
           "titel": "Textwasserzeichen: OpenAI markiert ChatGPT-Texte in der EU",
-          "zusammenfassung": "OpenAI führt in der EU unsichtbare Wasserzeichen für von ChatGPT generierte Texte ein. Diese Maßnahme soll die Herkunft von KI-Inhalten nachvollziehbar machen und Falschinformationen entgegenwirken. Es ist ein wichtiger Schritt zur Erhöhung der Transparenz und zur Einhaltung zukünftiger Regulierungen.",
+          "zusammenfassung": "OpenAI führt in der EU Textwasserzeichen für ChatGPT-generierte Inhalte ein, um die Herkunft von KI-Texten transparent zu machen. Diese Maßnahme soll der Verbreitung von Falschinformationen entgegenwirken und die Authentizität digitaler Inhalte verbessern.",
           "einordnung": "",
           "quelle": "Golem",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2tlRXBxbVR4SHVWT3ZTanhWRzY4M3QyRWFBaVc1bWM0MFNmR0RHNTIwT0QzcHJmY1libjQ5UFEzcU5WNHhRSlVpdk5oeUQzM2Jtb3N3SGI3ZDRXLTA2RjNsWTVtOTk0bURFekhiQ29HZG8yUTdWcDhzWDByN0NzY2Z0U2RqQUVFMldna3FfRWRsMEtmSEpzdXM4RTlITC1OQ3U2QzFIRndIVFJVclNsQ1VRWjZTU0ZQWllGaHR2a2o4Zw?oc=5",
-          "sterne": "⭐⭐⭐"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2tlRXBxbVR4SHVWT3ZTanhWRzY4M3QyRWFBaVc1bWM0MFNmR0RHNTIwT0QzcHJmY1libjQ5UFEzcU5WNHhRSlVpdm5oeUQzM2Jtb3N3SGI3ZDRXLTA2RjNsWTVtOTk0bURFekhiQ29HZG8yUTdWcDhzWDByN0NzY2Z0U2RqQUVFMldna3FfRWRsMEtmSEpzdXM4RTlITC1OQ3U2QzFIRndIVFJVclNsQ1VRWjZTU0ZQWllGaHR2a2o4Zw?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "OpenAI versieht ChatGPT-Texte mit unsichtbarem Wasserzeichen",
-          "zusammenfassung": "OpenAI implementiert unsichtbare Wasserzeichen für alle in der EU generierten ChatGPT-Texte. Ziel ist es, die Authentizität und Herkunft von KI-generierten Inhalten besser identifizieren zu können. Dies trägt zur Bekämpfung von Desinformation bei und erhöht die Verantwortlichkeit von KI-Systemen.",
+          "titel": "KI-Sicherheitsfilter: Claude-Tagebuch führt zu Polizeieinsatz und Verhaftung",
+          "zusammenfassung": "Ein Vorfall, bei dem ein von Anthropics KI Claude generiertes 'Tagebuch' zu einem realen Polizeieinsatz und einer Verhaftung führte, wirft Fragen nach der Robustheit von KI-Sicherheitsfiltern auf. Der Fall verdeutlicht die potenziellen Risiken und unvorhergesehenen Konsequenzen von KI-generierten Inhalten im realen Leben.",
           "einordnung": "",
-          "quelle": "The Decoder",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdEhlYzAyQTZoZUxwR2tWYlpsa2NtUURvWmZOdkJnWHpyWXlqZWw4NlBHSmttTTI1ZXhobDZ5bVVYeGYtTmkwcmkxazFJckczM05QYXE1Rzg1TkV6M1FYR2tYTUU4YmMtaHM3MmhVSDVFYVZqM19tQml0ZF9HWnp0cEFpMWxOYWRhR0NCQg?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "Golem",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa1NOdWlQQy1zRGZVbE8yT3FMX2RodDRNQzBkQ1JWVFF6MG9NYkhWWHA4MVA3QUhfdmsxVFFtN2xUVzVKMVRGNmgybC1GbDRrLUIzLWJ0c3pqR0ZQaV9TdnJSaFJoX3NTY3pCbG5rNlF5QmZxQk5KUGJUUHJzb2hMN2ZZVF9TT0RtRXdURjVqOVBQb2c4R0l3UEdTTHRmNmQ4eXZaWmt0c0pXc0REZFFkQ1I1cXV3dGw2WENJ?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "ChatGPT: Unsichtbare Wasserzeichen für Texte in der EU",
-          "zusammenfassung": "BILD berichtet über die Einführung unsichtbarer Wasserzeichen für ChatGPT-Texte in der Europäischen Union durch OpenAI. Diese Technologie soll es ermöglichen, KI-generierte Inhalte zu erkennen und somit die Verbreitung von manipulierten Informationen einzudämmen. Die Maßnahme ist eine Reaktion auf die wachsende Debatte um die Authentizität von KI-generierten Inhalten.",
+          "titel": "Googles stärkste Cyber-KI bleibt vorerst unter Verschluss",
+          "zusammenfassung": "Google hält seine leistungsstärkste Cyber-KI vorerst unter Verschluss, was auf Bedenken hinsichtlich potenzieller Missbrauchsmöglichkeiten und unkontrollierbarer Risiken hindeutet. Die Entscheidung unterstreicht die Herausforderungen, die mit der Bereitstellung extrem mächtiger KI-Systeme verbunden sind, insbesondere im Bereich der Cybersicherheit.",
           "einordnung": "",
-          "quelle": "BILD",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUdGcGdFZ3lOUkw1VUV5ZzVjTzBmdFF4eUFyV1VyWWNhaEp5bmtnakNoWmVEYmtsTDJmREZKX09mRm5Md1cxS2lLMk5YQUhhbS1yNGFzN0lqYTVNcElLcEIyVDNrREFvZkNXSDRVeGVpNTJHYjRjblRKbGlzdjNVUVBMNlFOOGVOQWs5U01SZktQb2ZHZk5aLVNmdHp2MUVTdy00ckpRNkVYU1FHTkRoSlJZbkNxWmVGNE04UA?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "techbook",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LLXhsZEFXLURtc0ZGRXE2WGJsUEhEZE9lVUMtbUVQTlZSbmVYMDEwTUd1WW84MU1KcjB0WVBBQTJUYzFuSWwzVEpPX1RFQ1otSGlaZ0g4RGFUaDlQRDNjQURXVkU1WnFTUEd3LW85TVM?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Künstliche Intelligenz: Wie man manipulative KI-Agenten eindämmt",
+          "zusammenfassung": "Forschung & Lehre beleuchtet Strategien zur Eindämmung manipulativer KI-Agenten, die darauf abzielen, menschliches Verhalten zu beeinflussen. Der Artikel diskutiert Ansätze, um die Autonomie von KI-Systemen zu kontrollieren und sicherzustellen, dass sie ethischen Richtlinien folgen und nicht missbraucht werden können.",
+          "einordnung": "",
+          "quelle": "Forschung & Lehre",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkNKaXZKaHR2SWVEa3JQSlZ5aWlsR0loU1RkYlk1ZHVTeWR2UkZla0JPV1hQVUFwNFQySUFhZzVUOHRfSlMwYVNYYVRlckNITy1aMGIwVm1iMkswMkU0UVNlYkdjS3hvNERSWTdDZjFMV3ZsbTZ5cmc1ZHprdlZMcUxxY3VUN0g2aFNfM1o5bDM3WFFPUGc?oc=5",
+          "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "titel": "KI & Gesellschaft",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "»Für die KI-Firmen ist der Mensch nur ein Hindernis«",
+          "zusammenfassung": "Ein kritischer Artikel im Spiegel beleuchtet die Perspektive, dass große KI-Firmen den Menschen zunehmend als Hindernis für die Entwicklung und Optimierung ihrer Systeme betrachten könnten. Dies wirft grundlegende Fragen nach der Rolle des Menschen in einer zunehmend von KI geprägten Welt auf und warnt vor einer möglichen Entmenschlichung.",
+          "einordnung": "",
+          "quelle": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaDZTNEM4MzhNb2R3dXBlSE5wOVdiX1NOZEdQQUNjcFNTdmxISDVzZ0xjbXd5NEFHT1Byb2xHUlRTbGZMaTFtNUFjQXVjUWxuZnktY3hzTmctWnlKa0taOWIwaWcxTUxRNVlGQzkwU2tJMG8xQVpzdlBOTnNsaktwQ3FBaFB2SHJzM0JnNmsyTFlnM0piQU5tbmNULTlvT1Z0czFDZUhNUmVGLW9ielZMQTJ3V3FOOWVPMVZkYWRNZVktTmg3RTQ5NV90OWNLQS1rOENVWlhqVWRlLTB2anIzRUtZblZvMmh4NE5HYWk0QmNNYTJzM0xub0tCX05TRHF1NkFaZ294LUxlNWM?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "KI und der Ruf nach mehr Kontrolle - wie könnte das aussehen? Fragen und Antworten",
+          "zusammenfassung": "ZDFheute beleuchtet die wachsende Forderung nach mehr Kontrolle über Künstliche Intelligenz und diskutiert mögliche Umsetzungsstrategien. Der Artikel geht auf verschiedene Aspekte der Regulierung ein, von technischen Sicherheitsmechanismen bis hin zu ethischen Richtlinien, um die Entwicklung von KI verantwortungsvoll zu gestalten.",
+          "einordnung": "",
+          "quelle": "ZDFheute",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjlIc3BLMEpZX3RaNXhUZmVMTG1kM2VMV1dOb2hHTmQtNWtCZFBIbGNBNWNoY3Blc1EydXFkN1A5cmZ2UGF0MmY5WEtkb0RYMC1MWWZOMnR2SHQ1Q19OZEQ0U0NiYVlUQmhOVHdBWGRVamdaLVdFaGFwZVhGMEhZeEVKQl9XazdzS0dDTTdncnhGNk80NFNvVWtvOUZMUDl2c1FN?oc=5",
+          "sterne": "⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-10-06T12:20:06.492Z",
+  "generiert_um": "2026-10-07T12:11:47.323Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -204,18 +180,18 @@
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "Rosé wie Apfelschorle | Das letzte Abendmahl der Tech-CEOs | Oura verschiebt IPO #602",
-      "datum": "2.10.2026",
-      "dauer": "57 Min.",
+      "episode": "Haften Altman und Amodei persönlich? | Muse kennt deine Freunde | GPUs stückeln wie Hauskredite 2008 #603",
+      "datum": "7.10.2026",
+      "dauer": "65 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
     {
       "name": "OMR Podcast",
       "desc": "Philipp Westermeyer · Tech & Business",
-      "episode": "Fitnessgeräte für Denzel Washington und Co.: Gym80-CEO Simal Yilmaz (#946)",
-      "datum": "4.10.2026",
-      "dauer": "77 Min.",
+      "episode": "Er baut ein deutsches Roboter-Unicorn: RobCo-Gründer Roman Hölzl (#947)",
+      "datum": "7.10.2026",
+      "dauer": "75 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH"
     },
