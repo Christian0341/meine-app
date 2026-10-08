@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-10-07T14:22:11.584934+00:00",
+  "aktualisiert": "2026-10-08T14:29:39.193192+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "WPerfolg - KI & Online Marketing meistern",
+      "titel": "Mit ChatGPT Sites in 5 Minuten Website bauen &amp; live veröffentlichen (A-Z Tutorial auf Deutsch, 2026)",
+      "link": "https://www.youtube.com/watch?v=megQOzpPCRA",
+      "video_id": "megQOzpPCRA",
+      "thumbnail": "https://img.youtube.com/vi/megQOzpPCRA/mqdefault.jpg",
+      "datum": "2026-10-08T07:30:07Z",
+      "datum_de": "08.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Sascha Taschan",
       "titel": "Diese App hat mein Leben 10x einfacher gemacht! (Plaud AI)",
@@ -54,7 +64,7 @@
     },
     {
       "kanal": "Akademie4KI",
-      "titel": "Diese 5 genialen ChatGPT-6 Astra UseCases musst du kennen",
+      "titel": "Diese 5 GPT-6 Astra Use-Cases sparen dir jede Woche Stunden",
       "link": "https://www.youtube.com/watch?v=F3MT8S1VF68",
       "video_id": "F3MT8S1VF68",
       "thumbnail": "https://img.youtube.com/vi/F3MT8S1VF68/mqdefault.jpg",
@@ -83,6 +93,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Kontextkern",
+      "titel": "Claude-App prüfen: 4 Handgriffe gegen falsche Ergebnisse",
+      "link": "https://www.youtube.com/watch?v=pKJA2ZQH-1Y",
+      "video_id": "pKJA2ZQH-1Y",
+      "thumbnail": "https://img.youtube.com/vi/pKJA2ZQH-1Y/mqdefault.jpg",
+      "datum": "2026-10-04T16:30:02Z",
+      "datum_de": "04.10.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Shakeela ZQ",
       "titel": "OpenAI Dots ist nur der Anfang | Harness Engineering einfach erklärt | KI-Agenten 2026",
       "link": "https://www.youtube.com/watch?v=zhXQ4H9-utc",
@@ -103,6 +123,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "Christian Peverelli",
+      "titel": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
+      "link": "https://www.youtube.com/watch?v=HzXD4GVqXwM",
+      "video_id": "HzXD4GVqXwM",
+      "thumbnail": "https://img.youtube.com/vi/HzXD4GVqXwM/mqdefault.jpg",
+      "datum": "2026-10-04T13:00:18Z",
+      "datum_de": "04.10.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Tuto Money",
       "titel": "ChatGPT Tutorial für Anfänger (2026) | Account erstellen &amp; richtig nutzen",
       "link": "https://www.youtube.com/watch?v=vSsHv7BCyWM",
@@ -121,36 +151,6 @@
       "datum": "2026-10-04T10:22:35+00:00",
       "datum_de": "04.10.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Das neue ChatGPT ist da: DAS ändert sich jetzt für dich! Alle 20+ Updates | KI-NEWS",
-      "link": "https://www.youtube.com/watch?v=1ID_VcwzIo8",
-      "video_id": "1ID_VcwzIo8",
-      "thumbnail": "https://img.youtube.com/vi/1ID_VcwzIo8/mqdefault.jpg",
-      "datum": "2026-10-04T08:15:35+00:00",
-      "datum_de": "04.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "WPerfolg - KI & Online Marketing meistern",
-      "titel": "ChatGPT Plugins Sofort-Tutorial (2026): Plugins installieren + eigene Plugins erstellen...",
-      "link": "https://www.youtube.com/watch?v=ubH8_NhfGFY",
-      "video_id": "ubH8_NhfGFY",
-      "thumbnail": "https://img.youtube.com/vi/ubH8_NhfGFY/mqdefault.jpg",
-      "datum": "2026-10-04T07:30:08Z",
-      "datum_de": "04.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Learn Languages with Daily News | LinguaWire",
-      "titel": "Learn German B1 | Slow German News with Subtitles: Warum prüft OpenAI 50 Petabyte an Daten",
-      "link": "https://www.youtube.com/watch?v=k664PgdRtVo",
-      "video_id": "k664PgdRtVo",
-      "thumbnail": "https://img.youtube.com/vi/k664PgdRtVo/mqdefault.jpg",
-      "datum": "2026-10-04T03:19:45Z",
-      "datum_de": "04.10.2026",
-      "quelle": "suche"
     }
   ]
 }
