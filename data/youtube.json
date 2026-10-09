@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-10-08T14:29:39.193192+00:00",
+  "aktualisiert": "2026-10-09T14:16:41.831792+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "From Answers to Actions: Google Search in the Age of AI Agents | Nick Fox, Google SVP",
+      "link": "https://www.youtube.com/watch?v=TEauJySA18Q",
+      "video_id": "TEauJySA18Q",
+      "thumbnail": "https://img.youtube.com/vi/TEauJySA18Q/mqdefault.jpg",
+      "datum": "2026-10-09T10:00:22+00:00",
+      "datum_de": "09.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "KI-Deepdive mit Christoph Magnussen | LIVE Q&A",
+      "link": "https://www.youtube.com/watch?v=kEPOJ8y0OrI",
+      "video_id": "kEPOJ8y0OrI",
+      "thumbnail": "https://img.youtube.com/vi/kEPOJ8y0OrI/mqdefault.jpg",
+      "datum": "2026-10-08T19:45:22+00:00",
+      "datum_de": "08.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Marc De Fanti",
+      "titel": "Claude Code hat gerade Mods veröffentlicht. (Meistere sie in 10 Minuten)",
+      "link": "https://www.youtube.com/watch?v=Ntg-BJncZ5w",
+      "video_id": "Ntg-BJncZ5w",
+      "thumbnail": "https://img.youtube.com/vi/Ntg-BJncZ5w/mqdefault.jpg",
+      "datum": "2026-10-08T19:30:19Z",
+      "datum_de": "08.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "DAS wird ALLE bei den KI-Börsengängen überraschen! Dr. Andreas Beck & Dr. Gregor Broschinski",
+      "link": "https://www.youtube.com/watch?v=tZfE4h2JDFI",
+      "video_id": "tZfE4h2JDFI",
+      "thumbnail": "https://img.youtube.com/vi/tZfE4h2JDFI/mqdefault.jpg",
+      "datum": "2026-10-08T15:15:22+00:00",
+      "datum_de": "08.10.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "WPerfolg - KI & Online Marketing meistern",
       "titel": "Mit ChatGPT Sites in 5 Minuten Website bauen &amp; live veröffentlichen (A-Z Tutorial auf Deutsch, 2026)",
@@ -13,8 +53,18 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Apostolos Wettl",
+      "titel": "Obsidian + Claude Code: Dein KI-Gedächtnis in 10 Minuten",
+      "link": "https://www.youtube.com/watch?v=DNC359AznJk",
+      "video_id": "DNC359AznJk",
+      "thumbnail": "https://img.youtube.com/vi/DNC359AznJk/mqdefault.jpg",
+      "datum": "2026-10-07T17:43:46Z",
+      "datum_de": "07.10.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Sascha Taschan",
-      "titel": "Diese App hat mein Leben 10x einfacher gemacht! (Plaud AI)",
+      "titel": "Dieses Tool hat mein Leben 10x einfacher gemacht! (Plaud AI)",
       "link": "https://www.youtube.com/watch?v=4YVXDef57UM",
       "video_id": "4YVXDef57UM",
       "thumbnail": "https://img.youtube.com/vi/4YVXDef57UM/mqdefault.jpg",
@@ -101,56 +151,6 @@
       "datum": "2026-10-04T16:30:02Z",
       "datum_de": "04.10.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Shakeela ZQ",
-      "titel": "OpenAI Dots ist nur der Anfang | Harness Engineering einfach erklärt | KI-Agenten 2026",
-      "link": "https://www.youtube.com/watch?v=zhXQ4H9-utc",
-      "video_id": "zhXQ4H9-utc",
-      "thumbnail": "https://img.youtube.com/vi/zhXQ4H9-utc/mqdefault.jpg",
-      "datum": "2026-10-04T15:00:18Z",
-      "datum_de": "04.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "ChatGPT 6 Astra + Higgsfield = 10.000€ Websites",
-      "link": "https://www.youtube.com/watch?v=EqgAm6HkG6A",
-      "video_id": "EqgAm6HkG6A",
-      "thumbnail": "https://img.youtube.com/vi/EqgAm6HkG6A/mqdefault.jpg",
-      "datum": "2026-10-04T14:15:15+00:00",
-      "datum_de": "04.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christian Peverelli",
-      "titel": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
-      "link": "https://www.youtube.com/watch?v=HzXD4GVqXwM",
-      "video_id": "HzXD4GVqXwM",
-      "thumbnail": "https://img.youtube.com/vi/HzXD4GVqXwM/mqdefault.jpg",
-      "datum": "2026-10-04T13:00:18Z",
-      "datum_de": "04.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Tuto Money",
-      "titel": "ChatGPT Tutorial für Anfänger (2026) | Account erstellen &amp; richtig nutzen",
-      "link": "https://www.youtube.com/watch?v=vSsHv7BCyWM",
-      "video_id": "vSsHv7BCyWM",
-      "thumbnail": "https://img.youtube.com/vi/vSsHv7BCyWM/mqdefault.jpg",
-      "datum": "2026-10-04T13:00:13Z",
-      "datum_de": "04.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "OpenAI hält Astra zurück – und gibt uns das",
-      "link": "https://www.youtube.com/watch?v=EzITc3CSwLU",
-      "video_id": "EzITc3CSwLU",
-      "thumbnail": "https://img.youtube.com/vi/EzITc3CSwLU/mqdefault.jpg",
-      "datum": "2026-10-04T10:22:35+00:00",
-      "datum_de": "04.10.2026",
-      "quelle": "kanal"
     }
   ]
 }
