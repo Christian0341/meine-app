@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-10-09T14:16:41.831792+00:00",
+  "aktualisiert": "2026-10-10T13:29:46.017608+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Julian Ivanov | KI-Automatisierung",
+      "titel": "Diese 10 Claude Code Mods solltest du unbedingt kennen",
+      "link": "https://www.youtube.com/watch?v=ji4ANdb_M6Y",
+      "video_id": "ji4ANdb_M6Y",
+      "thumbnail": "https://img.youtube.com/vi/ji4ANdb_M6Y/mqdefault.jpg",
+      "datum": "2026-10-10T13:04:33Z",
+      "datum_de": "10.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Tool-Kompass",
+      "titel": "ElevenLabs Tutorial Deutsch 2026: Komplette Anleitung für Anfänger (mit v4)",
+      "link": "https://www.youtube.com/watch?v=aKovXoNk6AE",
+      "video_id": "aKovXoNk6AE",
+      "thumbnail": "https://img.youtube.com/vi/aKovXoNk6AE/mqdefault.jpg",
+      "datum": "2026-10-09T21:12:19Z",
+      "datum_de": "09.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "From Answers to Actions: Google Search in the Age of AI Agents | Nick Fox, Google SVP",
@@ -73,16 +93,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Dirk Winiecki | Lokale KI",
-      "titel": "Lokale KI: Eigener KI-Agent auf Windows mit 1 Installer (Hermes)",
-      "link": "https://www.youtube.com/watch?v=dEomlvkQDK0",
-      "video_id": "dEomlvkQDK0",
-      "thumbnail": "https://img.youtube.com/vi/dEomlvkQDK0/mqdefault.jpg",
-      "datum": "2026-10-07T04:34:37Z",
-      "datum_de": "07.10.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Everlast AI",
       "titel": "KI führt jetzt ganze Unternehmen allein: Fast niemand hat davon mitbekommen",
       "link": "https://www.youtube.com/watch?v=phcZVAmT8j8",
@@ -133,22 +143,12 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Technik Sam",
-      "titel": "Google Gemini 4 Argon ist da! 🚨 Neues Flaggschiff-Modell",
-      "link": "https://www.youtube.com/watch?v=iwsDDp4Zzm8",
-      "video_id": "iwsDDp4Zzm8",
-      "thumbnail": "https://img.youtube.com/vi/iwsDDp4Zzm8/mqdefault.jpg",
-      "datum": "2026-10-04T20:11:37Z",
-      "datum_de": "04.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Kontextkern",
-      "titel": "Claude-App prüfen: 4 Handgriffe gegen falsche Ergebnisse",
-      "link": "https://www.youtube.com/watch?v=pKJA2ZQH-1Y",
-      "video_id": "pKJA2ZQH-1Y",
-      "thumbnail": "https://img.youtube.com/vi/pKJA2ZQH-1Y/mqdefault.jpg",
-      "datum": "2026-10-04T16:30:02Z",
+      "kanal": "Shakeela ZQ",
+      "titel": "OpenAI Dots ist nur der Anfang | Harness Engineering einfach erklärt | KI-Agenten 2026",
+      "link": "https://www.youtube.com/watch?v=zhXQ4H9-utc",
+      "video_id": "zhXQ4H9-utc",
+      "thumbnail": "https://img.youtube.com/vi/zhXQ4H9-utc/mqdefault.jpg",
+      "datum": "2026-10-04T15:00:18Z",
       "datum_de": "04.10.2026",
       "quelle": "suche"
     }
