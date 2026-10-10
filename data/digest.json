@@ -1,7 +1,7 @@
 {
-  "datum": "Freitag, 9. Oktober 2026",
-  "datumISO": "2026-10-09",
-  "tagesthema": "Der Tag ist geprägt von politischen Auseinandersetzungen um KI, strategischen Schritten führender Unternehmen und neuen Anwendungsbereichen der Technologie.",
+  "datum": "Samstag, 10. Oktober 2026",
+  "datumISO": "2026-10-10",
+  "tagesthema": "Der Tag ist geprägt von politischer Rhetorik um KI-Begriffe, neuen Produktinnovationen und kritischen Debatten um KI-Sicherheit und -Regulierung.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,19 +9,19 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "ChatGPT for Teens wird kaum exzessiv genutzt, aber Sicherheitsbedenken wachsen",
-          "zusammenfassung": "Eine Studie zeigt, dass die spezielle Version von ChatGPT für Jugendliche zwar nicht übermäßig genutzt wird, jedoch wachsende Sicherheitsbedenken bestehen. Dies betrifft insbesondere den Schutz der Privatsphäre und die Angemessenheit der Inhalte für junge Nutzer, was eine kontinuierliche Überwachung erfordert.",
+          "titel": "Trockene Reports? Claude Motion und Dashboards ändern das",
+          "zusammenfassung": "Anthropic erweitert die Fähigkeiten seines KI-Modells Claude um \"Claude Motion\" und interaktive Dashboards. Diese neuen Funktionen sollen die Erstellung und Visualisierung von Reports im Online-Marketing dynamischer und ansprechender gestalten. Ziel ist es, Nutzern eine intuitivere und effizientere Datenanalyse zu ermöglichen.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDJLSFROYVZ0ZVVHdFdYVTV1bUxOamNkR2ttcHlncmxlbmhteXN6TWpaT1U1a19OWURqS1JEVTJnS2ZYU2ppdWhocXBCRER5b3dWcnRyWHdfWks3NENmMXRFaHRLcTlMOWp4bEZ6OHpsVnVxVWU2WnpPV0RzTjM2U2I5LXNHOGdKa1lHLS1tZUNrdGN2YkRkdFQyVVV6MkdxTTZUY2ZhOWR5NW5tMmkzSTNVZG9zM0w0?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "OnlineMarketing.de",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUlXSlZNaDBhc1NNOTFhYUlCRFQ0dmFPOGxLUDJfOXJGUng0bjk4QWhkOTBVajZmazRzVEVqRXdOelRXNnJrX1BCUTRzajdHS0ZTSXVpV1FZQkhNUkRSX1BxcmhZSWc0VWxCVUxaZldPQjNxSzNnZVBBdjZBMVFpYUtpaDBQNWJ3OU9kenpRZkZybGt6aVdmbkNTREMyQldCSUE?oc=5",
+          "sterne": "⭐"
         },
         {
           "titel": "Der neue Gemini Agent ist da: 24/7 für die Arbeit bereit",
-          "zusammenfassung": "Google hat den neuen Gemini Agent vorgestellt, der als intelligenter Assistent für berufliche Aufgaben rund um die Uhr zur Verfügung steht. Dieses Update erweitert die Einsatzmöglichkeiten von Gemini erheblich und zielt darauf ab, die Produktivität in Unternehmen durch automatisierte Prozesse zu steigern.",
+          "zusammenfassung": "Google hat den neuen Gemini Agent vorgestellt, der als intelligenter Assistent rund um die Uhr für geschäftliche Aufgaben zur Verfügung steht. Dieser Agent soll die Produktivität steigern und komplexe Arbeitsabläufe automatisieren. Der Launch positioniert Gemini als zentrale Lösung für Unternehmen, die ihre Effizienz durch KI optimieren möchten.",
           "einordnung": "",
           "quelle": "OnlineMarketing.de",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JN3lDR1B4QjV2MUhWT3h5cm5SeGFEc2gtZUFTb1c1V012THdlOW50bm9FNEp4dVdYT0R3ZnVlRnBJbXhtNjJxbXpGVC1jR21ISENpLV8ybUw3eHFCTEs0cV9pcTg2eV94bERVTmZVaDJFVWdlZ2lV?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JN3lDR1B4QjV2MUhWT3h5cm5SeGFEc2gtZUFTb1c1V012THdlOW50bm9FNEp4dVdYT0R3ZnVlRnBJbXhtNjJxbXpGVC1jR21ISENpLV8ybUw3eHFCTEs0cV9pcTg2eV94bERVTmZVaDJFVGdlZ2lV?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -32,27 +32,35 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Kreise: ChatGPT-Gründer OpenAI wächst weiter kräftig",
-          "zusammenfassung": "OpenAI, das Unternehmen hinter dem populären KI-Modell ChatGPT, setzt seinen starken Wachstumskurs fort, wie aus Branchenkreisen verlautet. Dies deutet auf eine weiterhin hohe Nachfrage nach seinen KI-Produkten und eine starke Marktposition im schnelllebigen KI-Sektor hin.",
+          "titel": "ChatGPT als Gesundheitshelfer: So lässt OpenAI Ärzte KI-Antworten prüfen",
+          "zusammenfassung": "OpenAI implementiert ein System, bei dem Ärzte die von ChatGPT generierten Antworten im Gesundheitsbereich überprüfen. Ziel ist es, die Genauigkeit und Zuverlässigkeit der KI-Informationen zu gewährleisten und das Vertrauen in KI-gestützte Gesundheitsanwendungen zu stärken. Dieser Ansatz soll die Integration von KI in medizinische Prozesse sicherer gestalten.",
           "einordnung": "",
-          "quelle": "T-Online",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWRZaXVsNGJXdlFVckdsX1o0UTRRaHpLcDNXaXZtZExoWm5vSW5RQzRYUHFrSi1FQ2pOaW5FZTJsSm5YUGlWM1M3a01SVTBmQ0UtSF9wcG81ZUEzdkg5cHBDRFVkN2VHQWxQM3B6MGdXUVdlZ1k2akQtSGRpcXhqb25oN3JCWWd5WVI5eTFaVE50R0NjenR6SHh2LTMyaU83Um54aHZCU2tQem1vbmRZVGlsMlpUYk1yVVNF?oc=5",
+          "quelle": "Business Insider Deutschland",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNU1qYno0b0owMnJyQWNlQzh1SVNaS3BUZzQzVWZZaVlvSFpuSGMxZDhwbDNRUnktMGJyZTJKbUhNMERpclpkWFZPUXRXTk5URzJZdHhqRWdTZDBXLWp3dExLazdGQ3o0R1A0SnNXUnVCRXhYMms0ekdpNE1jTzNIVzNXTjJBUG15OUR6VzU1NFEyZEhhNTRaUGxLa201ZHM2UHpOY01KUHhMdHB5TTRSdVRhTGZITnFp?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Anthropic vor Börsengang: Meta und Microsoft drehen Claude ab",
-          "zusammenfassung": "Anthropic, ein führender Entwickler von KI-Modellen, bereitet sich auf einen Börsengang vor, während gleichzeitig Meta und Microsoft ihre Unterstützung für das KI-Modell Claude einstellen. Dieser strategische Schritt könnte die Wettbewerbslandschaft im KI-Sektor neu gestalten und Anthropic vor neue Herausforderungen stellen, während es sich auf seine unabhängige Zukunft vorbereitet.",
+          "titel": "Anthropic: Nutzer dürfen Claude nun nicht mehr grundlos beleidigen",
+          "zusammenfassung": "Anthropic hat seine Nutzungsrichtlinien für das KI-Modell Claude angepasst und verbietet nun grundlose Beleidigungen des Chatbots. Diese Maßnahme zielt darauf ab, eine respektvollere Interaktion zu fördern und die Integrität des Modells zu schützen. Es spiegelt eine breitere Diskussion über den Umgang mit KI-Systemen und die Grenzen der Nutzerinteraktion wider.",
           "einordnung": "",
-          "quelle": "Business Punk",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3RkQjVjdXpEX25HUXUycE82TDFMZEhwSnZaU2hKUi1KaHdzUVlDTjdvZDFvYll4SlBfY2EwMHdud3JCYTBlYXJXTmgxTnQ3WHlvTElVN1d5aFRPbUlMT2QtdF91N1pDcW9QN284WFp5T2thSUdRdldiT3FSOTAyTXRKQ1ZXZGw4aF95ZEZyWFBhU01HT3BZ?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0pENGFTVTJJZGQ4SHZjU3hqVV9aTU40allFaTRsbUJuZlJGc0RsUmZaLUJ6NzRwSURkNWc4QkZOOGV4WHpzM0Z3TkFQbG1ibVNYNVZqUmhYTTEtWVhTVG9INWROcTZZaEFmakZmSG1LV1ZxMENOeThQVTFwMWxIbGE0RVF0TmQxRFNReUlYQ0w3dnNsTkVkbGZJdHhJSFBOXzlKMDZSX2xGUQ?oc=5",
+          "sterne": "⭐"
         },
         {
-          "titel": "Gemini streicht kostenlosen Zugang zu Flash- und Pro-Modellen",
-          "zusammenfassung": "Google hat angekündigt, den kostenlosen Zugang zu seinen fortschrittlichen Gemini Flash- und Pro-Modellen einzustellen. Diese strategische Entscheidung könnte die Monetarisierung der Gemini-Plattform vorantreiben und Nutzer dazu bewegen, auf kostenpflichtige Abonnements umzusteigen, um weiterhin Zugang zu den leistungsstärkeren KI-Funktionen zu erhalten.",
+          "titel": "ChatGPT statt Google: So werden Unternehmen in der KI sichtbar",
+          "zusammenfassung": "Unternehmen müssen ihre Strategien anpassen, um in der Ära der KI-Chatbots wie ChatGPT sichtbar zu bleiben, da diese zunehmend traditionelle Suchmaschinen ersetzen. Der Artikel beleuchtet, wie Firmen ihre Inhalte für KI-Modelle optimieren können, um weiterhin gefunden zu werden. Dies erfordert ein Umdenken in der digitalen Marketingstrategie.",
           "einordnung": "",
-          "quelle": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2lXdDllRUN0WnI4ZFJacG9PODZwSmFiVXZTeTZLZ0xwaGI3MVhDUjQ2QlVSSUNDRFNJYld0OEJ4dEVQZDJOaXNjNkhGV3Y5amx3dHNFRkdjakHoY0VaM2VIVEJxNjJJWmZNS25sempHMjZtdjZUM1N1bjh0TGF6WE9tb295Wng0SlEyeGpGZkkxX0gtdGh5cGsycGxQc1JkRXV6a2hHY0FfT1E?oc=5",
+          "quelle": "Business Insider Deutschland",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXVhN3FEYWg1RHdfdEVqVXBzNXkwRlFMc0RPZGhYY0N5ZE1uTXd1R2ZVeWg4WXUxUktPQjlndE5pR3p2eWlXRW1oQ0xlVk5YdVY0cGU5enRQSVhNT2hSVmVRUEZPN055Zld2d01YcGNoWlI2RmtKd0ZzaVNzdDBrcnFodnhBd1VtMWUzNHpMbWtETWdxX2d2Q1VOei1oNkd5T0RubFdaVQ?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "KI-Aktien im Fokus der Analysten: Google nach Gemini-Launch als Top-Pick bestätigt",
+          "zusammenfassung": "Nach dem erfolgreichen Launch des Gemini Agenten wird Google von Finanzanalysten als Top-Pick im Bereich der KI-Aktien bestätigt. Der Markt reagiert positiv auf die neuen KI-Produkte und das strategische Engagement des Unternehmens. Dies unterstreicht das Vertrauen der Investoren in Googles Positionierung im schnell wachsenden KI-Sektor.",
+          "einordnung": "",
+          "quelle": "Yahoo Finanzen Deutschland",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQam13MU9kRGtSeDVMelowODc3MV9kajRWSDNrbVBOdVZwLVpUVkhEUTdHN0V5aUo1SzJTT1VDMVlFSG5DMk5GNk1yV1YtNkpud2J3UGZ3YmJ5TjgxdmRkNm9SdXkyV0lQRWx5N3ZKZ25mRXFRVklRXzBPc2E5QWNwVERrRVV3dHh4M0kxWkN3VVpYUQ?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -63,36 +71,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "USA: Wer »KI« sagt, der ist für Donald Trump jetzt ein Feind",
-          "zusammenfassung": "Donald Trump hat sich erneut kritisch über den Begriff 'Künstliche Intelligenz' geäußert und warnt davor, dass dessen Befürworter als 'Feinde' betrachtet werden könnten. Diese Rhetorik deutet auf eine zunehmend polarisierte Debatte um die Rolle und Wahrnehmung von KI in den USA hin und könnte politische Entscheidungen maßgeblich beeinflussen.",
-          "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSFJXU1ZnY1FIN2JpRzJ2bG9JbDItWXJxLVIzc2hNLVBla2FEYWhqNkxHdWdvcjU2eThjanVxSWFIeXBwdi13cFNxdmlWSVlma2ZqVjY3N3MzNWJkLXlERUlPUWw3QVVIa2t4OUpQMUFENWdKQ0dMU0l1ZjdBMDhZMW1VaHBxbW4yazdXYXY4a0xKOUJNVUY0SFRpeVUzMnVCNkJlakM1WEs5ejh3d1M2UmRjb05iNUZIOG1JV0h6ZzlvOG1xci1XbUlweVNUcXIycjFqa3NzMVZoN2gyQUlkU0RvNzlWTEtETDdUQnJrRDB6UXc?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Trump: Wer \"Künstliche Intelligenz\" sagt, ist \"der Feind\"",
-          "zusammenfassung": "Donald Trump hat seine harte Linie gegenüber dem Konzept der 'Künstlichen Intelligenz' bekräftigt und bezeichnet Personen, die den Begriff verwenden, als 'Feinde'. Diese Äußerungen könnten die öffentliche Debatte und die politische Strategie rund um KI in den USA maßgeblich beeinflussen, indem sie eine Spaltung in der Wahrnehmung der Technologie fördern.",
-          "einordnung": "",
-          "quelle": "WEB.DE",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNnptdmZSdUpMY3FkLUM2Ti1Kc2FzM3p6YjY1cDR6MkNzWjVnNm9OWVdsQVEzLUw4Q0dlcVZodllrYlpmNUNFbWJOeWhfUDBtVVdpb1djYVBPVEIySFhmaUo5Vm8tUmxuNWpGc1d6ZXBtVW81djhZdVoxQ3VmSWdRTUc0NXRfM2d4UGxNMWFFN25HRUllc1FBdjBQcU5XclZxcmJj?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "EU-KI-Haftungsrichtlinie: Parlamentarier treiben neue Regeln wieder voran",
-          "zusammenfassung": "Die Parlamentarier der EU setzen sich erneut für die Verabschiedung einer KI-Haftungsrichtlinie ein, um klare Regeln für die Verantwortlichkeit bei KI-Schäden zu schaffen. Dies signalisiert den fortgesetzten politischen Willen, den rechtlichen Rahmen für KI in Europa zu stärken und Verbraucher sowie Unternehmen gleichermaßen zu schützen.",
+          "titel": "Indiens KI-Regulierung: Konsultationspapier soll binnen eines Monats erscheinen",
+          "zusammenfassung": "Indien plant, innerhalb eines Monats ein Konsultationspapier zur Regulierung von Künstlicher Intelligenz zu veröffentlichen. Dieser Schritt zeigt Indiens Bestreben, einen rechtlichen Rahmen für den verantwortungsvollen Einsatz von KI zu schaffen. Das Papier soll die Grundlage für zukünftige Gesetze und Richtlinien im Land bilden.",
           "einordnung": "",
           "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONk54a0ZrY0dGYUZ0b3BrZGM1M0c3bUVRWVUwNlIzWnY2MjNqQTRCcVRfSmxKQU1HLTlkcnpNUVYyczVXTENFcUtPUGQwVjZRRXJLNEhiRjVaWk02Um5sQVRuNHBEcFA4aHIzaFZ6Nk00VXV3ZUgzLUY0d0ZrVmMtZ2NKMW1fdEtHbjdvVGtUd1FyQkFqV21iZE1nZVZFY1hh?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYWJYbkkxZ2ZBQlVoRjg3ZDRLa2JWajFRSnd6SnU0eUNRNXFoWXNzMmh4U18zcEkzS1NYbkcwZHNuSzA4b3RWQnZJalA4cmM4ZUdlNHlEbzd2X0pLR3Jld0hBRVFuWVRyYmtwd1BhalZHR2Q0RF9rYlpnYVM0ZVhKN3lvRkVBdFJ3MUtGcTZDQl9BUmYzRWdHYUhZLW9vUWF5cGVSVnZXVnQ?oc=5",
           "sterne": "⭐⭐"
+        },
+        {
+          "titel": "KI und der Ruf nach mehr Kontrolle - wie könnte das aussehen? Fragen und Antworten",
+          "zusammenfassung": "Der Artikel diskutiert die wachsende Forderung nach stärkerer Kontrolle von Künstlicher Intelligenz und mögliche Umsetzungsformen. Es werden verschiedene Ansätze zur Regulierung beleuchtet, von gesetzlichen Rahmenbedingungen bis hin zu ethischen Richtlinien. Die Debatte konzentriert sich auf die Balance zwischen Innovation und Risikominimierung im KI-Bereich.",
+          "einordnung": "",
+          "quelle": "ZDFheute",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjlIc3BLMEpZX3RaNXhUZmVMTG1kM2VMV1dOb2hHTmQtNWtCZFBIbGNBNWNoY3Blc1EydXFkN1A5cmZ2UGF0MmY5WEtkb0RYMC1MWWZOMnR2SHQ1Q19OZEQ0U0NiYVlUQmhOVHdBWGRVamdaLVdFaGFwZVhGMEhZeEVKQl9XazdzS0dDTTdncnhGNk80NFNvVWtvOUZMUDl2c1FN?oc=5",
+          "sterne": "⭐"
         },
         {
           "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Der EU AI Act, Europas wegweisendes KI-Gesetz, scheint ins Stocken geraten zu sein, und der Artikel untersucht die Gründe für diese Verzögerungen. Dies wirft Fragen nach der Umsetzbarkeit und dem Zeitplan für die umfassende Regulierung von KI in Europa auf, während die globale Entwicklung der Technologie rasant voranschreitet.",
+          "zusammenfassung": "Der EU AI Act, Europas wegweisendes Gesetz zur Regulierung von Künstlicher Intelligenz, stößt auf Verzögerungen und Herausforderungen bei seiner Umsetzung. Der Artikel beleuchtet die Gründe für das Stocken, darunter komplexe Verhandlungen und unterschiedliche Interessen der Mitgliedstaaten. Dies wirft Fragen nach der Geschwindigkeit und Effektivität der europäischen KI-Gesetzgebung auf.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
-          "sterne": "⭐"
+          "sterne": "⭐⭐"
         }
       ]
     },
@@ -102,8 +102,16 @@
       "fest": true,
       "artikel": [
         {
+          "titel": "KI-Fortschritte in der Mathematik teilen",
+          "zusammenfassung": "OpenAI hat neue Fortschritte im Bereich der KI-Anwendungen für Mathematik bekannt gegeben. Das Unternehmen teilt Erkenntnisse über verbesserte Modelle, die komplexe mathematische Probleme lösen können. Diese Entwicklungen könnten neue Möglichkeiten für Forschung und Bildung eröffnen und die Grenzen dessen erweitern, was KI in der Mathematik leisten kann.",
+          "einordnung": "",
+          "quelle": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51U3RZbFJUZEhwVHpvdjhwUnFCVWo2R1lZSVBTWUItYjNuZ0pJdHhUTk52c2VuX0ItYV9reENjTW9XZ1F5MUFweHMyWkh6Z2dRbWlXRVhPc0ZqSXdmZmIwNnFMcUpMRUVLbndRVWtlck16R3Fa?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
           "titel": "„LLMs sind für viele Vorhersagen das falsche Werkzeug“",
-          "zusammenfassung": "Ein Experte argumentiert, dass Large Language Models (LLMs) für bestimmte Vorhersageaufgaben ungeeignet sind und zu ungenauen oder falschen Ergebnissen führen können. Dies unterstreicht die Notwendigkeit, die Grenzen von LLMs genau zu verstehen und sie nur für geeignete Anwendungsfälle einzusetzen, um Fehlinterpretationen zu vermeiden.",
+          "zusammenfassung": "Eine neue Analyse kritisiert den übermäßigen Einsatz von Large Language Models (LLMs) für bestimmte Vorhersageaufgaben. Experten argumentieren, dass LLMs in vielen Fällen nicht das optimale Werkzeug sind und zu ungenauen oder irreführenden Ergebnissen führen können. Dies fordert eine differenziertere Betrachtung der Anwendungsbereiche von LLMs und alternativer Methoden.",
           "einordnung": "",
           "quelle": "Computerwoche",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGFPWVBTbmw1OENJVFNyU2dQNDFCOVlGOVQzeU8tVzVrVkRwLVhjUm1pNzN4YzJJWXJSeEpVZkNWcExiNURuNFUwaWREc3VMdk9mZ0dUaERhUXdZSm9aWkNpRG9IaTVybXdZOUJaUGFHR1A1NXBNUjcxeW4zLW9IemlMZ25rUUhwUTlWUHlOSDl4ZmJlR3VBYXZzWGRnYlFSZ215eA?oc=5",
@@ -111,86 +119,94 @@
         },
         {
           "titel": "Geschrumpfte Chatbots: So passt die KI plötzlich in 4 GByte RAM",
-          "zusammenfassung": "Forscher haben innovative Methoden entwickelt, um Chatbots so zu optimieren, dass sie mit nur 4 GByte RAM auskommen, was sie deutlich effizienter und zugänglicher macht. Diese Entwicklung könnte die Verbreitung von KI-Anwendungen auf Geräten mit begrenzten Ressourcen fördern und neue Einsatzmöglichkeiten eröffnen.",
+          "zusammenfassung": "Forscher haben Methoden entwickelt, um leistungsstarke Chatbots so zu komprimieren, dass sie mit nur 4 GByte RAM auskommen. Diese Entwicklung ermöglicht den Einsatz von KI auf Geräten mit begrenzten Ressourcen, wie Smartphones oder Edge-Geräten. Dies könnte die Zugänglichkeit und Verbreitung von KI-Anwendungen erheblich verbessern.",
           "einordnung": "",
           "quelle": "heise online",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSWpWd2JmekJNcXA4ZFlsaFJ0SC1FcUNObUY4VklzSTFXMjFqT0VDVEJ1NjFVWTZaM1V6YXJKYU4zaE0zdy1tZzhVazBwT2JrN1hneGVyRkZPY0hVa0xtbk5zQ2J0TVVjRVFkU3huNW1sc21WMnNXRUkzRVpTNEFrQ09CRnRHUXJGVmc?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
+          "zusammenfassung": "Der Einsatz von Large Language Models (LLMs) in der Onkologie birgt großes Potenzial für Diagnose und Behandlungsplanung. Jedoch stehen der breiten Implementierung noch erhebliche Infrastrukturprobleme entgegen, darunter Datenintegration und Datenschutz. Der Artikel beleuchtet die Chancen und Hürden der KI-Anwendung im medizinischen Bereich.",
+          "einordnung": "",
+          "quelle": "healthcare-in-europe.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     },
     {
-      "emoji": "🔒",
+      "emoji": "🗣️",
+      "titel": "KI & Gesellschaft",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "USA: Wer »KI« sagt, der ist für Donald Trump jetzt ein Feind",
+          "zusammenfassung": "Donald Trump hat eine neue politische Linie verkündet, wonach die Verwendung des Begriffs \"Künstliche Intelligenz\" als feindselig gegenüber seiner Regierung betrachtet wird. Er bevorzugt den Ausdruck \"Superintelligenz\" und versucht, die Debatte um KI neu zu framen. Diese Rhetorik zielt darauf ab, die öffentliche Wahrnehmung von KI im politischen Diskurs zu beeinflussen.",
+          "einordnung": "",
+          "quelle": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSFJXU1ZnY1FIN2JpRzJ2bG9JbDItWXJxLVIzc2hNLVBla2FEYWhqNkxHdWdvcjU2eThjanVxSWFIeXBwdi13cFNxdmlWSVlma2ZqVjY3N3MzNWJkLXlERUlPUWw3QVVIa2t4OUpQMUFENWdKQ0dMU0l1ZjdBMDhZMW1VaHBxbW4yazdXYXY4a0xKOUJNVUY0SFRpeVUzMnVCNkJlakM1WEs5ejh3d1M2UmRjb05iNUZIOG1JV0h6ZzlvOG1xci1XbUlweVNUcXIycjFqa3NzMVZoN2gyQUlkU0RvNzlWTEtETDdUQnJrRDB6UXc?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Präsident wird ungeduldig: Trump droht: Wer \"Künstliche Intelligenz\" sagt, ist ein Feind",
+          "zusammenfassung": "US-Präsident Donald Trump verstärkt seine Drohungen gegen jene, die den Begriff \"Künstliche Intelligenz\" verwenden. Er betrachtet dies als eine feindliche Haltung und drängt auf die Nutzung des von ihm favorisierten Begriffs \"Superintelligenz\". Diese Entwicklung unterstreicht eine zunehmend polarisierte Debatte über die Terminologie und Wahrnehmung von KI in den USA.",
+          "einordnung": "",
+          "quelle": "n-tv.de",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRC1YQTdQeWJtVk8zVnZIcnV5V2hYX0s1bzcwcE83dkpadkJyWV9BOFJkekhhMHlUZzA0LVp4X0JicGNiRW5BZUo3alcxRGxJSnhCTDlQV2tyYzdpVlZ3V1FBbldlOGNHUFd5VDJ4OGZtYWhxOWtTLWc5RFE4UTVLS3BYQ29SZEZwdU1hRUZ6c0s1eU1tT3BEN3dJa0JjTlBkRkE4SA?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "\"Superintelligenz\": Elon Musk und Marc Benioff folgen Trumps KI-Rebranding",
+          "zusammenfassung": "Nach Donald Trumps Vorstoß, den Begriff \"Künstliche Intelligenz\" zu meiden, folgen prominente Tech-Persönlichkeiten wie Elon Musk und Marc Benioff diesem Rebranding. Sie übernehmen den von Trump bevorzugten Ausdruck \"Superintelligenz\" in ihrer Kommunikation. Dies deutet auf eine mögliche Verschiebung in der öffentlichen und industriellen Sprachregelung bezüglich fortschrittlicher KI-Systeme hin.",
+          "einordnung": "",
+          "quelle": "Business Insider Deutschland",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU3BGMEJYc0lmc3hoT3dqUDFqblNrVEhKSDlrUXYxVnNwWjQ0dWpEYXFnOUd6YVViX1VlRzcyd1VBQ1owaEVHM3lGal9RenoxUE5xVEltU3NzM2FwdV9HZ3lKQWk0RFFqeU5uM2s0Y1hkUWRrSnVrSFE2RHlRQkd1MVBiMy1CNS1ZTFFJX2Z4OWR2ejJfMTNRazBzY1JNZVdra04zdEQtU3ZpWDhz?oc=5",
+          "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "🛡️",
       "titel": "KI & Sicherheit",
       "fest": false,
       "artikel": [
         {
-          "titel": "KI: Anthropic verbietet Nutzern, zu gemein zu Claude zu sein",
-          "zusammenfassung": "Anthropic hat neue Richtlinien eingeführt, die Nutzern verbieten, ihr KI-Modell Claude grundlos zu beleidigen oder 'gemein' zu sein. Diese Maßnahme zielt darauf ab, eine respektvolle Interaktion zu fördern und die Entwicklung von ethischen KI-Systemen zu unterstützen, die nicht zur Verbreitung von Hassrede oder negativen Verhaltensweisen beitragen.",
+          "titel": "Künstliche Intelligenz: KI-Angriffe: Brüssel fordert Infos von OpenAI und Anthropic",
+          "zusammenfassung": "Brüssel hat OpenAI und Anthropic aufgefordert, detaillierte Informationen über jüngste KI-Angriffe bereitzustellen. Diese Anforderung ist Teil der Bemühungen, die Sicherheit und Resilienz von KI-Systemen zu gewährleisten. Die EU-Behörden zeigen sich besorgt über potenzielle Schwachstellen und die Notwendigkeit einer strengeren Aufsicht im Rahmen des EU AI Act.",
           "einordnung": "",
-          "quelle": "Golem",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0pOOVhtNGxkZkFKNGtHZ1hDN01uTEVZS0RSQ0ZySFlIZHg4Y01PckRpaG9FbmxLM3ZJUkVFMEk2QzBZZWpYRGJIc2tMXzZ6bEttSzZPZUFhdkNWOWxpNjdRSy1qR201SGZXaDhCU0U0QXpvRDgzV3pkb0xWQ191WDRLcjEzcXFMN0Z2bGtlUVVLUzdMUnNHaG1MbGZmbHZMdTZB?oc=5",
+          "quelle": "STERN.de",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeDY2cS1BT3JKUWYtMnhOam1XemVpOWdNQ1BDVFZZVGlDZ3hqbDI3UVEzVnhQM3pBaFFMWW5ZUWV4WkNXaHBRN2JTX01xa2lJa1FrcGFSMU5paHotRU5RRU5BRm1hTkFteDlVUFdhek5XcWV2M3BCcFJ6QXl0RXZuOGdTRmtpZF9UNEoxTndaTWJIWmdRdGtjTXlJcVJucjlTbDlsQV9aWVpnb2JPWXFJbjYyLW5JUFlzcWFvTFdGc1VSdzdORnZz?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Anthropic: Nutzer dürfen Claude nun nicht mehr grundlos beleidigen",
-          "zusammenfassung": "Anthropic hat seine Nutzungsbedingungen für Claude aktualisiert und untersagt nun explizit das grundlose Beleidigen des KI-Modells. Diese Entscheidung unterstreicht das Bestreben des Unternehmens, eine positive und ethische Interaktion mit seinen KI-Produkten zu gewährleisten und eine toxische Online-Umgebung zu verhindern.",
+          "titel": "Anthropics KI-Modell Claude gab US-Polizei falschen Hinweis zu Mordfall",
+          "zusammenfassung": "Das KI-Modell Claude von Anthropic hat der US-Polizei in einem Mordfall einen falschen Hinweis geliefert, was zu Ermittlungsfehlern führte. Dieser Vorfall wirft ernste Fragen bezüglich der Zuverlässigkeit und der potenziellen Risiken von KI-Systemen in kritischen Anwendungen auf. Er unterstreicht die Notwendigkeit menschlicher Überprüfung und strenger Validierung von KI-generierten Informationen.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0pENGFTVTJJZGQ4SHZjU3hqVV9aTU40allFaTRsbUJuZlJGc0RsUmZaLUJ6NzRwSURkNWc4QkZOOGV4WHpzM0Z3TkFQbG1ibVNYNVZqUmhYTTEtWVhTVG9INWROcTZZaEFmakZmSG1LV1ZxMENOeThQVTFwMWxIbGE0RVF0TmQxRFNReUlYQ0w3dnNsTkVkbGZJdHhJSFBOXzlKMDZSX2xGUQ?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "ChatGPT, Claude, Gemini und Co: Neue Studie zeigt, dass KI teilweise Ihre Chats weitergibt",
-          "zusammenfassung": "Eine aktuelle Studie enthüllt, dass führende KI-Modelle wie ChatGPT, Claude und Gemini unter bestimmten Umständen Nutzerchats weitergeben könnten. Dies wirft ernsthafte Fragen zum Datenschutz und zur Vertraulichkeit von KI-Interaktionen auf und fordert eine verstärkte Transparenz und Kontrolle durch die Anbieter.",
-          "einordnung": "",
-          "quelle": "CHIP",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdVl5aTVGS2ltZHY5elVmN2stQXFFNWIzSE4wTnRtQ3dpMk5pbEJHeDNvLTV6eHF3RGVOMERQYzdXN3V6NWtBZWNIUXVPN2JhX2lQYzV1Z2RjN0F0d0hkaEZZcTFSZ1hQWUY5VkxqRWdCNjFzSk40YUpBR1ViWFhreXA5OXh3dVg5QWtVZ2tBZWJSMFlkX2phTE8yemhqcm02a3JRQVRxc1lrRU5EX2RJUW5PNjNtSGpSbXlCSjRQMDdxOWF4eVBuQWZJemM0c0hZZVlVSnRqMHd3VTZ4aHZocUtYX1d3ZjZaLVl4ZWF4NU1OV1dCd2ZiQlNYVXU?oc=5",
+          "quelle": "STERN.de",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUy1ITkZFUkVtRHR0SXFDeTA3dFpIX3NyOHpnMFJPX0ZhLUZRWTBsQU5qSlk3OUVqXzlTN0ZxM0o5OWJxN2tneHQ2d0daUFpEWGM0cGdRUFZJZUZJNkY4YkVKeURtckFGeG9McXl1Q2hfM2ZpTy1Ua0Zfc3ktRWZTeEF2Y3dlSk1OMWJucUROR1Vzck9QZVlJazQtdGFScFQxLV9MOXI0SWw0eXBfTGVvbA?oc=5",
           "sterne": "⭐⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "💡",
-      "titel": "KI & Gesundheit",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "ChatGPT als Gesundheitshelfer: So lässt OpenAI Ärzte KI-Antworten prüfen",
-          "zusammenfassung": "OpenAI integriert ChatGPT zunehmend in den Gesundheitssektor und lässt Ärzte die von der KI generierten Antworten prüfen. Dieser Ansatz soll die Genauigkeit und Verlässlichkeit der medizinischen Informationen sicherstellen und die Akzeptanz in der Ärzteschaft fördern, indem menschliche Expertise in den Validierungsprozess einbezogen wird.",
-          "einordnung": "",
-          "quelle": "Business Insider Deutschland",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNU1qYno0b0owMnJyQWNlQzh1SVNaS3BUZzQzVWZZaVlvSFpuSGMxZDhwbDNRUnktMGJyZTJKbUhNMERpclpkWFZPUXRXTk5URzJZdHhqRWdTZDBXLWp3dExLazdGQ3o0R1A0SnNXUnVCRXhYMms0ekdpNE1jTzNIVzNXTjJBUG15OUR6VzU1NFEyZEhhNTRaUGxLa201ZHM2UHpOY01KUHhMdHB5TTRSdVRhTGZITnFp?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
-          "zusammenfassung": "Der Einsatz von Large Language Models (LLMs) in der Onkologie birgt großes Potenzial für die Verbesserung der Diagnostik und Behandlung von Krebserkrankungen. Jedoch stehen der breiten Implementierung noch erhebliche Infrastrukturprobleme im Gesundheitswesen entgegen, die eine umfassende Nutzung erschweren.",
-          "einordnung": "",
-          "quelle": "healthcare-in-europe.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dmpiTWc?oc=5",
-          "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-10-09T12:11:56.538Z",
+  "generiert_um": "2026-10-10T11:29:41.514Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
       "desc": "Mo, Mi, Fr · mit The Decoder",
-      "episode": "KI-Update kompakt: Datennutzung der Chatbots, Kolibri, JEPA-Anything, arXiv",
-      "datum": "7.10.2026",
-      "dauer": "21 Min.",
+      "episode": "KI-Update Deep-Dive: Jede Menge Gigawatt für die KI",
+      "datum": "9.10.2026",
+      "dauer": "65 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/f1/22/9bf12286-42a8-2765-8a9d-91a07df6b535/mza_1407979254960059607.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp"
     },
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "Haften Altman und Amodei persönlich? | Muse kennt deine Freunde | GPUs stückeln wie Hauskredite 2008 #603",
-      "datum": "7.10.2026",
-      "dauer": "65 Min.",
+      "episode": "Formel 1 & Sauerteig: Open Source vs. Frontier-Labs | Fear-Mongering oder Extrapolation? | Starlinks umgekehrte Netzwerkeffekte #604",
+      "datum": "9.10.2026",
+      "dauer": "79 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
