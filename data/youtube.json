@@ -1,7 +1,77 @@
 {
-  "aktualisiert": "2026-10-11T13:53:47.143685+00:00",
+  "aktualisiert": "2026-10-12T16:38:35.544666+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "KI aus Deutschland! Was steckt hinter Kolibri von Aleph Alpha?",
+      "link": "https://www.youtube.com/watch?v=SOcdaG5KZbs",
+      "video_id": "SOcdaG5KZbs",
+      "thumbnail": "https://img.youtube.com/vi/SOcdaG5KZbs/mqdefault.jpg",
+      "datum": "2026-10-12T15:22:23+00:00",
+      "datum_de": "12.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Martin Dellwing | GoHighLevel Deutsch",
+      "titel": "KI-SEO-Check für ChatGPT, Claude, Gemini &amp; Perplexity | GoHighLevel Tutorial auf Deutsch",
+      "link": "https://www.youtube.com/watch?v=OmhjnzyDmh4",
+      "video_id": "OmhjnzyDmh4",
+      "thumbnail": "https://img.youtube.com/vi/OmhjnzyDmh4/mqdefault.jpg",
+      "datum": "2026-10-12T10:56:09Z",
+      "datum_de": "12.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Tool-Kompass",
+      "titel": "Video übersetzen mit KI – mit derselben Stimme (ElevenLabs Dubbing Tutorial Deutsch)",
+      "link": "https://www.youtube.com/watch?v=bnypu5lH5j0",
+      "video_id": "bnypu5lH5j0",
+      "thumbnail": "https://img.youtube.com/vi/bnypu5lH5j0/mqdefault.jpg",
+      "datum": "2026-10-12T04:00:33Z",
+      "datum_de": "12.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Kris • AI2ROI",
+      "titel": "REA &amp; Claude bauen jede App nach – ich hab&#39;s getestet",
+      "link": "https://www.youtube.com/watch?v=uEg5Y6OY13Y",
+      "video_id": "uEg5Y6OY13Y",
+      "thumbnail": "https://img.youtube.com/vi/uEg5Y6OY13Y/mqdefault.jpg",
+      "datum": "2026-10-11T18:45:24Z",
+      "datum_de": "11.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "tkay",
+      "titel": "Ich hab mich eingeschlossen, bis ich 10.000 € mit Claude KI verdient hab",
+      "link": "https://www.youtube.com/watch?v=MEZtoqnb9eo",
+      "video_id": "MEZtoqnb9eo",
+      "thumbnail": "https://img.youtube.com/vi/MEZtoqnb9eo/mqdefault.jpg",
+      "datum": "2026-10-11T16:00:29Z",
+      "datum_de": "11.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "Gemini Notebook wird immer besser! | 4 neue Funktionen | Sprechen &amp; Kurzvideos auf Deutsch",
+      "link": "https://www.youtube.com/watch?v=3heU5ZK1Ofk",
+      "video_id": "3heU5ZK1Ofk",
+      "thumbnail": "https://img.youtube.com/vi/3heU5ZK1Ofk/mqdefault.jpg",
+      "datum": "2026-10-11T15:00:10Z",
+      "datum_de": "11.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Diese kostenlosen Open Source Tools machen Claude Code 10x besser!",
+      "link": "https://www.youtube.com/watch?v=RzpLn1eaAus",
+      "video_id": "RzpLn1eaAus",
+      "thumbnail": "https://img.youtube.com/vi/RzpLn1eaAus/mqdefault.jpg",
+      "datum": "2026-10-11T14:15:35+00:00",
+      "datum_de": "11.10.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Morpheus Tutorials",
       "titel": "Europas KI-Hoffnung hat bei meinem Test abgeschrieben",
@@ -14,7 +84,7 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "Das ist krank: Der erste Roboter “Death Fight” der Welt! + Claude Haiku 5.5 & weitere KI-News",
+      "titel": "Der erste Roboter “Death Fight” der Welt! + ChatGPT Wasserzeichen & Claude Haiku 5.5 | KI-NEWS",
       "link": "https://www.youtube.com/watch?v=0tbDxmVy1m8",
       "video_id": "0tbDxmVy1m8",
       "thumbnail": "https://img.youtube.com/vi/0tbDxmVy1m8/mqdefault.jpg",
@@ -53,16 +123,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Kontextkern",
-      "titel": "Claude Mods: 3 Mods für den Alltag, ohne eine Zeile Code",
-      "link": "https://www.youtube.com/watch?v=S5zP-hLwyO4",
-      "video_id": "S5zP-hLwyO4",
-      "thumbnail": "https://img.youtube.com/vi/S5zP-hLwyO4/mqdefault.jpg",
-      "datum": "2026-10-09T16:00:19Z",
-      "datum_de": "09.10.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Christoph Magnussen",
       "titel": "From Answers to Actions: Google Search in the Age of AI Agents | Nick Fox, Google SVP",
       "link": "https://www.youtube.com/watch?v=TEauJySA18Q",
@@ -83,73 +143,13 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Marc De Fanti",
-      "titel": "Claude Code hat gerade Mods veröffentlicht. (Meistere sie in 10 Minuten)",
-      "link": "https://www.youtube.com/watch?v=Ntg-BJncZ5w",
-      "video_id": "Ntg-BJncZ5w",
-      "thumbnail": "https://img.youtube.com/vi/Ntg-BJncZ5w/mqdefault.jpg",
-      "datum": "2026-10-08T19:30:19Z",
+      "kanal": "PLATINUM LTA",
+      "titel": "I Got Gemini 8s FOR FREE on F2P! 🔥 | Mech Arena",
+      "link": "https://www.youtube.com/watch?v=VH9iwt3ebEg",
+      "video_id": "VH9iwt3ebEg",
+      "thumbnail": "https://img.youtube.com/vi/VH9iwt3ebEg/mqdefault.jpg",
+      "datum": "2026-10-08T16:37:51Z",
       "datum_de": "08.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI-Blase wird PLATZEN! Aber ANDERS als die meisten denken - Dr. Andreas Beck & Gregor Broschinski",
-      "link": "https://www.youtube.com/watch?v=tZfE4h2JDFI",
-      "video_id": "tZfE4h2JDFI",
-      "thumbnail": "https://img.youtube.com/vi/tZfE4h2JDFI/mqdefault.jpg",
-      "datum": "2026-10-08T15:15:22+00:00",
-      "datum_de": "08.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "WPerfolg - KI & Online Marketing meistern",
-      "titel": "Mit ChatGPT Sites in 5 Minuten Website bauen &amp; live veröffentlichen (A-Z Tutorial auf Deutsch, 2026)",
-      "link": "https://www.youtube.com/watch?v=megQOzpPCRA",
-      "video_id": "megQOzpPCRA",
-      "thumbnail": "https://img.youtube.com/vi/megQOzpPCRA/mqdefault.jpg",
-      "datum": "2026-10-08T07:30:07Z",
-      "datum_de": "08.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Apostolos Wettl",
-      "titel": "Obsidian + Claude Code: Dein KI-Gedächtnis in 10 Minuten",
-      "link": "https://www.youtube.com/watch?v=DNC359AznJk",
-      "video_id": "DNC359AznJk",
-      "thumbnail": "https://img.youtube.com/vi/DNC359AznJk/mqdefault.jpg",
-      "datum": "2026-10-07T17:43:46Z",
-      "datum_de": "07.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Dieses Tool hat mein Leben 10x einfacher gemacht! (Plaud AI)",
-      "link": "https://www.youtube.com/watch?v=4YVXDef57UM",
-      "video_id": "4YVXDef57UM",
-      "thumbnail": "https://img.youtube.com/vi/4YVXDef57UM/mqdefault.jpg",
-      "datum": "2026-10-07T14:15:15+00:00",
-      "datum_de": "07.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI führt jetzt ganze Unternehmen allein: Fast niemand hat davon mitbekommen",
-      "link": "https://www.youtube.com/watch?v=phcZVAmT8j8",
-      "video_id": "phcZVAmT8j8",
-      "thumbnail": "https://img.youtube.com/vi/phcZVAmT8j8/mqdefault.jpg",
-      "datum": "2026-10-06T15:15:29+00:00",
-      "datum_de": "06.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "ChatGPT 6.1 Sol getestet: Damit hat die Gaming-Welt nicht gerechnet!",
-      "link": "https://www.youtube.com/watch?v=-pBbY1b0FSQ",
-      "video_id": "-pBbY1b0FSQ",
-      "thumbnail": "https://img.youtube.com/vi/-pBbY1b0FSQ/mqdefault.jpg",
-      "datum": "2026-10-06T14:12:09Z",
-      "datum_de": "06.10.2026",
       "quelle": "suche"
     }
   ]
