@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-10-13T14:55:10.848753+00:00",
+  "aktualisiert": "2026-10-14T12:47:15.115545+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "KIwi – KI einfach erklärt",
+      "titel": "MCP Server Deutsch: Claude Code MCP Server Setup unter Windows (Tutorial)",
+      "link": "https://www.youtube.com/watch?v=iB47fognJcM",
+      "video_id": "iB47fognJcM",
+      "thumbnail": "https://img.youtube.com/vi/iB47fognJcM/mqdefault.jpg",
+      "datum": "2026-10-14T06:31:20Z",
+      "datum_de": "14.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AI Revolution auf Deutsch",
+      "titel": "Meta bringt Muse Wonder Full raus: schlägt GPT-6 Astra und Gemini 4 Argon",
+      "link": "https://www.youtube.com/watch?v=eDCd4UJParE",
+      "video_id": "eDCd4UJParE",
+      "thumbnail": "https://img.youtube.com/vi/eDCd4UJParE/mqdefault.jpg",
+      "datum": "2026-10-14T05:00:18Z",
+      "datum_de": "14.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "„Die Intelligenz-Explosion hat begonnen\", OpenAI schockt Mathematik & China baut das Weltgehirn",
+      "link": "https://www.youtube.com/watch?v=U7OUacSjohw",
+      "video_id": "U7OUacSjohw",
+      "thumbnail": "https://img.youtube.com/vi/U7OUacSjohw/mqdefault.jpg",
+      "datum": "2026-10-13T15:15:11+00:00",
+      "datum_de": "13.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "MJ Marketing",
+      "titel": "Gemini 4 Argon im Check: Googles beste KI unter Verschluss",
+      "link": "https://www.youtube.com/watch?v=ycTdut2vZsM",
+      "video_id": "ycTdut2vZsM",
+      "thumbnail": "https://img.youtube.com/vi/ycTdut2vZsM/mqdefault.jpg",
+      "datum": "2026-10-13T15:00:14Z",
+      "datum_de": "13.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "WPerfolg - KI & Online Marketing meistern",
       "titel": "Das NEUE ChatGPT Space ist KRASS: Simples Sofort-Tutorial für Einsteiger (2026 | Deutsch)",
@@ -93,16 +133,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Kris • AI2ROI",
-      "titel": "REA &amp; Claude bauen jede App nach – ich hab&#39;s getestet",
-      "link": "https://www.youtube.com/watch?v=uEg5Y6OY13Y",
-      "video_id": "uEg5Y6OY13Y",
-      "thumbnail": "https://img.youtube.com/vi/uEg5Y6OY13Y/mqdefault.jpg",
-      "datum": "2026-10-11T18:45:24Z",
-      "datum_de": "11.10.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "tkay",
       "titel": "Ich hab mich eingeschlossen, bis ich 10.000 € mit Claude KI verdient hab",
       "link": "https://www.youtube.com/watch?v=MEZtoqnb9eo",
@@ -121,36 +151,6 @@
       "datum": "2026-10-11T15:00:10Z",
       "datum_de": "11.10.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Diese kostenlosen Open Source Tools machen Claude Code 10x besser!",
-      "link": "https://www.youtube.com/watch?v=RzpLn1eaAus",
-      "video_id": "RzpLn1eaAus",
-      "thumbnail": "https://img.youtube.com/vi/RzpLn1eaAus/mqdefault.jpg",
-      "datum": "2026-10-11T14:15:35+00:00",
-      "datum_de": "11.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Europas KI-Hoffnung hat bei meinem Test abgeschrieben",
-      "link": "https://www.youtube.com/watch?v=83LZqTqz7QA",
-      "video_id": "83LZqTqz7QA",
-      "thumbnail": "https://img.youtube.com/vi/83LZqTqz7QA/mqdefault.jpg",
-      "datum": "2026-10-11T08:59:36+00:00",
-      "datum_de": "11.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Der erste Roboter “Death Fight” der Welt! + ChatGPT Wasserzeichen & Claude Haiku 5.5 | KI-NEWS",
-      "link": "https://www.youtube.com/watch?v=0tbDxmVy1m8",
-      "video_id": "0tbDxmVy1m8",
-      "thumbnail": "https://img.youtube.com/vi/0tbDxmVy1m8/mqdefault.jpg",
-      "datum": "2026-10-11T08:15:12+00:00",
-      "datum_de": "11.10.2026",
-      "quelle": "kanal"
     }
   ]
 }
