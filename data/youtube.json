@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-10-15T12:33:57.069126+00:00",
+  "aktualisiert": "2026-10-16T12:13:28.700608+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "codedeer ai",
+      "titel": "Claude 2026: Was du vergessen kannst – und was 2027 zählt",
+      "link": "https://www.youtube.com/watch?v=dEUBeKaLWn4",
+      "video_id": "dEUBeKaLWn4",
+      "thumbnail": "https://img.youtube.com/vi/dEUBeKaLWn4/mqdefault.jpg",
+      "datum": "2026-10-16T11:43:41Z",
+      "datum_de": "16.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Postext",
+      "titel": "Ein Postext-Buch mit einem KI-Agenten bearbeiten: Kapitel, Neuauflagen, Bearbeitungen – Tutorial 2",
+      "link": "https://www.youtube.com/watch?v=99zzoLocE6c",
+      "video_id": "99zzoLocE6c",
+      "thumbnail": "https://img.youtube.com/vi/99zzoLocE6c/mqdefault.jpg",
+      "datum": "2026-10-16T07:13:08Z",
+      "datum_de": "16.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Postext",
+      "titel": "Ihre Publikation mit einem KI-Agenten nach Postext überführen – Tutorial Schritt für Schritt",
+      "link": "https://www.youtube.com/watch?v=SofXfR-rEjM",
+      "video_id": "SofXfR-rEjM",
+      "thumbnail": "https://img.youtube.com/vi/SofXfR-rEjM/mqdefault.jpg",
+      "datum": "2026-10-16T07:12:40Z",
+      "datum_de": "16.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Ex-China-Diplomat packt aus: Es ist LÄNGST vorbei! Das verschweigen sie dir (Dr. Wolfgang Röhr)",
+      "link": "https://www.youtube.com/watch?v=eUr9ZgrYhts",
+      "video_id": "eUr9ZgrYhts",
+      "thumbnail": "https://img.youtube.com/vi/eUr9ZgrYhts/mqdefault.jpg",
+      "datum": "2026-10-15T15:15:25+00:00",
+      "datum_de": "15.10.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "WPerfolg - KI & Online Marketing meistern",
       "titel": "Das neue Gemini 4 Argon im Härtetest (Deutsch): Die ganze Wahrheit über Googles Top KI Modell",
@@ -44,7 +84,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Claude Mods: Das BESTE Update seit Skills (Alles was du wissen musst)",
+      "titel": "Claude Code Mods: Das BESTE Update seit Claude Skills...",
       "link": "https://www.youtube.com/watch?v=8DEA41reipg",
       "video_id": "8DEA41reipg",
       "thumbnail": "https://img.youtube.com/vi/8DEA41reipg/mqdefault.jpg",
@@ -83,12 +123,12 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Google Cloud Tech",
-      "titel": "Gemini 4 Argon: 10 incredible AI demos (1M token output in action)",
-      "link": "https://www.youtube.com/watch?v=gRhM1h10T3U",
-      "video_id": "gRhM1h10T3U",
-      "thumbnail": "https://img.youtube.com/vi/gRhM1h10T3U/mqdefault.jpg",
-      "datum": "2026-10-13T22:02:36Z",
+      "kanal": "Skill Leap AI",
+      "titel": "Gemini 4 Argon Is Here: 12 Jaw Dropping Demos",
+      "link": "https://www.youtube.com/watch?v=b5D80OWst78",
+      "video_id": "b5D80OWst78",
+      "thumbnail": "https://img.youtube.com/vi/b5D80OWst78/mqdefault.jpg",
+      "datum": "2026-10-13T21:25:20Z",
       "datum_de": "13.10.2026",
       "quelle": "suche"
     },
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/pJWPPHPc2NY/mqdefault.jpg",
       "datum": "2026-10-13T07:00:07Z",
       "datum_de": "13.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KIwi – KI einfach erklärt",
-      "titel": "Claude Code Agents Tutorial Deutsch: Subagents mit Haiku 5.5 im Test",
-      "link": "https://www.youtube.com/watch?v=PgAb4jiFkNU",
-      "video_id": "PgAb4jiFkNU",
-      "thumbnail": "https://img.youtube.com/vi/PgAb4jiFkNU/mqdefault.jpg",
-      "datum": "2026-10-13T05:56:28Z",
-      "datum_de": "13.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "predic8",
-      "titel": "Kein Vibe-Coding: Wie der Open-Source Photoshop Nachbau PhotoCraft mit KI-Agenten entsteht",
-      "link": "https://www.youtube.com/watch?v=pvaVVmo-sao",
-      "video_id": "pvaVVmo-sao",
-      "thumbnail": "https://img.youtube.com/vi/pvaVVmo-sao/mqdefault.jpg",
-      "datum": "2026-10-12T21:45:17Z",
-      "datum_de": "12.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "KI aus Deutschland! Was steckt hinter Kolibri von Aleph Alpha?",
-      "link": "https://www.youtube.com/watch?v=SOcdaG5KZbs",
-      "video_id": "SOcdaG5KZbs",
-      "thumbnail": "https://img.youtube.com/vi/SOcdaG5KZbs/mqdefault.jpg",
-      "datum": "2026-10-12T15:22:23+00:00",
-      "datum_de": "12.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Unfairer Vorteil | KI",
-      "titel": "Dieses virale KI-Tool, kann JEDE Software kopieren.. (REA &amp; Claude nutzen)",
-      "link": "https://www.youtube.com/watch?v=ln5594gIXIY",
-      "video_id": "ln5594gIXIY",
-      "thumbnail": "https://img.youtube.com/vi/ln5594gIXIY/mqdefault.jpg",
-      "datum": "2026-10-12T14:43:32Z",
-      "datum_de": "12.10.2026",
       "quelle": "suche"
     }
   ]
