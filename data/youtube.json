@@ -1,7 +1,27 @@
 {
-  "aktualisiert": "2026-10-16T12:13:28.700608+00:00",
+  "aktualisiert": "2026-10-17T11:30:52.626485+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Google ist wieder vorne dabei - auch in meinen Tests?",
+      "link": "https://www.youtube.com/watch?v=HpaFZjRjBhQ",
+      "video_id": "HpaFZjRjBhQ",
+      "thumbnail": "https://img.youtube.com/vi/HpaFZjRjBhQ/mqdefault.jpg",
+      "datum": "2026-10-17T09:14:19+00:00",
+      "datum_de": "17.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "AppX Patterns",
+      "titel": "KI-Agenten einfach erklärt: Was ein Agent ist und was nicht",
+      "link": "https://www.youtube.com/watch?v=n49B30JWLwg",
+      "video_id": "n49B30JWLwg",
+      "thumbnail": "https://img.youtube.com/vi/n49B30JWLwg/mqdefault.jpg",
+      "datum": "2026-10-16T16:57:49Z",
+      "datum_de": "16.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "codedeer ai",
       "titel": "Claude 2026: Was du vergessen kannst – und was 2027 zählt",
@@ -30,6 +50,16 @@
       "thumbnail": "https://img.youtube.com/vi/SofXfR-rEjM/mqdefault.jpg",
       "datum": "2026-10-16T07:12:40Z",
       "datum_de": "16.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KIwi – KI einfach erklärt",
+      "titel": "Claude Code Remote Control Deutsch: Push aufs Handy + Notification Hook (Windows)",
+      "link": "https://www.youtube.com/watch?v=4iIA1DHJt2I",
+      "video_id": "4iIA1DHJt2I",
+      "thumbnail": "https://img.youtube.com/vi/4iIA1DHJt2I/mqdefault.jpg",
+      "datum": "2026-10-15T15:50:35Z",
+      "datum_de": "15.10.2026",
       "quelle": "suche"
     },
     {
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/eDCd4UJParE/mqdefault.jpg",
       "datum": "2026-10-14T05:00:18Z",
       "datum_de": "14.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Skill Leap AI",
-      "titel": "Gemini 4 Argon Is Here: 12 Jaw Dropping Demos",
-      "link": "https://www.youtube.com/watch?v=b5D80OWst78",
-      "video_id": "b5D80OWst78",
-      "thumbnail": "https://img.youtube.com/vi/b5D80OWst78/mqdefault.jpg",
-      "datum": "2026-10-13T21:25:20Z",
-      "datum_de": "13.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "„Die Intelligenz-Explosion hat begonnen\", OpenAI schockt Mathematik & China baut das Weltgehirn",
-      "link": "https://www.youtube.com/watch?v=U7OUacSjohw",
-      "video_id": "U7OUacSjohw",
-      "thumbnail": "https://img.youtube.com/vi/U7OUacSjohw/mqdefault.jpg",
-      "datum": "2026-10-13T15:15:11+00:00",
-      "datum_de": "13.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "WPerfolg - KI & Online Marketing meistern",
-      "titel": "Das NEUE ChatGPT Space ist KRASS: Simples Sofort-Tutorial für Einsteiger (2026 | Deutsch)",
-      "link": "https://www.youtube.com/watch?v=pJWPPHPc2NY",
-      "video_id": "pJWPPHPc2NY",
-      "thumbnail": "https://img.youtube.com/vi/pJWPPHPc2NY/mqdefault.jpg",
-      "datum": "2026-10-13T07:00:07Z",
-      "datum_de": "13.10.2026",
       "quelle": "suche"
     }
   ]
