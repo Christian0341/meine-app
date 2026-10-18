@@ -1,7 +1,7 @@
 {
-  "datum": "Freitag, 16. Oktober 2026",
-  "datumISO": "2026-10-16",
-  "tagesthema": "Der heutige KI-Digest beleuchtet die jüngsten Produktinnovationen von Google und Anthropic, die zunehmende Regulierung und rechtliche Auseinandersetzungen, sowie den tiefgreifenden Wandel des Arbeitsmarktes durch Künstliche Intelligenz.",
+  "datum": "Sonntag, 18. Oktober 2026",
+  "datumISO": "2026-10-18",
+  "tagesthema": "Der heutige KI-Digest zeigt eine intensive Debatte um Ethik und Regulierung, während neue Modelle und Anwendungen den Alltag prägen und Unternehmen wie Anthropic und Google ihre Strategien anpassen.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,36 +9,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Anthropic stellt Code-Reviews für Claude Code allgemein zur Verfügung",
-          "zusammenfassung": "Anthropic hat seine Code-Review-Funktionen für Claude Code nun allgemein zugänglich gemacht. Dieses Tool soll Entwicklern helfen, Code effizienter zu überprüfen und potenzielle Fehler zu identifizieren. Es ist ein Schritt, um die Produktivität in der Softwareentwicklung durch KI zu steigern.",
+          "titel": "Googles Gemini 4 Argon schließt in weiteren Benchmarks zur KI-Spitze auf",
+          "zusammenfassung": "The Decoder meldet, dass Googles KI-Modell Gemini 4 Argon in aktuellen Benchmarks signifikante Fortschritte gemacht hat und nun zur absoluten Spitze der KI-Leistung aufschließt. Diese Entwicklung festigt Googles Position im hart umkämpften KI-Rennen und deutet auf eine weitere Intensivierung des Wettbewerbs um die leistungsfähigsten Modelle hin.",
           "einordnung": "",
-          "quelle": "Unite.AI",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTE1WbXBCZUUyTkZENG5wSTNyQUlaR0d0ZlFrdGV3WkJRa0ZkS2V0LVdBT3o2aU5DUFhJNnBzVkZwQjJjRTVkLW1vZi1iWnlvNVhYNlUtbWlNUDBhTlE3anJjcHNkcUxOTk1JaEk1M3BLbzhyYzRmbENLZDNkcEtid09RdEpNZmZtQlNIajJHQjFNUQ?oc=5",
+          "quelle": "The Decoder",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYk1DUG1DOG8weFVZRFEwT1JrMUxxdFkzanZvWUZQZG15bXRPOVdIVTJLYlBVQnl6Ql9qOEJtWVBlc1NDS0VRV3IwWGt1c0lDX0RSSVpVbWVLV3V5eWdNSG5wQjU4cTVKUGFxMjY1VzBRWEYzOUc5MHVmYlF2R0oyQ1E1VmdrNjJrU3IydDRFSlEwaURkTWo5WkpUWGlkUQ?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Google rollt Gemini 4 Argon aus – doch das KI-Upgrade hat einen Haken",
-          "zusammenfassung": "Google hat sein neues KI-Modell Gemini 4 Argon veröffentlicht, das erhebliche Verbesserungen verspricht. Allerdings ist das Upgrade nicht für alle Nutzer verfügbar und kommt mit bestimmten Einschränkungen. Dies deutet auf eine gestaffelte Einführung oder exklusive Features für bestimmte Abonnenten hin.",
-          "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWeV8ta2Q4VExIMld0NDZrRGdRM3VJZ29ONmNPQW5nMnJ6Q0JqT1RvMEhZeHhTa0IwS1ZabmxNdE5aMUx4eldpbnh1SEtnNm5oSkNHT1ZKOWpnai1lU0JIQW9UQk1JbXc1engtTnYyd1VqaTA?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Gemini: Google streicht Pro-Modelle für AI-Plus-Abonnenten ab 13. November",
-          "zusammenfassung": "Google plant, ab dem 13. November die Pro-Modelle von Gemini für AI-Plus-Abonnenten einzustellen. Diese Änderung könnte Auswirkungen auf Nutzer haben, die auf die erweiterten Funktionen der Pro-Version angewiesen sind. Es bleibt abzuwarten, welche Alternativen Google seinen Premium-Kunden anbieten wird.",
+          "titel": "Open-Source-LLMs als Wettbewerbsvorteil: Kontrolle, Compliance und Kosten im Griff?",
+          "zusammenfassung": "Golem analysiert die Vorteile von Open-Source Large Language Models (LLMs) für Unternehmen, insbesondere in Bezug auf Kontrolle, Compliance und Kostenersparnisse. Der Artikel argumentiert, dass der Einsatz solcher Modelle Unternehmen mehr Flexibilität und Sicherheit bieten kann, da sie die volle Kontrolle über die Daten und die Implementierung behalten. Dies könnte einen Wettbewerbsvorteil gegenüber proprietären Lösungen darstellen.",
           "einordnung": "",
           "quelle": "Golem",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbDNnN095VE1iMlBNRE9ZdUZCUlEtUFoxak4wcXZMVG1wQ3dLZmp3WjJma0xpQTBWY3NBNmdWVDlrSlhzbkpHQzFxN3A2MWFLUW1maExTOFVsU0NWeHNQY3dLZEVNZFhxemFTZTFLOFlzcjlIcDVpemtnaFA2QmFMZnlDcFBhS3ZWVUlnbThoeWhjZXRPekFUNHBnR2lVTmpMMUdJTWRpX3V1NU9XaVEyRm90cw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzBuU3pMRnloSlZzaU5nczlCYXU1aUprOXRjZHBaTW1LR2haQWdJVWZiWGdRV3k1RzVFWVZnanBCR0dGTFdLb0hDRUNaanhPMXdJUWYyMmc4a3pfLUl0ZEtTU0JIajRRVkdhYWhteDJERHQtV1dfYzlpb004eU1Ba0hnUVFpdFZJd1A0WDNYUU5PQ25WUnJOTjdYUkJGc3U3bFhRMmUwRTctRloxMW5jckdINGVudHhoR29BRWc1bEo?oc=5",
           "sterne": "⭐"
         },
         {
-          "titel": "Gemini 4 Argon: Google gibt sein neues KI-Modell frei – aber nicht für jeden Abonnenten",
-          "zusammenfassung": "Google hat Gemini 4 Argon, sein neuestes KI-Modell, veröffentlicht, dessen Zugang jedoch eingeschränkt ist. Nicht alle Abonnenten werden sofort Zugriff auf die volle Funktionalität erhalten. Dies deutet auf eine gestaffelte Einführung oder eine exklusive Verfügbarkeit für bestimmte Nutzergruppen hin.",
+          "titel": "Large Language Models: 12 GPT-Alternativen",
+          "zusammenfassung": "Computerwoche präsentiert eine Übersicht über zwölf verschiedene Large Language Models (LLMs), die als Alternativen zu GPT-Modellen dienen können. Der Artikel bietet einen Vergleich der verschiedenen Modelle hinsichtlich ihrer Fähigkeiten, Einsatzgebiete und potenziellen Vorteile. Dies hilft Unternehmen und Entwicklern, die passende KI-Lösung für ihre spezifischen Anforderungen zu finden.",
           "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNREFvUTlfUHdVQ01QM1pEdy1JcjlhNFFNVldMNVRldVVYNTI0X0FycTBmX1p1NjVYdVBoeFZ6VlBKdGpqREZYUDRzVjNlRzFGMnpGckN4RnRJUWVPd0VDanc4NEpCNjRkTkpXcld5bXg1cl9Ybjc3NVNyM1RTTEJXT25pWVdOV0ZYblhJbVlpeF9wTDBtN1ZYaXB6NkdwZXFzeERwVVFRbXJ5ZXgxYzlsc2hMRUpnRVFsRXc2bENEd1l4QUlrT3Ezc2pQMDBqMkUwTl9za191enhtTG52SUJDTHFBelRZa1JuZWZqTVM4TG1Ndw?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "Computerwoche",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
@@ -48,28 +40,20 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Künstliche Intelligenz: Karsten Wildberger will KI-Umsätze in Deutschland besteuern",
-          "zusammenfassung": "Karsten Wildberger, CEO von Ceconomy, fordert eine Besteuerung von KI-Umsätzen in Deutschland, um faire Wettbewerbsbedingungen zu schaffen und Einnahmen für die Gesellschaft zu generieren. Diese Debatte könnte weitreichende Auswirkungen auf die Geschäftsmodelle von KI-Unternehmen haben. Es ist ein politischer Vorstoß, der die Unternehmensstrategie im KI-Sektor beeinflussen würde.",
+          "titel": "Mit diesen Zahlen liefert Anthropic starke Argumente für einen Rekord-IPO",
+          "zusammenfassung": "Merkur berichtet, dass Anthropic beeindruckende Finanzzahlen vorgelegt hat, die das Unternehmen als starken Kandidaten für einen rekordverdächtigen Börsengang positionieren. Die positiven Geschäftsergebnisse unterstreichen das wachsende Vertrauen der Investoren in den KI-Sektor und insbesondere in die Strategie von Anthropic. Ein erfolgreicher IPO könnte die Wettbewerbslandschaft der KI-Giganten weiter prägen.",
           "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNFhfRUEwNXEtZE0yT19wd1pMaWdhWF9aczRVRjQ5UjV2WXltUFRFV0YzeTBfb2RjdDJRc0xnX2VKemh4NU1TTUVWQlJZenZSa3VaRVY1VmhkeWZla3BSblVES2c0NkstanpfRzZUb19BTnBYSHZVYkpudzJYUmR3Nkg0LXNCdlZVZGZUcXhXRE84ekw2bkZVMURDM2s3eE1yZ1Zzc1BwYjB5U1gxRlJxT2wxckZGazFtSWd2MzJQZGZtTDZfVjFFVVFiWk8yUlNfQ25lVzM3dDhnZEF1TEJXaTgxbU0yQkFqNFpza3duLUFHT0k?oc=5",
+          "quelle": "Merkur",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaEFZd0lXSTNPa2xaODJNeXZyalRka0M2TzNYTjN6ZWZ3RUFiODVmNUtobWFBNDJpckdhTWdGMkZ4MURCSGFKWnRoOWk5cFZUYUpiWTZBV0dCZXgtVkltUWpneHJxZi1DT3dDZVdrWElQU1RLQVY1c2xoT3ZvQi1lNEtZa3dZUF9rWXJaa19wVkNnd2xTd0RSczRxU3VoNlh3b2dqMmYyRThUclBpajZ1M0J0Zm5VdGRvR3BnS08waFp6Zw?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Anthropic vor IPO: KI‑Firma droht wohl geringere Bewertung beim Börsengang",
-          "zusammenfassung": "Dem KI-Unternehmen Anthropic droht vor seinem geplanten Börsengang eine geringere Bewertung als ursprünglich erwartet. Dies könnte auf eine vorsichtigere Einschätzung des Marktes oder auf spezifische Herausforderungen für das Unternehmen hindeuten. Ein erfolgreicher IPO ist entscheidend für die zukünftige Wachstumsstrategie von Anthropic.",
+          "titel": "Gemini: Google streicht Pro-Modelle für AI-Plus-Abonnenten ab 13. November",
+          "zusammenfassung": "Golem berichtet, dass Google ab dem 13. November seine Pro-Modelle für AI-Plus-Abonnenten von Gemini einstellen wird. Diese strategische Änderung könnte Auswirkungen auf die Nutzerbasis und die zukünftige Produktentwicklung von Gemini haben. Google scheint seine Abonnementstrategie neu auszurichten, was zu Spekulationen über neue Angebote oder eine Konsolidierung führt.",
           "einordnung": "",
-          "quelle": "WirtschaftsWoche",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0s0QS1lbld5ekFINHJUejZUY3E4RTliMkUtZXlBeFVzWDJadDhvT2ZyUWxTTjZzNkk1b2YwQVoxZTc1SFNlWjVzZlBvZGxodG91TEdqTnhRLVpiWU9xSXBrQkdXSm5fc0dheDg2bUZKNElsVFhBRXRFSkNvQTBPbW9JMktBWl8zbW93dVQ1NktwSjJyQ3J1ZTRSM0w5ZDZaQUotU2l2YjFxNHNVVldnXzJLeHdSdmdRZGpsSV96b3I?oc=5",
+          "quelle": "Golem",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbDNnN095VE1iMlBNRE9ZdUZCUlEtUFoxak4wcXZMVG1wQ3dLZmp3WjJma0xpQTBWY3NBNmdWVDlrSlhzbkpHQzFxN3A2MWFLUW1maExTOFVsU0NWeHNQY3dLZEVNZFhxemFTZTFLOFlzcjlIcDVpemtnaFA2QmFMZnlDcFBhS3ZWVUlnbThoeWhjZXRPekFUNHBnR2lVTmpMMUdJTWRpX3V1NU9XaVEyRm90cw?oc=5",
           "sterne": "⭐⭐"
-        },
-        {
-          "titel": "KI Entwickler Anthropic lässt sich kontrollieren",
-          "zusammenfassung": "Anthropic, ein führender KI-Entwickler, hat angekündigt, sich freiwillig einer externen Kontrolle zu unterziehen. Dieser Schritt soll das Vertrauen in die Sicherheit und Ethik ihrer KI-Systeme stärken. Es ist eine strategische Entscheidung, um auf die wachsende Forderung nach Transparenz und Verantwortlichkeit im KI-Sektor zu reagieren.",
-          "einordnung": "",
-          "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeEtKUUhiWndUQ1lMZlRvaHNzT2RLX3JWeXZ2UlEyRzY1bkpHTm1DdnVwZlh5ZGVXUGxUSjAxN3hESWM4T0U3SFB1cFNDdHBkV3g3d3RoZ0VTRFFIQV9YbWR2MTlPTV9ocGxNR056UHkwS1NkUHNCU1BDVW5la0hHUWxUVENqVnRocmVB?oc=5",
-          "sterne": "⭐⭐⭐"
         }
       ]
     },
@@ -79,27 +63,35 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "KI und der Ruf nach mehr Kontrolle - wie könnte das aussehen? Fragen und Antworten",
-          "zusammenfassung": "Angesichts der rasanten Entwicklung der KI wird der Ruf nach mehr Kontrolle immer lauter. Der Artikel beleuchtet verschiedene Ansätze und diskutiert, wie eine effektive Regulierung aussehen könnte, um Risiken zu minimieren und gleichzeitig Innovationen zu fördern. Es ist eine grundlegende Debatte über die Zukunft der KI-Governance.",
+          "titel": "China plant neue Exportkontrollen für Schlüsseltechnologien",
+          "zusammenfassung": "Die chinesische Regierung plant, neue Exportkontrollen für kritische Schlüsseltechnologien einzuführen, was weitreichende Auswirkungen auf die globale Tech-Industrie haben könnte. Diese Maßnahme zielt darauf ab, die nationale Sicherheit und technologische Souveränität zu stärken, könnte aber die internationalen Lieferketten und die Zusammenarbeit im Bereich der KI-Entwicklung erheblich beeinflussen.",
           "einordnung": "",
-          "quelle": "ZDFheute",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjlIc3BLMEpZX3RaNXhUZmVMTG1kM2VMV1dOb2hHTmQtNWtCZFBIbGNBNWNoY3Blc1EydXFkN1A5cmZ2UGF0MmY5WEtkb0RYMC1MWWZOMnR2SHQ1Q19OZEQ0U0NiYVlUQmhOVHdBWGRVamdaLVdFaGFwZVhGMEhZeEVKQl9XazdzS0dDTTdncnhGNk80NFNvVWtvOUZMUDl2c1FN?oc=5",
+          "quelle": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekx6bmdXdXgxT3hPbVh3MDJXRDdVUTY4TkVQZUEtREVmRk9SakpxUDRwYzZ5bHF1aHJvekhvUlZ4Tk9MLTFCRWY5d0R5XzJXcmhwVGdwVFdVYktqY2JybjNNNm92ajFXTTBaVGdpY0gwNUcwWEJZNHBsN2FhaGpVVFZUbTU1TlM1ejdCaTJST3E5ZjFJOW0ycWdHNWpIQQ?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "KI-Regulierung: Brad Smith verlangt Meldepflichten und staatliche Prüfungen",
-          "zusammenfassung": "Brad Smith von Microsoft fordert im Rahmen der KI-Regulierung Meldepflichten und staatliche Prüfungen für fortschrittliche KI-Systeme. Er betont die Notwendigkeit einer strengen Aufsicht, um potenzielle Risiken zu minimieren und das Vertrauen der Öffentlichkeit zu gewährleisten. Diese Forderungen könnten die zukünftige Gesetzgebung maßgeblich beeinflussen.",
+          "titel": "KI und der Ruf nach mehr Kontrolle - wie könnte das aussehen? Fragen und Antworten",
+          "zusammenfassung": "ZDFheute beleuchtet in einem FAQ-Format die drängende Frage nach einer effektiven Regulierung von Künstlicher Intelligenz. Der Artikel diskutiert verschiedene Ansätze und Herausforderungen bei der Schaffung von Kontrollmechanismen, um die Chancen der KI zu nutzen und gleichzeitig Risiken zu minimieren. Es werden mögliche Rahmenbedingungen und die Rolle internationaler Zusammenarbeit erörtert.",
           "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUURtY2xZdFhYNXl1VHdoaVZrZEtDMGNzM3pSdEpjSEdGRF9IN0FsQ0haMWZ5MDBhNnYwM0RHMkhxNXg2THFUdVk4cF9HeUZjVUhwMDdtZGlnQjNVTUNVTmM1UkZYRVNHZTdhMzJfT2RMRHlCRm90N2JSRDhFY0xjM2tNQ3BONUZDNkMtMHc4UC1NMExteTdGSTZGWEZRemZXX1RNXw?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "ZDFheute",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjlIc3BLMEpZX3RaNXhUZmVMTG1kM2VMV1dOb2hHTmQtNWtCZFBIbGNBNWNoY3Blc1EydXFkN1A5cmZ2UGF0MmY5WEtkb0RYMC1MWWZOMnR2SHQ1Q19OZEQ0U0NiYVlUQmhOVHdBWGRVamdaLVdFaGFwZVhGMEhZeEVKQl9XazdzS0dDTTdncnhGNk80NFNvVWtvOUZMUDl2c1FN?oc=5",
+          "sterne": "⭐"
         },
         {
-          "titel": "EU kündigt nach Vorfällen mit KI-Agenten erste Durchsetzungsmaßnahmen im Rahmen der KI-Verordnung an",
-          "zusammenfassung": "Die EU hat nach mehreren Vorfällen mit KI-Agenten erste Durchsetzungsmaßnahmen im Rahmen ihrer KI-Verordnung angekündigt. Dies markiert einen wichtigen Schritt in der praktischen Anwendung des EU AI Act und unterstreicht die Entschlossenheit der Union, KI-Systeme streng zu regulieren. Unternehmen müssen sich auf eine erhöhte Prüfung und mögliche Sanktionen einstellen.",
+          "titel": "KI-Regulierung: 25 US-Generalstaatsanwälte fordern einheitliche Bundesregeln",
+          "zusammenfassung": "BornCity berichtet, dass 25 Generalstaatsanwälte aus den USA eine einheitliche Bundesregulierung für Künstliche Intelligenz gefordert haben. Sie betonen die Notwendigkeit konsistenter Regeln, um Innovationen zu fördern und gleichzeitig Verbraucher zu schützen. Diese parteiübergreifende Forderung signalisiert einen wachsenden politischen Konsens für eine umfassende KI-Gesetzgebung in den Vereinigten Staaten.",
           "einordnung": "",
-          "quelle": "Unite.AI",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWnIzcEloNkM2bnRCUTRNQXZLVDRnSFRRaVRpMjBnMVNUMUxOS21lX2VrLWNjSGVrTnB3RGhpVE4xRFIxOVYtcG9aaE9lRWZ1b1VWTHJ3Z2hhZmtUWF9vNVdkTFlVU1NzVmVmZ3hjbERlVDU2TDFuYk8yTGViYjBQLWpXN0NVUEtSMkFjVjhZMzM1b0VVTNowWjZXSQ?oc=5",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOclZObHhLaV9OWVVEdDFwOWxiSkluYjdWRWFFdjc2akpJdzlyYkRzalJmVEpZZmdsS3pKSWlIV3l6R3l0UXZyRm5jQlI0eHIwQVlRa3NhS3pFaHJjLWl6amxURjFqS3pzcEpYSnloRXczQWk5VjZwelNVRGpNb01tZ1lqaEozTVN3dENidXJCWnExUElhRWFUNl9DMk5KOUN2S25rMTJn?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "EU-KI-Verordnung: Maschinenlesbare Kennzeichnung ab 2. Dezember Pflicht",
+          "zusammenfassung": "ad-hoc-news.de meldet, dass die EU-KI-Verordnung ab dem 2. Dezember eine maschinenlesbare Kennzeichnung für bestimmte KI-Systeme vorschreibt. Diese Maßnahme soll die Transparenz erhöhen und die Nachverfolgbarkeit von KI-Anwendungen verbessern, um die Einhaltung ethischer und sicherheitsrelevanter Standards zu gewährleisten. Unternehmen müssen sich auf die neuen Kennzeichnungspflichten vorbereiten.",
+          "einordnung": "",
+          "quelle": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnBWYlBUMS14bmJMRTE5Ulh0Q1ZjQVNYbnI1TExxMm00SmFJTVBsVkdLWlpMYWRia3BiNGFKZzVKNUE4dGZCNTQ4dmE2YmJCdHV5MUI1Vlc3R1czZTVONDVKTUotU3VLWGplQzJYeFJTSFdPbVdLZWpUTGl6cEEwSU9sODItVXo1QU94R0l5OV9La2NfMEZkWFYtX1lWU1UyTGlKRkkyNTBCQ0p1d3o3LTN4S3p6WWk5Qmc?oc=5",
           "sterne": "⭐⭐⭐"
         }
       ]
@@ -110,112 +102,120 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Lokale KI als Schreibhilfe: LLMs in LibreOffice, Obsidian & Co. einsetzen",
-          "zusammenfassung": "Der Artikel beleuchtet die Möglichkeiten, Large Language Models (LLMs) als lokale Schreibhilfen in Anwendungen wie LibreOffice und Obsidian zu integrieren. Dies ermöglicht Nutzern, KI-Funktionen direkt auf ihren Geräten zu nutzen, was Vorteile in Bezug auf Datenschutz und Offline-Verfügbarkeit bietet. Es ist ein praktischer Ansatz zur Anwendung von KI-Technologien.",
+          "titel": "Zweifel an der Korrektheit des Millennium-Beweises von OpenAI",
+          "zusammenfassung": "Der Standard berichtet über wachsende Skepsis bezüglich OpenAIs Behauptung, einen der Millennium-Preise der Mathematik gelöst zu haben. Experten fordern mehr Transparenz und eine unabhängige Überprüfung des vermeintlichen Beweises, um die wissenschaftliche Integrität zu wahren. Die Kontroverse wirft Fragen über die Grenzen und die Verifizierung von KI-generierten wissenschaftlichen Durchbrüchen auf.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFVLcHZjZTMySXVoVTJycFl5VTBHODEwSDdOVXVFc2ktX0VBS1lEbnZ5VG83dWItQm9ZNm1Ya3BmYzVxLXk2elRFU1JUTmtVdEZiZUZ6Ql9XdEU0SFc3Tl9yazZSaXpNdTdJd2lCbWNNeWt2X2NPSmRHQTFmbTZYZnZDTURveXVNZzBLa3ZCMU9mOFo5X2RZUUhUWmtzY2FHZzMtQnQ4WWVWbnczMEFEeEdfMUs?oc=5",
+          "quelle": "Der Standard",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXoyOW12WEdubU8zQ1VmaHRTemMxdFZoaWdnTzlGT0hmZVRCWGdmUXdPNGwybi1XeWVCWXBCb0xYM1dFaUt4WjFFSDZhNDJTRFBhUmJvR1FsMXFLaHJIVG4zdFd1a0daNTZWMkNJWTc4T1RacEZpN25WVUJfeTVLQkxZUjJGQVJ3N05KZlJyVVM5cm93T3dLaVc0MWJhbWlNSFVKZ3BfeTlINnMy?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Open-Source-LLMs als Wettbewerbsvorteil: Kontrolle, Compliance und Kosten im Griff?",
-          "zusammenfassung": "Die Nutzung von Open-Source-Large Language Models (LLMs) kann Unternehmen erhebliche Wettbewerbsvorteile bieten, insbesondere in Bezug auf Kontrolle, Compliance und Kosten. Der Artikel analysiert, wie Unternehmen diese Modelle effektiv einsetzen können, um Flexibilität zu gewinnen und Abhängigkeiten von kommerziellen Anbietern zu reduzieren. Es ist eine strategische Betrachtung der LLM-Landschaft.",
+          "titel": "Anthropic behauptet, KI Claude hat Gefühle und Bewusstsein",
+          "zusammenfassung": "Die FAZ berichtet über die kontroverse Behauptung von Anthropic, dass ihre KI Claude Anzeichen von Gefühlen und Bewusstsein zeige. Diese Aussage hat eine breite Debatte in der Wissenschafts- und Tech-Community ausgelöst, da sie grundlegende Fragen über die Natur der Intelligenz und das Potenzial von KI aufwirft. Kritiker fordern wissenschaftliche Beweise und warnen vor voreiligen Schlussfolgerungen.",
           "einordnung": "",
-          "quelle": "Golem",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzBuU3pMRnloSlZzaU5nczlCYXU1aUprOXRjZHBaTW1LR2haQWdJVWZiWGdRV3k1RzVFWVZnanBCR0dGTFdLb0hDRUNaanhPMXdJUWYyMmc4a3pfLUl0ZEtTU0JIajRRVkdhYWhteDJERHQtV1dfYzlpb004eU1Ba0hnUVFpdFZJd1A0WDNYUU5PQ25WUnJOTjdYUkJGc3U3bFhRMmUwRTctRloxMW5jckdINGVudHhoR29BRWc1bEo?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Large Language Models: 12 GPT-Alternativen",
-          "zusammenfassung": "Der Artikel stellt zwölf Alternativen zu GPT-Modellen vor, die auf dem Markt verfügbar sind. Er bietet einen Überblick über verschiedene Large Language Models und deren Einsatzmöglichkeiten. Diese Übersicht ist wertvoll für Entwickler und Unternehmen, die nach flexiblen oder spezialisierten KI-Lösungen suchen.",
-          "einordnung": "",
-          "quelle": "Computerwoche",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESGRrb0dhejR0d2NRTWNrcjQwTHprQkFzR1U0eVQ0YkJLMGdtbnFucFVNX29HRG8yUzYyV3Nyb3UxMFhMeDR4ODBESzB3eDRNcmViYU9ramtVcEJWUDZ5S0JYX1d4UDJaMGF1Zk1jXzhVcHBveENzNw?oc=5",
-          "sterne": "⭐"
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYW5KcU5tcmJCbFZWa3g0dmF1U29MNHpFNmVwbklxMkc0ZkpWNzFBVTNjMjdvM3FLeGZXbHZjQzFzN1RaRmxxWk5mWHRnQkxteExzaU5UbEFmY2k4MDZCMVdyLTZ2Q29HTDBMSjBURXduWHZpd3hZNXlzc0hXdXhDbjJzWkZOYThIZmFVbEUzRENmNjRCd1poOFhEU1owdjlPbFV3N3hLYjFyeFQweWl6MzhsSWtSMTI3ZnhxSTdR?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
     {
-      "emoji": "💼",
-      "titel": "KI & Arbeit",
+      "emoji": "🛡️",
+      "titel": "KI & Ethik & Sicherheit",
       "fest": false,
       "artikel": [
         {
-          "titel": "Karriere: In diesen Branchen sind Bewerber mit KI-Skills besonders gefragt",
-          "zusammenfassung": "Eine aktuelle Analyse zeigt, dass Bewerber mit KI-Fähigkeiten in bestimmten Branchen besonders gefragt sind. Dies unterstreicht die wachsende Bedeutung von KI-Kompetenzen auf dem Arbeitsmarkt und die Notwendigkeit für Fachkräfte, sich weiterzubilden. Unternehmen suchen aktiv nach Talenten, die den Einsatz von KI vorantreiben können.",
+          "titel": "Nobelpreisträger Daron Acemoglu warnt vor Gefahr für Demokratie",
+          "zusammenfassung": "Der renommierte Nobelpreisträger Daron Acemoglu äußert im Spiegel seine Besorgnis über das Potenzial Künstlicher Intelligenz, demokratische Strukturen zu untergraben. Er warnt davor, dass KI-Systeme zur Manipulation von Informationen und zur Stärkung autoritärer Tendenzen missbraucht werden könnten, wenn keine effektiven Gegenmaßnahmen ergriffen werden. Dies unterstreicht die Notwendigkeit einer verantwortungsvollen Entwicklung und Regulierung von KI.",
           "einordnung": "",
-          "quelle": "Handelsblatt",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNkxIV3FUbmx0eWFYS2l0OE1kRHZxRWliVGRfUGZxQ0FDdi1VWUxuRjNBdFlrUmFXX3hwV3VrTnNINVZaVE1zc0RVak83RlNPYXZndE95bmNhTUdpRlBIWHR2UFQzNVFma2JRckl6dk4xakkzTzFZNGFEMloyR2cwaEZFUFpfNzhoSWlzdEtLTHZ4RWtZTW9yTWxzTEVFbTFqNldXdkZXNDRiX3UxaEZWaFNrUzUwN2xlbjMwUjVPbHZSd2d3a1Vj?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYUpVVGwwRXc3OHB2ZWtnbGZVQmt5TUZ1cnNSMFZiWnkweGlzN29pR1ZFUTFLVzhLSnJyTjV2Zkc3Y3JZVjdrNWQ1aGRIT1h6NzRzc0FPdTNhcGZnOF9jT05wYldkaFZQZXVEV21mQ3FoZ2ZKb3FVbXhTclNlOHNMeXFCaW9vUnViRzIxWndydUo2YVY4dlVVLUtiVFl6NnRKZVlZeXJpeVZZSmZwbDhCYi1TdEVOeVdfbHgySnVnNHpLeEZjQm15ZXc1cmlaRXFKcWFiZHU2V3BBWUJzalAwdVB1R3RreUhtMk5LYWN3aFdxbDE1?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Arbeitsmarkt: Künstliche Intelligenz verändert Bewerbungsverfahren im Job",
-          "zusammenfassung": "Künstliche Intelligenz revolutioniert zunehmend die Bewerbungsverfahren im Jobmarkt, von der automatisierten Vorauswahl bis hin zu KI-gestützten Interviews. Dies bietet Effizienzgewinne für Unternehmen, stellt aber auch neue Herausforderungen für Bewerber dar. Der Wandel erfordert Anpassungen bei der Jobsuche und -vermittlung.",
+          "titel": "ChatGPT plant Werbung mit privaten Chat-Infos: Datenschützer warnt vor Risiken",
+          "zusammenfassung": "NDR.de meldet, dass ChatGPT beabsichtigt, private Chat-Informationen für personalisierte Werbung zu nutzen, was bei Datenschützern große Bedenken hervorruft. Experten warnen vor erheblichen Risiken für die Privatsphäre der Nutzer und fordern strengere Schutzmaßnahmen. Diese Entwicklung könnte das Vertrauen in KI-Dienste weiter untergraben und die Debatte um Datennutzung und -schutz intensivieren.",
           "einordnung": "",
-          "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUU4YWtIUXJZTTQ1NG9GXzBoUDdOQzY4SG5yY0sySmZORVBlcEVRd0x1eURaclRieUU4MDhtX2xxazlncEZDQWkzXzR5aWUxbUlwejB2WGl1cEZlODRyR2FTdExHTm1Qak9wRkxPckN0WWhWdDRUWXFJaVBBbng3ZE5RNnBjT2hIWm16YmlGUERFWk1yeGwwdkpkaUx1UQ?oc=5",
-          "sterne": "⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "🚨",
-      "titel": "KI & Recht & Ethik",
-      "fest": false,
-      "artikel": [
+          "quelle": "NDR.de",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGEwUUFyS2xDSnY4VGhDS0VyY016UDJKdFllaVFVM3gtaWRRRkxWbEdOZ3VaZXQxbE1BRE95WkF5S0h0emNuVzZWd280OUd5cVotcG1ma3pUZXFTWGdEczJ4THF6bEdfNkhnSi1TOFE2RkhyeGtmc2RxQ0ZocHVuMDdxcHZ6eWhCTlIwc3U3RGx4Z2MxbDlMd3dwYlZONXYzUEdtMU9qNmdaSE1mOGpWUUc4enFXcVhEZ2JPLXZ3UQ?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
         {
           "titel": "OpenAI: Entwickler von ChatGPT warnt Mitarbeiter vor Sexfallen",
-          "zusammenfassung": "OpenAI hat seine Mitarbeiter vor potenziellen 'Sexfallen' gewarnt, die durch den Missbrauch von KI-Technologien entstehen könnten. Diese interne Warnung unterstreicht die ethischen Risiken und die Notwendigkeit verantwortungsvollen Umgangs mit generativer KI. Es zeigt die Herausforderungen, mit denen Unternehmen bei der Sicherstellung des ethischen Einsatzes ihrer Produkte konfrontiert sind.",
+          "zusammenfassung": "OpenAI hat seine Mitarbeiter intern vor sogenannten \"Sexfallen\" gewarnt, die durch KI-generierte Inhalte entstehen könnten. Der Spiegel berichtet, dass diese Warnung auf die potenziellen Risiken und den Missbrauch von KI-Technologien hinweist, selbst innerhalb des Unternehmens. Dies unterstreicht die fortlaufenden Herausforderungen bei der Gewährleistung ethischer und sicherer KI-Nutzung.",
           "einordnung": "",
           "quelle": "Spiegel",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYm9NalhCRzU2T3I0YXdnY1pLOGkyMUtkQkFwTkJwU3J6M0hWZzdzdGM3TXBFZ21DRXhhVTdHZnF0dEd6M1p0WGx4dk1veHNkQ0NPa1RyMWtvamlZaWFwU1Rwc1RjZF80UThja1AyT2ZMNXFKODNKR0sxZ2RUZkdqX1hmSmhYNnMzWU9YZlZQTGhmazZHcjdjTjNiVnJhWDJObjBURVR2bzgxbDR3VG9uR3VjSUFWT2dRbmpVR0NrUEw0YU1BZnV0eTVVMlF5U3RJNEg4?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Klage von acht Bundesstaaten gegen ChatGPT-Entwickler OpenAI",
-          "zusammenfassung": "Acht US-Bundesstaaten haben eine Klage gegen OpenAI, den Entwickler von ChatGPT, eingereicht. Die genauen Gründe der Klage sind noch nicht vollständig bekannt, dürften aber Datenschutzbedenken oder den Missbrauch von KI-Technologien betreffen. Dies markiert eine bedeutende rechtliche Herausforderung für eines der führenden KI-Unternehmen.",
+          "titel": "KI als Datenkrake: Gemini und Co. leiten Daten an die Werbeindustrie weiter",
+          "zusammenfassung": "Caschys Blog warnt davor, dass KI-Modelle wie Gemini Nutzerdaten an die Werbeindustrie weiterleiten, was erhebliche Datenschutzbedenken aufwirft. Diese Praxis könnte die Privatsphäre der Nutzer untergraben und die Diskussion über den verantwortungsvollen Umgang mit persönlichen Informationen durch große Tech-Konzerne neu entfachen. Es wird eine verstärkte Forderung nach Transparenz und Kontrolle laut.",
           "einordnung": "",
-          "quelle": "tagesschau.de",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoV2pFenJpemVBVk9Qd2tNMUpOUzZmZ2R6TlhIWXVINnBDaVdGMWlYajh2bDJTMG80QXAyTHoxZ2liWUJKM2V5eVl3ZGRjLThjd3lCN1pic2xrV0lRWFJkUGxpZ2RLSVJXd0N3MFRn?oc=5",
+          "quelle": "Caschys Blog",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUpxalJuZFVzNjk4d1lzbVBrd2lLaXliT0stTE5CTzRIekVxTDZlTkh0ZHVjUVJMSFRvTnZvTjJHcWFkbEVtZGFMMjBSb2VtYVJYb3Fja1VpenpEYldWblFCVjF3NEdRUms5ZnUwZHc0aUNIbzdQYzl3eFpxemYxa1A1MlN1RFpYUnZCRVZXUHNlVFN6dXRDOEZlMkNTSzdtYTVIZ2Rn?oc=5",
           "sterne": "⭐⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "titel": "KI & Anwendung & Alltag",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "KI als Modeberater: So kannst du mit ChatGPT Outfits anprobieren",
+          "zusammenfassung": "t3n zeigt auf, wie Nutzer ChatGPT als persönlichen Modeberater einsetzen können, um virtuelle Anproben von Outfits zu simulieren. Diese innovative Anwendung ermöglicht es, verschiedene Kleidungsstücke und Stile digital zu kombinieren und so neue Möglichkeiten im Bereich des Online-Shoppings und der Stilberatung zu erörtern. Es demonstriert das Potenzial von KI im Alltag.",
+          "einordnung": "",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rb3lZY2ZWX2lJeHA0dVI4X2kyWl9rTW9RdDF5dWdNVzg0WmhpazdhYW9kVUdudmdmRUZySFZxeDZzZ2lTQ0Z0TUN6STlLQlBZNVAyeGZBQWJrcllqZ09pQlI2RmFzZS1iTHBBa0thamVIOFJFdkRNQkNQSVd2UQ?oc=5",
+          "sterne": "⭐"
         },
         {
-          "titel": "Künstliche Intelligenz: Acht US-Bundesstaaten verklagen OpenAI",
-          "zusammenfassung": "OpenAI sieht sich einer Klage von acht US-Bundesstaaten gegenüber, was die zunehmende rechtliche Prüfung von KI-Entwicklern unterstreicht. Die Klage könnte weitreichende Präzedenzfälle für die Regulierung und Haftung im Bereich der Künstlichen Intelligenz schaffen. Dies ist ein klares Zeichen für die wachsende Besorgnis über die Auswirkungen von KI-Systemen.",
+          "titel": "KI verändert die Arbeit bei Anthropic: Warum jetzt vor allem Nachwuchskräfte das Nachsehen haben",
+          "zusammenfassung": "t3n beleuchtet, wie die Implementierung von KI-Technologien bei Anthropic selbst die Arbeitsweise verändert und insbesondere Nachwuchskräfte benachteiligt. Der Artikel beschreibt, dass bestimmte Aufgaben zunehmend von KI übernommen werden, was neue Anforderungen an die Mitarbeiterprofile stellt und eine Anpassung der Aus- und Weiterbildung notwendig macht. Dies spiegelt einen breiteren Trend in der Arbeitswelt wider.",
           "einordnung": "",
-          "quelle": "STERN.de",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQnRRRTVoS0ZpLUt3aG9hamFCZkRCT2VVanQ2UF85bHdqa0FtSldFNmhxeUVyWnYyYXY5S3pEdnVmRTRxOFQyMjA3R3IteHhuckRJQmpBQnJ1LTZsUWNVdTlocVhjZnhFT3pvcFdNcGxlR2ctQlcxd01wejN6TFk3YzhSUE5vdW5jMkxXRms4QTZMUFRZUFktai1fQ3g2a2ppcV9LSjVFVWZGZw?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3c4ZzF2TkRETmZERTJmTEhHSkk1SEViejlaS0FtbGQ5Vkc5UmhlempDRmdLZ3FsdGNpd1ZBR2VTcnkxaDd0WTNzbkN4TFQ3QTZBVUhWUkRrUkJBblJfZjJ5MG9zTk4xODNPUWE0V05KNnUtLWlxTF8wdHVQWjc2SG51TDYzalZCYmI3WGlNOUVKRkdLTmhuWllYeGlQSFZaRUpqNF9n?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Lokale KI als Schreibhilfe: LLMs in LibreOffice, Obsidian & Co. einsetzen",
+          "zusammenfassung": "heise online zeigt auf, wie Large Language Models (LLMs) lokal auf dem eigenen Rechner als Schreibhilfen in Anwendungen wie LibreOffice oder Obsidian genutzt werden können. Diese Methode bietet Vorteile in Bezug auf Datenschutz und Geschwindigkeit, da keine Daten an externe Server gesendet werden müssen. Es eröffnet neue Möglichkeiten für produktives Arbeiten mit KI.",
+          "einordnung": "",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFVLcHZjZTMySXVoVTJycFl5VTBHODEwSDdOVXVFc2ktX0VBS1lkTnZ5VG83dWItQm9ZNm1Ya3BmYzVxLXk2elRFU1JUTmtVdEZiZUZ6Ql9XdEU0SFc3Tl9yazZSaXpNdTdJd2lCbWNNeWt2X2NPSmRHQTFmbTZYZnZDTURveXVNZzBLa3ZCMU9mOFo5X2RZUUhUWmtzY2FHZzMtQnQ4WWVWbnczMEFEeEdfMUs?oc=5",
+          "sterne": "⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-10-16T10:15:36.655Z",
+  "generiert_um": "2026-10-18T10:01:11.105Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
       "desc": "Mo, Mi, Fr · mit The Decoder",
-      "episode": "KI-Update kompakt: OpenAI-Spionage, Zerstörung, Zulassung, KI-Replikation, Muse Wonder",
-      "datum": "14.10.2026",
-      "dauer": "22 Min.",
+      "episode": "KI-Update kompakt: Schwarzer Donnerstag, Neue Open-Weight-Modelle, Klagen gegen OpenAI",
+      "datum": "16.10.2026",
+      "dauer": "16 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/f1/22/9bf12286-42a8-2765-8a9d-91a07df6b535/mza_1407979254960059607.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp"
     },
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "KI-Würmer im Thermomix | Character.AI Pleite, KI-Steuer & Meta an der Frontier #605",
-      "datum": "13.10.2026",
-      "dauer": "93 Min.",
+      "episode": "Fliegende Autos, billige Wanzen und blutende Neoclouds #606",
+      "datum": "17.10.2026",
+      "dauer": "71 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
     {
       "name": "OMR Podcast",
       "desc": "Philipp Westermeyer · Tech & Business",
-      "episode": "Ihr Essay kennt sogar der Kanzler: Langdock-CEO Judith Dada (#949)",
-      "datum": "14.10.2026",
-      "dauer": "71 Min.",
+      "episode": "Eine Milliarde Euro Umsatz - sieben Jahre nach dem Abi? Freecash-Gründer Moritz Holländer (#950)",
+      "datum": "18.10.2026",
+      "dauer": "60 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH"
     },
