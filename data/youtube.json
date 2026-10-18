@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-10-17T11:30:52.626485+00:00",
+  "aktualisiert": "2026-10-18T12:00:10.151608+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Aios-Media",
+      "titel": "Claude dreht einen KI-Film mit Google Flow (komplett im Browser) 🐋",
+      "link": "https://www.youtube.com/watch?v=yTI0l8fEF0I",
+      "video_id": "yTI0l8fEF0I",
+      "thumbnail": "https://img.youtube.com/vi/yTI0l8fEF0I/mqdefault.jpg",
+      "datum": "2026-10-18T09:55:19Z",
+      "datum_de": "18.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Claude & KI Workflows | Reader Sentiment",
+      "titel": "Die meisten zahlen für die FALSCHE KI: ChatGPT vs Claude vs Gemini… 💀",
+      "link": "https://www.youtube.com/watch?v=XtNM_3Eco7A",
+      "video_id": "XtNM_3Eco7A",
+      "thumbnail": "https://img.youtube.com/vi/XtNM_3Eco7A/mqdefault.jpg",
+      "datum": "2026-10-18T09:00:11Z",
+      "datum_de": "18.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Gemini 4 Argon & Meta “Wonder”: DAS ändert sich wirklich! Reale Use Cases | KI-NEWS",
+      "link": "https://www.youtube.com/watch?v=iVxubkOM4gA",
+      "video_id": "iVxubkOM4gA",
+      "thumbnail": "https://img.youtube.com/vi/iVxubkOM4gA/mqdefault.jpg",
+      "datum": "2026-10-18T08:15:22+00:00",
+      "datum_de": "18.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KIwi – KI einfach erklärt",
+      "titel": "Claude Code Hooks Tutorial (Deutsch): .env schützen – Hook vs. Deny-Regel im Test",
+      "link": "https://www.youtube.com/watch?v=XXPDem6HYHo",
+      "video_id": "XXPDem6HYHo",
+      "thumbnail": "https://img.youtube.com/vi/XXPDem6HYHo/mqdefault.jpg",
+      "datum": "2026-10-17T17:38:32Z",
+      "datum_de": "17.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Morpheus Tutorials",
       "titel": "Google ist wieder vorne dabei - auch in meinen Tests?",
@@ -11,6 +51,16 @@
       "datum": "2026-10-17T09:14:19+00:00",
       "datum_de": "17.10.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Technik Sam",
+      "titel": "Besser als Claude Opus 5.5? - Gemini 4 Argon is da!",
+      "link": "https://www.youtube.com/watch?v=PgfCEq58KSE",
+      "video_id": "PgfCEq58KSE",
+      "thumbnail": "https://img.youtube.com/vi/PgfCEq58KSE/mqdefault.jpg",
+      "datum": "2026-10-16T18:28:38Z",
+      "datum_de": "16.10.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "AppX Patterns",
@@ -93,26 +143,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Christian Brandstötter",
-      "titel": "Claude Skills erstellen: Skill aufnehmen statt erklären (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=mVyTkCQHIPU",
-      "video_id": "mVyTkCQHIPU",
-      "thumbnail": "https://img.youtube.com/vi/mVyTkCQHIPU/mqdefault.jpg",
-      "datum": "2026-10-14T18:04:46Z",
-      "datum_de": "14.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "BerndErklärt",
-      "titel": "Gemini 4 Argon vs. Claude Opus 5.5: Hat Google ENDLICH gewonnen?!",
-      "link": "https://www.youtube.com/watch?v=tAJBUV14cCM",
-      "video_id": "tAJBUV14cCM",
-      "thumbnail": "https://img.youtube.com/vi/tAJBUV14cCM/mqdefault.jpg",
-      "datum": "2026-10-14T16:30:43Z",
-      "datum_de": "14.10.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Sascha Taschan",
       "titel": "Claude Code Mods: Das BESTE Update seit Claude Skills...",
       "link": "https://www.youtube.com/watch?v=8DEA41reipg",
@@ -121,36 +151,6 @@
       "datum": "2026-10-14T14:15:20+00:00",
       "datum_de": "14.10.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Gemini 4 Argon getestet: Die Wahrheit über Googles neues top Modell!",
-      "link": "https://www.youtube.com/watch?v=tWKun4YUDqw",
-      "video_id": "tWKun4YUDqw",
-      "thumbnail": "https://img.youtube.com/vi/tWKun4YUDqw/mqdefault.jpg",
-      "datum": "2026-10-14T12:09:38Z",
-      "datum_de": "14.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KIwi – KI einfach erklärt",
-      "titel": "MCP Server Deutsch: Claude Code MCP Server Setup unter Windows (Tutorial)",
-      "link": "https://www.youtube.com/watch?v=iB47fognJcM",
-      "video_id": "iB47fognJcM",
-      "thumbnail": "https://img.youtube.com/vi/iB47fognJcM/mqdefault.jpg",
-      "datum": "2026-10-14T06:31:20Z",
-      "datum_de": "14.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "AI Revolution auf Deutsch",
-      "titel": "Meta bringt Muse Wonder Full raus: schlägt GPT-6 Astra und Gemini 4 Argon",
-      "link": "https://www.youtube.com/watch?v=eDCd4UJParE",
-      "video_id": "eDCd4UJParE",
-      "thumbnail": "https://img.youtube.com/vi/eDCd4UJParE/mqdefault.jpg",
-      "datum": "2026-10-14T05:00:18Z",
-      "datum_de": "14.10.2026",
-      "quelle": "suche"
     }
   ]
 }
