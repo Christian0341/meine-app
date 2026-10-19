@@ -1,7 +1,67 @@
 {
-  "aktualisiert": "2026-10-18T12:00:10.151608+00:00",
+  "aktualisiert": "2026-10-19T14:31:55.503416+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Dare Solutions",
+      "titel": "Claude KI Tutorial auf Deutsch – alles Wichtige in 10 Minuten",
+      "link": "https://www.youtube.com/watch?v=QjCwY7t6ofM",
+      "video_id": "QjCwY7t6ofM",
+      "thumbnail": "https://img.youtube.com/vi/QjCwY7t6ofM/mqdefault.jpg",
+      "datum": "2026-10-19T12:58:11Z",
+      "datum_de": "19.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Google Gemini schlägt zurück - Gemini 4 Argon im Test",
+      "link": "https://www.youtube.com/watch?v=6LR1RgcWZ4k",
+      "video_id": "6LR1RgcWZ4k",
+      "thumbnail": "https://img.youtube.com/vi/6LR1RgcWZ4k/mqdefault.jpg",
+      "datum": "2026-10-19T12:00:34+00:00",
+      "datum_de": "19.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Tool-Kompass",
+      "titel": "ElevenLabs kostenlos nutzen 2026 – was gratis wirklich geht (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=KimreO6iS-0",
+      "video_id": "KimreO6iS-0",
+      "thumbnail": "https://img.youtube.com/vi/KimreO6iS-0/mqdefault.jpg",
+      "datum": "2026-10-19T04:00:39Z",
+      "datum_de": "19.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AI & Automation Ruhr",
+      "titel": "Völlig GRATIS KI-Agent fürs Coding | OpenCode mit 9 Modellen",
+      "link": "https://www.youtube.com/watch?v=ZWzX6iveaas",
+      "video_id": "ZWzX6iveaas",
+      "thumbnail": "https://img.youtube.com/vi/ZWzX6iveaas/mqdefault.jpg",
+      "datum": "2026-10-18T17:18:48Z",
+      "datum_de": "18.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Robo und Mia Kinderwelt",
+      "titel": "[DEUTSCH TRANSLATION] Claude Edited My Entire CapCut Video (I Didn’t Touch the Timeline)",
+      "link": "https://www.youtube.com/watch?v=fLHv_6b1WlY",
+      "video_id": "fLHv_6b1WlY",
+      "thumbnail": "https://img.youtube.com/vi/fLHv_6b1WlY/mqdefault.jpg",
+      "datum": "2026-10-18T16:19:39Z",
+      "datum_de": "18.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Hör auf, Automatisierungen zu bauen - Wenn du 2027 Geld verdienen willst",
+      "link": "https://www.youtube.com/watch?v=L73dsgpbt1s",
+      "video_id": "L73dsgpbt1s",
+      "thumbnail": "https://img.youtube.com/vi/L73dsgpbt1s/mqdefault.jpg",
+      "datum": "2026-10-18T14:15:18+00:00",
+      "datum_de": "18.10.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Aios-Media",
       "titel": "Claude dreht einen KI-Film mit Google Flow (komplett im Browser) 🐋",
@@ -13,18 +73,18 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Claude & KI Workflows | Reader Sentiment",
-      "titel": "Die meisten zahlen für die FALSCHE KI: ChatGPT vs Claude vs Gemini… 💀",
-      "link": "https://www.youtube.com/watch?v=XtNM_3Eco7A",
-      "video_id": "XtNM_3Eco7A",
-      "thumbnail": "https://img.youtube.com/vi/XtNM_3Eco7A/mqdefault.jpg",
-      "datum": "2026-10-18T09:00:11Z",
+      "kanal": "Kris • AI2ROI",
+      "titel": "ChatGPT Dots, Muse &amp; Grok Bot: Braucht es Claude Code noch?",
+      "link": "https://www.youtube.com/watch?v=HVEVOdVEKCk",
+      "video_id": "HVEVOdVEKCk",
+      "thumbnail": "https://img.youtube.com/vi/HVEVOdVEKCk/mqdefault.jpg",
+      "datum": "2026-10-18T08:29:32Z",
       "datum_de": "18.10.2026",
       "quelle": "suche"
     },
     {
       "kanal": "Everlast AI",
-      "titel": "Gemini 4 Argon & Meta “Wonder”: DAS ändert sich wirklich! Reale Use Cases | KI-NEWS",
+      "titel": "Krass: KI kopiert jetzt JEDE Software! Gemini 4 Argon & Meta Wonder im Praxistest | KI-NEWS",
       "link": "https://www.youtube.com/watch?v=iVxubkOM4gA",
       "video_id": "iVxubkOM4gA",
       "thumbnail": "https://img.youtube.com/vi/iVxubkOM4gA/mqdefault.jpg",
@@ -43,6 +103,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "NANCY | KI-Workflows im Büro",
+      "titel": "Gemini 4 Argon: Nutze es im Büro NICHT ohne diese 4 Schritte",
+      "link": "https://www.youtube.com/watch?v=wnEGeclAl3c",
+      "video_id": "wnEGeclAl3c",
+      "thumbnail": "https://img.youtube.com/vi/wnEGeclAl3c/mqdefault.jpg",
+      "datum": "2026-10-17T13:01:52Z",
+      "datum_de": "17.10.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Morpheus Tutorials",
       "titel": "Google ist wieder vorne dabei - auch in meinen Tests?",
       "link": "https://www.youtube.com/watch?v=HpaFZjRjBhQ",
@@ -51,6 +121,16 @@
       "datum": "2026-10-17T09:14:19+00:00",
       "datum_de": "17.10.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Leonard Schmedding",
+      "titel": "Vergiss alle KI-Tools: Lerne nur DIESE eine Fähigkeit",
+      "link": "https://www.youtube.com/watch?v=bCZpvkja20o",
+      "video_id": "bCZpvkja20o",
+      "thumbnail": "https://img.youtube.com/vi/bCZpvkja20o/mqdefault.jpg",
+      "datum": "2026-10-17T08:15:34Z",
+      "datum_de": "17.10.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Technik Sam",
@@ -71,86 +151,6 @@
       "datum": "2026-10-16T16:57:49Z",
       "datum_de": "16.10.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "codedeer ai",
-      "titel": "Claude 2026: Was du vergessen kannst – und was 2027 zählt",
-      "link": "https://www.youtube.com/watch?v=dEUBeKaLWn4",
-      "video_id": "dEUBeKaLWn4",
-      "thumbnail": "https://img.youtube.com/vi/dEUBeKaLWn4/mqdefault.jpg",
-      "datum": "2026-10-16T11:43:41Z",
-      "datum_de": "16.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Postext",
-      "titel": "Ein Postext-Buch mit einem KI-Agenten bearbeiten: Kapitel, Neuauflagen, Bearbeitungen – Tutorial 2",
-      "link": "https://www.youtube.com/watch?v=99zzoLocE6c",
-      "video_id": "99zzoLocE6c",
-      "thumbnail": "https://img.youtube.com/vi/99zzoLocE6c/mqdefault.jpg",
-      "datum": "2026-10-16T07:13:08Z",
-      "datum_de": "16.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Postext",
-      "titel": "Ihre Publikation mit einem KI-Agenten nach Postext überführen – Tutorial Schritt für Schritt",
-      "link": "https://www.youtube.com/watch?v=SofXfR-rEjM",
-      "video_id": "SofXfR-rEjM",
-      "thumbnail": "https://img.youtube.com/vi/SofXfR-rEjM/mqdefault.jpg",
-      "datum": "2026-10-16T07:12:40Z",
-      "datum_de": "16.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KIwi – KI einfach erklärt",
-      "titel": "Claude Code Remote Control Deutsch: Push aufs Handy + Notification Hook (Windows)",
-      "link": "https://www.youtube.com/watch?v=4iIA1DHJt2I",
-      "video_id": "4iIA1DHJt2I",
-      "thumbnail": "https://img.youtube.com/vi/4iIA1DHJt2I/mqdefault.jpg",
-      "datum": "2026-10-15T15:50:35Z",
-      "datum_de": "15.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Ex-China-Diplomat packt aus: Es ist LÄNGST vorbei! Das verschweigen sie dir (Dr. Wolfgang Röhr)",
-      "link": "https://www.youtube.com/watch?v=eUr9ZgrYhts",
-      "video_id": "eUr9ZgrYhts",
-      "thumbnail": "https://img.youtube.com/vi/eUr9ZgrYhts/mqdefault.jpg",
-      "datum": "2026-10-15T15:15:25+00:00",
-      "datum_de": "15.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "WPerfolg - KI & Online Marketing meistern",
-      "titel": "Das neue Gemini 4 Argon im Härtetest (Deutsch): Die ganze Wahrheit über Googles Top KI Modell",
-      "link": "https://www.youtube.com/watch?v=KHKMfDs5_Gc",
-      "video_id": "KHKMfDs5_Gc",
-      "thumbnail": "https://img.youtube.com/vi/KHKMfDs5_Gc/mqdefault.jpg",
-      "datum": "2026-10-14T18:23:12Z",
-      "datum_de": "14.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "MikesWorld",
-      "titel": "Google Gemini 4 ARGON ist DA🔥Schneller, günstiger und besser als Opus 5.5?!",
-      "link": "https://www.youtube.com/watch?v=YUTW4OkCXs0",
-      "video_id": "YUTW4OkCXs0",
-      "thumbnail": "https://img.youtube.com/vi/YUTW4OkCXs0/mqdefault.jpg",
-      "datum": "2026-10-14T18:15:15Z",
-      "datum_de": "14.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Claude Code Mods: Das BESTE Update seit Claude Skills...",
-      "link": "https://www.youtube.com/watch?v=8DEA41reipg",
-      "video_id": "8DEA41reipg",
-      "thumbnail": "https://img.youtube.com/vi/8DEA41reipg/mqdefault.jpg",
-      "datum": "2026-10-14T14:15:20+00:00",
-      "datum_de": "14.10.2026",
-      "quelle": "kanal"
     }
   ]
 }
