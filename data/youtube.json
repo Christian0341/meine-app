@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-10-19T14:31:55.503416+00:00",
+  "aktualisiert": "2026-10-20T12:38:28.784804+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Metics Media | Deutsch",
+      "titel": "Claude Code 24/7 auf einem VPS (Tutorial: KI-Agent im Dauerbetrieb)",
+      "link": "https://www.youtube.com/watch?v=WcUHEWRWlt4",
+      "video_id": "WcUHEWRWlt4",
+      "thumbnail": "https://img.youtube.com/vi/WcUHEWRWlt4/mqdefault.jpg",
+      "datum": "2026-10-19T16:30:23Z",
+      "datum_de": "19.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Felicia Simon",
+      "titel": "ChatGPT&amp; Canva Tutorial 🔥 so erstellst du in wenigen Minuten Designs &amp; Social Media Content",
+      "link": "https://www.youtube.com/watch?v=pyuoOJBeReg",
+      "video_id": "pyuoOJBeReg",
+      "thumbnail": "https://img.youtube.com/vi/pyuoOJBeReg/mqdefault.jpg",
+      "datum": "2026-10-19T14:41:17Z",
+      "datum_de": "19.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "CLAUDE kann jetzt ALLES? Projekte, Design, Skills & Code im Überblick!",
+      "link": "https://www.youtube.com/watch?v=v_USOf1fSYM",
+      "video_id": "v_USOf1fSYM",
+      "thumbnail": "https://img.youtube.com/vi/v_USOf1fSYM/mqdefault.jpg",
+      "datum": "2026-10-19T14:29:35+00:00",
+      "datum_de": "19.10.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Dare Solutions",
       "titel": "Claude KI Tutorial auf Deutsch – alles Wichtige in 10 Minuten",
@@ -30,6 +60,16 @@
       "thumbnail": "https://img.youtube.com/vi/KimreO6iS-0/mqdefault.jpg",
       "datum": "2026-10-19T04:00:39Z",
       "datum_de": "19.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Kontextkern",
+      "titel": "ChatGPT vs. Gemini vs. Claude: 5 Büroaufgaben, 5 Fallen!",
+      "link": "https://www.youtube.com/watch?v=U91VZHhBOVM",
+      "video_id": "U91VZHhBOVM",
+      "thumbnail": "https://img.youtube.com/vi/U91VZHhBOVM/mqdefault.jpg",
+      "datum": "2026-10-18T17:30:35Z",
+      "datum_de": "18.10.2026",
       "quelle": "suche"
     },
     {
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/wnEGeclAl3c/mqdefault.jpg",
       "datum": "2026-10-17T13:01:52Z",
       "datum_de": "17.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Google ist wieder vorne dabei - auch in meinen Tests?",
-      "link": "https://www.youtube.com/watch?v=HpaFZjRjBhQ",
-      "video_id": "HpaFZjRjBhQ",
-      "thumbnail": "https://img.youtube.com/vi/HpaFZjRjBhQ/mqdefault.jpg",
-      "datum": "2026-10-17T09:14:19+00:00",
-      "datum_de": "17.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Leonard Schmedding",
-      "titel": "Vergiss alle KI-Tools: Lerne nur DIESE eine Fähigkeit",
-      "link": "https://www.youtube.com/watch?v=bCZpvkja20o",
-      "video_id": "bCZpvkja20o",
-      "thumbnail": "https://img.youtube.com/vi/bCZpvkja20o/mqdefault.jpg",
-      "datum": "2026-10-17T08:15:34Z",
-      "datum_de": "17.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Technik Sam",
-      "titel": "Besser als Claude Opus 5.5? - Gemini 4 Argon is da!",
-      "link": "https://www.youtube.com/watch?v=PgfCEq58KSE",
-      "video_id": "PgfCEq58KSE",
-      "thumbnail": "https://img.youtube.com/vi/PgfCEq58KSE/mqdefault.jpg",
-      "datum": "2026-10-16T18:28:38Z",
-      "datum_de": "16.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "AppX Patterns",
-      "titel": "KI-Agenten einfach erklärt: Was ein Agent ist und was nicht",
-      "link": "https://www.youtube.com/watch?v=n49B30JWLwg",
-      "video_id": "n49B30JWLwg",
-      "thumbnail": "https://img.youtube.com/vi/n49B30JWLwg/mqdefault.jpg",
-      "datum": "2026-10-16T16:57:49Z",
-      "datum_de": "16.10.2026",
       "quelle": "suche"
     }
   ]
