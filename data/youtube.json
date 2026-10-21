@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-10-20T12:38:28.784804+00:00",
+  "aktualisiert": "2026-10-21T12:50:11.133332+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Robo und Mia Kinderwelt",
+      "titel": "[DEUTSCH TRANSLATION] Claude Edited My Entire CapCut Video (I Didn’t Touch the Timeline)",
+      "link": "https://www.youtube.com/watch?v=AK-OJxh62Q4",
+      "video_id": "AK-OJxh62Q4",
+      "thumbnail": "https://img.youtube.com/vi/AK-OJxh62Q4/mqdefault.jpg",
+      "datum": "2026-10-20T20:00:28Z",
+      "datum_de": "20.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Der Kampf um das Weltgehirn: Wer es baut, beherrscht die Welt | Alles auf eine Karte",
+      "link": "https://www.youtube.com/watch?v=rOo0wUpbVAY",
+      "video_id": "rOo0wUpbVAY",
+      "thumbnail": "https://img.youtube.com/vi/rOo0wUpbVAY/mqdefault.jpg",
+      "datum": "2026-10-20T15:15:31+00:00",
+      "datum_de": "20.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Botwerk",
+      "titel": "Claude Opus 5.5 vs. Gemini 4 Argon: Wer gewinnt?",
+      "link": "https://www.youtube.com/watch?v=YxmFvsKqf5Y",
+      "video_id": "YxmFvsKqf5Y",
+      "thumbnail": "https://img.youtube.com/vi/YxmFvsKqf5Y/mqdefault.jpg",
+      "datum": "2026-10-20T15:00:37Z",
+      "datum_de": "20.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Metics Media | Deutsch",
       "titel": "Claude Code 24/7 auf einem VPS (Tutorial: KI-Agent im Dauerbetrieb)",
@@ -83,12 +113,12 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Robo und Mia Kinderwelt",
-      "titel": "[DEUTSCH TRANSLATION] Claude Edited My Entire CapCut Video (I Didn’t Touch the Timeline)",
-      "link": "https://www.youtube.com/watch?v=fLHv_6b1WlY",
-      "video_id": "fLHv_6b1WlY",
-      "thumbnail": "https://img.youtube.com/vi/fLHv_6b1WlY/mqdefault.jpg",
-      "datum": "2026-10-18T16:19:39Z",
+      "kanal": "Unfairer Vorteil | KI",
+      "titel": "Prompts schreibt man jetzt anders… (Anthropic &amp; OpenAI haben die Regeln geändert)",
+      "link": "https://www.youtube.com/watch?v=hsfcxTWZLXk",
+      "video_id": "hsfcxTWZLXk",
+      "thumbnail": "https://img.youtube.com/vi/hsfcxTWZLXk/mqdefault.jpg",
+      "datum": "2026-10-18T14:44:12Z",
       "datum_de": "18.10.2026",
       "quelle": "suche"
     },
@@ -101,16 +131,6 @@
       "datum": "2026-10-18T14:15:18+00:00",
       "datum_de": "18.10.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Aios-Media",
-      "titel": "Claude dreht einen KI-Film mit Google Flow (komplett im Browser) 🐋",
-      "link": "https://www.youtube.com/watch?v=yTI0l8fEF0I",
-      "video_id": "yTI0l8fEF0I",
-      "thumbnail": "https://img.youtube.com/vi/yTI0l8fEF0I/mqdefault.jpg",
-      "datum": "2026-10-18T09:55:19Z",
-      "datum_de": "18.10.2026",
-      "quelle": "suche"
     },
     {
       "kanal": "Kris • AI2ROI",
@@ -131,26 +151,6 @@
       "datum": "2026-10-18T08:15:22+00:00",
       "datum_de": "18.10.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "KIwi – KI einfach erklärt",
-      "titel": "Claude Code Hooks Tutorial (Deutsch): .env schützen – Hook vs. Deny-Regel im Test",
-      "link": "https://www.youtube.com/watch?v=XXPDem6HYHo",
-      "video_id": "XXPDem6HYHo",
-      "thumbnail": "https://img.youtube.com/vi/XXPDem6HYHo/mqdefault.jpg",
-      "datum": "2026-10-17T17:38:32Z",
-      "datum_de": "17.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "NANCY | KI-Workflows im Büro",
-      "titel": "Gemini 4 Argon: Nutze es im Büro NICHT ohne diese 4 Schritte",
-      "link": "https://www.youtube.com/watch?v=wnEGeclAl3c",
-      "video_id": "wnEGeclAl3c",
-      "thumbnail": "https://img.youtube.com/vi/wnEGeclAl3c/mqdefault.jpg",
-      "datum": "2026-10-17T13:01:52Z",
-      "datum_de": "17.10.2026",
-      "quelle": "suche"
     }
   ]
 }
