@@ -1,10 +1,40 @@
 {
-  "aktualisiert": "2026-10-21T12:50:11.133332+00:00",
+  "aktualisiert": "2026-10-22T12:52:47.483541+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
-      "kanal": "Robo und Mia Kinderwelt",
-      "titel": "[DEUTSCH TRANSLATION] Claude Edited My Entire CapCut Video (I Didn’t Touch the Timeline)",
+      "kanal": "Akademie4KI",
+      "titel": "Du promptest Claude falsch – 7 Regeln für bessere Ergebnisse",
+      "link": "https://www.youtube.com/watch?v=LjnhkjLZiC4",
+      "video_id": "LjnhkjLZiC4",
+      "thumbnail": "https://img.youtube.com/vi/LjnhkjLZiC4/mqdefault.jpg",
+      "datum": "2026-10-22T12:00:00+00:00",
+      "datum_de": "22.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "tkay",
+      "titel": "Claude Code + TikTok Shop = 89.142,48€ in 30 Tagen",
+      "link": "https://www.youtube.com/watch?v=vjsMhcTAQCw",
+      "video_id": "vjsMhcTAQCw",
+      "thumbnail": "https://img.youtube.com/vi/vjsMhcTAQCw/mqdefault.jpg",
+      "datum": "2026-10-21T16:00:13Z",
+      "datum_de": "21.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Das Ende von Software: Alles ist jetzt kopierbar mit diesem Skill",
+      "link": "https://www.youtube.com/watch?v=Iaq7P340DJU",
+      "video_id": "Iaq7P340DJU",
+      "thumbnail": "https://img.youtube.com/vi/Iaq7P340DJU/mqdefault.jpg",
+      "datum": "2026-10-21T14:15:29+00:00",
+      "datum_de": "21.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "MattLoui",
+      "titel": "[DEUTSCH] Claude Edited My Entire CapCut Video (I Didn’t Touch the Timeline)",
       "link": "https://www.youtube.com/watch?v=AK-OJxh62Q4",
       "video_id": "AK-OJxh62Q4",
       "thumbnail": "https://img.youtube.com/vi/AK-OJxh62Q4/mqdefault.jpg",
@@ -113,42 +143,12 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Unfairer Vorteil | KI",
-      "titel": "Prompts schreibt man jetzt anders… (Anthropic &amp; OpenAI haben die Regeln geändert)",
-      "link": "https://www.youtube.com/watch?v=hsfcxTWZLXk",
-      "video_id": "hsfcxTWZLXk",
-      "thumbnail": "https://img.youtube.com/vi/hsfcxTWZLXk/mqdefault.jpg",
-      "datum": "2026-10-18T14:44:12Z",
-      "datum_de": "18.10.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Sascha Taschan",
       "titel": "Hör auf, Automatisierungen zu bauen - Wenn du 2027 Geld verdienen willst",
       "link": "https://www.youtube.com/watch?v=L73dsgpbt1s",
       "video_id": "L73dsgpbt1s",
       "thumbnail": "https://img.youtube.com/vi/L73dsgpbt1s/mqdefault.jpg",
       "datum": "2026-10-18T14:15:18+00:00",
-      "datum_de": "18.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Kris • AI2ROI",
-      "titel": "ChatGPT Dots, Muse &amp; Grok Bot: Braucht es Claude Code noch?",
-      "link": "https://www.youtube.com/watch?v=HVEVOdVEKCk",
-      "video_id": "HVEVOdVEKCk",
-      "thumbnail": "https://img.youtube.com/vi/HVEVOdVEKCk/mqdefault.jpg",
-      "datum": "2026-10-18T08:29:32Z",
-      "datum_de": "18.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Krass: KI kopiert jetzt JEDE Software! Gemini 4 Argon & Meta Wonder im Praxistest | KI-NEWS",
-      "link": "https://www.youtube.com/watch?v=iVxubkOM4gA",
-      "video_id": "iVxubkOM4gA",
-      "thumbnail": "https://img.youtube.com/vi/iVxubkOM4gA/mqdefault.jpg",
-      "datum": "2026-10-18T08:15:22+00:00",
       "datum_de": "18.10.2026",
       "quelle": "kanal"
     }
