@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-10-22T12:52:47.483541+00:00",
+  "aktualisiert": "2026-10-23T12:31:48.121975+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Wir unterschätzen KI-AGENTEN! Was sie bald übernehmen könnten | Dr. Rasmus Rothe",
+      "link": "https://www.youtube.com/watch?v=r8-Omuj6H1U",
+      "video_id": "r8-Omuj6H1U",
+      "thumbnail": "https://img.youtube.com/vi/r8-Omuj6H1U/mqdefault.jpg",
+      "datum": "2026-10-23T10:00:21+00:00",
+      "datum_de": "23.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Ja, es ist wirklich so schlimm",
+      "link": "https://www.youtube.com/watch?v=GijbJyuR9DM",
+      "video_id": "GijbJyuR9DM",
+      "thumbnail": "https://img.youtube.com/vi/GijbJyuR9DM/mqdefault.jpg",
+      "datum": "2026-10-23T00:06:53+00:00",
+      "datum_de": "23.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI ist NICHTS zu dem, was bald kommt! Quantengehirne, Licht-Chips & Superintelligenz - Klaus Mainzer",
+      "link": "https://www.youtube.com/watch?v=UhFBCIOcCJY",
+      "video_id": "UhFBCIOcCJY",
+      "thumbnail": "https://img.youtube.com/vi/UhFBCIOcCJY/mqdefault.jpg",
+      "datum": "2026-10-22T15:15:12+00:00",
+      "datum_de": "22.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "HEINER.Academy - Ihr Partner für  KI-Workshops",
+      "titel": "YouTube-Videos mit KI erstellen: Claude Code baut meine Folgen (Komplettanleitung)",
+      "link": "https://www.youtube.com/watch?v=AtKvq7Imw_k",
+      "video_id": "AtKvq7Imw_k",
+      "thumbnail": "https://img.youtube.com/vi/AtKvq7Imw_k/mqdefault.jpg",
+      "datum": "2026-10-22T14:45:28Z",
+      "datum_de": "22.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Arthur Stempel",
+      "titel": "Ich habe Claude gefragt mir einen KI Influencer zu bauen (macht mir 500€/Tag)",
+      "link": "https://www.youtube.com/watch?v=Q1LgJgkHNpo",
+      "video_id": "Q1LgJgkHNpo",
+      "thumbnail": "https://img.youtube.com/vi/Q1LgJgkHNpo/mqdefault.jpg",
+      "datum": "2026-10-22T13:30:08Z",
+      "datum_de": "22.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Akademie4KI",
       "titel": "Du promptest Claude falsch – 7 Regeln für bessere Ergebnisse",
@@ -11,6 +61,16 @@
       "datum": "2026-10-22T12:00:00+00:00",
       "datum_de": "22.10.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "codedeer ai",
+      "titel": "Claude Update: Warum Fable abgeschaltet wurde – und was jetzt kostenlos ist",
+      "link": "https://www.youtube.com/watch?v=VjDKPryt8Ew",
+      "video_id": "VjDKPryt8Ew",
+      "thumbnail": "https://img.youtube.com/vi/VjDKPryt8Ew/mqdefault.jpg",
+      "datum": "2026-10-22T10:06:41Z",
+      "datum_de": "22.10.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "tkay",
@@ -24,7 +84,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Das Ende von Software: Alles ist jetzt kopierbar mit diesem Skill",
+      "titel": "Das Ende von Software: Alles ist jetzt kopierbar mit REA und Claude",
       "link": "https://www.youtube.com/watch?v=Iaq7P340DJU",
       "video_id": "Iaq7P340DJU",
       "thumbnail": "https://img.youtube.com/vi/Iaq7P340DJU/mqdefault.jpg",
@@ -90,66 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/v_USOf1fSYM/mqdefault.jpg",
       "datum": "2026-10-19T14:29:35+00:00",
       "datum_de": "19.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Dare Solutions",
-      "titel": "Claude KI Tutorial auf Deutsch – alles Wichtige in 10 Minuten",
-      "link": "https://www.youtube.com/watch?v=QjCwY7t6ofM",
-      "video_id": "QjCwY7t6ofM",
-      "thumbnail": "https://img.youtube.com/vi/QjCwY7t6ofM/mqdefault.jpg",
-      "datum": "2026-10-19T12:58:11Z",
-      "datum_de": "19.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Google Gemini schlägt zurück - Gemini 4 Argon im Test",
-      "link": "https://www.youtube.com/watch?v=6LR1RgcWZ4k",
-      "video_id": "6LR1RgcWZ4k",
-      "thumbnail": "https://img.youtube.com/vi/6LR1RgcWZ4k/mqdefault.jpg",
-      "datum": "2026-10-19T12:00:34+00:00",
-      "datum_de": "19.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Tool-Kompass",
-      "titel": "ElevenLabs kostenlos nutzen 2026 – was gratis wirklich geht (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=KimreO6iS-0",
-      "video_id": "KimreO6iS-0",
-      "thumbnail": "https://img.youtube.com/vi/KimreO6iS-0/mqdefault.jpg",
-      "datum": "2026-10-19T04:00:39Z",
-      "datum_de": "19.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Kontextkern",
-      "titel": "ChatGPT vs. Gemini vs. Claude: 5 Büroaufgaben, 5 Fallen!",
-      "link": "https://www.youtube.com/watch?v=U91VZHhBOVM",
-      "video_id": "U91VZHhBOVM",
-      "thumbnail": "https://img.youtube.com/vi/U91VZHhBOVM/mqdefault.jpg",
-      "datum": "2026-10-18T17:30:35Z",
-      "datum_de": "18.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "AI & Automation Ruhr",
-      "titel": "Völlig GRATIS KI-Agent fürs Coding | OpenCode mit 9 Modellen",
-      "link": "https://www.youtube.com/watch?v=ZWzX6iveaas",
-      "video_id": "ZWzX6iveaas",
-      "thumbnail": "https://img.youtube.com/vi/ZWzX6iveaas/mqdefault.jpg",
-      "datum": "2026-10-18T17:18:48Z",
-      "datum_de": "18.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Hör auf, Automatisierungen zu bauen - Wenn du 2027 Geld verdienen willst",
-      "link": "https://www.youtube.com/watch?v=L73dsgpbt1s",
-      "video_id": "L73dsgpbt1s",
-      "thumbnail": "https://img.youtube.com/vi/L73dsgpbt1s/mqdefault.jpg",
-      "datum": "2026-10-18T14:15:18+00:00",
-      "datum_de": "18.10.2026",
       "quelle": "kanal"
     }
   ]
