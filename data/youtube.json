@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-10-23T12:31:48.121975+00:00",
+  "aktualisiert": "2026-10-24T11:55:33.018686+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Gleiches Modell und völlig unbrauchbar?!",
+      "link": "https://www.youtube.com/watch?v=P0kZQHdYnZs",
+      "video_id": "P0kZQHdYnZs",
+      "thumbnail": "https://img.youtube.com/vi/P0kZQHdYnZs/mqdefault.jpg",
+      "datum": "2026-10-23T18:00:30+00:00",
+      "datum_de": "23.10.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "Wir unterschätzen KI-AGENTEN! Was sie bald übernehmen könnten | Dr. Rasmus Rothe",
@@ -31,6 +41,16 @@
       "datum": "2026-10-22T15:15:12+00:00",
       "datum_de": "22.10.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "Claude Duet ist da! Fibo 2.0 kostenlos getestet, Drama 3 | KI News",
+      "link": "https://www.youtube.com/watch?v=6bR0rXcrw9U",
+      "video_id": "6bR0rXcrw9U",
+      "thumbnail": "https://img.youtube.com/vi/6bR0rXcrw9U/mqdefault.jpg",
+      "datum": "2026-10-22T15:02:14Z",
+      "datum_de": "22.10.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "HEINER.Academy - Ihr Partner für  KI-Workshops",
@@ -73,16 +93,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "tkay",
-      "titel": "Claude Code + TikTok Shop = 89.142,48€ in 30 Tagen",
-      "link": "https://www.youtube.com/watch?v=vjsMhcTAQCw",
-      "video_id": "vjsMhcTAQCw",
-      "thumbnail": "https://img.youtube.com/vi/vjsMhcTAQCw/mqdefault.jpg",
-      "datum": "2026-10-21T16:00:13Z",
-      "datum_de": "21.10.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Sascha Taschan",
       "titel": "Das Ende von Software: Alles ist jetzt kopierbar mit REA und Claude",
       "link": "https://www.youtube.com/watch?v=Iaq7P340DJU",
@@ -91,16 +101,6 @@
       "datum": "2026-10-21T14:15:29+00:00",
       "datum_de": "21.10.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "MattLoui",
-      "titel": "[DEUTSCH] Claude Edited My Entire CapCut Video (I Didn’t Touch the Timeline)",
-      "link": "https://www.youtube.com/watch?v=AK-OJxh62Q4",
-      "video_id": "AK-OJxh62Q4",
-      "thumbnail": "https://img.youtube.com/vi/AK-OJxh62Q4/mqdefault.jpg",
-      "datum": "2026-10-20T20:00:28Z",
-      "datum_de": "20.10.2026",
-      "quelle": "suche"
     },
     {
       "kanal": "Everlast AI",
