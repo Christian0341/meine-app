@@ -1,7 +1,67 @@
 {
-  "aktualisiert": "2026-10-24T11:55:33.018686+00:00",
+  "aktualisiert": "2026-10-25T12:27:11.795247+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "Es ist übel: Der “Schwarze Oktober” hat begonnen! DAS muss jetzt jeder wissen | KI-NEWS",
+      "link": "https://www.youtube.com/watch?v=ByySHWCtDRg",
+      "video_id": "ByySHWCtDRg",
+      "thumbnail": "https://img.youtube.com/vi/ByySHWCtDRg/mqdefault.jpg",
+      "datum": "2026-10-25T10:03:26+00:00",
+      "datum_de": "25.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Gleiches Modell, fast 4x so lange - CLI Vergleich",
+      "link": "https://www.youtube.com/watch?v=e_4YEmG9KyU",
+      "video_id": "e_4YEmG9KyU",
+      "thumbnail": "https://img.youtube.com/vi/e_4YEmG9KyU/mqdefault.jpg",
+      "datum": "2026-10-25T09:00:24+00:00",
+      "datum_de": "25.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "FBI Andy",
+      "titel": "KI-Agent bauen: Schritt-für-Schritt-Anleitung (2026)",
+      "link": "https://www.youtube.com/watch?v=dOcyhJjpAYo",
+      "video_id": "dOcyhJjpAYo",
+      "thumbnail": "https://img.youtube.com/vi/dOcyhJjpAYo/mqdefault.jpg",
+      "datum": "2026-10-24T16:02:11Z",
+      "datum_de": "24.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AiErfolg - KI & Online Marketing meistern",
+      "titel": "Der neue Weg mit ChatGPT Bilder zu erstellen (2026): Geheimcodes, Tricks, Templates, Werkzeuge...",
+      "link": "https://www.youtube.com/watch?v=n8_6U0qSvfI",
+      "video_id": "n8_6U0qSvfI",
+      "thumbnail": "https://img.youtube.com/vi/n8_6U0qSvfI/mqdefault.jpg",
+      "datum": "2026-10-24T12:25:34Z",
+      "datum_de": "24.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Calvin Hollywood (AI)",
+      "titel": "Claude Code für Anfänger: Dein Einstieg ohne Terminal (Schritt für Schritt)",
+      "link": "https://www.youtube.com/watch?v=gIvftHxmO8w",
+      "video_id": "gIvftHxmO8w",
+      "thumbnail": "https://img.youtube.com/vi/gIvftHxmO8w/mqdefault.jpg",
+      "datum": "2026-10-24T09:03:48Z",
+      "datum_de": "24.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AI mit Arnie",
+      "titel": "Claude hat meinen Fernseher wie neu gemacht",
+      "link": "https://www.youtube.com/watch?v=MM3Y2NKoUxY",
+      "video_id": "MM3Y2NKoUxY",
+      "thumbnail": "https://img.youtube.com/vi/MM3Y2NKoUxY/mqdefault.jpg",
+      "datum": "2026-10-23T20:50:31Z",
+      "datum_de": "23.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Morpheus Tutorials",
       "titel": "Gleiches Modell und völlig unbrauchbar?!",
@@ -11,6 +71,16 @@
       "datum": "2026-10-23T18:00:30+00:00",
       "datum_de": "23.10.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "codedeer ai",
+      "titel": "Claude Memory erklärt (Gedächtnis): So merkt sich Claude, wer du bist",
+      "link": "https://www.youtube.com/watch?v=zxZ6PWIbusA",
+      "video_id": "zxZ6PWIbusA",
+      "thumbnail": "https://img.youtube.com/vi/zxZ6PWIbusA/mqdefault.jpg",
+      "datum": "2026-10-23T11:22:30Z",
+      "datum_de": "23.10.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Christoph Magnussen",
@@ -31,6 +101,16 @@
       "datum": "2026-10-23T00:06:53+00:00",
       "datum_de": "23.10.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Mia AI Now",
+      "titel": "1,200 OpenAI Agents Met on a Message Board. Then 700 Attacked Hugging Face",
+      "link": "https://www.youtube.com/watch?v=I3ATZbnwIrc",
+      "video_id": "I3ATZbnwIrc",
+      "thumbnail": "https://img.youtube.com/vi/I3ATZbnwIrc/mqdefault.jpg",
+      "datum": "2026-10-23T00:00:25Z",
+      "datum_de": "23.10.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Everlast AI",
@@ -63,16 +143,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Arthur Stempel",
-      "titel": "Ich habe Claude gefragt mir einen KI Influencer zu bauen (macht mir 500€/Tag)",
-      "link": "https://www.youtube.com/watch?v=Q1LgJgkHNpo",
-      "video_id": "Q1LgJgkHNpo",
-      "thumbnail": "https://img.youtube.com/vi/Q1LgJgkHNpo/mqdefault.jpg",
-      "datum": "2026-10-22T13:30:08Z",
-      "datum_de": "22.10.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Akademie4KI",
       "titel": "Du promptest Claude falsch – 7 Regeln für bessere Ergebnisse",
       "link": "https://www.youtube.com/watch?v=LjnhkjLZiC4",
@@ -80,76 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/LjnhkjLZiC4/mqdefault.jpg",
       "datum": "2026-10-22T12:00:00+00:00",
       "datum_de": "22.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "codedeer ai",
-      "titel": "Claude Update: Warum Fable abgeschaltet wurde – und was jetzt kostenlos ist",
-      "link": "https://www.youtube.com/watch?v=VjDKPryt8Ew",
-      "video_id": "VjDKPryt8Ew",
-      "thumbnail": "https://img.youtube.com/vi/VjDKPryt8Ew/mqdefault.jpg",
-      "datum": "2026-10-22T10:06:41Z",
-      "datum_de": "22.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Das Ende von Software: Alles ist jetzt kopierbar mit REA und Claude",
-      "link": "https://www.youtube.com/watch?v=Iaq7P340DJU",
-      "video_id": "Iaq7P340DJU",
-      "thumbnail": "https://img.youtube.com/vi/Iaq7P340DJU/mqdefault.jpg",
-      "datum": "2026-10-21T14:15:29+00:00",
-      "datum_de": "21.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Der Kampf um das Weltgehirn: Wer es baut, beherrscht die Welt | Alles auf eine Karte",
-      "link": "https://www.youtube.com/watch?v=rOo0wUpbVAY",
-      "video_id": "rOo0wUpbVAY",
-      "thumbnail": "https://img.youtube.com/vi/rOo0wUpbVAY/mqdefault.jpg",
-      "datum": "2026-10-20T15:15:31+00:00",
-      "datum_de": "20.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Botwerk",
-      "titel": "Claude Opus 5.5 vs. Gemini 4 Argon: Wer gewinnt?",
-      "link": "https://www.youtube.com/watch?v=YxmFvsKqf5Y",
-      "video_id": "YxmFvsKqf5Y",
-      "thumbnail": "https://img.youtube.com/vi/YxmFvsKqf5Y/mqdefault.jpg",
-      "datum": "2026-10-20T15:00:37Z",
-      "datum_de": "20.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Metics Media | Deutsch",
-      "titel": "Claude Code 24/7 auf einem VPS (Tutorial: KI-Agent im Dauerbetrieb)",
-      "link": "https://www.youtube.com/watch?v=WcUHEWRWlt4",
-      "video_id": "WcUHEWRWlt4",
-      "thumbnail": "https://img.youtube.com/vi/WcUHEWRWlt4/mqdefault.jpg",
-      "datum": "2026-10-19T16:30:23Z",
-      "datum_de": "19.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Felicia Simon",
-      "titel": "ChatGPT&amp; Canva Tutorial 🔥 so erstellst du in wenigen Minuten Designs &amp; Social Media Content",
-      "link": "https://www.youtube.com/watch?v=pyuoOJBeReg",
-      "video_id": "pyuoOJBeReg",
-      "thumbnail": "https://img.youtube.com/vi/pyuoOJBeReg/mqdefault.jpg",
-      "datum": "2026-10-19T14:41:17Z",
-      "datum_de": "19.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "CLAUDE kann jetzt ALLES? Projekte, Design, Skills & Code im Überblick!",
-      "link": "https://www.youtube.com/watch?v=v_USOf1fSYM",
-      "video_id": "v_USOf1fSYM",
-      "thumbnail": "https://img.youtube.com/vi/v_USOf1fSYM/mqdefault.jpg",
-      "datum": "2026-10-19T14:29:35+00:00",
-      "datum_de": "19.10.2026",
       "quelle": "kanal"
     }
   ]
