@@ -1,7 +1,77 @@
 {
-  "aktualisiert": "2026-10-25T12:27:11.795247+00:00",
+  "aktualisiert": "2026-10-26T14:04:46.133041+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Shopify mit Tjark und Ole",
+      "titel": "So erstellst und betreibst du deinen Shopify Store mit Claude (Anfänger Tutorial Deutsch)",
+      "link": "https://www.youtube.com/watch?v=MbXPD2FeCj8",
+      "video_id": "MbXPD2FeCj8",
+      "thumbnail": "https://img.youtube.com/vi/MbXPD2FeCj8/mqdefault.jpg",
+      "datum": "2026-10-26T11:46:12Z",
+      "datum_de": "26.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "aurel.widmaier",
+      "titel": "Claude bedient meinen kostenlosen Video-Editor mit nur einem Prompt (completely free)",
+      "link": "https://www.youtube.com/watch?v=M3fcNIaXszs",
+      "video_id": "M3fcNIaXszs",
+      "thumbnail": "https://img.youtube.com/vi/M3fcNIaXszs/mqdefault.jpg",
+      "datum": "2026-10-26T08:59:26Z",
+      "datum_de": "26.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Tool-Kompass",
+      "titel": "KI-Hörbuch erstellen – was es wirklich kostet (ElevenLabs Hörbuch Tutorial Deutsch)",
+      "link": "https://www.youtube.com/watch?v=XlgQf7jLP_c",
+      "video_id": "XlgQf7jLP_c",
+      "thumbnail": "https://img.youtube.com/vi/XlgQf7jLP_c/mqdefault.jpg",
+      "datum": "2026-10-26T05:00:06Z",
+      "datum_de": "26.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "5 KI-Hacks für die Top 2 % ⚡",
+      "link": "https://www.youtube.com/shorts/1Org59XGj00",
+      "video_id": "1Org59XGj00",
+      "thumbnail": "https://img.youtube.com/vi/1Org59XGj00/mqdefault.jpg",
+      "datum": "2026-10-25T16:01:31+00:00",
+      "datum_de": "25.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Bildschirmschlau",
+      "titel": "ChatGPT Tutorial Deutsch für Anfänger 2026 – kostenlos in 7 Minuten",
+      "link": "https://www.youtube.com/watch?v=7wvALliQYrw",
+      "video_id": "7wvALliQYrw",
+      "thumbnail": "https://img.youtube.com/vi/7wvALliQYrw/mqdefault.jpg",
+      "datum": "2026-10-25T15:00:06Z",
+      "datum_de": "25.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "100 Stunden Personal Agents Wissen in 17 Minuten",
+      "link": "https://www.youtube.com/watch?v=eqGX6g9J5QE",
+      "video_id": "eqGX6g9J5QE",
+      "thumbnail": "https://img.youtube.com/vi/eqGX6g9J5QE/mqdefault.jpg",
+      "datum": "2026-10-25T14:15:07+00:00",
+      "datum_de": "25.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Cinetiq - AI Video & Marketing",
+      "titel": "Kling 4.0 kann jetzt deutsche SYNCHRO! OpenSource Voice-Tool greift ElevenLabs an (KI-Video-News)",
+      "link": "https://www.youtube.com/watch?v=--9ZTpDQfNw",
+      "video_id": "--9ZTpDQfNw",
+      "thumbnail": "https://img.youtube.com/vi/--9ZTpDQfNw/mqdefault.jpg",
+      "datum": "2026-10-25T13:00:27Z",
+      "datum_de": "25.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "Es ist übel: Der “Schwarze Oktober” hat begonnen! DAS muss jetzt jeder wissen | KI-NEWS",
@@ -14,13 +84,43 @@
     },
     {
       "kanal": "Morpheus Tutorials",
-      "titel": "Gleiches Modell, fast 4x so lange - CLI Vergleich",
+      "titel": "Gleiches Modell, fast 4x so lange",
       "link": "https://www.youtube.com/watch?v=e_4YEmG9KyU",
       "video_id": "e_4YEmG9KyU",
       "thumbnail": "https://img.youtube.com/vi/e_4YEmG9KyU/mqdefault.jpg",
       "datum": "2026-10-25T09:00:24+00:00",
       "datum_de": "25.10.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "BrainyRP",
+      "titel": "🤖 Claude Code + SolidCraft – Installation &amp; Befehle",
+      "link": "https://www.youtube.com/watch?v=HUWE7GagsDs",
+      "video_id": "HUWE7GagsDs",
+      "thumbnail": "https://img.youtube.com/vi/HUWE7GagsDs/mqdefault.jpg",
+      "datum": "2026-10-25T09:00:01Z",
+      "datum_de": "25.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "The Node AI | AI Automation",
+      "titel": "Claude Duet - dein 24 / 7 Agent von Anthropic Revolution oder Evolution?",
+      "link": "https://www.youtube.com/watch?v=OA78mdyHL64",
+      "video_id": "OA78mdyHL64",
+      "thumbnail": "https://img.youtube.com/vi/OA78mdyHL64/mqdefault.jpg",
+      "datum": "2026-10-24T20:14:11Z",
+      "datum_de": "24.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "talla83",
+      "titel": "KI für SolidCraft: GPT, Claude &amp; Co. über OpenRouter nutzen",
+      "link": "https://www.youtube.com/watch?v=xJqRxLgsHz8",
+      "video_id": "xJqRxLgsHz8",
+      "thumbnail": "https://img.youtube.com/vi/xJqRxLgsHz8/mqdefault.jpg",
+      "datum": "2026-10-24T16:19:56Z",
+      "datum_de": "24.10.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "FBI Andy",
@@ -51,106 +151,6 @@
       "datum": "2026-10-24T09:03:48Z",
       "datum_de": "24.10.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "AI mit Arnie",
-      "titel": "Claude hat meinen Fernseher wie neu gemacht",
-      "link": "https://www.youtube.com/watch?v=MM3Y2NKoUxY",
-      "video_id": "MM3Y2NKoUxY",
-      "thumbnail": "https://img.youtube.com/vi/MM3Y2NKoUxY/mqdefault.jpg",
-      "datum": "2026-10-23T20:50:31Z",
-      "datum_de": "23.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Gleiches Modell und völlig unbrauchbar?!",
-      "link": "https://www.youtube.com/watch?v=P0kZQHdYnZs",
-      "video_id": "P0kZQHdYnZs",
-      "thumbnail": "https://img.youtube.com/vi/P0kZQHdYnZs/mqdefault.jpg",
-      "datum": "2026-10-23T18:00:30+00:00",
-      "datum_de": "23.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "codedeer ai",
-      "titel": "Claude Memory erklärt (Gedächtnis): So merkt sich Claude, wer du bist",
-      "link": "https://www.youtube.com/watch?v=zxZ6PWIbusA",
-      "video_id": "zxZ6PWIbusA",
-      "thumbnail": "https://img.youtube.com/vi/zxZ6PWIbusA/mqdefault.jpg",
-      "datum": "2026-10-23T11:22:30Z",
-      "datum_de": "23.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Wir unterschätzen KI-AGENTEN! Was sie bald übernehmen könnten | Dr. Rasmus Rothe",
-      "link": "https://www.youtube.com/watch?v=r8-Omuj6H1U",
-      "video_id": "r8-Omuj6H1U",
-      "thumbnail": "https://img.youtube.com/vi/r8-Omuj6H1U/mqdefault.jpg",
-      "datum": "2026-10-23T10:00:21+00:00",
-      "datum_de": "23.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Ja, es ist wirklich so schlimm",
-      "link": "https://www.youtube.com/watch?v=GijbJyuR9DM",
-      "video_id": "GijbJyuR9DM",
-      "thumbnail": "https://img.youtube.com/vi/GijbJyuR9DM/mqdefault.jpg",
-      "datum": "2026-10-23T00:06:53+00:00",
-      "datum_de": "23.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Mia AI Now",
-      "titel": "1,200 OpenAI Agents Met on a Message Board. Then 700 Attacked Hugging Face",
-      "link": "https://www.youtube.com/watch?v=I3ATZbnwIrc",
-      "video_id": "I3ATZbnwIrc",
-      "thumbnail": "https://img.youtube.com/vi/I3ATZbnwIrc/mqdefault.jpg",
-      "datum": "2026-10-23T00:00:25Z",
-      "datum_de": "23.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "KI ist NICHTS zu dem, was bald kommt! Quantengehirne, Licht-Chips & Superintelligenz - Klaus Mainzer",
-      "link": "https://www.youtube.com/watch?v=UhFBCIOcCJY",
-      "video_id": "UhFBCIOcCJY",
-      "thumbnail": "https://img.youtube.com/vi/UhFBCIOcCJY/mqdefault.jpg",
-      "datum": "2026-10-22T15:15:12+00:00",
-      "datum_de": "22.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Claude Duet ist da! Fibo 2.0 kostenlos getestet, Drama 3 | KI News",
-      "link": "https://www.youtube.com/watch?v=6bR0rXcrw9U",
-      "video_id": "6bR0rXcrw9U",
-      "thumbnail": "https://img.youtube.com/vi/6bR0rXcrw9U/mqdefault.jpg",
-      "datum": "2026-10-22T15:02:14Z",
-      "datum_de": "22.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "HEINER.Academy - Ihr Partner für  KI-Workshops",
-      "titel": "YouTube-Videos mit KI erstellen: Claude Code baut meine Folgen (Komplettanleitung)",
-      "link": "https://www.youtube.com/watch?v=AtKvq7Imw_k",
-      "video_id": "AtKvq7Imw_k",
-      "thumbnail": "https://img.youtube.com/vi/AtKvq7Imw_k/mqdefault.jpg",
-      "datum": "2026-10-22T14:45:28Z",
-      "datum_de": "22.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Du promptest Claude falsch – 7 Regeln für bessere Ergebnisse",
-      "link": "https://www.youtube.com/watch?v=LjnhkjLZiC4",
-      "video_id": "LjnhkjLZiC4",
-      "thumbnail": "https://img.youtube.com/vi/LjnhkjLZiC4/mqdefault.jpg",
-      "datum": "2026-10-22T12:00:00+00:00",
-      "datum_de": "22.10.2026",
-      "quelle": "kanal"
     }
   ]
 }
