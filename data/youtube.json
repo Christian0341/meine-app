@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-10-26T14:04:46.133041+00:00",
+  "aktualisiert": "2026-10-27T13:05:34.857190+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Tinus Klauser",
+      "titel": "KI-TikTok-Videos erstellen mit Claude Code (7 Schritte)",
+      "link": "https://www.youtube.com/watch?v=unLzowVKEiQ",
+      "video_id": "unLzowVKEiQ",
+      "thumbnail": "https://img.youtube.com/vi/unLzowVKEiQ/mqdefault.jpg",
+      "datum": "2026-10-26T18:00:20Z",
+      "datum_de": "26.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Du nutzt KI falsch? Meine Tricks & Tipps für Claude, ChatGPT & Co.",
+      "link": "https://www.youtube.com/watch?v=lFPiqnMcWK0",
+      "video_id": "lFPiqnMcWK0",
+      "thumbnail": "https://img.youtube.com/vi/lFPiqnMcWK0/mqdefault.jpg",
+      "datum": "2026-10-26T17:36:54+00:00",
+      "datum_de": "26.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "codedeer ai",
+      "titel": "Lohnt sich Claude Pro? Gratis-KI gegen Bezahl-KI im Test",
+      "link": "https://www.youtube.com/watch?v=el2ZUbOQVN0",
+      "video_id": "el2ZUbOQVN0",
+      "thumbnail": "https://img.youtube.com/vi/el2ZUbOQVN0/mqdefault.jpg",
+      "datum": "2026-10-26T16:25:18Z",
+      "datum_de": "26.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Shopify mit Tjark und Ole",
       "titel": "So erstellst und betreibst du deinen Shopify Store mit Claude (Anfänger Tutorial Deutsch)",
@@ -14,7 +44,7 @@
     },
     {
       "kanal": "aurel.widmaier",
-      "titel": "Claude bedient meinen kostenlosen Video-Editor mit nur einem Prompt (completely free)",
+      "titel": "Claude Schneidet Meine Videos In VX Studio (Von Raw Footage Zum Fertigen Video Kostenlos)",
       "link": "https://www.youtube.com/watch?v=M3fcNIaXszs",
       "video_id": "M3fcNIaXszs",
       "thumbnail": "https://img.youtube.com/vi/M3fcNIaXszs/mqdefault.jpg",
@@ -44,7 +74,7 @@
     },
     {
       "kanal": "Bildschirmschlau",
-      "titel": "ChatGPT Tutorial Deutsch für Anfänger 2026 – kostenlos in 7 Minuten",
+      "titel": "ChatGPT für Anfänger: in 7 Minuten startklar (kostenlos, 2026)",
       "link": "https://www.youtube.com/watch?v=7wvALliQYrw",
       "video_id": "7wvALliQYrw",
       "thumbnail": "https://img.youtube.com/vi/7wvALliQYrw/mqdefault.jpg",
@@ -103,26 +133,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "The Node AI | AI Automation",
-      "titel": "Claude Duet - dein 24 / 7 Agent von Anthropic Revolution oder Evolution?",
-      "link": "https://www.youtube.com/watch?v=OA78mdyHL64",
-      "video_id": "OA78mdyHL64",
-      "thumbnail": "https://img.youtube.com/vi/OA78mdyHL64/mqdefault.jpg",
-      "datum": "2026-10-24T20:14:11Z",
-      "datum_de": "24.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "talla83",
-      "titel": "KI für SolidCraft: GPT, Claude &amp; Co. über OpenRouter nutzen",
-      "link": "https://www.youtube.com/watch?v=xJqRxLgsHz8",
-      "video_id": "xJqRxLgsHz8",
-      "thumbnail": "https://img.youtube.com/vi/xJqRxLgsHz8/mqdefault.jpg",
-      "datum": "2026-10-24T16:19:56Z",
-      "datum_de": "24.10.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "FBI Andy",
       "titel": "KI-Agent bauen: Schritt-für-Schritt-Anleitung (2026)",
       "link": "https://www.youtube.com/watch?v=dOcyhJjpAYo",
@@ -139,16 +149,6 @@
       "video_id": "n8_6U0qSvfI",
       "thumbnail": "https://img.youtube.com/vi/n8_6U0qSvfI/mqdefault.jpg",
       "datum": "2026-10-24T12:25:34Z",
-      "datum_de": "24.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Calvin Hollywood (AI)",
-      "titel": "Claude Code für Anfänger: Dein Einstieg ohne Terminal (Schritt für Schritt)",
-      "link": "https://www.youtube.com/watch?v=gIvftHxmO8w",
-      "video_id": "gIvftHxmO8w",
-      "thumbnail": "https://img.youtube.com/vi/gIvftHxmO8w/mqdefault.jpg",
-      "datum": "2026-10-24T09:03:48Z",
       "datum_de": "24.10.2026",
       "quelle": "suche"
     }
