@@ -1,7 +1,97 @@
 {
-  "aktualisiert": "2026-10-27T13:05:34.857190+00:00",
+  "aktualisiert": "2026-10-28T13:55:56.215549+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "ToolVibes",
+      "titel": "n8n Tutorial (Deutsch): KI-Workflows und die DSGVO",
+      "link": "https://www.youtube.com/watch?v=jijNOHuYgFQ",
+      "video_id": "jijNOHuYgFQ",
+      "thumbnail": "https://img.youtube.com/vi/jijNOHuYgFQ/mqdefault.jpg",
+      "datum": "2026-10-28T10:57:45Z",
+      "datum_de": "28.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Kimi K3.1 Pro ist jetzt also auf Opus-Niveau?",
+      "link": "https://www.youtube.com/watch?v=a4-NQn1XVpY",
+      "video_id": "a4-NQn1XVpY",
+      "thumbnail": "https://img.youtube.com/vi/a4-NQn1XVpY/mqdefault.jpg",
+      "datum": "2026-10-28T10:01:08+00:00",
+      "datum_de": "28.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "AiErfolg - KI & Online Marketing meistern",
+      "titel": "CHATGPT hat sich für IMMER VERÄNDERT: Die neue Intelligent UI einfach erklärt (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=J6bSKTYeoVs",
+      "video_id": "J6bSKTYeoVs",
+      "thumbnail": "https://img.youtube.com/vi/J6bSKTYeoVs/mqdefault.jpg",
+      "datum": "2026-10-28T08:00:14Z",
+      "datum_de": "28.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "André – Neustart mit KI",
+      "titel": "n8n Tutorial Deutsch: Schedule + API + IF-Node – mein erster echter Workflow",
+      "link": "https://www.youtube.com/watch?v=o4lkT8_WZps",
+      "video_id": "o4lkT8_WZps",
+      "thumbnail": "https://img.youtube.com/vi/o4lkT8_WZps/mqdefault.jpg",
+      "datum": "2026-10-27T21:08:34Z",
+      "datum_de": "27.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Björn Sydow - TeachSmarter",
+      "titel": "Unterricht mit KI planen: Der Zauberlehrling mit Claude",
+      "link": "https://www.youtube.com/watch?v=Yj2eVZ4nFpk",
+      "video_id": "Yj2eVZ4nFpk",
+      "thumbnail": "https://img.youtube.com/vi/Yj2eVZ4nFpk/mqdefault.jpg",
+      "datum": "2026-10-27T20:05:58Z",
+      "datum_de": "27.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ToolVibes",
+      "titel": "n8n Tutorial (Deutsch): Verlässliche Antworten vom KI-Chatbot - Folge 9",
+      "link": "https://www.youtube.com/watch?v=HIIIbqsjcec",
+      "video_id": "HIIIbqsjcec",
+      "thumbnail": "https://img.youtube.com/vi/HIIIbqsjcec/mqdefault.jpg",
+      "datum": "2026-10-27T17:27:02Z",
+      "datum_de": "27.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ToolVibes",
+      "titel": "n8n Tutorial (Deutsch): Dokumente dauerhaft speichern mit Qdrant - Folge 6",
+      "link": "https://www.youtube.com/watch?v=Fgkvo_7Jj5w",
+      "video_id": "Fgkvo_7Jj5w",
+      "thumbnail": "https://img.youtube.com/vi/Fgkvo_7Jj5w/mqdefault.jpg",
+      "datum": "2026-10-27T17:26:53Z",
+      "datum_de": "27.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ToolVibes",
+      "titel": "n8n Tutorial (Deutsch): RAG: KI-Agent mit eigenen Dokumenten - Folge 5",
+      "link": "https://www.youtube.com/watch?v=610VvGIzoKs",
+      "video_id": "610VvGIzoKs",
+      "thumbnail": "https://img.youtube.com/vi/610VvGIzoKs/mqdefault.jpg",
+      "datum": "2026-10-27T17:26:50Z",
+      "datum_de": "27.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Massiver Durchbruch: Automatisiere ALLES mit KI-Telefonagenten in 2027! MEGA-KURS",
+      "link": "https://www.youtube.com/watch?v=uQWyn-jkah4",
+      "video_id": "uQWyn-jkah4",
+      "thumbnail": "https://img.youtube.com/vi/uQWyn-jkah4/mqdefault.jpg",
+      "datum": "2026-10-27T16:32:52+00:00",
+      "datum_de": "27.10.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Tinus Klauser",
       "titel": "KI-TikTok-Videos erstellen mit Claude Code (7 Schritte)",
@@ -60,96 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/XlgQf7jLP_c/mqdefault.jpg",
       "datum": "2026-10-26T05:00:06Z",
       "datum_de": "26.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "5 KI-Hacks für die Top 2 % ⚡",
-      "link": "https://www.youtube.com/shorts/1Org59XGj00",
-      "video_id": "1Org59XGj00",
-      "thumbnail": "https://img.youtube.com/vi/1Org59XGj00/mqdefault.jpg",
-      "datum": "2026-10-25T16:01:31+00:00",
-      "datum_de": "25.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Bildschirmschlau",
-      "titel": "ChatGPT für Anfänger: in 7 Minuten startklar (kostenlos, 2026)",
-      "link": "https://www.youtube.com/watch?v=7wvALliQYrw",
-      "video_id": "7wvALliQYrw",
-      "thumbnail": "https://img.youtube.com/vi/7wvALliQYrw/mqdefault.jpg",
-      "datum": "2026-10-25T15:00:06Z",
-      "datum_de": "25.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "100 Stunden Personal Agents Wissen in 17 Minuten",
-      "link": "https://www.youtube.com/watch?v=eqGX6g9J5QE",
-      "video_id": "eqGX6g9J5QE",
-      "thumbnail": "https://img.youtube.com/vi/eqGX6g9J5QE/mqdefault.jpg",
-      "datum": "2026-10-25T14:15:07+00:00",
-      "datum_de": "25.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Cinetiq - AI Video & Marketing",
-      "titel": "Kling 4.0 kann jetzt deutsche SYNCHRO! OpenSource Voice-Tool greift ElevenLabs an (KI-Video-News)",
-      "link": "https://www.youtube.com/watch?v=--9ZTpDQfNw",
-      "video_id": "--9ZTpDQfNw",
-      "thumbnail": "https://img.youtube.com/vi/--9ZTpDQfNw/mqdefault.jpg",
-      "datum": "2026-10-25T13:00:27Z",
-      "datum_de": "25.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Es ist übel: Der “Schwarze Oktober” hat begonnen! DAS muss jetzt jeder wissen | KI-NEWS",
-      "link": "https://www.youtube.com/watch?v=ByySHWCtDRg",
-      "video_id": "ByySHWCtDRg",
-      "thumbnail": "https://img.youtube.com/vi/ByySHWCtDRg/mqdefault.jpg",
-      "datum": "2026-10-25T10:03:26+00:00",
-      "datum_de": "25.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Gleiches Modell, fast 4x so lange",
-      "link": "https://www.youtube.com/watch?v=e_4YEmG9KyU",
-      "video_id": "e_4YEmG9KyU",
-      "thumbnail": "https://img.youtube.com/vi/e_4YEmG9KyU/mqdefault.jpg",
-      "datum": "2026-10-25T09:00:24+00:00",
-      "datum_de": "25.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "BrainyRP",
-      "titel": "🤖 Claude Code + SolidCraft – Installation &amp; Befehle",
-      "link": "https://www.youtube.com/watch?v=HUWE7GagsDs",
-      "video_id": "HUWE7GagsDs",
-      "thumbnail": "https://img.youtube.com/vi/HUWE7GagsDs/mqdefault.jpg",
-      "datum": "2026-10-25T09:00:01Z",
-      "datum_de": "25.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "FBI Andy",
-      "titel": "KI-Agent bauen: Schritt-für-Schritt-Anleitung (2026)",
-      "link": "https://www.youtube.com/watch?v=dOcyhJjpAYo",
-      "video_id": "dOcyhJjpAYo",
-      "thumbnail": "https://img.youtube.com/vi/dOcyhJjpAYo/mqdefault.jpg",
-      "datum": "2026-10-24T16:02:11Z",
-      "datum_de": "24.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "AiErfolg - KI & Online Marketing meistern",
-      "titel": "Der neue Weg mit ChatGPT Bilder zu erstellen (2026): Geheimcodes, Tricks, Templates, Werkzeuge...",
-      "link": "https://www.youtube.com/watch?v=n8_6U0qSvfI",
-      "video_id": "n8_6U0qSvfI",
-      "thumbnail": "https://img.youtube.com/vi/n8_6U0qSvfI/mqdefault.jpg",
-      "datum": "2026-10-24T12:25:34Z",
-      "datum_de": "24.10.2026",
       "quelle": "suche"
     }
   ]
