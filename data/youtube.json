@@ -1,7 +1,87 @@
 {
-  "aktualisiert": "2026-10-28T13:55:56.215549+00:00",
+  "aktualisiert": "2026-10-29T14:03:04.157383+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Was können diese Exoten-Agents?",
+      "link": "https://www.youtube.com/watch?v=D294CcGtUKU",
+      "video_id": "D294CcGtUKU",
+      "thumbnail": "https://img.youtube.com/vi/D294CcGtUKU/mqdefault.jpg",
+      "datum": "2026-10-29T09:00:26+00:00",
+      "datum_de": "29.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "ToolVibes",
+      "titel": "n8n Tutorial (Deutsch): KI schreibt, Mensch gibt frei",
+      "link": "https://www.youtube.com/watch?v=cYAzX3MSEfo",
+      "video_id": "cYAzX3MSEfo",
+      "thumbnail": "https://img.youtube.com/vi/cYAzX3MSEfo/mqdefault.jpg",
+      "datum": "2026-10-29T04:17:06Z",
+      "datum_de": "29.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ToolVibes",
+      "titel": "n8n Tutorial (Deutsch): Daten aus Text ziehen mit KI",
+      "link": "https://www.youtube.com/watch?v=bBDntDzgvGs",
+      "video_id": "bBDntDzgvGs",
+      "thumbnail": "https://img.youtube.com/vi/bBDntDzgvGs/mqdefault.jpg",
+      "datum": "2026-10-29T04:15:51Z",
+      "datum_de": "29.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ToolVibes",
+      "titel": "n8n Tutorial (Deutsch): Texte mit KI sortieren",
+      "link": "https://www.youtube.com/watch?v=LZoC4oPEHpo",
+      "video_id": "LZoC4oPEHpo",
+      "thumbnail": "https://img.youtube.com/vi/LZoC4oPEHpo/mqdefault.jpg",
+      "datum": "2026-10-29T04:15:30Z",
+      "datum_de": "29.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KIwi – KI einfach erklärt",
+      "titel": "OpenCode 2 + Ollama Tutorial Deutsch: Lokal &amp; kostenlos coden – richtig einrichten",
+      "link": "https://www.youtube.com/watch?v=oHAWhsXNQGg",
+      "video_id": "oHAWhsXNQGg",
+      "thumbnail": "https://img.youtube.com/vi/oHAWhsXNQGg/mqdefault.jpg",
+      "datum": "2026-10-28T20:26:37Z",
+      "datum_de": "28.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "KI-Modelle von OpenAI jetzt bei Google ☁️",
+      "link": "https://www.youtube.com/shorts/hd1dJC4yaf8",
+      "video_id": "hd1dJC4yaf8",
+      "thumbnail": "https://img.youtube.com/vi/hd1dJC4yaf8/mqdefault.jpg",
+      "datum": "2026-10-28T18:02:44+00:00",
+      "datum_de": "28.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Was, wenn KI einfach klappt? 🚀",
+      "link": "https://www.youtube.com/shorts/u7dekm9coMY",
+      "video_id": "u7dekm9coMY",
+      "thumbnail": "https://img.youtube.com/vi/u7dekm9coMY/mqdefault.jpg",
+      "datum": "2026-10-28T14:27:33+00:00",
+      "datum_de": "28.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Ich habe Claude gebeten mir eine Kreativagentur zu bauen - Mit dem Ziel 10k Umsatz",
+      "link": "https://www.youtube.com/watch?v=3EO46ENxcbA",
+      "video_id": "3EO46ENxcbA",
+      "thumbnail": "https://img.youtube.com/vi/3EO46ENxcbA/mqdefault.jpg",
+      "datum": "2026-10-28T14:15:08+00:00",
+      "datum_de": "28.10.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "ToolVibes",
       "titel": "n8n Tutorial (Deutsch): KI-Workflows und die DSGVO",
@@ -70,86 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/Fgkvo_7Jj5w/mqdefault.jpg",
       "datum": "2026-10-27T17:26:53Z",
       "datum_de": "27.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ToolVibes",
-      "titel": "n8n Tutorial (Deutsch): RAG: KI-Agent mit eigenen Dokumenten - Folge 5",
-      "link": "https://www.youtube.com/watch?v=610VvGIzoKs",
-      "video_id": "610VvGIzoKs",
-      "thumbnail": "https://img.youtube.com/vi/610VvGIzoKs/mqdefault.jpg",
-      "datum": "2026-10-27T17:26:50Z",
-      "datum_de": "27.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Massiver Durchbruch: Automatisiere ALLES mit KI-Telefonagenten in 2027! MEGA-KURS",
-      "link": "https://www.youtube.com/watch?v=uQWyn-jkah4",
-      "video_id": "uQWyn-jkah4",
-      "thumbnail": "https://img.youtube.com/vi/uQWyn-jkah4/mqdefault.jpg",
-      "datum": "2026-10-27T16:32:52+00:00",
-      "datum_de": "27.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Tinus Klauser",
-      "titel": "KI-TikTok-Videos erstellen mit Claude Code (7 Schritte)",
-      "link": "https://www.youtube.com/watch?v=unLzowVKEiQ",
-      "video_id": "unLzowVKEiQ",
-      "thumbnail": "https://img.youtube.com/vi/unLzowVKEiQ/mqdefault.jpg",
-      "datum": "2026-10-26T18:00:20Z",
-      "datum_de": "26.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Du nutzt KI falsch? Meine Tricks & Tipps für Claude, ChatGPT & Co.",
-      "link": "https://www.youtube.com/watch?v=lFPiqnMcWK0",
-      "video_id": "lFPiqnMcWK0",
-      "thumbnail": "https://img.youtube.com/vi/lFPiqnMcWK0/mqdefault.jpg",
-      "datum": "2026-10-26T17:36:54+00:00",
-      "datum_de": "26.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "codedeer ai",
-      "titel": "Lohnt sich Claude Pro? Gratis-KI gegen Bezahl-KI im Test",
-      "link": "https://www.youtube.com/watch?v=el2ZUbOQVN0",
-      "video_id": "el2ZUbOQVN0",
-      "thumbnail": "https://img.youtube.com/vi/el2ZUbOQVN0/mqdefault.jpg",
-      "datum": "2026-10-26T16:25:18Z",
-      "datum_de": "26.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Shopify mit Tjark und Ole",
-      "titel": "So erstellst und betreibst du deinen Shopify Store mit Claude (Anfänger Tutorial Deutsch)",
-      "link": "https://www.youtube.com/watch?v=MbXPD2FeCj8",
-      "video_id": "MbXPD2FeCj8",
-      "thumbnail": "https://img.youtube.com/vi/MbXPD2FeCj8/mqdefault.jpg",
-      "datum": "2026-10-26T11:46:12Z",
-      "datum_de": "26.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "aurel.widmaier",
-      "titel": "Claude Schneidet Meine Videos In VX Studio (Von Raw Footage Zum Fertigen Video Kostenlos)",
-      "link": "https://www.youtube.com/watch?v=M3fcNIaXszs",
-      "video_id": "M3fcNIaXszs",
-      "thumbnail": "https://img.youtube.com/vi/M3fcNIaXszs/mqdefault.jpg",
-      "datum": "2026-10-26T08:59:26Z",
-      "datum_de": "26.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Tool-Kompass",
-      "titel": "KI-Hörbuch erstellen – was es wirklich kostet (ElevenLabs Hörbuch Tutorial Deutsch)",
-      "link": "https://www.youtube.com/watch?v=XlgQf7jLP_c",
-      "video_id": "XlgQf7jLP_c",
-      "thumbnail": "https://img.youtube.com/vi/XlgQf7jLP_c/mqdefault.jpg",
-      "datum": "2026-10-26T05:00:06Z",
-      "datum_de": "26.10.2026",
       "quelle": "suche"
     }
   ]
