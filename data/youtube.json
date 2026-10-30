@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-10-29T14:03:04.157383+00:00",
+  "aktualisiert": "2026-10-30T13:56:49.891004+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Automation oder KI-Agent? Der Unterschied 🤖",
+      "link": "https://www.youtube.com/shorts/z6eoHfYrKes",
+      "video_id": "z6eoHfYrKes",
+      "thumbnail": "https://img.youtube.com/vi/z6eoHfYrKes/mqdefault.jpg",
+      "datum": "2026-10-30T08:54:37+00:00",
+      "datum_de": "30.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Sprich mit deiner KI statt zu tippen 🎙️",
+      "link": "https://www.youtube.com/shorts/k_TfFY09USM",
+      "video_id": "k_TfFY09USM",
+      "thumbnail": "https://img.youtube.com/vi/k_TfFY09USM/mqdefault.jpg",
+      "datum": "2026-10-29T21:28:40+00:00",
+      "datum_de": "29.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "Gemini 4 Carbon ist da! Darum übernimmt Google jetzt die Spitze!",
+      "link": "https://www.youtube.com/watch?v=pFkAbTkX0_0",
+      "video_id": "pFkAbTkX0_0",
+      "thumbnail": "https://img.youtube.com/vi/pFkAbTkX0_0/mqdefault.jpg",
+      "datum": "2026-10-29T16:15:40Z",
+      "datum_de": "29.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "IT-Unternehmer: “Die Uhr für SAP TICKT!” KI kopiert jetzt JEDE Software (Emanuel Böminghaus)",
+      "link": "https://www.youtube.com/watch?v=sR6-DFgA6Cc",
+      "video_id": "sR6-DFgA6Cc",
+      "thumbnail": "https://img.youtube.com/vi/sR6-DFgA6Cc/mqdefault.jpg",
+      "datum": "2026-10-29T16:15:27+00:00",
+      "datum_de": "29.10.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Jonas Keil",
+      "titel": "Claude kann jetzt unglaubliche Videos machen! (so geht’s)",
+      "link": "https://www.youtube.com/watch?v=53WPjzkt59s",
+      "video_id": "53WPjzkt59s",
+      "thumbnail": "https://img.youtube.com/vi/53WPjzkt59s/mqdefault.jpg",
+      "datum": "2026-10-29T15:47:25Z",
+      "datum_de": "29.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Morpheus Tutorials",
       "titel": "Was können diese Exoten-Agents?",
@@ -101,56 +151,6 @@
       "datum": "2026-10-28T10:01:08+00:00",
       "datum_de": "28.10.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "AiErfolg - KI & Online Marketing meistern",
-      "titel": "CHATGPT hat sich für IMMER VERÄNDERT: Die neue Intelligent UI einfach erklärt (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=J6bSKTYeoVs",
-      "video_id": "J6bSKTYeoVs",
-      "thumbnail": "https://img.youtube.com/vi/J6bSKTYeoVs/mqdefault.jpg",
-      "datum": "2026-10-28T08:00:14Z",
-      "datum_de": "28.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "André – Neustart mit KI",
-      "titel": "n8n Tutorial Deutsch: Schedule + API + IF-Node – mein erster echter Workflow",
-      "link": "https://www.youtube.com/watch?v=o4lkT8_WZps",
-      "video_id": "o4lkT8_WZps",
-      "thumbnail": "https://img.youtube.com/vi/o4lkT8_WZps/mqdefault.jpg",
-      "datum": "2026-10-27T21:08:34Z",
-      "datum_de": "27.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Björn Sydow - TeachSmarter",
-      "titel": "Unterricht mit KI planen: Der Zauberlehrling mit Claude",
-      "link": "https://www.youtube.com/watch?v=Yj2eVZ4nFpk",
-      "video_id": "Yj2eVZ4nFpk",
-      "thumbnail": "https://img.youtube.com/vi/Yj2eVZ4nFpk/mqdefault.jpg",
-      "datum": "2026-10-27T20:05:58Z",
-      "datum_de": "27.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ToolVibes",
-      "titel": "n8n Tutorial (Deutsch): Verlässliche Antworten vom KI-Chatbot - Folge 9",
-      "link": "https://www.youtube.com/watch?v=HIIIbqsjcec",
-      "video_id": "HIIIbqsjcec",
-      "thumbnail": "https://img.youtube.com/vi/HIIIbqsjcec/mqdefault.jpg",
-      "datum": "2026-10-27T17:27:02Z",
-      "datum_de": "27.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ToolVibes",
-      "titel": "n8n Tutorial (Deutsch): Dokumente dauerhaft speichern mit Qdrant - Folge 6",
-      "link": "https://www.youtube.com/watch?v=Fgkvo_7Jj5w",
-      "video_id": "Fgkvo_7Jj5w",
-      "thumbnail": "https://img.youtube.com/vi/Fgkvo_7Jj5w/mqdefault.jpg",
-      "datum": "2026-10-27T17:26:53Z",
-      "datum_de": "27.10.2026",
-      "quelle": "suche"
     }
   ]
 }
