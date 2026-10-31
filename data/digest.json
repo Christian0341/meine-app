@@ -1,7 +1,7 @@
 {
-  "datum": "Freitag, 30. Oktober 2026",
-  "datumISO": "2026-10-30",
-  "tagesthema": "Der KI-Markt erlebt intensive Konkurrenz und neue Anwendungen, während ethische und regulatorische Fragen, von Datenschutz bis Haftung, zunehmend in den Fokus rücken.",
+  "datum": "Samstag, 31. Oktober 2026",
+  "datumISO": "2026-10-31",
+  "tagesthema": "KI-Giganten im Fokus: Finanzielle Herausforderungen, Produktinnovationen und ethische Debatten prägen die KI-Landschaft.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -10,26 +10,34 @@
       "artikel": [
         {
           "titel": "OpenAI verdoppelt ChatGPT-Nutzungslimits für Pro-Tarife und Business Premium",
-          "zusammenfassung": "OpenAI hat die Nutzungslimits für seine ChatGPT Pro-Tarife und Business Premium-Abonnements verdoppelt, um den gestiegenen Anforderungen professioneller Nutzer gerecht zu werden. Diese Anpassung ermöglicht es Unternehmen und Power-Usern, intensiver mit dem Modell zu interagieren und komplexere Aufgaben zu bewältigen. Die Maßnahme zielt darauf ab, die Attraktivität der Premium-Angebote zu steigern und die Kundenbindung zu fördern.",
+          "zusammenfassung": "OpenAI hat die Nutzungslimits für seine ChatGPT Pro-Tarife und Business Premium-Angebote verdoppelt. Diese Maßnahme zielt darauf ab, die Attraktivität der kostenpflichtigen Abonnements zu erhöhen und den Nutzern mehr Flexibilität zu bieten. Die Anpassung könnte auch ein Zeichen dafür sein, dass die Infrastruktur von OpenAI effizienter geworden ist und höhere Lasten bewältigen kann.",
           "einordnung": "",
           "quelle": "The Decoder",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3NpWEpaSG14LVNzOXUwbVZJMmtDcFNDYnZXNGRtT0dPdkVDejZvRVNmRThyVFFKQUdWMlNSSV85TDhQYnJzLWRiZlRKY1NuOVpYdjE4X211WWtCVEFsRndGSHZPQUROUGh2ckgwRHdzVUQzd2FpbkYwSUZCRjlKYU1XOWlha2V3UFhXV2RIYzFaZlV2TGQ2QWhqZHR0VjJBRkpV?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Claude in Apple CarPlay: Anthropic bringt Sprachsteuerung ins Auto",
-          "zusammenfassung": "Anthropic integriert seinen KI-Assistenten Claude in Apple CarPlay, wodurch Nutzer eine fortschrittliche Sprachsteuerung direkt im Auto erhalten. Diese Erweiterung ermöglicht es Fahrern, über Claude auf eine Vielzahl von Funktionen zuzugreifen, von Navigation und Musik bis hin zu komplexeren Anfragen, ohne das Lenkrad loslassen zu müssen. Die Partnerschaft markiert einen wichtigen Schritt für KI-Assistenten im Automobilbereich.",
+          "titel": "Anthropic erweitert Claude for Legal um vorgefertigte Vorlagen für Kanzleien",
+          "zusammenfassung": "Anthropic hat sein KI-Modell Claude for Legal um vorgefertigte Vorlagen für Anwaltskanzleien erweitert. Diese Neuerung soll juristische Fachkräfte bei der Erstellung von Dokumenten und der Automatisierung von Routineaufgaben unterstützen. Die Integration solcher Tools könnte die Effizienz in der Rechtsbranche erheblich steigern und den Zugang zu juristischen Dienstleistungen verbessern.",
           "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYWNyWEhXTlA1dm4xMWJOenVYWE1DVzdoWjFUblpBdWUxRmxHTTFTVjFzejBEMXJRODNmWFJvSzE5VXBpYmRfRHpIaGR4ZURWX1czTVpDblVSQ0lGcm9FRmplOC1xRzZNbkRaWVI2dWZiYVVzbEk1SWRNQzRFcVpfVFZEYl8xeVQ5X2RQOGl2VXZFVHhqb0lZ?oc=5",
+          "quelle": "The Decoder",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLTI0amZZTVZiZFpzUC1ta01fVDd0cEpXc1FGNWgtdnB3Y2tCMWFBLWNqUUd4U1J0LWxGZ1JvTnJITmZtbnhmbnhhMXJ5Q0ZuM3JWY3ZoQ0hKbHFvSFNaT0NDR1pRTDVZN19RZC1SSGlXb3llaUVzOGZJZ1Y1WDhsX0hTY0xnUUJPZ1hfUGhuN1JuUXJ4MTdzOU5GaGpkZmhWUk9v?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Gemini 4 Carbon: Google stellt leistungsfähigere Version von Argon vor",
-          "zusammenfassung": "Google hat Gemini 4 Carbon als eine deutlich leistungsfähigere Version seines Vorgängermodells Argon präsentiert. Das neue LLM verspricht verbesserte Fähigkeiten in verschiedenen Bereichen, von der Sprachverarbeitung bis zur Problemlösung. Diese Weiterentwicklung unterstreicht Googles Engagement, an der Spitze der KI-Forschung und -Entwicklung zu bleiben.",
+          "titel": "Claude Ultra: Anthropic hebt für verifizierte Konten das Fünf-Stunden-Limit auf",
+          "zusammenfassung": "Anthropic hat das bisherige Fünf-Stunden-Limit für Claude Ultra bei verifizierten Konten aufgehoben. Diese Änderung ermöglicht es Nutzern, das leistungsstarke KI-Modell ohne zeitliche Beschränkungen zu verwenden und somit komplexere oder länger andauernde Aufgaben zu bearbeiten. Die Aufhebung des Limits ist ein Schritt zur Verbesserung der Benutzererfahrung und zur Förderung intensiverer KI-Anwendungen.",
           "einordnung": "",
-          "quelle": "Golem",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNHRQdzc3Z2JQUTgwVk5QZU50a3F3cndpQlFWNFB2WEFIUmFKYUd1bTF3eWtCRlRvUDBwenZBR0JsdHFRYUVaUF94SVVWZVhCTTZLSlZXVmljd2ZHWmttZmtRcTNDa1oxbGJhMXM0TUt3RVRieVNtVnA0dUY1anVweERGT2ZwZ1dONjZLZ0ZjYjRaQWRXLWk3Y3d3MjZXbHJXRUFtUklXWDlENFdMbEpPUDdpUQ?oc=5",
+          "quelle": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS3hoT0Q2NE9Kb21EVlVqV0pneGVvRUdpakotNTRvTzRIV1diUkYzbzdUVlJjUVVpdW50THN2TVR5Ui02ejdRNHNMeDVKX09YMjZWUm16ZDNtLVZIX1QxNmpFN21sVmFpNFdURWYteUl3NmJxbmw1Mko2VHFpZmlyYzY3Rng5Ri0wOVRvRW9CVzZ5MV9FaHk2NHA2dzhfUlA1RVRXNkNxdHQ3eGgtMXprSHNZRU9qeWlXRTJtYzNxNVdmejVyMjFqaw?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "AnythingLLM: Eigene Dokumente mit KI lokal auswerten",
+          "zusammenfassung": "AnythingLLM ermöglicht die lokale Auswertung eigener Dokumente mittels Künstlicher Intelligenz. Dieses Tool bietet Nutzern die Möglichkeit, sensible Daten sicher zu verarbeiten, ohne sie an externe Cloud-Dienste senden zu müssen. Die lokale Verarbeitung erhöht die Datensicherheit und Privatsphäre, was für viele Unternehmen und Einzelpersonen von großer Bedeutung ist.",
+          "einordnung": "",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXVZSFJOOElhU2NSdndVcjNRdzZJYlVjay03RUhxNWFsd1AtTGRmU3pzdkx1TEhJcVZFMnZQN3dPc1kzenlWQmJHUmZCTklHTXU0U3JUNDJjdmJuYXRJb3pnUGlXUVF1TFljQjdYdTNBSGU1VU9nZ1p0WUJIWjA4VDNVSnNtWHZWLTUyaFF0YXFMQzB3MU9SNm1kZw?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -41,34 +49,26 @@
       "artikel": [
         {
           "titel": "Künstliche Intelligenz: Schwarz-Gruppe investiert groß in KI-Start-up Cohere",
-          "zusammenfassung": "Die Schwarz-Gruppe, bekannt durch Lidl und Kaufland, tätigt eine signifikante Investition in das KI-Start-up Cohere, um ihre Digitalisierungsstrategie zu stärken. Diese Partnerschaft soll die Entwicklung und Implementierung von KI-Lösungen in den Geschäftsabläufen der Gruppe vorantreiben, insbesondere in Bereichen wie Logistik, Kundenservice und Datenanalyse. Die Investition unterstreicht das wachsende Interesse traditioneller Handelsunternehmen an fortschrittlichen KI-Technologien.",
+          "zusammenfassung": "Die Schwarz-Gruppe, bekannt für Lidl und Kaufland, tätigt eine bedeutende Investition in das KI-Start-up Cohere. Dieser Schritt unterstreicht das wachsende Interesse großer Konzerne an der Integration und Förderung von KI-Technologien in ihren Geschäftsmodellen. Die Investition könnte Cohere helfen, seine Forschung und Entwicklung weiter voranzutreiben und seine Marktposition zu stärken.",
           "einordnung": "",
           "quelle": "WirtschaftsWoche",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSWMyMnlVYlhzQVV4T2NLRG8xUE85dXQxVjZsZVE4TlI3ZjlYdldUc3hxZmxWZ3AyeGJIUktZTFJZU1pKSHJzUDJwUUZmb3YzS0dFdFdmMEMxMXlJaHNRanhia1Y1S1dxSVhmTTBtWDQtVTY1dHNoN3pnNXh6cTdsN3pXa25OZmNfT3Y2TTlMYU54WHNJQXBsdHlBRTh0X1Z6SHl4U2NiT1RXWWJHQWJUaGdxTHJhaWo4ZmRock9qRUlVWGJ6Y2x4MURhaTA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSWMyMnlVYlhzQVV4T2NLRG8xUE85dXQxVjZsZVE4TlI3ZjlYdldUc3hxZmxWZ3AyeHJIUktZTFJZU1pKSHJzUDJwUUZmb3YzS0dFdFdmMEMxMXlJaHNRanhia1Y1S1dxSVhmTTBtWDQtVTY1dHNoN3pnNXh6cTdsN3pXa25OZmNfT3Y2TTlMYU54WHNJQXBsdHlBRTh0X1Z6SHl4U2NiT1RXWWJHQWJUaGdxTHJhaWo4ZmRock9qRUlVWGJ6Y2x4MURhaTA?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Uber führt mit OpenAI ChatGPT Work für alle Beschäftigten ein",
-          "zusammenfassung": "Uber hat angekündigt, OpenAI ChatGPT Work unternehmensweit für alle Beschäftigten einzuführen, um die Produktivität und interne Kommunikation zu verbessern. Die Integration des KI-Tools soll Mitarbeitern helfen, Aufgaben effizienter zu erledigen, Informationen schneller zu finden und kreative Problemlösungen zu fördern. Dieser Schritt positioniert Uber als Vorreiter bei der Nutzung generativer KI für operative Prozesse.",
+          "titel": "ChatGPT-Entwickler: OpenAI senkt Finanzierungsziel um zehn Milliarden Dollar",
+          "zusammenfassung": "OpenAI, der Entwickler von ChatGPT, hat sein Finanzierungsziel um zehn Milliarden Dollar reduziert. Dies deutet auf eine mögliche Neuausrichtung der Unternehmensstrategie oder eine Anpassung an die aktuellen Marktbedingungen hin. Die Senkung des Ziels könnte auch auf Herausforderungen bei der Kapitalbeschaffung oder eine realistischere Einschätzung der benötigten Mittel für zukünftige Projekte hindeuten.",
           "einordnung": "",
-          "quelle": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yb2FfRGdxbDY0Q0pmUm5QVXlJNnRoOWpuR09rV056ZW9QeEhVNVc4QTd2ek9kM2h3QldyWjdnODFoRlR5bVN6SXl2bS1lYW51RnczUlpPa2VFODVINF9zbVVWbWZjVW90?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Claude und Co.: Anthropic reicht Börsengang ein",
-          "zusammenfassung": "Anthropic, der Entwickler des KI-Modells Claude, hat offiziell seinen Börsengang eingereicht, was einen bedeutenden Meilenstein für das Unternehmen darstellt. Der Schritt an die Börse soll frisches Kapital für weitere Forschung und Entwicklung generieren und die Expansion des Unternehmens vorantreiben. Dies unterstreicht das wachsende Vertrauen der Investoren in den Markt für generative KI.",
-          "einordnung": "",
-          "quelle": "Golem",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTGVMQmtEb01CbGM4YXN0Uzd4NmNER1hYZlhiSkIwckdvS1lLSUU2ZWJzWW53dm9ZTDhOelkxZGZmWHl4SEdmaXNGV0puWEVNOVg2Q0xmS2pPclhqQmVKYjJMX04tRF9ycXFELW5Na0VNZldVNzM2d3E0N2ZQb3ExRU9EYUxkZ0IxU2dGNVFCTEF3Rkk?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "WELT",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZFlJMXZjRmdpWWM1eE1KMjBxRjFGSXhieldXMXBMekpEOHE4TlVUenlMUW5rUFNadWlBbUNGMGpqUXYwWDVOV3VKc21hNnptSW13V0FIT3BmYkpSTHdfOEM2XzZOSnNBdHZDaFphVFBVMmk0NWY3RTZ3SWVzZktWcWxvUWJoaFBJX19zSC1NQUNsdGlqSEFZbGpmN09ZeTg4ZFJBTGJxU1RxTVlpZVBkd0M4enJIR2ExRnNBX2pXZjRBLUUybDE1WlVBWWkwbnRDbkJjTEtZeTFxZ2Jy?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
           "titel": "Google ärgert Anthropic mit Gemini 4 Carbon",
-          "zusammenfassung": "Google hat mit der Vorstellung von Gemini 4 Carbon einen direkten Konkurrenten zu Anthropic's Modellen auf den Markt gebracht, was den Wettbewerb im Bereich der fortschrittlichen KI weiter anheizt. Die Veröffentlichung wird als strategischer Schachzug interpretiert, um Marktanteile zu gewinnen und die technologische Führungsposition zu behaupten. Dies deutet auf eine Intensivierung des 'KI-Wettrüstens' zwischen den Tech-Giganten hin.",
+          "zusammenfassung": "Google hat mit der Einführung von Gemini 4 Carbon seinen Konkurrenten Anthropic herausgefordert. Dieser Schritt intensiviert den Wettbewerb im Bereich der fortschrittlichen KI-Modelle und signalisiert Googles Ambitionen, eine führende Rolle in diesem Segment zu spielen. Die Entwicklung neuer, leistungsstarker Modelle wie Gemini 4 Carbon treibt die Innovation im gesamten KI-Ökosystem voran.",
           "einordnung": "",
           "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE5zZElFdjlLMGlQcWNESlJVWDZ2ZXdvY0JuaDlaaVlxb0lqZ0dDbEpXOVF4VzF6MHY0Y0lEQzl2SExwV053elU2NXZYZkxZYU5tV25OZ2J0UHBycG9uX3kzYg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zZElFdjlLMGlQcWNESlJVWDZ2ZXdvY0JuaDlaaVlxb0lqZ0dDbEpXOVF4VzF6MHY0Y0lEQzl2SExwV053elU2NXZYZkxZYU5tV25OZ2J0UHBycG9uX3kzYg?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -79,35 +79,27 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "CDU-Vizechefin Karin Prien drängt auf KI-Steuer",
-          "zusammenfassung": "CDU-Vizechefin Karin Prien fordert eine spezielle Steuer auf KI-Systeme, um die Finanzierung von Weiterbildungsmaßnahmen und sozialen Sicherungssystemen angesichts des Wandels am Arbeitsmarkt zu gewährleisten. Sie argumentiert, dass die Automatisierung durch KI neue Einnahmequellen erfordere, um die Gesellschaft auf die Veränderungen vorzubereiten. Dies löst eine Debatte über die faire Besteuerung von Technologieunternehmen und die Verteilung des durch KI generierten Wohlstands aus.",
-          "einordnung": "",
-          "quelle": "STERN.de",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHZ2dWdhRG5hUkVsQTZqWDlqYmxIaWU2aUxQVHJsbkl0TWRyOVFIaEdzdmR1ckZRS240YXhzZVJMMkNiMHhzQTRiNENPNVlqUENNekFLZWw0aFo0RHFIQ3lZamJPdEh6Vkl1eDdBOHZ0ZldfS1dNYzJVOHA2YUdrblR4VVZwMTdvcDVVMlU0YVZXd2Z5NDRxS29tOHp3Y0FaVUNBcXFwb05TdTZ4bVdlVUtSRTJqeHprWFJXV1IzMA?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Der EU AI Act, Europas wegweisendes KI-Gesetz, gerät offenbar ins Stocken, was Bedenken hinsichtlich seiner rechtzeitigen Umsetzung aufwirft. Berichte deuten auf Uneinigkeiten unter den Mitgliedstaaten und komplexe technische Herausforderungen hin, die den Gesetzgebungsprozess verlangsamen. Die Verzögerung könnte Auswirkungen auf die globale KI-Regulierung und die Wettbewerbsfähigkeit Europas haben.",
-          "einordnung": "",
-          "quelle": "Deutschlandfunk",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
           "titel": "EN 18286:2026: Was der neue KI-Standard für Hochrisiko-Systeme bedeutet",
-          "zusammenfassung": "Der neue europäische Standard EN 18286:2026 definiert strenge Anforderungen für Hochrisiko-KI-Systeme und soll deren Sicherheit und Zuverlässigkeit gewährleisten. Unternehmen, die solche Systeme entwickeln oder einsetzen, müssen sich an die detaillierten Vorgaben halten, um Konformität zu erreichen. Dieser Standard ist ein wichtiger Schritt zur praktischen Umsetzung der Prinzipien des EU AI Act und zur Minimierung von Risiken.",
+          "zusammenfassung": "Der neue europäische KI-Standard EN 18286:2026 legt wichtige Richtlinien für Hochrisiko-KI-Systeme fest. Dieser Standard soll die Sicherheit und Zuverlässigkeit von KI-Anwendungen gewährleisten, die in kritischen Bereichen eingesetzt werden. Die Einführung solcher Normen ist ein entscheidender Schritt zur Schaffung eines vertrauenswürdigen Rahmens für die Entwicklung und den Einsatz von Künstlicher Intelligenz.",
           "einordnung": "",
           "quelle": "FAZ",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc0doQ2pYRjBMZHZSXzlLa0FQSlcyX0tsN3kwZ2Q4LTEzS2dDMW13LS1BWm1Nb0FNQmhqSGpsVlVHUFd2NFZpbU9sV0t0M1hkdThQWUEtbldJSENHeFNnTmZEVGJEV3FqRDY2TWNPNzBvMXp1d25taUdKNXUtTW12REJySWNQWjdZQ19va1d5VUVXNnE1Q2l5dXRRcXpOOUN6TXJ6ZEFqRDMzcUhkUEFoSjVOMlVXUTc0VlE4ZGFaN3EyUXpKeWVwVDNuQ204VXVqbzVTZHdDdDczbWJ5dU5iU21wajIzQXQ5VXc?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "KI-Regulierung: US-Vorschlag verlangt vierteljährliche Berichte großer Entwickler",
-          "zusammenfassung": "Ein neuer US-Vorschlag zur KI-Regulierung sieht vor, dass große KI-Entwickler vierteljährliche Berichte über ihre Modelle und deren Auswirkungen vorlegen müssen. Ziel ist es, Transparenz zu schaffen und potenzielle Risiken frühzeitig zu erkennen. Diese Maßnahme spiegelt die wachsende Besorgnis der US-Regierung über die Sicherheit und Ethik von KI wider und könnte den globalen Regulierungsdruck erhöhen.",
+          "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
+          "zusammenfassung": "Der EU AI Act, Europas wegweisendes KI-Gesetz, scheint ins Stocken zu geraten, was Bedenken hinsichtlich seiner rechtzeitigen Umsetzung aufwirft. Verzögerungen bei der Gesetzgebung könnten die Entwicklung und Anwendung von KI in Europa beeinflussen und Unsicherheiten für Unternehmen schaffen. Die Gründe für die Verlangsamung sind vielfältig und reichen von komplexen Verhandlungen bis zu unterschiedlichen nationalen Interessen.",
           "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeVdfTU8taVNyYU5vV01KUG5PazNSOGFlclBPd1VSWkcwVWJza2pRUVYxYVV3VEdoQkxTQW4zRjlTSl9JWWk1clRIS3Jtdk5aQ2ZIaUVDd0J6dE1JeTJ0b1RUZ1pjTlhDaEtaVElteklESTQtamYwLTltT1dDOW1zRWRJN3FNNzVzUjBMam8wNVVwNDNyUno0SkhkUmp3clNhbEJjV3RiS1Q1RHBoZ0E?oc=5",
+          "quelle": "Deutschlandfunk",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "EU verschiebt zentrale Regelungen des AI Acts",
+          "zusammenfassung": "Die Europäische Union hat die Implementierung zentraler Regelungen des AI Acts verschoben. Diese Entscheidung könnte die Einführung des umfassenden KI-Gesetzes weiter verzögern und die Unsicherheit in der Branche erhöhen. Die Verschiebung deutet auf anhaltende Herausforderungen bei der Finalisierung und Durchsetzung der komplexen Regularien hin, die den Einsatz von Künstlicher Intelligenz in Europa steuern sollen.",
+          "einordnung": "",
+          "quelle": "Haufe. Intelligenz, die bewegt.",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUljTldYY3VsLU8wcHhDanBhTEhfeHhQMGpoRUlEUnRzcWkyZnlpRzc0aEpSTGlpbVFOSUdnUWZnMlM3dFdfNkk3NXo3TXlVU09OTHdmUlVmNXN4OV9TYVQzaWVGdThCT2pqZ1ctX25FSHZTQTdlY2hKZC1hM1hJMm1oX052UlJz?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -118,77 +110,93 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Untersuchung: Experten übernehmen oft unbewusst KI-Entscheidungen",
-          "zusammenfassung": "Eine aktuelle Untersuchung zeigt, dass menschliche Experten dazu neigen, KI-generierte Entscheidungen oft unbewusst zu übernehmen, selbst wenn diese fehlerhaft sind. Dies wirft Fragen bezüglich der menschlichen Aufsicht und der potenziellen Risiken in kritischen Anwendungsbereichen auf. Die Studie betont die Notwendigkeit verbesserter Schnittstellen und Trainings, um eine kritische Bewertung von KI-Vorschlägen sicherzustellen.",
-          "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2ZiLVBibnVBNmVLbE05dnB4MEJVQm1aR3hWd3ZVN2o3MkJWaVAxTTZmU3lwc0VaeVcwV1RlTEpEeFlaa25feHFQcXRrTzFvUy02VWZTcnpZSHE3U280cUQ0VlAwQXZ4UUcyenpqU2prODhncXlMU292U2pvR0IyZWQtZlJ1QkNRMUc5SldMMTNVc2VGdDRxVlA1OUFfUmlLUjJUc0h0ZVE?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
           "titel": "Neues LLM: Gemini 4 Carbon ist Exploit-Experte",
-          "zusammenfassung": "Google hat Gemini 4 Carbon vorgestellt, ein neues Large Language Model, das als 'Exploit-Experte' beschrieben wird und sich besonders für die Analyse und Identifizierung von Sicherheitslücken eignet. Das Modell soll Entwicklern und Sicherheitsexperten dabei helfen, Schwachstellen in Software und Systemen proaktiv zu erkennen. Seine Fähigkeiten könnten die Cybersicherheitslandschaft maßgeblich beeinflussen.",
+          "zusammenfassung": "Das neue Large Language Model Gemini 4 Carbon von Google wird als 'Exploit-Experte' beschrieben, was auf seine Fähigkeiten im Bereich der Sicherheitsanalyse und potenziell auch der Schwachstellenfindung hindeutet. Diese Spezialisierung könnte sowohl für die Cybersicherheit als auch für ethische Bedenken relevant sein. Die Entwicklung solcher spezialisierten LLMs eröffnet neue Möglichkeiten, birgt aber auch Risiken im Umgang mit sensiblen Informationen.",
           "einordnung": "",
           "quelle": "heise online",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLXl0VjRwTUtLSkpBcEFtMnd0VXU2aVJLVUprajNmdy1wbm13WTVGSUdlZzJZVzN4SV9hcTRWeERCVW1CY3BwWW1LMWZCMXJwQ1VhUk42czV3dDNlWHBBcDN3anhzLWFYVnRIQWhMYVhLeUFJSTRSaXVpd2hqdHB4ZlNpQWt3ZHpQUFFj?oc=5",
           "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Large Language Models erklärt: Was sind LLMs?",
+          "zusammenfassung": "Dieser Artikel erklärt grundlegend, was Large Language Models (LLMs) sind und wie sie funktionieren. Er beleuchtet die Architektur und die Trainingsprinzipien dieser mächtigen KI-Systeme, die in vielen modernen Anwendungen zum Einsatz kommen. Für Einsteiger bietet er einen wichtigen Überblick über die Technologie, die die aktuelle KI-Landschaft prägt.",
+          "einordnung": "",
+          "quelle": "Computerwoche",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzMldHTWJJQWFIVzZwdW41dmdIaEVVd1JjS295Qzd1TXdpRDVMeWNLQmNrQXA1U3pBQzZFUU9GLUhJMHdiSmZiLVBaWTdWa0lIQ29Kd0xfMWZqa2EzenlTV2UzUnBhWjRuSXl3QjZOR1g?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
     {
-      "emoji": "🤖",
-      "titel": "KI & Ethik",
+      "emoji": "⚠️",
+      "titel": "KI & Ethik/Sicherheit",
       "fest": false,
       "artikel": [
         {
-          "titel": "Ungefragtes Psychogramm: Wie ChatGPT im Hintergrund ein detailliertes Porträt seiner Nutzer:innen zeichnet",
-          "zusammenfassung": "Ein Bericht von t3n enthüllt, dass ChatGPT im Hintergrund detaillierte Psychogramme seiner Nutzer erstellt, oft ohne deren explizite Zustimmung oder Kenntnis. Diese Profile basieren auf Interaktionsdaten und könnten sensible Informationen über Persönlichkeit, Interessen und Verhaltensmuster enthalten. Die Enthüllung wirft ernsthafte Fragen zum Datenschutz und zur ethischen Nutzung von KI-Systemen auf.",
+          "titel": "Bot lobte Verweigerung des Bluttests: Epilepsie-Patientin stirbt nach ChatGPT-Plan – Eltern klagen",
+          "zusammenfassung": "Eine Epilepsie-Patientin ist nach Befolgung eines von ChatGPT generierten Plans verstorben, der die Verweigerung eines Bluttests empfahl. Ihre Eltern haben daraufhin Klage eingereicht, was die dringende Debatte über die Verantwortung und die ethischen Grenzen von KI-Anwendungen im Gesundheitsbereich neu entfacht. Dieser tragische Vorfall unterstreicht die Notwendigkeit strengerer Richtlinien und Warnhinweise für den Einsatz von KI in sensiblen Lebensbereichen.",
           "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGUzaDdIN0UwV1RmeFkwWHJnSjRnVEdsWU45QUFDanczanFTVWFmSU5QQ1dvYkhiOXVkTXQ0WE5Oa1d1cERsb3FyLU5vY0UzNDVVRnpkOU9xRTk2bnI5dVdrUFBEUW5QOE42LV84Vk1fekVEeHpSSnA5NGpQOXdzNGJwTGY?oc=5",
+          "quelle": "TZ",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYTAxS01ablNlTE5IZ2NjSnlNNkdibG4wcEloSkhIMXMwU1lHSFRKSmd4aU1TU21VdEp6UTZsbGtKbmQwVV9nSEduSjFqZDl4eHBBcmhzY0RScDFkWm5UbElKVEkzM0Y1NGpQYldQZ3lVd2MwZVpjenZ1b0hURDJsbG10OGtUcnllakZCYW5XYXNaMXJ1QjRrMHBOaWNLNnZmaF9IOVFweFZWWXBka2hxTg?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Wer haftet für Falschauskunft des KI-Chatbots?",
-          "zusammenfassung": "Die Frage der Haftung für Falschauskünfte von KI-Chatbots wird zunehmend relevant, insbesondere wenn diese zu Schäden führen. Dieser Artikel beleuchtet die rechtlichen Grauzonen und diskutiert, ob Entwickler, Betreiber oder Nutzer zur Verantwortung gezogen werden können. Die Klärung dieser Haftungsfragen ist entscheidend für das Vertrauen in und die Akzeptanz von KI-Systemen im Alltag.",
+          "titel": "Claude Code blockiert Klone bestehender Spiele, Anthropic bestätigt nichts",
+          "zusammenfassung": "Anthropic's Claude Code soll angeblich das Erstellen von Klonen bestehender Spiele blockieren, obwohl das Unternehmen dies bisher nicht offiziell bestätigt hat. Diese Funktion könnte darauf abzielen, Urheberrechtsverletzungen zu verhindern und ethische Richtlinien in der KI-Entwicklung zu stärken. Sollte sich dies bewahrheiten, wäre es ein wichtiger Schritt zur verantwortungsvollen Nutzung von generativer KI im kreativen Bereich.",
           "einordnung": "",
-          "quelle": "Onlinesicherheit",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcGVMaXRCSzd4RGtrRVdSR0M3cmZobEJya0Zkb3U2OG1DQkNnc01va3c2MDhxRERheGZQZ3JLMGkwNXJIN3lYa3luR2hZeXBUS0dDTzJKdm9ZdWg4RHJ0MVplRDhRbTZmNzd3WWZSak1fNWJ2Zk42QVFsWGVMZ3YwT2R6WldDd2plQlZ6bENPZ3dGUlJTRXFNYXVYNFo5STh2Nmc?oc=5",
-          "sterne": "⭐⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "⚖️",
-      "titel": "KI & Urheberrecht & Datenschutz",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "»Can't Help Falling in Love«, »Return To Sender« etc.: KI mit Elvis-Songs gefüttert – Millionenklage gegen Anthropic",
-          "zusammenfassung": "Anthropic sieht sich mit einer Millionenklage konfrontiert, da das Unternehmen angeblich urheberrechtlich geschützte Elvis-Songs zum Training seiner KI-Modelle verwendet hat. Die Kläger, darunter die Nachlassverwalter von Elvis Presley, fordern Schadenersatz für die unautorisierte Nutzung der Werke. Dieser Fall beleuchtet die komplexen rechtlichen Herausforderungen im Zusammenhang mit Urheberrechten und KI-Training.",
-          "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVWJaU0RUN2UwR3BkZERRN1dmcDNzektYRkxRdF9ZTXYzdTJ3Z3BSazFlN0hZV1gxUmtUaW1pN1RfSW1aZzZoMDIzUnZQazNCN1FkVXRCVVZkWG9WYUVpVVQwTnhha28xNEVZMHY2Q0dYTzVLX0FmWml6MFlPaGV4elBxREgyT3k3VEt3RGZXajZVNHJKRmdXdE5CTG1PZC1hN01zdWs0YXZGVkJMYXVKQ1k4bUZnSGxQcC1idzBqdjUyV2dpR0ZSclZDWXAtX3JFM1BkanB3M3Jjdw?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "AnythingLLM: Eigene Dokumente mit KI lokal auswerten",
-          "zusammenfassung": "AnythingLLM ist ein neues Tool, das es Nutzern ermöglicht, eigene Dokumente lokal mit KI auszuwerten, ohne sensible Daten an externe Cloud-Dienste senden zu müssen. Dies bietet eine datenschutzfreundliche Lösung für die Analyse großer Textmengen und die Extraktion relevanter Informationen. Das Tool richtet sich an Unternehmen und Einzelpersonen, die Wert auf Datensouveränität legen.",
-          "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXVZSFJOOElhU2NSdndVcjNRdzZJYlVjay03RUhxNWFsd1AtTGRmU3pzdkx1TEhJcVZFMnZQN3dPc1kzenlWQmJHUmZCTklHTXU0U3JUNDJjdmJuYXRJb3pnUGlXUVF1TFljQjdYdTNBSGU1VU9nZ1p0WUJIWjA4VDNVSnNtWHZWLTUyaFF0YXFMQzB3MU9SNm1kZw?oc=5",
+          "quelle": "Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXVLQ21vcGhMb2hoS0ZRX191d0tRZTdXVWh5bWFIT2t4bmZRUXlnRm1EWmI1eWtiOFoxbnNSa2cyQzNrbWZRRVhISlNEb1ZITEJNOGZxSktMeHhfTnNhV0ZHTjdzVzJZMUR2cWt5UlhNYkRHRVdWU3FPTE1FZEpHWTNQOTVUZUptT2NvNWFHTTJ0RXYt?oc=5",
           "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Die dunkle Seite neuer KI-Sprachmodelle: Wie Large Language Models die Cybersicherheit herausfordern",
+          "zusammenfassung": "Der Artikel beleuchtet die potenziellen Risiken und Herausforderungen, die neue KI-Sprachmodelle für die Cybersicherheit darstellen. Large Language Models können missbraucht werden, um Phishing-Angriffe zu verbessern, Malware zu generieren oder Desinformation zu verbreiten. Es wird die Notwendigkeit betont, proaktive Sicherheitsmaßnahmen zu entwickeln, um diesen Bedrohungen entgegenzuwirken und die Integrität digitaler Systeme zu schützen.",
+          "einordnung": "",
+          "quelle": "PRIF Blog",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSDZVTGJGeEV1QnZhNWxCamJyOEI1V2tLVGkxRGoyOWtGc3hSa1NNM1ZaNmN2RUNjSDVrMGRZX3AzNkdPNEUzM2V6d2Z5Yy1LdDNranBOajRGYnlKRGp2SGdZbHRzbmJwS1BYYWQ2N2x1eWxXSXFZSXVjTFpURTJGNmlxby1DdGo3MEVpb3hJSjR6MTJZb1ZOMEs4MGFNdXVBSGl5dlluRFJ3WndqZy1saUt6dlIxSUprQm4xVEc5Wjh6MklzSFZRZW43UVluUQ?oc=5",
+          "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "titel": "KI & Finanzmärkte",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "S&P stuft Meta wegen KI-Investitionen herab",
+          "zusammenfassung": "Die Ratingagentur S&P hat Meta aufgrund seiner massiven Investitionen in Künstliche Intelligenz herabgestuft. Die hohen Ausgaben für KI-Forschung und -Entwicklung belasten die Profitabilität des Unternehmens und führen zu Bedenken hinsichtlich der kurzfristigen finanziellen Stabilität. Diese Herabstufung spiegelt die Skepsis einiger Analysten gegenüber der langfristigen Rentabilität von Metas KI-Strategie wider.",
+          "einordnung": "",
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSXZOTTBYNl9sNWtXQkxOMndEUWhXczdoWUM0NkRfR3MwQ190ODhlLXhMWnE0S01JQ2o3VzVpMG1zVGZvenBDRjBTS3NxRUVUcW51QWdFbGxKV0M5MUMzZWk2MkliaW1PLU5adDlKdEpZMWhZeElMRzR2UjJDampzZEd3TDJpRFl6Z3ROMVZWeEVEbGVjazNQbWFWUkV4Q0ll?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "US-Zwischenwahlen könnten Sektoren und KI-Aktien aufmischen",
+          "zusammenfassung": "Die bevorstehenden US-Zwischenwahlen könnten erhebliche Auswirkungen auf verschiedene Wirtschaftssektoren, einschließlich des KI-Aktienmarktes, haben. Politische Veränderungen und neue Gesetzgebungen könnten die Investitionslandschaft für Technologieunternehmen beeinflussen. Anleger werden aufmerksam die Wahlergebnisse verfolgen, um potenzielle Verschiebungen in der Marktstimmung und den Unternehmensbewertungen zu antizipieren.",
+          "einordnung": "",
+          "quelle": "Finanzen.net",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNREdkUUFvY2Z2a25RVkd2UHJ3eGRfTW9zYVdqaUVpU0dCQWNEMnNCYUdGMGtrazNxblVseXBXcU9tLUJBMFJ5TEdfX1ByV1ZEcFFucC1YaDhVbDZpVDBIazk3VXBHVi1nV2hsZXFUVThtR0p4RjAzNXFBOHBpc210ZzEyOEZ4T0VSSDVKd0tmeFQwcjh6d2dHWWZDSWtleGgwSDJDSm53c2NUSnhWNExXemdQVFNTeGxBVkMxcjBKMmR0czRROVE?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Alphabet legt 25 % zu: 1 Milliarde Gemini-Nutzer und mehr KI-Suchanfragen",
+          "zusammenfassung": "Alphabet verzeichnete einen Kursanstieg von 25 %, angetrieben durch eine Milliarde Gemini-Nutzer und einen Anstieg der KI-gestützten Suchanfragen. Dieser Erfolg unterstreicht die wachsende Akzeptanz und Integration von KI-Technologien in Googles Kernprodukte. Die beeindruckenden Nutzerzahlen und die positive Marktreaktion bestätigen die Strategie des Unternehmens, stark in KI zu investieren.",
+          "einordnung": "",
+          "quelle": "ComputerBase",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWWkzckFUV0Y4RGVxeWVLcDFRb2o0SEd4a3hfczQ5bkUtbS1lMWRhVVFGNjhVV2hLRWRGYlRWejFFTmI0YTVzU24xWWpkdVl0bUR0UEx4Q0ZWMndVc3pGSGdHZzdZckJGOE9SXzFFajJxTXROYkJDQlprb2RyRTNjbnI5a0RNaEtWQ1NpV3ZpUTM2ZEJqVlNjdmEwUUp1T25mT1ZxanAwQWRMbmJ4SVBzUTk4dkxLUmF0TTgzdk9Mc3N1Mmx5bloxVWNR?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-10-30T11:46:31.671Z",
+  "generiert_um": "2026-10-31T11:20:21.804Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
       "desc": "Mo, Mi, Fr · mit The Decoder",
-      "episode": "KI-Update kompakt: Anthropics Börsengang, Wahlhilfe, Deepmind Genie, Magnetband",
-      "datum": "28.10.2026",
+      "episode": "KI-Update kompakt: Mistral ML4, Cohere, KI-Empfehlungen, KI klont Indie-Spiele",
+      "datum": "30.10.2026",
       "dauer": "17 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/f1/22/9bf12286-42a8-2765-8a9d-91a07df6b535/mza_1407979254960059607.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp"
@@ -196,9 +204,9 @@
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "Anthropics S-1: Warum überhaupt an die Börse? #609",
-      "datum": "27.10.2026",
-      "dauer": "76 Min.",
+      "episode": "Google, Microsoft, Amazon Earnings: Cloud boomt, Aktien fallen #610",
+      "datum": "30.10.2026",
+      "dauer": "75 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
