@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-10-31T13:30:12.853368+00:00",
+  "aktualisiert": "2026-11-01T14:11:15.957846+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Julian Ivanov | KI-Automatisierung",
+      "titel": "Claude 2.0 ist da: Alle neuen Funktionen einfach erklärt",
+      "link": "https://www.youtube.com/watch?v=WUse7fDq2VQ",
+      "video_id": "WUse7fDq2VQ",
+      "thumbnail": "https://img.youtube.com/vi/WUse7fDq2VQ/mqdefault.jpg",
+      "datum": "2026-11-01T13:59:44Z",
+      "datum_de": "01.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Platzt jetzt die KI-Blase? DAS wird ALLE überraschen! Anthropics Börsengang | KI-NEWS",
+      "link": "https://www.youtube.com/watch?v=VOYccAKu7Zg",
+      "video_id": "VOYccAKu7Zg",
+      "thumbnail": "https://img.youtube.com/vi/VOYccAKu7Zg/mqdefault.jpg",
+      "datum": "2026-11-01T09:15:03+00:00",
+      "datum_de": "01.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KIwi – KI einfach erklärt",
+      "titel": "Claude Code Skills Tutorial Deutsch: Eigenen Skill erstellen + Test",
+      "link": "https://www.youtube.com/watch?v=FjaGlkx7Quc",
+      "video_id": "FjaGlkx7Quc",
+      "thumbnail": "https://img.youtube.com/vi/FjaGlkx7Quc/mqdefault.jpg",
+      "datum": "2026-10-31T18:39:06Z",
+      "datum_de": "31.10.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Morpheus Tutorials",
       "titel": "Wie aus einem FALSE eine 9.8 RCE in Node wird",
@@ -113,16 +143,6 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "Jonas Keil",
-      "titel": "Claude kann jetzt unglaubliche Videos machen! (so geht’s)",
-      "link": "https://www.youtube.com/watch?v=53WPjzkt59s",
-      "video_id": "53WPjzkt59s",
-      "thumbnail": "https://img.youtube.com/vi/53WPjzkt59s/mqdefault.jpg",
-      "datum": "2026-10-29T15:47:25Z",
-      "datum_de": "29.10.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Morpheus Tutorials",
       "titel": "Was können diese Exoten-Agents?",
       "link": "https://www.youtube.com/watch?v=D294CcGtUKU",
@@ -131,26 +151,6 @@
       "datum": "2026-10-29T09:00:26+00:00",
       "datum_de": "29.10.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "ToolVibes",
-      "titel": "n8n Tutorial (Deutsch): KI schreibt, Mensch gibt frei",
-      "link": "https://www.youtube.com/watch?v=cYAzX3MSEfo",
-      "video_id": "cYAzX3MSEfo",
-      "thumbnail": "https://img.youtube.com/vi/cYAzX3MSEfo/mqdefault.jpg",
-      "datum": "2026-10-29T04:17:06Z",
-      "datum_de": "29.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ToolVibes",
-      "titel": "n8n Tutorial (Deutsch): Daten aus Text ziehen mit KI",
-      "link": "https://www.youtube.com/watch?v=bBDntDzgvGs",
-      "video_id": "bBDntDzgvGs",
-      "thumbnail": "https://img.youtube.com/vi/bBDntDzgvGs/mqdefault.jpg",
-      "datum": "2026-10-29T04:15:51Z",
-      "datum_de": "29.10.2026",
-      "quelle": "suche"
     }
   ]
 }
