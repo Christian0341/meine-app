@@ -1,7 +1,77 @@
 {
-  "aktualisiert": "2026-11-01T14:11:15.957846+00:00",
+  "aktualisiert": "2026-11-02T16:56:56.758284+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Gemini 4 Carbon: Googles KI für Cyberabwehr",
+      "link": "https://www.youtube.com/shorts/owvS2PnGifQ",
+      "video_id": "owvS2PnGifQ",
+      "thumbnail": "https://img.youtube.com/vi/owvS2PnGifQ/mqdefault.jpg",
+      "datum": "2026-11-02T09:00:02+00:00",
+      "datum_de": "02.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Wie gut ist TTS heute?",
+      "link": "https://www.youtube.com/watch?v=DSlDIC58fF0",
+      "video_id": "DSlDIC58fF0",
+      "thumbnail": "https://img.youtube.com/vi/DSlDIC58fF0/mqdefault.jpg",
+      "datum": "2026-11-02T07:44:27+00:00",
+      "datum_de": "02.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Mila Erklärt",
+      "titel": "Ich habe Gemini gegen ChatGPT Schach spielen lassen. Das Ende hat mich sehr überrascht!",
+      "link": "https://www.youtube.com/watch?v=B2Xi9inhMKg",
+      "video_id": "B2Xi9inhMKg",
+      "thumbnail": "https://img.youtube.com/vi/B2Xi9inhMKg/mqdefault.jpg",
+      "datum": "2026-11-01T21:49:56Z",
+      "datum_de": "01.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Lernen mit KI Schritt für Schritt",
+      "titel": "Gemini Notebook Tutorial deutsch (2026): Lernen mit KI Schritt für Schritt – früher NotebookLM",
+      "link": "https://www.youtube.com/watch?v=T1_oX-CHfQA",
+      "video_id": "T1_oX-CHfQA",
+      "thumbnail": "https://img.youtube.com/vi/T1_oX-CHfQA/mqdefault.jpg",
+      "datum": "2026-11-01T18:45:00Z",
+      "datum_de": "01.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Make-o-Rama 3D Druck",
+      "titel": "SolidCraft &amp; ChatGPT - Brauchen wir überhaupt noch CAD Kenntnisse?",
+      "link": "https://www.youtube.com/watch?v=4Hd0Asf9Us4",
+      "video_id": "4Hd0Asf9Us4",
+      "thumbnail": "https://img.youtube.com/vi/4Hd0Asf9Us4/mqdefault.jpg",
+      "datum": "2026-11-01T17:08:48Z",
+      "datum_de": "01.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "Claude Opus 5.5 + Gemini Notebook: Diese Kombination übernimmt dein SEO | SEO, GEO 2027 | NotebookLM",
+      "link": "https://www.youtube.com/watch?v=EUMInWJXZTM",
+      "video_id": "EUMInWJXZTM",
+      "thumbnail": "https://img.youtube.com/vi/EUMInWJXZTM/mqdefault.jpg",
+      "datum": "2026-11-01T16:00:29Z",
+      "datum_de": "01.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "DeepSeek Harness: Die fast KOSTENLOSE Claude Code Alternative?!",
+      "link": "https://www.youtube.com/watch?v=ZKE3mz0Bnyw",
+      "video_id": "ZKE3mz0Bnyw",
+      "thumbnail": "https://img.youtube.com/vi/ZKE3mz0Bnyw/mqdefault.jpg",
+      "datum": "2026-11-01T15:15:08+00:00",
+      "datum_de": "01.11.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Julian Ivanov | KI-Automatisierung",
       "titel": "Claude 2.0 ist da: Alle neuen Funktionen einfach erklärt",
@@ -9,6 +79,16 @@
       "video_id": "WUse7fDq2VQ",
       "thumbnail": "https://img.youtube.com/vi/WUse7fDq2VQ/mqdefault.jpg",
       "datum": "2026-11-01T13:59:44Z",
+      "datum_de": "01.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Moritz | KI einfach erklärt",
+      "titel": "Claude Code: Das einzige KI-Tool, das du lernen musst (komplettes Tutorial)",
+      "link": "https://www.youtube.com/watch?v=ETY6fakYBSE",
+      "video_id": "ETY6fakYBSE",
+      "thumbnail": "https://img.youtube.com/vi/ETY6fakYBSE/mqdefault.jpg",
+      "datum": "2026-11-01T11:00:20Z",
       "datum_de": "01.11.2026",
       "quelle": "suche"
     },
@@ -23,12 +103,32 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "AI Mentors",
+      "titel": "Claude erstellt jetzt kostenlos KI-Videos mit Google Flow",
+      "link": "https://www.youtube.com/watch?v=2noEfLqyqjg",
+      "video_id": "2noEfLqyqjg",
+      "thumbnail": "https://img.youtube.com/vi/2noEfLqyqjg/mqdefault.jpg",
+      "datum": "2026-11-01T08:00:26Z",
+      "datum_de": "01.11.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "KIwi – KI einfach erklärt",
       "titel": "Claude Code Skills Tutorial Deutsch: Eigenen Skill erstellen + Test",
       "link": "https://www.youtube.com/watch?v=FjaGlkx7Quc",
       "video_id": "FjaGlkx7Quc",
       "thumbnail": "https://img.youtube.com/vi/FjaGlkx7Quc/mqdefault.jpg",
       "datum": "2026-10-31T18:39:06Z",
+      "datum_de": "31.10.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Punktzehn",
+      "titel": "AUTOMATISIERE ALLES mit den neuen Google Gemini Skills!",
+      "link": "https://www.youtube.com/watch?v=GAXF3azmBvU",
+      "video_id": "GAXF3azmBvU",
+      "thumbnail": "https://img.youtube.com/vi/GAXF3azmBvU/mqdefault.jpg",
+      "datum": "2026-10-31T09:47:27Z",
       "datum_de": "31.10.2026",
       "quelle": "suche"
     },
@@ -51,106 +151,6 @@
       "datum": "2026-10-30T23:20:31Z",
       "datum_de": "30.10.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "AiErfolg - KI & Online Marketing meistern",
-      "titel": "Die NEUEN CLAUDE DASHBOARDS simpel erklärt | Tutorial für Einsteiger auf Deutsch",
-      "link": "https://www.youtube.com/watch?v=mia7RNzzpBM",
-      "video_id": "mia7RNzzpBM",
-      "thumbnail": "https://img.youtube.com/vi/mia7RNzzpBM/mqdefault.jpg",
-      "datum": "2026-10-30T17:19:59Z",
-      "datum_de": "30.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "codedeer ai",
-      "titel": "Präsentation mit KI erstellen – kostenlos mit Claude",
-      "link": "https://www.youtube.com/watch?v=b-iYs3yyy9g",
-      "video_id": "b-iYs3yyy9g",
-      "thumbnail": "https://img.youtube.com/vi/b-iYs3yyy9g/mqdefault.jpg",
-      "datum": "2026-10-30T16:00:06Z",
-      "datum_de": "30.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Claude Motion ist Unglaublich!",
-      "link": "https://www.youtube.com/watch?v=MfoJdEZcvzY",
-      "video_id": "MfoJdEZcvzY",
-      "thumbnail": "https://img.youtube.com/vi/MfoJdEZcvzY/mqdefault.jpg",
-      "datum": "2026-10-30T15:30:36+00:00",
-      "datum_de": "30.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Automation oder KI-Agent? Der Unterschied 🤖",
-      "link": "https://www.youtube.com/shorts/z6eoHfYrKes",
-      "video_id": "z6eoHfYrKes",
-      "thumbnail": "https://img.youtube.com/vi/z6eoHfYrKes/mqdefault.jpg",
-      "datum": "2026-10-30T08:54:37+00:00",
-      "datum_de": "30.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "HardReset_info Deutsch",
-      "titel": "ChatGPT Mobile App Ultimate – Alle Einstellungen erklärt",
-      "link": "https://www.youtube.com/watch?v=_vPCkALQt8E",
-      "video_id": "_vPCkALQt8E",
-      "thumbnail": "https://img.youtube.com/vi/_vPCkALQt8E/mqdefault.jpg",
-      "datum": "2026-10-30T01:51:28Z",
-      "datum_de": "30.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "HardReset_info Deutsch",
-      "titel": "ChatGPT – So personalisieren Sie ChatGPT: Führer zu benutzerdefinierten Stimmen, Tonfall und Gedächt",
-      "link": "https://www.youtube.com/watch?v=t8SX4H3-XmA",
-      "video_id": "t8SX4H3-XmA",
-      "thumbnail": "https://img.youtube.com/vi/t8SX4H3-XmA/mqdefault.jpg",
-      "datum": "2026-10-30T01:48:45Z",
-      "datum_de": "30.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Sprich mit deiner KI statt zu tippen 🎙️",
-      "link": "https://www.youtube.com/shorts/k_TfFY09USM",
-      "video_id": "k_TfFY09USM",
-      "thumbnail": "https://img.youtube.com/vi/k_TfFY09USM/mqdefault.jpg",
-      "datum": "2026-10-29T21:28:40+00:00",
-      "datum_de": "29.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Gemini 4 Carbon ist da! Darum übernimmt Google jetzt die Spitze!",
-      "link": "https://www.youtube.com/watch?v=pFkAbTkX0_0",
-      "video_id": "pFkAbTkX0_0",
-      "thumbnail": "https://img.youtube.com/vi/pFkAbTkX0_0/mqdefault.jpg",
-      "datum": "2026-10-29T16:15:40Z",
-      "datum_de": "29.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "IT-Unternehmer: “Die Uhr für SAP TICKT!” KI kopiert jetzt JEDE Software (Emanuel Böminghaus)",
-      "link": "https://www.youtube.com/watch?v=sR6-DFgA6Cc",
-      "video_id": "sR6-DFgA6Cc",
-      "thumbnail": "https://img.youtube.com/vi/sR6-DFgA6Cc/mqdefault.jpg",
-      "datum": "2026-10-29T16:15:27+00:00",
-      "datum_de": "29.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Was können diese Exoten-Agents?",
-      "link": "https://www.youtube.com/watch?v=D294CcGtUKU",
-      "video_id": "D294CcGtUKU",
-      "thumbnail": "https://img.youtube.com/vi/D294CcGtUKU/mqdefault.jpg",
-      "datum": "2026-10-29T09:00:26+00:00",
-      "datum_de": "29.10.2026",
-      "quelle": "kanal"
     }
   ]
 }
