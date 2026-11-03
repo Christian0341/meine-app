@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-11-02T16:56:56.758284+00:00",
+  "aktualisiert": "2026-11-03T14:56:52.449324+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "KI-App an einem Nachmittag gebaut 🚀",
+      "link": "https://www.youtube.com/shorts/ciok3776uCc",
+      "video_id": "ciok3776uCc",
+      "thumbnail": "https://img.youtube.com/vi/ciok3776uCc/mqdefault.jpg",
+      "datum": "2026-11-03T08:56:44+00:00",
+      "datum_de": "03.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Fancywelt-IT",
+      "titel": "Gemini ile Günlük İş Paneli Yap: Öncelik, Tarih ve İlerleme",
+      "link": "https://www.youtube.com/watch?v=rJL_et8l4P8",
+      "video_id": "rJL_et8l4P8",
+      "thumbnail": "https://img.youtube.com/vi/rJL_et8l4P8/mqdefault.jpg",
+      "datum": "2026-11-03T05:00:29Z",
+      "datum_de": "03.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Der neue COPILOT: Chat, Cowork & Code erklärt!",
+      "link": "https://www.youtube.com/watch?v=CJMxaZu560I",
+      "video_id": "CJMxaZu560I",
+      "thumbnail": "https://img.youtube.com/vi/CJMxaZu560I/mqdefault.jpg",
+      "datum": "2026-11-02T17:43:37+00:00",
+      "datum_de": "02.11.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "Gemini 4 Carbon: Googles KI für Cyberabwehr",
@@ -120,36 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/FjaGlkx7Quc/mqdefault.jpg",
       "datum": "2026-10-31T18:39:06Z",
       "datum_de": "31.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Punktzehn",
-      "titel": "AUTOMATISIERE ALLES mit den neuen Google Gemini Skills!",
-      "link": "https://www.youtube.com/watch?v=GAXF3azmBvU",
-      "video_id": "GAXF3azmBvU",
-      "thumbnail": "https://img.youtube.com/vi/GAXF3azmBvU/mqdefault.jpg",
-      "datum": "2026-10-31T09:47:27Z",
-      "datum_de": "31.10.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Wie aus einem FALSE eine 9.8 RCE in Node wird",
-      "link": "https://www.youtube.com/watch?v=8Hr0ymVjb2A",
-      "video_id": "8Hr0ymVjb2A",
-      "thumbnail": "https://img.youtube.com/vi/8Hr0ymVjb2A/mqdefault.jpg",
-      "datum": "2026-10-31T09:00:05+00:00",
-      "datum_de": "31.10.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "FRIEDMANN SOLUTIONS",
-      "titel": "Marketing mit n8n automatisieren: Vom Entwurf zur Freigabe",
-      "link": "https://www.youtube.com/watch?v=huUekLC9bW4",
-      "video_id": "huUekLC9bW4",
-      "thumbnail": "https://img.youtube.com/vi/huUekLC9bW4/mqdefault.jpg",
-      "datum": "2026-10-30T23:20:31Z",
-      "datum_de": "30.10.2026",
       "quelle": "suche"
     }
   ]
