@@ -1,7 +1,67 @@
 {
-  "aktualisiert": "2026-11-03T14:56:52.449324+00:00",
+  "aktualisiert": "2026-11-04T15:17:27.879720+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Diese drei CLIs schlagen Claude Code!",
+      "link": "https://www.youtube.com/watch?v=jVxX-cNJeP4",
+      "video_id": "jVxX-cNJeP4",
+      "thumbnail": "https://img.youtube.com/vi/jVxX-cNJeP4/mqdefault.jpg",
+      "datum": "2026-11-04T15:00:15+00:00",
+      "datum_de": "04.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "ToolVibes",
+      "titel": "n8n Tutorial (Deutsch): Lokale KI oder Cloud? Der Vergleich",
+      "link": "https://www.youtube.com/watch?v=g_yFmqSnAw8",
+      "video_id": "g_yFmqSnAw8",
+      "thumbnail": "https://img.youtube.com/vi/g_yFmqSnAw8/mqdefault.jpg",
+      "datum": "2026-11-04T11:24:20Z",
+      "datum_de": "04.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "SafeBreach",
+      "titel": "Ep. 92 - OpenAI’s Agents Hijacked a 25-Year-Old German Wiki and Masked That They Were Doing It",
+      "link": "https://www.youtube.com/watch?v=EEpnQ_6KGmg",
+      "video_id": "EEpnQ_6KGmg",
+      "thumbnail": "https://img.youtube.com/vi/EEpnQ_6KGmg/mqdefault.jpg",
+      "datum": "2026-11-04T11:00:30Z",
+      "datum_de": "04.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Es beginnt: KI hat jetzt eine eigene Sprache, die kein Mensch versteht",
+      "link": "https://www.youtube.com/watch?v=6Q0X-yk52w0",
+      "video_id": "6Q0X-yk52w0",
+      "thumbnail": "https://img.youtube.com/vi/6Q0X-yk52w0/mqdefault.jpg",
+      "datum": "2026-11-03T16:15:13+00:00",
+      "datum_de": "03.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Anthropic Börsengang: Die zwei krassesten KI-Zahlen",
+      "link": "https://www.youtube.com/shorts/-WcvSBGBES8",
+      "video_id": "-WcvSBGBES8",
+      "thumbnail": "https://img.youtube.com/vi/-WcvSBGBES8/mqdefault.jpg",
+      "datum": "2026-11-03T15:55:57+00:00",
+      "datum_de": "03.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Franzy Ma",
+      "titel": "Claude für Anfänger: Dein kompletter Start in 14 Minuten (Tutorial Deutsch)",
+      "link": "https://www.youtube.com/watch?v=Ti472WTEBnc",
+      "video_id": "Ti472WTEBnc",
+      "thumbnail": "https://img.youtube.com/vi/Ti472WTEBnc/mqdefault.jpg",
+      "datum": "2026-11-03T15:30:00Z",
+      "datum_de": "03.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "KI-App an einem Nachmittag gebaut 🚀",
@@ -31,6 +91,16 @@
       "datum": "2026-11-02T17:43:37+00:00",
       "datum_de": "02.11.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "MikesWorld",
+      "titel": "Gemini Notebook Update: Folien und Videos endlich nach DEINEM Plan! 🔥",
+      "link": "https://www.youtube.com/watch?v=-y65jx-WOmk",
+      "video_id": "-y65jx-WOmk",
+      "thumbnail": "https://img.youtube.com/vi/-y65jx-WOmk/mqdefault.jpg",
+      "datum": "2026-11-02T17:00:14Z",
+      "datum_de": "02.11.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "Christoph Magnussen",
@@ -80,76 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/4Hd0Asf9Us4/mqdefault.jpg",
       "datum": "2026-11-01T17:08:48Z",
       "datum_de": "01.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Shakeela ZQ",
-      "titel": "Claude Opus 5.5 + Gemini Notebook: Diese Kombination übernimmt dein SEO | SEO, GEO 2027 | NotebookLM",
-      "link": "https://www.youtube.com/watch?v=EUMInWJXZTM",
-      "video_id": "EUMInWJXZTM",
-      "thumbnail": "https://img.youtube.com/vi/EUMInWJXZTM/mqdefault.jpg",
-      "datum": "2026-11-01T16:00:29Z",
-      "datum_de": "01.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "DeepSeek Harness: Die fast KOSTENLOSE Claude Code Alternative?!",
-      "link": "https://www.youtube.com/watch?v=ZKE3mz0Bnyw",
-      "video_id": "ZKE3mz0Bnyw",
-      "thumbnail": "https://img.youtube.com/vi/ZKE3mz0Bnyw/mqdefault.jpg",
-      "datum": "2026-11-01T15:15:08+00:00",
-      "datum_de": "01.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Julian Ivanov | KI-Automatisierung",
-      "titel": "Claude 2.0 ist da: Alle neuen Funktionen einfach erklärt",
-      "link": "https://www.youtube.com/watch?v=WUse7fDq2VQ",
-      "video_id": "WUse7fDq2VQ",
-      "thumbnail": "https://img.youtube.com/vi/WUse7fDq2VQ/mqdefault.jpg",
-      "datum": "2026-11-01T13:59:44Z",
-      "datum_de": "01.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Moritz | KI einfach erklärt",
-      "titel": "Claude Code: Das einzige KI-Tool, das du lernen musst (komplettes Tutorial)",
-      "link": "https://www.youtube.com/watch?v=ETY6fakYBSE",
-      "video_id": "ETY6fakYBSE",
-      "thumbnail": "https://img.youtube.com/vi/ETY6fakYBSE/mqdefault.jpg",
-      "datum": "2026-11-01T11:00:20Z",
-      "datum_de": "01.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Platzt jetzt die KI-Blase? DAS wird ALLE überraschen! Anthropics Börsengang | KI-NEWS",
-      "link": "https://www.youtube.com/watch?v=VOYccAKu7Zg",
-      "video_id": "VOYccAKu7Zg",
-      "thumbnail": "https://img.youtube.com/vi/VOYccAKu7Zg/mqdefault.jpg",
-      "datum": "2026-11-01T09:15:03+00:00",
-      "datum_de": "01.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "AI Mentors",
-      "titel": "Claude erstellt jetzt kostenlos KI-Videos mit Google Flow",
-      "link": "https://www.youtube.com/watch?v=2noEfLqyqjg",
-      "video_id": "2noEfLqyqjg",
-      "thumbnail": "https://img.youtube.com/vi/2noEfLqyqjg/mqdefault.jpg",
-      "datum": "2026-11-01T08:00:26Z",
-      "datum_de": "01.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KIwi – KI einfach erklärt",
-      "titel": "Claude Code Skills Tutorial Deutsch: Eigenen Skill erstellen + Test",
-      "link": "https://www.youtube.com/watch?v=FjaGlkx7Quc",
-      "video_id": "FjaGlkx7Quc",
-      "thumbnail": "https://img.youtube.com/vi/FjaGlkx7Quc/mqdefault.jpg",
-      "datum": "2026-10-31T18:39:06Z",
-      "datum_de": "31.10.2026",
       "quelle": "suche"
     }
   ]
