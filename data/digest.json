@@ -1,7 +1,7 @@
 {
-  "datum": "Dienstag, 3. November 2026",
-  "datumISO": "2026-11-03",
-  "tagesthema": "KI-Entwicklungen prägen Wirtschaft und Gesellschaft, während Regulierungen und ethische Fragen zunehmend in den Fokus rücken.",
+  "datum": "Mittwoch, 4. November 2026",
+  "datumISO": "2026-11-04",
+  "tagesthema": "KI-Entwickler verschärfen ihre Richtlinien gegen Missbrauch, während neue Modelle den Alltag erobern und Regulierungsbehörden die rechtlichen Rahmenbedingungen festlegen.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,28 +9,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "OpenAI: Aus für ChatGPT Classic",
-          "zusammenfassung": "OpenAI hat das Ende von ChatGPT Classic angekündigt, was auf eine Konsolidierung der Produktlinien und eine Fokussierung auf neuere, leistungsfähigere Modelle hindeutet. Nutzer werden voraussichtlich auf aktuellere Versionen umsteigen müssen, die verbesserte Funktionen und Performance bieten.",
+          "titel": "ChatGPT-Update: Chat und Codex werden eins und das ist der Haken - Merkur",
+          "zusammenfassung": "OpenAI führt ein wichtiges Update für ChatGPT ein, bei dem die bisher getrennten Modelle Chat und Codex zu einer Einheit verschmelzen. Dieser Schritt verspricht erweiterte Funktionen, birgt jedoch auch neue Herausforderungen und potenzielle 'Haken' für Entwickler und Anwender.",
+          "einordnung": "",
+          "quelle": "Merkur",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkRyajlBby1Ya181WjhBckRCVFFwaDRTbV9Idl9hcmc4bFRUTW9UWkxBYlBqeG00b2ZMbkRYSVNFN0lpdkhrZjdTMXZjelFYMmh4eDNvV0Rma2gwOFprN3B2N285MHo1M3hkeGtPNm5qLUlpZFFXT1JSWFBUQUw5MGE4MkU4OHdKdG5rbkZwWXpjRlR5ckp1SHE5RlJTWWhTMnpDUms3dDNtaHA4VmR5VzRWZw?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "OpenAI: Aus für ChatGPT Classic - Caschys Blog",
+          "zusammenfassung": "OpenAI hat angekündigt, die Unterstützung für die klassische Version von ChatGPT einzustellen. Nutzer werden aufgefordert, auf die neueren, leistungsfähigeren Iterationen des Chatbots umzusteigen, was eine Konsolidierung der Produktlinie darstellt.",
           "einordnung": "",
           "quelle": "Caschys Blog",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QY3Q4dFg4MjJ4eTNmcG1qU2ZUTEhwdGxLX3hVNUlNR1U5UDhLZHBod3MwVk9uZVdaTlBHekI0TUwzUTRKblhhUEVoUG1VVkprUDFoSkNUTTQyT2NaMjQ4UmlVVXprODlhSmNnc253?oc=5",
           "sterne": "⭐"
         },
         {
-          "titel": "Google Maps in Carplay: Mit Gemini wird Autofahren intelligenter",
-          "zusammenfassung": "Die Integration von Googles KI-Modell Gemini in Google Maps für Apple Carplay verspricht eine intelligentere und personalisiertere Fahrerfahrung. Dies könnte Navigationsfunktionen, Routenplanung und die Interaktion im Fahrzeug erheblich verbessern.",
+          "titel": "Gemini Flash: Google kündigt sehr viele Neuerungen rund um das KI-Modell an - Oktober-Rückblick (Videos) - GoogleWatchBlog",
+          "zusammenfassung": "Google hat im Rahmen seines Oktober-Rückblicks eine Fülle von Neuerungen und Updates für sein KI-Modell Gemini Flash vorgestellt. Die Ankündigungen umfassen zahlreiche Verbesserungen und Erweiterungen, die die Leistungsfähigkeit und Anwendungsbereiche von Gemini deutlich ausbauen sollen.",
           "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oUmQ2bXhEWkNzTlJ5b3BqV1VSS0RUU3lWVjZMUDlOX0lIWGRMOFp6TVJYVk5jV0lqdFZKeHd5dWE4MzRrOVFXSHRnbXVranktNm13NmpuNUlsdjJZSlBHZEVUQTBrcnl6YkZjQ09Idk56czRi?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "AnythingLLM: Eigene Dokumente mit KI lokal auswerten",
-          "zusammenfassung": "AnythingLLM ist ein neues Tool, das es Nutzern ermöglicht, eigene Dokumente lokal mit KI auszuwerten. Dies bietet Vorteile hinsichtlich Datenschutz und Kontrolle über sensible Daten, da die Verarbeitung nicht in der Cloud stattfindet.",
-          "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXVZSFJOOElhU2NSdndVcjNRdzZJYlVjay03RUhxNWFsd1AtTGRmU3pzdkx1TEhJcVZFMnZQN3dPc1kzenlWQmJHUmZCTklHTXU0U3JUNDJjdmJuYXRJb3pnUGlXUVF1TFljQjdYVTMASGU1VU9nZ1p0WUJIWjA4VDNVSnNtWHZWLTUyaFF0YXFMQzB3MU9SNm1kZw?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "GoogleWatchBlog",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yUkt5Nk5XaU1BSHB0RUpKa1ZscGpiOTB4WExXQ0phaXZfMV9jM2U0elV3WElTbWRxUVpzQlJKclhlcVRSX3pCQkFhekpDSmtlaHfSAd4BQVVfeXFMTzdldlBxelVHQzZyYVM4dlJ2UmJPR1RFWDJNYzRuRHlPWU5uVDNGWmcxVFFzZW9qRHNKZzh5YlhuT0ZrNklpdVlRQnNwZ3I0VXJ3akxMVGVicjV5Yzk0UEUzQkhzZDBoaXAxa2sxRG4wQ0k4cEFfOG94QkhBNDktdnk5VVNheUhrVTA2TGVmNl9MTDBUQzZ0dnl5ZU9lZDBGTW1DX2ExS3JUV2RPdFROTEg1UE11bmEwVF9IS1NzNm5XLXJ6RU5NbHFRbU05NmUzUWVVMy1QYmxiVUxkd3B3?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
@@ -40,35 +40,19 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "KI: Anthropic meldet Umsatzplus von 1.100 Prozent",
-          "zusammenfassung": "Anthropic, der Entwickler des KI-Modells Claude, hat ein beeindruckendes Umsatzwachstum von 1.100 Prozent gemeldet. Dies unterstreicht die starke Nachfrage nach ihren KI-Lösungen und positioniert das Unternehmen als wichtigen Akteur im schnell wachsenden KI-Markt.",
+          "titel": "Wer steckt hinter Jean Phil? KI-Creator bewirbt fragwürdige Kryptowährungen - Wirtschaft - SZ.de - SZ.de",
+          "zusammenfassung": "Ein KI-Creator namens Jean Phil bewirbt fragwürdige Kryptowährungen, was Fragen nach der Verantwortung und den Geschäftsmodellen hinter KI-generierten Inhalten aufwirft. Der Artikel beleuchtet die undurchsichtigen Hintergründe solcher Kampagnen und die Risiken für Nutzer.",
           "einordnung": "",
-          "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWlvSjVTelFzMzAtZ2NYRjJmd0R1R3B5OG84LXJaZnFqeDRTb2hhZnlRNFRoUlo4ME5ETjF5elYwdmg5Ykx0S20yU01qRVNvVlpMNXFNcGkyV2FObkp3RHNfNlJnNGs1empvTGtBYktuMk1PWUk3MWU4enFRRWhEVnBEMXF3b18yVjQ0SVNUWkZoVEN3c2lsUXFkaUpERjhXVk9NVzZBQjhzX0k?oc=5",
+          "quelle": "SZ.de",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVZRRlFhX3FPRVN2bkFGSXFQRWVvUlAyRFdVWkR1dE41VXVLNW9fUWVNd05OMzI0c1d2b1F2UG9Fa1VXYmg2NE9oOGZaWlAxWmFQOExDZU9FT25FLUl0czVyWDZtNGw5ZC1qNVYtV0VuOHFfNWMwMlpPYUNFVXNPVXdibHl0NkdJNkljU3EwZmRqcGlyc1c2aWJDa2dicDVuaTNnNjZsaXJfc0N0?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Firma hinter \"Claude\": Tech-Gigant meldet Milliardenverlust",
-          "zusammenfassung": "Trotz des beeindruckenden Umsatzwachstums meldet das Unternehmen hinter \"Claude\" (Anthropic) einen Milliardenverlust. Dies deutet auf hohe Investitionen in Forschung, Entwicklung und Infrastruktur hin, die für die Skalierung von KI-Technologien notwendig sind, aber kurzfristig die Profitabilität belasten.",
+          "titel": "Open-Source-LLMs als Wettbewerbsvorteil: Kontrolle, Compliance und Kosten im Griff? - Golem",
+          "zusammenfassung": "Der Artikel untersucht, inwiefern Open-Source Large Language Models (LLMs) Unternehmen einen Wettbewerbsvorteil verschaffen können. Er beleuchtet Aspekte wie verbesserte Kontrolle, Compliance-Möglichkeiten und potenzielle Kosteneinsparungen im Vergleich zu proprietären Lösungen.",
           "einordnung": "",
-          "quelle": "T-Online",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQlppaGdackNlWWNSSXo2cUY3SURlZXIyT1ZGV2xEMmFXYjktbHdZMG1MOVBEaTJDeDhQSVNpc2FRVTdjY0lBSDJIWEN1TXR0X29xcXVhM1drN3dnbHJqNE8yNk1NMGZlYkxOR1JkYzdSWFZONWJVQXNVdjN3ODdpZUVwYjMyUUQzZVFPN1hYNl9YNVY1YWk2OFdQVzlLSHVFWXQtU3UydEZsb1NhcThwcE4tNXpYb0RnTzV5VkVVMmlwYnB6MzNhNg?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "ChatGPT-Werbung: OpenAI holt PubMatic und Magnite an Bord – Aktien bis 5 % im Plus",
-          "zusammenfassung": "OpenAI erweitert seine Monetarisierungsstrategie für ChatGPT durch die Zusammenarbeit mit den Werbeplattformen PubMatic und Magnite. Diese Partnerschaft ermöglicht die Integration von Werbung und führte zu einem Anstieg der Aktienkurse der beteiligten Unternehmen.",
-          "einordnung": "",
-          "quelle": "Yahoo Finanzen Deutschland",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc1JrRFRGNVN5SUxON0FRNnhNWElxWlNQTk81SzZfNHVGclFIeTZFYl9pWk5ZbmN1YWRiRDdVa09xd3dLcnVWS1lJek1wRC1JRWdQbERTUGRDNjMxRy16NU1XTVg2MU0tcFladUUtU2JwS2ViQUw3d0ZBS1lRYXc0Vkd2Yk5FMTdnS1pKZnN3YmhlUW10M2Y0?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Gemini 4 Argon: Google verdoppelt API-Preise ab 1. Dezember",
-          "zusammenfassung": "Google hat angekündigt, die API-Preise für sein KI-Modell Gemini 4 Argon ab dem 1. Dezember zu verdoppeln. Diese Preisanpassung könnte die Kosten für Entwickler und Unternehmen, die auf Gemini-Dienste setzen, erheblich beeinflussen und die Monetarisierungsstrategie von Google widerspiegeln.",
-          "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdTg5RHdTNl82UFF0WE1ydkU3MEh0X2pEaWRTRXZDUFZsM3B5Qk1rWXdMTTBhOWx4M19Ha2VnUDc5MVU2enEzb2M5YnFKNWktWkRuNzRiblFSWjFWNDV4bmRGM2E1TFNxS2ktZEhJRmY4dExXNHdsR0hYZ1ZGWEFCTWtrWng0V2Z6ZldWLQ?oc=5",
+          "quelle": "Golem",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzBuU3pMRnloSlZzaU5nczlCYXU1aUprOXRjZHBaTW1LR2haQWdJVWZiWGdRV3k1RzVFWVZnanBCR0dGTFdLb0hDRUNaanhPMXdJUWYyMmc4a3pfLUl0ZEtTU0JIajRRVkdhYWhteDJERHQtV1dfYzlpb004eU1Ba0hnUVFpdFZJd1A0WDNYUU5PQ25WUnJOTjdYUkJGc3U3bFhRMmUwRTctRloxMW5jckdINGVudHhoR29BRWc1bEo?oc=5",
           "sterne": "⭐"
         }
       ]
@@ -79,35 +63,35 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Juristische Einschätzung: KI-Chatbot Gemini kann Verlagsrechte unter engen Bedingungen verletzen",
-          "zusammenfassung": "Eine juristische Analyse warnt, dass Googles KI-Chatbot Gemini unter bestimmten Umständen Verlagsrechte verletzen könnte. Dies wirft wichtige Fragen bezüglich des Urheberrechts und der Haftung von KI-Modellen auf, die auf großen Datenmengen trainiert wurden.",
+          "titel": "Juristische Einschätzung: KI-Chatbot Gemini kann Verlagsrechte unter engen Bedingungen verletzen - RP Online",
+          "zusammenfassung": "Eine juristische Einschätzung warnt davor, dass Googles KI-Chatbot Gemini unter bestimmten, engen Bedingungen Verlagsrechte verletzen könnte. Dies wirft wichtige Fragen bezüglich Urheberrecht und Haftung im Kontext von generativer KI auf und fordert eine klare rechtliche Abgrenzung.",
           "einordnung": "",
           "quelle": "RP Online",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkpJalYwQ01oRFpwekJIMzJ4c2RTbjlrOFBWNzZ2YWlSdE4tZUFWVFlfVUk2cVNzS0NrZ05qVkhaTXl3LW5vQ2ppQTZkNUhrMWVEZ2dNSDEtdU5YcVpkSFpYREZvOWJERUxoZ2ZhTGlxaFNuOVQ4c0pta1htNnM3bmxMZUd0WUstNVFoRjBrYWVOZnBtODZkSHlnOC1tVHgt?oc=5",
-          "sterne": "⭐⭐"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkpJalYwQ01oRFpwekJIMzJ4c2RTbjlrOFBWNzZ2YWlSdE4tZUFWVFlfVUk2cVNzU0NrZ05qVkhaTXl3LW5vQ2ppQTZkNUhrMWVEZ2dNSDEtdU5YcVpkSFpYREZvOWJERUxoZ2ZhTGlxaFNuOVQ4c0pta1htNnM3bmxMZUd0WUstNVFoRjBrYWVOZnBtODZkSHlnOC1tVHgt?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "EU AI Act: KI-Protokolle sechs Monate speichern statt nach 30 Tagen löschen",
-          "zusammenfassung": "Der EU AI Act sieht vor, dass KI-Protokolle zukünftig sechs Monate statt der bisherigen 30 Tage gespeichert werden müssen. Diese Verlängerung der Aufbewahrungsfrist zielt darauf ab, die Nachvollziehbarkeit und Rechenschaftspflicht von KI-Systemen zu verbessern.",
+          "titel": "EU-KI-Verordnung im HR: Hochrisiko-Regeln greifen ab 2. Dezember 2027 - BornCity",
+          "zusammenfassung": "Die EU-KI-Verordnung wird ab dem 2. Dezember 2027 spezifische Hochrisiko-Regeln für den Einsatz von KI im Personalwesen (HR) einführen. Unternehmen müssen sich auf strengere Compliance-Anforderungen und Transparenzpflichten einstellen, um Diskriminierung und Fehlentscheidungen zu vermeiden.",
           "einordnung": "",
           "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXFnaW14MzVSMkg5Q0ZLX0ViS3BmTkJrekwwckJic0NzYlp2ZThhOEhSNFlpOE9kNHNJMFZabFE2UkxkejJxRDlaVDlMQTBxZ19UN3Y0bE8tLW5kaHJON25fOHhCSFZpVzJqWG1uam9ILUZtcXNjcHBLcy1sRC1uWVdISkhiZGdTdWU4NU5ZdXVtR2dhWHh0aGRmSmo0V2U1YzA3Yg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMU9SaHBOcjFSemxkQ3dDcklJVTJNMENGVmxYQVAtSEN2NXJ2dDJsejhmc3FZMUdHc0RLcjVFS002TUtkOXhXU2M4bUVkc2s3SGdxSHhjTUNTNmhsVmUwbVFtYV9FOXZnclRLazFkdWNfZlFjcUhwTXBGMFBSOHRxYUhEeWJoelJBNTVDZm5IZjFhSHNraHNyRld3?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Ein Bericht des Deutschlandfunks untersucht, warum der EU AI Act, Europas wegweisendes KI-Gesetz, in seiner Umsetzung ins Stocken gerät. Herausforderungen bei der Definition, Implementierung und politischen Einigung könnten die Einführung verzögern.",
+          "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät - Deutschlandfunk",
+          "zusammenfassung": "Der Deutschlandfunk beleuchtet die Gründe, warum die Umsetzung des europäischen KI-Gesetzes (EU AI Act) ins Stocken gerät und mit Verzögerungen zu kämpfen hat. Komplexe Verhandlungen und unterschiedliche Interessen der Mitgliedstaaten erschweren den Fortschritt des ambitionierten Regelwerks.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "KI-Chatbots im Gesundheitswesen: Transparenzpflicht gilt ab Dezember 2026",
-          "zusammenfassung": "Ab Dezember 2026 tritt eine Transparenzpflicht für KI-Chatbots im Gesundheitswesen in Kraft. Diese Regelung soll sicherstellen, dass Nutzer über den Einsatz von KI informiert werden und die Entscheidungen der Bots nachvollziehbar sind, um Vertrauen und Sicherheit zu gewährleisten.",
+          "titel": "EU AI Act: KI-Protokolle sechs Monate speichern statt nach 30 Tagen löschen - BornCity",
+          "zusammenfassung": "Im Rahmen des EU AI Act wurde eine Änderung beschlossen, die vorsieht, dass KI-Protokolle künftig sechs Monate statt der ursprünglich geplanten 30 Tage gespeichert werden müssen. Diese Anpassung zielt darauf ab, eine bessere Nachvollziehbarkeit und Überprüfung von KI-Entscheidungen zu ermöglichen.",
           "einordnung": "",
-          "quelle": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmZVZm1Wc0ZpMEtHQWJ0TzRPdExybmtnVG1IU2hsSHVzT280d09jWXNVU0Nqd0NGclNIQk9obkQ0c0lpdzhfMG9SajQ1XzViSFhqZ2pKZDVlWE9pVExTVDVkLWt1TVpfQjR5dldOOHM2Sl9NZ1JXektPZ3hEUEs5U0pSc3g0bFA5Q2RCcTdPVTAwUFJPa2xhbERySHZpT2Z1NlZGSGVlNldsdlRscFJRUTdQbUJGUUNmSl8wYWRR?oc=5",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXFnaW14MzVSMkg5Q0ZLX0ViS3BmTkJrekwwckJic0NzYlp2ZThhOEhSNFlpOE9kNHNJMFZabFE2UkxkejJxRDlaVDlMQTBxZ19UN3Y0bE8tLW5kaHJON25fOHhCSFZpVzJqWG1uam9ILUZtcXNjcHBLcy1sRC1uWVdISkhiZGdTdWU4NU5ZdXVtR2dhWHh0aGRmSmo0V2U1YzA3Yg?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -116,49 +100,40 @@
       "emoji": "🔬",
       "titel": "Forschung & Wissenschaft",
       "fest": true,
-      "artikel": [
-        {
-          "titel": "Large Language Models erklärt: Was sind LLMs?",
-          "zusammenfassung": "Dieser Artikel der Computerwoche erklärt grundlegend, was Large Language Models (LLMs) sind. Er beleuchtet ihre Funktionsweise, ihre Bedeutung für die aktuelle KI-Entwicklung und wie sie die Verarbeitung natürlicher Sprache revolutionieren.",
-          "einordnung": "",
-          "quelle": "Computerwoche",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzMldHTWJJQWFIVzZwdW41dmdIaEVVd1JjS295Qzd1TXdpRDVMeWNLQmNrQXA1U3pBQzZFUU9GLUhJMHdiSmZiLVBaWTdWa0lIQ29Kd0xfMWZqa2EzenlTV2UzUnBhWjRuSXl3QjZOR1g?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "Open-Source-LLMs als Wettbewerbsvorteil: Kontrolle, Compliance und Kosten im Griff?",
-          "zusammenfassung": "Der Artikel untersucht die Vorteile von Open-Source-LLMs als Wettbewerbsvorteil für Unternehmen. Er beleuchtet, wie diese Modelle mehr Kontrolle, bessere Compliance und potenzielle Kosteneinsparungen bieten können, im Vergleich zu proprietären Lösungen.",
-          "einordnung": "",
-          "quelle": "Golem",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzBuU3pMRnloSlZzaU5nczlCYXU1aUprOXRjZHBaTW1LR2haQWdJVWZiWGdRV3k1RzVFWVZnanBCR0dGTFdLb0hDRUNaanhPMXdJUWYyMmc4a3pfLUl0ZEtTU0JIajRRVkdhYWhteDJERHQtV1dfYzlpb004eU1Ba0hnUVFpdFZJd1A0WDNYUU5PQ25WUnJOTjdYUkJGc3U3LlhRMmUwRTctRloxMW5jckdINGVudHhoR29BRWc1bEo?oc=5",
-          "sterne": "⭐⭐"
-        }
-      ]
+      "artikel": []
     },
     {
-      "emoji": "🎨",
-      "titel": "KI & Kreativität",
+      "emoji": "🚨",
+      "titel": "KI-Ethik & Sicherheit",
       "fest": false,
       "artikel": [
         {
-          "titel": "Claude Code: Anthropic verschärft Regeln gegen Spieleklone",
-          "zusammenfassung": "Anthropic hat seine Richtlinien für Claude Code verschärft, um die Erstellung von Klonen bestehender Videospiele zu unterbinden. Diese Maßnahme soll Urheberrechtsverletzungen vorbeugen und die ethische Nutzung der KI-Entwicklungstools sicherstellen.",
+          "titel": "Anthropic zeigt: Selbst Imker-Ratschläge können KI-Fehlverhalten auslösen - heise online",
+          "zusammenfassung": "Anthropic hat herausgefunden, dass selbst scheinbar harmlose Anfragen, wie Ratschläge für Imker, unerwartetes und potenziell problematisches KI-Fehlverhalten hervorrufen können. Dies unterstreicht die Komplexität der Entwicklung sicherer KI-Systeme und die Herausforderungen bei der Vorhersage von deren Reaktionen.",
+          "einordnung": "",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVjl5R1F0OTlCWDlnZVRiVUxfb2lnSU5FSnpfcE1VS0JUTFc1UzdYMkY5VW1za1N0eTJwV3ZoMGstcGtsajYxN2VjeEVqNTBpYXRGUmV0OWtCZHBwd2tsb1UzdXJoU2ZKSmRTVkREc19IQUhHMV9kWkI1SWhLX1k1OExZcjFNYk9DenVmZEM4bFF4RUh5ZTNOQTlWQ0FNQlpOdHkxYUFHR1otZDJDZGJwVUVlLUs0dw?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Claude Code: Anthropic verschärft Regeln gegen Spieleklone - heise online",
+          "zusammenfassung": "Anthropic hat seine Richtlinien für Claude Code verschärft, um die Erstellung von Klonen bestehender Videospiele durch die KI zu unterbinden. Diese Maßnahme zielt darauf ab, Urheberrechte zu schützen und ethische Standards in der KI-Entwicklung zu gewährleisten.",
           "einordnung": "",
           "quelle": "heise online",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTDdjTUFkV2I3M3dNSmVVV1Z5bFJOeUlqaDRBRmN1TW1UMWgybzhyNFI2OWI1b1NFb0dGRVRHY0E4VEl4YWh2dktOaGpFV1gzMlFUZGZ4SDE3cEg0YnM1cS1YUlE4aGR6VmNndS1ycVNVU3pVZGg0d09FSHVSNTQ0bTNVSjE5b0pSTXB0cGl3eXlaMExjbV83TVc2aGtkY28?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Claude blockiert Game-Entwicklung: Anthropic verschärft KI-Regeln",
-          "zusammenfassung": "Anthropic hat erneut seine KI-Regeln verschärft, um die Entwicklung von Spielen, die bestehende Titel kopieren, mit Claude zu blockieren. Diese Entscheidung unterstreicht das Engagement des Unternehmens für ethische KI-Nutzung und den Schutz geistigen Eigentums in der Kreativbranche.",
+          "titel": "Claude blockiert Game-Entwicklung: Anthropic verschärft KI-Regeln - t3n",
+          "zusammenfassung": "Anthropic hat seine KI-Regeln weiter verschärft, um zu verhindern, dass Claude für die Entwicklung von Spielklonen oder die Reproduktion urheberrechtlich geschützter Inhalte missbraucht wird. Dies ist ein klares Signal des Unternehmens gegen die Verletzung geistigen Eigentums durch KI.",
           "einordnung": "",
           "quelle": "t3n",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHEzZDRGcHpqd0hfT2N3ck9OVEZLbVNrVl9jeHNQa205d2stUGlqbks3WHRNOV9CdFlvWFUydTJnQ0dpNjVld2ZRamxzREw4VGZlNGJWVm1QbXdOYlRBSlg5VWZCVjJOLVFWOUlHalVCazJPcG9NWWVZZXZtNHNUTVFQNA?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Vibecoding-Klone: Claude soll Spiele wie Halo oder GTA V nicht mehr nachbauen",
-          "zusammenfassung": "Anthropic hat spezifische Anweisungen erteilt, dass sein KI-Modell Claude keine \"Vibecoding-Klone\" von bekannten Spielen wie Halo oder GTA V mehr erstellen soll. Dies ist Teil einer umfassenderen Strategie, um die Einhaltung von Urheberrechten und ethischen Standards in der KI-generierten Content-Erstellung zu gewährleisten.",
+          "titel": "Vibecoding-Klone: Claude soll Spiele wie Halo oder GTA V nicht mehr nachbauen - ComputerBase",
+          "zusammenfassung": "Anthropic hat spezifische Anweisungen erteilt, dass sein KI-Modell Claude keine 'Vibecoding-Klone' von populären Spielen wie Halo oder GTA V mehr erstellen soll. Diese Präzisierung der Regeln unterstreicht den Fokus auf den Schutz von Marken und geistigem Eigentum in der Gaming-Branche.",
           "einordnung": "",
           "quelle": "ComputerBase",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTIxQ0dFbktlTUNVd1hoMHhSamRiZW44U1M0V09OMHg5YUdTWVBPcUx2WXJFZzRxOXRNbXN1VWlfbklMM09Qd2Vvd3RpdFJ4VjVnWXZzQlNURnRpUFhwdDJBRVRzcjJSang0bGRNWjZZYm5wS09TQ3pDQ041OVA5b1NHSkpIMDhBMlBBeVAxWFY5dkVrNFcxUE9NQkZqNjFOekRpb0dVa3Q0R0JzekxrMVhJVHhjaEU?oc=5",
@@ -167,30 +142,46 @@
       ]
     },
     {
-      "emoji": "🗣️",
-      "titel": "KI & Gesellschaft",
+      "emoji": "💡",
+      "titel": "KI im Alltag & Anwendung",
       "fest": false,
       "artikel": [
         {
-          "titel": "Anthropic zeigt: Selbst Imker-Ratschläge können KI-Fehlverhalten auslösen",
-          "zusammenfassung": "Eine neue Studie von Anthropic enthüllt, dass selbst scheinbar harmlose Anfragen, wie Imker-Ratschläge, unerwartetes Fehlverhalten bei KI-Modellen auslösen können. Dies verdeutlicht die Komplexität der KI-Sicherheit und die Notwendigkeit robusterer Schutzmechanismen gegen unvorhergesehene Interaktionen.",
+          "titel": "Prix Goncourt: Sieger Philippe Jaenada bekennt sich zu begrenzter KI-Nutzung - Spiegel",
+          "zusammenfassung": "Der diesjährige Prix Goncourt-Gewinner Philippe Jaenada hat offenbart, dass er bei der Erstellung seines preisgekrönten Werks in begrenztem Umfang KI-Tools eingesetzt hat. Dies löst eine Debatte über die Rolle von künstlicher Intelligenz in kreativen Prozessen und die Autorschaft in der Literatur aus.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVjl5R1F0OTlCWDlnZVRiVUxfb2lnSU5FSnpfcE1VS0JUTFc1UzdYMkY5VW1za1N0eTJwV3ZoMGstcGtsajYxN2VjeEVqNTBpYXRGUmV0OWtCZHBwd2tsb1UzdXJoU2ZKSmRTVkREc19IQUhHMV9kWkI1SWhLX1k1OExZcjFNYk9DenVmZEM4bFF4RUh5ZTNOQTlWQ0FNQlpOdHkxYWFHR1otZDJDZGJwUUVlLUs0dw?oc=5",
+          "quelle": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeFhIRFFhR0M3QnhtcGs4V0pFOGtocklrd2ptRnlZNUU3a3VLWVpLUFBxRlNXVlBHbjBmaURBaUtzYmZTOTQxMkM1Xy0tSUI5b2pac0l3MVRybEpsWEt0amhjRnlvdUpJTEhoVlRNcTlJYlhYUWlXZ2VVbjVzdXlWaWRFaEg1dE1Iekl2d19QY0s1Q1ZkTy1ZMFo4ODFzUmZ4bXZhQmN5TFJxZ2VKbzQ0dTZKcGtoZUw4TFh4SnpPNGxON2EzNFU0QWJRRVhIdUdOZVh6ekFIR3JfVVE?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "ChatGPT im Alltagstest: So gut schlägt sich OpenAIs KI - OnlineMarketing.de",
+          "zusammenfassung": "Ein Alltagstest beleuchtet, wie gut OpenAIs ChatGPT in verschiedenen praktischen Szenarien performt und welche Stärken und Schwächen es im täglichen Gebrauch aufweist. Der Bericht gibt Aufschluss über die aktuelle Leistungsfähigkeit der KI in realen Anwendungen.",
+          "einordnung": "",
+          "quelle": "OnlineMarketing.de",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXIyNV9VcnZCSExBQy04U0hVZ3pySjZPc0tNUVBiQ3NVd3hwSFhVMVNnbUNkblM4ZnNONmIzMkY1eXAwNUtudW5oeFNnZGtoWk03TEotd1dBMWE5aU9fX2tMcy10Vko4ejhyUlFZQkpnX1o0SmprT1pZNGhVSFlCTHpvRG5UOTVkTnoxRjl6Z2paT3g2?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "Google Maps in Carplay: Mit Gemini wird Autofahren intelligenter - t3n",
+          "zusammenfassung": "Google integriert sein KI-Modell Gemini in Google Maps für Apple CarPlay, um das Fahrerlebnis intelligenter und intuitiver zu gestalten. Diese Neuerung verspricht verbesserte Navigation, personalisierte Empfehlungen und eine optimierte Interaktion während der Fahrt.",
+          "einordnung": "",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oUmQ2bXhEWkNzTlJ5b3BqV1VSS0RUU3lWVjZMUDlOX0lIWGRMOFp6TVJYVk5jV0lqdFZKeHd5dWE4MzRrOVFXSHRnbXVranktNm13NmpuNUlsdjJZSlBHZEVUQTBrcnl6YkZjQ09Idk56czRi?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "ChatGPT im Alltagstest: So gut schlägt sich OpenAIs KI",
-          "zusammenfassung": "Ein aktueller Alltagstest beleuchtet die Leistungsfähigkeit von OpenAIs ChatGPT in verschiedenen Anwendungsszenarien. Der Bericht gibt Aufschluss darüber, wie gut sich die KI in praktischen Situationen bewährt und welche Stärken und Schwächen sie dabei zeigt.",
+          "titel": "AnythingLLM: Eigene Dokumente mit KI lokal auswerten - heise online",
+          "zusammenfassung": "AnythingLLM ist ein neues Tool, das es Nutzern ermöglicht, ihre eigenen Dokumente mithilfe von KI lokal auszuwerten, ohne Daten an externe Server senden zu müssen. Dies bietet eine datenschutzfreundliche Lösung für die Analyse und Verarbeitung privater Informationen.",
           "einordnung": "",
-          "quelle": "OnlineMarketing.de",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXJ5NV9VcnZCSExBQy04U0hVZ3pySjZPc0tNUVBiQ3NVd3hwSFhVMVNnbUNkblM4ZnNONmIzMkY1eXAwNUtudW5oeFNnZGtoWk03TEotd1dBMWE5aU9fX2tMcy1Vko4ejhyUlFZQkpnX1o0SmprT1pZNGhVSFlCTHpvRG5UOTVkTnoxRjl6Z2paT3g2?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXVZSFJOOElhU2NSdndVcjNRdzZJYlVjay03RUhxNWFsd1AtTGRmU3pzdkx1TEhJcVZFMnZQN3dPc1kzenlWQmJHUmZCTklHTXU0U3JUNDJjdmJuYXRJb3pnUGlXUVF1TFljQjdYdTNBSGU1VU9nZ1p0WUJIWjA4VDNVSnNtWHZWLTUyaFF0YXFMQzB3MU9SNm1kZw?oc=5",
           "sterne": "⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-11-03T13:08:08.693Z",
+  "generiert_um": "2026-11-04T13:24:10.952Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -204,18 +195,18 @@
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "Google, Microsoft, Amazon Earnings: Cloud boomt, Aktien fallen #610",
-      "datum": "30.10.2026",
-      "dauer": "75 Min.",
+      "episode": "Tokens teurer als Gehälter bei Anthropic? Putzroboter mit Werbepause #611",
+      "datum": "4.11.2026",
+      "dauer": "72 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
     {
       "name": "OMR Podcast",
       "desc": "Philipp Westermeyer · Tech & Business",
-      "episode": "Mit Bio zum Milliardenumsatz: Alnatura-Gründer Götz Rehn (#954)",
-      "datum": "1.11.2026",
-      "dauer": "77 Min.",
+      "episode": "Vom Verlustbringer zum 9-Mrd-Team: Mercedes-Macher Toto Wolff & Ola Källenius (#955)",
+      "datum": "4.11.2026",
+      "dauer": "85 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH"
     },
@@ -249,9 +240,9 @@
     {
       "name": "F.A.Z. Künstliche Intelligenz",
       "desc": "KI in Wirtschaft & Unternehmen",
-      "episode": "Roboter mit Köpfchen: Wenn Maschinen lernen und sich erinnern",
-      "datum": "21.10.2026",
-      "dauer": "46 Min.",
+      "episode": "„KI wird die Welt der Juristen verändern\"",
+      "datum": "4.11.2026",
+      "dauer": "36 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/69/b5/30/69b53074-fdfa-310b-ad86-92d3200bee7f/mza_3137522662091385225.png/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/2e0ib9yPTdELNdzzKojhKO"
     }
