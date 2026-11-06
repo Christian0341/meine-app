@@ -1,7 +1,107 @@
 {
-  "aktualisiert": "2026-11-05T15:18:22.913021+00:00",
+  "aktualisiert": "2026-11-06T14:54:26.320897+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Akademie4KI",
+      "titel": "10x produktiver mit Claude Skills! (Anfänger Tutorial)",
+      "link": "https://www.youtube.com/watch?v=hz9zfeMimAw",
+      "video_id": "hz9zfeMimAw",
+      "thumbnail": "https://img.youtube.com/vi/hz9zfeMimAw/mqdefault.jpg",
+      "datum": "2026-11-06T13:00:28+00:00",
+      "datum_de": "06.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Siri’s Former Writer: What AI Can Teach Us About Being Human | Mariana Lin",
+      "link": "https://www.youtube.com/watch?v=yB5DVmmJxqI",
+      "video_id": "yB5DVmmJxqI",
+      "thumbnail": "https://img.youtube.com/vi/yB5DVmmJxqI/mqdefault.jpg",
+      "datum": "2026-11-06T12:00:12+00:00",
+      "datum_de": "06.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Claude Code sagt Nein zu Game-Klonen 🚫",
+      "link": "https://www.youtube.com/shorts/DVYElODvLVE",
+      "video_id": "DVYElODvLVE",
+      "thumbnail": "https://img.youtube.com/vi/DVYElODvLVE/mqdefault.jpg",
+      "datum": "2026-11-06T08:57:41+00:00",
+      "datum_de": "06.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "PEGASUS Heilbronn",
+      "titel": "KI-Agent erstellen: Kein Rückruf geht mehr verloren",
+      "link": "https://www.youtube.com/watch?v=oHUPljeKXns",
+      "video_id": "oHUPljeKXns",
+      "thumbnail": "https://img.youtube.com/vi/oHUPljeKXns/mqdefault.jpg",
+      "datum": "2026-11-05T17:30:34Z",
+      "datum_de": "05.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Aivrow",
+      "titel": "Claude 2.0 in 15 Minuten meistern!",
+      "link": "https://www.youtube.com/watch?v=Xsuig6P1m70",
+      "video_id": "Xsuig6P1m70",
+      "thumbnail": "https://img.youtube.com/vi/Xsuig6P1m70/mqdefault.jpg",
+      "datum": "2026-11-05T17:00:19Z",
+      "datum_de": "05.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "tkay",
+      "titel": "Claude Cowork + TikTok Shop = 32.485,92€ in 7 tagen",
+      "link": "https://www.youtube.com/watch?v=9GC1QLzP-4c",
+      "video_id": "9GC1QLzP-4c",
+      "thumbnail": "https://img.youtube.com/vi/9GC1QLzP-4c/mqdefault.jpg",
+      "datum": "2026-11-05T17:00:08Z",
+      "datum_de": "05.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Astronaut: Was bis 2030 kommt, wird keiner glauben! Roboter, Mond-Hotels, Dyson-Sphären & Aliens",
+      "link": "https://www.youtube.com/watch?v=YajzUoRKSNQ",
+      "video_id": "YajzUoRKSNQ",
+      "thumbnail": "https://img.youtube.com/vi/YajzUoRKSNQ/mqdefault.jpg",
+      "datum": "2026-11-05T16:15:04+00:00",
+      "datum_de": "05.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Darrel Wilson Auf Deutsch",
+      "titel": "WordPress mit AI Agents automatisieren: Dein kompletter Guide für WordPress auf Autopilot",
+      "link": "https://www.youtube.com/watch?v=81--ALkuLuY",
+      "video_id": "81--ALkuLuY",
+      "thumbnail": "https://img.youtube.com/vi/81--ALkuLuY/mqdefault.jpg",
+      "datum": "2026-11-05T16:00:08Z",
+      "datum_de": "05.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "MiniMax M3.1 Flash kostet fast nichts. Taugt es was?",
+      "link": "https://www.youtube.com/watch?v=dOTPE-v7NiA",
+      "video_id": "dOTPE-v7NiA",
+      "thumbnail": "https://img.youtube.com/vi/dOTPE-v7NiA/mqdefault.jpg",
+      "datum": "2026-11-05T15:21:46+00:00",
+      "datum_de": "05.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Patrick David ",
+      "titel": "Das ENDE von Claude?! Grokbot könnte ALLES ändern.",
+      "link": "https://www.youtube.com/watch?v=VBT3GkFBock",
+      "video_id": "VBT3GkFBock",
+      "thumbnail": "https://img.youtube.com/vi/VBT3GkFBock/mqdefault.jpg",
+      "datum": "2026-11-05T15:21:38Z",
+      "datum_de": "05.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "Kühltruhen gehackt?",
@@ -44,113 +144,13 @@
     },
     {
       "kanal": "HardReset_info Deutsch",
-      "titel": "Claude AI – Kettenschaltung von Slash-Befehlen – Kommentare zusammenfügen",
-      "link": "https://www.youtube.com/watch?v=i9RtxN2GnXw",
-      "video_id": "i9RtxN2GnXw",
-      "thumbnail": "https://img.youtube.com/vi/i9RtxN2GnXw/mqdefault.jpg",
-      "datum": "2026-11-05T03:46:01Z",
+      "titel": "Claude AI – Vertragsprüfung mit rot/gelb/grün markierten Klauseln",
+      "link": "https://www.youtube.com/watch?v=_t330Cb_OQ0",
+      "video_id": "_t330Cb_OQ0",
+      "thumbnail": "https://img.youtube.com/vi/_t330Cb_OQ0/mqdefault.jpg",
+      "datum": "2026-11-05T03:47:44Z",
       "datum_de": "05.11.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "HardReset_info Deutsch",
-      "titel": "Claude AI – Stellenbeschreibungen mit Claude AI erstellen",
-      "link": "https://www.youtube.com/watch?v=iuaDoO5w4wU",
-      "video_id": "iuaDoO5w4wU",
-      "thumbnail": "https://img.youtube.com/vi/iuaDoO5w4wU/mqdefault.jpg",
-      "datum": "2026-11-05T03:36:14Z",
-      "datum_de": "05.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "HardReset_info Deutsch",
-      "titel": "Claude AI – Was ist MCP und warum ist es wichtig?",
-      "link": "https://www.youtube.com/watch?v=OZSPGz6Kj1M",
-      "video_id": "OZSPGz6Kj1M",
-      "thumbnail": "https://img.youtube.com/vi/OZSPGz6Kj1M/mqdefault.jpg",
-      "datum": "2026-11-05T03:35:17Z",
-      "datum_de": "05.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "HardReset_info Deutsch",
-      "titel": "Claude AI – Kampagnenbriefing aus einer Idee erstellen",
-      "link": "https://www.youtube.com/watch?v=KaoxGF0vEUQ",
-      "video_id": "KaoxGF0vEUQ",
-      "thumbnail": "https://img.youtube.com/vi/KaoxGF0vEUQ/mqdefault.jpg",
-      "datum": "2026-11-05T03:33:35Z",
-      "datum_de": "05.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "HardReset_info Deutsch",
-      "titel": "Claude AI – Was sind Artefakte und wie nutzt man sie?",
-      "link": "https://www.youtube.com/watch?v=H5fp9liqsyo",
-      "video_id": "H5fp9liqsyo",
-      "thumbnail": "https://img.youtube.com/vi/H5fp9liqsyo/mqdefault.jpg",
-      "datum": "2026-11-05T03:32:46Z",
-      "datum_de": "05.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "MikesWorld",
-      "titel": "7 neue Features für Google Gemini: So nutzt du sie richtig! 🤯",
-      "link": "https://www.youtube.com/watch?v=GtjbXh8CZDo",
-      "video_id": "GtjbXh8CZDo",
-      "thumbnail": "https://img.youtube.com/vi/GtjbXh8CZDo/mqdefault.jpg",
-      "datum": "2026-11-04T17:00:33Z",
-      "datum_de": "04.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "So baust du dir einen Avatar OHNE fremden Content zu klauen",
-      "link": "https://www.youtube.com/watch?v=XPHxIwc7q7o",
-      "video_id": "XPHxIwc7q7o",
-      "thumbnail": "https://img.youtube.com/vi/XPHxIwc7q7o/mqdefault.jpg",
-      "datum": "2026-11-04T16:15:16+00:00",
-      "datum_de": "04.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Diese drei CLIs schlagen Claude Code!",
-      "link": "https://www.youtube.com/watch?v=jVxX-cNJeP4",
-      "video_id": "jVxX-cNJeP4",
-      "thumbnail": "https://img.youtube.com/vi/jVxX-cNJeP4/mqdefault.jpg",
-      "datum": "2026-11-04T15:00:15+00:00",
-      "datum_de": "04.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "ToolVibes",
-      "titel": "n8n Tutorial (Deutsch): Lokale KI oder Cloud? Der Vergleich",
-      "link": "https://www.youtube.com/watch?v=g_yFmqSnAw8",
-      "video_id": "g_yFmqSnAw8",
-      "thumbnail": "https://img.youtube.com/vi/g_yFmqSnAw8/mqdefault.jpg",
-      "datum": "2026-11-04T11:24:20Z",
-      "datum_de": "04.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "SafeBreach",
-      "titel": "Ep. 92 - OpenAI’s Agents Hijacked a 25-Year-Old German Wiki and Masked That They Were Doing It",
-      "link": "https://www.youtube.com/watch?v=EEpnQ_6KGmg",
-      "video_id": "EEpnQ_6KGmg",
-      "thumbnail": "https://img.youtube.com/vi/EEpnQ_6KGmg/mqdefault.jpg",
-      "datum": "2026-11-04T11:00:30Z",
-      "datum_de": "04.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Es beginnt: KI hat jetzt eine eigene Sprache, die kein Mensch versteht",
-      "link": "https://www.youtube.com/watch?v=6Q0X-yk52w0",
-      "video_id": "6Q0X-yk52w0",
-      "thumbnail": "https://img.youtube.com/vi/6Q0X-yk52w0/mqdefault.jpg",
-      "datum": "2026-11-03T16:15:13+00:00",
-      "datum_de": "03.11.2026",
-      "quelle": "kanal"
     }
   ]
 }
