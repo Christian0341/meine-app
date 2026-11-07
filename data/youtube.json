@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-11-06T14:54:26.320897+00:00",
+  "aktualisiert": "2026-11-07T13:50:51.441599+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Vishal Punia | KI einfach gemacht",
+      "titel": "Claudes neue Dashboards sind unglaublich! (Lerne es in 15 min)",
+      "link": "https://www.youtube.com/watch?v=6MurpowoyuY",
+      "video_id": "6MurpowoyuY",
+      "thumbnail": "https://img.youtube.com/vi/6MurpowoyuY/mqdefault.jpg",
+      "datum": "2026-11-07T10:12:35Z",
+      "datum_de": "07.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AiErfolg - KI & Online Marketing meistern",
+      "titel": "Die neuen Gemini Skills simpel erklärt: A-Z Anleitung für Einsteiger (2026 | Deutsch)",
+      "link": "https://www.youtube.com/watch?v=2RKbNgTFW5E",
+      "video_id": "2RKbNgTFW5E",
+      "thumbnail": "https://img.youtube.com/vi/2RKbNgTFW5E/mqdefault.jpg",
+      "datum": "2026-11-07T08:00:05Z",
+      "datum_de": "07.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Gibst du das Denken an die KI ab? 🧠",
+      "link": "https://www.youtube.com/shorts/wfgd8hftQZQ",
+      "video_id": "wfgd8hftQZQ",
+      "thumbnail": "https://img.youtube.com/vi/wfgd8hftQZQ/mqdefault.jpg",
+      "datum": "2026-11-06T16:02:53+00:00",
+      "datum_de": "06.11.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Akademie4KI",
       "titel": "10x produktiver mit Claude Skills! (Anfänger Tutorial)",
@@ -94,7 +124,7 @@
     },
     {
       "kanal": "Patrick David ",
-      "titel": "Das ENDE von Claude?! Grokbot könnte ALLES ändern.",
+      "titel": "Elon Musks neue KI ist KRANK! Da kann ChatGPT nicht mithalten.",
       "link": "https://www.youtube.com/watch?v=VBT3GkFBock",
       "video_id": "VBT3GkFBock",
       "thumbnail": "https://img.youtube.com/vi/VBT3GkFBock/mqdefault.jpg",
@@ -121,36 +151,6 @@
       "datum": "2026-11-05T08:56:45+00:00",
       "datum_de": "05.11.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "HEINER.Academy - Ihr Partner für  KI-Workshops",
-      "titel": "OpenAI Dots erklärt: Wer in Deutschland einen bekommt und was er kostet (plus Nachbau ohne Abo)",
-      "link": "https://www.youtube.com/watch?v=y6EejyOpeik",
-      "video_id": "y6EejyOpeik",
-      "thumbnail": "https://img.youtube.com/vi/y6EejyOpeik/mqdefault.jpg",
-      "datum": "2026-11-05T06:26:27Z",
-      "datum_de": "05.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "HardReset_info Deutsch",
-      "titel": "Claude AI – Wie Cowork über Unterhaltungen hinweg merkt",
-      "link": "https://www.youtube.com/watch?v=tWYS9ftrF0c",
-      "video_id": "tWYS9ftrF0c",
-      "thumbnail": "https://img.youtube.com/vi/tWYS9ftrF0c/mqdefault.jpg",
-      "datum": "2026-11-05T03:48:43Z",
-      "datum_de": "05.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "HardReset_info Deutsch",
-      "titel": "Claude AI – Vertragsprüfung mit rot/gelb/grün markierten Klauseln",
-      "link": "https://www.youtube.com/watch?v=_t330Cb_OQ0",
-      "video_id": "_t330Cb_OQ0",
-      "thumbnail": "https://img.youtube.com/vi/_t330Cb_OQ0/mqdefault.jpg",
-      "datum": "2026-11-05T03:47:44Z",
-      "datum_de": "05.11.2026",
-      "quelle": "suche"
     }
   ]
 }
