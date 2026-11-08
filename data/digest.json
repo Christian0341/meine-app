@@ -1,7 +1,7 @@
 {
-  "datum": "Freitag, 6. November 2026",
-  "datumISO": "2026-11-06",
-  "tagesthema": "Die KI-Infrastruktur steht im Mittelpunkt der Debatte, mit wachsenden Umweltbedenken und politischen Widerständen gegen Rechenzentren, während führende KI-Unternehmen ihre Modelle und Anwendungen stetig weiterentwickeln.",
+  "datum": "Sonntag, 8. November 2026",
+  "datumISO": "2026-11-08",
+  "tagesthema": "OpenAI und Google präsentieren neue KI-Modelle und Dienste, während Anthropic mit rechtlichen und finanziellen Herausforderungen kämpft und die KI-Regulierung weltweit an Fahrt aufnimmt.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,35 +9,35 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "ChatGPT-Desktop-App: OpenAI testet gemeinsame Ansicht für Chat und Work",
-          "zusammenfassung": "OpenAI testet eine neue Desktop-Anwendung für ChatGPT, die eine integrierte Ansicht für Chat-Interaktionen und Arbeitsabläufe bietet. Diese Funktion soll die Produktivität steigern, indem Nutzer nahtlos zwischen Konversationen und der Bearbeitung von Dokumenten oder anderen Aufgaben wechseln können. Die App zielt darauf ab, ChatGPT tiefer in den Arbeitsalltag zu integrieren.",
+          "titel": "Vorstellung von GPT-6 Sol und Luna - OpenAI",
+          "zusammenfassung": "OpenAI hat offiziell seine nächste Generation von Sprachmodellen, GPT-6 Sol und Luna, vorgestellt. Diese neuen Modelle versprechen erhebliche Fortschritte in den KI-Fähigkeiten und setzen neue Maßstäbe für das Verständnis und die Generierung von Sprache.",
           "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHdacUo0RDNWMVpwd1ZTYXBLdUJfNDFubWplbFVfTHNhYUpaNGJiNkdWQ3VwQ1ptM0FfVGd5bGxMakFZMWRjWkN1Mkl0by0yanlCczBCdVFRWmNsdDdFN0trX0sySGp6QnlLTFF3bzRBaW5hQzZzZmF1cTFab253U0VKRk5ObElEY1VzRVpGdFQ3ZTR0bnRaWGtGd3lXZzQ?oc=5",
+          "quelle": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ia1dfT2dLWnp4cVp6dzA4T0JQMlpUQ2FPMXM4c2N0bnNpNFFlSzRQZkp5b0hraWd1SkhxMm5KX3gyNTk0RTdiOWxnZUhzRHg5d05zcVcyaTFseWRxejhpX2Z6MTR2Wm9FdTNqdTYxMA?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Animationen per KI: Das leistet Anthropics neues Tool Claude Motion wirklich - t3n",
+          "zusammenfassung": "Anthropic hat 'Claude Motion' eingeführt, ein neues KI-gestütztes Tool zur Generierung von Animationen. Dieses Produkt zeigt die Expansion des Unternehmens in kreative KI-Anwendungen und bietet neue Möglichkeiten für die Inhaltserstellung.",
+          "einordnung": "",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91SF85Y2NhNThHclBuaDZ1U3doTHQ1QlRHZHJ2MFd3SUdoT0h1ZVJvRVo0b19rM0pmZS1CYThRRDBqYTBUYzlMVzUxUjI1V0stUnJaQW9MX0H6hDViOU5QSzVHaXE5Qm1Bam5mV25Pc2xnTXBKUjNEZkxYaw?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "OpenAI veröffentlicht „Image 2.6“",
-          "zusammenfassung": "OpenAI hat \"Image 2.6\" vorgestellt, die neueste Version ihres Bildgenerierungsmodells. Diese Iteration verspricht verbesserte Bildqualität, realistischere Darstellungen und eine präzisere Umsetzung komplexer Prompts. Die Veröffentlichung unterstreicht OpenAIs kontinuierliche Bemühungen, die Grenzen der generativen KI in der visuellen Gestaltung zu erweitern.",
+          "titel": "KI im Cockpit: Google bringt Gemini in Google Maps für CarPlay - t3n",
+          "zusammenfassung": "Google integriert seine Gemini-KI in Google Maps für CarPlay, um die Navigation und das Infotainment im Auto mit fortschrittlichen KI-Funktionen zu verbessern. Diese Integration bringt intelligente Unterstützung direkt in das Fahrerlebnis.",
           "einordnung": "",
-          "quelle": "Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzVW5aN3Jqa0lMZkVXZlFyOEJKaVhQc282eGxWMU1mMnJmcTRHN2ZvMnZpQ3U2dk4zZmJIX3p3NlI5a1N3b0hYM293UWJnOXZlRHNPOEtLLTJJbFNiYw?oc=5",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16bU43bjE2czV3RjNFam0wbVZ2UXBnYUk4RENUVlZJR1ZoaHFNSjRXVUVEbDh1SHFOcjlQNHVLaUJsLVdCNkpwU3had3ktRENOUUNaeVpSX2JaTnRXVTV6SllvWTVYdThuN1NvVkstUTh6ZzdQ?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Google verbessert KI-Videogenerator Gemini Omni auf Version 1.2 Flash",
-          "zusammenfassung": "Google hat eine verbesserte Version seines KI-Videogenerators Gemini Omni, nun in Version 1.2 Flash, veröffentlicht. Die Aktualisierung verspricht schnellere Generierungszeiten und eine höhere Qualität der produzierten Videos. Dies stärkt Googles Position im Bereich der generativen Videokreation und bietet Nutzern leistungsfähigere Tools.",
+          "titel": "Google verbessert KI-Videogenerator Gemini Omni auf Version 1.2 Flash - heise online",
+          "zusammenfassung": "Google kündigt ein Update für seinen KI-Videogenerator Gemini Omni auf Version 1.2 Flash an, das verbesserte Leistung und neue Funktionen für die Videoerstellung verspricht. Dieses Upgrade soll Googles Position im Bereich der generativen KI-Videoerstellung festigen.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0JPZlRERWpHbkwwOS1EOWx2WmFOZXczcEZCT2hCamZhMFdja0o4X1d2dUp6c0NzakJxNV9CWkV6Q1JIc1pYdlQxRENnX0dnNUdjS000Y3VicFQtRzlaR21BVlJnZ29vYm00TEhIOElINnRFU1QyMkxDbVpfWnFEcUlNVDdfbEJXNjd0T2F2TWxBZjNrekR0UkhRLWotbk9PX2pZakU5UDBDaV9jT0E?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Pixel 11: Google öffnet Gemini Nano 4 für Entwickler-Tests direkt am Gerät",
-          "zusammenfassung": "Google hat Gemini Nano 4 für Entwickler-Tests auf dem Pixel 11 freigegeben, was die direkte Ausführung von KI-Modellen auf dem Gerät ermöglicht. Diese On-Device-KI-Fähigkeit verspricht schnellere Verarbeitungszeiten und verbesserte Datenschutzfunktionen. Entwickler können nun innovative Anwendungen entwickeln, die die lokale KI-Power nutzen.",
-          "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNm1iVWNKUTRkbk9WUUdpc3hmYXdxZ3A0VmhhX3JvXy1ZZ3paQldSdG44MmN2ZFk0QVUzcTd2SEhRNlU5a29RaE5QR2ZhV2k0c29CYl9nOTNkVGRyQVY4aldnZjBHQ0luMC13LTJ3VDM0NGx2YmJVbTdKMHIzWDRzU3F1OWtoUTEycldJeUc5ZHNxS2dUQkxLNEJITjYxN1dFVWJJbXdn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0JPZlRERWpHbkwwOS1EOWx2WmFOZXczcEZCT2hCamZhMFdja0o4X1d2dUp6c0NzakJxNV9CWkV6Q1JIc1pYdlQxRENnX0dnNUdjS000eEpicFQtRzlaR21BVlJnZ29vYm00TEhIOElINnRFU1QyMkxDbVpfWnFEcUlNVDdfbEJXNjd0T2F2TWxBZjNrekR0UkhRLWotbk9PX2pZakU5UDBDaV9jT0E?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -48,19 +48,27 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "ChatGPT Ads: Neue Gebotsstrategien und wichtige Fristen",
-          "zusammenfassung": "OpenAI führt neue Gebotsstrategien für ChatGPT Ads ein, um Werbetreibenden präzisere Targeting-Optionen und effizientere Kampagnen zu ermöglichen. Gleichzeitig wurden wichtige Fristen für die Umstellung auf die neuen Systeme bekannt gegeben. Diese Änderungen sollen die Monetarisierung von ChatGPT weiter vorantreiben und das Werbeökosystem optimieren.",
+          "titel": "OpenAI bestätigt Pro 500 mit 50x Nutzung gegenüber ChatGPT Plus - Pasquale Pillitteri",
+          "zusammenfassung": "OpenAI hat die Einführung von 'Pro 500' bestätigt, einer neuen Premium-Stufe, die eine 50-fache Nutzungskapazität im Vergleich zum bestehenden ChatGPT Plus-Abonnement bietet. Dieser Schritt zielt darauf ab, professionelle Nutzer mit höheren Anforderungen zu bedienen und zusätzliche Einnahmen zu generieren.",
           "einordnung": "",
-          "quelle": "OnlineMarketing.de",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObjU2N2xiYUNKWHJZM05YYUc4ZXNZZzUwdS1pdmVPLWRpa1JZb0RGdGh4dkVpdkFFRjlYdFdULTM5clQ0bF9YbHhXT194NjNKZW9ERlprSkdjdU5ISTJ2czNzdFdkRkxuOHFJY04yeGs5TU5OTmhoaXVuMFVoWU1fSHIxMHZ5czJZc1NQb3U3QnBrWDQ?oc=5",
+          "quelle": "Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFNKMDRWUHpMNVJWZ3JiNkZSX3FDR1VCbFpBSUlNMERMVE5ERk1VYm5FcUN4VlpESkNLWHpqT2xRX08tTGRKRWNqeFQ3N1FXVTlCcG1mcXpBN2ZHaloxVWNDRWJYcE5UZUNfUTN1ODVLREcxYWRLVU8wZVFoelN2ZWNZemE4UQ?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Google launcht neue Video-KI, OpenAI findet 81 Firefox-Lücken",
-          "zusammenfassung": "Während Google eine neue Video-KI eingeführt hat, die die Erstellung und Bearbeitung von Videos revolutionieren soll, hat OpenAI 81 Sicherheitslücken im Firefox-Browser entdeckt und gemeldet. Diese Entdeckung unterstreicht die wachsende Rolle von KI-Unternehmen bei der Verbesserung der Cybersicherheit. Die Meldung zeigt OpenAIs Engagement über die reine Modellentwicklung hinaus.",
+          "titel": "OpenAI: Aus für ChatGPT Classic - Caschys Blog",
+          "zusammenfassung": "OpenAI kündigt das Ende von 'ChatGPT Classic' an, was eine Verlagerung hin zu neueren, fortschrittlicheren Modellen und Dienstleistungsangeboten signalisiert. Dieser Schritt optimiert das Produktportfolio und ermutigt Nutzer, auf aktualisierte Versionen umzusteigen.",
           "einordnung": "",
-          "quelle": "OnlineMarketing.de",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PeTliaFl4a0lOWnRPdWRLQ1p6dVQ4U3FuRVlGRDZtOWRuSjFTei03SmFMSlpOT2QtbUZpT3ZRUDBTR0diQktIUm1lRmpxMjBTRXJqUTdGaWJRaXdrUWQ3OGdnbGEzanNOaG1ZWVZLVGdCNWQwQWE0R1JRdDY?oc=5",
+          "quelle": "Caschys Blog",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QY3Q4dFg4MjJ4eTNmcG1qU2ZUTEhwdGxLX3hVNUlNR1U5UDhLZHBod3MwVk9uZVdaTlBHekI0TUwzUTRKblhhUEVoUG1VVkprUDFoSkNUTTQyT2NaMjQ4UmlVVXprODlhSmNnc253?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "Claude schaut aufs Konto: Anthropic startet Finanzfunktion als Beta - Telepolis",
+          "zusammenfassung": "Anthropic führt eine Beta-Version einer neuen Finanzanalysefunktion für seine Claude-KI ein, die es Nutzern ermöglicht, Finanzdaten zu integrieren und zu analysieren. Dies stellt einen wichtigen Schritt für Anthropic in spezialisierte Unternehmensanwendungen dar.",
+          "einordnung": "",
+          "quelle": "Telepolis",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzY5R3JCRjFfVzNpLVpyNy1XQU5FV3JvU1NrQ0J3VElwOGdpT2M4TUhFdDlXeERxODJaV0FlUFdvMzc5RGwyWGtqWFZtMHlReUthVndqRzdUSmRVeFFhZUFfU3p5M0Vwbm5rLWNvX0hyUnNUNjRzbUN4SjlNM3c2SWduT0FoTWtpYTNKNjdiaHZJTzBoODljcEM5bndoYjJOYXVBR24yTGhNV2NKaEIyQTRoOA?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -71,27 +79,27 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "EU-KI-Verordnung im HR: Hochrisiko-Regeln greifen ab 2. Dezember 2027",
-          "zusammenfassung": "Die EU-KI-Verordnung wird ab dem 2. Dezember 2027 Hochrisiko-Regeln für den Einsatz von KI im Personalwesen einführen. Unternehmen müssen dann strenge Anforderungen an Transparenz, Fairness und menschliche Aufsicht erfüllen. Diese Regelung soll Diskriminierung verhindern und die Rechte von Arbeitnehmern im Kontext von KI-gestützten HR-Prozessen schützen.",
+          "titel": "KI-Regulierung: Demokraten planen ab Januar 2027 unabhängige Modelltests - BornCity",
+          "zusammenfassung": "Demokraten in den USA planen die Einführung von Gesetzen für unabhängige KI-Modelltests ab Januar 2027, um Sicherheit und Fairness zu gewährleisten. Diese Initiative spiegelt die wachsenden Bemühungen der Regierung wider, die Entwicklung von KI zu regulieren.",
           "einordnung": "",
           "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMU9SaHBOcjFSemxkQ3dDcklJVTJNMENGVmxYQVAtSEN2NXJ2dDJsejhmc3FZMUdHc0RLcjVFS002TUtkOXhXU2M4bUVkc2s3SGdxSHhjTUNTNmhsVmUwbVFtYV9FOXZnclRLazFkdWNfZlFjcUhwTXBGMFBSOHRxYUhEeWJoelJBNTVDZm5IZjFhSHNraHNyRld3?oc=5",
-          "sterne": "⭐⭐"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU1NBZ21TV002aWptMDUwV2NreEJSVGMtNlhlcURfQTdIRmZrc3NBRTJMNjFNMjFIVnAwNlhuOE5VckJnUXVNdWFubEYwUGNhQy1QRE9XdlZjQ1c2MDIxRVAzTUxLb05YcElIQzN2MlphczBtX0p1dFVGX01CaVBSLTJyUzhoUF9WTzVSdC1jRTQySEd2Zm5jZ3dLSHhBcm9R?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Der Deutschlandfunk berichtet über mögliche Verzögerungen und Schwierigkeiten bei der Umsetzung des EU AI Act. Bürokratische Hürden, unterschiedliche Interessen der Mitgliedstaaten und technische Komplexität könnten das Inkrafttreten des europäischen KI-Gesetzes verlangsamen. Dies wirft Fragen nach der Effektivität und dem Zeitplan der Regulierung auf.",
+          "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät - Deutschlandfunk",
+          "zusammenfassung": "Die Umsetzung des EU AI Acts stößt auf Verzögerungen und Herausforderungen, was Fragen nach seiner Wirksamkeit und rechtzeitigen Durchsetzung aufwirft. Dieser Artikel untersucht die Gründe für die Verlangsamung von Europas wegweisendem KI-Gesetz.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "EU AI Act: KI-Protokolle sechs Monate speichern statt nach 30 Tagen löschen",
-          "zusammenfassung": "Eine neue Bestimmung im EU AI Act sieht vor, dass KI-Protokolle künftig sechs Monate statt der ursprünglich geplanten 30 Tage gespeichert werden müssen. Diese Verlängerung der Aufbewahrungsfrist soll eine bessere Überprüfung und Nachvollziehbarkeit von KI-Entscheidungen ermöglichen. Datenschützer äußern jedoch Bedenken hinsichtlich der erweiterten Datenspeicherung.",
+          "titel": "EU verschiebt zentrale Regelungen des AI Acts - Haufe. Intelligenz, die bewegt.",
+          "zusammenfassung": "Wichtige Bestimmungen des EU AI Acts wurden verschoben, was auf Schwierigkeiten bei der Konsensfindung und praktischen Umsetzung hindeutet. Diese Verschiebung könnte den Zeitplan für eine umfassende KI-Regulierung in Europa beeinflussen.",
           "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXFnaW14MzVSMkg5Q0ZLX0ViS3BmTkJrekwwckJic0NzYlp2ZThhOEhSNFlpOE9kNHNJMFZabFE2UkxkejJxRDlaVDlMQTBxZ19UN3Y0bE8tLW5kaHJON25fOHhCSFZpVzJqWG1uam9ILUZtcXNjcHBLcy1sRC1uWVdISkhiZGdTdWU4NU5ZdXVtR2dhWHh0aGRmSmo0V2U1YzA3Yg?oc=5",
+          "quelle": "Haufe. Intelligenz, die bewegt.",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWljTldYY3VsLU8wcHhDanBhTEhfeHhQMGpoRUlEUnRzcWkyZnlpRzc0aEpSTGlpbVFOSUdnUWZnMlM3dFdfNkk3NXo3TXlVU09OTHdmUlVmNXN4OV9TYVQzaWVGdThCT2pqZ1ctX25FSHZTQTdlY2hKZC1hM1hJMm1oX052UlJz?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -102,24 +110,24 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "AnythingLLM: Eigene Dokumente mit KI lokal auswerten",
-          "zusammenfassung": "AnythingLLM ist eine neue Anwendung, die es Nutzern ermöglicht, eigene Dokumente mit KI lokal auszuwerten, ohne Daten an externe Server senden zu müssen. Dies bietet verbesserte Datenschutz- und Sicherheitsstandards für sensible Informationen. Die Technologie ermöglicht eine personalisierte und sichere Nutzung von Large Language Models.",
+          "titel": "Google launcht neue Video-KI, OpenAI findet 81 Firefox-Lücken - OnlineMarketing.de",
+          "zusammenfassung": "Während Google eine neue Video-KI vorstellt, hat das Forschungsteam von OpenAI 81 Sicherheitslücken in Firefox entdeckt. Dies unterstreicht das Potenzial von KI nicht nur in der Generierung von Inhalten, sondern auch in der Analyse von Cybersicherheit.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXVZSFJOOElhU2NSdndVcjNRdzZJYlVjay03RUhxNWFsd1AtTGRmU3pzdkx1TEhJcVZFMnZQN3dPc1kzenlWQmJHUmZCTklHTXU0U3JUNDJjdmJuYXRJb3pnUGlXUVF1TFljQjdYdTNBSGU1VU9nZ1p0WUJIWjA4VDNVSnNtWHZWLTUyaFF0YXFMQzB3MU9SNm1kZw?oc=5",
-          "sterne": "⭐"
+          "quelle": "OnlineMarketing.de",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PeTliaFl4a0lOWnRPdWRLQ1p6dVQ4U3FuRVlGRDZtOWRuSjFTei03SmFMSlpOT2QtbUZpT3ZRUDBTR0diQktIUm1lRmpxMjBTRXJqUTdGaWJRaXdrUWQ3OGdnbGEzanNOaG1ZWVZLVGdCNWQwQWE0R1JRdDY?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "Large Language Models erklärt: Was sind LLMs?",
-          "zusammenfassung": "Die Computerwoche bietet eine grundlegende Erklärung von Large Language Models (LLMs), deren Funktionsweise und Anwendungsbereichen. Der Artikel beleuchtet die Architektur und die Trainingsprinzipien dieser mächtigen KI-Systeme. Er dient als Einführung für Leser, die ein tieferes Verständnis der Technologie entwickeln möchten.",
+          "titel": "Large Language Models erklärt: Was sind LLMs? - Computerwoche",
+          "zusammenfassung": "Dieser Artikel bietet eine grundlegende Erklärung von Large Language Models (LLMs), detailliert deren Architektur, Funktion und Bedeutung im Bereich der künstlichen Intelligenz. Er dient als Bildungsressource zum Verständnis zentraler KI-Konzepte.",
           "einordnung": "",
           "quelle": "Computerwoche",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzMldHTWJJQWFIVzZwdW41dmdIaEVVd1JjS295Qzd1TXdpRDVMeWNLQmNrQXA1U3pBQzZFUU9GLUhJMHdiSmZiLVBaWTdWa0lIQ29Kd0xfMWZqa2EzenlTV2UzUnBhWjRuSXl3QjZOR1g?oc=5",
           "sterne": "⭐"
         },
         {
-          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme",
-          "zusammenfassung": "Der Artikel untersucht das Potenzial von Large Language Models in der Onkologie, etwa bei der Diagnose oder Therapieplanung. Gleichzeitig werden bestehende Infrastrukturprobleme thematisiert, die eine breite Implementierung erschweren. Die Studie zeigt die vielversprechenden, aber auch herausfordernden Aspekte der KI-Anwendung im Gesundheitswesen auf.",
+          "titel": "Large Language Models in der Onkologie: Potenzial trifft auf Infrastrukturprobleme - healthcare-in-europe.com",
+          "zusammenfassung": "Der Artikel beleuchtet das vielversprechende Potenzial von Large Language Models in der Onkologie für Aufgaben wie Diagnose und Behandlungsplanung. Gleichzeitig werden erhebliche Infrastrukturprobleme hervorgehoben, die ihre breite Einführung im Gesundheitswesen behindern.",
           "einordnung": "",
           "quelle": "healthcare-in-europe.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWl3LXlCeVQtOU5VUmlnUXZvUkhucE5jcnNReVpiME5KcnR0MmpmcVp2U2NsQndYeHZtRE10eWp6THJsY2JCTHdrWFJWNE5HQ1QzTUFzV3diMnI4U0g3Y3Jvek1Pd0F5YzB6ODNabjFpNFhUY1IwWTREU0l3RzBYMTVBbTZ6dkpiTWc?oc=5",
@@ -128,94 +136,78 @@
       ]
     },
     {
-      "emoji": "🌍",
-      "titel": "KI & Umwelt/Infrastruktur",
+      "emoji": "💰",
+      "titel": "KI & Wirtschaft",
       "fest": false,
       "artikel": [
         {
-          "titel": "Künstliche Intelligenz: Studie warnt vor hohem Wasserverbrauch durch Rechenzentren",
-          "zusammenfassung": "Eine neue Studie der Universität Kalifornien beleuchtet den immensen Wasserverbrauch von KI-Rechenzentren. Diese Einrichtungen benötigen große Mengen Wasser zur Kühlung, was in Regionen mit Wasserknappheit zu erheblichen ökologischen Problemen führen kann. Die Forschung fordert dringend nachhaltigere Kühlmethoden und eine transparente Offenlegung des Verbrauchs.",
+          "titel": "Milliardenverluste bei Nvidia und Co. – was der KI-Crash für den MSCI World bedeutet - Frankfurter Rundschau",
+          "zusammenfassung": "Der Artikel thematisiert erhebliche finanzielle Verluste bei KI-relevanten Unternehmen wie Nvidia, was auf einen möglichen 'KI-Crash' hindeutet. Dies beleuchtet die Volatilität und Risiken des aktuellen KI-Investmentbooms und seine Auswirkungen auf globale Aktienmärkte.",
           "einordnung": "",
-          "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTkdjY2t1S0ZLM0FqeTdGOGQxLWxTVG9vT0dEa2FROTJFekdwc0xURk9wSTJzN0FvNUs5bHhRM2FnaU5YMFl6TGc5cDhEYnZoRjNZcTl3ZWZtTExhR2QzTEV4N1NFaHhGYm05S2k4MEw0SEgxUElDcU1OMWVnU2M1bl9LV2I0QnFFY0VNUHpqSXJJbnlCLWt5TDlNQmc?oc=5",
+          "quelle": "Frankfurter Rundschau",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUxJd251QXp3Z25Objc5R2V1TGZ1T0FNaUJwQ1pQOXdxQ09Md2wyZ3BWcGgyejJPU3FLeFN6YXpVRXZfQkJxaTZpcjRUY1JlM3U1OWlfTkwyNExhZGZGNnpiOEpWSVRYNHF0ZUVmeUkyM1pPbDYyaUVOaTBHVUtrVkdXSWlDTVhSNDlNX0lTbEZRMkdlZUdQcHJDUXJ4OUNUd0FLdjF2TGVDbXVyd1JuMW9Ya3R3UHNCVl8w?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Texas: Künftige Gouverneurin kündigt mehr Schutz vor KI-Rechenzentren an",
-          "zusammenfassung": "Die designierte Gouverneurin von Texas hat angekündigt, strengere Vorschriften für den Bau und Betrieb von KI-Rechenzentren einzuführen. Sie reagiert damit auf wachsende Bedenken hinsichtlich des Ressourcenverbrauchs und der Umweltauswirkungen dieser Anlagen. Ziel ist es, lokale Gemeinschaften besser vor den negativen Folgen des Rechenzentrumsbooms zu schützen.",
+          "titel": "Börsengang von Anthropic wackelt - n-tv.de",
+          "zusammenfassung": "Berichte deuten darauf hin, dass der geplante Börsengang von Anthropic Unsicherheiten ausgesetzt ist, was sein öffentliches Marktdebüt verzögern oder erschweren könnte. Dies spiegelt die allgemeine Marktstimmung und die Herausforderungen für KI-Unternehmen bei der Suche nach öffentlicher Finanzierung wider.",
           "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQak56ck5oZUVWNTZvcDVVcUNBM0dvc2s1amJjcnV6RnJtWExYdDVRaTZkMmlMODk2ZndPT3FZbS1EdWJoNlhPcjM2RnFlYWFpcF9haDUwZGhCWS1raGJQbkFkQmtCU0dWbGxJTEU0dXVtN3dnV2Z5VXBlSm5uVnJWRHczekYzSGxFeGRXTjhPT3BVM0JVRWZpay1Ndkc2NHdLY3FfemtjcTJNYjBoYXRRVjVXYlpJNloybGw2cWQxRmdjeEg1bUZqbkMzbjQxNUkydkUtSFNCdV9ITW8?oc=5",
+          "quelle": "n-tv.de",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFpuZ0E0VGh5MXJNa002VGxOWTVNcTZ6V2F1WHNadGZmanNleFlJZXBDR3p5NS1sdlA3ampINV9icE1hRDRmRGJxSzVPSEJwNFJIc09oRXJLRzJsUFIyclJNVW9VRUR4eU4wN05EMlZlMEl2UHY3MnJkMk5PN3dfTERjdjZaT29vSEd3dm9Jb3ZRM0VVaGtjNFB3YVg?oc=5",
           "sterne": "⭐⭐"
-        },
-        {
-          "titel": "US-Midterms 2026: Droht der KI ein Rechenzentrum-Stopp?",
-          "zusammenfassung": "Nach den US-Midterms 2026 zeichnet sich ab, dass die zukünftige politische Landschaft die Expansion von KI-Rechenzentren beeinflussen könnte. Es gibt zunehmend Forderungen nach einem Moratorium oder strengeren Regulierungen für den Bau neuer Anlagen, insbesondere aufgrund von Energie- und Wasserverbrauch. Dies könnte die Infrastruktur für die weitere KI-Entwicklung verlangsamen.",
-          "einordnung": "",
-          "quelle": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZFVhVmdGekw5V09yTVY1NzJJd1VxcG5lY2xpSGJya2d2aDdzMG8xanBocVdGME5fa2k0S0gxT2FMQTlhZ1FnTU5wZWNpak5pRXFmaV9rMDZSSUplNDNxYUR1cTRJeGxNVjlLNklPRkc5ZXU3NnByZkRTc2ExbThDQXhDWDRxUkJYMmZrbW9FOU4wSTBBZjBsZ0JHZ3ZLUS13clNfNXFhelVZbnZRbl9RZXN4ZDdLV0xPMjhLdlllMjF0ZUl5Rmc?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Playmobil baut in Bayern Giga-Rechenzentrum – klaut damit Claude-Entwicklern den Strom und legt Anthropic-Rechenzentrum vorerst auf Eis",
-          "zusammenfassung": "Playmobil plant den Bau eines Giga-Rechenzentrums in Bayern, was zu Engpässen bei der Stromversorgung für andere KI-Entwickler führt. Insbesondere Anthropic, die Entwickler von Claude, sehen sich gezwungen, den Bau ihres eigenen Rechenzentrums vorerst auf Eis zu legen. Dieser Vorfall verdeutlicht die zunehmende Konkurrenz um Energieressourcen für KI-Infrastruktur.",
-          "einordnung": "",
-          "quelle": "GamePro",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVIxejZEaDJBWFZaRWt5XzFhVDFMQmFDaEJmY2tNQzBydnFnWGp4SzRzS1pkSGpTRGEtTDYtd3R1aVBLQ0RLYkFIdFVTZzV3MG5VVURaV2s4UThLbm9aRWQwQlJkZGZES19XTVVFQWpaSmRBYW5TR1piWWhhV2M2cDg3LXZOZWl4VlBsQmVwRXNXQ1h6SmtSRkNMZw?oc=5",
-          "sterne": "⭐⭐⭐"
         }
       ]
     },
     {
-      "emoji": "💡",
-      "titel": "KI-Modelle im Fokus",
+      "emoji": "🌍",
+      "titel": "KI & Recht & Gesellschaft",
       "fest": false,
       "artikel": [
         {
-          "titel": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
-          "zusammenfassung": "Anthropic führt \"Smart Reports\" für sein KI-Modell Claude ein, die Vorgesetzten Einblicke in die Nutzung der KI durch Mitarbeiter geben. Diese Funktion soll Unternehmen helfen, die Effizienz und Compliance bei der KI-Nutzung zu überwachen. Kritiker äußern jedoch Bedenken hinsichtlich des Datenschutzes und der Mitarbeiterüberwachung.",
+          "titel": "KI mit Elvis-Songs gefüttert: Millionenklage gegen Anthropic - Politik - SZ.de",
+          "zusammenfassung": "Anthropic sieht sich einer Millionenklage gegenüber, weil es angeblich sein KI-Modell ohne Genehmigung mit urheberrechtlich geschützten Elvis Presley-Songs trainiert hat. Dieser Fall unterstreicht die wachsenden rechtlichen Herausforderungen und Fragen des geistigen Eigentums im Zusammenhang mit KI-Trainingsdaten.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdV9fZF82aThkWC1YeFNuUWROeU9aYUxZNWNSd1ItUUJFZkVOVWVLdWxnWkZpNHJpV0JMbGFVbzY2WWRmdEJnZkNneEh3cHR2c0Z5TUM3YmZncTJLRlNxTlBaelJkTjNvYnVtZXpzUWl2bUZ5NWE1SzNxQ0laZHNkQ2plbTVlaFBEanc1dDRjeW9vSnBlcEZldUFCNTB1cHlwMy1fcDlhODlGZE9ucHpzZ1BFQW54U2FLMzFlSA?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "SZ.de",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFJTNkdRVVlFWjh2MUsyM0VJenI5MDhLb0FCaXhLRHE5dXM1T25YNWlvUW1fREFpMkJpbi1zYjFzOUR6bzRiM29DZjI3YlN4WG95UExyTmZ3Zl8tYk1HSTJYZGJQTU52YjM4UDEtLTZRTGNvRktLbUdJamUxemZGSDVMMzlsOXJZakVfaE9GYlRTS2NBdzY0UnBPQV9uOS1NNk5yNUN3eW1QVDlCTDd3?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Anthropic kooperiert mit Plaid: KI-Modell Claude erhält Tool für personalisierte Finanzberatung",
-          "zusammenfassung": "Anthropic hat eine Partnerschaft mit Plaid bekannt gegeben, um sein KI-Modell Claude mit einem Tool für personalisierte Finanzberatung auszustatten. Diese Integration ermöglicht es Claude, auf Finanzdaten zuzugreifen und maßgeschneiderte Empfehlungen zu geben. Die Kooperation markiert einen wichtigen Schritt in der Anwendung von KI im Finanzsektor.",
+          "titel": "Künstliche Intelligenz: Studie warnt vor hohem Wasserverbrauch durch Rechenzentren - DIE ZEIT",
+          "zusammenfassung": "Eine neue Studie schlägt Alarm wegen des erheblichen Wasserverbrauchs von KI-Rechenzentren und hebt damit eine oft übersehene Umweltbelastung der schnell wachsenden KI-Industrie hervor. Dies fordert nachhaltigere Praktiken in der KI-Entwicklung und -Bereitstellung.",
           "einordnung": "",
-          "quelle": "Investing.com Deutsch",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRDBBSE1WdUN5eE81SktFSHZ5MnE5MExUZkRnVnNxZFVYRHk4T2pvZG1lQkhVTEd6bjRGUUFxNXlCWXUydmZ5d182aXM4anQxSk9ZQkR1LXJReXVJLTFybll1NXdfbS1tZWNrVmpRX2RXaWM2NjhGWUFTaVlrRlVfVHRmVEo2YW03NnZYOExhenJFUFZqY0lXal9abksyZ0t4a21iZFFrLWxiS1lsbVFKOVNXd0kxY1BUYXZtUjlUM24wTWxTS1hObUVfQWFqME9yLWc3ZXdqZkN5NE93N1NzcUQ4UQ?oc=5",
+          "quelle": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTkdjY2t1S0ZLM0FqeTdGOGQxLWxTVG9vT0dEa2FROTJFekdwc0xURk9wSTJzN0FvNUs5bHhRM2FnaU5YMFl6TGc5cDhEYnZoRjNZcTl3ZWZtTExhR2QzTEV4N1NFaHhGYm05S2k4MEw0SEgxUElDcU1OMWVnU2M1bl9LV2I0QnFFY0VNUHpqSXJJbnlCLWt5TDlNQmc?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-11-06T13:21:18.702Z",
+  "generiert_um": "2024-05-19T10:30:00.000Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
       "desc": "Mo, Mi, Fr · mit The Decoder",
-      "episode": "KI-Update kompakt: Nein zu Rechenzentren, Anthropic warnt, Google-Zwang, KI-Mythen",
-      "datum": "4.11.2026",
-      "dauer": "19 Min.",
+      "episode": "KI-Update Deep-Dive: Wie Mistral mit ML4 im KI-Rennen aufholen will",
+      "datum": "6.11.2026",
+      "dauer": "45 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/f1/22/9bf12286-42a8-2765-8a9d-91a07df6b535/mza_1407979254960059607.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp"
     },
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "Tokens teurer als Gehälter bei Anthropic? Putzroboter mit Werbepause #611",
-      "datum": "4.11.2026",
-      "dauer": "72 Min.",
+      "episode": "Midterms: Gut für alle außer Nvidia | Anthropic-IPO: Investoren skeptisch | Apple deckelt Tokens #612",
+      "datum": "7.11.2026",
+      "dauer": "83 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
     {
       "name": "OMR Podcast",
       "desc": "Philipp Westermeyer · Tech & Business",
-      "episode": "Vom Verlustbringer zum 9-Mrd-Team: Mercedes-Macher Toto Wolff & Ola Källenius (#955)",
-      "datum": "4.11.2026",
-      "dauer": "85 Min.",
+      "episode": "Milliardenbusiness Medizin: Schön-Klinik-CEO Mate Ivančić (956)",
+      "datum": "8.11.2026",
+      "dauer": "84 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH"
     },
@@ -231,9 +223,9 @@
     {
       "name": "KI verstehen · Deutschlandfunk",
       "desc": "Wöchentlich · verständlich erklärt",
-      "episode": "Zukunft der Arbeit (2/3) - Wie verändert KI meinen Job?",
-      "datum": "5.11.2026",
-      "dauer": "38 Min.",
+      "episode": "",
+      "datum": "",
+      "dauer": "",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c6/e3/d6/c6e3d6bd-e018-153d-939e-0aa7c6916b21/0.jpg/100x100bb.jpg",
       "spotify": "https://open.spotify.com/show/0rktSeF3DOjOyk2f0VPFwO"
     },
