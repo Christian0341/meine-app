@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-11-08T14:11:48.170499+00:00",
+  "aktualisiert": "2026-11-09T17:20:38.281732+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Wie viele Issues kriege ich für $2700 gefixt?",
+      "link": "https://www.youtube.com/watch?v=F6QzzhQ8F5M",
+      "video_id": "F6QzzhQ8F5M",
+      "thumbnail": "https://img.youtube.com/vi/F6QzzhQ8F5M/mqdefault.jpg",
+      "datum": "2026-11-09T11:02:56+00:00",
+      "datum_de": "09.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "ALLES NEU: Claude 2.0 ist da!",
+      "link": "https://www.youtube.com/watch?v=8rHYsXwnDEw",
+      "video_id": "8rHYsXwnDEw",
+      "thumbnail": "https://img.youtube.com/vi/8rHYsXwnDEw/mqdefault.jpg",
+      "datum": "2026-11-08T16:15:08+00:00",
+      "datum_de": "08.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "KI-Agent bauen in 10 Minuten ohne Programmieren mit Claude Code | KI Agenten 2027",
+      "link": "https://www.youtube.com/watch?v=m6JzPuu4ErM",
+      "video_id": "m6JzPuu4ErM",
+      "thumbnail": "https://img.youtube.com/vi/m6JzPuu4ErM/mqdefault.jpg",
+      "datum": "2026-11-08T16:00:36Z",
+      "datum_de": "08.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "KI baut KI um 🧠",
+      "link": "https://www.youtube.com/shorts/FW8cDEqWjQA",
+      "video_id": "FW8cDEqWjQA",
+      "thumbnail": "https://img.youtube.com/vi/FW8cDEqWjQA/mqdefault.jpg",
+      "datum": "2026-11-08T15:58:00+00:00",
+      "datum_de": "08.11.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "Franzy Ma",
       "titel": "Claude als KI-Mitarbeiter: Konnektoren, geplante Aufgaben &amp; Skills (Tutorial Deutsch)",
@@ -94,7 +134,7 @@
     },
     {
       "kanal": "Christoph Magnussen",
-      "titel": "Siri’s Former Writer: What AI Can Teach Us About Being Human | Mariana Lin",
+      "titel": "Why AI Needs More Than Smart Answers | Mariana Lin, Former Siri Writer",
       "link": "https://www.youtube.com/watch?v=yB5DVmmJxqI",
       "video_id": "yB5DVmmJxqI",
       "thumbnail": "https://img.youtube.com/vi/yB5DVmmJxqI/mqdefault.jpg",
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/DVYElODvLVE/mqdefault.jpg",
       "datum": "2026-11-06T08:57:41+00:00",
       "datum_de": "06.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "PEGASUS Heilbronn",
-      "titel": "KI-Agent erstellen: Kein Rückruf geht mehr verloren",
-      "link": "https://www.youtube.com/watch?v=oHUPljeKXns",
-      "video_id": "oHUPljeKXns",
-      "thumbnail": "https://img.youtube.com/vi/oHUPljeKXns/mqdefault.jpg",
-      "datum": "2026-11-05T17:30:34Z",
-      "datum_de": "05.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Aivrow",
-      "titel": "Claude 2.0 in 15 Minuten meistern!",
-      "link": "https://www.youtube.com/watch?v=Xsuig6P1m70",
-      "video_id": "Xsuig6P1m70",
-      "thumbnail": "https://img.youtube.com/vi/Xsuig6P1m70/mqdefault.jpg",
-      "datum": "2026-11-05T17:00:19Z",
-      "datum_de": "05.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "tkay",
-      "titel": "Claude Cowork + TikTok Shop = 32.485,92€ in 7 tagen",
-      "link": "https://www.youtube.com/watch?v=9GC1QLzP-4c",
-      "video_id": "9GC1QLzP-4c",
-      "thumbnail": "https://img.youtube.com/vi/9GC1QLzP-4c/mqdefault.jpg",
-      "datum": "2026-11-05T17:00:08Z",
-      "datum_de": "05.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Astronaut: Was bis 2030 kommt, wird keiner glauben! Roboter, Mond-Hotels, Dyson-Sphären & Aliens",
-      "link": "https://www.youtube.com/watch?v=YajzUoRKSNQ",
-      "video_id": "YajzUoRKSNQ",
-      "thumbnail": "https://img.youtube.com/vi/YajzUoRKSNQ/mqdefault.jpg",
-      "datum": "2026-11-05T16:15:04+00:00",
-      "datum_de": "05.11.2026",
       "quelle": "kanal"
     }
   ]
