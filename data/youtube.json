@@ -1,7 +1,47 @@
 {
-  "aktualisiert": "2026-11-11T15:00:48.300381+00:00",
+  "aktualisiert": "2026-11-12T15:53:43.478771+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "PaperOffice AI Deutsch",
+      "titel": "4 Leistungsstarke KI-Agenten für Ihr Unternehmen — Echte Beispiele",
+      "link": "https://www.youtube.com/watch?v=gH4ghNRfPHI",
+      "video_id": "gH4ghNRfPHI",
+      "thumbnail": "https://img.youtube.com/vi/gH4ghNRfPHI/mqdefault.jpg",
+      "datum": "2026-11-11T17:00:29Z",
+      "datum_de": "11.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Der EINFACHSTE Weg von ChatGPT empfohlen zu werden",
+      "link": "https://www.youtube.com/watch?v=pWWeXZNvvjA",
+      "video_id": "pWWeXZNvvjA",
+      "thumbnail": "https://img.youtube.com/vi/pWWeXZNvvjA/mqdefault.jpg",
+      "datum": "2026-11-11T16:15:38+00:00",
+      "datum_de": "11.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Toolfuchs",
+      "titel": "ElevenLabs Agent erstellen: KI-Telefonassistent in 7 Schritten",
+      "link": "https://www.youtube.com/watch?v=7F1pXCUzKFQ",
+      "video_id": "7F1pXCUzKFQ",
+      "thumbnail": "https://img.youtube.com/vi/7F1pXCUzKFQ/mqdefault.jpg",
+      "datum": "2026-11-11T16:00:19Z",
+      "datum_de": "11.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "MikesWorld",
+      "titel": "Google Gemini 4 Carbon ist da: Billiger uns besser als Fable 5.2?! 🔥",
+      "link": "https://www.youtube.com/watch?v=BBRl2-x6UC8",
+      "video_id": "BBRl2-x6UC8",
+      "thumbnail": "https://img.youtube.com/vi/BBRl2-x6UC8/mqdefault.jpg",
+      "datum": "2026-11-11T15:00:00Z",
+      "datum_de": "11.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Akademie4KI",
       "titel": "10 geniale ChatGPT Tipps, die dich vom Anfänger zum Profi machen",
@@ -63,6 +103,16 @@
       "quelle": "kanal"
     },
     {
+      "kanal": "Lisa Zachmann",
+      "titel": "Claude 2.0 Tutorial: So nutzt du die neuen Funktionen",
+      "link": "https://www.youtube.com/watch?v=FsbSPrsLOzc",
+      "video_id": "FsbSPrsLOzc",
+      "thumbnail": "https://img.youtube.com/vi/FsbSPrsLOzc/mqdefault.jpg",
+      "datum": "2026-11-10T15:07:22Z",
+      "datum_de": "10.11.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Ismajl Pukaj | KI Agentur",
       "titel": "Claude Fable 5.2 ist da und es hat ALLE GESCHOCKT!",
       "link": "https://www.youtube.com/watch?v=94biKzZDS-o",
@@ -101,56 +151,6 @@
       "datum": "2026-11-08T20:13:29Z",
       "datum_de": "08.11.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "ALLES NEU: Claude 2.0 ist da!",
-      "link": "https://www.youtube.com/watch?v=8rHYsXwnDEw",
-      "video_id": "8rHYsXwnDEw",
-      "thumbnail": "https://img.youtube.com/vi/8rHYsXwnDEw/mqdefault.jpg",
-      "datum": "2026-11-08T16:15:08+00:00",
-      "datum_de": "08.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Shakeela ZQ",
-      "titel": "KI-Agent bauen in 10 Minuten ohne Programmieren mit Claude Code | KI Agenten 2027",
-      "link": "https://www.youtube.com/watch?v=m6JzPuu4ErM",
-      "video_id": "m6JzPuu4ErM",
-      "thumbnail": "https://img.youtube.com/vi/m6JzPuu4ErM/mqdefault.jpg",
-      "datum": "2026-11-08T16:00:36Z",
-      "datum_de": "08.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "KI baut KI um 🧠",
-      "link": "https://www.youtube.com/shorts/FW8cDEqWjQA",
-      "video_id": "FW8cDEqWjQA",
-      "thumbnail": "https://img.youtube.com/vi/FW8cDEqWjQA/mqdefault.jpg",
-      "datum": "2026-11-08T15:58:00+00:00",
-      "datum_de": "08.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Franzy Ma",
-      "titel": "Claude als KI-Mitarbeiter: Konnektoren, geplante Aufgaben &amp; Skills (Tutorial Deutsch)",
-      "link": "https://www.youtube.com/watch?v=2xHn-RMUBX8",
-      "video_id": "2xHn-RMUBX8",
-      "thumbnail": "https://img.youtube.com/vi/2xHn-RMUBX8/mqdefault.jpg",
-      "datum": "2026-11-08T12:15:19Z",
-      "datum_de": "08.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Es ist passiert: Die KI-Blase platzt in Amerika! DAS musst du jetzt wissen | KI-NEWS",
-      "link": "https://www.youtube.com/watch?v=v0q266zAQ9M",
-      "video_id": "v0q266zAQ9M",
-      "thumbnail": "https://img.youtube.com/vi/v0q266zAQ9M/mqdefault.jpg",
-      "datum": "2026-11-08T09:27:52+00:00",
-      "datum_de": "08.11.2026",
-      "quelle": "kanal"
     }
   ]
 }
