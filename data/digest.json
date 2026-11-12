@@ -1,7 +1,7 @@
 {
-  "datum": "Mittwoch, 11. November 2026",
-  "datumISO": "2026-11-11",
-  "tagesthema": "Neue KI-Produkte und -Integrationen prägen den Tag, während die Debatte um Arbeitsplatzverluste, gesellschaftliche Auswirkungen und Regulierung an Fahrt gewinnt.",
+  "datum": "Donnerstag, 12. November 2026",
+  "datumISO": "2026-11-12",
+  "tagesthema": "KI-Innovationen prägen den Arbeitsalltag und die Mobilität, während Regulierungsfragen und neue Geschäftsmodelle die Branche weiterentwickeln.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,28 +9,36 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Businesses in ChatGPT: OpenAI macht ChatGPT zur Unternehmensplattform mit KI-Agenten für den Kundenkontakt",
-          "zusammenfassung": "OpenAI erweitert ChatGPT zu einer umfassenden Unternehmensplattform namens 'Businesses in ChatGPT', die speziell für den Kundenservice entwickelt wurde. Unternehmen können nun KI-Agenten einsetzen, um den Kundenkontakt zu automatisieren und zu personalisieren. Dies markiert einen strategischen Schritt von OpenAI, um den B2B-Markt stärker zu erschließen und neue Einnahmequellen zu generieren.",
-          "einordnung": "",
-          "quelle": "The Decoder",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMTNQc2h0M3BBSEUxSkhMZjNVdmc2VnA1M3J2akdyQzNFYXZjYjcyUTZVdXJ1c2FSb0dxN0xMVlVTSjBSWW9sdUVIeDZIcFdnQlgxUkp4SlhoeFVhalpyZ2szQmRRVjI5bVJwNktEb2p2UnhnNkxZLW1PTXpiX1Z1VEo3bkJhRnpZVmNvb09QZXptd1hJV1lNMmtVcTFPYVlObUVXUWZmY3FxM2Zvc0tMOHQtdE9HdXdPZ1NjQzZWdExuRWsyS2JnZEJB?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Gemini 4 Carbon ist jetzt allgemein verfügbar",
-          "zusammenfassung": "Google hat bekannt gegeben, dass Gemini 4 Carbon, die neueste Version seines fortschrittlichen KI-Modells, nun allgemein verfügbar ist. Diese Version bietet verbesserte Leistung und neue Funktionen, die Entwicklern und Unternehmen zugutekommen sollen. Die breite Verfügbarkeit von Gemini 4 Carbon unterstreicht Googles Engagement, seine KI-Technologien weiter zu demokratisieren und zu skalieren.",
-          "einordnung": "",
-          "quelle": "it-daily.net",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSeENIWkxpMi1HN1J4X3VUWUdoVFAtLTFqVGhreWVMa2N1YnFQV3o0Ml9OVlh3OFlwcDQxajUwMHM5OTliUWQ1OHJ1RWNMbmlKWUU0OS1iRllibjNlRzhRYTJfNWd0VmVlVEVUYWJR?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "AnythingLLM: Eigene Dokumente mit KI lokal auswerten",
-          "zusammenfassung": "AnythingLLM bietet eine Lösung, um eigene Dokumente mithilfe von KI lokal auszuwerten, was Datenschutz und Kontrolle über sensible Daten gewährleistet. Nutzer können ihre privaten Datensätze mit Large Language Models verarbeiten, ohne diese in die Cloud hochladen zu müssen. Dies ist besonders für Unternehmen interessant, die strenge Compliance-Anforderungen erfüllen müssen.",
+          "titel": "ChatGPT: Unternehmen können dort nun eigene Profile anlegen",
+          "zusammenfassung": "OpenAI ermöglicht es Unternehmen nun, eigene Profile in ChatGPT zu erstellen, um ihre Markenpräsenz und Interaktion mit Nutzern zu verbessern. Diese Neuerung fördert die Integration von KI-Tools in Geschäftsprozesse und die Entwicklung spezifischer Unternehmensanwendungen.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXVZSFJOOElhU2NSdndVcjNRdzZJYlVjay03RUhxNWFsd1AtTGRmU3pzdkx1TEhJcVZFMnZQN3dPc1kzenlWQmJHUmZCTklHTXU0U3JUNDJjdmJuYXRJb3pnUGlXUVF1TFljQjdYdTNBSGU1VU9nZ1p0WUJIWjA4VDNVSnNtWHZWLTUyaFF0YXFMQzB3MU9SNm1kZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3ppaWlVTV8zMmFrblpTbkhlRDZYTG54S0tHVnhtQUxySHJJazZaMV9VNWw2UUVjWWpqV20wRGp5Rzh4VjlGdXEyN21hZTVxNktObXRqLUYxUHY3eUR6Q3RIMHJFQ0tvSjFxR256akV4ZmthUi1xZVRZSUJwd3FUbl91TXlGQklBek9xMEpzSVQxM3dBeWYwd1k0XzRDUzlB?oc=5",
           "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Claude macht im Meeting die Arbeit – bevor der Call vorbei ist",
+          "zusammenfassung": "Anthropic's KI Claude kann nun proaktiv Aufgaben in Meetings übernehmen und diese noch während des laufenden Calls erledigen. Dies verspricht eine erhebliche Steigerung der Produktivität und Effizienz in der Unternehmenskommunikation.",
+          "einordnung": "",
+          "quelle": "OnlineMarketing.de",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOamlsakVFR1BtWHVhQXNiMWt0dXFxTHE4SElNTC1XNXpjYXU4TGF1STNYWlozbHBKN1EzYzdVMERhSHllOWduZXM3cERWUDVoUGRpLWpnZUFoMGE4Q0lQcjkzdmhFdUhMRUhQOXNmU1pnM1I4VEh6ZHE5NUxwX1NqYVF2MXBWZEVwb2hOLWJiTXU0dw?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Anthropic erweitert Claude um neue Büro-Anwendungen",
+          "zusammenfassung": "Anthropic hat Claude um eine Reihe neuer Büro-Anwendungen erweitert, die darauf abzielen, alltägliche Arbeitsabläufe zu optimieren. Die Integration von KI in gängige Office-Tools soll die Effizienz und Zusammenarbeit in Unternehmen verbessern.",
+          "einordnung": "",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczR0YzNwRFBPQk4wUFBhMU5PNHl4UHVqWDJrTGJHQ2NUQkszMTBtcjBDZTQ5eTZWVFEwdW0zNzZkRzFBcWQ3TFNXUlhmMEN2TzkwcGs4LUUyY1VId3dnMjNlTkxMNUF0LUNRa0owOGh5NUFxMXZJTVpmcE9UVExwVUQ2T2pkMDlFMjYwNVVNWHhwZW5jeTYtZU8yY2xkMVdIcWlwLVcxS2Q1c3EwaDlRcC01OFI?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Gemini Decisions: Google bringt spezialisiertes KI-Modell für schnelle Entscheidungen statt Textgenerierung",
+          "zusammenfassung": "Google stellt \"Gemini Decisions\" vor, ein spezialisiertes KI-Modell, das auf schnelle und präzise Entscheidungsfindung statt auf umfangreiche Textgenerierung ausgelegt ist. Dieses Modell zielt darauf ab, Unternehmen und Nutzern bei komplexen Wahlmöglichkeiten effizient zu unterstützen.",
+          "einordnung": "",
+          "quelle": "The Decoder",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQmZlRzIwRTM3NFRwd2xoSkpSOXdjWTFobV9vY2txM3JZRWFtWW9ZZ2dteS1jT1ppQjN4VFd3OS1adVhYWVdleGdMOXd2dmRuV2YwSDQ5RzFyQ19wS0ZINWdQUXZMWjZUWVo3NkRsQXVXNlFvOUFzMjk5czF6c2l1aEZDbDhPWHU4Z2JwanZWdTZVRnJ5akFOY0tfNmh6T1dFUGM3YWljejB6YkFpSUN6ZWU5d0tzUi1aa2JkNHlxdTEzZlRWbTFwOTFTVQ?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
@@ -40,20 +48,20 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "OpenAI: 10 Milliarden US-Dollar Umsatz, 11 Milliarden US-Dollar Verlust",
-          "zusammenfassung": "OpenAI, das führende KI-Unternehmen, hat beeindruckende Umsatzzahlen von 10 Milliarden US-Dollar bekannt gegeben, gleichzeitig aber auch einen Verlust von 11 Milliarden US-Dollar verzeichnet. Diese Zahlen unterstreichen die enormen Investitionen, die in die Entwicklung und den Betrieb großer Sprachmodelle fließen. Der Fokus liegt weiterhin auf Wachstum und Forschung, auch wenn die Profitabilität noch in weiter Ferne scheint.",
+          "titel": "Megaspeed will seine KI-Chips katalogisieren lassen",
+          "zusammenfassung": "Das Unternehmen Megaspeed plant, seine umfangreiche Sammlung von KI-Chips systematisch zu katalogisieren. Dieser Schritt unterstreicht die wachsende Bedeutung und Komplexität der Hardware-Infrastruktur im Bereich der Künstlichen Intelligenz.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1RzaFh3RjhRUE9pcG9YWjFIQ1hJa2p2NFFTNHFhUTZsczhNRUMtdk9qQUVVTjhkSG1VcXlOUmpPQVhXSWc2Sm5IRFJTNE5zV1BIdERZT3l6LXBTTjZhRTNFaTVCVUtFTFlGRFUtMjBaejZocVNDNUl5aGRyUER6RnN6YnVvSmtJb3lIdnNGVXVNNjNpMlJOT0hjRHgxY2ZYTE9XNDVPVE9HdFdh?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUjdkS29UZUhEbFRrUDRiM1VVMjFCM1BUOHBvd3A3eUhKamFPdVhMdk42V3FPR3RoTVJ3MFQtQkRSZnNWOTBQTkNoQXo2b2dMSjNQV1FBZzN2WW5MeXFDbTJVR0k2ZUhCTl9KZ1hGNEFKR1p1V2F0Q19tTVowNEhWdmoyU09saktpS294ZnVhU01GaERtSU91RWhNa3B4c1NlTXZkRjltdVJRbl9wdHZaTW0tUzhka1Aya2RaSkFPUQ?oc=5",
+          "sterne": "⭐"
         },
         {
-          "titel": "ChatGPT: OpenAI stellt Advanced- und Standard-Voice ein",
-          "zusammenfassung": "OpenAI hat angekündigt, die 'Advanced-' und 'Standard-Voice'-Funktionen von ChatGPT einzustellen. Diese Entscheidung deutet auf eine Neuausrichtung der Sprachinteraktionsstrategie hin, möglicherweise zugunsten neuerer, effizienterer oder spezialisierterer Voice-Technologien. Nutzer müssen sich auf Änderungen in der Art und Weise einstellen, wie sie mit dem KI-Assistenten per Sprache interagieren können.",
+          "titel": "Vorstoß ins Reisegeschäft: OpenAI schluckt digitales Reisebüro Odessia",
+          "zusammenfassung": "OpenAI expandiert strategisch ins Reisegeschäft durch die Übernahme des digitalen Reisebüros Odessia. Dieser Schritt deutet auf OpenAIs Ambitionen hin, KI-Technologien in spezifische Branchen zu integrieren und neue Anwendungsfelder zu erschließen.",
           "einordnung": "",
-          "quelle": "Caschys Blog",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb3VIaFNwMW94bDRWRHVBY0E5SmhtT0xvVWxSS0dmLW0wa0RDU0t3SFB3YnFfR1BvellERGFsNm1xX25tdUNSYV9tZF9LWmw2bmZZR3hRU1Q2ZWRmM0JFaXUxU1AzNEpTQVNjREwwTHRoeXhZYm42ckxfLW5xMXBQUjlBRExEUVE2Q3BR?oc=5",
-          "sterne": "⭐"
+          "quelle": "fvw|TravelTalk",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdWtJdXdIcXFOTy1yUUFJbllxcEZSVXgtOEd4ejBzWi04YjRKX1RkY1d5d0xDZWlORVFleTBib0JydGI5dGxmR3hWR2RWVThnMkVVSDV0dmpPUHI5Uzk1TmtBQkhwU1EwQjdSS09ia290SW1ma3ExR3NrMkN5eGx1QVVWRGJ4QjU3UXFnRWNOU2FmNkJ1VEVLcHF0U051MzV5eS12b1pUQU5XQzhzSjBnYWN6QXRvQQ?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
@@ -63,16 +71,24 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "KI-Regulierung: US-Demokraten planen neue Gesetze ab Januar 2027",
-          "zusammenfassung": "Die US-Demokraten haben Pläne für neue Gesetze zur KI-Regulierung angekündigt, die ab Januar 2027 in Kraft treten sollen. Diese Initiative zeigt den wachsenden politischen Willen in den USA, die Entwicklung und den Einsatz von Künstlicher Intelligenz stärker zu beaufsichtigen. Die genauen Inhalte der Gesetze werden noch ausgearbeitet, sollen aber ethische Richtlinien und Sicherheitsstandards umfassen.",
+          "titel": "OpenAI ChatGPT Ads und KI-Werbung: DSGVO Datenschutz & Wettbewerbsrecht: Das müssen Sie beachten!",
+          "zusammenfassung": "Der Artikel beleuchtet die rechtlichen Rahmenbedingungen für Werbung mit OpenAI ChatGPT und genereller KI-Werbung, insbesondere im Hinblick auf DSGVO-Datenschutz und Wettbewerbsrecht. Unternehmen werden auf wichtige Compliance-Anforderungen und potenzielle Fallstricke hingewiesen.",
           "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZXZaN29FNlNyRWY5bHBTSnRnY3l3UjJFTjZnNE1ieExucklyUVpCWkRHaGtjWlhaNkt3c2pZb2thaTA5U1AtSzdEcWdQem1iQU1xMVNjTWE4OEdmY1V0WWF3QklVVkZIaE9zSmJkY0JzeUVRamk0YmJPRkJaeUJHLXFuVXVvZlR2dWl2OU9fTEVSS2lr?oc=5",
+          "quelle": "Anwalt.de",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTzBrWHNBZlFUY0NhOElYa2xzc09ZQ0t4azVzOVdYWjgweUE3UGh2R093R3lEcDN3T0hQTWJYVTcxWW9VSWdKcjZzbV81LS0tWE5sd2FIMHFqTVVDd19mT2doSWN6dU90Tk13UC1OdHk2Qm9wLVlaLVhZNFRBcW1NUlppRExKdms0R0FGUzhfbmpCQ3I1U1hqR1Q3cWt1ZlBCWTZ1S0txNGhlY2N5Wl9hUlZoLThRZnVZbHcxVkY1U2RQNnMxb1BNa0hlcWU5Yy1xX1BOZUZxVVgwcXM?oc=5",
           "sterne": "⭐⭐"
         },
         {
+          "titel": "KI-Verordnung: Kennzeichnungspflicht für generierte Inhalte gilt ab 2. Dezember",
+          "zusammenfassung": "Ab dem 2. Dezember tritt die Kennzeichnungspflicht für KI-generierte Inhalte in Kraft, ein wichtiger Bestandteil der neuen KI-Verordnung. Diese Regelung soll Transparenz schaffen und Nutzer vor der unbeabsichtigten Täuschung durch künstlich erstellte Medien schützen.",
+          "einordnung": "",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYTdCZjE0blFhNUVGMGxYSFMyeUtYLWpPeFlZdkhFdS1KUnRvallKRnN1NFAzY0VUN0RNSGxIRE1EcnRLNW9HX1dXZG5jc0ZrWjFnOUZndC1wQU1hYU5tdHd2OVU1dmp5aWN3R2lfWWJhTnNvQW1RWGM0WmtDYXRFa2dCQ1R4SjdVS3RNaGZJZG9fOXJFVFdDRnZBTG5NQ0d6bzRpM1cwSnc?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
           "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Der EU AI Act, Europas wegweisendes Gesetz zur Regulierung künstlicher Intelligenz, scheint ins Stocken zu geraten. Berichte deuten auf interne Meinungsverschiedenheiten und komplexe Verhandlungen hin, die die Verabschiedung verzögern könnten. Dies wirft Fragen nach der Umsetzbarkeit und dem Zeitplan für die umfassende KI-Regulierung in Europa auf.",
+          "zusammenfassung": "Der Artikel untersucht die Gründe, warum die Umsetzung des europäischen KI-Gesetzes (EU AI Act) ins Stocken geraten könnte. Er beleuchtet die komplexen Verhandlungen und Herausforderungen bei der Schaffung einer umfassenden und zukunftsfähigen KI-Regulierung.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
@@ -80,10 +96,10 @@
         },
         {
           "titel": "EU verschiebt zentrale Regelungen des AI Acts",
-          "zusammenfassung": "Die Europäische Union hat die Implementierung zentraler Regelungen des AI Acts verschoben, was auf anhaltende Herausforderungen bei der Finalisierung des Gesetzes hindeutet. Diese Verzögerung könnte Unternehmen und Entwicklern mehr Zeit zur Anpassung geben, birgt aber auch das Risiko, dass Europa im globalen Wettlauf um die KI-Regulierung ins Hintertreffen gerät. Die genauen Gründe für die Verschiebung sind vielschichtig.",
+          "zusammenfassung": "Die EU hat die Implementierung zentraler Regelungen des AI Acts verschoben, was auf Schwierigkeiten bei der finalen Ausgestaltung und Abstimmung hindeutet. Diese Verzögerung könnte Auswirkungen auf den Zeitplan für die vollständige Inkraftsetzung des Gesetzes haben.",
           "einordnung": "",
           "quelle": "Haufe. Intelligenz, die bewegt.",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUljTldYY3VsLU8wcHhDanBhTEhfeHhQMGpoRUlEUnRzcWkyZnlpRzc0aEpSTGlpbVFOSUdnUWZnMlM3dFdfNkk3NXo3TXlVU09OTHdmUlVmNXN4OV9TYVQzaWVGdThCT2pqZ1ctX25FSHZTQTdlY2hKZC1hM1hJMm1oX052UlJz?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWljTldYY3VsLU8wcHhDanBhTEhfeHhQMGpoRUlEUnRzcWkyZnlpRzc0aEpSTGlpbVFOSUdnUWZnMlM3dFdfNkk3NXo3TXlVU09OTHdmUlVmNXN4OV9TYVQzaWVGdThCT2pqZ1ctX25FSHZTQTdlY2hKZC1hM1hJMm1oX052UlJz?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -94,16 +110,32 @@
       "fest": true,
       "artikel": [
         {
+          "titel": "30 Stunden Einsamkeit: Was passiert, wenn man KI-Agenten auf einer Insel aussetzt?",
+          "zusammenfassung": "Ein Experiment untersucht das Verhalten von KI-Agenten in Isolation über 30 Stunden hinweg, um deren Anpassungsfähigkeit und emergente Eigenschaften zu erforschen. Die Studie gibt Einblicke in die Autonomie und Interaktion von KI-Systemen unter ungewöhnlichen Bedingungen.",
+          "einordnung": "",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02cW9HOVJLbS1QVkNVUTBxbnhTTmxCUGctd05sVDdwdWp5c2g5YWZvRkZqckpCbVJOV21pc2ZLVmFHb1U0U1QzSVRseDR5a2hDS19QSVNobWpLbUpMZURoZjdPTVhrSWpGeGZtczNWSkE5b1BWT0E?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "AnythingLLM: Eigene Dokumente mit KI lokal auswerten",
+          "zusammenfassung": "AnythingLLM bietet eine Lösung zur lokalen Auswertung eigener Dokumente mittels Künstlicher Intelligenz, was insbesondere für Datenschutz und individuelle Anpassung von Vorteil ist. Nutzer können so sensible Daten verarbeiten, ohne sie externen Cloud-Diensten anzuvertrauen.",
+          "einordnung": "",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXVZSFJOOElhU2NSdndVcjNRdzZJYlVjay03RUhxNWFsd1AtTGRmU3pzdkx1TEhJcVZFMnZQN3dPc1kzenlWQmJHUmZCTklHTXU0U3JUNDJjdmJuYXRJb3pnUGlXUVF1TFljQjdYdTNBSGU1VU9nZ1p0WUJIWjA4VDNVSnNtWHZWLTUyaFF0YXFMQzB3MU9SNm1kZw?oc=5",
+          "sterne": "⭐"
+        },
+        {
           "titel": "Large Language Models erklärt: Was sind LLMs?",
-          "zusammenfassung": "Dieser Artikel bietet eine grundlegende Erklärung von Large Language Models (LLMs), deren Funktionsweise und Anwendungsbereiche. Er erläutert die Architektur und die Trainingsprinzipien dieser mächtigen KI-Systeme, die die Grundlage für viele aktuelle KI-Anwendungen bilden. Für Einsteiger bietet er einen umfassenden Überblick über die Technologie hinter ChatGPT und Co.",
+          "zusammenfassung": "Dieser Artikel bietet eine grundlegende Erklärung von Large Language Models (LLMs), deren Funktionsweise und Anwendungsbereiche. Er dient als Einführung in eine der Schlüsseltechnologien der modernen Künstlichen Intelligenz.",
           "einordnung": "",
           "quelle": "Computerwoche",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzMldHTWJJQWFIVzZwdW41dmdIaEVVd1JjS295Qzd1TXdpRDVMeWNLQmNrQXA1U3pBQzZFUU9GLUhJMHdiSmZiLVBaWTdWa0lIQ29Kd0xfMWZqa2EzenlTV2UzUnBhWjRuSXl3QjZOR1g?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMicEFVVV95cUxQc01HTWJJQWFIVzZwdW41dmdIaEVVd1JjS295Qzd1TXdpRDVMeWNLQmNrQXA1U3pBQzZFUU9GLUhJMHdiSmZiLVBaWTdWa0lIQ29Kd0xfMWZqa2EzenlTV2UzUnBhWjRuSXl3QjZOR1g?oc=5",
           "sterne": "⭐"
         },
         {
           "titel": "Was sind große Sprachmodelle (LLM)?",
-          "zusammenfassung": "Databricks erklärt in diesem Artikel detailliert, was große Sprachmodelle (LLMs) sind und wie sie funktionieren. Der Fokus liegt auf den technischen Aspekten, der Datenverarbeitung und den potenziellen Einsatzmöglichkeiten in verschiedenen Branchen. Es wird auch auf die Herausforderungen und die Zukunftsperspektiven dieser transformativen KI-Technologie eingegangen.",
+          "zusammenfassung": "Der Artikel definiert große Sprachmodelle (LLMs) und erläutert ihre Bedeutung im Bereich der Künstlichen Intelligenz. Er erklärt die Kernkonzepte und die immense Datenbasis, auf der diese Modelle trainiert werden.",
           "einordnung": "",
           "quelle": "Databricks",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUEZqZTJ5RTktZHViZVpiSFZjbHcwZUU1d25KX1JsU3pPODlPNlpLMXY3cDRMV1RFUHlzc1EwWFpLOVhQZTNxQTZWcVY4VmF0SkhuOThtUmtGc2NhTW1zNktReGZETG9jVjdUNjNFblM2cEE?oc=5",
@@ -113,36 +145,20 @@
     },
     {
       "emoji": "💼",
-      "titel": "KI & Arbeitswelt",
+      "titel": "KI & Arbeit",
       "fest": false,
       "artikel": [
         {
-          "titel": "Künstliche Intelligenz und Arbeitsmarkt: Die KI, ein Jobkiller? Das hängt vom Alter ab",
-          "zusammenfassung": "Eine neue Analyse beleuchtet den Einfluss von KI auf den Arbeitsmarkt und stellt fest, dass die Auswirkungen stark vom Alter der Arbeitnehmer abhängen. Während jüngere Generationen sich leichter anpassen könnten, stehen ältere Arbeitnehmer vor größeren Herausforderungen bei der Umschulung und dem Erwerb neuer, KI-relevanter Fähigkeiten. Dies könnte zu einer Spaltung des Arbeitsmarktes führen.",
+          "titel": "Studienabbruch: Der Prof sagt: »Fragen Sie bitte die KI, nicht mich«",
+          "zusammenfassung": "Ein Professor fordert Studenten auf, KI statt ihn zu befragen, was die sich wandelnde Rolle von Lehrenden und Lernenden im Zeitalter der Künstlichen Intelligenz beleuchtet. Der Artikel diskutiert die Auswirkungen von KI auf Bildung und die Notwendigkeit neuer didaktischer Ansätze.",
           "einordnung": "",
           "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2dwNnBrUjk3RnJ4V05ESnFmY1NmLXZNY2JWcERzMkNPSzdhdkhEM0FBc1dsQmhiZS1nY2RsRllVaGpFVFplcktXdFVpajl2d0dSMVZQOU81VUN5MmZhZlFKVFAyRjM1S01ra1NiUjV5VUhwZmV4THR5dmg0N2NVWVZmU1p6eEFIVHowZjRPRFpXRnhKb3FfQUhPRWlzUGk2YmdUOEc4Wi1HUGdI?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Arbeitsagentur-Chefin Nahles rechnet mit Verlust von 800.000 Jobs durch KI",
-          "zusammenfassung": "Andrea Nahles, Chefin der Bundesagentur für Arbeit, prognostiziert einen Verlust von bis zu 800.000 Arbeitsplätzen in Deutschland durch den Vormarsch der Künstlichen Intelligenz. Sie betont die Notwendigkeit massiver Investitionen in Weiterbildung und Umschulung, um die betroffenen Arbeitnehmer für neue Rollen zu qualifizieren. Die Politik sei gefordert, frühzeitig Maßnahmen zu ergreifen, um soziale Härten abzufedern.",
-          "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbHoyS1M4cDZWUDlQbTBTR0dDd3F2ZEJjYUtxdjYwTmQtbkRIZEZBYWJqemNHcGhycUZrVzQyOUpWNDVDazlIRjJlU0RUOWlaZE1EY2p2dGdNV0JWci03ZWVudC1EVFVSZ2loWm1ocmdnMFM1Q2FyZWlHVjlwRkZ0NnNoS3hpVUs1b3d1WE1DRVVrWnlHV3Y4TG1iNHNDbUxnRU1HcTVfRzVMdlhLVzVlaWhWdkNCOGRoMi1XSXI5VGpnWG1WRHE0VWxjTUlFaTJtQWc0a2c2NW1nWTdzY0FNdWx2N1dyS1NUd1JfOVNtQ3I?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Anthropic erweitert Claude um neue Büro-Anwendungen",
-          "zusammenfassung": "Anthropic hat sein KI-Modell Claude um eine Reihe neuer Büro-Anwendungen erweitert, die die Produktivität in Unternehmen steigern sollen. Diese Tools ermöglichen Claude, komplexe Aufgaben wie Datenanalyse in Tabellenkalkulationen oder die Erstellung von Präsentationen zu übernehmen. Der Schritt positioniert Claude als direkten Konkurrenten zu anderen KI-Assistenten im Geschäftsumfeld.",
-          "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczR0YzNwRFBPQk4wUFBhMU5PNHl4UHVqWDJrTGJHQ2NUQkszMTBtcjBDZTQ5eTZWVFEwdW0zNzZkRzFBcWQ3TFNXUlhmMEN2TzkwcGs4LUUyY1VId3dnMjNlTkxMNUF0LUNRa0owOGh5NUFxMXZJTVpmcE9UVExwVUQ2T2pkMDlFMjYwNVVNWHhwZW5jeTYtZU8yY2xkMVdIcWlwLVcxS2Q1c3EwaDlRcC01OFI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkpVVjI2WFFSeUhvd2wzQmtNN2tabTVFdzhrNFNlQ2RyV3BQMURjWkZQRmRLSkk3QThmYTVZamtvcEptLVk0WDR6aFB5OTdhWXVfSVJEcEJra0VpTFNhd0dsam1GQ3BIaHBWM2lxdm1CUG9PZVFiOTNXT29YR0NPak9fTjdYNU0?oc=5",
           "sterne": "⭐⭐"
         },
         {
           "titel": "Claude Sheets und Whiteboards: Anthropic startet Büro-Tools in der Beta",
-          "zusammenfassung": "Anthropic hat die Beta-Phase für neue Büro-Tools namens 'Claude Sheets' und 'Claude Whiteboards' gestartet. Diese Anwendungen integrieren Claudes KI-Fähigkeiten direkt in gängige Arbeitsabläufe, um Nutzern bei der Organisation von Daten und Ideen zu helfen. Die Beta-Version soll wertvolles Feedback für die weitere Entwicklung und Optimierung der Tools liefern.",
+          "zusammenfassung": "Anthropic hat die Beta-Phase für neue Büro-Tools wie Claude Sheets und Whiteboards gestartet, die KI-Funktionalitäten direkt in Tabellenkalkulationen und Kollaborationsflächen integrieren. Dies ermöglicht eine intuitivere und effizientere Nutzung von KI im Arbeitsalltag.",
           "einordnung": "",
           "quelle": "Golem",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVlyYTVscm13bWpfcTNXcGExcndseFdSS29mYnlMd1VjeG5FV0xrQ0twamk0dlN2TjRpNjBEbThnZUdNSFVFVnl1ZjJYaEFGUlBoMGExa0k3cklPWTFsSmtyRUFxVl8yUExaMW1LeHFhcVJIaWtHcTJOdERDckgxYm5CSVc0YnhPRHd4dlZhRHZpd242YWFVeDRGZ0o0d2ZmUWZaVHdLQnNIWGJsbWRfNw?oc=5",
@@ -151,53 +167,37 @@
       ]
     },
     {
-      "emoji": "🌐",
-      "titel": "KI im Alltag & Gesellschaft",
+      "emoji": "🚗",
+      "titel": "KI & Mobilität",
       "fest": false,
       "artikel": [
         {
-          "titel": "Künstliche Intelligenz: Philosoph Precht: KI bedroht die Neugier der Kinder",
-          "zusammenfassung": "Philosoph Richard David Precht äußert Bedenken, dass der zunehmende Einsatz von KI die natürliche Neugier von Kindern beeinträchtigen könnte. Er warnt vor einer passiven Konsumhaltung, wenn KI zu viele Antworten vorgibt, anstatt selbstständiges Entdecken zu fördern. Dies könnte langfristig negative Auswirkungen auf die kognitive Entwicklung haben.",
+          "titel": "CarPlay lässt sich jetzt mit Google Gemini steuern",
+          "zusammenfassung": "Google Gemini kann nun direkt über Apple CarPlay gesteuert werden, was eine nahtlose Integration von Googles KI-Assistenten in das Infotainmentsystem von Fahrzeugen ermöglicht. Fahrer profitieren von erweiterten Sprachsteuerungs- und Informationsfunktionen.",
           "einordnung": "",
-          "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObDVYMlE5R2k0UkF5cjRmdHBaR1VrcjNNVnVtNFlxcWg0MmJUTDUzVzBmSW1xVXpVeWZCUDNVNWp3OGE5YkVKUk0zbERxMFlWNllfRno4ZXpkWE1xanBxM1hZYkowRFVYSFNvY0VCSHZuUlNiTTBaSjRLckdWMEZ0bjZiVW9YaDdGQVc5VUQtUQ?oc=5",
+          "quelle": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV2FuemNnSm10REZQXzF5S18xUUpCSlVNUmN3a1NCaWF2cTI3RFJFNDFTODhOMmJ2RjdiSlU3MkYySjhhZzRTX2x1TjJmdU5ya1pHZ2ZLWXhRZW91N21NMkttV1hOWFJlZ2JoNzhoVWhZeXNpQk00dUliQ0JmQk9IcS1OOHk5M3BCcHlrXy16am5yNFBHS0JCSWlGOFE1aHdUNXZUdTB3YkVMVElBZG5YaGMtT2IyZTZT?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Claude macht im Meeting die Arbeit – bevor der Call vorbei ist",
-          "zusammenfassung": "Anthropic's Claude wird mit neuen Funktionen ausgestattet, die es ihm ermöglichen, während Meetings proaktiv Aufgaben zu übernehmen und Ergebnisse zu liefern. Bevor ein Anruf beendet ist, kann Claude beispielsweise Zusammenfassungen erstellen, Aktionspunkte festhalten oder sogar Entwürfe für Folgeaufgaben generieren. Dies verspricht eine erhebliche Effizienzsteigerung in der Unternehmenskommunikation.",
-          "einordnung": "",
-          "quelle": "OnlineMarketing.de",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOamlsakVFR1BtWHVhQXNiMWt0dXFxTHE4SElNTC1XNXpjYXU4TGF1STNYWlozbHBKN1EzYzdVMERhSHllOWduZXM3cERWUDVoUGRpLWpnZUFoMGE4Q0lQcjkzdmhFdUhMRUhQOXNmU1pnM1I4VEh6ZHE5NUxwX1NqYVF2MXBWZEVwb2hOLWJiTXU0dw?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Google Chrome & Gemini: Neues KI-Autofill startet jetzt für erste Nutzer - schlägt Formularinhalte vor...",
-          "zusammenfassung": "Google integriert Gemini-KI-Funktionen in Chrome, um ein neues Autofill-System einzuführen, das Formularinhalte intelligent vorschlägt. Diese Funktion lernt aus dem Nutzerverhalten und Kontext, um präzisere und hilfreichere Vorschläge zu machen. Erste Nutzer können diese smarte Erweiterung bereits testen, die den Ausfüllprozess von Online-Formularen erheblich vereinfachen soll.",
+          "titel": "Android Auto: Google kündigt proaktiven KI-Assistenten an - Gemini bringt Informationen ohne Anfrage (Video)",
+          "zusammenfassung": "Google hat einen proaktiven KI-Assistenten für Android Auto angekündigt, der von Gemini angetrieben wird und relevante Informationen ohne explizite Anfrage liefert. Diese Entwicklung verspricht ein intuitiveres und vorausschauenderes Fahrerlebnis.",
           "einordnung": "",
           "quelle": "GoogleWatchBlog",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRm85cGdaUjZ4OEJqWFREZ1hVeVFEVTNlZ2hFNHdKaU40VTNCSnVsQzlyVWVUc1NxbkpSWFpPbW1MR0pqdW5UQ240ZDJ6Z1UtY2VEWlM2S1JuUU5Ma3ZmaC1RZldVelpha2ltNk1IX0hHQUZOZUJPd0hNTDNaZWZMN0hkNjBpaVlLTmhQc1hhNTdlSTk5dTRCMFREbUpvbWJHYjJqMWJGbTk1ZGlITXd1YU45ZGNNV3VmbE5QLUIzOVNjY29ENE1EblFfV3RQUTJXallITmZvZmdiN1J3TWtR0gHkAUFVX3lxTE9DcmVDU3lfRG9rUTRGR0JMaFBCeFRtVHB1RHJQcXY0RGI0X2ZjN0FvbFVhVTBnNmJWM29zVlpSR1Q1djFCRFVkMzVaaEVOT01rVW02Q2RlNlhmSmtNNjF2bmZnRkJPUXoxUEcxU0ZmTVdIaDdXUjFDZ2tkaDFKajlwRzZsN0JQMXhTX0VnUnpXd2lyMU9VSlBKRU5aTzYtdnRhUVNXaWhvSUNDQTNYUGczTWpGTjZkUlRLcjFyU3BPYUVEWXl4STliTi1mWTRhbUI2TVhZT1UxTHdJdVNPR2hmRXB1Yg?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "KI im Cockpit: Google bringt Gemini in Google Maps für CarPlay",
-          "zusammenfassung": "Google erweitert die Integration von Gemini-KI auf Google Maps für CarPlay, wodurch Autofahrer von intelligenten Navigations- und Assistenzfunktionen profitieren. Gemini kann personalisierte Routen vorschlagen, Fragen beantworten und kontextbezogene Informationen während der Fahrt liefern. Diese Erweiterung zielt darauf ab, das Fahrerlebnis sicherer und komfortabler zu gestalten.",
-          "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16bU43bjE2czV3RjNFam0wbVZ2UXBnYUk4RENUVlZJR1ZoaHFNSjRXVUVEbDh1SHFOcjlQNHVLaUJsLVdCNkpwU3had3ktRENOUUNaeVpSX2JaTnRXVTV6SllvWTVYdThuN1NvVkstUTh6ZzdQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeWJpZzcwTm8tbzZXck9fNWpINWo2a0hFLWlKSlkwTUhkNkE1dnc5ajlqeHBKUHBUampuekpLaGtIRkV0eXEtcWdKeXlKNThvZTZZQmlnWFJycGVoX0dWSFprZHBPeUFMdUx4VUZRbFZneGtLbXZYTEJrTlQ1SFJZX0VqY3NLNExVWlp1djZETlRkLUFQdVh1S2hreUFYemIyTTNOXzhFcl9odTlUYWphZGZ6S0lnS2Ixd2pqQVhVMjcwUzJ3a0NsSlhQRGVWeFRXa1VtcWdkNUU0V0010gHiAUFVX3lxTFBZd0JqSlZDUjlVbml5QnR2Sk8xOWZBQmZVWUhlRUVzRG9WdFdLNC12VGYtYUZVbUJJTm9lTUZvb25VXzIwNDVYYU9SWG5qRVQzbVhKeFNPbEo0ems4RXpQX2o2MlFHcEdmM2JVbHBXa00wNS1CanVySEZqYTlwYkxZYnYyV3hyMXJGZVA2YkxqR3BVc296aTV3S1hHS2daVU41Zjk2VV9jQl9MV0s0V1dVV0NxWWRFTnBtVklUTkRLS1lIdTFnN0hBUmxxb2VRYlJIbHRHbVJEb2dkRUNzcGRGbHc?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2023-10-27T10:00:00.000Z",
+  "generiert_um": "2026-11-12T17:00:00.000Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
       "desc": "Mo, Mi, Fr · mit The Decoder",
-      "episode": "KI-Update kompakt: Rechenzentren, Propaganda, Siri AI, Minecraft",
-      "datum": "9.11.2026",
-      "dauer": "18 Min.",
+      "episode": "KI-Update kompakt: Nvidia-Affäre, Coding-Agenten, Gemini 4 Carbon, Muse Ember",
+      "datum": "11.11.2026",
+      "dauer": "19 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/f1/22/9bf12286-42a8-2765-8a9d-91a07df6b535/mza_1407979254960059607.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp"
     },
@@ -231,9 +231,9 @@
     {
       "name": "KI verstehen · Deutschlandfunk",
       "desc": "Wöchentlich · verständlich erklärt",
-      "episode": "Zukunft der Arbeit (2/3) - Wie verändert KI meinen Job?",
-      "datum": "5.11.2026",
-      "dauer": "38 Min.",
+      "episode": "Zukunft der Arbeit (3/3) - Wie beeinflusst KI die Jobsuche?",
+      "datum": "12.11.2026",
+      "dauer": "33 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c6/e3/d6/c6e3d6bd-e018-153d-939e-0aa7c6916b21/0.jpg/100x100bb.jpg",
       "spotify": "https://open.spotify.com/show/0rktSeF3DOjOyk2f0VPFwO"
     },
