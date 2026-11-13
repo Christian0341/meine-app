@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-11-12T15:53:43.478771+00:00",
+  "aktualisiert": "2026-11-13T15:15:32.869412+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Fable 5.2 ist zu gut für mein Abo...",
+      "link": "https://www.youtube.com/watch?v=G7Bph8i3BVs",
+      "video_id": "G7Bph8i3BVs",
+      "thumbnail": "https://img.youtube.com/vi/G7Bph8i3BVs/mqdefault.jpg",
+      "datum": "2026-11-13T08:41:30+00:00",
+      "datum_de": "13.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "schlau DIGITAL | KI für Unternehmen",
+      "titel": "Claude kennt deine Firma nicht. Und antwortet trotzdem.",
+      "link": "https://www.youtube.com/watch?v=rpczgaOIJv8",
+      "video_id": "rpczgaOIJv8",
+      "thumbnail": "https://img.youtube.com/vi/rpczgaOIJv8/mqdefault.jpg",
+      "datum": "2026-11-12T17:00:39Z",
+      "datum_de": "12.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "DAS ist die Zukunft der Roboter! Asimovs Gesetze, RSI & Superintelligenz (Ex-DeepMind-Forscher)",
+      "link": "https://www.youtube.com/watch?v=SxiYOCPW8_c",
+      "video_id": "SxiYOCPW8_c",
+      "thumbnail": "https://img.youtube.com/vi/SxiYOCPW8_c/mqdefault.jpg",
+      "datum": "2026-11-12T16:15:39+00:00",
+      "datum_de": "12.11.2026",
+      "quelle": "kanal"
+    },
     {
       "kanal": "PaperOffice AI Deutsch",
       "titel": "4 Leistungsstarke KI-Agenten für Ihr Unternehmen — Echte Beispiele",
@@ -39,6 +69,16 @@
       "video_id": "BBRl2-x6UC8",
       "thumbnail": "https://img.youtube.com/vi/BBRl2-x6UC8/mqdefault.jpg",
       "datum": "2026-11-11T15:00:00Z",
+      "datum_de": "11.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Worth Making | KI. Produkt. Business.",
+      "titel": "10 GitHub-Trends, die Claude Code absurd mächtig machen",
+      "link": "https://www.youtube.com/watch?v=pVIZCMRgbtk",
+      "video_id": "pVIZCMRgbtk",
+      "thumbnail": "https://img.youtube.com/vi/pVIZCMRgbtk/mqdefault.jpg",
+      "datum": "2026-11-11T14:23:00Z",
       "datum_de": "11.11.2026",
       "quelle": "suche"
     },
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/FsbSPrsLOzc/mqdefault.jpg",
       "datum": "2026-11-10T15:07:22Z",
       "datum_de": "10.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Ismajl Pukaj | KI Agentur",
-      "titel": "Claude Fable 5.2 ist da und es hat ALLE GESCHOCKT!",
-      "link": "https://www.youtube.com/watch?v=94biKzZDS-o",
-      "video_id": "94biKzZDS-o",
-      "thumbnail": "https://img.youtube.com/vi/94biKzZDS-o/mqdefault.jpg",
-      "datum": "2026-11-09T22:47:05Z",
-      "datum_de": "09.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Bit Erklärt",
-      "titel": "Ich habe eine App gebaut, ohne zu programmieren (so geht&#39;s mit Claude)",
-      "link": "https://www.youtube.com/watch?v=BCG15hfgKJA",
-      "video_id": "BCG15hfgKJA",
-      "thumbnail": "https://img.youtube.com/vi/BCG15hfgKJA/mqdefault.jpg",
-      "datum": "2026-11-09T18:01:33Z",
-      "datum_de": "09.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Wie viele Issues kriege ich für $2700 gefixt?",
-      "link": "https://www.youtube.com/watch?v=F6QzzhQ8F5M",
-      "video_id": "F6QzzhQ8F5M",
-      "thumbnail": "https://img.youtube.com/vi/F6QzzhQ8F5M/mqdefault.jpg",
-      "datum": "2026-11-09T11:02:56+00:00",
-      "datum_de": "09.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Ben's 3D & Technik World",
-      "titel": "ChatGPT übernimmt Bambu Studio &amp; SolidCraft  per KI!😮 Einfach KRASS",
-      "link": "https://www.youtube.com/watch?v=HMu4kiH_RS0",
-      "video_id": "HMu4kiH_RS0",
-      "thumbnail": "https://img.youtube.com/vi/HMu4kiH_RS0/mqdefault.jpg",
-      "datum": "2026-11-08T20:13:29Z",
-      "datum_de": "08.11.2026",
       "quelle": "suche"
     }
   ]
