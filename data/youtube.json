@@ -1,7 +1,77 @@
 {
-  "aktualisiert": "2026-11-13T15:15:32.869412+00:00",
+  "aktualisiert": "2026-11-14T14:01:21.780464+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Kontextwerk",
+      "titel": "24 Dinge, die Leute gerade mit Claude machen (die meisten kannst du diese Woche testen)",
+      "link": "https://www.youtube.com/watch?v=21RQAidO3UA",
+      "video_id": "21RQAidO3UA",
+      "thumbnail": "https://img.youtube.com/vi/21RQAidO3UA/mqdefault.jpg",
+      "datum": "2026-11-14T10:50:21Z",
+      "datum_de": "14.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Die wilde Sicherheitslücke hinter einem *",
+      "link": "https://www.youtube.com/watch?v=Fz8sFDeF1hk",
+      "video_id": "Fz8sFDeF1hk",
+      "thumbnail": "https://img.youtube.com/vi/Fz8sFDeF1hk/mqdefault.jpg",
+      "datum": "2026-11-14T09:45:01+00:00",
+      "datum_de": "14.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Was KI bei uns schon allein macht 🤖",
+      "link": "https://www.youtube.com/shorts/8yyY3nx2QWM",
+      "video_id": "8yyY3nx2QWM",
+      "thumbnail": "https://img.youtube.com/vi/8yyY3nx2QWM/mqdefault.jpg",
+      "datum": "2026-11-14T08:55:37+00:00",
+      "datum_de": "14.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "ToolVibes",
+      "titel": "n8n Tutorial (Deutsch): Nod: der KI-Agent von n8n",
+      "link": "https://www.youtube.com/watch?v=A_R9QcTTji8",
+      "video_id": "A_R9QcTTji8",
+      "thumbnail": "https://img.youtube.com/vi/A_R9QcTTji8/mqdefault.jpg",
+      "datum": "2026-11-13T21:30:40Z",
+      "datum_de": "13.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Tinus Klauser",
+      "titel": "Wie man mit Claude Code Videos schneidet (und was es übersieht)",
+      "link": "https://www.youtube.com/watch?v=vbHjQzeyTos",
+      "video_id": "vbHjQzeyTos",
+      "thumbnail": "https://img.youtube.com/vi/vbHjQzeyTos/mqdefault.jpg",
+      "datum": "2026-11-13T18:00:18Z",
+      "datum_de": "13.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "der KI Almanach",
+      "titel": "ChatGPT, Gemini oder Claude: Welche KI passt zu dir?",
+      "link": "https://www.youtube.com/watch?v=zcFCLn0iw-k",
+      "video_id": "zcFCLn0iw-k",
+      "thumbnail": "https://img.youtube.com/vi/zcFCLn0iw-k/mqdefault.jpg",
+      "datum": "2026-11-13T17:00:04Z",
+      "datum_de": "13.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ZeldoReacts",
+      "titel": "Gemini 4 Hydrogen ist da: So stark ist das neue kleine Modell von Google!",
+      "link": "https://www.youtube.com/watch?v=r7vLkTS2MR0",
+      "video_id": "r7vLkTS2MR0",
+      "thumbnail": "https://img.youtube.com/vi/r7vLkTS2MR0/mqdefault.jpg",
+      "datum": "2026-11-13T11:22:47Z",
+      "datum_de": "13.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Morpheus Tutorials",
       "titel": "Fable 5.2 ist zu gut für mein Abo...",
@@ -11,6 +81,26 @@
       "datum": "2026-11-13T08:41:30+00:00",
       "datum_de": "13.11.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "The Node AI | AI Automation",
+      "titel": "Claude Whiteboards, Sheets &amp; Data: Was taugen die neuen Tools?",
+      "link": "https://www.youtube.com/watch?v=QH64aISneA0",
+      "video_id": "QH64aISneA0",
+      "thumbnail": "https://img.youtube.com/vi/QH64aISneA0/mqdefault.jpg",
+      "datum": "2026-11-12T23:27:54Z",
+      "datum_de": "12.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Ismajl Pukaj | KI Agentur",
+      "titel": "ChatGPT Business: So nutzt du es jetzt für deine Firma",
+      "link": "https://www.youtube.com/watch?v=u-Ii1fAs8rA",
+      "video_id": "u-Ii1fAs8rA",
+      "thumbnail": "https://img.youtube.com/vi/u-Ii1fAs8rA/mqdefault.jpg",
+      "datum": "2026-11-12T20:20:50Z",
+      "datum_de": "12.11.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "schlau DIGITAL | KI für Unternehmen",
@@ -24,13 +114,23 @@
     },
     {
       "kanal": "Everlast AI",
-      "titel": "DAS ist die Zukunft der Roboter! Asimovs Gesetze, RSI & Superintelligenz (Ex-DeepMind-Forscher)",
+      "titel": "DAS ist der nächste KI-Durchbruch! Roboter-Selbstverbesserung & Asimovs Gesetze (Markus Wulfmeier)",
       "link": "https://www.youtube.com/watch?v=SxiYOCPW8_c",
       "video_id": "SxiYOCPW8_c",
       "thumbnail": "https://img.youtube.com/vi/SxiYOCPW8_c/mqdefault.jpg",
       "datum": "2026-11-12T16:15:39+00:00",
       "datum_de": "12.11.2026",
       "quelle": "kanal"
+    },
+    {
+      "kanal": "Jannis Gerlinger | KI, die für dich arbeitet",
+      "titel": "HAMMER! Diese 47 Claude Code Ideen verändern JETZT dein Unternehmen",
+      "link": "https://www.youtube.com/watch?v=J11XjZCqYr4",
+      "video_id": "J11XjZCqYr4",
+      "thumbnail": "https://img.youtube.com/vi/J11XjZCqYr4/mqdefault.jpg",
+      "datum": "2026-11-11T18:20:47Z",
+      "datum_de": "11.11.2026",
+      "quelle": "suche"
     },
     {
       "kanal": "PaperOffice AI Deutsch",
@@ -51,106 +151,6 @@
       "datum": "2026-11-11T16:15:38+00:00",
       "datum_de": "11.11.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Toolfuchs",
-      "titel": "ElevenLabs Agent erstellen: KI-Telefonassistent in 7 Schritten",
-      "link": "https://www.youtube.com/watch?v=7F1pXCUzKFQ",
-      "video_id": "7F1pXCUzKFQ",
-      "thumbnail": "https://img.youtube.com/vi/7F1pXCUzKFQ/mqdefault.jpg",
-      "datum": "2026-11-11T16:00:19Z",
-      "datum_de": "11.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "MikesWorld",
-      "titel": "Google Gemini 4 Carbon ist da: Billiger uns besser als Fable 5.2?! 🔥",
-      "link": "https://www.youtube.com/watch?v=BBRl2-x6UC8",
-      "video_id": "BBRl2-x6UC8",
-      "thumbnail": "https://img.youtube.com/vi/BBRl2-x6UC8/mqdefault.jpg",
-      "datum": "2026-11-11T15:00:00Z",
-      "datum_de": "11.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Worth Making | KI. Produkt. Business.",
-      "titel": "10 GitHub-Trends, die Claude Code absurd mächtig machen",
-      "link": "https://www.youtube.com/watch?v=pVIZCMRgbtk",
-      "video_id": "pVIZCMRgbtk",
-      "thumbnail": "https://img.youtube.com/vi/pVIZCMRgbtk/mqdefault.jpg",
-      "datum": "2026-11-11T14:23:00Z",
-      "datum_de": "11.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "10 geniale ChatGPT Tipps, die dich vom Anfänger zum Profi machen",
-      "link": "https://www.youtube.com/watch?v=_E-yNICYygU",
-      "video_id": "_E-yNICYygU",
-      "thumbnail": "https://img.youtube.com/vi/_E-yNICYygU/mqdefault.jpg",
-      "datum": "2026-11-11T13:00:21+00:00",
-      "datum_de": "11.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "AIIANER",
-      "titel": "Gemini 4 Carbon ist da, Googles eigener Bericht sieht nur kleinen Sprung | KI News 11.11.",
-      "link": "https://www.youtube.com/watch?v=VbWt0vl97F4",
-      "video_id": "VbWt0vl97F4",
-      "thumbnail": "https://img.youtube.com/vi/VbWt0vl97F4/mqdefault.jpg",
-      "datum": "2026-11-11T09:04:12Z",
-      "datum_de": "11.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "PEGASUS Heilbronn",
-      "titel": "Claude Tutorial deutsch: Büroarbeit für Handwerk &amp; Praxis",
-      "link": "https://www.youtube.com/watch?v=90pKUf9NTpk",
-      "video_id": "90pKUf9NTpk",
-      "thumbnail": "https://img.youtube.com/vi/90pKUf9NTpk/mqdefault.jpg",
-      "datum": "2026-11-10T17:30:31Z",
-      "datum_de": "10.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "„Verbot für Superintelligenz“ USA stoppen Rechenzentren, Claude RSI, Starfall & Merz' KI-Steuer",
-      "link": "https://www.youtube.com/watch?v=BajLtMHISQU",
-      "video_id": "BajLtMHISQU",
-      "thumbnail": "https://img.youtube.com/vi/BajLtMHISQU/mqdefault.jpg",
-      "datum": "2026-11-10T16:15:31+00:00",
-      "datum_de": "10.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Was kommt nach KI-Agents? Superagents 🤖",
-      "link": "https://www.youtube.com/shorts/ltBunmPvwBI",
-      "video_id": "ltBunmPvwBI",
-      "thumbnail": "https://img.youtube.com/vi/ltBunmPvwBI/mqdefault.jpg",
-      "datum": "2026-11-10T16:04:39+00:00",
-      "datum_de": "10.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "Nach den Agents kommen SUPERAGENTS: Das ändert sich jetzt!",
-      "link": "https://www.youtube.com/watch?v=chHW7QR8Ieo",
-      "video_id": "chHW7QR8Ieo",
-      "thumbnail": "https://img.youtube.com/vi/chHW7QR8Ieo/mqdefault.jpg",
-      "datum": "2026-11-10T16:00:06+00:00",
-      "datum_de": "10.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Lisa Zachmann",
-      "titel": "Claude 2.0 Tutorial: So nutzt du die neuen Funktionen",
-      "link": "https://www.youtube.com/watch?v=FsbSPrsLOzc",
-      "video_id": "FsbSPrsLOzc",
-      "thumbnail": "https://img.youtube.com/vi/FsbSPrsLOzc/mqdefault.jpg",
-      "datum": "2026-11-10T15:07:22Z",
-      "datum_de": "10.11.2026",
-      "quelle": "suche"
     }
   ]
 }
