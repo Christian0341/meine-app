@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-11-14T14:01:21.780464+00:00",
+  "aktualisiert": "2026-11-15T14:38:12.364812+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "Claude Fable 5.2:  DAS kann es wirklich! + Die Folgen des NVIDIA-Dramas | KI-NEWS",
+      "link": "https://www.youtube.com/watch?v=_l6gzItCF80",
+      "video_id": "_l6gzItCF80",
+      "thumbnail": "https://img.youtube.com/vi/_l6gzItCF80/mqdefault.jpg",
+      "datum": "2026-11-15T09:15:18+00:00",
+      "datum_de": "15.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KIwi – KI einfach erklärt",
+      "titel": "Claude Code Design Tutorial Deutsch: /design Schritt für Schritt",
+      "link": "https://www.youtube.com/watch?v=Rrc4VGrFOMc",
+      "video_id": "Rrc4VGrFOMc",
+      "thumbnail": "https://img.youtube.com/vi/Rrc4VGrFOMc/mqdefault.jpg",
+      "datum": "2026-11-15T08:02:43Z",
+      "datum_de": "15.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI Agenten Insider | GrokBot & Automation DE",
+      "titel": "Ein Thema, viele Kanäle: So produziert ein KI-Agenten-Team deinen Content – mit QC &amp; Freigabe",
+      "link": "https://www.youtube.com/watch?v=f7IDaQy1C3c",
+      "video_id": "f7IDaQy1C3c",
+      "thumbnail": "https://img.youtube.com/vi/f7IDaQy1C3c/mqdefault.jpg",
+      "datum": "2026-11-14T17:00:34Z",
+      "datum_de": "14.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Darrel Wilson Auf Deutsch",
+      "titel": "Elementor MCP mit Claude AI verbinden: Schritt-für-Schritt Anleitung für WordPress",
+      "link": "https://www.youtube.com/watch?v=7ajUEroSO10",
+      "video_id": "7ajUEroSO10",
+      "thumbnail": "https://img.youtube.com/vi/7ajUEroSO10/mqdefault.jpg",
+      "datum": "2026-11-14T16:00:29Z",
+      "datum_de": "14.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Franzy Ma",
+      "titel": "Claude richtig nutzen: 3 Fehler, die fast jeder macht",
+      "link": "https://www.youtube.com/watch?v=qSrxU4MjBYI",
+      "video_id": "qSrxU4MjBYI",
+      "thumbnail": "https://img.youtube.com/vi/qSrxU4MjBYI/mqdefault.jpg",
+      "datum": "2026-11-14T15:30:16Z",
+      "datum_de": "14.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Kontextwerk",
       "titel": "24 Dinge, die Leute gerade mit Claude machen (die meisten kannst du diese Woche testen)",
@@ -44,7 +94,7 @@
     },
     {
       "kanal": "Tinus Klauser",
-      "titel": "Wie man mit Claude Code Videos schneidet (und was es übersieht)",
+      "titel": "Ich hab 500€ pro Video für den Schnitt gezahlt. Jetzt macht es Claude Code",
       "link": "https://www.youtube.com/watch?v=vbHjQzeyTos",
       "video_id": "vbHjQzeyTos",
       "thumbnail": "https://img.youtube.com/vi/vbHjQzeyTos/mqdefault.jpg",
@@ -83,22 +133,12 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "The Node AI | AI Automation",
-      "titel": "Claude Whiteboards, Sheets &amp; Data: Was taugen die neuen Tools?",
-      "link": "https://www.youtube.com/watch?v=QH64aISneA0",
-      "video_id": "QH64aISneA0",
-      "thumbnail": "https://img.youtube.com/vi/QH64aISneA0/mqdefault.jpg",
-      "datum": "2026-11-12T23:27:54Z",
-      "datum_de": "12.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Ismajl Pukaj | KI Agentur",
-      "titel": "ChatGPT Business: So nutzt du es jetzt für deine Firma",
-      "link": "https://www.youtube.com/watch?v=u-Ii1fAs8rA",
-      "video_id": "u-Ii1fAs8rA",
-      "thumbnail": "https://img.youtube.com/vi/u-Ii1fAs8rA/mqdefault.jpg",
-      "datum": "2026-11-12T20:20:50Z",
+      "kanal": "Hyperautomation Labs",
+      "titel": "Gemini 4 Hydrogen Just Beat Argon (And It&#39;s Cheaper)",
+      "link": "https://www.youtube.com/watch?v=E4TzPbJUrX0",
+      "video_id": "E4TzPbJUrX0",
+      "thumbnail": "https://img.youtube.com/vi/E4TzPbJUrX0/mqdefault.jpg",
+      "datum": "2026-11-12T19:34:09Z",
       "datum_de": "12.11.2026",
       "quelle": "suche"
     },
@@ -111,46 +151,6 @@
       "datum": "2026-11-12T17:00:39Z",
       "datum_de": "12.11.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "DAS ist der nächste KI-Durchbruch! Roboter-Selbstverbesserung & Asimovs Gesetze (Markus Wulfmeier)",
-      "link": "https://www.youtube.com/watch?v=SxiYOCPW8_c",
-      "video_id": "SxiYOCPW8_c",
-      "thumbnail": "https://img.youtube.com/vi/SxiYOCPW8_c/mqdefault.jpg",
-      "datum": "2026-11-12T16:15:39+00:00",
-      "datum_de": "12.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Jannis Gerlinger | KI, die für dich arbeitet",
-      "titel": "HAMMER! Diese 47 Claude Code Ideen verändern JETZT dein Unternehmen",
-      "link": "https://www.youtube.com/watch?v=J11XjZCqYr4",
-      "video_id": "J11XjZCqYr4",
-      "thumbnail": "https://img.youtube.com/vi/J11XjZCqYr4/mqdefault.jpg",
-      "datum": "2026-11-11T18:20:47Z",
-      "datum_de": "11.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "PaperOffice AI Deutsch",
-      "titel": "4 Leistungsstarke KI-Agenten für Ihr Unternehmen — Echte Beispiele",
-      "link": "https://www.youtube.com/watch?v=gH4ghNRfPHI",
-      "video_id": "gH4ghNRfPHI",
-      "thumbnail": "https://img.youtube.com/vi/gH4ghNRfPHI/mqdefault.jpg",
-      "datum": "2026-11-11T17:00:29Z",
-      "datum_de": "11.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Der EINFACHSTE Weg von ChatGPT empfohlen zu werden",
-      "link": "https://www.youtube.com/watch?v=pWWeXZNvvjA",
-      "video_id": "pWWeXZNvvjA",
-      "thumbnail": "https://img.youtube.com/vi/pWWeXZNvvjA/mqdefault.jpg",
-      "datum": "2026-11-11T16:15:38+00:00",
-      "datum_de": "11.11.2026",
-      "quelle": "kanal"
     }
   ]
 }
