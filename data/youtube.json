@@ -1,7 +1,57 @@
 {
-  "aktualisiert": "2026-11-15T14:38:12.364812+00:00",
+  "aktualisiert": "2026-11-16T16:54:04.212706+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "5 Schritte: So erledigt CLAUDE CODE jede Aufgabe für dich!",
+      "link": "https://www.youtube.com/watch?v=3Hx6IYKbgic",
+      "video_id": "3Hx6IYKbgic",
+      "thumbnail": "https://img.youtube.com/vi/3Hx6IYKbgic/mqdefault.jpg",
+      "datum": "2026-11-16T16:21:22+00:00",
+      "datum_de": "16.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "DAS INVESTMENT",
+      "titel": "KI-Agenten statt SaaS: Warum dieser Berater bei Software-Aktien abwinkt",
+      "link": "https://www.youtube.com/watch?v=k_6o_-dENwA",
+      "video_id": "k_6o_-dENwA",
+      "thumbnail": "https://img.youtube.com/vi/k_6o_-dENwA/mqdefault.jpg",
+      "datum": "2026-11-16T06:00:25Z",
+      "datum_de": "16.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "DeepSeek Super Agent kann jetzt 100+ Agents gleichzeitig steuern",
+      "link": "https://www.youtube.com/watch?v=LHqNJRBw23c",
+      "video_id": "LHqNJRBw23c",
+      "thumbnail": "https://img.youtube.com/vi/LHqNJRBw23c/mqdefault.jpg",
+      "datum": "2026-11-15T16:15:01+00:00",
+      "datum_de": "15.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "Claude Artefakte 2.0 ist unglaublich! (Alles in 12 Minuten) | Schritt für Schritt Anleitung 2027",
+      "link": "https://www.youtube.com/watch?v=pgYtqBxAkqg",
+      "video_id": "pgYtqBxAkqg",
+      "thumbnail": "https://img.youtube.com/vi/pgYtqBxAkqg/mqdefault.jpg",
+      "datum": "2026-11-15T16:00:35Z",
+      "datum_de": "15.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Kai baut KI Systeme",
+      "titel": "Gemini Grundkurs für Anfänger (2026): Gratis einrichten, richtig fragen, Datenschutz",
+      "link": "https://www.youtube.com/watch?v=YQuVEq8TXLE",
+      "video_id": "YQuVEq8TXLE",
+      "thumbnail": "https://img.youtube.com/vi/YQuVEq8TXLE/mqdefault.jpg",
+      "datum": "2026-11-15T15:00:18Z",
+      "datum_de": "15.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "Claude Fable 5.2:  DAS kann es wirklich! + Die Folgen des NVIDIA-Dramas | KI-NEWS",
@@ -20,6 +70,16 @@
       "thumbnail": "https://img.youtube.com/vi/Rrc4VGrFOMc/mqdefault.jpg",
       "datum": "2026-11-15T08:02:43Z",
       "datum_de": "15.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI FinTech",
+      "titel": "KI-Agenten für Anfänger: Selbst erstellen &amp; Geld verdienen mit KI #KIAgenten #KIAutomatisierung",
+      "link": "https://www.youtube.com/watch?v=uDYQhsX3G0U",
+      "video_id": "uDYQhsX3G0U",
+      "thumbnail": "https://img.youtube.com/vi/uDYQhsX3G0U/mqdefault.jpg",
+      "datum": "2026-11-14T19:40:05Z",
+      "datum_de": "14.11.2026",
       "quelle": "suche"
     },
     {
@@ -90,66 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/A_R9QcTTji8/mqdefault.jpg",
       "datum": "2026-11-13T21:30:40Z",
       "datum_de": "13.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Tinus Klauser",
-      "titel": "Ich hab 500€ pro Video für den Schnitt gezahlt. Jetzt macht es Claude Code",
-      "link": "https://www.youtube.com/watch?v=vbHjQzeyTos",
-      "video_id": "vbHjQzeyTos",
-      "thumbnail": "https://img.youtube.com/vi/vbHjQzeyTos/mqdefault.jpg",
-      "datum": "2026-11-13T18:00:18Z",
-      "datum_de": "13.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "der KI Almanach",
-      "titel": "ChatGPT, Gemini oder Claude: Welche KI passt zu dir?",
-      "link": "https://www.youtube.com/watch?v=zcFCLn0iw-k",
-      "video_id": "zcFCLn0iw-k",
-      "thumbnail": "https://img.youtube.com/vi/zcFCLn0iw-k/mqdefault.jpg",
-      "datum": "2026-11-13T17:00:04Z",
-      "datum_de": "13.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZeldoReacts",
-      "titel": "Gemini 4 Hydrogen ist da: So stark ist das neue kleine Modell von Google!",
-      "link": "https://www.youtube.com/watch?v=r7vLkTS2MR0",
-      "video_id": "r7vLkTS2MR0",
-      "thumbnail": "https://img.youtube.com/vi/r7vLkTS2MR0/mqdefault.jpg",
-      "datum": "2026-11-13T11:22:47Z",
-      "datum_de": "13.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Fable 5.2 ist zu gut für mein Abo...",
-      "link": "https://www.youtube.com/watch?v=G7Bph8i3BVs",
-      "video_id": "G7Bph8i3BVs",
-      "thumbnail": "https://img.youtube.com/vi/G7Bph8i3BVs/mqdefault.jpg",
-      "datum": "2026-11-13T08:41:30+00:00",
-      "datum_de": "13.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Hyperautomation Labs",
-      "titel": "Gemini 4 Hydrogen Just Beat Argon (And It&#39;s Cheaper)",
-      "link": "https://www.youtube.com/watch?v=E4TzPbJUrX0",
-      "video_id": "E4TzPbJUrX0",
-      "thumbnail": "https://img.youtube.com/vi/E4TzPbJUrX0/mqdefault.jpg",
-      "datum": "2026-11-12T19:34:09Z",
-      "datum_de": "12.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "schlau DIGITAL | KI für Unternehmen",
-      "titel": "Claude kennt deine Firma nicht. Und antwortet trotzdem.",
-      "link": "https://www.youtube.com/watch?v=rpczgaOIJv8",
-      "video_id": "rpczgaOIJv8",
-      "thumbnail": "https://img.youtube.com/vi/rpczgaOIJv8/mqdefault.jpg",
-      "datum": "2026-11-12T17:00:39Z",
-      "datum_de": "12.11.2026",
       "quelle": "suche"
     }
   ]
