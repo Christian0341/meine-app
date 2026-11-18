@@ -1,7 +1,87 @@
 {
-  "aktualisiert": "2026-11-17T16:48:15.899519+00:00",
+  "aktualisiert": "2026-11-18T16:19:55.888839+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Hör auf Claude Code wie 2025 zu benutzen - mach stattdessen das",
+      "link": "https://www.youtube.com/watch?v=8mryzRMKa-I",
+      "video_id": "8mryzRMKa-I",
+      "thumbnail": "https://img.youtube.com/vi/8mryzRMKa-I/mqdefault.jpg",
+      "datum": "2026-11-18T16:15:20+00:00",
+      "datum_de": "18.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KI mit Chris",
+      "titel": "Claude Skills richtig nutzen: 5 Gewohnheiten (Tutorial Deutsch)",
+      "link": "https://www.youtube.com/watch?v=il3KDU6BLMA",
+      "video_id": "il3KDU6BLMA",
+      "thumbnail": "https://img.youtube.com/vi/il3KDU6BLMA/mqdefault.jpg",
+      "datum": "2026-11-18T16:00:30Z",
+      "datum_de": "18.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Adi | Viral Mastery",
+      "titel": "Der langweiligste Weg, mit TikTok 15.798€ / Monat zu verdienen (Claude Code)",
+      "link": "https://www.youtube.com/watch?v=g8D80VK-C-k",
+      "video_id": "g8D80VK-C-k",
+      "thumbnail": "https://img.youtube.com/vi/g8D80VK-C-k/mqdefault.jpg",
+      "datum": "2026-11-18T08:51:35Z",
+      "datum_de": "18.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Kevin Pahlke: KI-Anwendungen selbst bauen",
+      "titel": "RAG Tutorial Deutsch: Fragen mit eigenen Dokumenten beantworten",
+      "link": "https://www.youtube.com/watch?v=gf60My0FClc",
+      "video_id": "gf60My0FClc",
+      "thumbnail": "https://img.youtube.com/vi/gf60My0FClc/mqdefault.jpg",
+      "datum": "2026-11-18T08:06:57Z",
+      "datum_de": "18.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "ChatGPT 6.2 Astra ist da! Das musst du jetzt wissen!",
+      "link": "https://www.youtube.com/watch?v=Ik-i1GlnFAM",
+      "video_id": "Ik-i1GlnFAM",
+      "thumbnail": "https://img.youtube.com/vi/Ik-i1GlnFAM/mqdefault.jpg",
+      "datum": "2026-11-17T21:00:26Z",
+      "datum_de": "17.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KIwi – KI einfach erklärt",
+      "titel": "Claude Code Docker Sandbox: Agenten sicher laufen lassen (Tutorial Deutsch)",
+      "link": "https://www.youtube.com/watch?v=G7JFivqj4Xk",
+      "video_id": "G7JFivqj4Xk",
+      "thumbnail": "https://img.youtube.com/vi/G7JFivqj4Xk/mqdefault.jpg",
+      "datum": "2026-11-17T18:06:31Z",
+      "datum_de": "17.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Julian Ivanov | KI-Automatisierung",
+      "titel": "So schneidet Claude Code meine Videos (kompletter Workflow)",
+      "link": "https://www.youtube.com/watch?v=vZku-w8LfMU",
+      "video_id": "vZku-w8LfMU",
+      "thumbnail": "https://img.youtube.com/vi/vZku-w8LfMU/mqdefault.jpg",
+      "datum": "2026-11-17T18:03:50Z",
+      "datum_de": "17.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI Agenten Insider | GrokBot & Automation DE",
+      "titel": "Wochenbericht noch von Hand? So analysiert ein KI-Agent deine Tabellen – mit Rechenweg und Freigabe",
+      "link": "https://www.youtube.com/watch?v=L5alVn2lEG0",
+      "video_id": "L5alVn2lEG0",
+      "thumbnail": "https://img.youtube.com/vi/L5alVn2lEG0/mqdefault.jpg",
+      "datum": "2026-11-17T17:02:39Z",
+      "datum_de": "17.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "Millionen Studenten stehen vor dem Nichts: KI hat alles beendet",
@@ -71,86 +151,6 @@
       "datum": "2026-11-16T18:15:51Z",
       "datum_de": "16.11.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "Pikolini TV",
-      "titel": "KI-Agenten telefonieren jetzt für dich – geht das bei uns?",
-      "link": "https://www.youtube.com/watch?v=rjm2yHT0Trc",
-      "video_id": "rjm2yHT0Trc",
-      "thumbnail": "https://img.youtube.com/vi/rjm2yHT0Trc/mqdefault.jpg",
-      "datum": "2026-11-16T18:00:07Z",
-      "datum_de": "16.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Agenten Insider | GrokBot & Automation DE",
-      "titel": "Nur nach Uhrzeit? So reagiert ein KI-Agent auf Ereignisse – Trigger &amp; Webhooks mit Freigabe",
-      "link": "https://www.youtube.com/watch?v=Y1ioortSpUs",
-      "video_id": "Y1ioortSpUs",
-      "thumbnail": "https://img.youtube.com/vi/Y1ioortSpUs/mqdefault.jpg",
-      "datum": "2026-11-16T17:02:14Z",
-      "datum_de": "16.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "5 Schritte: So erledigt CLAUDE CODE jede Aufgabe für dich!",
-      "link": "https://www.youtube.com/watch?v=3Hx6IYKbgic",
-      "video_id": "3Hx6IYKbgic",
-      "thumbnail": "https://img.youtube.com/vi/3Hx6IYKbgic/mqdefault.jpg",
-      "datum": "2026-11-16T16:21:22+00:00",
-      "datum_de": "16.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Schulung Für Dich 3D",
-      "titel": "Wie gut ist KI für 3D wirklich? Tripo + GPT-6 Astra im Blender-Workflow",
-      "link": "https://www.youtube.com/watch?v=7PTFpzzyGt0",
-      "video_id": "7PTFpzzyGt0",
-      "thumbnail": "https://img.youtube.com/vi/7PTFpzzyGt0/mqdefault.jpg",
-      "datum": "2026-11-16T12:30:24Z",
-      "datum_de": "16.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Felicia Simon",
-      "titel": "Claude bekommt neue Funktionen 🔥 KI News &amp; Updates",
-      "link": "https://www.youtube.com/watch?v=5bhjf_yhaS0",
-      "video_id": "5bhjf_yhaS0",
-      "thumbnail": "https://img.youtube.com/vi/5bhjf_yhaS0/mqdefault.jpg",
-      "datum": "2026-11-16T06:41:01Z",
-      "datum_de": "16.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "DAS INVESTMENT",
-      "titel": "KI-Agenten statt SaaS: Warum dieser Berater bei Software-Aktien abwinkt",
-      "link": "https://www.youtube.com/watch?v=k_6o_-dENwA",
-      "video_id": "k_6o_-dENwA",
-      "thumbnail": "https://img.youtube.com/vi/k_6o_-dENwA/mqdefault.jpg",
-      "datum": "2026-11-16T06:00:25Z",
-      "datum_de": "16.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Agenten Insider | GrokBot & Automation DE",
-      "titel": "Deine KI vergisst alles? So merkt sich ein KI-Agent deine Vorlieben – und du behältst die Kontrolle",
-      "link": "https://www.youtube.com/watch?v=670svhMSzgQ",
-      "video_id": "670svhMSzgQ",
-      "thumbnail": "https://img.youtube.com/vi/670svhMSzgQ/mqdefault.jpg",
-      "datum": "2026-11-15T17:02:35Z",
-      "datum_de": "15.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "DeepSeek Super Agent kann jetzt 100+ Agents gleichzeitig steuern",
-      "link": "https://www.youtube.com/watch?v=LHqNJRBw23c",
-      "video_id": "LHqNJRBw23c",
-      "thumbnail": "https://img.youtube.com/vi/LHqNJRBw23c/mqdefault.jpg",
-      "datum": "2026-11-15T16:15:01+00:00",
-      "datum_de": "15.11.2026",
-      "quelle": "kanal"
     }
   ]
 }
