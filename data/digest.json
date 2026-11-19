@@ -1,7 +1,7 @@
 {
-  "datum": "Mittwoch, 18. November 2026",
-  "datumISO": "2026-11-18",
-  "tagesthema": "Die KI-Welt bewegt sich zwischen Produktinnovationen großer Akteure wie OpenAI und Google, dem Vormarsch von KI in den Arbeitsalltag und einer verstärkten Debatte um Datenschutz und Regulierung.",
+  "datum": "Donnerstag, 19. November 2026",
+  "datumISO": "2026-11-19",
+  "tagesthema": "Der KI-Markt erlebt einen Boom durch den Rekord-Börsengang von Anthropic und neue Google Gemini Modelle, während OpenAI mit einer Klage wegen Hackerangriffen konfrontiert wird und die EU-Regulierung weiter diskutiert wird.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,27 +9,27 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Neue OpenAI-Spitzenmodelle kommen mit erheblichen Risiken - OnlineMarketing.de",
-          "zusammenfassung": "OpenAI hat neue Spitzenmodelle vorgestellt, die jedoch mit erheblichen Risiken verbunden sein sollen. Experten warnen vor potenziellen Missbrauchsmöglichkeiten und unvorhergesehenen negativen Auswirkungen. Dies unterstreicht die fortwährende Debatte um Sicherheit und Ethik bei der Entwicklung leistungsstarker KI-Systeme.",
+          "titel": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
+          "zusammenfassung": "Google hat neue Datenschutzfunktionen für sein Gemini-Modell eingeführt, die es Nutzern ermöglichen, das Training der KI mit ihren Daten zu untersagen, während der Chatverlauf erhalten bleibt. Dies bietet mehr Kontrolle über persönliche Informationen und adressiert Bedenken hinsichtlich des Datenschutzes.",
           "einordnung": "",
-          "quelle": "OnlineMarketing.de",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkJTcWxEQ2ZreUJleEgwMVJJMTdxTVRELVVTQUlacTBSWXZ3T0R0M1ZqRHFpc0lybDdscllSZmtnOU5fXzIxZ2g0NHdxMnJDZEpydWpsWDhQX1lSSjU5LVlyMVhTQkY4M19Sd0llTmp1R0ZXRGk1aUU0NGtKODhlZ1ZZc3FTdDJLSGlISVhQRQ?oc=5",
+          "quelle": "t3n",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9POHU0Y1ZMQjc0NW5FX2gzVnRzTmxhMzRaYjhsZzViWER2REY2UTAxR3FjSmtxUm5qTEpNZGx0S2lFNEliTzNJNzNXeUlVZ05TR0F2Q2pNbDl6bXZwSDIwVndlUVJpaDN0S08w?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Google erweitert Gemini: KI-Assistent übernimmt Telefonate, Zahlungen und Alltagsaufgaben - Investing.com Deutsch",
-          "zusammenfassung": "Google erweitert die Fähigkeiten seines Gemini-KI-Assistenten erheblich, sodass dieser nun Telefonate, Zahlungen und diverse Alltagsaufgaben übernehmen kann. Diese Integration in den Alltag zeigt Googles Bestreben, Gemini zu einem zentralen digitalen Helfer zu entwickeln. Die neuen Funktionen versprechen eine tiefere Vernetzung von KI mit persönlichen Diensten.",
+          "titel": "Gemini 4 Neon macht Googles Spitzenmodell Konkurrenz",
+          "zusammenfassung": "Mit der Einführung von Gemini 4 Neon bringt Google ein neues Spitzenmodell auf den Markt, das internen Tests zufolge die Leistung des bisherigen Flaggschiffs übertrifft. Dies signalisiert Googles Ambitionen, im KI-Wettlauf die Führung zu übernehmen.",
           "einordnung": "",
-          "quelle": "Investing.com Deutsch",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLTlsaUdrQk85NnRZT3p1Mm1jU0lldGpUcWVjZTAxUHM3OFpiWXlaWWgtX3c3S3J5YzFqbU04Z2wxaF9Fc3o0NHFzTUc1SnFDUHI1blBPdG5HX2Z2a3J2OEFXQ0I4MmdyTEkzVnJ5S3VuQkpGd0hEVDJRYlJqRldCTzZSaTJGMm42V2Z5ZWJBSjBkNkg1YUlnRDVvOVM4d2tsbklIT3hVbEFEZDZVWXFMUWFXVklvVGoxTmsxWEJEZ3BoZWxnaTIyQzY5bm5uMXNFa3pBVlE5dTBwa3VheEZkWg?oc=5",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU2Jtcno1dVZfd0NMRTZCY2QxdHdTeUdiODA2TVozQW1qX0lIQVRkeDVEUV9oX28tejVEaXV3YWRYSk1jbk9EcjIwVkR6VFRNN2E1Z3dEWGdKcXhmX1liejUxMkc1TW1LdDVqaDBQajRWbzdLQXhhZ1ItblZMVEF5U1JTb3RnaDloT3psME10ZVh2SDFvUkZN?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "AnythingLLM: Eigene Dokumente mit KI lokal auswerten - heise online",
-          "zusammenfassung": "AnythingLLM ist ein neues Tool, das es Nutzern ermöglicht, eigene Dokumente lokal mit KI auszuwerten. Dies bietet verbesserte Datenschutz- und Sicherheitsoptionen, da sensible Daten nicht an externe Cloud-Dienste gesendet werden müssen. Es ist eine interessante Lösung für Unternehmen und Einzelpersonen, die Wert auf Datenhoheit legen.",
+          "titel": "Gemini 4 Neon: Google setzt im KI-Wettlauf auf Tempo und Preiskampf",
+          "zusammenfassung": "Google forciert mit Gemini 4 Neon den KI-Wettlauf, indem es auf Geschwindigkeit bei der Entwicklung und aggressive Preisgestaltung setzt. Das Unternehmen strebt an, durch diese Strategie eine größere Marktanteile zu gewinnen und Konkurrenten unter Druck zu setzen.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXVZSFJOOElhU2NSdndVcjNRdzZJYlVjay03RUhxNWFsd1AtTGRmU3pzdkx1TEhJcVZFMnZQN3dPc1kzenlWQmJHUmZCTklHTXU0U3JUNDJjdmJuYXRJb3pnUGlXUVF1TFljQjdYdTNBSGU1VU9nZ1p0WUJIWjA4VDNVSnNtWHZWLTUyaFF0YXFMQzB3MU9SNm1kZw?oc=5",
+          "quelle": "The Decoder",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkdSWDUtS0JnWkZYeV9BaHJiWjhuYWhLTHRtREN4bnAwSmJfLTdBU1JIcXVqdnczV3dYdDFQYTZNUV9KWWR4YzhTMEJCR0NabHMxS2puTTVSUGZSRTZmQ2FGUFBhUGVYcUtreW52OHVzZzgtYnVuaDBUTWI2Nm9oTE1LOE91OG91ZmFsSjJNUE53dFZn?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -40,28 +40,36 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "KI-Update kompakt: Destillation, Anthropics Börsengang, OpenAI-Klage, IdeaLens - heise online",
-          "zusammenfassung": "Das kompakte KI-Update fasst verschiedene aktuelle Entwicklungen zusammen, darunter Fortschritte bei der Modell-Destillation, den bevorstehenden Börsengang von Anthropic und die Klage gegen OpenAI. Zudem wird ein neues Tool namens IdeaLens vorgestellt, das innovative Funktionen bietet. Dies zeigt die rasante Dynamik im KI-Sektor.",
-          "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTdSVW1kRmdwTnkwWGZzalJXY3NmYnBLVFZRQ0pOdXZZTVEyb195cDktc25xYThtU3EzcWV1UHY2Q2k4RVRQYzBycGZCTEFMTklBUk1aeFpoN3QzQjB1SUZXVXpCR1VZcHdQUFAyVzdtNXRweU85RGlRa0Rwb3pOZVhhcmExU3R2bEs0OFdIR1VXNkxYRklTOGlnM18wTF8xM2U0Y3NQeUw1WkZleDVNT29ybkZYdw?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "OpenAI greift mit ChatGPT Business Hub Googles Unternehmensprofile an - FAZ",
-          "zusammenfassung": "OpenAI erweitert sein Angebot mit dem ChatGPT Business Hub, um direkt mit Googles Unternehmensprofilen zu konkurrieren. Dieser Schritt signalisiert OpenAIs Ambitionen, stärker in den Geschäftskundenbereich vorzudringen und etablierte Marktführer herauszufordern. Es wird erwartet, dass dies den Wettbewerb im Bereich der KI-gestützten Unternehmenslösungen weiter anheizt.",
+          "titel": "Geld für die KI: Anthropic legt Rekord-Börsengang hin",
+          "zusammenfassung": "Anthropic hat mit seinem Börsengang eine Rekordsumme eingenommen und damit die Erwartungen des Marktes übertroffen. Dieser Erfolg unterstreicht das enorme Interesse und Vertrauen der Investoren in das Potenzial von Künstlicher Intelligenz.",
           "einordnung": "",
           "quelle": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONUVJRmp0S2dFZEV4YTctUHhHMUt1MWRyY0ZudVBwRWc5TlJyczZYYnlMaXJVN3NmbkNQcDEtbE9xaE0yUnFjODVXbTByUUV1SzR1cEotS0ZmMGZIUW1qSUlLb2ZwNGprdUpKSGpnV0RDUGtTREpGUkJobU1CMkZRNEx1aGZGT3poUzVxQ1FVNWJwMjVzZ2x3aFh6WGNmM0p3UXBDWHZIZHQ4b2xGTmlTZW9HaWtZTEVSUXBaNUg2Q1EyZFdfY2tBZThPVDM5MDZYWUxfbTJRaTBsS05GemNJcU1saVFmZU0?oc=5",
-          "sterne": "⭐⭐"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjNyV0RBM0ZnbE9kNHNheEx1ZWswcnQ3WlRwLVpVVnFEbDNab1dfZ3NOb3JVSzdFYWszWC1ESDR4cXljMVBNeERSWjNjR3lxV1p2V2ROTG85V3Q5R1BBaG1QUzNFVWtxV0N1Sk45cnl1X2JVREgwNVlRSlJzWjg1QUtVZU1iZ081ZFpQTkhXS0ZvZ0dicjBfSndadGxfMmVHUkpDc1N6bkhacmZEcUNoRzhXUWc3MEhSWVJ5OQ?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Anthropic-IPO: Claude geht an die Börse – was Anleger jetzt wissen sollten! - Finanzen.net",
-          "zusammenfassung": "Anthropic, der Entwickler des KI-Modells Claude, bereitet seinen Börsengang vor, was für Anleger von großem Interesse ist. Der Artikel informiert über die wichtigsten Details des IPOs und gibt Einblicke in die potenziellen Chancen und Risiken für Investoren. Dieser Schritt markiert einen wichtigen Meilenstein für das Unternehmen und den gesamten KI-Markt.",
+          "titel": "Künstliche Intelligenz: Anthropic sammelt vor Rekordbörsengang 81 Milliarden Dollar ein",
+          "zusammenfassung": "Vor seinem mit Spannung erwarteten Börsengang hat Anthropic beeindruckende 81 Milliarden Dollar an Kapital eingesammelt. Dies positioniert das Unternehmen als einen der führenden Akteure im KI-Sektor und signalisiert eine hohe Bewertung durch private Investoren.",
           "einordnung": "",
-          "quelle": "Finanzen.net",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSEZjZERNeVFUUGs0ckpRdkFTdnpIdE53SUlpT1RLaFBHdFF4SzZoeGlCOFUtRXE5NVF6cVJyLXRaX3VKclFSVFluVDdqSVVhVklnY1htdHNpUFdmWHBTUmd2dkNmWFpEZGc3RkI0bVZNT20wMmRvNUlzTVp5OTFMY3Y3LXhOWUhzbTZGdlUtS2x2N0M1QVBqVVJIbEdrRDRlUVVaSXhIamwxdG5BdmRkSFNqc2xFRktMTjUyM0d2NnI?oc=5",
+          "quelle": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHFVcU9fTW5NU2ZkRWp3QVVBYXgxX2lEMFdOaUdHUm4zTG0yeDNJOE5KQVByV0lYM3ZvektDbkVoakkxMjNoZklRUnNpUlNlWDc0RDRwTmtucHNoOVdzVWlGUXM1OGhnMm1tZ0ZEMFZ0N201dnMtWU8ya3FzMGNJQXlnMzB0aHZ5bXhyRkdTVUhGOXo1TVVxUE5YemotcDd2RFU1bQ?oc=5",
           "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Anthropic nimmt bei Börsengang Rekordsumme ein – Bewertung von 1,5 Billionen Dollar",
+          "zusammenfassung": "Anthropic hat bei seinem Börsengang eine Rekordsumme erzielt und wird nun mit beeindruckenden 1,5 Billionen Dollar bewertet. Dies markiert einen Meilenstein für den KI-Sektor und festigt Anthropic's Position als Schwergewicht in der Branche.",
+          "einordnung": "",
+          "quelle": "WELT",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPclRxTkd0aEJPVFVtMV8zeF9WemdTY1Z4LWhvVDRJTzY4NlUwV3FaR3NhcEJQN3czZzJqM2RCRVI1V3hRWV9UMU93LWYtRjllRktlQ25VY2Rtb0Ftb0hrSS1jampoWnhUc1Y2eU9rQkN0WTZ1eHAxUzBwV2FkSFRPbTVlZ19FeXJZZEtmemp6Sy1Ud1hJcDlIdGY2VHN6TzRrZ095NmZ3dU9MZkluWFhsV3Q1Mjd3SHpiVG5UNlQ5R0JrcFlSRU9HWlZMYzZfZFFKSnVyVXVCc092VHdhVWxvVGxaSUw?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Anthropic und Cisco integrieren Claude Mythos 5 in AI Defense",
+          "zusammenfassung": "Anthropic und Cisco haben eine strategische Partnerschaft bekannt gegeben, um das KI-Modell Claude Mythos 5 in Ciscos AI Defense-Lösungen zu integrieren. Diese Zusammenarbeit zielt darauf ab, die Cybersicherheit durch fortschrittliche KI-Fähigkeiten zu stärken.",
+          "einordnung": "",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdVBXODVRdy1RQVU1UXhHQzJTcHR4MU9GUjIyTnh6dnhoY1Rna2Y0T0dnTG9SUXhNYjdMV1BSbnl0ZmtPNHAwTzFqYVQ4ZFJPakFSODBQellBYk9RTERUYVRhZ3E2NGFpY0tFZlAtLURPblE0eUZWbkpfcTVZNDhKb1drTDY2cEctekZvQ3RHQURUOE9sQU1BWXplVHlQV1NKSG1J?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     },
@@ -71,35 +79,27 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "BGH warnt Anwälte vor KI-Schriftsätzen - Legal Tribune Online",
-          "zusammenfassung": "Der Bundesgerichtshof hat Anwälte vor dem unkritischen Einsatz von KI-generierten Schriftsätzen gewarnt. Er betont, dass die Verantwortung für den Inhalt stets beim Anwalt liegt und eine sorgfältige Prüfung unerlässlich ist. Dies unterstreicht die Notwendigkeit menschlicher Kontrolle in juristischen Prozessen.",
-          "einordnung": "",
-          "quelle": "Legal Tribune Online",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0E3UUYxVUtoNmVLNzJiWmVKMnJPSHhSRGVMbGt6NXZ4TFN6ZHFMRlBidnFGdU9qWGQzRnZaajNnbWJkRmlQQmhkcDlHRmVwaDdlVzRkem9hSWRsZ19lbk1VejcxOTBKSkxlUDRMdDFtSmd3bkc2ODludklDRzVLLVVnQjFPVi1kanhjT01lQ0p1dGdIbFprZHB6U3BYQVdVbmVvV3ln?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "OpenAI: Kalifornien verklagt ChatGPT-Entwickler wegen Cyberangriffen - Manager Magazin",
-          "zusammenfassung": "Der Bundesstaat Kalifornien hat OpenAI verklagt, da der ChatGPT-Entwickler angeblich nicht ausreichend gegen Cyberangriffe vorgegangen ist. Die Klage wirft Fragen bezüglich der Sicherheit und Verantwortung von KI-Anbietern auf. Dies könnte weitreichende Konsequenzen für die gesamte Branche haben.",
-          "einordnung": "",
-          "quelle": "Manager Magazin",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOFl3SGY2aGEzWF9vZklNRVJYWmZ1MXd2bXBxaUlTU2hfejltTWRoNV9aeURFWU5PallNNml1V3BZZ1VpT2FZNzdMOGm4eFNldWR3NG9oNWptUzRyWUl6S3g0cjJPSUFIQTVnRGVLa3RmMmlTYklGX3hZaVdKUlZvWXk1bmhtSjM4RWIwOHNpUExfU2xTMVJxVGRUTjI1aFRNa0JGS3ZvWnZLSjhRLVN4WVpzcTZmTHJNNElTX1o2OWt1T290NTY2eHVxYThkOGZEZkczc1pzZFJMTkVKbVNuTmVPbUtBVmdobVE?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "KI-Gesetz: EU-Kommission konsultiert Vorlage zur Grundrechte-Prüfung - BornCity",
-          "zusammenfassung": "Die EU-Kommission hat eine Vorlage zur Grundrechte-Prüfung im Rahmen des KI-Gesetzes zur Konsultation gestellt. Dieser Schritt ist entscheidend, um sicherzustellen, dass die Entwicklung und der Einsatz von KI-Systemen die fundamentalen Rechte der Bürger respektieren. Es unterstreicht die ethische und menschenzentrierte Ausrichtung der europäischen KI-Regulierung.",
-          "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTThMc3JOU251Zm9vaS1xV29saER6T3p2OWREQThjR2tseHF1VXJ0M1BJcmxqMTBpUjdfVHNUNzRHcGw0bmtRc1RIc1kwMXdteUVlbGtlbDlwdzZSZkZyX3VkaHJERTN4SDNJV3EzT2NaSElfbU1YdkdyWkJoZWgyaWhoNzc4S0U2LUpPTG9lYktuZ1JjaDlVZTlXNA?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät - Deutschlandfunk",
-          "zusammenfassung": "Der Artikel analysiert die Gründe, warum das europäische KI-Gesetz (EU AI Act) ins Stocken geraten ist. Es werden Herausforderungen und Meinungsverschiedenheiten zwischen den Mitgliedsstaaten und Institutionen beleuchtet, die den Gesetzgebungsprozess verlangsamen. Dies zeigt die Komplexität der Regulierung einer so dynamischen Technologie wie der KI.",
+          "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
+          "zusammenfassung": "Der EU AI Act, Europas wegweisendes KI-Gesetz, scheint in seiner Umsetzung ins Stocken zu geraten, was Bedenken hinsichtlich der Geschwindigkeit der Regulierung aufwirft. Verzögerungen könnten die Anpassung an die rasante Entwicklung der KI-Technologien erschweren.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "KI-Reallabore: EU-Verordnung setzt Frist bis August 2027",
+          "zusammenfassung": "Eine neue EU-Verordnung legt fest, dass KI-Reallabore bis August 2027 eingerichtet werden müssen, um innovative KI-Anwendungen unter realen Bedingungen zu testen. Dies soll die Entwicklung und den Einsatz vertrauenswürdiger KI in Europa fördern.",
+          "einordnung": "",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeTAwZ3daN0p4di1iSjQzX3J4TW4yOWM0bjFzdU5BR3BvdEV4T0JYYVNySTVRdndYdjNnSXM4OTFJY042ZnN1N0dPTGhYTzBlX3I0UHY1UjcxSVpoUUhBbW9HMkJtQU5GTDNONG0zcjJEaDlMQmktcUx2QXdqRWNKTl9oeU5KUDh2ZVE?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Neue EU-Regeln für KI: Für wen gilt die Kennzeichnungspflicht für Künstliche Intelligenz?",
+          "zusammenfassung": "Die neuen EU-Regeln für Künstliche Intelligenz beinhalten eine Kennzeichnungspflicht, deren genauer Anwendungsbereich noch diskutiert wird. Es wird erwartet, dass dies insbesondere für hochriskante KI-Systeme gelten wird, um Transparenz und Verantwortlichkeit zu gewährleisten.",
+          "einordnung": "",
+          "quelle": "ZDFheute",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWJTMzcxNnA2U1hRZjBrLUN2ZlJnUXAtMzFKVmxheVk2NWdsNkN4ckVIQnRic05JRDh3bm4zOVg5MWZxRnlLQVlZNUFOdXNCODN5LWUzUnU1WVBPS0otYzc3UkpEaTROZWhoVEFXaF9YMElGUnhLTFdDdURKQ2pyMmFGcUw?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -110,79 +110,87 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Welche Antworten gibt die KI-Philosophie? - FAZ",
-          "zusammenfassung": "Dieser Artikel beleuchtet die Rolle der KI-Philosophie bei der Beantwortung grundlegender Fragen zu Bewusstsein, Ethik und der Natur der Intelligenz. Es wird diskutiert, wie KI unser Verständnis von Menschsein und Wissen herausfordert und neue Denkansätze erfordert. Die philosophische Auseinandersetzung ist entscheidend für die Gestaltung einer verantwortungsvollen KI-Zukunft.",
-          "einordnung": "",
-          "quelle": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2ZreEZyeXRSUDBqazVSTXU5Y0xtVm1JTlpwcE5BLWt4N0xULVNtLW9wQ2VmanJHTnR5Z3g5dlc0Vk96WFhMYWFEZjRndzc2R0lzQXd1Qml2QjY2dnExdDJ3a0RydUN5VERUbVJhUjkzZktIOTVLQ3o1NS1qOFVFa0JsN1B1NmYxSTdmMWRiWFRib0oxZldCU2xidzlOV3pyWklXbDBtQjVKYmY1QzVoNFBB?oc=5",
-          "sterne": "⭐"
-        },
-        {
-          "titel": "Reasoning beim Fragen: Reasoning-Large-Language-Models von passiven Problemlösern zu proaktiven Fragestellern machen - alphaXiv",
-          "zusammenfassung": "Dieser alphaXiv-Artikel erforscht, wie Reasoning-Large-Language-Models (LLMs) von passiven Problemlösern zu proaktiven Fragestellern entwickelt werden können. Die Forschung zielt darauf ab, die Interaktion und Problemlösungsfähigkeiten von LLMs durch verbesserte Fragestrategien zu optimieren. Dies stellt einen wichtigen Fortschritt in der Entwicklung intelligenterer und autonomerer KI-Systeme dar.",
-          "einordnung": "",
-          "quelle": "alphaXiv",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SSnAzSlNpQ0hBYVd5S3VrT0hKaEw5X3FiQ3p2YVE4T3FZdHd3ekU1YTM5cGFORjNxd2ZrM0tpNjVtRkpVVHpzMVZxNTUxQkhqZ3ppTA?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "Large Language Models erklärt: Was sind LLMs? - Computerwoche",
-          "zusammenfassung": "Dieser Artikel bietet eine grundlegende Erklärung von Large Language Models (LLMs) und deren Funktionsweise. Es werden die Kernkonzepte und die Bedeutung dieser Technologie für die aktuelle KI-Entwicklung erläutert. Für Einsteiger bietet er einen guten Überblick über eine der wichtigsten KI-Innovationen der letzten Jahre.",
+          "titel": "Large Language Models erklärt: Was sind LLMs?",
+          "zusammenfassung": "Dieser Artikel erklärt die Grundlagen von Large Language Models (LLMs), die als Kerntechnologie vieler aktueller KI-Anwendungen dienen. Er beleuchtet ihre Funktionsweise, ihre Fähigkeiten und ihre Bedeutung für die Verarbeitung natürlicher Sprache.",
           "einordnung": "",
           "quelle": "Computerwoche",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzMldHTWJJQWFIVzZwdW41dmdIaEVVd1JjS295Qzd1TXdpRDVMeWNLQmNrQXA1U3pBQzZFUU9GLUhJMHdiSmZiLVBaWTdWa0lIQ29Kd0xfMWZqa2EzenlTV2UzUnBhWjRuSXl3QjZOR1g?oc=5",
           "sterne": "⭐"
+        },
+        {
+          "titel": "AnythingLLM: Eigene Dokumente mit KI lokal auswerten",
+          "zusammenfassung": "AnythingLLM ermöglicht es Nutzern, eigene Dokumente lokal mit Künstlicher Intelligenz auszuwerten, ohne Daten an externe Cloud-Dienste senden zu müssen. Dies bietet eine datenschutzfreundliche Lösung für die Analyse und Verarbeitung von Textinformationen.",
+          "einordnung": "",
+          "quelle": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXVZSFJOOElhU2NSdndVcjNRdzZJYlVjay03RUhxNWFsd1AtTGRmU3pzdkx1TEhJcVZFMnZQN3dPc1kzenlWQmJHUmZCTklHTXU0U3JUNDJjdmJuYXRJb3pnUGlXUVF1TFljQjdYdTNBSGU1VU9nZ1p0WUJIWjA4VDNVSnNtWHZWLTUyaFF0YXFMQzB3MU9SNm1kZw?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
     {
-      "emoji": "🔒",
-      "titel": "KI & Datenschutz",
+      "emoji": "📈",
+      "titel": "KI-Markt & Investments",
       "fest": false,
       "artikel": [
         {
-          "titel": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten - heise online",
-          "zusammenfassung": "Google führt neue Datenschutzfunktionen für seinen Chatbot Gemini ein, die es Nutzern ermöglichen, das KI-Training ihrer Daten zu untersagen und den Chatverlauf zu behalten. Diese Maßnahmen sollen die Kontrolle der Nutzer über ihre persönlichen Informationen stärken. Es ist ein wichtiger Schritt zur Erhöhung der Transparenz und des Vertrauens in KI-Dienste.",
+          "titel": "Börsengang von Anthropic: KI-Aktien könnten wieder gefragter sein",
+          "zusammenfassung": "Der erfolgreiche Börsengang von Anthropic könnte eine neue Ära für KI-Aktien einläuten und das Interesse der Anleger an Technologieunternehmen in diesem Sektor wiederbeleben. Analysten sehen darin ein Signal für eine mögliche Aufwärtsbewegung im gesamten KI-Markt.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWndMWGlZdlRfX19JRXZsSU1HeHhZN1FUNENvMlh6VlhFUnp3SDExMklKTmI4TXFtSmxzQTYxcFdkc0xXNHlTSU5mVGZ5QVByRGlnNVJhdmV5VXU5aW9ENkZsbWRkc0FMckZWN1UwU2RuV082WElZV2RWMFZuYmkwM2g3WnJQWkJCTW53ZjBqV2JoVjNJUkJlNXVVTHo5cm9VSVBRRjRRSTQ1SHRObzFTeg?oc=5",
+          "quelle": "SZ.de",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEpQV3FObzFkU0RxMEdmOVBCQzhjcUZUYnhhSkdrdGR0N21NNml5dmRJLTFmTk4wYkg1ZVpOV1FWSXJBaHMyd0NaS0k1M1UzSEZoZ2trUWhJTThLRW56Tkt1WkhmbW5BSHZmUjdkYmo3UTZOeXVSaGpic1hrSktZX0Z4aUlKRFZpYTJYNFMtcm1JSXlHRHZ3cEZlWkQ3ejJpNkdVS1NYRDE?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Anthropic-Aktie: Ausgabepreis für Börsengang anscheinend auf 83 Dollar hochgesetzt",
+          "zusammenfassung": "Der Ausgabepreis für die Anthropic-Aktie im Rahmen des Börsengangs wurde offenbar auf 83 Dollar pro Anteilsschein angehoben. Diese Anpassung spiegelt die hohe Nachfrage und das Vertrauen der Investoren in das KI-Unternehmen wider.",
+          "einordnung": "",
+          "quelle": "Finanzen.net",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDRCbkdXa3VyV2YtUS1YN21CWHNYTFNic3oxTGp0eE9mNmNJSDNHWXhHWEpRek1TSWZ3anRHWFlEMlhUVldSZUE2bXloZXN6aTl0NW96cEhGc1ZCTTNHOU9BT3dvNTNKTzRXNDdFZWR5b3RoNzBXemNCcmNSRnQxQWhQd2Vfc0ItYVZwamRSYnZYQndOMXlzZkN2d0dWUHNycXN1TlZmRm9NSXM3TUJLLUZ3TDB6OGVUQmtJZHZFZ1BKQzJjLXdmWXEzOTBiamNfZWkybA?oc=5",
+          "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "titel": "KI-Sicherheit & Rechtliche Herausforderungen",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "ChatGPT-Firma: Kalifornien verklagt OpenAI wegen Hacking-Attacken",
+          "zusammenfassung": "Der Bundesstaat Kalifornien hat eine Klage gegen OpenAI eingereicht, dem Entwickler von ChatGPT, wegen angeblich mangelhafter Sicherheitsvorkehrungen, die zu Hacking-Attacken führten. Die Klage wirft dem Unternehmen vor, nicht ausreichend zum Schutz von Nutzerdaten beigetragen zu haben.",
+          "einordnung": "",
+          "quelle": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVUJtcFR2NFBydmJzV3JkTVJhZEZSUGhyakpvWnpaWWFNWlpacl9QVFFLeXVNV2RmUVJBSnFUbWl5MndoQlpwbVNTYVA4bjk4ZVlNUXFibDZ3OFJOczQyRktESnAzY2J0WDVaSWZlYnhScGREY1VtVG5XbzM2R0NMWTNWXzkzOGw5TERsa2M1TQ?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "Chatbot Gemini: Google speichert temporäre Chats jetzt bis zu zwei Monate - Golem.de",
-          "zusammenfassung": "Google hat die Speicherdauer für temporäre Chats in seinem Chatbot Gemini auf bis zu zwei Monate verlängert. Diese Änderung betrifft die Handhabung von Nutzerdaten und hat Implikationen für den Datenschutz. Es ist wichtig für Nutzer, die neuen Richtlinien zu verstehen und ihre Einstellungen entsprechend anzupassen.",
+          "titel": "\"Mangelhafte Vorkehrungen\": Kalifornien verklagt ChatGPT-Mutter OpenAI nach Hackerattacke",
+          "zusammenfassung": "Nach einer Hackerattacke sieht sich OpenAI, die Muttergesellschaft von ChatGPT, mit einer Klage aus Kalifornien konfrontiert. Der Vorwurf lautet auf unzureichende Sicherheitsmaßnahmen, die den Cyberangriff ermöglichten und die Daten von Nutzern gefährdeten.",
           "einordnung": "",
-          "quelle": "Golem.de",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxMajBjYUFZbWhvU2dZM2J3X0NMN09WcDVzeFBYZ01Qb09FSWtYOU00dDhneS1rTlRQM1pWMGNsVFBnNy1yVERUU0tHZnhEaXdIZXJRb0stRW1mMWF1SERlYWFpSk50Vl9ySjMwQm4ySDNvb0lwRXpqa2otVlhOdnFxLURzWkRRa3I5WDBBQ1I2RjZ1dF9UVkxZWXpuWnNxYkNSMDk2MEY0aWJwbDA5bzh5NldDVlQwdW8?oc=5",
-          "sterne": "⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "💼",
-      "titel": "KI & Arbeit",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "Claude als Office-Ersatz: Wie weit Anthropics eingebaute Werkzeuge schon reichen - heise online",
-          "zusammenfassung": "Anthropic positioniert seinen KI-Assistenten Claude zunehmend als umfassenden Office-Ersatz. Der Artikel untersucht, welche integrierten Werkzeuge Claude bereits bietet und wie gut sie im Arbeitsalltag funktionieren. Dies deutet auf eine wachsende Konkurrenz im Bereich der produktivitätssteigernden KI-Anwendungen hin.",
-          "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbXBZT1dDQ3d0N0tkWHo5Rl9Cc0xsRWxWaFlueGd6MG9HVFdNZmI4R00yNjJwbjNWcjFTaGtzMjI5bVJHa051X1NCWXdOd1FFbnh4U0ljRWIzQlVsN2xVMEd1WG01OS1xbzIxd1ZGUGxTZ2h3SFdGUy15RTFmd2FsNFlHNFpuZGxxX0gtSVJITXNZQ2paTVlOY1p3YXJfbXdQWjJXbHVkNG1uSHk4TXJZamV2NUlSdXNzdVNGaw?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "n-tv.de",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVDViR1pidkVSS3Z1V05QLTB4Q1E3aDVVZ0ZBbFFxZHZXQi1OY3ZHUzJNaVo0ZWctY3VzU3U4TzZIQ21EU0lpSmJXYnJaS3I4bGoyUjY4Nm11anRPeGt6c2U4UEFHZFJGUy0waWhIMUhTSlRtTWppZmZHTHVoMmJZTlktd0VwVmNlRmVzWnpZVzVSZFBQSjVCU0pQY2k0UnVEZU5GZXg1TDMxOVYz?oc=5",
+          "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "KI: Mit diesen Funktionen baut Anthropic Claude zum Bürowerkzeug aus - Handelsblatt",
-          "zusammenfassung": "Anthropic erweitert die Funktionen von Claude gezielt, um den KI-Assistenten zu einem vielseitigen Bürowerkzeug zu machen. Der Artikel beschreibt die neuen Features, die Claude für den professionellen Einsatz optimieren sollen. Dies zeigt die strategische Ausrichtung von Anthropic, den Arbeitsalltag durch KI zu revolutionieren.",
+          "titel": "OpenAI: Kalifornien verklagt ChatGPT-Entwickler wegen Cyberangriffen",
+          "zusammenfassung": "Der ChatGPT-Entwickler OpenAI wird von Kalifornien wegen unzureichenden Schutzes vor Cyberangriffen verklagt. Die Klage konzentriert sich auf die Verantwortung des Unternehmens, sensible Nutzerdaten vor externen Bedrohungen zu schützen.",
           "einordnung": "",
-          "quelle": "Handelsblatt",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0J1bVE4UFJrelY3cEw1X3R1aEltREdvLXRvLUJ0MGFWTmZScjhCTWgwOVAySW51TzduTE1sWkh3NVFEM2ZhNk9zNG1rNnBjS080VlAyUXhaSGYwaHhvdTI5X1ZKR3hzMlFMdS1GWFhFNXpod0wydEFucVhLWENRM3dwRTFMVjR6OUF3SktZSU9LTW9IMVJmZENMVWRPX3MxSDJoNjM1TTRCaHY4UFBROThobUZYakk0X0pVakZ0YWFBdEMxUEpTLXJYSXlLTUZN?oc=5",
+          "quelle": "Manager Magazin",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOFl3SGY2aGEzWF9vZklNRVJYWmZ1MXd2bXBxaUlTU2hfejltTWRoNV9aeURFWU5PallNNml1V3BZZ1VpT2FZNzdMOG04eFNldWR3NG9oNWptUzRyWUl6S3g0cjJPSUFIQTVnRGVLa3RmMmlTYklGX3hZaVdKUlZvWXk1bmhtSjM4RWIwOHNpUExfU2xTMVJxVGRUTjI1aFRNa0JGS3ZvWnZLSjhRLVN4WVpzcTZmTHJNNElTX1o2OWt1T290NTY2eHVxYThkOGZEZkczc1pzZFJMTkVKbVNuTmVPbUtBVmdobVE?oc=5",
+          "sterne": "⭐⭐⭐"
+        },
+        {
+          "titel": "Haben Sie Ihre KI im Griff? Diese Risiken schockieren",
+          "zusammenfassung": "Der Artikel beleuchtet schockierende Risiken im Umgang mit Künstlicher Intelligenz und fordert Unternehmen auf, ihre KI-Systeme besser zu kontrollieren. Es werden potenzielle Gefahren wie Datenmissbrauch, Bias und unkontrollierte Entscheidungen thematisiert.",
+          "einordnung": "",
+          "quelle": "Pharma+Food",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3V3TlJ3aE0tQUJ4U1p2c09Zdm9kQlg0Um1jNGh6UnNRdVZmSElXcDZXRFg1dko3aWlETk15OEJhamhyaDU5WjBrYm5EYWkzNVJDYmI5UzUzMHZOZl83N0daRVBaOVFrTFFoWlRRekNxT05ZRVlVS0U4ZGY3WHlsY2Ytb3ViZ2VJcEcwSw?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-11-18T14:42:23.635Z",
+  "generiert_um": "2026-11-19T14:49:15.987Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -223,9 +231,9 @@
     {
       "name": "KI verstehen · Deutschlandfunk",
       "desc": "Wöchentlich · verständlich erklärt",
-      "episode": "Zukunft der Arbeit (3/3) - Wie beeinflusst KI die Jobsuche?",
-      "datum": "12.11.2026",
-      "dauer": "33 Min.",
+      "episode": "Nvidia vs. Anthropic - Platzt die KI-Blase oder geht der Hype weiter?",
+      "datum": "19.11.2026",
+      "dauer": "38 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c6/e3/d6/c6e3d6bd-e018-153d-939e-0aa7c6916b21/0.jpg/100x100bb.jpg",
       "spotify": "https://open.spotify.com/show/0rktSeF3DOjOyk2f0VPFwO"
     },
