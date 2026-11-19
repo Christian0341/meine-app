@@ -1,10 +1,50 @@
 {
-  "aktualisiert": "2026-11-18T16:19:55.888839+00:00",
+  "aktualisiert": "2026-11-19T16:28:06.478875+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "Everlast AI",
+      "titel": "Vater der KI: DAS kommt in den nächsten 5 Jahren! AGI, Quanten & Simulation (Jürgen Schmidhuber)",
+      "link": "https://www.youtube.com/watch?v=dvcxM2aHKGY",
+      "video_id": "dvcxM2aHKGY",
+      "thumbnail": "https://img.youtube.com/vi/dvcxM2aHKGY/mqdefault.jpg",
+      "datum": "2026-11-19T16:15:30+00:00",
+      "datum_de": "19.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "AI Ticker",
+      "titel": "Fable 5.5 unter neuem Namen?! Gestalt schlägt ALLES + GPT-6.2 &amp; Gemini 4 Neon",
+      "link": "https://www.youtube.com/watch?v=PBZ51xZP5J8",
+      "video_id": "PBZ51xZP5J8",
+      "thumbnail": "https://img.youtube.com/vi/PBZ51xZP5J8/mqdefault.jpg",
+      "datum": "2026-11-19T15:37:40Z",
+      "datum_de": "19.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sacha Lachat- KI im Blick",
+      "titel": "Modul 2 | KI Grundkurs für Anfänger:  Wie Wo Was mach ich in meinem ChatGPT?",
+      "link": "https://www.youtube.com/watch?v=57YbNED8xYQ",
+      "video_id": "57YbNED8xYQ",
+      "thumbnail": "https://img.youtube.com/vi/57YbNED8xYQ/mqdefault.jpg",
+      "datum": "2026-11-19T10:15:28Z",
+      "datum_de": "19.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Kiwi II",
+      "titel": "L&#39;étrange incident d&#39;OpenAI qui n&#39;aurait jamais dû arriver.",
+      "link": "https://www.youtube.com/watch?v=LNliFhrsAbY",
+      "video_id": "LNliFhrsAbY",
+      "thumbnail": "https://img.youtube.com/vi/LNliFhrsAbY/mqdefault.jpg",
+      "datum": "2026-11-18T16:30:15Z",
+      "datum_de": "18.11.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Sascha Taschan",
-      "titel": "Hör auf Claude Code wie 2025 zu benutzen - mach stattdessen das",
+      "titel": "Hör auf Claude Code wie 2025 zu Prompten - mach besser das",
       "link": "https://www.youtube.com/watch?v=8mryzRMKa-I",
       "video_id": "8mryzRMKa-I",
       "thumbnail": "https://img.youtube.com/vi/8mryzRMKa-I/mqdefault.jpg",
@@ -23,12 +63,32 @@
       "quelle": "suche"
     },
     {
+      "kanal": "HideReveal",
+      "titel": "Jak bezpiecznie analizować dane klientów w AI? Excel → Claude → PPT bez danych osobowych HideReveal",
+      "link": "https://www.youtube.com/watch?v=IsqqmbVJFzU",
+      "video_id": "IsqqmbVJFzU",
+      "thumbnail": "https://img.youtube.com/vi/IsqqmbVJFzU/mqdefault.jpg",
+      "datum": "2026-11-18T09:11:51Z",
+      "datum_de": "18.11.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Adi | Viral Mastery",
       "titel": "Der langweiligste Weg, mit TikTok 15.798€ / Monat zu verdienen (Claude Code)",
       "link": "https://www.youtube.com/watch?v=g8D80VK-C-k",
       "video_id": "g8D80VK-C-k",
       "thumbnail": "https://img.youtube.com/vi/g8D80VK-C-k/mqdefault.jpg",
       "datum": "2026-11-18T08:51:35Z",
+      "datum_de": "18.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Unfairer Vorteil | KI",
+      "titel": "Claude Code: Der kürzeste Kurs der Welt™ (5 Min)..",
+      "link": "https://www.youtube.com/watch?v=Ko_ZI-wS9cI",
+      "video_id": "Ko_ZI-wS9cI",
+      "thumbnail": "https://img.youtube.com/vi/Ko_ZI-wS9cI/mqdefault.jpg",
+      "datum": "2026-11-18T08:41:49Z",
       "datum_de": "18.11.2026",
       "quelle": "suche"
     },
@@ -83,73 +143,13 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Everlast AI",
-      "titel": "Millionen Studenten stehen vor dem Nichts: KI hat alles beendet",
-      "link": "https://www.youtube.com/watch?v=xGS2TTUowZU",
-      "video_id": "xGS2TTUowZU",
-      "thumbnail": "https://img.youtube.com/vi/xGS2TTUowZU/mqdefault.jpg",
-      "datum": "2026-11-17T16:15:12+00:00",
+      "kanal": "MikesWorld",
+      "titel": "ChatGPT Dots Updates: Dein Agent hat jetzt mehr Hände als du! 🤯",
+      "link": "https://www.youtube.com/watch?v=ei-hvot-ftg",
+      "video_id": "ei-hvot-ftg",
+      "thumbnail": "https://img.youtube.com/vi/ei-hvot-ftg/mqdefault.jpg",
+      "datum": "2026-11-17T17:00:17Z",
       "datum_de": "17.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KI-Repo-Radar",
-      "titel": "24 KI-Tools von GitHub, die du kostenlos nutzen kannst (nach Sternen sortiert)",
-      "link": "https://www.youtube.com/watch?v=EljDx9SFwis",
-      "video_id": "EljDx9SFwis",
-      "thumbnail": "https://img.youtube.com/vi/EljDx9SFwis/mqdefault.jpg",
-      "datum": "2026-11-17T16:00:36Z",
-      "datum_de": "17.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Keys4IT",
-      "titel": "KI-Agent macht aus Tickets Doku, Blog und Videoschulung",
-      "link": "https://www.youtube.com/watch?v=VA89i32RHmw",
-      "video_id": "VA89i32RHmw",
-      "thumbnail": "https://img.youtube.com/vi/VA89i32RHmw/mqdefault.jpg",
-      "datum": "2026-11-17T14:40:37Z",
-      "datum_de": "17.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "NANCY | KI-Workflows im Büro",
-      "titel": "ChatGPT für Anfänger: Aus Chaos-Notizen zur fertigen Präsentation",
-      "link": "https://www.youtube.com/watch?v=nNqnMmusnx8",
-      "video_id": "nNqnMmusnx8",
-      "thumbnail": "https://img.youtube.com/vi/nNqnMmusnx8/mqdefault.jpg",
-      "datum": "2026-11-17T14:35:47Z",
-      "datum_de": "17.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Google spielt wieder ganz vorne mit!",
-      "link": "https://www.youtube.com/watch?v=a96n0k7PwQE",
-      "video_id": "a96n0k7PwQE",
-      "thumbnail": "https://img.youtube.com/vi/a96n0k7PwQE/mqdefault.jpg",
-      "datum": "2026-11-17T08:44:21+00:00",
-      "datum_de": "17.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "STX AI CREATOR LAB",
-      "titel": "Open WebUI + Ollama: Dein eigenes ChatGPT auf dem PC – Schritt für Schritt (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=232TXV-M5EM",
-      "video_id": "232TXV-M5EM",
-      "thumbnail": "https://img.youtube.com/vi/232TXV-M5EM/mqdefault.jpg",
-      "datum": "2026-11-16T19:48:29Z",
-      "datum_de": "16.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Gorilla",
-      "titel": "Claude für Anfänger: In 9 Minuten startklar",
-      "link": "https://www.youtube.com/watch?v=KWuqOxs-8pc",
-      "video_id": "KWuqOxs-8pc",
-      "thumbnail": "https://img.youtube.com/vi/KWuqOxs-8pc/mqdefault.jpg",
-      "datum": "2026-11-16T18:15:51Z",
-      "datum_de": "16.11.2026",
       "quelle": "suche"
     }
   ]
