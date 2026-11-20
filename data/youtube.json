@@ -1,10 +1,50 @@
 {
-  "aktualisiert": "2026-11-19T16:28:06.478875+00:00",
+  "aktualisiert": "2026-11-20T15:59:33.343528+00:00",
   "zeitraum_tage": 7,
   "videos": [
     {
+      "kanal": "Christoph Magnussen",
+      "titel": "The Future of AI Video Won’t Look Like Video | Victor Riparbelli, Synthesia",
+      "link": "https://www.youtube.com/watch?v=NPl2AABGB-U",
+      "video_id": "NPl2AABGB-U",
+      "thumbnail": "https://img.youtube.com/vi/NPl2AABGB-U/mqdefault.jpg",
+      "datum": "2026-11-20T11:00:37+00:00",
+      "datum_de": "20.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KIwi – KI einfach erklärt",
+      "titel": "Hermes Agent Deutsch: Installieren &amp; einrichten – lokal mit Ollama",
+      "link": "https://www.youtube.com/watch?v=CcBTV5XYBaw",
+      "video_id": "CcBTV5XYBaw",
+      "thumbnail": "https://img.youtube.com/vi/CcBTV5XYBaw/mqdefault.jpg",
+      "datum": "2026-11-19T19:27:01Z",
+      "datum_de": "19.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Aleksei Goferman",
+      "titel": "KI-Video ohne Prompting: In 4 Schritten zum fertigen Clip | Claude + Higgsfield Tutorial (Deutsch)",
+      "link": "https://www.youtube.com/watch?v=vm97Jin32H8",
+      "video_id": "vm97Jin32H8",
+      "thumbnail": "https://img.youtube.com/vi/vm97Jin32H8/mqdefault.jpg",
+      "datum": "2026-11-19T17:50:17Z",
+      "datum_de": "19.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "SpeechGenAI Deutsch",
+      "titel": "Videos mit Claude erstellen: 30 Stile und fertige Prompts",
+      "link": "https://www.youtube.com/watch?v=u1bIrFyLR7o",
+      "video_id": "u1bIrFyLR7o",
+      "thumbnail": "https://img.youtube.com/vi/u1bIrFyLR7o/mqdefault.jpg",
+      "datum": "2026-11-19T16:58:54Z",
+      "datum_de": "19.11.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Everlast AI",
-      "titel": "Vater der KI: DAS kommt in den nächsten 5 Jahren! AGI, Quanten & Simulation (Jürgen Schmidhuber)",
+      "titel": "Der Vater der KI: Was KI bald kann, wird keiner glauben! DAS passiert nach AGI (Jürgen Schmidhuber)",
       "link": "https://www.youtube.com/watch?v=dvcxM2aHKGY",
       "video_id": "dvcxM2aHKGY",
       "thumbnail": "https://img.youtube.com/vi/dvcxM2aHKGY/mqdefault.jpg",
@@ -23,6 +63,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Levin AI",
+      "titel": "Google ESKALIERT: Gemini 4 Neon vs. Opus 5.5 &amp; GPT-6.2 Sol",
+      "link": "https://www.youtube.com/watch?v=BwVFRXleTg8",
+      "video_id": "BwVFRXleTg8",
+      "thumbnail": "https://img.youtube.com/vi/BwVFRXleTg8/mqdefault.jpg",
+      "datum": "2026-11-19T12:32:07Z",
+      "datum_de": "19.11.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Sacha Lachat- KI im Blick",
       "titel": "Modul 2 | KI Grundkurs für Anfänger:  Wie Wo Was mach ich in meinem ChatGPT?",
       "link": "https://www.youtube.com/watch?v=57YbNED8xYQ",
@@ -30,6 +80,26 @@
       "thumbnail": "https://img.youtube.com/vi/57YbNED8xYQ/mqdefault.jpg",
       "datum": "2026-11-19T10:15:28Z",
       "datum_de": "19.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "PaperOffice AI Deutsch",
+      "titel": "Claude hat 6 Dokumente geprüft. Dann hieß es: „Zahlung anhalten.“ (Agentic RAG erklärt)",
+      "link": "https://www.youtube.com/watch?v=MOq0YxIWXWM",
+      "video_id": "MOq0YxIWXWM",
+      "thumbnail": "https://img.youtube.com/vi/MOq0YxIWXWM/mqdefault.jpg",
+      "datum": "2026-11-18T17:22:24Z",
+      "datum_de": "18.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI Agenten Insider | GrokBot & Automation DE",
+      "titel": "Agent steckt fest? So meldet ein KI-Agent Blockaden – statt zu tricksen (Statusbericht &amp; Freigabe)",
+      "link": "https://www.youtube.com/watch?v=1c31J1NmvLQ",
+      "video_id": "1c31J1NmvLQ",
+      "thumbnail": "https://img.youtube.com/vi/1c31J1NmvLQ/mqdefault.jpg",
+      "datum": "2026-11-18T17:02:37Z",
+      "datum_de": "18.11.2026",
       "quelle": "suche"
     },
     {
@@ -44,7 +114,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Hör auf Claude Code wie 2025 zu Prompten - mach besser das",
+      "titel": "Hör auf Claude Code wie 2025 zu benutzen - mach besser das",
       "link": "https://www.youtube.com/watch?v=8mryzRMKa-I",
       "video_id": "8mryzRMKa-I",
       "thumbnail": "https://img.youtube.com/vi/8mryzRMKa-I/mqdefault.jpg",
@@ -73,16 +143,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Adi | Viral Mastery",
-      "titel": "Der langweiligste Weg, mit TikTok 15.798€ / Monat zu verdienen (Claude Code)",
-      "link": "https://www.youtube.com/watch?v=g8D80VK-C-k",
-      "video_id": "g8D80VK-C-k",
-      "thumbnail": "https://img.youtube.com/vi/g8D80VK-C-k/mqdefault.jpg",
-      "datum": "2026-11-18T08:51:35Z",
-      "datum_de": "18.11.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Unfairer Vorteil | KI",
       "titel": "Claude Code: Der kürzeste Kurs der Welt™ (5 Min)..",
       "link": "https://www.youtube.com/watch?v=Ko_ZI-wS9cI",
@@ -90,66 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/Ko_ZI-wS9cI/mqdefault.jpg",
       "datum": "2026-11-18T08:41:49Z",
       "datum_de": "18.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Kevin Pahlke: KI-Anwendungen selbst bauen",
-      "titel": "RAG Tutorial Deutsch: Fragen mit eigenen Dokumenten beantworten",
-      "link": "https://www.youtube.com/watch?v=gf60My0FClc",
-      "video_id": "gf60My0FClc",
-      "thumbnail": "https://img.youtube.com/vi/gf60My0FClc/mqdefault.jpg",
-      "datum": "2026-11-18T08:06:57Z",
-      "datum_de": "18.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "ChatGPT 6.2 Astra ist da! Das musst du jetzt wissen!",
-      "link": "https://www.youtube.com/watch?v=Ik-i1GlnFAM",
-      "video_id": "Ik-i1GlnFAM",
-      "thumbnail": "https://img.youtube.com/vi/Ik-i1GlnFAM/mqdefault.jpg",
-      "datum": "2026-11-17T21:00:26Z",
-      "datum_de": "17.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KIwi – KI einfach erklärt",
-      "titel": "Claude Code Docker Sandbox: Agenten sicher laufen lassen (Tutorial Deutsch)",
-      "link": "https://www.youtube.com/watch?v=G7JFivqj4Xk",
-      "video_id": "G7JFivqj4Xk",
-      "thumbnail": "https://img.youtube.com/vi/G7JFivqj4Xk/mqdefault.jpg",
-      "datum": "2026-11-17T18:06:31Z",
-      "datum_de": "17.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Julian Ivanov | KI-Automatisierung",
-      "titel": "So schneidet Claude Code meine Videos (kompletter Workflow)",
-      "link": "https://www.youtube.com/watch?v=vZku-w8LfMU",
-      "video_id": "vZku-w8LfMU",
-      "thumbnail": "https://img.youtube.com/vi/vZku-w8LfMU/mqdefault.jpg",
-      "datum": "2026-11-17T18:03:50Z",
-      "datum_de": "17.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Agenten Insider | GrokBot & Automation DE",
-      "titel": "Wochenbericht noch von Hand? So analysiert ein KI-Agent deine Tabellen – mit Rechenweg und Freigabe",
-      "link": "https://www.youtube.com/watch?v=L5alVn2lEG0",
-      "video_id": "L5alVn2lEG0",
-      "thumbnail": "https://img.youtube.com/vi/L5alVn2lEG0/mqdefault.jpg",
-      "datum": "2026-11-17T17:02:39Z",
-      "datum_de": "17.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "MikesWorld",
-      "titel": "ChatGPT Dots Updates: Dein Agent hat jetzt mehr Hände als du! 🤯",
-      "link": "https://www.youtube.com/watch?v=ei-hvot-ftg",
-      "video_id": "ei-hvot-ftg",
-      "thumbnail": "https://img.youtube.com/vi/ei-hvot-ftg/mqdefault.jpg",
-      "datum": "2026-11-17T17:00:17Z",
-      "datum_de": "17.11.2026",
       "quelle": "suche"
     }
   ]
