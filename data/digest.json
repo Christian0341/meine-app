@@ -1,7 +1,7 @@
 {
-  "datum": "Freitag, 20. November 2026",
-  "datumISO": "2026-11-20",
-  "tagesthema": "Der heutige KI-News Digest beleuchtet die dynamische Entwicklung von KI-Produkten und Unternehmensstrategien, die anhaltenden Debatten um den EU AI Act sowie die vielfältigen gesellschaftlichen Auswirkungen und innovativen Anwendungen von Künstlicher Intelligenz.",
+  "datum": "Samstag, 21. November 2026",
+  "datumISO": "2026-11-21",
+  "tagesthema": "KI-Forschung feiert potenzielle Durchbrüche in der Mathematik, während Anthropic an der Börse für Schlagzeilen sorgt und große Tech-Firmen neue KI-Produkte und verbesserte Datenschutzfunktionen vorstellen.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,36 +9,36 @@
       "fest": true,
       "artikel": [
         {
+          "titel": "Wir stellen Businesses in ChatGPT vor",
+          "zusammenfassung": "OpenAI führt neue Funktionen in ChatGPT ein, die speziell auf Geschäftskunden zugeschnitten sind. Diese Erweiterungen sollen Unternehmen ermöglichen, ChatGPT effizienter in ihre Arbeitsabläufe zu integrieren und maßgeschneiderte KI-Lösungen zu entwickeln. Die Initiative zielt darauf ab, die kommerzielle Nutzung von ChatGPT weiter auszubauen.",
+          "einordnung": "",
+          "quelle": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwaWVkNUFBVjJvV3FSRURubVUyaDR2Vm5INGRYckpDbnVrajMzQncteWpmQ01wR0JROUxIeGw0YUxNVlhabTdVNUhKdy1jek5EdHFSSVo2MXEzRF95ZXE2LXlkSjVpX3VPNWxUeGRlUQ?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
           "titel": "OpenAI: dots für ChatGPT Plus User und neue Mobile Experience",
-          "zusammenfassung": "OpenAI führt \"dots\" für ChatGPT Plus Nutzer ein, um das Konversationserlebnis mit neuen Funktionen und einer verbesserten Oberfläche zu erweitern. Gleichzeitig wurde die mobile Nutzung von ChatGPT erheblich überarbeitet, um eine intuitivere und effizientere Interaktion unterwegs zu ermöglichen. Diese Updates unterstreichen OpenAIs Bestreben, Nutzerbindung und Zugänglichkeit plattformübergreifend zu verbessern.",
+          "zusammenfassung": "OpenAI hat 'dots' für ChatGPT Plus-Nutzer eingeführt und eine verbesserte mobile Nutzererfahrung veröffentlicht. Diese Updates sollen die Interaktion mit ChatGPT intuitiver und zugänglicher gestalten. Die neuen Funktionen zielen darauf ab, die Produktivität und Zufriedenheit der Premium-Nutzer zu steigern.",
           "einordnung": "",
           "quelle": "OnlineMarketing.de",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOHJfUlg3NnM5VE5ZUzYwREJMSDRlSzNFN2xMbW5uSWh0a2ZLTHRKRFBGT1R5YTh6cnpCcG1URWNJX3hPMHlBdXZ1Zjd1V2dBeklUejEyQWIyeVNSdk1TVWJrZkNnYzFEVHRMcm1SU1ZIdVRPRlgzbExBRUxJa1hDYUloZVBMdWVNWlF2aA?oc=5",
-          "sterne": "⭐⭐"
+          "sterne": "⭐"
         },
         {
-          "titel": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
-          "zusammenfassung": "Googles Gemini bietet nun verbesserte Datenschutzfunktionen, die es Nutzern ermöglichen, die Verwendung ihrer Daten für das KI-Training zu untersagen, während der Gesprächsverlauf erhalten bleibt. Dieses Update reagiert auf wachsende Bedenken hinsichtlich des Datenschutzes bei KI-Interaktionen und gibt Nutzern mehr Kontrolle über ihre persönlichen Informationen. Es ist ein Schritt hin zu einem nutzerzentrierteren Datenmanagement bei großen Sprachmodellen.",
+          "titel": "Google: Gemini 4 Neon soll leistungsfähig und günstiger sein",
+          "zusammenfassung": "Google kündigt Gemini 4 Neon an, eine neue Version ihres KI-Modells, die sowohl leistungsfähiger als auch kostengünstiger sein soll. Diese Entwicklung könnte die Zugänglichkeit und Attraktivität von Gemini für ein breiteres Spektrum von Anwendungen erhöhen. Google setzt damit auf eine Kombination aus Effizienz und Wirtschaftlichkeit im KI-Markt.",
           "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9POHU0Y1ZMQjc0NW5FX2gzVnRzTmxhMzRaYjhsZzViWER2REY2UTAxR3FjSmtxUm5qTEpNZGx0S2lFNEliTzNJNzNXeUlVZ05TR0F2Q2pNbDl6bXZwSDIwVndlUVJpaDN0S08w?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Gemini 4 Neon macht Googles Spitzenmodell Konkurrenz",
-          "zusammenfassung": "Gemini 4 Neon entwickelt sich zu einem starken Konkurrenten für Googles führendes KI-Modell und zeigt fortschrittliche Fähigkeiten, die neue Leistungsmaßstäbe setzen könnten. Diese Entwicklung signalisiert einen sich intensivierenden Wettbewerb in der KI-Landschaft, wobei verschiedene Modelle um die Vorherrschaft in unterschiedlichen Anwendungsbereichen ringen. Der Wettbewerb treibt Innovationen voran und erweitert die Grenzen der KI-Technologie.",
-          "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU2Jtcno1dVZfd0NMRTZCY2QxdHdTeUdiODA2TVozQW1qX0lIQVRkeDVEUV9oX28tejVEaXV3YWRYSk1jbk9EcjIwVkR6VFRNN2E1Z3dEWGdKcXhmX1liejUxMkc1TW1LdDVqaDBQajRWbzdLQXhhZ1ItblZMVEF5U1JTb3RnaDloT3psME10ZVh2SDFvUkZN?oc=5",
+          "quelle": "Golem.de",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN21UN1k0ZE5mWkd2NzYwbWx6NjBOTmJlLU16cVdkc2lnRUk3MEZWclBBd29wa2xTbk1EX0xHYk92UnQyT2NGVEV2WEtHMEpvNHJNSFp6S05xMm5tdGVBNnVLUEJDclcyMHdQQTdQbFF4OVF4YjhVNW42ZW1oTUtxdGFCRVE5dTVLanZfcXIxdkVzU25KYnNndjM1S1NlV3lTLXJkVlZKcw?oc=5",
           "sterne": "⭐⭐"
         },
         {
           "titel": "Google Gemini: KI kann jetzt Mac-Apps bedienen",
-          "zusammenfassung": "Google Gemini hat die Fähigkeit erlangt, Mac-Anwendungen zu steuern, was seine Nützlichkeit und Integration in Desktop-Umgebungen erheblich erweitert. Diese neue Funktion ermöglicht es Gemini, Aufgaben direkt innerhalb von macOS auszuführen, wodurch die Produktivität gesteigert und eine nahtlosere Benutzererfahrung geboten wird. Es ist ein bemerkenswerter Schritt hin zu einer tieferen Interaktion von KI-Agenten mit Betriebssystemen.",
+          "zusammenfassung": "Google Gemini erweitert seine Fähigkeiten und kann nun Mac-Anwendungen direkt bedienen und steuern. Diese Integration ermöglicht eine tiefere Interaktion zwischen KI und Betriebssystem, was neue Möglichkeiten für Automatisierung und Produktivität auf Apple-Geräten eröffnet. Nutzer können komplexe Aufgaben nun noch einfacher delegieren.",
           "einordnung": "",
           "quelle": "ifun.de",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tbndfV0pEYUtKNUhGOWN2N0lKWHJkWE83TXBXUFpzTVhaNUhLcnlwbU9GNDhiU1Fxb2ltTUFRcHF0Zmc2RnhzOFFreVlFUWJ3TElVbjRDVEd0VGVQa29SRV9iLTN6OUduWXlNY19naGRYUGQ5Nll1SFl4V1V0Zw?oc=5",
-          "sterne": "⭐⭐⭐"
+          "sterne": "⭐⭐"
         }
       ]
     },
@@ -48,36 +48,28 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "OpenAI greift mit ChatGPT Business Hub Googles Unternehmensprofile an",
-          "zusammenfassung": "OpenAI fordert mit dem neuen ChatGPT Business Hub Googles Unternehmensprofile heraus und zielt auf Firmenkunden ab. Dieser strategische Schritt signalisiert OpenAIs Ambition, seine KI-Dienste in den Unternehmenssektor auszudehnen und maßgeschneiderte Lösungen anzubieten. Die Initiative soll Unternehmen fortschrittliche KI-Tools für Kundeninteraktion und operative Effizienz bereitstellen.",
+          "titel": "Geld für die KI: Anthropic legt Rekord-Börsengang hin",
+          "zusammenfassung": "Anthropic, ein führendes KI-Unternehmen, hat einen beeindruckenden Börsengang hingelegt und dabei Rekordsummen an Kapital eingesammelt. Dies unterstreicht das enorme Investoreninteresse an der generativen KI-Branche. Der Erfolg des IPOs positioniert Anthropic als wichtigen Akteur im Wettbewerb um die Vorherrschaft in der KI-Entwicklung.",
           "einordnung": "",
           "quelle": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONUVJRmp0S2dFZEV4YTctUHhHMUt1MWRyY0ZudVBwRWc5TlJyczZYYnlMaXJVN3NmbkNQcDEtbE9xaE0yUnFjODVXbTByUUV1SzR1cEotS0ZmMGZIUW1qSUlLb2ZwNGprdUpKSGpnV0RDUGtTREpGUkJobU1CMkZRNEx1aGZGT3poUzVxQ1FVNWJwMjVzZ2x3aFh6WGNmM0p3UXBDWHZIZHQ4b2xGTmlTZW9HaWtZTEVSUXBaNUg2Q1EyZFdfY2tBZThPVDM5MDZYWUxfbTJRaTBsS05GemNJcU1saVFmZU0?oc=5",
-          "sterne": "⭐⭐⭐"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjNyV0RBM0ZnbE9kNHNheEx1ZWswcnQ3WlRwLVpVVnFEbDNab1dfZ3NOb3JVSzdFYWszWC1ESDR4cXljMVBNeERSWjNjR3lxV1p2V2ROTG85V3Q5R1BBaG1QUzNFVWtxV0N1Sk45cnl1X2JVREgwNVlRSlJzWjg1QUtVZU1iZ081ZFpQTkhXS0ZvZ0dicjBfSndadGxfMmVHUkpDc1N6bkhacmZEcUNoRzhXUWc3MEhSWVJ5OQ?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "OpenAI arbeitet angeblich an eigenem ChatGPT-Handy, Foxconn baut es",
-          "zusammenfassung": "Gerüchten zufolge entwickelt OpenAI ein eigenes ChatGPT-Smartphone, dessen Fertigung angeblich von Foxconn übernommen wird. Dieses potenzielle Hardware-Engagement markiert einen strategischen Kurswechsel für OpenAI, um seine KI direkt in ein dediziertes Gerät zu integrieren. Der Schritt könnte die Interaktion der Nutzer mit KI im Alltag neu definieren und ein nahtloses, tief integriertes Erlebnis bieten.",
+          "titel": "Künstliche Intelligenz: Anthropic-Aktie fällt am zweiten Handelstag deutlich",
+          "zusammenfassung": "Nach einem erfolgreichen Börsengang erlebte die Anthropic-Aktie am zweiten Handelstag einen deutlichen Rückgang. Analysten führen dies auf Gewinnmitnahmen und eine allgemeine Marktunsicherheit im Tech-Sektor zurück. Trotz des Rückschlags bleibt die langfristige Bewertung des Unternehmens positiv, da das Potenzial der KI-Technologien weiterhin hoch eingeschätzt wird.",
           "einordnung": "",
-          "quelle": "WinFuture",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yR1V6X3NMVk0wM1Fzc2lnaGk1aXJNa1JFUzhaZmZrajdaRjk5R21OYmltdkZmcC1rYTB5cWo1MFNaLV9iU241ODlhUEJXUQ?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "STERN.de",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlpkNlhWOG1NcEFTQkpXZXQ3ZnVTX2tUN0tyNGtWekNfbkdIM01KLWtqQUgzTlo1bWlZUUZTZVJCdXhfS3VINkU1ZFg3N0RBYnpCcV9ta0hOcG4zbjRKTWZBeEVIODFxSXNRSzgtZmFpSDNJRW9pWlFIVDBIUnFGT1c4YTFNTFp5TUJZOFRsQjBmWklQM25qUjhpaEw3Z1Fwd1lWR1dURkpPamhrRnFMNFF3OE1GMVN4OFp1YjFR?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "(S+) Anthropic: Die riskante Wette auf die Hochleistungs-KI",
-          "zusammenfassung": "Anthropic setzt mit hohen Investitionen in Forschung und Entwicklung für seine Claude-Modelle auf Hochleistungs-KI. Diese Strategie positioniert das Unternehmen an der Spitze der KI-Innovation und zielt darauf ab, die Grenzen dessen zu erweitern, was große Sprachmodelle leisten können. Der Artikel beleuchtet die Risiken und potenziellen Belohnungen dieses ambitionierten Ansatzes in einem wettbewerbsintensiven Markt.",
+          "titel": "Wer für Claude bezahlt – das Geschäft hinter der Anthropic-Aktie",
+          "zusammenfassung": "Dieser Artikel beleuchtet das Geschäftsmodell von Anthropic und die Einnahmequellen hinter ihrem KI-Modell Claude, insbesondere nach dem Börsengang. Es wird analysiert, wie das Unternehmen plant, seine KI-Dienste zu monetarisieren und langfristig profitabel zu bleiben. Die Investoren sind gespannt auf die Strategien zur Wertschöpfung.",
           "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVEZqemZnaFdSRVpxMFJ5ckEzelZoMzY1RzNiQW9FRUVwRDJqZnUzUml3X18zaEd6XzJ1czJvaXk0MDctNzU0ZFpIY0NzYmJGSXJDQjNtS0Vqd1BwX1RDUS1yOW5TZXBqR184aE4zdjhzSjFZYkhjVzZEYmQycHFSVXRTUElOMmNhQkFpMXpuNVZZUzJIRG9oZG1DbkZORzBWZTduR2ZpR2htYUZlWTFqcUcyZ0ZTOXhwSWFmWS1GLUZ5cDg4N0M3dlpDRFhSNU5Bc0ctd0RNRklrdk9acWdWRzBIeUpGd2N6eElNaE1HSQ?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "KI-Software Claude - Anthropic erzielt bei Börsengang Rekorderlös - und überflügelt SpaceX",
-          "zusammenfassung": "Anthropic hat mit seiner KI-Software Claude einen rekordverdächtigen Börsengang hingelegt und dabei Berichten zufolge sogar SpaceX überflügelt. Dieser Erfolg unterstreicht das enorme Vertrauen der Investoren in Anthropic's KI-Technologie und ihr zukünftiges Marktpotenzial. Das starke Börsendebüt verdeutlicht das boomende Interesse und die hohen Investitionen im wachstumsstarken KI-Sektor.",
-          "einordnung": "",
-          "quelle": "Deutschlandfunk",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHZiV1oyaUYyalBNN2ItOEpFV1hyUWljeFhyRVF1VktxemNUcW4xbEY0emt1N3VqNjRFN2gtY3dWV0dBa3RnOXhMeEM4UXZNdHB0OWRaNEFpV0FXWGdXa3NxbHlhUl9UN010dHBnZFdQMXNQWHY5Y3Q5a254d18wNnhldUhXcnQ3SGhzajdjVW5ZNnNRY0JmNUljdDg3Ml9LUWVqMnRoX19MVVVoOGRETw?oc=5",
-          "sterne": "⭐⭐⭐"
+          "quelle": "Finanzen.net",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa0hCRERwOGpSeUV4RXBzN01keklSQkh2cXlCYTY1UnNNRGJycjlnWWlncnVEemFleWJTWExNOXNkMUNUSHdqRFY5bVJmWm5MaDVMMTg0WGdZaEhLdDliaG12WHJFNzJURVhueFBiejNva2g2VWVwOG9hV0I4TFZnMVZNT2ZOdElDUXNVNkk5NXhSR1JiRWFxaWpiWXpBRXJoLTZoaTdrVWJ0eEp3c19SVTRGeU1MSV92ZEUwbEFVc09KNnNyaUVHbHJn?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     },
@@ -88,7 +80,7 @@
       "artikel": [
         {
           "titel": "Ja, das EU-KI-Gesetz erfasst agentische KI – so funktioniert es",
-          "zusammenfassung": "Das EU-KI-Gesetz bezieht explizit \"agentische KI\" in seinen Geltungsbereich ein und legt fest, wie diese autonomen und proaktiven KI-Systeme reguliert werden. Dieser Artikel erläutert die Mechanismen und Definitionen des Gesetzes, um den einzigartigen Herausforderungen von KI-Agenten zu begegnen. Er schafft Klarheit über den rechtlichen Rahmen für die Entwicklung und den Einsatz von KI-Systemen, die eigenständig agieren können.",
+          "zusammenfassung": "Der Artikel erklärt, wie das EU-KI-Gesetz auch sogenannte 'agentische KI-Systeme' reguliert, die autonom handeln können. Es wird dargelegt, welche spezifischen Anforderungen und Klassifizierungen für diese fortschrittlichen KI-Formen gelten. Dies unterstreicht den umfassenden Ansatz der EU zur Regulierung von KI-Technologien.",
           "einordnung": "",
           "quelle": "Unite.AI",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5USmxxdHNsWjgtdnRIblJzUC12dUpzT1hmMms5cXAzLWJldmVnV0V4SFQ4eHhmZ2o4UHF2Q1F2OGEwOHAyTmM1Um9zNk42QWZCalpCeUFIT0RwT3h6YVFVbEN0ZnNPWWlFWHp4b3V4SFc?oc=5",
@@ -96,15 +88,15 @@
         },
         {
           "titel": "EU-KI-Gesetz: Bundesregierung fordert innovationsfreundlichere Regeln",
-          "zusammenfassung": "Die Bundesregierung plädiert für innovationsfreundlichere Regeln im Rahmen des EU-KI-Gesetzes, um ein Gleichgewicht zwischen Sicherheit und technologischem Fortschritt zu finden. Diese Haltung spiegelt Bedenken wider, dass zu strenge Vorschriften die Entwicklung und Wettbewerbsfähigkeit europäischer KI-Unternehmen behindern könnten. Die Regierung strebt an, dass der Regulierungsrahmen Innovationen unterstützt und nicht behindert.",
+          "zusammenfassung": "Die Bundesregierung hat sich für innovationsfreundlichere Regeln im Rahmen des EU-KI-Gesetzes ausgesprochen. Sie fordert Anpassungen, die die Entwicklung und den Einsatz von KI in Europa fördern, ohne dabei Sicherheitsstandards zu vernachlässigen. Ziel ist es, ein Gleichgewicht zwischen Regulierung und technologischer Wettbewerbsfähigkeit zu finden.",
           "einordnung": "",
           "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWk3NDloYXdMclR2ZGtUT0VTWjJvLVNVaVRyWG85WVBxUk02SjdybV9Ddm85VWJncFVTWW53S19CemFIS1lhb0RfTDdpSzdTQUZQS3dfVkxacWI1OFdHQS1Nazg1ZlFyQ1JyNkNUdS1vS2E4Y3NlRENRbHVMRE1jbUplNngwNmt2RUw5R2lBWnVVcklQZ2RNXzZsVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWk3NDloYXdMclR2ZGtUT0VTWjJvLVVVaVRyWG85WVBxUk02SjdybV9Ddm85VWJncFVTWW53S19CemFIS1lhb0RfTDdpSzdTQUZQS3dfVkxacWI1OFdHQS1Nazg1ZlFyQ1JyNkNUdS1vS2E4Y3NlRENRbHVMRE1jbUplNngwNmt2RUw5R2lBWnVVcklQZ2RNXzZsVQ?oc=5",
           "sterne": "⭐⭐"
         },
         {
           "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Europas ambitioniertes KI-Gesetz sieht sich Berichten zufolge mit Verzögerungen und Hindernissen konfrontiert, was Fragen zur fristgerechten Umsetzung und Wirksamkeit aufwirft. Dieser Artikel untersucht die Gründe für die Verlangsamung, darunter komplexe Verhandlungen und unterschiedliche nationale Interessen der Mitgliedstaaten. Die Herausforderungen verdeutlichen die Schwierigkeiten bei der Schaffung umfassender Gesetze für sich schnell entwickelnde Technologien.",
+          "zusammenfassung": "Der Artikel analysiert die Gründe, warum der Fortschritt des EU AI Acts ins Stocken geraten ist. Es werden interne Uneinigkeiten und Lobbying-Bemühungen verschiedener Interessengruppen als Hauptursachen genannt. Die Verzögerungen werfen Fragen zur Umsetzbarkeit und Aktualität des Gesetzes im schnelllebigen KI-Sektor auf.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
@@ -119,70 +111,78 @@
       "artikel": [
         {
           "titel": "Reasoning beim Fragen: Reasoning-Large-Language-Models von passiven Problemlösern zu proaktiven Fragestellern machen",
-          "zusammenfassung": "Neue Forschung untersucht Methoden, um Reasoning Large Language Models von passiven Problemlösern zu proaktiven Fragestellern zu transformieren und so ihre analytischen Fähigkeiten zu verbessern. Dieser Fortschritt zielt darauf ab, die Fähigkeit der KI zu komplexeren und interaktiveren Denkprozessen zu steigern. Die Studie deutet auf einen Paradigmenwechsel in der Art und Weise hin, wie LLMs Informationen sammeln und Probleme lösen.",
+          "zusammenfassung": "Neue Forschungsergebnisse zeigen Wege auf, wie Large Language Models (LLMs) von passiven Problemlösern zu proaktiven Fragestellern entwickelt werden können. Dies würde ihre Fähigkeit verbessern, Informationen aktiv zu suchen und komplexe Aufgaben besser zu verstehen. Der Ansatz verspricht eine signifikante Steigerung der Problemlösungskompetenz von LLMs.",
           "einordnung": "",
           "quelle": "alphaXiv",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SSnAzSlNpQ0hBYVd5S3VrT0hKaEw5X3FiQ3p2YVE4T3FZdHd3ekU1YTM5cGFORjNxd2ZrM0tpNjVtRkpVVHpzMVZxNTUxQkhqZ3ppTA?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Large Language Models erklärt: Was sind LLMs?",
+          "zusammenfassung": "Dieser grundlegende Artikel erklärt, was Large Language Models (LLMs) sind, wie sie funktionieren und welche Anwendungsbereiche sie abdecken. Er bietet eine verständliche Einführung in die Technologie hinter vielen aktuellen KI-Anwendungen. Für Einsteiger ist dies eine wertvolle Ressource, um die Grundlagen von LLMs zu verstehen.",
+          "einordnung": "",
+          "quelle": "Computerwoche",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzMldHTWJJQWFIVzZwdW41dmdIaEVVd1JjS295Qzd1TXdpRDVMeWNLQmNrQXA1U3pBQzZFUU9GLUhJMHdiSmZiLVBaWTdWa0lIQ29Kd0xfMWZqa2EzenlTV2UzUnBhWjRuSXl3QjZOR1g?oc=5",
+          "sterne": "⭐"
+        },
+        {
+          "titel": "KI in der Forschung: Was passiert, wenn niemand die Ergebnisse versteht?",
+          "zusammenfassung": "Der Artikel thematisiert die Herausforderung, dass KI-generierte Forschungsergebnisse zunehmend komplex und schwer nachvollziehbar für menschliche Wissenschaftler werden. Dies wirft Fragen nach der Verifizierbarkeit und dem Vertrauen in die wissenschaftliche Methode auf. Es wird diskutiert, wie die Transparenz und Interpretierbarkeit von KI-Forschung verbessert werden kann.",
+          "einordnung": "",
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTjhWRDAwU2ZnQU5PeGExWW9kd01mTFAwRUZWQVAwNzNyak1NTUp3a05ySjI4emVxMXlTeHdScXd4MDQ1TDdHRkRBRWZFb21pUGwtekhzUlNjM0RLRUs5T0U3Q3dwMmF4aktrbXFpeWlBLTA5S2oyYXhxMlRHeEZUY053eDJRZTg2ODN4Q2YwRnYzVGh2Wnd0RU8tSVpJUWFzOGlJdjIzbUF0RmoyREJuaDBrT1NibzI4ZUxmeEVyTWlvYm5JekNyaDZTSXNWTzl4Szg4?oc=5",
+          "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "🧠",
+      "titel": "KI & Mathematik",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "Künstliche Intelligenz: Anthropic-Forscher will mathematisches Millennium-Problem gelöst haben",
+          "zusammenfassung": "Ein Forscher von Anthropic behauptet, eines der sieben mathematischen Millennium-Probleme gelöst zu haben, was einen potenziellen Durchbruch in der Mathematik darstellt. Die KI spielte dabei eine unterstützende Rolle bei der Analyse und Verifikation komplexer Gleichungen. Die wissenschaftliche Gemeinschaft prüft die Ergebnisse mit Spannung.",
+          "einordnung": "",
+          "quelle": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmZzVnFBR2M5VlQ3eWp4Tk0yWmdZUlFXck9Rcy1SZ0lPYXEwNEtmRlRqaWdmanptanV5UXl5U19kdTYtQjRVbE5SYk05ZU5FU3hZaTJfVnk5NzRUZ1BLMVdLRy1malI4eEMxdkI5RGlpWUs0REFXbm5xaGE5cGRVNlFQRjU4UEFmaHZHTnQ2dEs1NEJYWjRDVTd1eERuVlRobS1z?oc=5",
           "sterne": "⭐⭐⭐"
         },
         {
-          "titel": "AnythingLLM: Eigene Dokumente mit KI lokal auswerten",
-          "zusammenfassung": "AnythingLLM ist ein neues Tool, das Nutzern ermöglicht, eigene Dokumente lokal mit KI auszuwerten und so Datenschutz und Kontrolle zu gewährleisten. Diese Lösung richtet sich an Einzelpersonen und Unternehmen, die LLMs nutzen möchten, ohne sensible Informationen auf externe Server hochzuladen. Es bietet eine sichere Methode, um Erkenntnisse zu gewinnen und mit persönlichen Daten durch KI zu interagieren.",
+          "titel": "Riemannsche Vermutung bewiesen: KI löst offenbar wichtigstes Problem der Mathematik",
+          "zusammenfassung": "Es wird berichtet, dass eine Künstliche Intelligenz die Riemannsche Vermutung, eines der bedeutendsten ungelösten Probleme der Mathematik, bewiesen haben soll. Sollte sich dies bestätigen, wäre es ein epochaler Erfolg für die KI-Forschung und die Mathematik. Die wissenschaftliche Welt wartet gespannt auf die Verifizierung dieser bahnbrechenden Ergebnisse.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXVZSFJOOElhU2NSdndVcjNRdzZJYlVjay03RUhxNWFsd1AtTGRmU3pzdkx1TEhJcVZFMnZQN3dPc1kzenlWQmJHUmZCTklHTXU0U3JUNDJjdmJuYXRJb3pnUGlXUVF1TFljQjdYdTNBSGU1VU9nZ1p0WUJIWjA4VDNVSnNtWHZWLTUyaFF0YXFMQzB3MU9SNm1kZw?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "Spektrum der Wissenschaft",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYklEb1d2SXBOVVZhR21vZ1ZMNnducmpMc3hIcGEzdUhWcHRzU05xWlBjUnRWM1h5RjQ3bHdBdE1DTzV0dnFQenotV3hRQ1JBWnNIU3JmekJkc1NKNTZYTU4tSlNyS3ZxNGkxYnE5UURHRkE4MXhWcUxLOUxKeEdWN2x4NkZNQlFEN3VnSHlHcw?oc=5",
+          "sterne": "⭐⭐⭐"
         }
       ]
     },
     {
-      "emoji": "🤖",
-      "titel": "KI & Gesellschaft & Alltag",
+      "emoji": "🔒",
+      "titel": "KI & Ethik/Datenschutz",
       "fest": false,
       "artikel": [
         {
-          "titel": "KI-Update Deep-Dive: Smart Glasses als Alltagshilfe",
-          "zusammenfassung": "Smart Glasses entwickeln sich dank KI zu praktischen Alltagshilfen, die Echtzeitinformationen, Navigation und Barrierefreiheit bieten. Dieser Deep-Dive beleuchtet, wie diese Geräte den Alltag bereichern und die Benutzererfahrung durch intelligente Unterstützung verbessern. Die Technologie zielt darauf ab, Nutzer nahtlos in verschiedenen Situationen zu unterstützen.",
+          "titel": "ChatGPT und Gemini: Welchen Einfluss Werbung auf KI-Antworten nimmt",
+          "zusammenfassung": "Eine neue Untersuchung beleuchtet den potenziellen Einfluss von Werbung auf die Antworten von KI-Modellen wie ChatGPT und Gemini. Es wird diskutiert, inwieweit kommerzielle Interessen die Objektivität und Neutralität der generierten Inhalte beeinträchtigen könnten. Dies wirft wichtige Fragen bezüglich der Transparenz und Ethik von KI-Systemen auf.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGljRGtyR01nNWdESkkxNkJIQTBRQ0tIRGhqdVZRRTFaZ0VpdGFfNEFzVUs1R0Z2N0tYam1pbTRQMl9CXzg3cEJWZ3RyQTFwdDdmN0tjaXgtREp4cE9aUW94VGlua2RXaUR1SGstNktzelh6LTJXV0ttcVRjRENwSGtGdnNnTk5pN2w5X1VfUUFxd0Z2?oc=5",
+          "quelle": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNThlcG1XN1B0UlVDZjRfdVN0WWZ4RnVVcXhPWmdvcXVFTkNraGJiaVFnN0l6T2p1RHc1dTFPdTBPMnVzM2lzalN4YTN1UjcwdlJMSU1hRzhLXzRkaUI4bEotOTlMYmlpRVdXajJhdGo1VmlCbDZvUEhFeUFHNnBZdHlZVUxpclhmNzMyNFBTaTNzNklvaVhoU1VLYWpXSDJKUkc1clVBRUItcFg3ZHNsN0xOWFlDbThwTnRmZmRvMVM2TUhDUjhtUEdvNUctdVVvX0lV?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "'Weltuntergang'? - Menschen bekommen existenzielle Angst",
-          "zusammenfassung": "Die rasanten Fortschritte in der KI lösen zunehmend existenzielle Ängste in der Bevölkerung aus, von Jobverlust bis hin zu Sorgen vor autonomen Systemen. Der Artikel analysiert die psychologischen und gesellschaftlichen Auswirkungen dieser Ängste und spiegelt die wachsende öffentliche Debatte über die langfristigen Folgen der KI wider. Er betont die Notwendigkeit einer ausgewogenen Betrachtung von Risiken und Chancen der KI.",
+          "titel": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
+          "zusammenfassung": "Google hat neue Datenschutzfunktionen für Gemini eingeführt, die es Nutzern ermöglichen, das Training der KI mit ihren Daten zu untersagen. Gleichzeitig können sie ihren Chatverlauf beibehalten, was mehr Kontrolle über persönliche Informationen bietet. Diese Maßnahme reagiert auf wachsende Bedenken hinsichtlich des Datenschutzes bei generativen KI-Modellen.",
           "einordnung": "",
-          "quelle": "n-tv.de",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLTNQcUExU2xFN0dHZU1HNXpmaEp4Z0s2V0x2OTdPbThjZjdOQ2d5bURPZG85RGJOYUZsTWYwR25KNGhqQjFQNU5ReWE2NXVBSmNpYmNUc0tKdnRVMWZpWlBBUDg1RkQyclQ3MXFqUTRSWXVzbDk2SG4xNjNNbWZxWkdXM2xPcEJzeEVXMHhzdklYem9XSDd2b2NtNTFLT0hhR3VwS0c3R09QX2ZPZlRTbkZZTQ?oc=5",
-          "sterne": "⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "💡",
-      "titel": "KI & Anwendungsbereiche & Innovation",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "Slush 2026 in Helsinki: Ukrainische Start-ups entwickeln KI-Lösungen gegen Minen",
-          "zusammenfassung": "Ukrainische Start-ups präsentieren auf der Slush 2026 in Helsinki innovative KI-Lösungen zur Minenräumung. Diese Technologien zeigen das Potenzial von KI, humanitäre Herausforderungen zu adressieren und den Wiederaufbau zu unterstützen. Der Fokus liegt auf praktischen Anwendungen für reale Probleme.",
-          "einordnung": "",
-          "quelle": "SZ.de",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXloUWZxNlgzZ0lUQUlMSlpLVHlVcVBLRTRBeW1lMzlyQ3dGRVROcDdvX2N0Q1B2RlA3NnJEckxfbjd0T084QXdZdmlCSS11d05IYnZpeW1LNDktNGN6ZVdtWjBMc0RtVUNnaV9zck1QbjJNT21MeU9nbHFCWEswQkRUMG9RaWFZNThya21ZRG5abzZyRTRCZV83dmxMTE12dkVVYmdPdTVRQQ?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Anleger von Anthropic vor der \"Feuerprobe\": Was der Börsengang des KI-Unternehmens bedeutet",
-          "zusammenfassung": "Nach dem erfolgreichen Börsengang stehen die Anleger von Anthropic vor einer \"Feuerprobe\", da der Markt die langfristige Rentabilität und die Wachstumsaussichten des KI-Unternehmens genau prüft. Dieser Artikel analysiert die Auswirkungen des Börsendebüts von Anthropic und diskutiert die Herausforderungen und Erwartungen an die zukünftige Performance. Der Fokus liegt darauf, wie das Unternehmen seine hohe Bewertung aufrechterhalten und seine Versprechen einlösen wird.",
-          "einordnung": "",
-          "quelle": "ZDFheute",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOemVmR042OG9DQjJ6RzBmaElfSTIyZ3lCa3RIckE1YVpZSHo2cldURklfaVB1WkFVLUN5SkZyaks4a1kwSXhBeDVEa28xVTlJdl82SWVOcEI3akV3MElYY3lQR1NCSlFON21aYjlvU01UZEI4SVRwdmxnUDFxd1IyUzRfQ3hBSmc2eVpjbmlCX2k?oc=5",
+          "quelle": "T3N",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9POHU0Y1ZMQjc0NW5FX2gzVnRzTmxhMzRaYjhsZzViWER2REY2UTAxR3FjSmtxUm5qTEpNZGx0S2lFNEliTzNJNzNXeUlVZ05TR0F2Q2pNbDl6bXZwSDIwVndlUVJpaDN0S08w?oc=5",
           "sterne": "⭐⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-11-20T14:30:18.163Z",
+  "generiert_um": "2026-11-21T13:49:03.748Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -196,9 +196,9 @@
     {
       "name": "Doppelgänger Tech Talk",
       "desc": "Glöckler & Klöckner · 2x pro Woche",
-      "episode": "Schlagen Tech-IPOs den Markt? | Baidu als Warnsignal für Google | Jensen kommt zurück? #615",
-      "datum": "18.11.2026",
-      "dauer": "67 Min.",
+      "episode": "Die Hälfte der Nvidia-Umsätze lief über Singapur? Healthwashing & Siliziumwaffen #616",
+      "datum": "21.11.2026",
+      "dauer": "89 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/12/e1/9612e1f9-9bc2-a1d2-8b29-36d414b0f85e/mza_14362010053483303385.jpg/600x600bb.jpg",
       "spotify": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
     },
