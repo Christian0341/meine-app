@@ -1,7 +1,37 @@
 {
-  "aktualisiert": "2026-11-20T15:59:33.343528+00:00",
+  "aktualisiert": "2026-11-21T15:13:46.443223+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Calvin Hollywood (AI)",
+      "titel": "Warum ich GrokBot (&amp;Claude) nutze - Beispiele",
+      "link": "https://www.youtube.com/watch?v=YYC7Eex8Xlw",
+      "video_id": "YYC7Eex8Xlw",
+      "thumbnail": "https://img.youtube.com/vi/YYC7Eex8Xlw/mqdefault.jpg",
+      "datum": "2026-11-21T10:29:51Z",
+      "datum_de": "21.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI Agenten Insider | GrokBot & Automation DE",
+      "titel": "Versteckte Befehle in Mails &amp; Webseiten: Warum ein KI-Agent nur auf dich hört (Prompt-Injection)",
+      "link": "https://www.youtube.com/watch?v=T9B8cTKJNdA",
+      "video_id": "T9B8cTKJNdA",
+      "thumbnail": "https://img.youtube.com/vi/T9B8cTKJNdA/mqdefault.jpg",
+      "datum": "2026-11-20T17:02:15Z",
+      "datum_de": "20.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "Gemini 4 Neon in Antigravity getestet: Damit hat niemand gerechnet!",
+      "link": "https://www.youtube.com/watch?v=OzerCr3IHhY",
+      "video_id": "OzerCr3IHhY",
+      "thumbnail": "https://img.youtube.com/vi/OzerCr3IHhY/mqdefault.jpg",
+      "datum": "2026-11-20T15:32:45Z",
+      "datum_de": "20.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Christoph Magnussen",
       "titel": "The Future of AI Video Won’t Look Like Video | Victor Riparbelli, Synthesia",
@@ -63,12 +93,12 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Levin AI",
-      "titel": "Google ESKALIERT: Gemini 4 Neon vs. Opus 5.5 &amp; GPT-6.2 Sol",
-      "link": "https://www.youtube.com/watch?v=BwVFRXleTg8",
-      "video_id": "BwVFRXleTg8",
-      "thumbnail": "https://img.youtube.com/vi/BwVFRXleTg8/mqdefault.jpg",
-      "datum": "2026-11-19T12:32:07Z",
+      "kanal": "ZeldoReacts",
+      "titel": "Gemini 4 Neon ist da: Darum ist es Googles wichtigstes Modell!",
+      "link": "https://www.youtube.com/watch?v=jZCrdYEGJq8",
+      "video_id": "jZCrdYEGJq8",
+      "thumbnail": "https://img.youtube.com/vi/jZCrdYEGJq8/mqdefault.jpg",
+      "datum": "2026-11-19T15:29:47Z",
       "datum_de": "19.11.2026",
       "quelle": "suche"
     },
@@ -114,43 +144,13 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Hör auf Claude Code wie 2025 zu benutzen - mach besser das",
+      "titel": "Hör auf Claude Code wie 2025 zu benutzen - mach besser das...",
       "link": "https://www.youtube.com/watch?v=8mryzRMKa-I",
       "video_id": "8mryzRMKa-I",
       "thumbnail": "https://img.youtube.com/vi/8mryzRMKa-I/mqdefault.jpg",
       "datum": "2026-11-18T16:15:20+00:00",
       "datum_de": "18.11.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "KI mit Chris",
-      "titel": "Claude Skills richtig nutzen: 5 Gewohnheiten (Tutorial Deutsch)",
-      "link": "https://www.youtube.com/watch?v=il3KDU6BLMA",
-      "video_id": "il3KDU6BLMA",
-      "thumbnail": "https://img.youtube.com/vi/il3KDU6BLMA/mqdefault.jpg",
-      "datum": "2026-11-18T16:00:30Z",
-      "datum_de": "18.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "HideReveal",
-      "titel": "Jak bezpiecznie analizować dane klientów w AI? Excel → Claude → PPT bez danych osobowych HideReveal",
-      "link": "https://www.youtube.com/watch?v=IsqqmbVJFzU",
-      "video_id": "IsqqmbVJFzU",
-      "thumbnail": "https://img.youtube.com/vi/IsqqmbVJFzU/mqdefault.jpg",
-      "datum": "2026-11-18T09:11:51Z",
-      "datum_de": "18.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Unfairer Vorteil | KI",
-      "titel": "Claude Code: Der kürzeste Kurs der Welt™ (5 Min)..",
-      "link": "https://www.youtube.com/watch?v=Ko_ZI-wS9cI",
-      "video_id": "Ko_ZI-wS9cI",
-      "thumbnail": "https://img.youtube.com/vi/Ko_ZI-wS9cI/mqdefault.jpg",
-      "datum": "2026-11-18T08:41:49Z",
-      "datum_de": "18.11.2026",
-      "quelle": "suche"
     }
   ]
 }
