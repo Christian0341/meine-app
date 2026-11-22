@@ -1,7 +1,67 @@
 {
-  "aktualisiert": "2026-11-21T15:13:46.443223+00:00",
+  "aktualisiert": "2026-11-22T15:10:38.620702+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Max Kunschmann",
+      "titel": "Claude für Anfänger: Mein Kompletter Einstieg",
+      "link": "https://www.youtube.com/watch?v=70kmAn7TJQU",
+      "video_id": "70kmAn7TJQU",
+      "thumbnail": "https://img.youtube.com/vi/70kmAn7TJQU/mqdefault.jpg",
+      "datum": "2026-11-22T13:29:46Z",
+      "datum_de": "22.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ToolVibes",
+      "titel": "n8n Agents: Workflows, Freigabe, Skills und Zeitplan | n8n Tutorial Deutsch",
+      "link": "https://www.youtube.com/watch?v=pPgwHUglFqo",
+      "video_id": "pPgwHUglFqo",
+      "thumbnail": "https://img.youtube.com/vi/pPgwHUglFqo/mqdefault.jpg",
+      "datum": "2026-11-22T13:09:18Z",
+      "datum_de": "22.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "iamfinn",
+      "titel": "Claude KI Tutorial Deutsch: Für Anfänger in 5 Minuten erklärt (2026)",
+      "link": "https://www.youtube.com/watch?v=iWdRdc4KWg4",
+      "video_id": "iWdRdc4KWg4",
+      "thumbnail": "https://img.youtube.com/vi/iWdRdc4KWg4/mqdefault.jpg",
+      "datum": "2026-11-22T12:55:01Z",
+      "datum_de": "22.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Everlast AI",
+      "titel": "Damit habe ich nicht gerechnet: Gemini \"Neon\" SCHLÄGT GPT-6.2! + Anthropic Rekord-IPO | KI-NEWS",
+      "link": "https://www.youtube.com/watch?v=kqa9fPVYNxg",
+      "video_id": "kqa9fPVYNxg",
+      "thumbnail": "https://img.youtube.com/vi/kqa9fPVYNxg/mqdefault.jpg",
+      "datum": "2026-11-22T09:42:23+00:00",
+      "datum_de": "22.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "ToolVibes",
+      "titel": "E-Rechnung 2027: XRechnung lesen mit n8n, ohne KI | n8n Tutorial Deutsch",
+      "link": "https://www.youtube.com/watch?v=BXaNy3ByFHM",
+      "video_id": "BXaNy3ByFHM",
+      "thumbnail": "https://img.youtube.com/vi/BXaNy3ByFHM/mqdefault.jpg",
+      "datum": "2026-11-22T08:36:40Z",
+      "datum_de": "22.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Ismajl Pukaj | KI Agentur",
+      "titel": "Gemini 4 Neon: Google hat Fable eingeholt (zum halben Preis)",
+      "link": "https://www.youtube.com/watch?v=0HRNx1IGgF8",
+      "video_id": "0HRNx1IGgF8",
+      "thumbnail": "https://img.youtube.com/vi/0HRNx1IGgF8/mqdefault.jpg",
+      "datum": "2026-11-21T14:45:23Z",
+      "datum_de": "21.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Calvin Hollywood (AI)",
       "titel": "Warum ich GrokBot (&amp;Claude) nutze - Beispiele",
@@ -91,66 +151,6 @@
       "datum": "2026-11-19T15:37:40Z",
       "datum_de": "19.11.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "ZeldoReacts",
-      "titel": "Gemini 4 Neon ist da: Darum ist es Googles wichtigstes Modell!",
-      "link": "https://www.youtube.com/watch?v=jZCrdYEGJq8",
-      "video_id": "jZCrdYEGJq8",
-      "thumbnail": "https://img.youtube.com/vi/jZCrdYEGJq8/mqdefault.jpg",
-      "datum": "2026-11-19T15:29:47Z",
-      "datum_de": "19.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sacha Lachat- KI im Blick",
-      "titel": "Modul 2 | KI Grundkurs für Anfänger:  Wie Wo Was mach ich in meinem ChatGPT?",
-      "link": "https://www.youtube.com/watch?v=57YbNED8xYQ",
-      "video_id": "57YbNED8xYQ",
-      "thumbnail": "https://img.youtube.com/vi/57YbNED8xYQ/mqdefault.jpg",
-      "datum": "2026-11-19T10:15:28Z",
-      "datum_de": "19.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "PaperOffice AI Deutsch",
-      "titel": "Claude hat 6 Dokumente geprüft. Dann hieß es: „Zahlung anhalten.“ (Agentic RAG erklärt)",
-      "link": "https://www.youtube.com/watch?v=MOq0YxIWXWM",
-      "video_id": "MOq0YxIWXWM",
-      "thumbnail": "https://img.youtube.com/vi/MOq0YxIWXWM/mqdefault.jpg",
-      "datum": "2026-11-18T17:22:24Z",
-      "datum_de": "18.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Agenten Insider | GrokBot & Automation DE",
-      "titel": "Agent steckt fest? So meldet ein KI-Agent Blockaden – statt zu tricksen (Statusbericht &amp; Freigabe)",
-      "link": "https://www.youtube.com/watch?v=1c31J1NmvLQ",
-      "video_id": "1c31J1NmvLQ",
-      "thumbnail": "https://img.youtube.com/vi/1c31J1NmvLQ/mqdefault.jpg",
-      "datum": "2026-11-18T17:02:37Z",
-      "datum_de": "18.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Kiwi II",
-      "titel": "L&#39;étrange incident d&#39;OpenAI qui n&#39;aurait jamais dû arriver.",
-      "link": "https://www.youtube.com/watch?v=LNliFhrsAbY",
-      "video_id": "LNliFhrsAbY",
-      "thumbnail": "https://img.youtube.com/vi/LNliFhrsAbY/mqdefault.jpg",
-      "datum": "2026-11-18T16:30:15Z",
-      "datum_de": "18.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Hör auf Claude Code wie 2025 zu benutzen - mach besser das...",
-      "link": "https://www.youtube.com/watch?v=8mryzRMKa-I",
-      "video_id": "8mryzRMKa-I",
-      "thumbnail": "https://img.youtube.com/vi/8mryzRMKa-I/mqdefault.jpg",
-      "datum": "2026-11-18T16:15:20+00:00",
-      "datum_de": "18.11.2026",
-      "quelle": "kanal"
     }
   ]
 }
