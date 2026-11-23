@@ -1,7 +1,77 @@
 {
-  "aktualisiert": "2026-11-22T15:10:38.620702+00:00",
+  "aktualisiert": "2026-11-23T19:07:48.949447+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Jonas Keil",
+      "titel": "Die 5 Claude-Funktionen, die du für deinen Job kennen musst",
+      "link": "https://www.youtube.com/watch?v=H6F-80Mk_pk",
+      "video_id": "H6F-80Mk_pk",
+      "thumbnail": "https://img.youtube.com/vi/H6F-80Mk_pk/mqdefault.jpg",
+      "datum": "2026-11-23T17:19:50Z",
+      "datum_de": "23.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "So baust du mit KI eine echte App!",
+      "link": "https://www.youtube.com/watch?v=igeYUa8TBlc",
+      "video_id": "igeYUa8TBlc",
+      "thumbnail": "https://img.youtube.com/vi/igeYUa8TBlc/mqdefault.jpg",
+      "datum": "2026-11-23T16:00:17+00:00",
+      "datum_de": "23.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Akademie4KI",
+      "titel": "Die nächste Generation der KI-Agenten - Personal Agents erklärt",
+      "link": "https://www.youtube.com/watch?v=NOWlKnhgEOA",
+      "video_id": "NOWlKnhgEOA",
+      "thumbnail": "https://img.youtube.com/vi/NOWlKnhgEOA/mqdefault.jpg",
+      "datum": "2026-11-23T13:00:14+00:00",
+      "datum_de": "23.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Außen hui, aber innen...",
+      "link": "https://www.youtube.com/watch?v=fuTMXeEZUaU",
+      "video_id": "fuTMXeEZUaU",
+      "thumbnail": "https://img.youtube.com/vi/fuTMXeEZUaU/mqdefault.jpg",
+      "datum": "2026-11-23T11:05:16+00:00",
+      "datum_de": "23.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "AI Ticker",
+      "titel": "KI ohne Auftrag: Was Claude 30 Stunden allein auf einer Insel tat (MIT-Studie)",
+      "link": "https://www.youtube.com/watch?v=7455Byapyus",
+      "video_id": "7455Byapyus",
+      "thumbnail": "https://img.youtube.com/vi/7455Byapyus/mqdefault.jpg",
+      "datum": "2026-11-22T16:54:18Z",
+      "datum_de": "22.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Bevor du teure KI Hardware kaufst - Schau unbedingt dieses Video",
+      "link": "https://www.youtube.com/watch?v=XiCqeWhH_kg",
+      "video_id": "XiCqeWhH_kg",
+      "thumbnail": "https://img.youtube.com/vi/XiCqeWhH_kg/mqdefault.jpg",
+      "datum": "2026-11-22T16:15:05+00:00",
+      "datum_de": "22.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Shakeela ZQ",
+      "titel": "So nutzt du Claude Skills wie ein Profi | Claude Skills Workflow Deutsch",
+      "link": "https://www.youtube.com/watch?v=LzM8pLBtVQw",
+      "video_id": "LzM8pLBtVQw",
+      "thumbnail": "https://img.youtube.com/vi/LzM8pLBtVQw/mqdefault.jpg",
+      "datum": "2026-11-22T16:00:20Z",
+      "datum_de": "22.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Max Kunschmann",
       "titel": "Claude für Anfänger: Mein Kompletter Einstieg",
@@ -33,6 +103,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "Tinus Klauser",
+      "titel": "TikTok Kurs für Anfänger: 8 Schritte mit Claude Code",
+      "link": "https://www.youtube.com/watch?v=bWRTQjcsLls",
+      "video_id": "bWRTQjcsLls",
+      "thumbnail": "https://img.youtube.com/vi/bWRTQjcsLls/mqdefault.jpg",
+      "datum": "2026-11-22T11:00:30Z",
+      "datum_de": "22.11.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Everlast AI",
       "titel": "Damit habe ich nicht gerechnet: Gemini \"Neon\" SCHLÄGT GPT-6.2! + Anthropic Rekord-IPO | KI-NEWS",
       "link": "https://www.youtube.com/watch?v=kqa9fPVYNxg",
@@ -53,6 +133,16 @@
       "quelle": "suche"
     },
     {
+      "kanal": "KI Agenten Insider | GrokBot & Automation DE",
+      "titel": "Dein KI-Agent klickt selbst: So bedient er Webseiten im eigenen Browser – und wo er stoppt",
+      "link": "https://www.youtube.com/watch?v=NM-8oh3d3fc",
+      "video_id": "NM-8oh3d3fc",
+      "thumbnail": "https://img.youtube.com/vi/NM-8oh3d3fc/mqdefault.jpg",
+      "datum": "2026-11-21T17:02:26Z",
+      "datum_de": "21.11.2026",
+      "quelle": "suche"
+    },
+    {
       "kanal": "Ismajl Pukaj | KI Agentur",
       "titel": "Gemini 4 Neon: Google hat Fable eingeholt (zum halben Preis)",
       "link": "https://www.youtube.com/watch?v=0HRNx1IGgF8",
@@ -60,96 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/0HRNx1IGgF8/mqdefault.jpg",
       "datum": "2026-11-21T14:45:23Z",
       "datum_de": "21.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Calvin Hollywood (AI)",
-      "titel": "Warum ich GrokBot (&amp;Claude) nutze - Beispiele",
-      "link": "https://www.youtube.com/watch?v=YYC7Eex8Xlw",
-      "video_id": "YYC7Eex8Xlw",
-      "thumbnail": "https://img.youtube.com/vi/YYC7Eex8Xlw/mqdefault.jpg",
-      "datum": "2026-11-21T10:29:51Z",
-      "datum_de": "21.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Agenten Insider | GrokBot & Automation DE",
-      "titel": "Versteckte Befehle in Mails &amp; Webseiten: Warum ein KI-Agent nur auf dich hört (Prompt-Injection)",
-      "link": "https://www.youtube.com/watch?v=T9B8cTKJNdA",
-      "video_id": "T9B8cTKJNdA",
-      "thumbnail": "https://img.youtube.com/vi/T9B8cTKJNdA/mqdefault.jpg",
-      "datum": "2026-11-20T17:02:15Z",
-      "datum_de": "20.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Gemini 4 Neon in Antigravity getestet: Damit hat niemand gerechnet!",
-      "link": "https://www.youtube.com/watch?v=OzerCr3IHhY",
-      "video_id": "OzerCr3IHhY",
-      "thumbnail": "https://img.youtube.com/vi/OzerCr3IHhY/mqdefault.jpg",
-      "datum": "2026-11-20T15:32:45Z",
-      "datum_de": "20.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "The Future of AI Video Won’t Look Like Video | Victor Riparbelli, Synthesia",
-      "link": "https://www.youtube.com/watch?v=NPl2AABGB-U",
-      "video_id": "NPl2AABGB-U",
-      "thumbnail": "https://img.youtube.com/vi/NPl2AABGB-U/mqdefault.jpg",
-      "datum": "2026-11-20T11:00:37+00:00",
-      "datum_de": "20.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "KIwi – KI einfach erklärt",
-      "titel": "Hermes Agent Deutsch: Installieren &amp; einrichten – lokal mit Ollama",
-      "link": "https://www.youtube.com/watch?v=CcBTV5XYBaw",
-      "video_id": "CcBTV5XYBaw",
-      "thumbnail": "https://img.youtube.com/vi/CcBTV5XYBaw/mqdefault.jpg",
-      "datum": "2026-11-19T19:27:01Z",
-      "datum_de": "19.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Aleksei Goferman",
-      "titel": "KI-Video ohne Prompting: In 4 Schritten zum fertigen Clip | Claude + Higgsfield Tutorial (Deutsch)",
-      "link": "https://www.youtube.com/watch?v=vm97Jin32H8",
-      "video_id": "vm97Jin32H8",
-      "thumbnail": "https://img.youtube.com/vi/vm97Jin32H8/mqdefault.jpg",
-      "datum": "2026-11-19T17:50:17Z",
-      "datum_de": "19.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "SpeechGenAI Deutsch",
-      "titel": "Videos mit Claude erstellen: 30 Stile und fertige Prompts",
-      "link": "https://www.youtube.com/watch?v=u1bIrFyLR7o",
-      "video_id": "u1bIrFyLR7o",
-      "thumbnail": "https://img.youtube.com/vi/u1bIrFyLR7o/mqdefault.jpg",
-      "datum": "2026-11-19T16:58:54Z",
-      "datum_de": "19.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Der Vater der KI: Was KI bald kann, wird keiner glauben! DAS passiert nach AGI (Jürgen Schmidhuber)",
-      "link": "https://www.youtube.com/watch?v=dvcxM2aHKGY",
-      "video_id": "dvcxM2aHKGY",
-      "thumbnail": "https://img.youtube.com/vi/dvcxM2aHKGY/mqdefault.jpg",
-      "datum": "2026-11-19T16:15:30+00:00",
-      "datum_de": "19.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "AI Ticker",
-      "titel": "Fable 5.5 unter neuem Namen?! Gestalt schlägt ALLES + GPT-6.2 &amp; Gemini 4 Neon",
-      "link": "https://www.youtube.com/watch?v=PBZ51xZP5J8",
-      "video_id": "PBZ51xZP5J8",
-      "thumbnail": "https://img.youtube.com/vi/PBZ51xZP5J8/mqdefault.jpg",
-      "datum": "2026-11-19T15:37:40Z",
-      "datum_de": "19.11.2026",
       "quelle": "suche"
     }
   ]
