@@ -1,7 +1,67 @@
 {
-  "aktualisiert": "2026-11-23T19:07:48.949447+00:00",
+  "aktualisiert": "2026-11-24T18:46:10.447097+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI entwirft jetzt ihre eigenen Chips und es ist das Ende der Elektronik",
+      "link": "https://www.youtube.com/watch?v=lSQpmfuFyVc",
+      "video_id": "lSQpmfuFyVc",
+      "thumbnail": "https://img.youtube.com/vi/lSQpmfuFyVc/mqdefault.jpg",
+      "datum": "2026-11-24T16:15:19+00:00",
+      "datum_de": "24.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Bei dieser Lücke kommt NUR Javas Exception zu spät",
+      "link": "https://www.youtube.com/watch?v=tlc9Du14vDs",
+      "video_id": "tlc9Du14vDs",
+      "thumbnail": "https://img.youtube.com/vi/tlc9Du14vDs/mqdefault.jpg",
+      "datum": "2026-11-24T16:06:51+00:00",
+      "datum_de": "24.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Deutsch Aktiv",
+      "titel": "Napi 15 perc német ChatGPT-vel – így tanulj okosan!",
+      "link": "https://www.youtube.com/watch?v=B0gV377mN1k",
+      "video_id": "B0gV377mN1k",
+      "thumbnail": "https://img.youtube.com/vi/B0gV377mN1k/mqdefault.jpg",
+      "datum": "2026-11-24T15:00:16Z",
+      "datum_de": "24.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "ARTOUNIS",
+      "titel": "KI-Agent statt Fleißarbeit: Dein erster KI-Mitarbeiter in 5 Minuten erklärt",
+      "link": "https://www.youtube.com/watch?v=i0EIK4Bieyk",
+      "video_id": "i0EIK4Bieyk",
+      "thumbnail": "https://img.youtube.com/vi/i0EIK4Bieyk/mqdefault.jpg",
+      "datum": "2026-11-24T11:37:52Z",
+      "datum_de": "24.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Kris • AI2ROI",
+      "titel": "KI-Agenten, die sich selbst verbessern (Stanford-Methode)",
+      "link": "https://www.youtube.com/watch?v=Vaa0Wr-yWC8",
+      "video_id": "Vaa0Wr-yWC8",
+      "thumbnail": "https://img.youtube.com/vi/Vaa0Wr-yWC8/mqdefault.jpg",
+      "datum": "2026-11-24T07:54:21Z",
+      "datum_de": "24.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Unterm Strich",
+      "titel": "KI-Agent, der für dich tradet: So baust du ihn Schritt für Schritt (21 € im Monat)",
+      "link": "https://www.youtube.com/watch?v=hSkwDRAlsuM",
+      "video_id": "hSkwDRAlsuM",
+      "thumbnail": "https://img.youtube.com/vi/hSkwDRAlsuM/mqdefault.jpg",
+      "datum": "2026-11-24T07:03:53Z",
+      "datum_de": "24.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Jonas Keil",
       "titel": "Die 5 Claude-Funktionen, die du für deinen Job kennen musst",
@@ -43,18 +103,8 @@
       "quelle": "kanal"
     },
     {
-      "kanal": "AI Ticker",
-      "titel": "KI ohne Auftrag: Was Claude 30 Stunden allein auf einer Insel tat (MIT-Studie)",
-      "link": "https://www.youtube.com/watch?v=7455Byapyus",
-      "video_id": "7455Byapyus",
-      "thumbnail": "https://img.youtube.com/vi/7455Byapyus/mqdefault.jpg",
-      "datum": "2026-11-22T16:54:18Z",
-      "datum_de": "22.11.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Sascha Taschan",
-      "titel": "Bevor du teure KI Hardware kaufst - Schau unbedingt dieses Video",
+      "titel": "Bevor du KI Hardware kaufst - Schau unbedingt dieses Video",
       "link": "https://www.youtube.com/watch?v=XiCqeWhH_kg",
       "video_id": "XiCqeWhH_kg",
       "thumbnail": "https://img.youtube.com/vi/XiCqeWhH_kg/mqdefault.jpg",
@@ -83,16 +133,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "ToolVibes",
-      "titel": "n8n Agents: Workflows, Freigabe, Skills und Zeitplan | n8n Tutorial Deutsch",
-      "link": "https://www.youtube.com/watch?v=pPgwHUglFqo",
-      "video_id": "pPgwHUglFqo",
-      "thumbnail": "https://img.youtube.com/vi/pPgwHUglFqo/mqdefault.jpg",
-      "datum": "2026-11-22T13:09:18Z",
-      "datum_de": "22.11.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "iamfinn",
       "titel": "Claude KI Tutorial Deutsch: Für Anfänger in 5 Minuten erklärt (2026)",
       "link": "https://www.youtube.com/watch?v=iWdRdc4KWg4",
@@ -110,46 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/bWRTQjcsLls/mqdefault.jpg",
       "datum": "2026-11-22T11:00:30Z",
       "datum_de": "22.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Everlast AI",
-      "titel": "Damit habe ich nicht gerechnet: Gemini \"Neon\" SCHLÄGT GPT-6.2! + Anthropic Rekord-IPO | KI-NEWS",
-      "link": "https://www.youtube.com/watch?v=kqa9fPVYNxg",
-      "video_id": "kqa9fPVYNxg",
-      "thumbnail": "https://img.youtube.com/vi/kqa9fPVYNxg/mqdefault.jpg",
-      "datum": "2026-11-22T09:42:23+00:00",
-      "datum_de": "22.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "ToolVibes",
-      "titel": "E-Rechnung 2027: XRechnung lesen mit n8n, ohne KI | n8n Tutorial Deutsch",
-      "link": "https://www.youtube.com/watch?v=BXaNy3ByFHM",
-      "video_id": "BXaNy3ByFHM",
-      "thumbnail": "https://img.youtube.com/vi/BXaNy3ByFHM/mqdefault.jpg",
-      "datum": "2026-11-22T08:36:40Z",
-      "datum_de": "22.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "KI Agenten Insider | GrokBot & Automation DE",
-      "titel": "Dein KI-Agent klickt selbst: So bedient er Webseiten im eigenen Browser – und wo er stoppt",
-      "link": "https://www.youtube.com/watch?v=NM-8oh3d3fc",
-      "video_id": "NM-8oh3d3fc",
-      "thumbnail": "https://img.youtube.com/vi/NM-8oh3d3fc/mqdefault.jpg",
-      "datum": "2026-11-21T17:02:26Z",
-      "datum_de": "21.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Ismajl Pukaj | KI Agentur",
-      "titel": "Gemini 4 Neon: Google hat Fable eingeholt (zum halben Preis)",
-      "link": "https://www.youtube.com/watch?v=0HRNx1IGgF8",
-      "video_id": "0HRNx1IGgF8",
-      "thumbnail": "https://img.youtube.com/vi/0HRNx1IGgF8/mqdefault.jpg",
-      "datum": "2026-11-21T14:45:23Z",
-      "datum_de": "21.11.2026",
       "quelle": "suche"
     }
   ]
