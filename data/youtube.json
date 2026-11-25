@@ -1,7 +1,77 @@
 {
-  "aktualisiert": "2026-11-24T18:46:10.447097+00:00",
+  "aktualisiert": "2026-11-25T17:53:39.741658+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "ZELDOgiq",
+      "titel": "Gemini 4 Neon: Seine beste Fähigkeit ist stärker, als wir alle denken!",
+      "link": "https://www.youtube.com/watch?v=Tsdo-35GmmQ",
+      "video_id": "Tsdo-35GmmQ",
+      "thumbnail": "https://img.youtube.com/vi/Tsdo-35GmmQ/mqdefault.jpg",
+      "datum": "2026-11-25T17:24:40Z",
+      "datum_de": "25.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Lang | Claude Code & KI im Unternehmen",
+      "titel": "Claude Skills: In 5 Minuten zum ersten eigenen Skill (ohne Programmieren)",
+      "link": "https://www.youtube.com/watch?v=FQYzn6U-PgQ",
+      "video_id": "FQYzn6U-PgQ",
+      "thumbnail": "https://img.youtube.com/vi/FQYzn6U-PgQ/mqdefault.jpg",
+      "datum": "2026-11-25T16:23:04Z",
+      "datum_de": "25.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Sascha Taschan",
+      "titel": "Meine Lieblings Grok Bot  Use Cases fürs Business ",
+      "link": "https://www.youtube.com/watch?v=6Cu24kbXJJA",
+      "video_id": "6Cu24kbXJJA",
+      "thumbnail": "https://img.youtube.com/vi/6Cu24kbXJJA/mqdefault.jpg",
+      "datum": "2026-11-25T16:15:17+00:00",
+      "datum_de": "25.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "KI wird euer neuer Browser 🌐",
+      "link": "https://www.youtube.com/shorts/TGQYnnvpABg",
+      "video_id": "TGQYnnvpABg",
+      "thumbnail": "https://img.youtube.com/vi/TGQYnnvpABg/mqdefault.jpg",
+      "datum": "2026-11-25T15:59:40+00:00",
+      "datum_de": "25.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Morpheus Tutorials",
+      "titel": "Wtf Google, wie?",
+      "link": "https://www.youtube.com/watch?v=Do6rgHkhyyk",
+      "video_id": "Do6rgHkhyyk",
+      "thumbnail": "https://img.youtube.com/vi/Do6rgHkhyyk/mqdefault.jpg",
+      "datum": "2026-11-25T14:54:45+00:00",
+      "datum_de": "25.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Christoph Magnussen",
+      "titel": "Würdet ihr der KI euer Geld geben? 💳",
+      "link": "https://www.youtube.com/shorts/j54lMS3UOcE",
+      "video_id": "j54lMS3UOcE",
+      "thumbnail": "https://img.youtube.com/vi/j54lMS3UOcE/mqdefault.jpg",
+      "datum": "2026-11-25T09:00:47+00:00",
+      "datum_de": "25.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "Lisa Zachmann",
+      "titel": "Claude Fable 5.2 im Test: Marketing komplett mit KI (deutsch)",
+      "link": "https://www.youtube.com/watch?v=ImRkBPYgqTs",
+      "video_id": "ImRkBPYgqTs",
+      "thumbnail": "https://img.youtube.com/vi/ImRkBPYgqTs/mqdefault.jpg",
+      "datum": "2026-11-24T22:33:11Z",
+      "datum_de": "24.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Everlast AI",
       "titel": "KI entwirft jetzt ihre eigenen Chips und es ist das Ende der Elektronik",
@@ -29,6 +99,16 @@
       "video_id": "B0gV377mN1k",
       "thumbnail": "https://img.youtube.com/vi/B0gV377mN1k/mqdefault.jpg",
       "datum": "2026-11-24T15:00:16Z",
+      "datum_de": "24.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Björn Sydow - TeachSmarter",
+      "titel": "5 neue Claude-Funktionen, die dir als Lehrer Stunden sparen",
+      "link": "https://www.youtube.com/watch?v=zBibqK-ERDk",
+      "video_id": "zBibqK-ERDk",
+      "thumbnail": "https://img.youtube.com/vi/zBibqK-ERDk/mqdefault.jpg",
+      "datum": "2026-11-24T14:08:24Z",
       "datum_de": "24.11.2026",
       "quelle": "suche"
     },
@@ -70,86 +150,6 @@
       "thumbnail": "https://img.youtube.com/vi/H6F-80Mk_pk/mqdefault.jpg",
       "datum": "2026-11-23T17:19:50Z",
       "datum_de": "23.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Christoph Magnussen",
-      "titel": "So baust du mit KI eine echte App!",
-      "link": "https://www.youtube.com/watch?v=igeYUa8TBlc",
-      "video_id": "igeYUa8TBlc",
-      "thumbnail": "https://img.youtube.com/vi/igeYUa8TBlc/mqdefault.jpg",
-      "datum": "2026-11-23T16:00:17+00:00",
-      "datum_de": "23.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Akademie4KI",
-      "titel": "Die nächste Generation der KI-Agenten - Personal Agents erklärt",
-      "link": "https://www.youtube.com/watch?v=NOWlKnhgEOA",
-      "video_id": "NOWlKnhgEOA",
-      "thumbnail": "https://img.youtube.com/vi/NOWlKnhgEOA/mqdefault.jpg",
-      "datum": "2026-11-23T13:00:14+00:00",
-      "datum_de": "23.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Außen hui, aber innen...",
-      "link": "https://www.youtube.com/watch?v=fuTMXeEZUaU",
-      "video_id": "fuTMXeEZUaU",
-      "thumbnail": "https://img.youtube.com/vi/fuTMXeEZUaU/mqdefault.jpg",
-      "datum": "2026-11-23T11:05:16+00:00",
-      "datum_de": "23.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "Bevor du KI Hardware kaufst - Schau unbedingt dieses Video",
-      "link": "https://www.youtube.com/watch?v=XiCqeWhH_kg",
-      "video_id": "XiCqeWhH_kg",
-      "thumbnail": "https://img.youtube.com/vi/XiCqeWhH_kg/mqdefault.jpg",
-      "datum": "2026-11-22T16:15:05+00:00",
-      "datum_de": "22.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Shakeela ZQ",
-      "titel": "So nutzt du Claude Skills wie ein Profi | Claude Skills Workflow Deutsch",
-      "link": "https://www.youtube.com/watch?v=LzM8pLBtVQw",
-      "video_id": "LzM8pLBtVQw",
-      "thumbnail": "https://img.youtube.com/vi/LzM8pLBtVQw/mqdefault.jpg",
-      "datum": "2026-11-22T16:00:20Z",
-      "datum_de": "22.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Max Kunschmann",
-      "titel": "Claude für Anfänger: Mein Kompletter Einstieg",
-      "link": "https://www.youtube.com/watch?v=70kmAn7TJQU",
-      "video_id": "70kmAn7TJQU",
-      "thumbnail": "https://img.youtube.com/vi/70kmAn7TJQU/mqdefault.jpg",
-      "datum": "2026-11-22T13:29:46Z",
-      "datum_de": "22.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "iamfinn",
-      "titel": "Claude KI Tutorial Deutsch: Für Anfänger in 5 Minuten erklärt (2026)",
-      "link": "https://www.youtube.com/watch?v=iWdRdc4KWg4",
-      "video_id": "iWdRdc4KWg4",
-      "thumbnail": "https://img.youtube.com/vi/iWdRdc4KWg4/mqdefault.jpg",
-      "datum": "2026-11-22T12:55:01Z",
-      "datum_de": "22.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Tinus Klauser",
-      "titel": "TikTok Kurs für Anfänger: 8 Schritte mit Claude Code",
-      "link": "https://www.youtube.com/watch?v=bWRTQjcsLls",
-      "video_id": "bWRTQjcsLls",
-      "thumbnail": "https://img.youtube.com/vi/bWRTQjcsLls/mqdefault.jpg",
-      "datum": "2026-11-22T11:00:30Z",
-      "datum_de": "22.11.2026",
       "quelle": "suche"
     }
   ]
