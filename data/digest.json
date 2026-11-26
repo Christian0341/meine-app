@@ -1,7 +1,7 @@
 {
-  "datum": "Mittwoch, 25. November 2026",
-  "datumISO": "2026-11-25",
-  "tagesthema": "Neue KI-Modelle und strategische Integrationen dominieren die Schlagzeilen, während ethische und regulatorische Herausforderungen weiterhin im Fokus stehen.",
+  "datum": "Donnerstag, 26. November 2026",
+  "datumISO": "2026-11-26",
+  "tagesthema": "Der heutige KI-News Digest beleuchtet die Herausforderungen der Regulierung, wichtige Unternehmensstrategien und neue Produktentwicklungen, während Bedenken bezüglich Verbraucherschutz und Datensicherheit in den Vordergrund rücken.",
   "kategorien": [
     {
       "emoji": "🚀",
@@ -9,35 +9,27 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "OpenAI veröffentlicht GPT-6.2 für ChatGPT",
-          "zusammenfassung": "OpenAI hat GPT-6.2 für seinen populären Chatbot ChatGPT veröffentlicht. Das Update verspricht verbesserte Sprachfähigkeiten und Effizienz, was die Interaktion für Nutzer noch flüssiger und präziser gestalten soll.",
+          "titel": "Anthropic baut Model Context Protocol (MCP) für autonomere KI-Agenten aus",
+          "zusammenfassung": "Anthropic erweitert sein Model Context Protocol (MCP), um die Autonomie von KI-Agenten weiter zu verbessern. Dieses Protokoll ermöglicht es KI-Modellen, komplexere Aufgaben eigenständiger zu bewältigen und sich besser an neue Situationen anzupassen. Die Entwicklung zielt darauf ab, die Leistungsfähigkeit und Anwendungsbereiche von KI-Agenten signifikant zu erweitern.",
           "einordnung": "",
-          "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObnYtTnIwRlpnQ1RmblFzN3JNZzczN2RxMWJXUlJJeDlrY2ZvQnVqN0VPc0Z6czl0SHpPLUQ1YkFMWi14UkJ4OWFGZ3MyLWVsTndwMW5tMDV0WE03N3pwOHBHaGhMTlYwTVBrUWoxX1I5U2p0eHdNRjFhalhCOE80dGhnc2FLNEZZYkRN?oc=5",
-          "sterne": "⭐⭐⭐"
-        },
-        {
-          "titel": "KI-Code schneller prüfen und freigeben: Was Entwickler jetzt über Claude Ship wissen müssen",
-          "zusammenfassung": "Claude Ship ist ein neues Tool von Anthropic, das Entwicklern helfen soll, KI-generierten Code schneller zu prüfen und freizugeben. Es verspricht eine Effizienzsteigerung im Softwareentwicklungsprozess durch automatisierte Code-Analyse.",
-          "einordnung": "",
-          "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTWw3MVdfYnZsUFhraUV2bzdfMmV3ajVjaFNDQnoyTjBWeHBjNnhLM2VIQkJPdjdYRjRqTWtHdzFjSXRzVDc3OTF2c1h3NlRnOUloN3VBLVhZN2pGU0VwYXNIakRBY01WZlROZlc2eVFzTnJ5WV91YXF6S2pReEJmbnV2OGNXT2hLVTdiLXVRblZQdUUtWnk3YjNxSm1yRU9wRWpj?oc=5",
+          "quelle": "The Decoder",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUc4RVBheGR3eGZCZGs4Q1JBeHhzZVZGWlNDMzdXNUpURU9CMmwxWjg2am9RZGY4WXF3d0llTGZOMUx2Q3VYYTA0OGZZeGRuQ0dOOG0tZGp2djRNY0Zxb0dsMENQSTh0MlBMQWE3RHEtNEhpMjdlMWtidW1ndXZ1UVl4d3B5clZ3THBwMTBjZGdPS1o0TzRr?oc=5",
           "sterne": "⭐⭐"
         },
         {
           "titel": "Google führt eine neue Suchseite mit KI-Seitenleiste ohne Suchbutton ein",
-          "zusammenfassung": "Google rollt eine überarbeitete Suchseite aus, die eine prominente KI-Seitenleiste integriert und den traditionellen Suchbutton entfernt. Diese Neuerung deutet auf eine tiefere Integration von KI in die Kernfunktionen der Google-Suche hin, mit Fokus auf kontextbezogene Antworten.",
+          "zusammenfassung": "Google hat eine neu gestaltete Suchseite eingeführt, die eine integrierte KI-Seitenleiste bietet und den traditionellen Suchbutton überflüssig macht. Diese Änderung signalisiert eine tiefere Integration von KI in die Kernfunktionen der Suchmaschine, um Nutzern intuitivere und kontextbezogenere Ergebnisse zu liefern. Die Neuerung könnte die Art und Weise, wie wir Informationen suchen, grundlegend verändern.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS2JDcGpIWVBUZWJ6ZVZPZFNMVWZwRVczdUF1X2M0aFc1dUVuUDZuSDRTWWhvdm5qdlFSY3pxcUFLVjI5OVlXdWxacExyRHlmTjFoRHg5Z3N4ZWJCQ1BTdUcwNFFsZEdOUDZaTEpDVjZnMy1MUGFQWVFCTHJuOVN2SmtmT09DOFJLNzk1Um0wUExmVDRNcHVJQnFGT1JvOU1URGZfX0tWVzJubFhkaFhrLWl0dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS2JDcGpIWVBUZWJ6ZVZPZFNMVWZwRVczdUF1X2M0aFc1dUVuUDZuSDRTWWhvdm5qdlFSY3pxcUFLVjI5OVlXdWxacExyRHlmTjFoRHg5Z3N4ZWJCQ1BTdUcwNFFsZEdOUDZaTEpDVjZnMy1MUGFQWVFCTHJuOVN2SmtmT09DOFJLNzk1Um0wUExmVDRNcHVJQnFGT1JvOU9tVERmX3FLVlcyblhkaFhrLWl0dw?oc=5",
           "sterne": "⭐⭐"
         },
         {
           "titel": "AnythingLLM: Eigene Dokumente mit KI lokal auswerten",
-          "zusammenfassung": "AnythingLLM ermöglicht die lokale Auswertung eigener Dokumente mittels KI, was Datenschutz und Kontrolle über sensible Daten gewährleistet. Das Tool richtet sich an Nutzer, die ihre Informationen nicht an externe Cloud-Dienste senden möchten.",
+          "zusammenfassung": "AnythingLLM ermöglicht die lokale Auswertung eigener Dokumente mittels KI, was Nutzern mehr Kontrolle über ihre Daten und deren Verarbeitung gibt. Diese Lösung bietet eine datenschutzfreundliche Alternative zu cloudbasierten KI-Diensten, indem sie die Verarbeitung sensibler Informationen auf dem eigenen System erlaubt. Es ist ein wichtiger Schritt hin zu mehr Datensouveränität im Umgang mit KI.",
           "einordnung": "",
           "quelle": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXVZSFJOOElhU2NSdndVcjNRdzZJYlVjay03RUhxNWFsd1AtTGRmU3pzdkx1TEhJcVZFMnZQN3dPc1kzenlWQmJHUmZCTklHTXU0U3JUNDJjdmJuYXRJb3pnUGlXUVF1TFljQjdYdTNBSGU1VU9nZ1p0WUJIWjA4VDNVSnNtWHZWLTUyYFF0YXFMQzB3MU9SNm1kZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXVZSFJOOElhU2NSdndVcjNRdzZJYlVjay03RUhxNWFsd1AtTGRmU3pzdkx1TEhJcVZFMnZQN3dPc1kzenlWQmJHUmZCTklHTXU0U3JUNDJjdmJuYXRJb3pnUGlXUVF1TFljQjdYdTNBSGU1VU9nZ1p0WUJIWjA4VDNVSnNtWHZWLTUyaFF0YXFMQzB3MU9SNm1kZw?oc=5",
           "sterne": "⭐⭐"
         }
       ]
@@ -48,36 +40,20 @@
       "fest": true,
       "artikel": [
         {
-          "titel": "Störung bei ChatGPT: Das sagt OpenAI",
-          "zusammenfassung": "ChatGPT erlebte eine Störung, die zu Beeinträchtigungen für Nutzer führte. OpenAI hat sich zu dem Vorfall geäußert und arbeitet an der Behebung der Probleme, um die volle Funktionalität des Dienstes wiederherzustellen.",
+          "titel": "Google AI Pro zum halben Preis am Black Friday",
+          "zusammenfassung": "CHIP berichtet, dass Google sein KI-Abonnement \"Google AI Pro\" am Black Friday zum halben Preis anbietet. Diese Marketingaktion zielt darauf ab, die Verbreitung und Nutzung von Googles fortschrittlichen KI-Diensten zu fördern und neue Abonnenten zu gewinnen. Es zeigt die aggressive Strategie der Unternehmen, sich im hart umkämpften KI-Markt zu positionieren.",
           "einordnung": "",
-          "quelle": "Netzwelt",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZdnFzc3JxMlQxczM0TkJma0p3YzY4N1h5M25pT1hibkpIbTVzLWRianZZWC1fc1lhbWRzMlMwaDNaQkRkVWc1b04xWEtvNDFHb0trTVNydjNqWlVGNjNUdWJ2WkZlbUtOcXg1SVV2MmtZZE5Lcjc0VXVkVlM2QQ?oc=5",
+          "quelle": "CHIP",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbm95b3lTMktRUW1MNzhtRUtyOWl4bk5Fd2ZCRTBvVDBrbnpQRjI2QlI1dEk2bE9MUV95Zzl1ZkpnMllXdDBVTVdwUzVmcXN6dDd1amlvNjJQakNsTjFMWk1oVGtmbGp1MkNpaHdodzlDQ1plZTMxNGxxOFJnYzNnZGZ5VE1rNzQ2TW5zZmJ5YXV2OElZLUZhRTBERjNNQWlhMXdKdFdON19nTkU?oc=5",
           "sterne": "⭐"
         },
         {
-          "titel": "Verklagt: ChatGPT wollte beliebig Preise erhöhen",
-          "zusammenfassung": "OpenAI sieht sich mit einer Klage konfrontiert, da ChatGPT angeblich versuchte, Preise willkürlich zu erhöhen. Dieser Vorfall wirft Fragen bezüglich der Geschäftspraktiken und der Kundenbindung von KI-Anbietern auf.",
-          "einordnung": "",
-          "quelle": "Teltarif",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkxtVE1EMUY4M3ZubWZoYUxZMEFUdmd1TUs5RnRYMF_4M1hYZ1pCQTk3NFBpWldQZWR4SWhzbHFKMjJKMlM4LXNUTURiQWJzRnNvdVlRUTh1c1JSZ2pUeHh1djBMb3FnbS1ueFVzRkVBMWx2ejl0WGFiU0RSYVplUnFsYlM1eUxnN01nZHowRGp2aTZlRUNB?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Google Suche: KI Gemini übernimmt die Startseite",
-          "zusammenfassung": "Google integriert seine KI Gemini umfassend in die Startseite der Google Suche, was eine signifikante Neuausrichtung der Sucherfahrung darstellt. Nutzer sollen direkt von der KI generierte Antworten und personalisierte Inhalte erhalten, anstatt nur Links.",
-          "einordnung": "",
-          "quelle": "BILD",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa3BsbkLmYm10Nnp0cWhMMDdwNE1qNHE5aEZ0UXlzRGw0NTZNTnowd2U2bGtYcllJZy1tNHBiSXU3eDZXcDBmV1dXZGpGQzhNS3dtN2EwUVJJS3dUNmhqTUVsS0txTTJ0di1HSTRSQmptSmlPcnVvaUJHYmIyTUZyOVJLVXNvQ2pPNGVRNmhZZW5qOF9INENyR2NrbFF1bkw3S0JhUTA4LUJ0TjNva05wQjNVZ3g?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
           "titel": "Open-Source-LLMs als Wettbewerbsvorteil: Kontrolle, Compliance und Kosten im Griff?",
-          "zusammenfassung": "Der Artikel diskutiert, wie Open-Source-LLMs Unternehmen einen Wettbewerbsvorteil verschaffen können, indem sie mehr Kontrolle, bessere Compliance und optimierte Kosten bieten. Er beleuchtet die strategischen Vorteile der Nutzung offener KI-Modelle.",
+          "zusammenfassung": "Golem.de untersucht, wie Open-Source Large Language Models (LLMs) Unternehmen einen Wettbewerbsvorteil verschaffen können, insbesondere hinsichtlich Kontrolle, Compliance und Kosten. Der Artikel beleuchtet die strategischen Vorteile der Nutzung quelloffener KI-Modelle, die eine höhere Anpassbarkeit und Transparenz im Vergleich zu proprietären Lösungen bieten. Dies ist relevant für Unternehmen, die ihre KI-Strategie planen.",
           "einordnung": "",
           "quelle": "Golem.de",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzBuU3pMRnloSlZzaU5nczlCYXU1aUprOXRjZHBaTW1LR2haQWdJVWZiWGdRV3k1RzVFWVZnanBCR0dGTFdLb0hDRUNaanhPMXdJUWYyMmc4a3pfLUl0ZEtTU0JIajRRVkdhYWhteDJERHQtV1dfYzlpb004eU1Ba0hnUVFpdFZJd1A0WDNYUU5PQ25WUnJOTjdYUkJGc3U3bFhRMmUwRTctRloxMW5jckdINGVudHhoR29BRWc1bEo?oc=5",
-          "sterne": "⭐⭐"
+          "sterne": "⭐"
         }
       ]
     },
@@ -87,28 +63,36 @@
       "fest": true,
       "artikel": [
         {
+          "titel": "Beim Quantencomputer will die EU den KI-Fehler vermeiden – und schafft dabei neue Bürokratie",
+          "zusammenfassung": "Die EU plant, bei der Regulierung von Quantencomputern aus den Fehlern der KI-Gesetzgebung zu lernen, um eine effektivere und zukunftsfähigere Rahmenordnung zu schaffen. Kritiker befürchten jedoch, dass dieser Ansatz stattdessen zu neuer Bürokratie führen könnte, die Innovationen im Bereich der Quantentechnologie hemmt. Es wird diskutiert, wie ein Gleichgewicht zwischen Regulierung und Förderung gefunden werden kann.",
+          "einordnung": "",
+          "quelle": "WELT",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZDNjQkdsSlRxNFVZdUpuMDdXendiM2FEdjdWbHVscGFld2JMWHFxenVLMnphMTN4RHM1NE5VZDNCaTd5dk5Sc19XMEFLM1RiSWU2SVFLdDdqMVlLZGFvNDZralJOZG9ZaWhJV1FIUnNxNGNseGdBdmJHU1F5STNVY2xuN0xuRnF4MXRMUkZMcDI1RUhuQVg3alBlT3V2bzJGLXRObmRuR2lNR2pCd1hrNGo3dW5oeXI3cU9Hb3M3R0hwalgxejJSWkpsXzZHWUswY2FtMEkwdl9SQU44ZXNQZzBlVWlJNlFXMW5zbEFPTy1aRHRT",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "EU AI Act: Nur jedes vierte Unternehmen hat verbindliche KI-Regeln",
+          "zusammenfassung": "Eine aktuelle Studie zeigt, dass nur ein Viertel der Unternehmen bereits verbindliche interne Regeln zur Einhaltung des EU AI Act implementiert hat. Dies deutet auf eine erhebliche Lücke in der Vorbereitung vieler Firmen auf die bevorstehenden strengen KI-Vorschriften hin. Es besteht dringender Handlungsbedarf, um Compliance-Risiken zu minimieren.",
+          "einordnung": "",
+          "quelle": "BornCity",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanBzT0R1RC1IMFdWdXZaVHViR0llSXM2MG5ibVRQT0Jxa0x4QXRFaWlQazlHa0hqYWh1QjhqdGtRNGppMDJWMWEwdXY4YzFsaUJhVFZMQW1VVmx1dEpmNUthc0cwZnFobTZvdGlWNXJ3M0djWGluNlo4b21rRTkwc3ppeWJtdGZVbTMweFBOZy1oekZVTmg4?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
           "titel": "EU AI Act ausgebremst? Warum Europas KI-Gesetz ins Stocken gerät",
-          "zusammenfassung": "Der EU AI Act, Europas wegweisendes Gesetz zur Regulierung künstlicher Intelligenz, scheint ins Stocken zu geraten. Verzögerungen und Uneinigkeiten unter den Mitgliedstaaten erschweren die finale Umsetzung des ambitionierten Regelwerks.",
+          "zusammenfassung": "Der Deutschlandfunk analysiert die Gründe, warum die Umsetzung des EU AI Act ins Stocken geraten ist. Bürokratische Hürden, unterschiedliche Interessen der Mitgliedstaaten und die Komplexität der Materie werden als Hauptursachen genannt. Dies verzögert die Einführung eines einheitlichen Rechtsrahmens für KI in Europa und wirft Fragen nach der Effektivität der Regulierung auf.",
           "einordnung": "",
           "quelle": "Deutschlandfunk",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Idjl1SFhKemNNd2YwMGpFTlo4TXRMZF9XMkJSSjRHOGJWS2NpTFJSNUc3SnVGNmRDQTF4cjFORUFKT3FlUHRydXNOcGlzOS1sQWVsUkRScWxvWTFNQWdqT2ZxTHJYc1ZaQkhxY0VtVF9QcEI0VDhtOEtn?oc=5",
           "sterne": "⭐⭐"
         },
         {
-          "titel": "Interview: Zwei Jahre nach Inkrafttreten des EU AI Acts",
-          "zusammenfassung": "Ein Interview mit PwC beleuchtet die Auswirkungen des EU AI Acts zwei Jahre nach seinem Inkrafttreten. Es werden Herausforderungen und erste Erfahrungen in der Praxis diskutiert, insbesondere im Hinblick auf Compliance und Innovation.",
+          "titel": "GESAC und Holzmüller werten EU-Rats-Vorstoß als „wichtiges Signal“ in Sachen KI-Regulierung",
+          "zusammenfassung": "Die Organisationen GESAC und Holzmüller begrüßen den jüngsten Vorstoß des EU-Rates zur KI-Regulierung als ein \"wichtiges Signal\" für die Branche. Sie sehen darin einen positiven Schritt zur Schaffung klarer Rahmenbedingungen und zur Förderung eines verantwortungsvollen Einsatzes von KI. Dies zeigt die unterschiedlichen Perspektiven und Erwartungen an die europäische Gesetzgebung.",
           "einordnung": "",
-          "quelle": "PwC",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjFLV2tnYnljOXVKN2hyM0dWYms1RFQxMF9sV1ZjNExMMnY5RklFZTJKUXJMQjg5YUkyVXFYYko3ME4wdHlLNzhSU2tOZE50T1RNNXpQQkV1YU5XcWFJdVJ0OVlrbTlzTlJDUFQ1LWhRYUVCaDZ6VUxfc19mY0RONlE3aTZRYS00MXVMRndxR1UwNE5nQ2IzZ1k0UmdOR1ltSXpkdEQxZ1MwbkxSWG1DZV9B?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Digital Fairness Act: EU plant Zustimmungspflicht für bezahlte KI-Kaufagenten",
-          "zusammenfassung": "Die EU plant im Rahmen des Digital Fairness Acts eine Zustimmungspflicht für bezahlte KI-Kaufagenten einzuführen. Diese Maßnahme soll die Transparenz erhöhen und Verbraucher vor undurchsichtigen Praktiken im KI-gestützten Online-Handel schützen.",
-          "einordnung": "",
-          "quelle": "BornCity",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWjh1WUFqbEVjX0FRS0xIYTlYLUJpMjJsNUlxY0E1cTVBRlFxcVNGZlV4SmFBdW9HM1ZiTXhoQlpSeHZLU19OMDRUeUVTRkpjWERaaHpQMEhDNmZkM0ZkZlh0TmR1azB0bHZuTkplaUo1M2E3Z1dJZTd6WWppVXFHb0pCTTVQVWJvWlVvWTlUQ19CZGtfSVpsbDl4dU1fVDdXX0Fpa29maw?oc=5",
-          "sterne": "⭐⭐"
+          "quelle": "MusikWoche",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWU53YVFiUVpmUEdiZ0tRUkkwS1VRbXEzWHBDMVAyZlE0MGhyalAtUUJ3ZUFfamhYZko3WjN3SWVEQnh5bFEyU3NwYkoyMjF2Unp6YkxHaFprLU8yOXNKaTBubWRjWlc4bVNIaHZNcHdhWWVuUUU3R3ppeEVVVkZQVTFhV2VTSHk2eC1aVEQ4U0VxUEl2REI0cmRMWEtSem04NVlvUjJObWdiU3VGSnhfTFRtVkx1TVFiMzVERzJGVThzN0dmUnZlVlcwUWc4VEk?oc=5",
+          "sterne": "⭐"
         }
       ]
     },
@@ -119,7 +103,7 @@
       "artikel": [
         {
           "titel": "Anthropic-AI Claude knackt Riemannsche Vermutung: Jubel und Sorge",
-          "zusammenfassung": "Die KI Claude von Anthropic soll die Riemannsche Vermutung gelöst haben, ein jahrhundertealtes mathematisches Problem. Diese Nachricht löst sowohl Begeisterung über den wissenschaftlichen Fortschritt als auch Bedenken hinsichtlich der Auswirkungen solcher Durchbrüche aus.",
+          "zusammenfassung": "Die KI Claude von Anthropic soll die Riemannsche Vermutung gelöst haben, eines der größten ungelösten Probleme der Mathematik. Diese bahnbrechende Leistung löst sowohl Begeisterung über die Fähigkeiten von KI als auch Bedenken hinsichtlich der potenziellen Auswirkungen auf die menschliche Forschung und die Gesellschaft aus. Es wird diskutiert, welche weiteren komplexen Probleme KI nun angehen könnte.",
           "einordnung": "",
           "quelle": "Euronews.com",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTk4zNGNoY29zcFJIREk2bmtSazlZM194THVTRXVwb3plYnVNZENUaU5hX1RhTjY4WDZjS3RoTDZvZFFIbjFWRTdGcUpEYW5KQThpQ1JtQXllNkxEVnRES2xLR2d4aUdjaXdjY0FyVE1SdEYzTnViTTMtalFrLVVEQkxES2dvWWtDMTVxMW84d0pkanJaM2xxODdNeTFlQWFm?oc=5",
@@ -127,30 +111,53 @@
         },
         {
           "titel": "KI-Experiment: Anthropic führt KI-Agenten in Versuchung",
-          "zusammenfassung": "Anthropic hat ein Experiment durchgeführt, bei dem KI-Agenten gezielt in Versuchung geführt wurden, um deren ethisches Verhalten zu testen. Die Ergebnisse sollen Aufschluss darüber geben, wie KI-Systeme in moralisch komplexen Situationen reagieren und ob sie manipulierbar sind.",
+          "zusammenfassung": "Anthropic hat ein Experiment durchgeführt, bei dem KI-Agenten gezielt in Versuchung geführt wurden, um deren ethisches Verhalten und ihre Widerstandsfähigkeit gegenüber Manipulation zu testen. Die Ergebnisse sollen Aufschluss darüber geben, wie autonom agierende KIs in kritischen Situationen reagieren und ob sie von ihren ursprünglichen Zielen abweichen können. Dies ist entscheidend für die Entwicklung sichererer und vertrauenswürdigerer KI-Systeme.",
           "einordnung": "",
           "quelle": "heise online",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNazVTVTNvZlJ1Ylk3VEE3SElHUU1WNVRaeS1Rb2dsdEx1OUhvbEpPYktJeDVtd1I3V1FNQjEyUE52R3h5bDlnbl9UVXBpWE9RYWpZaDhvd3BEbVdYUVQ2d0RkTmRJNk1Ja0o4RUpRVi15NmZnTHFudEJDQnVpaW1sUEVOQlU3TDJEcDV0ejNDbUttVE1UY2I1YnhhTQ?oc=5",
           "sterne": "⭐⭐"
+        }
+      ]
+    },
+    {
+      "emoji": "🛒",
+      "titel": "KI & Verbraucherschutz",
+      "fest": false,
+      "artikel": [
+        {
+          "titel": "Vertragskündigung: Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Abo",
+          "zusammenfassung": "Die Verbraucherzentrale hat Klage gegen OpenAI eingereicht, da die Kündigung von ChatGPT-Abonnements für Nutzer unnötig erschwert werde. Dies markiert einen wichtigen Schritt im Verbraucherschutz im Kontext von KI-Diensten und deren Geschäftsmodellen. Die Klage zielt darauf ab, transparentere und einfachere Kündigungsprozesse für digitale Abonnements zu erzwingen.",
+          "einordnung": "",
+          "quelle": "Golem.de",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZzJLZFkweWlpVDZlTmdESDBGbkN1eDFPOEYxV1FrSzNvVzd4ZzVIb1BqYUtNM1dqenh4dFJXLUJDLVhISGI1ZTdoQ2NtTy1pSWR3d3BzNF9KeWJ2S3lsY1ZwUzg4LVJOTDFKWllWQ3hHd0NsaW13MXNGZGZfUmpLeXJNV3pLa1BRVzFKSHRlTGpYMTBzMlV4dTlRdkQ4LVBqT0dxR3V0amgyQXQzaDJOaktwTXRPUQ?oc=5",
+          "sterne": "⭐⭐"
         },
         {
-          "titel": "Large Language Models erklärt: Was sind LLMs?",
-          "zusammenfassung": "Dieser Artikel erklärt grundlegend, was Large Language Models (LLMs) sind und wie sie funktionieren. Er bietet eine Einführung in die Technologie, die hinter vielen aktuellen KI-Anwendungen steckt, und beleuchtet ihre Bedeutung.",
+          "titel": "Wegen ChatGPT-Abos: Verbraucherzentrale verklagt OpenAI",
+          "zusammenfassung": "T3N berichtet ebenfalls über die Klage der Verbraucherzentrale gegen OpenAI bezüglich der Kündigungspraktiken von ChatGPT-Abonnements. Die Klage unterstreicht die Notwendigkeit klarer und fairer Bedingungen für digitale Dienste, insbesondere wenn es um die Beendigung von Verträgen geht. Dies könnte Präzedenzfälle für andere KI-Anbieter schaffen.",
           "einordnung": "",
-          "quelle": "Computerwoche",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzMldHTWJJQWFIVzZwdW41dmdIaEVVd1JjS295Qzd1TXdpRDVMeWNLQmNrQXA1U3pBQzZFUU9GLUhJMHdiSmZiLVBaWTdWa0lIQ29Kd0xfMWZqa2EzenlTV2UzUnBhWjRuSXl3QjZOR1g?oc=5",
-          "sterne": "⭐"
+          "quelle": "T3N",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04Rmx0Q1ZYOUxHaHRjeHZxSVdjR0k3Y0hLdktzQTJyMUgzT0RTWWFGbGZfUGcwNVVMWDhMWmlsN0VwaWFMeXRWYVdLc1JEUTJTV0lFS0lyTUtrT2ZMNTZ5dWJicDhMUVk3ckNZY1hrbmNwQQ?oc=5",
+          "sterne": "⭐⭐"
+        },
+        {
+          "titel": "Verbraucherzentrale klagt: ChatGPT-Abo schnell abgeschlossen, aber schwer gekündigt",
+          "zusammenfassung": "ComputerBase greift die Klage der Verbraucherzentrale gegen OpenAI auf, die sich auf die erschwerte Kündigung von ChatGPT-Abonnements konzentriert. Der Artikel hebt hervor, dass der Abschluss eines Abos oft unkompliziert ist, die Beendigung jedoch unnötige Hürden aufweist. Diese rechtliche Auseinandersetzung könnte weitreichende Folgen für die Gestaltung von Abo-Modellen im KI-Bereich haben.",
+          "einordnung": "",
+          "quelle": "ComputerBase",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNlJJM0ZiNXRrR0R3T1dTbHJFcFh5SXlMYlRYeVdSQjlhYWdCaHFtcF9FSVl6R2QydmZka1AzLUxheWt2MWdrU3JiTVhuNW5mRThzNUtYRTRFVWEtUEFkNUF3dW5DaF9NUGduRG5NMkxjUFFBRk9tdFFmbGRHRWtsOHRodTNEeXZWcGQ3bG54aldrNXk5c0tQUjM1cXpyRmNjU2lPZ296Q2xOc0pUajkzN1VqN3FLcDd2RXpkS1RsS1J4YlMxZzRGWmtZc2kza1k?oc=5",
+          "sterne": "⭐⭐"
         }
       ]
     },
     {
       "emoji": "🛡️",
-      "titel": "KI & Sicherheit",
+      "titel": "KI & Sicherheit & Datenschutz",
       "fest": false,
       "artikel": [
         {
           "titel": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen",
-          "zusammenfassung": "KI-Assistenten, die in verschlüsselte Messenger integriert werden, könnten die Sicherheit der Kommunikation untergraben. Dies wirft Bedenken hinsichtlich des Datenschutzes und der Vertraulichkeit von Nutzerdaten auf, da die KI möglicherweise Zugriff auf Inhalte erhält, die eigentlich geschützt sein sollten.",
+          "zusammenfassung": "Dieser Artikel beleuchtet, wie der Einsatz von KI-Assistenten in verschlüsselten Messengern die Sicherheit und Privatsphäre der Nutzer gefährden kann. Die Integration von KI könnte dazu führen, dass eigentlich geschützte Kommunikationsinhalte für die Analyse durch die KI zugänglich werden. Dies wirft ernste Fragen bezüglich des Datenschutzes und der Integrität verschlüsselter Systeme auf.",
           "einordnung": "",
           "quelle": "Netzpolitik.org",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGxLcnFDNC1ScTh0OG9LcUVMQXFEeXc1NGZ2a0djYmV2c3dVNGVFdXhIVGJzUEkwZzBlZGpMSFVaUHl2N1N0amFldFdDdllzU0lVbXF4TmdBMlBMT0xmSlJaclRtZWt2Wi1PX1lFT2ZpdU9JLWViWGJEYWs0dXFKZUFqSWlhcUt2V2ZHVmU2ajlkZlhic3lCTEpVVFBNWE56dWowS1c4bU9UdnlSaHNmQXd2V0I?oc=5",
@@ -158,39 +165,16 @@
         },
         {
           "titel": "Optimierung versus Datenschutz: Google verknüpft KI-Modus mit Drive, Wallet und Gemini",
-          "zusammenfassung": "Google verknüpft seinen KI-Modus tiefer mit Diensten wie Drive, Wallet und Gemini, um die Nutzererfahrung zu optimieren. Dies wirft jedoch neue Fragen zum Datenschutz auf, da persönliche Daten über verschiedene Plattformen hinweg für KI-Funktionen genutzt werden könnten.",
+          "zusammenfassung": "Google verknüpft seinen KI-Modus mit Diensten wie Drive, Wallet und Gemini, um eine optimierte Nutzererfahrung zu schaffen, was jedoch Datenschutzbedenken aufwirft. Diese Integration ermöglicht personalisiertere Interaktionen, erfordert aber auch den Zugriff auf sensible Nutzerdaten über verschiedene Plattformen hinweg. Es entsteht eine Debatte über den Spagat zwischen Komfort und dem Schutz der Privatsphäre.",
           "einordnung": "",
           "quelle": "t3n",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpc0NCLTdyeFgxTWVLUS1iY0Y1RzVjT0p3VGhPd1hodnN2TzBXMW52MkRoTTNCaXpIRldqZkN3QVJEM0RSbHV6RW5MbkM3Wll4TnpTc3hKb0szVTYzTlBUVmZsUERwcklLMlN3eVVR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpc0NCLTdyeFgxTWVLUS1iY0Y1RzVjT0p3VGhPd1hodnN2TzBXMW52MkRoTTNCaXpIRldqZkN3QVJEM0RSbHV6RW5MbkM3Wll4bnpTc3hKb0szVTYzTlBUVmZsUERwcklLMlN3eVVR?oc=5",
           "sterne": "⭐⭐"
-        }
-      ]
-    },
-    {
-      "emoji": "🌍",
-      "titel": "KI & Gesellschaft",
-      "fest": false,
-      "artikel": [
-        {
-          "titel": "Künstliche Intelligenz: Über ein Drittel der Menschen mit Depression nutzt KI zur Selbsthilfe",
-          "zusammenfassung": "Eine aktuelle Studie zeigt, dass mehr als ein Drittel der Menschen, die an Depressionen leiden, KI-Tools zur Selbsthilfe einsetzen. Dies unterstreicht das wachsende Potenzial von KI im Gesundheitsbereich, wirft aber auch Fragen nach der Wirksamkeit und den ethischen Implikationen auf.",
-          "einordnung": "",
-          "quelle": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM1FxSm1UMW8tZUpnMl9oTE52dW40UHpwZ2lSWm9ZRUdoZFZlV2hzZmtJNVJVWTlzdGotNGZHbWhVT1hxWksxeW1XQkpVVnJLWWJsQkRLSGREeU5TY00xYldsTGZHdXJQQ1NraVZSZVNBWWJNaVlMM00zNTZWMFVGUVF6QmtHb3lGWndJOE8zTmFQYzNPWmNvcTNnbw?oc=5",
-          "sterne": "⭐⭐"
-        },
-        {
-          "titel": "Künstliche Intelligenz: KI macht Laptops und Spielkonsolen teurer",
-          "zusammenfassung": "Die Integration von KI-Funktionen und spezialisierter Hardware treibt die Produktionskosten für Laptops und Spielkonsolen in die Höhe. Verbraucher müssen sich auf steigende Preise einstellen, da die Nachfrage nach leistungsfähigerer KI-Hardware wächst.",
-          "einordnung": "",
-          "quelle": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV29UTnVscllzcjV1d045eTZTSmctTGRkSTJsbjRBdnhjeWdRZlVkODVCaXZfbnZ0WUk1UHViV2o3Ni1jNGFHSGJjN25GY2FHa1E3bWw2NzlsMTVRVW5mSlBJN1dQc2lDSXdQbDVUMmxBajRsQXhlZVVwMUF1YWRPWE04bEIwekVqSXZkVVBoYnV2ZGJPaXhhLXd4aTBIQldMYXQ2NkpHSkV4NVFuTEI2Q01jb004NmxIeHp5eUFjUFg0bWVCU0xQSw?oc=5",
-          "sterne": "⭐"
         }
       ]
     }
   ],
-  "generiert_um": "2026-11-25T10:30:00.000Z",
+  "generiert_um": "2026-11-26T17:00:00.000Z",
   "podcasts": [
     {
       "name": "Heise KI-Update",
@@ -231,9 +215,9 @@
     {
       "name": "KI verstehen · Deutschlandfunk",
       "desc": "Wöchentlich · verständlich erklärt",
-      "episode": "Nvidia vs. Anthropic - Platzt die KI-Blase oder geht der Hype weiter?",
-      "datum": "19.11.2026",
-      "dauer": "38 Min.",
+      "episode": "Gesichtserkennung: Wie die Polizei mit KI nach Personen fahndet",
+      "datum": "26.11.2026",
+      "dauer": "36 Min.",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c6/e3/d6/c6e3d6bd-e018-153d-939e-0aa7c6916b21/0.jpg/100x100bb.jpg",
       "spotify": "https://open.spotify.com/show/0rktSeF3DOjOyk2f0VPFwO"
     },
