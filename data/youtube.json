@@ -1,7 +1,77 @@
 {
-  "aktualisiert": "2026-11-25T17:53:39.741658+00:00",
+  "aktualisiert": "2026-11-26T17:38:49.507918+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Everlast AI",
+      "titel": "KI-Agenten machen jetzt ALLES am Computer! Der Mensch ist der Flaschenhals (Browser Use Interview)",
+      "link": "https://www.youtube.com/watch?v=a-IkqL0b17w",
+      "video_id": "a-IkqL0b17w",
+      "thumbnail": "https://img.youtube.com/vi/a-IkqL0b17w/mqdefault.jpg",
+      "datum": "2026-11-26T16:15:24+00:00",
+      "datum_de": "26.11.2026",
+      "quelle": "kanal"
+    },
+    {
+      "kanal": "KI mit Dennis",
+      "titel": "Google Gemini auf Deutsch: Grundkurs für Anfänger in 12 Schritten",
+      "link": "https://www.youtube.com/watch?v=qiWSVS6IysI",
+      "video_id": "qiWSVS6IysI",
+      "thumbnail": "https://img.youtube.com/vi/qiWSVS6IysI/mqdefault.jpg",
+      "datum": "2026-11-26T16:00:39Z",
+      "datum_de": "26.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Klick für Klick",
+      "titel": "n8n 2.41: Kompletter Kurs — Fortgeschrittene Funktionen",
+      "link": "https://www.youtube.com/watch?v=d6yg63SPyOY",
+      "video_id": "d6yg63SPyOY",
+      "thumbnail": "https://img.youtube.com/vi/d6yg63SPyOY/mqdefault.jpg",
+      "datum": "2026-11-26T16:00:07Z",
+      "datum_de": "26.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Felicia Simon",
+      "titel": "Nie wieder stundenlang Videos schneiden? 🤯 Claude macht&#39;s möglich!",
+      "link": "https://www.youtube.com/watch?v=BeEDfKPCgyc",
+      "video_id": "BeEDfKPCgyc",
+      "thumbnail": "https://img.youtube.com/vi/BeEDfKPCgyc/mqdefault.jpg",
+      "datum": "2026-11-26T15:41:36Z",
+      "datum_de": "26.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "AI-KnowHow",
+      "titel": "Agenten oder Skills? Was Anthropic Entwicklern rät",
+      "link": "https://www.youtube.com/watch?v=pUD4CBBrTts",
+      "video_id": "pUD4CBBrTts",
+      "thumbnail": "https://img.youtube.com/vi/pUD4CBBrTts/mqdefault.jpg",
+      "datum": "2026-11-26T15:20:18Z",
+      "datum_de": "26.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "sanisocialz",
+      "titel": "Die perfekte Claude-Prompt-Formel (in nur 9 Minuten)!",
+      "link": "https://www.youtube.com/watch?v=GHTvVGIQl90",
+      "video_id": "GHTvVGIQl90",
+      "thumbnail": "https://img.youtube.com/vi/GHTvVGIQl90/mqdefault.jpg",
+      "datum": "2026-11-26T09:46:13Z",
+      "datum_de": "26.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Agentenküche",
+      "titel": "KI Agent erstellen ohne Code (Claude + n8n): Angebote in Sekunden",
+      "link": "https://www.youtube.com/watch?v=iuZ9-b_SF7I",
+      "video_id": "iuZ9-b_SF7I",
+      "thumbnail": "https://img.youtube.com/vi/iuZ9-b_SF7I/mqdefault.jpg",
+      "datum": "2026-11-26T00:00:26Z",
+      "datum_de": "26.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "ZELDOgiq",
       "titel": "Gemini 4 Neon: Seine beste Fähigkeit ist stärker, als wir alle denken!",
@@ -24,7 +94,7 @@
     },
     {
       "kanal": "Sascha Taschan",
-      "titel": "Meine Lieblings Grok Bot  Use Cases fürs Business ",
+      "titel": "So macht Grok Bot dein Leben 10x einfacher (6 Use Cases)",
       "link": "https://www.youtube.com/watch?v=6Cu24kbXJJA",
       "video_id": "6Cu24kbXJJA",
       "thumbnail": "https://img.youtube.com/vi/6Cu24kbXJJA/mqdefault.jpg",
@@ -81,76 +151,6 @@
       "datum": "2026-11-24T16:15:19+00:00",
       "datum_de": "24.11.2026",
       "quelle": "kanal"
-    },
-    {
-      "kanal": "Morpheus Tutorials",
-      "titel": "Bei dieser Lücke kommt NUR Javas Exception zu spät",
-      "link": "https://www.youtube.com/watch?v=tlc9Du14vDs",
-      "video_id": "tlc9Du14vDs",
-      "thumbnail": "https://img.youtube.com/vi/tlc9Du14vDs/mqdefault.jpg",
-      "datum": "2026-11-24T16:06:51+00:00",
-      "datum_de": "24.11.2026",
-      "quelle": "kanal"
-    },
-    {
-      "kanal": "Deutsch Aktiv",
-      "titel": "Napi 15 perc német ChatGPT-vel – így tanulj okosan!",
-      "link": "https://www.youtube.com/watch?v=B0gV377mN1k",
-      "video_id": "B0gV377mN1k",
-      "thumbnail": "https://img.youtube.com/vi/B0gV377mN1k/mqdefault.jpg",
-      "datum": "2026-11-24T15:00:16Z",
-      "datum_de": "24.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Björn Sydow - TeachSmarter",
-      "titel": "5 neue Claude-Funktionen, die dir als Lehrer Stunden sparen",
-      "link": "https://www.youtube.com/watch?v=zBibqK-ERDk",
-      "video_id": "zBibqK-ERDk",
-      "thumbnail": "https://img.youtube.com/vi/zBibqK-ERDk/mqdefault.jpg",
-      "datum": "2026-11-24T14:08:24Z",
-      "datum_de": "24.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "ARTOUNIS",
-      "titel": "KI-Agent statt Fleißarbeit: Dein erster KI-Mitarbeiter in 5 Minuten erklärt",
-      "link": "https://www.youtube.com/watch?v=i0EIK4Bieyk",
-      "video_id": "i0EIK4Bieyk",
-      "thumbnail": "https://img.youtube.com/vi/i0EIK4Bieyk/mqdefault.jpg",
-      "datum": "2026-11-24T11:37:52Z",
-      "datum_de": "24.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Kris • AI2ROI",
-      "titel": "KI-Agenten, die sich selbst verbessern (Stanford-Methode)",
-      "link": "https://www.youtube.com/watch?v=Vaa0Wr-yWC8",
-      "video_id": "Vaa0Wr-yWC8",
-      "thumbnail": "https://img.youtube.com/vi/Vaa0Wr-yWC8/mqdefault.jpg",
-      "datum": "2026-11-24T07:54:21Z",
-      "datum_de": "24.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Unterm Strich",
-      "titel": "KI-Agent, der für dich tradet: So baust du ihn Schritt für Schritt (21 € im Monat)",
-      "link": "https://www.youtube.com/watch?v=hSkwDRAlsuM",
-      "video_id": "hSkwDRAlsuM",
-      "thumbnail": "https://img.youtube.com/vi/hSkwDRAlsuM/mqdefault.jpg",
-      "datum": "2026-11-24T07:03:53Z",
-      "datum_de": "24.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Jonas Keil",
-      "titel": "Die 5 Claude-Funktionen, die du für deinen Job kennen musst",
-      "link": "https://www.youtube.com/watch?v=H6F-80Mk_pk",
-      "video_id": "H6F-80Mk_pk",
-      "thumbnail": "https://img.youtube.com/vi/H6F-80Mk_pk/mqdefault.jpg",
-      "datum": "2026-11-23T17:19:50Z",
-      "datum_de": "23.11.2026",
-      "quelle": "suche"
     }
   ]
 }
