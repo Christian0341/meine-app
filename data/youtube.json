@@ -1,7 +1,17 @@
 {
-  "aktualisiert": "2026-11-27T17:21:19.712656+00:00",
+  "aktualisiert": "2026-11-28T16:04:24.134241+00:00",
   "zeitraum_tage": 7,
   "videos": [
+    {
+      "kanal": "Sele‘s KI-Studio",
+      "titel": "KI Tool 02 - Claude: Was kann die KI kostenlos?",
+      "link": "https://www.youtube.com/watch?v=oBaA2q-qqsk",
+      "video_id": "oBaA2q-qqsk",
+      "thumbnail": "https://img.youtube.com/vi/oBaA2q-qqsk/mqdefault.jpg",
+      "datum": "2026-11-28T01:06:18Z",
+      "datum_de": "28.11.2026",
+      "quelle": "suche"
+    },
     {
       "kanal": "Archivalis AI Deutsch",
       "titel": "Einstellungen 1: KI wählen und Gemini-Schlüssel einrichten – Anleitung | Archivalis AI",
@@ -30,6 +40,36 @@
       "thumbnail": "https://img.youtube.com/vi/BaU3xBi1K18/mqdefault.jpg",
       "datum": "2026-11-27T12:58:49Z",
       "datum_de": "27.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Karo Edu",
+      "titel": "No Formulas – Excel Calendar with Holidays in 5 Steps (Claude AI)",
+      "link": "https://www.youtube.com/watch?v=DiRqAmdqwWQ",
+      "video_id": "DiRqAmdqwWQ",
+      "thumbnail": "https://img.youtube.com/vi/DiRqAmdqwWQ/mqdefault.jpg",
+      "datum": "2026-11-27T11:01:19Z",
+      "datum_de": "27.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "KI Agenten Insider | GrokBot & Automation DE",
+      "titel": "Meeting vorbei, und jetzt? Dein KI-Agent macht aus Notizen Protokoll, Aufgaben &amp; Mail-Entwürfe",
+      "link": "https://www.youtube.com/watch?v=NAFb-GePDyg",
+      "video_id": "NAFb-GePDyg",
+      "thumbnail": "https://img.youtube.com/vi/NAFb-GePDyg/mqdefault.jpg",
+      "datum": "2026-11-27T08:51:30Z",
+      "datum_de": "27.11.2026",
+      "quelle": "suche"
+    },
+    {
+      "kanal": "Kevin Welter",
+      "titel": "Claude Code auf Windows installieren: Desktop-App und welches Claude Abo du brauchst | Kurs Teil 1",
+      "link": "https://www.youtube.com/watch?v=eL6brVtqLwc",
+      "video_id": "eL6brVtqLwc",
+      "thumbnail": "https://img.youtube.com/vi/eL6brVtqLwc/mqdefault.jpg",
+      "datum": "2026-11-26T20:38:46Z",
+      "datum_de": "26.11.2026",
       "quelle": "suche"
     },
     {
@@ -83,16 +123,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "Felicia Simon",
-      "titel": "Claude kann jetzt Videos bearbeiten 🤯 so geht&#39;s!",
-      "link": "https://www.youtube.com/watch?v=BeEDfKPCgyc",
-      "video_id": "BeEDfKPCgyc",
-      "thumbnail": "https://img.youtube.com/vi/BeEDfKPCgyc/mqdefault.jpg",
-      "datum": "2026-11-26T15:41:36Z",
-      "datum_de": "26.11.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "🫰Hasnain Tech Skills🫰",
       "titel": "New AI Models Explained | Gemini 4, Claude &amp; ChatGPT — Which Is Best?",
       "link": "https://www.youtube.com/watch?v=3uG1Rv83nog",
@@ -113,16 +143,6 @@
       "quelle": "suche"
     },
     {
-      "kanal": "sanisocialz",
-      "titel": "Die perfekte Claude-Prompt-Formel (in nur 9 Minuten)!",
-      "link": "https://www.youtube.com/watch?v=GHTvVGIQl90",
-      "video_id": "GHTvVGIQl90",
-      "thumbnail": "https://img.youtube.com/vi/GHTvVGIQl90/mqdefault.jpg",
-      "datum": "2026-11-26T09:46:13Z",
-      "datum_de": "26.11.2026",
-      "quelle": "suche"
-    },
-    {
       "kanal": "Agentenküche",
       "titel": "KI Agent erstellen ohne Code (Claude + n8n): Angebote in Sekunden",
       "link": "https://www.youtube.com/watch?v=iuZ9-b_SF7I",
@@ -131,26 +151,6 @@
       "datum": "2026-11-26T00:00:26Z",
       "datum_de": "26.11.2026",
       "quelle": "suche"
-    },
-    {
-      "kanal": "ZELDOgiq",
-      "titel": "Gemini 4 Neon: Seine beste Fähigkeit ist stärker, als wir alle denken!",
-      "link": "https://www.youtube.com/watch?v=Tsdo-35GmmQ",
-      "video_id": "Tsdo-35GmmQ",
-      "thumbnail": "https://img.youtube.com/vi/Tsdo-35GmmQ/mqdefault.jpg",
-      "datum": "2026-11-25T17:24:40Z",
-      "datum_de": "25.11.2026",
-      "quelle": "suche"
-    },
-    {
-      "kanal": "Sascha Taschan",
-      "titel": "So macht Grok Bot deine Arbeit 10x einfacher (6 Use Cases)",
-      "link": "https://www.youtube.com/watch?v=6Cu24kbXJJA",
-      "video_id": "6Cu24kbXJJA",
-      "thumbnail": "https://img.youtube.com/vi/6Cu24kbXJJA/mqdefault.jpg",
-      "datum": "2026-11-25T16:15:17+00:00",
-      "datum_de": "25.11.2026",
-      "quelle": "kanal"
     }
   ]
 }
